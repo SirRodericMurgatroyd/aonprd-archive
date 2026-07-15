@@ -1,0 +1,39 @@
+# Deploys the legacy.aonprd.com mirror (legacy/site/) to GitHub Pages.
+# The sparse, blobless checkout avoids downloading the other ~2.3 GB of
+# archive content just to publish this folder.
+
+name: Deploy legacy mirror to Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "legacy/site/**"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout: legacy/site
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: legacy/site
+      - id: deployment
+        uses: actions/deploy-pages@v4
