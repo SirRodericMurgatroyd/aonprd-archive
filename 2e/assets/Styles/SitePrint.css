@@ -1,0 +1,179 @@
+:root > body {
+    --bg-main: white !important;
+    --bg-0: #bdbdbd !important;
+    --bg-1: #ede3c7 !important;
+    --bg-2: #F4EEE0 !important;
+    --head-bg: transparent !important;
+    --head-fg: black !important;
+    --mid-bg: transparent !important;
+    --mid-fg: black !important;
+    --sub-bg: transparent !important;
+    --sub-fg: black !important;
+    --selected-bg: #769cd7 !important;
+    --selected-fg: #0f0f0f !important;
+    --hovered-bg: #efefef !important;
+    --hovered-fg: black !important;
+    --text-1: black !important;
+    --text-2: black !important;
+    --ext-link: #0000ff !important;
+    --border-1: #DDD !important;
+    --border-2: #9A9A9A !important;
+    --color-scheme: light !important;
+    --header4-bg: transparent !important;
+    --header4-fg: black !important;
+    --header5-bg: transparent !important;
+    --header5-fg: black !important;
+    --header6-bg: transparent !important;
+    --header6-fg: black !important;
+    --title-padding: 4px 1px !important;
+    --sub-padding: 0 1px !important;
+    --border-radius: 0 !important;
+    background: var(--bg-main);
+}
+
+body {
+    padding: 0 !important;
+    margin: 4px !important;
+    color: black !important;
+    font-size: 70% !important;
+}
+
+#main {
+    line-height: 1.4 !important;
+}
+
+.modern-menu-container {
+    display: none !important;
+}
+
+#page > .header,
+#page > .new-navbar {
+    display: none;
+}
+
+#main-wrapper {
+    padding: 0 !important;
+    margin: 0 !important;
+    background-color: white !important;
+}
+
+#main-wrapper > .menutitle {
+    display: none;
+}
+
+#page,
+#main-wrapper {
+    min-height: auto !important;
+}
+
+body #wrapper,
+body:not(.old).modern-menu-always-expanded #wrapper {
+    width: auto !important;
+    max-width: unset;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+body:not(.old).fixedSidebar #wrapper {
+    width: auto !important;
+}
+
+#footer {
+    display: none;
+}
+
+.hide-on-print {
+    display: none !important;
+}
+
+.show-on-print {
+    display: initial !important;
+}
+
+.trait,
+.traitsize,
+.traituncommon,
+.traitrare,
+.traitunique,
+.traitaon,
+.traitalignment {
+    print-color-adjust: exact;
+    font-size: 0.9em !important;
+    padding: 2px 5px !important;
+    line-height: 1.1;
+    margin: 0 0.2em 0 0 !important;
+}
+
+.external-link,
+.link-source {
+    color: inherit !important;
+}
+
+.legacy-content-warning,
+.remaster-content-warning {
+    display: none;
+}
+
+h1.title, .hd-1,
+h2.title, .hd-2,
+h3.title, .hd-3,
+h4.title, .hd-4,
+h5.title, .hd-5,
+h6.title, .hd-6 {
+    padding: 0 !important;
+    margin-left: 0 !important;
+    height: auto !important;
+    min-height: auto !important;
+    border-radius: 0 !important;
+    margin-bottom: 3px !important;
+    line-height: 1.4 !important;
+}
+
+h1.title, .hd-1 {
+    margin-top: 0 !important;
+    font-size: 1.5em !important;
+    border-bottom: 1px solid black;
+}
+
+/* Specific page handling */
+
+.monster-page,
+.hazard-page {
+    text-align: justify;
+}
+
+.monster-page .monster-statblock-name,
+.hazard-page .hazard-statblock-name {
+    background: none !important;
+    color: black !important;
+    padding: 0 !important;
+    font-variant: normal;
+    margin-top: 0 !important;
+    height: auto !important;
+    min-height: auto !important;
+    font-size: 1.2em !important;
+    text-transform: uppercase;
+    border-bottom: 1px solid black;
+    border-radius: 0 !important;
+    margin-bottom: 3px !important;
+    line-height: 1.4 !important;
+    text-align: left;
+}
+
+.monster-page .monster-statblock-name *,
+.hazard-page .hazard-statblock-name * {
+    text-transform: uppercase;
+}
+
+.monster-page .monster-statblock-name span,
+.hazard-page .hazard-statblock-name span {
+    white-space: nowrap;
+}
+
+.monster-page .monster-art-link {
+    display: none;
+}
+
+.monster-page .EWChange * {
+    color: rgb(128, 0, 0) !important;
+}

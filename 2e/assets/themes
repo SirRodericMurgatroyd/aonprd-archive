@@ -1,0 +1,459 @@
+:root > body.bresk_absalom_theme, .theme-gallery > .theme-example.bresk_absalom_theme {
+            --bg-main: #e5e5b3;
+            --bg-0: #cccc7a;
+            --bg-1: #7acccc;
+            --bg-2: #59b2b2;
+            --head-bg: #115959;
+            --head-fg: #ffffff;
+            --mid-bg: #7acccc;
+            --mid-fg: #000000;
+            --sub-bg: #3d9999;
+            --sub-fg: #000000;
+            --selected-bg: #000;
+            --selected-fg: #fff;
+            --hovered-bg: #59b2b2;
+            --hovered-fg: #000000;
+            --text-1: #000000;
+            --text-2: #000000;
+            --ext-link: #003333;
+            --border-1: #f0f4dc;
+            --border-2: #f0f4dc;
+            --color-scheme: light;
+            --header4-bg: #595911;
+            --header4-fg: #ffffff;
+            --header5-bg: #cccc7a;
+            --header5-fg: #000000;
+            --header6-bg: #99993d;
+            --header6-fg: #000000;
+            background: var(--bg-main);
+           }
+
+           html:has(body.bresk_absalom_theme) {
+            color-scheme: light;
+           }
+           body.bresk_absalom_theme .theme-example.bresk_absalom_theme .output::before {content: 'Selected' !important
+}
+
+:root > body.jonny_blackbird_theme, .theme-gallery > .theme-example.jonny_blackbird_theme {
+            --bg-main: #21252b;
+            --bg-0: #21252b;
+            --bg-1: #21252b;
+            --bg-2: #404859;
+            --head-bg: #404859;
+            --head-fg: #cbc5c3;
+            --mid-bg: #404859;
+            --mid-fg: #21252b;
+            --sub-bg: #21252b;
+            --sub-fg: #cbc5c3;
+            --selected-bg: #21252b;
+            --selected-fg: #cbc5c3;
+            --hovered-bg: #333c44;
+            --hovered-fg: #e7e7e7;
+            --text-1: #ededed;
+            --text-2: #cbc5c3;
+            --ext-link: #707271;
+            --border-1: #21252b;
+            --border-2: #21252b;
+            --color-scheme: dark;
+            --header4-bg: #21252b;
+            --header4-fg: #cbc5c3;
+            --header5-bg: #21252b;
+            --header5-fg: #cbc5c3;
+            --header6-bg: #623a6e;
+            --header6-fg: #000000;
+            background: var(--bg-main);
+           }
+
+           html:has(body.jonny_blackbird_theme) {
+            color-scheme: dark;
+           }
+           body.jonny_blackbird_theme .theme-example.jonny_blackbird_theme .output::before {content: 'Selected' !important
+}
+body.jonny_blackbird_theme .title a:link {color:#cbc5c3} 
+body.jonny_blackbird_theme summary.hd-2 {color:#cbc5c3;}
+body.jonny_blackbird_theme #ctl00_RadDrawer1_Content_MainContent_DetailedOutput h2.title {color:#cbc5c3;}
+
+:root > body.cutethulhu_boneyard_theme, .theme-gallery > .theme-example.cutethulhu_boneyard_theme {
+            --bg-main: #0f0f0f;
+            --bg-0: #515151;
+            --bg-1: #2c4456;
+            --bg-2: #15222d;
+            --head-bg: #537c8a;
+            --head-fg: #000000;
+            --mid-bg: #0080c0;
+            --mid-fg: #000000;
+            --sub-bg: #8a8a8a;
+            --sub-fg: #000000;
+            --selected-bg: #000;
+            --selected-fg: #fff;
+            --hovered-bg: #80ffff;
+            --hovered-fg: #000000;
+            --text-1: #bfffff;
+            --text-2: #ffffff;
+            --ext-link: #bbd0d0;
+            --border-1: #363636;
+            --border-2: #224444;
+            --color-scheme: dark;
+            --header4-bg: #8c8cc6;
+            --header4-fg: #000000;
+            --header5-bg: #bdaac6;
+            --header5-fg: #000000;
+            --header6-bg: #695a74;
+            --header6-fg: #000000;
+            background: var(--bg-main);
+           }
+
+           html:has(body.cutethulhu_boneyard_theme) {
+            color-scheme: dark;
+           }
+           body.cutethulhu_boneyard_theme .theme-example.cutethulhu_boneyard_theme .output::before {content: 'Selected' !important
+}
+
+:root > body.star_book-of-the-dead_theme, .theme-gallery > .theme-example.star_book-of-the-dead_theme {
+            --bg-main: #ffffff;
+            --bg-0: #00290e;
+            --bg-1: #74919b;
+            --bg-2: #c3cdce;
+            --head-bg: #482d5a;
+            --head-fg: #e6d8ad;
+            --mid-bg: #709cab;
+            --mid-fg: #0f0f0f;
+            --sub-bg: #c18479;
+            --sub-fg: #0f0f0f;
+            --selected-bg: #c3cdce;
+            --selected-fg: #0f0f0f;
+            --hovered-bg: #e8e6e7;
+            --hovered-fg: #000;
+            --text-1: #0f0f0f;
+            --text-2: #0f0f0f;
+            --ext-link: #0000ff;
+            --border-1: #2a4437;
+            --border-2: #2d674a;
+            --color-scheme: light;
+            --header4-bg: #4a8091;
+            --header4-fg: #0f0f0f;
+            --header5-bg: #494e70;
+            --header5-fg: #0f0f0f;
+            --header6-bg: #623a6e;
+            --header6-fg: #000000;
+            background: var(--bg-main);
+           }
+
+           html:has(body.star_book-of-the-dead_theme) {
+            color-scheme: light;
+           }
+           body.star_book-of-the-dead_theme .theme-example.star_book-of-the-dead_theme .output::before {content: 'Selected' !important
+}body.star_book-of-the-dead_theme .new-navbar,
+body.star_book-of-the-dead_theme .new-navbar > *:not(:hover)
+{ color:var(--head-fg)!important;}
+body.star_book-of-the-dead_theme .rtsLI:not(.rtsHovered):not(.rtsSelected) .rtsTxt, 
+body.star_book-of-the-dead_theme .RadMenu,
+body.star_book-of-the-dead_theme .rgHCMFilter, 
+body.star_book-of-the-dead_theme .rgFilter
+{color:white!important;}
+
+:root > body.aon_dark_theme, .theme-gallery > .theme-example.aon_dark_theme {
+            --bg-main: #0f0f0f;
+            --bg-0: #292929;
+            --bg-1: #64542f;
+            --bg-2: #342c19;
+            --head-bg: #522e2c;
+            --head-fg: #cbc18f;
+            --mid-bg: #806e45;
+            --mid-fg: #0f0f0f;
+            --sub-bg: #627d62;
+            --sub-fg: #0f0f0f;
+            --selected-bg: #124c74;
+            --selected-fg: #ffffff;
+            --hovered-bg: #cbc18f;
+            --hovered-fg: #000;
+            --text-1: #ffffff;
+            --text-2: #ffffff;
+            --ext-link: #00ffff;
+            --border-1: #333;
+            --border-2: #555;
+            --color-scheme: dark;
+            --header4-bg: #4a8091;
+            --header4-fg: #0f0f0f;
+            --header5-bg: #494e70;
+            --header5-fg: #0f0f0f;
+            --header6-bg: #623a6e;
+            --header6-fg: #000000;
+            background: var(--bg-main);
+           }
+
+           html:has(body.aon_dark_theme) {
+            color-scheme: dark;
+           }
+           body.aon_dark_theme .theme-example.aon_dark_theme .output::before {content: 'Selected' !important
+}
+
+:root > body.aon_extra-contrast_theme, .theme-gallery > .theme-example.aon_extra-contrast_theme {
+            --bg-main: #0f0f0f;
+            --bg-0: #292929;
+            --bg-1: #fff;
+            --bg-2: #ccc;
+            --head-bg: #5D0000;
+            --head-fg: #cbc18f;
+            --mid-bg: #002564;
+            --mid-fg: #fff;
+            --sub-bg: #769477;
+            --sub-fg: #0f0f0f;
+            --selected-bg: #124c74;
+            --selected-fg: #ffffff;
+            --hovered-bg: #232323;
+            --hovered-fg: #fff;
+            --text-1: #ffffff;
+            --text-2: #0f0f0f;
+            --ext-link: #00ffff;
+            --border-1: #333;
+            --border-2: #555;
+            --color-scheme: dark;
+            --header4-bg: #4a8091;
+            --header4-fg: #0f0f0f;
+            --header5-bg: #494e70;
+            --header5-fg: #0f0f0f;
+            --header6-bg: #623a6e;
+            --header6-fg: #000000;
+            background: var(--bg-main);
+           }
+
+           html:has(body.aon_extra-contrast_theme) {
+            color-scheme: dark;
+           }
+           body.aon_extra-contrast_theme .theme-example.aon_extra-contrast_theme .output::before {content: 'Selected' !important
+}
+
+:root > body.jurianchibo_howl-of-the-wild_theme, .theme-gallery > .theme-example.jurianchibo_howl-of-the-wild_theme {
+            --bg-main: #162926;
+            --bg-0: #105c47;
+            --bg-1: #533c4b;
+            --bg-2: #351a32;
+            --head-bg: #105c47;
+            --head-fg: #f8ebc2;
+            --mid-bg: #0d4838;
+            --mid-fg: #f8ebc2;
+            --sub-bg: #335e41;
+            --sub-fg: #f8ebc2;
+            --selected-bg: #000;
+            --selected-fg: #fff;
+            --hovered-bg: #854b3d;
+            --hovered-fg: #f8ebc2;
+            --text-1: #fcf2dc;
+            --text-2: #fdf8e8;
+            --ext-link: #e7f376;
+            --border-1: #41293e;
+            --border-2: #105c47;
+            --color-scheme: dark;
+            --header4-bg: #557937;
+            --header4-fg: #f8ebc2;
+            --header5-bg: #989443;
+            --header5-fg: #f8ebc2;
+            --header6-bg: #854b3d;
+            --header6-fg: #f8ebc2;
+            background: var(--bg-main);
+           }
+
+           html:has(body.jurianchibo_howl-of-the-wild_theme) {
+            color-scheme: dark;
+           }
+           body.jurianchibo_howl-of-the-wild_theme .theme-example.jurianchibo_howl-of-the-wild_theme .output::before {content: 'Selected' !important
+}
+
+:root > body.star_lavender_theme, .theme-gallery > .theme-example.star_lavender_theme {
+            --bg-main: #ffffff;
+            --bg-0: #c9c0d8;
+            --bg-1: #8471a7;
+            --bg-2: #6f5f98;
+            --head-bg: #493a88;
+            --head-fg: #ffffff;
+            --mid-bg: #b8a0ce;
+            --mid-fg: #ffffff;
+            --sub-bg: #f0e6ff;
+            --sub-fg: #0f0f0f;
+            --selected-bg: #207bbb;
+            --selected-fg: #ffffff;
+            --hovered-bg: #d1bef3;
+            --hovered-fg: #000;
+            --text-1: #000000;
+            --text-2: #ffffff;
+            --ext-link: #0000ff;
+            --border-1: #bcaacc;
+            --border-2: #a388bb;
+            --color-scheme: light;
+            --header4-bg: #f0e6ff;
+            --header4-fg: #0f0f0f;
+            --header5-bg: #f0e6ff;
+            --header5-fg: #0f0f0f;
+            --header6-bg: #623a6e;
+            --header6-fg: #000000;
+            background: var(--bg-main);
+           }
+
+           html:has(body.star_lavender_theme) {
+            color-scheme: light;
+           }
+           body.star_lavender_theme .theme-example.star_lavender_theme .output::before {content: 'Selected' !important
+}
+
+:root > body.aon_light_theme, .theme-gallery > .theme-example.aon_light_theme {
+            --bg-main: #ededed;
+            --bg-0: #bdbdbd;
+            --bg-1: #cbc18f;
+            --bg-2: #ded7bb;
+            --head-bg: #6f413e;
+            --head-fg: #cbc18f;
+            --mid-bg: #cbc18f;
+            --mid-fg: #0f0f0f;
+            --sub-bg: #627d62;
+            --sub-fg: #0f0f0f;
+            --selected-bg: #769cd7;
+            --selected-fg: #0f0f0f;
+            --hovered-bg: #64542f;
+            --hovered-fg: #fff;
+            --text-1: #0f0f0f;
+            --text-2: #0f0f0f;
+            --ext-link: #0000ff;
+            --border-1: #ddd;
+            --border-2: #9a9a9a;
+            --color-scheme: light;
+            --header4-bg: #4a8091;
+            --header4-fg: #0f0f0f;
+            --header5-bg: #494e70;
+            --header5-fg: #0f0f0f;
+            --header6-bg: #623a6e;
+            --header6-fg: #000000;
+            background: var(--bg-main);
+           }
+
+           html:has(body.aon_light_theme) {
+            color-scheme: light;
+           }
+           body.aon_light_theme .theme-example.aon_light_theme .output::before {content: 'Selected' !important
+}
+
+:root > body.jonny_orc_theme, .theme-gallery > .theme-example.jonny_orc_theme {
+            --bg-main: #002604;
+            --bg-0: #002604;
+            --bg-1: #002604;
+            --bg-2: #4a4300;
+            --head-bg: #4a4300;
+            --head-fg: #CCFFBB;
+            --mid-bg: #4a4300;
+            --mid-fg: #ddffdd;
+            --sub-bg: #4a4300;
+            --sub-fg: #ddffdd;
+            --selected-bg: #005A04;
+            --selected-fg: #CCFFBB;
+            --hovered-bg: #002604;
+            --hovered-fg: #e7ffe7;
+            --text-1: #ddffdd;
+            --text-2: #dbffd3;
+            --ext-link: #709271;
+            --border-1: #0e3c10;
+            --border-2: #002604;
+            --color-scheme: dark;
+            --header4-bg: #4a4300;
+            --header4-fg: #ddffdd;
+            --header5-bg: #4a4300;
+            --header5-fg: #ddffdd;
+            --header6-bg: #623a6e;
+            --header6-fg: #000000;
+            background: var(--bg-main);
+           }
+
+           html:has(body.jonny_orc_theme) {
+            color-scheme: dark;
+           }
+           body.jonny_orc_theme .theme-example.jonny_orc_theme .output::before {content: 'Selected' !important
+}
+
+:root > body.aon_paper-standard_theme, .theme-gallery > .theme-example.aon_paper-standard_theme {
+            --bg-main: #F1ECE5;
+            --bg-0: #bdbdbd;
+            --bg-1: #ede3c7;
+            --bg-2: #F4EEE0;
+            --head-bg: #5D0000;
+            --head-fg: #cbc18f;
+            --mid-bg: #DBD0BC;
+            --mid-fg: #0f0f0f;
+            --sub-bg: #002564;
+            --sub-fg: #C8C6B7;
+            --selected-bg: #769cd7;
+            --selected-fg: #0f0f0f;
+            --hovered-bg: #efefef;
+            --hovered-fg: #000;
+            --text-1: #0f0f0f;
+            --text-2: #0f0f0f;
+            --ext-link: #0000ff;
+            --border-1: #DDD;
+            --border-2: #9A9A9A;
+            --color-scheme: light;
+            --header4-bg: #002564;
+            --header4-fg: #c8c6b7;
+            --header5-bg: #002564;
+            --header5-fg: #c8c6b7;
+            --header6-bg: #623a6e;
+            --header6-fg: #000000;
+            background: var(--bg-main);
+           }
+
+           html:has(body.aon_paper-standard_theme) {
+            color-scheme: light;
+           }
+           body.aon_paper-standard_theme .theme-example.aon_paper-standard_theme .output::before {content: 'Selected' !important
+}.aon_paper-standard_theme .expand.k-drawer-item {
+    color: var(--sub-fg) !important;
+}
+
+:root > body.jonny_treasure-vault_theme, .theme-gallery > .theme-example.jonny_treasure-vault_theme {
+            --bg-main: #341d3f;
+            --bg-0: #341d3f;
+            --bg-1: #341d3f;
+            --bg-2: #795074;
+            --head-bg: #795074;
+            --head-fg: #faea8b;
+            --mid-bg: #795074;
+            --mid-fg: #341d3f;
+            --sub-bg: #341d3f;
+            --sub-fg: #ccb200;
+            --selected-bg: #faea8b;
+            --selected-fg: #341d3f;
+            --hovered-bg: #341d3f;
+            --hovered-fg: #faea8b;
+            --text-1: #faea8b;
+            --text-2: #ccaa0b;;
+            --ext-link: #ccaa0b;
+            --border-1: #341d3f;
+            --border-2: #341d3f;
+            --color-scheme: dark;
+            --header4-bg: #341d3f;
+            --header4-fg: #ccb200;
+            --header5-bg: #341d3f;
+            --header5-fg: #ccb200;
+            --header6-bg: #623a6e;
+            --header6-fg: #000000;
+            background: var(--bg-main);
+           }
+
+           html:has(body.jonny_treasure-vault_theme) {
+            color-scheme: dark;
+           }
+           body.jonny_treasure-vault_theme .theme-example.jonny_treasure-vault_theme .output::before {content: 'Selected' !important
+}body.jonny_treasure-vault_theme h1.title, body.jonny_treasure-vault_theme h2.title, body.jonny_treasure-vault_theme h2 .title, body.jonny_treasure-vault_theme h3.title {
+        color: var(--text-1);  
+    }
+body.jonny_treasure-vault_theme .trait, body.jonny_treasure-vault_theme .traitsize, body.jonny_treasure-vault_theme .traitalignment, body.jonny_treasure-vault_theme .traituncommon, body.jonny_treasure-vault_theme .traitrare {
+        background-color: var(--head-bg);
+        color: var(--text-1);
+        border-color: var(--text-2);
+    }  .jonny_treasure-vault_theme b {
+        color: #bca200;
+    }
+    body.jonny_treasure-vault_theme .title a {color: #bca200;}
+    body.jonny_treasure-vault_theme h2.title div {color: #bca200;}
+
+    
+body.jonny_treasure-vault_theme .title a:link {color:#bca200;} 
+body.jonny_treasure-vault_theme summary.hd-2 {color:#bca200;}
+body.jonny_treasure-vault_theme #ctl00_RadDrawer1_Content_MainContent_DetailedOutput h2.title {color:#bca200;}
