@@ -10,6 +10,17 @@ One subdirectory per site, each with its own README:
 | [`1e/`](1e/README.md) | [aonprd.com](https://aonprd.com/) — Pathfinder 1e | **complete** (2026-07-15) | server-rendered ASP.NET with no public JSON/elasticsearch API, so a breadth-first page crawl (search itself is server-side and not archivable) |
 | [`legacy/`](legacy/README.md) | [legacy.aonprd.com](https://legacy.aonprd.com/) — the old Pathfinder Reference Document | **complete** (2026-07-15) | pure static HTML site, mirrored by a breadth-first crawl (its three cdn.paizo.com asset references already 404 on the live CDN) |
 
+## Downloads
+
+Each site's archive is also published as a standalone tarball on the
+[releases page](https://github.com/SirRodericMurgatroyd/aonprd-archive/releases),
+so you can grab one site without cloning the whole repository:
+[2e](https://github.com/SirRodericMurgatroyd/aonprd-archive/releases/tag/2e-2026-07-15) (~1 GB),
+[1e](https://github.com/SirRodericMurgatroyd/aonprd-archive/releases/tag/1e-2026-07-15) (~200 MB),
+[legacy](https://github.com/SirRodericMurgatroyd/aonprd-archive/releases/tag/legacy-2026-07-15) (~12 MB).
+Each tarball contains that site's full folder: data, the archiver that
+produced it, manifest, and README.
+
 ## Layout convention
 
 Each site directory contains an `archiver/` Python package (stdlib-only)
