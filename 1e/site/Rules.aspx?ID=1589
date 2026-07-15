@@ -1,0 +1,280 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Optional Mass Combat Rules - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Optional Mass Combat Rules" /><meta name="description" content="The following sections describe ways armies can be altered or assigned that come up less frequently than the other rules in the mass combat system. They’re optional, and the GM can bring them into the game only if necessary." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=1589" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAW4Mzx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTQ4OCI+S2luZ2RvbXMgYW5kIFdhcjwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNTY1Ij5NYXNzIENvbWJhdDwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNTg5Ij5PcHRpb25hbCBNYXNzIENvbWJhdCBSdWxlczwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OHg2ND9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtVWx0aW1hdGUtQ2FtcGFpZ24NCiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5VbHRpbWF0ZSBDYW1wYWlnbiBwZy4gMjQ2PC9pPjwvYT48YnIgLz5UaGUgZm9sbG93aW5nIHNlY3Rpb25zIGRlc2NyaWJlIHdheXMgYXJtaWVzIGNhbiBiZSBhbHRlcmVkIG9yIGFzc2lnbmVkIHRoYXQgY29tZSB1cCBsZXNzIGZyZXF1ZW50bHkgdGhhbiB0aGUgb3RoZXIgcnVsZXMgaW4gdGhlIG1hc3MgY29tYmF0IHN5c3RlbS4gVGhleeKAmXJlIG9wdGlvbmFsLCBhbmQgdGhlIEdNIGNhbiBicmluZyB0aGVtIGludG8gdGhlIGdhbWUgb25seSBpZiBuZWNlc3NhcnkuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNTkwIj5Db21iaW5pbmcgQXJtaWVzPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk4eDY0P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1VbHRpbWF0ZS1DYW1wYWlnbg0KIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlVsdGltYXRlIENhbXBhaWduIHBnLiAyNDY8L2k+PC9hPjxiciAvPklmIHlvdSBoYXZlIHR3byBhcm1pZXMgb2YgdGhlIHNhbWUgdHlwZSBhbmQgb2YgZXF1YWwgc2l6ZSwgYXQgYW55IHRpbWUgb3V0c2lkZSBvZiBjb21iYXQgeW91IGNhbiBjb21iaW5lIHRoZW0gaW50byBhIHNpbmdsZSBhcm15IHRoYXQgaXMgb25lIHNpemUgbGFyZ2VyIHRoYW4gdGhlIG9yaWdpbmFsIGFybWllcy48YnIgLz48YnIgLz4gQ2hvb3NlIG9uZSBvZiB0aGUgdHdvIGNvbW1hbmRlcnMgdG8gY29tbWFuZCB0aGlzIGNvbWJpbmVkIGFybXkuIFRoZSBvdGhlciBjb21tYW5kZXIgbWF5IGJlIGFzc2lnbmVkIHRvIGEgZGlmZmVyZW50IGFybXk7IG90aGVyd2lzZSwgaGVyIGJvb25zIGFyZSBsb3N0LjxiciAvPjxiciAvPiBDYWxjdWxhdGUgdGhlIG5ldyBhcm154oCZcyBzdGF0aXN0aWNzIGJhc2VkIG9uIGl0cyBuZXcgc2l6ZS4gSWYgYm90aCBzbWFsbGVyIGFybWllcyBoYWQgYSBib29uLCByZXNvdXJjZSwgb3IgdGFjdGljLCB0aGUgbmV3IGFybXkgaGFzIGl0IGFzIHdlbGw7IG90aGVyd2lzZSB0aGUgYm9vbiwgcmVzb3VyY2UsIG9yIHRhY3RpYyBpcyBsb3N0LiBUaGUgbmV3IGFybXnigJlzIE1vcmFsZSBpcyBlcXVhbCB0byB0aGUgYXZlcmFnZSBvZiB0aGUgTW9yYWxlIG9mIHRoZSB0d28gc21hbGxlciBhcm1pZXMuIElmIG9uZSBhcm15IGhhcyBhbiBhZmZsaWN0aW9uIChzdWNoIGFzIGEgZGlzZWFzZSksIHRoZSBuZXcgYXJteSBub3cgaGFzIGl0LjxiciAvPjxiciAvPiBEZXRlcm1pbmUgd2hhdCBwZXJjZW50YWdlIG9mIGl0cyBmdWxsIG5vcm1hbCBoaXQgcG9pbnRzIGVhY2ggc21hbGxlciBhcm15IGhhZC4gVGhlIG5ldyBhcm154oCZcyBoaXQgcG9pbnRzIGlzIHRoZSBhdmVyYWdlIG9mIHRoZXNlIHBlcmNlbnRhZ2VzLiBGb3IgZXhhbXBsZSwgaWYgb25lIGFybXkgaXMgYXQgNTAlIGFuZCB0aGUgb3RoZXIgaXMgYXQgMTAwJSwgdGhlIG5ldyBhcm15IGlzIGF0IDc1JSBvZiB0aGUgZnVsbCBoaXQgcG9pbnRzIGZvciBpdHMgc2l6ZS48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE1OTEiPlJlZm9ybWluZyBhbiBBcm15PC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk4eDY0P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1VbHRpbWF0ZS1DYW1wYWlnbg0KIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlVsdGltYXRlIENhbXBhaWduIHBnLiAyNDY8L2k+PC9hPjxiciAvPlJlZm9ybWF0aW9uIGNvbnZlcnRzIGEgd291bmRlZCBhcm15IGludG8gYSBzbWFsbGVyLCBoZWFsdGh5IGFybXkuIFRoZSBhcm15IGhpdCBwb2ludCBydWxlcyBhcmUgYWJzdHJhY3QgYW5kIHJlcHJlc2VudCB3b3VuZGVkIHVuaXRzLCBpbmNhcGFjaXRhdGVkIHVuaXRzLCBhbmQgZGVhZCB1bml0cy4gRm9yIGFuIGFybXkgd2l0aCBhIHZlcnkgbG93IGhpdCBwb2ludCB0b3RhbCwgdGhlIG51bWJlciBvZiBhY3RpdmUgdW5pdHMgaW4gdGhlIGFybXkgY2FuIGV2ZW4gYmUgZXF1YWwgdG8gb3IgZmV3ZXIgdGhhbiB0aG9zZSBvZiBhbiBhcm15IG9mIGEgc21hbGxlciBzaXplLiBGb3IgZXhhbXBsZSwgYSBMYXJnZSBhcm15IG5vcm1hbGx5IGhhcyAyMDAgdW5pdHMsIGJ1dCBpZiB0aGF0IGFybXkgaXMgdmVyeSB3b3VuZGVkLCBpdCBjb3VsZCBoYXZlIG9ubHkgMTAwIG9yIGZld2VyIHVuaXRzIGFibGUgdG8gZmlnaHTigJR0aGUgc2FtZSBudW1iZXIgYXMgYSBNZWRpdW0gYXJteS4gQmVjYXVzZSBhbiBhcm154oCZcyBDb25zdW1wdGlvbiBpcyBiYXNlZCBvbiBpdHMgQUNSICh3aGljaCBpcyBiYXNlZCBvbiBpdHMgc2l6ZSksIHlvdSBtaWdodCBiZSBhYmxlIHRvIHJlZHVjZSB5b3VyIENvbnN1bXB0aW9uIGNvc3RzIGlmIHlvdSByZWZvcm0gYW4gYXJteSBpbnRvIGEgc21hbGxlciBzaXplLjxiciAvPjxiciAvPiBBdCBhbnkgdGltZSBvdXRzaWRlIG9mIGNvbWJhdCwgeW91IGNhbiByZWZvcm0gYSB3b3VuZGVkIGFybXkgKGF0IGhhbGYgaGl0IHBvaW50cyBvciBmZXdlcikgaW50byBhbiBhcm15IG9uZSBzaXplIHNtYWxsZXIgd2l0aCBmdWxsIGhpdCBwb2ludHMuIFRoaXMgYWN0IHJlcHJlc2VudHMgeW91IGNob29zaW5nIG9ubHkgdGhlIGhlYWx0aGllc3QgdW5pdHMgdG8gY29udGludWUgZmlnaHRpbmcuIFRoZSB3b3VuZGVkIHN1cnZpdm9ycyBkaXNwZXJzZSwgdHlwaWNhbGx5IGhlYWRpbmcgaG9tZSB0byByZWN1cGVyYXRlLjxiciAvPjxiciAvPiBDYWxjdWxhdGUgdGhlIHNtYWxsZXIgYXJteeKAmXMgc3RhdGlzdGljcyBiYXNlZCBvbiBpdHMgbmV3IHNpemUuIFRoZSBzbWFsbGVyIGFybXkgcmV0YWlucyBhbGwgb2YgdGhlIGxhcmdlciBhcm154oCZcyBzdGF0aXN0aWNzIGFuZCBlZmZlY3RzIChpbmNsdWRpbmcgdGFjdGljcywgYm9vbnMsIHJlc291cmNlcywgY29tbWFuZGVyLCBhbmQgc28gb24pIGV4Y2VwdCB0aG9zZSBiYXNlZCBvbiBpdHMgc2l6ZSAoc3VjaCBhcyBBQ1IgYW5kIHN0YXRpc3RpY3MgYmFzZWQgb24gQUNSKS4gVGhlIGFybXkgcmVkdWNlcyBpdHMgTW9yYWxlIGJ5IDEgKGFzIHJlZm9ybWluZyBpcyBhIGJsdW50IGluZGljYXRpb24gb2YgbWlzZm9ydHVuZSkuPGJyIC8+PGJyIC8+IFRoZXJlIGlzIG5vIGxpbWl0IHRvIGhvdyBtYW55IHRpbWVzIHlvdSBjYW4gcmVmb3JtIGFuIGFybXkuIEV2ZW4gYSBDb2xvc3NhbCBhcm15IGNhbiBiZSB3aGl0dGxlZCBhd2F5IGFuZCByZWZvcm1lZCBzZXZlcmFsIHRpbWVzIHVudGlsIHRoZSBDUiBvZiBpdHMgaW5kaXZpZHVhbCB1bml0cyBpcyB0b28gc21hbGwgdG8gYWN0dWFsbHkgY291bnQgYXMgYW4gYXJteS48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE1OTIiPlJlc2VydmUgQXJteTwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OHg2ND9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtVWx0aW1hdGUtQ2FtcGFpZ24NCiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5VbHRpbWF0ZSBDYW1wYWlnbiBwZy4gMjQ2PC9pPjwvYT48YnIgLz5UaGUgY29zdHMgaW4gdGhpcyBzZWN0aW9uIGFzc3VtZSBhbiBhY3RpdmUsIGRlcGxveWVkIGFybXkuIFlvdSBtYXkgaW5zdGVhZCBjb252ZXJ0IGFuIGFybXkgaW50byBhIHJlc2VydmUgYXJteSwgcGxhY2luZyBpdCBpbiBhIHNldHRsZW1lbnQuIFRoaXMgcmVkdWNlcyB0aGUgQ29uc3VtcHRpb24gY29zdCBmb3IgdGhlIGFybXkgdG8gb25jZSBwZXIgbW9udGggKG9yIGtpbmdkb20gdHVybikgaW5zdGVhZCBvZiBvbmNlIHBlciB3ZWVrLiBBIGNvbW1hbmRlciBoYXMgdG8gc3BlbmQgb25seSAzIGRheXMgcGVyIG1vbnRoIHdpdGggYSByZXNlcnZlIGFybXkgdG8gcmVtYWluIGFjdGl2ZSB3aXRoIGl0LiBUaGUgTW9yYWxlIHBlbmFsdHkgZm9yIGFuIGFic2VudCBjb21tYW5kZXIgaGFwcGVucyBldmVyeSBtb250aCBpbnN0ZWFkIG9mIGV2ZXJ5IHdlZWsuPGJyIC8+PGJyIC8+IFRoZSBzaXplIG9mIGFuIGFybXkgeW91IGNhbiBwdXQgaW4gcmVzZXJ2ZSBkZXBlbmRzIG9uIHRoZSBidWlsZGluZ3MgeW91IGhhdmUgYXZhaWxhYmxlIGluIHRoZSBzZXR0bGVtZW50LiBBIFdhdGNodG93ZXIgY2FuIGhvbGQgYSBTbWFsbCBvciBzbWFsbGVyIHJlc2VydmUgYXJteSwgYSBCYXJyYWNrcyBjYW4gaG9sZCBNZWRpdW0gb3Igc21hbGxlciwgYSBDYXN0bGUgY2FuIGhvbGQgTGFyZ2Ugb3Igc21hbGxlciwgYW5kIGEgR2Fycmlzb24gSHVnZSBvciBzbWFsbGVyLiBBIEdhcmdhbnR1YW4gb3IgQ29sb3NzYWwgYXJteSBjYW7igJl0IGJlIHB1dCBpbiByZXNlcnZl4oCUIGl0IG11c3QgcmVtYWluIGRlcGxveWVkICh0aG91Z2ggaXQgY2FuIGJlIGluZGVmaW5pdGVseSBkZXBsb3llZCBpbiBvbmUgb2YgeW91ciBvd24gaGV4ZXMpLiBBIFRlbXBsZSBjb3VudHMgYXMgYSBXYXRjaHRvd2VyIGZvciB0aGUgcHVycG9zZSBvZiBob2xkaW5nIHNwZWNpYWwgcmVsaWdpb3VzIHRyb29wcyAoY2xlcmljcywgZHJ1aWRzLCBpbnF1aXNpdG9ycywgb3IgcGFsYWRpbnMpLCBhbmQgYSBDYXRoZWRyYWwgY291bnRzIGFzIGEgQmFycmFja3MgaW4gdGhvc2UgY2FzZXMuIFlvdSBtYXkgc3BsaXQgYW4gYXJteSAoc2VlIFNwbGl0dGluZyBhbiBBcm15KSB0byBhbGxvdyB5b3UgdG8gZGl2aWRlIGl0cyB1bml0cyBhbW9uZyBzZXZlcmFsIGJ1aWxkaW5ncy48YnIgLz48YnIgLz4gSWYgeW91IG1vdmUgdGhlIGFybXkgb3V0c2lkZSB0aGUgc2V0dGxlbWVudCwgaXQgaW1tZWRpYXRlbHkgY291bnRzIGFzIGFuIGFjdGl2ZSBhcm15IGFuZCB0aGUgY29zdHMgbXVzdCBiZSBwYWlkIHBlciB3ZWVrIGFzIG5vcm1hbC48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE1OTMiPlNwbGl0dGluZyBhbiBBcm15PC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk4eDY0P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1VbHRpbWF0ZS1DYW1wYWlnbg0KIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlVsdGltYXRlIENhbXBhaWduIHBnLiAyNDY8L2k+PC9hPjxiciAvPllvdSBjYW4gZGl2aWRlIGFuIGFybXkgaW50byBzbWFsbGVyIGFybWllcy4gQXQgYW55IHRpbWUgb3V0c2lkZSBvZiBjb21iYXQsIHlvdSBtYXkgc3BsaXQgYW4gYXJteSBpbnRvIHR3byBhcm1pZXMgdGhhdCBhcmUgZWFjaCBvbmUgc2l6ZSBjYXRlZ29yeSBzbWFsbGVyLiBPbmUgb2YgdGhlc2UgYXJtaWVzIHJldGFpbnMgdGhlIGxhcmdlciBhcm154oCZcyBjb21tYW5kZXI7IHlvdSBtdXN0IGFzc2lnbiBhIGNvbW1hbmRlciB0byB0aGUgb3RoZXIgYXJteS48YnIgLz48YnIgLz4gQ2FsY3VsYXRlIGVhY2ggc21hbGxlciBhcm154oCZcyBzdGF0aXN0aWNzIGJhc2VkIG9uIGl0cyBuZXcgc2l6ZS4gVGhlIHNtYWxsZXIgYXJtaWVzIHJldGFpbiBhbGwgb2YgdGhlIGxhcmdlciBhcm154oCZcyBzdGF0aXN0aWNzIGFuZCBlZmZlY3RzIChpbmNsdWRpbmcgdGFjdGljcywgYm9vbnMsIHJlc291cmNlcywgY29tbWFuZGVyLCBhbmQgc28gb24pIGV4Y2VwdCB0aG9zZSBiYXNlZCBvbiBzaXplIChzdWNoIGFzIEFDUiBhbmQgc3RhdGlzdGljcyBiYXNlZCBvbiBBQ1IpLiBFYWNoIHNtYWxsZXIgYXJteSByZWR1Y2VzIGl0cyBNb3JhbGUgYnkgMS48YnIgLz48YnIgLz4gRGV0ZXJtaW5lIHdoYXQgcGVyY2VudGFnZSBvZiBpdHMgZnVsbCBub3JtYWwgaGl0IHBvaW50cyB0aGUgbGFyZ2VyIGFybXkgaGFkLiBFYWNoIHNtYWxsZXIgYXJteSBoYXMgdGhpcyBwcm9wb3J0aW9uIG9mIGhpdCBwb2ludHMgZm9yIGl0cyBuZXcgc2l6ZS4gRm9yIGV4YW1wbGUsIGlmIHRoZSBsYXJnZSBhcm15IHdhcyBhdCA3MCUgKDI4IGhwIG91dCBvZiA0MCksIGVhY2ggc21hbGxlciBhcm15IGlzIGF0IDcwJSBvZiB0aGUgZnVsbCBoaXQgcG9pbnRzIGZvciBpdHMgc2l6ZS48YnIgLz48YnIgLz4gVGhlcmUgaXMgbm8gbGltaXQgdG8gaG93IG1hbnkgdGltZXMgeW91IGNhbiBzcGxpdCBhbiBhcm15LiBFdmVuIGEgQ29sb3NzYWwgYXJteSBjYW4gc3BsaXQgc2V2ZXJhbCB0aW1lcyB1bnRpbCB0aGUgQ1Igb2YgaXRzIGluZGl2aWR1YWwgdW5pdHMgaXMgdG9vIHNtYWxsIHRvIGFjdHVhbGx5IGNvdW50IGFzIGFuIGFybXkuZGRkagNyrGIKX9hAkMc5cL6pfEHTsEIOq8Egbq1JVDobqZQ=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1488">Kingdoms and War</a></u> / <u><a href="Rules.aspx?ID=1565">Mass Combat</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=1589">Optional Mass Combat Rules</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 246</i></a><br />The following sections describe ways armies can be altered or assigned that come up less frequently than the other rules in the mass combat system. They’re optional, and the GM can bring them into the game only if necessary.<br /><h1 class="title"><a href="Rules.aspx?ID=1590">Combining Armies</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 246</i></a><br />If you have two armies of the same type and of equal size, at any time outside of combat you can combine them into a single army that is one size larger than the original armies.<br /><br /> Choose one of the two commanders to command this combined army. The other commander may be assigned to a different army; otherwise, her boons are lost.<br /><br /> Calculate the new army’s statistics based on its new size. If both smaller armies had a boon, resource, or tactic, the new army has it as well; otherwise the boon, resource, or tactic is lost. The new army’s Morale is equal to the average of the Morale of the two smaller armies. If one army has an affliction (such as a disease), the new army now has it.<br /><br /> Determine what percentage of its full normal hit points each smaller army had. The new army’s hit points is the average of these percentages. For example, if one army is at 50% and the other is at 100%, the new army is at 75% of the full hit points for its size.<br /><h1 class="title"><a href="Rules.aspx?ID=1591">Reforming an Army</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 246</i></a><br />Reformation converts a wounded army into a smaller, healthy army. The army hit point rules are abstract and represent wounded units, incapacitated units, and dead units. For an army with a very low hit point total, the number of active units in the army can even be equal to or fewer than those of an army of a smaller size. For example, a Large army normally has 200 units, but if that army is very wounded, it could have only 100 or fewer units able to fight—the same number as a Medium army. Because an army’s Consumption is based on its ACR (which is based on its size), you might be able to reduce your Consumption costs if you reform an army into a smaller size.<br /><br /> At any time outside of combat, you can reform a wounded army (at half hit points or fewer) into an army one size smaller with full hit points. This act represents you choosing only the healthiest units to continue fighting. The wounded survivors disperse, typically heading home to recuperate.<br /><br /> Calculate the smaller army’s statistics based on its new size. The smaller army retains all of the larger army’s statistics and effects (including tactics, boons, resources, commander, and so on) except those based on its size (such as ACR and statistics based on ACR). The army reduces its Morale by 1 (as reforming is a blunt indication of misfortune).<br /><br /> There is no limit to how many times you can reform an army. Even a Colossal army can be whittled away and reformed several times until the CR of its individual units is too small to actually count as an army.<br /><h1 class="title"><a href="Rules.aspx?ID=1592">Reserve Army</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 246</i></a><br />The costs in this section assume an active, deployed army. You may instead convert an army into a reserve army, placing it in a settlement. This reduces the Consumption cost for the army to once per month (or kingdom turn) instead of once per week. A commander has to spend only 3 days per month with a reserve army to remain active with it. The Morale penalty for an absent commander happens every month instead of every week.<br /><br /> The size of an army you can put in reserve depends on the buildings you have available in the settlement. A Watchtower can hold a Small or smaller reserve army, a Barracks can hold Medium or smaller, a Castle can hold Large or smaller, and a Garrison Huge or smaller. A Gargantuan or Colossal army can’t be put in reserve— it must remain deployed (though it can be indefinitely deployed in one of your own hexes). A Temple counts as a Watchtower for the purpose of holding special religious troops (clerics, druids, inquisitors, or paladins), and a Cathedral counts as a Barracks in those cases. You may split an army (see Splitting an Army) to allow you to divide its units among several buildings.<br /><br /> If you move the army outside the settlement, it immediately counts as an active army and the costs must be paid per week as normal.<br /><h1 class="title"><a href="Rules.aspx?ID=1593">Splitting an Army</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 246</i></a><br />You can divide an army into smaller armies. At any time outside of combat, you may split an army into two armies that are each one size category smaller. One of these armies retains the larger army’s commander; you must assign a commander to the other army.<br /><br /> Calculate each smaller army’s statistics based on its new size. The smaller armies retain all of the larger army’s statistics and effects (including tactics, boons, resources, commander, and so on) except those based on size (such as ACR and statistics based on ACR). Each smaller army reduces its Morale by 1.<br /><br /> Determine what percentage of its full normal hit points the larger army had. Each smaller army has this proportion of hit points for its new size. For example, if the large army was at 70% (28 hp out of 40), each smaller army is at 70% of the full hit points for its size.<br /><br /> There is no limit to how many times you can split an army. Even a Colossal army can split several times until the CR of its individual units is too small to actually count as an army.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

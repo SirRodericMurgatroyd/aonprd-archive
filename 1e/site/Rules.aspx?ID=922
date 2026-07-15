@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Mysteries and Investigations - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Mysteries and Investigations" /><meta name="description" content="A favorite weapon inexplicably stained in blood, a treasure purloined despite the best defenses, a locked room with a mangled corpse within—such elements might seem more at home in tales of crime and suspense than in the sword-swinging quests of most roleplaying games, but just as the literary genres of fantasy and mystery have a long and overlapping tradition, so too do aspects of crime and detective work hold the potential for memorable adventures. In fantasy, mysteries often take on puzzling new angles, as magic, the abilities of monsters, and other wondrous elements vastly enlarge the spectrum of possibilities. Yet fantasy opens up not just new avenues of crime, but also those of detection, and many classic capers might be solved in an instant merely by speaking a simple spell. Thus, the arena of crime, mystery, and investigation changes completely with the introduction of magic, forcing GMs interested in creating enigmatic adventures to think beyond the tropes of classic detective stories and consider the logic of impossible realms in their schemes.&lt;br />&lt;br /> When planning an adventure based around a mystery, a GM needs to consider the plot from two angles, conceiving both the mystery’s elements and the investigative techniques of the detectives (typically the PCs)." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=922" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXNZTx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDU0Ij5HYW1lTWFzdGVyeSBHdWlkZTwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD04NzAiPkFkdmFuY2VkIFRvcGljczwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD05MjIiPk15c3RlcmllcyBhbmQgSW52ZXN0aWdhdGlvbnM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiAyNDY8L2k+PC9hPjxiciAvPkEgZmF2b3JpdGUgd2VhcG9uIGluZXhwbGljYWJseSBzdGFpbmVkIGluIGJsb29kLCBhIHRyZWFzdXJlIHB1cmxvaW5lZCBkZXNwaXRlIHRoZSBiZXN0IGRlZmVuc2VzLCBhIGxvY2tlZCByb29tIHdpdGggYSBtYW5nbGVkIGNvcnBzZSB3aXRoaW7igJRzdWNoIGVsZW1lbnRzIG1pZ2h0IHNlZW0gbW9yZSBhdCBob21lIGluIHRhbGVzIG9mIGNyaW1lIGFuZCBzdXNwZW5zZSB0aGFuIGluIHRoZSBzd29yZC1zd2luZ2luZyBxdWVzdHMgb2YgbW9zdCByb2xlcGxheWluZyBnYW1lcywgYnV0IGp1c3QgYXMgdGhlIGxpdGVyYXJ5IGdlbnJlcyBvZiBmYW50YXN5IGFuZCBteXN0ZXJ5IGhhdmUgYSBsb25nIGFuZCBvdmVybGFwcGluZyB0cmFkaXRpb24sIHNvIHRvbyBkbyBhc3BlY3RzIG9mIGNyaW1lIGFuZCBkZXRlY3RpdmUgd29yayBob2xkIHRoZSBwb3RlbnRpYWwgZm9yIG1lbW9yYWJsZSBhZHZlbnR1cmVzLiBJbiBmYW50YXN5LCBteXN0ZXJpZXMgb2Z0ZW4gdGFrZSBvbiBwdXp6bGluZyBuZXcgYW5nbGVzLCBhcyBtYWdpYywgdGhlIGFiaWxpdGllcyBvZiBtb25zdGVycywgYW5kIG90aGVyIHdvbmRyb3VzIGVsZW1lbnRzIHZhc3RseSBlbmxhcmdlIHRoZSBzcGVjdHJ1bSBvZiBwb3NzaWJpbGl0aWVzLiBZZXQgZmFudGFzeSBvcGVucyB1cCBub3QganVzdCBuZXcgYXZlbnVlcyBvZiBjcmltZSwgYnV0IGFsc28gdGhvc2Ugb2YgZGV0ZWN0aW9uLCBhbmQgbWFueSBjbGFzc2ljIGNhcGVycyBtaWdodCBiZSBzb2x2ZWQgaW4gYW4gaW5zdGFudCBtZXJlbHkgYnkgc3BlYWtpbmcgYSBzaW1wbGUgc3BlbGwuIFRodXMsIHRoZSBhcmVuYSBvZiBjcmltZSwgbXlzdGVyeSwgYW5kIGludmVzdGlnYXRpb24gY2hhbmdlcyBjb21wbGV0ZWx5IHdpdGggdGhlIGludHJvZHVjdGlvbiBvZiBtYWdpYywgZm9yY2luZyBHTXMgaW50ZXJlc3RlZCBpbiBjcmVhdGluZyBlbmlnbWF0aWMgYWR2ZW50dXJlcyB0byB0aGluayBiZXlvbmQgdGhlIHRyb3BlcyBvZiBjbGFzc2ljIGRldGVjdGl2ZSBzdG9yaWVzIGFuZCBjb25zaWRlciB0aGUgbG9naWMgb2YgaW1wb3NzaWJsZSByZWFsbXMgaW4gdGhlaXIgc2NoZW1lcy48YnIgLz48YnIgLz4gV2hlbiBwbGFubmluZyBhbiBhZHZlbnR1cmUgYmFzZWQgYXJvdW5kIGEgbXlzdGVyeSwgYSBHTSBuZWVkcyB0byBjb25zaWRlciB0aGUgcGxvdCBmcm9tIHR3byBhbmdsZXMsIGNvbmNlaXZpbmcgYm90aCB0aGUgbXlzdGVyeeKAmXMgZWxlbWVudHMgYW5kIHRoZSBpbnZlc3RpZ2F0aXZlIHRlY2huaXF1ZXMgb2YgdGhlIGRldGVjdGl2ZXMgKHR5cGljYWxseSB0aGUgUENzKS48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTkyMyI+VGhlIEZhbnRhc3kgTXlzdGVyeTwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDI0NjwvaT48L2E+PGJyIC8+QXQgdGhlIHJvb3Qgb2YgYW55IGZhbnRhc3kgbXlzdGVyeSBpcyBhIHB1enpsZSB0aGF0IG5lZWRzIHRvIGJlIHNvbHZlZC4gSW4gbGF5aW5nIHN1Y2ggYSBmb3VuZGF0aW9uLCBhIEdNIGNhbiB0YWtlIGluc3BpcmF0aW9uIGZyb20gdHJhZGl0aW9uYWwgdGFsZXMgb2YgY29uc3BpcmFjeSBhbmQgZGVjZXB0aW9uLiBPbmNlIGhlIGhhcyBhIGJhc2ljIHBsb3QsIGFkZGluZyBkZXRhaWxzIHJlbGV2YW50IHRvIGEgZmFudGFzeSBzZXR0aW5nIG1ha2VzIHRoZSBteXN0ZXJ5IG1vcmUgYmVsaWV2YWJsZSwgbW9yZSBkaWZmaWN1bHQgdG8gc29sdmUsIGFuZCBiZXR0ZXIgdHVuZWQgdG8gdGhlIGVsZW1lbnRzIG9mIGEgbWFnaWNhbCB3b3JsZC48YnIgLz48YnIgLz4gPGI+Q3JlYXRlIExldmVsczwvYj46IFRoZSBiZXN0IG15c3RlcmllcyBoYXZlIG1vcmUgdGhhbiBvbmUgbXlzdGVyeSBnb2luZyBvbi4gSWYgc29tZW9uZSBpcyBtdXJkZXJlZCwgaXQgbWlnaHQgYmUgZmFpcmx5IGVhc3kgZm9yIHRoZSBQQ3MgdG8gdHJhY2sgdGhlIGtpbGxlciBkb3duLiBDcmVhdGluZyBleHRyYSBsYXllcnMgZ2l2ZXMgdGhlIFBDcyBtb3JlIHRvIHdvcmsgd2l0aCBhbmQgcmVkdWNlcyB0aGUgZWZmaWNhY3kgb2YgZGl2aW5hdGlvbiBzcGVsbHMuIE9uZSBwZXJzb24gd2FudHMgYW5vdGhlciBkZWFkLCBzbyBoZSBoaXJlcyBhIHRodWcgdG8gY29tbWl0IHRoZSBtdXJkZXIuIE9uIGhpcyB3YXkgdG8gdGhlIHZpY3RpbeKAmXMgaG91c2UsIHRoZSBtdXJkZXJlciBydW5zIGludG8gYSBjaXR5IGd1YXJkLCBwYW5pY3MsIGFuZCBraWxscyB0aGUgZ3VhcmQuIFRoZSBuZXh0IGRheSBoZSByZXR1cm5zIHRvIHRoZSBob3VzZSBhbmQgc3VjY2Vzc2Z1bGx5IG11cmRlcnMgdGhlIHZpY3RpbS4gTm93IHRoZSBQQ3MgaGF2ZSB0d28gbXVyZGVycyB0byBpbnZlc3RpZ2F0ZSwgdGhlIHNlY29uZCBvZiB3aGljaCBpcyB0aGUgaW50ZW5kZWQgbXVyZGVyLiBBbmQgdGhlIG11cmRlcmVyIGlzIG5vdCB0aGUgaW5zdGlnYXRvciBvZiB0aGUgY3JpbWUuPGJyIC8+PGJyIC8+IDxiPkNvbnNpZGVyIE11bHRpcGxlIFZpbGxhaW5zPC9iPjogV2hlbiBjcmVhdGluZyBsZXZlbHMsIGNvbnNpZGVyIGhhdmluZyBtdWx0aXBsZSB2aWxsYWlucyBwbGF5aW5nIHJvbGVzIGluIHRoZSBjcmltZS4gVGhpcyBjYW4gYXBwbHkgdG8gbm9uLWNyaW1pbmFsIG15c3RlcmllcyBhcyB3ZWxsOiBpZiB0aGUgbG9jYWwgY2xlcmljIGlzIHBsYWd1ZWQgd2l0aCBuaWdodG1hcmVzLCBpdCBtaWdodCBoYXZlIGFzIG11Y2ggdG8gZG8gd2l0aCB0aGUgZXZpbCBjdWx0IG9wZXJhdGluZyBiZW5lYXRoIHRoZSB0YXZlcm4gYXMgaXQgZG9lcyB3aXRoIHRoZSBzdHJhbmdlIG11c2hyb29tcyBoaXMgaG91c2VrZWVwZXIgaGFzIGJlZW4gcHV0dGluZyBpbiB0aGUgc291cC4gV2hlbiBhIGNvbWJpbmF0aW9uIG9mIGZhY3RvcnMgY29udHJpYnV0ZSB0byBhIG15c3RlcnksIGl04oCZcyBtb3JlIGRpZmZpY3VsdCBmb3IgdGhlIFBDcyB0byBza2lwIHN0cmFpZ2h0IHRvIHRoZSBlbmQuPGJyIC8+PGJyIC8+IDxiPlNlY3JldHMgdXBvbiBTZWNyZXRzPC9iPjogSW4gYSBteXN0ZXJ5LCBpdOKAmXMgZWFzeSB0byBjb25zaWRlciBldmVyeW9uZSB3aG8gaXNu4oCZdCBndWlsdHkgYXMg4oCcaW5ub2NlbnTigJ3igJRrbm93aW5nIG5vdGhpbmcgYW5kIGhvbGRpbmcgbm90aGluZyBiYWNrLiBCdXQgYW55b25lIGNvbm5lY3RlZCB0byBhIG15c3RlcnkgbWlnaHQga25vdyBzZWNyZXRzIHRoZXkgZG9u4oCZdCB3aXNoIHRvIHNoYXJlIGZvciB2YXJpb3VzIHJlYXNvbnMuIFdpdG5lc3NlcyBhbmQgc3VzcGVjdHMgbWlnaHQgaG9sZCBjbHVlcyB0aGV5IGRvbuKAmXQgcmVhbGl6ZSBhcmUgY2x1ZXM6IHNtYWxsIGluY2lkZW50cyB0aGV5IGNhbuKAmXQgaW1hZ2luZSBiZWluZyBjb25uZWN0ZWQgdG8gdGhlIG15c3RlcnkuIFRoZXkgYWxzbyBoYXZlIHNlY3JldHMgb2YgdGhlaXIgb3duIHRoZXkgd2lzaCB0byBwcm90ZWN0LCB3aGljaCBjYW4gYWN0IGFzIHJlZCBoZXJyaW5ncy48YnIgLz48YnIgLz4gPGI+VGhlIFRydXRoPC9iPjogV2hlbiBjcmVhdGluZyBhbiBhZHZlbnR1cmUgYmFzZWQgb24gYSBteXN0ZXJpb3VzIG9jY3VycmVuY2UsIGl04oCZcyB2aXRhbCB0byBza2V0Y2ggb3V0IHRoZSB0aW1lbGluZSBvZiBldmVudHMuIE9uY2UgdGhlIEdNIGtub3dzIGV4YWN0bHkgd2hhdCBoYXBwZW5lZCwgaXQgYmVjb21lcyBlYXNpZXIgdG8gaGFuZGxlIFBDcyB3aG8gdGFrZSB1bmV4cGVjdGVkIHRyYWNrcy4gV2hhdCBpbmNpZGVudHMgbGVkIHVwIHRvIHRoZSBteXN0ZXJ5LCB3aG8gaXMgaW52b2x2ZWQsIHdobyBrbm93cyBkZXRhaWxzIG9mIHRoZSBpbmNpZGVudCwgaG93IG11Y2ggdGltZSBlbGFwc2VkIGJldHdlZW4gZXZlbnRzPzxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9OTI0Ij5SdW5uaW5nIGEgTXlzdGVyeTwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDI0NjwvaT48L2E+PGJyIC8+UnVubmluZyBhIG15c3RlcnkgY2FuIGFsc28gcHJvdmUgdmVyeSBkaWZmZXJlbnQgZnJvbSBhIG1vcmUgbGluZWFyLCBzaXRlLWJhc2VkIGFkdmVudHVyZSwgYXMgaW52ZXN0aWdhdGl2ZSBhZHZlbnR1cmVzIHR5cGljYWxseSBncmFudCB0aGUgUENzIGdyZWF0ZXIgZnJlZWRvbSB0byBwdXJzdWUgdGhlaXIgdGhlb3JpZXMgdG8gbXVsdGlwbGUgZW5kcy4gV2hlbiBydW5uaW5nIGEgbXlzdGVyeSBhZHZlbnR1cmUsIGtlZXAgdGhlIGZvbGxvd2luZyBpbiBtaW5kIHRvIG1ha2Ugc3VyZSB0aGUgYWR2ZW50dXJlIHN0YXlzIGludGVyZXN0aW5nIGFuZCBvbiB0cmFjay48YnIgLz48YnIgLz4gPGI+Q2x1ZXM8L2I+OiBEZXRhaWxzIGFyZSB0aGUgYnJlYWQgY3J1bWJzIGJ5IHdoaWNoIGEgR00gbGVhZHMgdGhlIFBDcyB0aHJvdWdoIGEgbXlzdGVyeSBhZHZlbnR1cmUuIEp1c3QgYmVjYXVzZSBhIG15c3RlcnkgbGFja3MgbGl0ZXJhbCBkdW5nZW9uIHdhbGxzIHRvIGd1aWRlIGEgcGFydHkgZnJvbSBlbmNvdW50ZXIgdG8gZW5jb3VudGVyIGRvZXNu4oCZdCBtZWFuIHRoZSBHTSBsb3NlcyBhbnkgY29udHJvbC4gU29tZXRpbWVzIGEgY2x1ZSBvZmZlcnMgYSBkaXJlY3QgZ3VpZGVwb3N0IGZyb20gb25lIGVuY291bnRlciB0byB0aGUgbmV4dCwgd2hpbGUgb3RoZXIgdGltZXMgdGhleSByZXF1aXJlIG1vcmUgZGV0YWlsIG9yIGludmVzdGlnYXRpb24sIGNoYW5naW5nIHRoZWlyIHN1Z2dlc3Rpb25zIGFzIGluZm9ybWF0aW9uIGJ1aWxkcyB1cC4gQ2x1ZXMgYWxsb3cgR01zIHRvIGd1aWRlIHRoZSBQQ3MgZnJvbSBwb2ludCB0byBwb2ludCB3aGlsZSBwcm92aWRpbmcgdGhlbSB3aXRoIHRoZSBpbGx1c2lvbiBvZiBjaG9pY2UuIFRoZSBjaGFyYWN0ZXJzIGNhbiBzdXJlbHkgZ28gYW55d2hlcmUgdGhleSBwbGVhc2UgYW5kIHB1cnN1ZSBhbGwgdGhlIHJvdXRlcyBvZiBpbnF1aXJ5IHRoZXkgbGlrZSwgYnV0IHRoZSBhZHZlbnR1cmUgZG9lc27igJl0IHByb2dyZXNzIHVudGlsIHRoZXkgcmVhY2ggdGhlIG5leHQgcG9pbnQuPGJyIC8+PGJyIC8+IDxiPkdpdmUgdGhlIFJpZ2h0IERldGFpbHM8L2I+OiBJbiBkZXRlY3RpdmUgc3RvcmllcyBpdOKAmXMgbm90IHVuY29tbW9uIGZvciBhbiBpbnZlc3RpZ2F0b3IgdG8gY3JhY2sgYSBjYXNlIGJhc2VkIG9uIGhpcyBleHBhbnNpdmUgZmllbGQgb2Yga25vd2xlZGdlIG9yIGZhbWlsaWFyaXR5IHdpdGggYSBzaW5nbGUgZGV0YWlsLiBZZXQgZXZlbiB0aG91Z2ggY2hhcmFjdGVycyBpbiBhbiBhZHZlbnR1cmUgbWlnaHQgYmUgaW50aW1hdGUgd2l0aCB0aGUgc3BlY2lmaWNzIG9mIGEgd29ybGQsIHRoZSBwbGF5ZXJzIG1pZ2h0IG5vdCBiZS4gRmV3IHBsYXllcnMgY2FuIGJlIGV4cGVjdGVkIHRvIHJlYWxpemUgYW5kIGFjdCB1cG9uIGNsdWVzIHJlcXVpcmluZyBpbi1kZXB0aCBrbm93bGVkZ2Ugb2YgdGhlIHdvcmxkIG9yIGNvbnRpbnVpdHkgZGV0YWlscyB0aGF0IGhhdmVu4oCZdCBhbHJlYWR5IGJlZW4gaGlnaGxpZ2h0ZWQgaW4gYSBjYW1wYWlnbi4gSW4gc3VjaCBjYXNlcywgdGhlIEdNIG1pZ2h0IGNhbGwgZm9yIHNraWxsIGNoZWNrcywgZ2l2aW5nIHRoZSBQQ3Mgb3Bwb3J0dW5pdGllcyB0byBoYXZlIHJldmVsYXRpb25zIG9yIHJlYWxpemF0aW9ucyBhYm91dCB0aGUgY2x1ZXMgYmVmb3JlIHRoZW0uIFRoaXMgZ3JhbnRzIHRoZSBwbGF5ZXJzIGFjY2VzcyB0byB0aGVpciBjaGFyYWN0ZXJz4oCZIGluc2lnaHRzIHRvIG1vdGl2YXRlIHRoZSBpbnZlc3RpZ2F0aW9u4oCZcyBwcm9ncmVzcywgcHJvdmluZyBtb3JlIHNhdGlzZnlpbmcgdGhhbiBOUENzIGhhdmluZyBhbGwgdGhlIGJpZyBicmVha3Rocm91Z2hzIGluIGEgcGxvdC48YnIgLz48YnIgLz4gQXQgdGhlIHNhbWUgdGltZSwgaXTigJlzIHZlcnkgcG9zc2libGUgdGhhdCBhIGdyb3VwIG1pZ2h0IG1pc3MgYSBjbHVlIGNvbXBsZXRlbHkgb3IgdGhlIGFkdmVudHVyZSBsYWNrcyBhIGRldGFpbCB0aGUgR00gZGlkbuKAmXQgcmVhbGl6ZS4gSXTigJlzIHVwIHRvIHRoZSBHTSB0byBtYWtlIHN1cmUgdGhlIFBDc+KAmSBpbnZlc3RpZ2F0aW9ucyBhbHdheXMgaGF2ZSBhIGRpcmVjdGlvbi4gSWYgYWxsIHRoZSBjbHVlcyBsZWFkIHRvIGJyaWNrIHdhbGxzIG9yIGxlYXZlIHRoZSBwYXJ0eSBib2dnZWQgZG93biBpbiBhcmd1bWVudCBhbmQgaW5hY3Rpb24sIHRoZW4gaXTigJlzIHRpbWUgdG8gaW50cm9kdWNlIGEgbmV3IGNsdWUgb3IgTlBDIHdpdGggYSBiaXQgb2YgZXh0cmEgaW5zaWdodC4gU29tZXRpbWVzIGV2ZW4ganVzdCBoYXZpbmcgYW4gTlBDIHN1YnRseSByZW1pbmQgdGhlIFBDcyBvZiBhIGZvcmdvdHRlbiBmYWNldCBvZiB0aGUgbXlzdGVyeSBpcyBlbm91Z2ggdG8gc3BhcmsgYSBuZXcgcmV2ZWxhdGlvbiwgd2l0aG91dCBoYXZpbmcgdGhlIHBsYXllcnMgZmVlbCBsaWtlIHRoZXnigJlyZSBiZWluZyBzcG9vbi1mZWQgdGhlIHBsb3QuPGJyIC8+PGJyIC8+IDxiPkxldCB0aGUgUENzIERyaXZlPC9iPjogSXTigJlzIHRlbXB0aW5nIHRvIG5lZ2F0ZSBhbGwgb2YgdGhlIFBDcycgbXlzdGVyeS1idXN0aW5nIGFiaWxpdGllcyB0byBwcmVzZXJ2ZSBhIG15c3RlcnnigJlzIHNlY3JlY3kuIEluIGEgbXlzdGVyeSwgbW9yZSB0aGFuIG90aGVyIGFkdmVudHVyZXMsIGl0J3Mgdml0YWwgZm9yIHRoZSBHTSB0byBiZSByZWFjdGl2ZS4gTGV0IHRoZSBQQ3MgbWFrZSB1c2Ugb2YgdGhlaXIgYWJpbGl0aWVzLiBMZXQgdGhlbSBmaW5kIGNsdWVzIGFuZCBkZWNpZGUgd2hlcmUgdG8gZ28gbmV4dOKAlGV2ZW4gaWYgaXQgbWVhbnMgYnVtYmxpbmcgb2ZmIGNvdXJzZSBvciBpbnRvIGEgcmVkIGhlcnJpbmcuIFRoZSBOUENzIGludm9sdmVkIGluIHRoZSBteXN0ZXJ5IHNob3VsZCBoYXZlIHRoZWlyIG93biBhZ2VuZGFzIGFuZCB0YWtlIHNlbnNpYmxlIHByZWNhdXRpb25zIHRvIHByb3RlY3QgdGhlbXNlbHZlczsgdGhlIEdNLCBob3dldmVyLCBzaG91bGRuJ3QgbmVnYXRlIFBDIGFiaWxpdGllcyBhY3Jvc3MgdGhlIGJvYXJkIHRvIG1ha2UgdGhpbmdzIGhhcmRlci48YnIgLz48YnIgLz4gPGI+U2xldXRoLVByb29mPC9iPjogRGVzcGl0ZSB0aGUgR00ncyBiZXN0IGVmZm9ydHMsIGEgZ2FmZmUgZWFybHkgb24gb3IgYW4gdW5hbnRpY2lwYXRlZCBsaW5lIG9mIGludmVzdGlnYXRpb24gbWlnaHQgbGVhZCB0aGUgUENzIHRvIGEgc29sdXRpb24gcmlnaHQgYXdheSwgYnlwYXNzaW5nIHNvbWUgb3IgYWxsIG9mIHRoZSBjbHVlcyBhbmQgZW5jb3VudGVycy4gSW4gbWlub3IgY2FzZXMsIHRoZSBQQ3Mgc2hvdWxkIGJlIHJld2FyZGVkIGZvciB0aGVpciBjbGV2ZXJuZXNzIGFuZCBtYXliZSBnZXQgdG8gc2tpcCBhIGZldyBkYW5nZXJzIG9yIHNpZGUgZW5jb3VudGVycy4gSW4gbW9yZSBzaWduaWZpY2FudCBpbnN0YW5jZXMsIHRoZSBHTSBjYW4gYmUgcmVhY3RpdmUgd2l0aCBoaXMgcGxvdC4gUGVyaGFwcyB0aGUgUENzIGFycml2ZSBhdCB0aGUgY3JpbWluYWwncyBob3VzZSBhbmQgZmluZCBoaW0gZGVhZCwgbGV0dGluZyB0aGUgR00gY3JlYXRlIGEgbmV3IG1hc3RlciB2aWxsYWluIGFuZCByZXVzZSBjbHVlcyBhbmQgaW5jaWRlbnRzIHRoZSBQQ3Mgc2tpcHBlZCBvdmVyIHRoZSBmaXJzdCB0aW1lLiBPciBwZXJoYXBzIHRoZSBHTSBzb3dzIHRoZSBzZWVkcyBvZiBhIG5ldyBteXN0ZXJ5OyBhIGNyeXB0aWMgbGV0dGVyLCBldmlkZW5jZSBvZiBtYWdpY2FsIGNvZXJjaW9uLCBvciBhbiBvbWlub3VzIG1hcCBhbGwgbWlnaHQgaGludCBhdCBhIGdyZWF0ZXIgcGxvdC4gVGhlIFBDcyBtaWdodCB0aGluayB0aGUgbXlzdGVyeSB3YXMgc3RyYWlnaHRmb3J3YXJkLCBidXQgdGhlIHNvd24gY2x1ZXMgaW5kaWNhdGUgdGhlIGFkdmVudHVyZSBpcyBtZXJlbHkgYSBzZXR1cCBmb3IgYSBtb3JlIGNvbXBsZXggaW5jaWRlbnQuPGJyIC8+PGJyIC8+IDxiPlN1Yi1BZHZlbnR1cmVzPC9iPjogQSBkZXRhaWxlZCBteXN0ZXJ5IGRvZXNu4oCZdCBuZWVkIHRvIGV4Y2x1ZGUgdGhlIGVsZW1lbnRzIG9mIG1vcmUgdHJhZGl0aW9uYWwgYWR2ZW50dXJlcy4gSW50ZXJzcGVyc2luZyBhbiBpbnZlc3RpZ2F0aW9uIHdpdGggY29tYmF0cywgY2hhbGxlbmdlcywgYW5kIGV2ZW4gcmVsYXRlZCBkdW5nZW9ucyBjYW4gYm9sc3RlciBhIGdyb3Vw4oCZcyBleGNpdGVtZW50IGFuZCBrZWVwIHRoZSBteXN0ZXJ5IGZlZWxpbmcgbGlrZSBhbiBhZHZlbnR1cmUgYW5kIG5vdCBtZXJlbHkgYSBkcmF3bi1vdXQgcm9sZXBsYXlpbmcgZW5jb3VudGVyLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9OTI1Ij5NYWdpY2FsIEludmVzdGlnYXRpb25zPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gMjQ3PC9pPjwvYT48YnIgLz5XaGVuIGZvcm11bGF0aW5nIGEgbXlzdGVyeSBhZHZlbnR1cmUsIGEgR00gbmVlZHMgdG8gYWNjb3VudCBmb3IgdGhlIHJlYWxpdGllcyBvZiBhIGZhbnRhc3kgd29ybGTigJRwcmltYXJpbHkgbWFnaWMuIFdoaWxlIHNvbWUgY3JpbWVzIGFuZCBjcmltaW5hbHMgbWlnaHQgcHJvdmUgdnVsbmVyYWJsZSB0byB0aGUgcmlnaHQgc3BlbGxzLCB0cnVlIG1hc3Rlcm1pbmRzIHdpbGwga25vdyBhYm91dCBzdWNoIG1hZ2ljcyBhbmQgZXhwZW5kIHJlc291cmNlcyB0byBzdHltaWUgaW52ZXN0aWdhdGlvbnMgcmVseWluZyB1cG9uIHRoZW0uIEdNcyBzaG91bGQgYWxzbyBiZSBmYW1pbGlhciB3aXRoIHRoZSBlZmZlY3RzIG9mIGNvbW1vbiBkaXZpbmF0aW9uIHNwZWxscywgYXMgd2VsbCBhcyB3aGF0IHNwZWxscyBtaWdodCBjb25mb3VuZCB0aGVtLjxiciAvPjxiciAvPiA8Yj5EZXRlY3QgVGhvdWdodHM8L2I+OiA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9RGV0ZWN0IHRob3VnaHRzIj48aT5EZXRlY3QgdGhvdWdodHM8L2k+PC9hPiBpcyBhIHVzZWZ1bCBzcGVsbCB3aGVuIHF1ZXN0aW9uaW5nIHdpdG5lc3Nlcy4gVGhlIEdNIHNob3VsZCBub3QgcGxhY2UgdGhlIGNyaW1pbmFsIGFtb25nIHRoZSB3aXRuZXNzZXMgaWYgdGhlIFBDcyBhcmUgbGlrZWx5IHRvIHVzZSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9ZGV0ZWN0IHRob3VnaHRzIj48aT5kZXRlY3QgdGhvdWdodHM8L2k+PC9hPi4gSG93ZXZlciwgd2l0bmVzc2VzIHdpbGwgbGlrZWx5IGhhdmUgb3BpbmlvbnMgYW5kIGRhcmsgdGhvdWdodHMgdGhhdCBtYXkgc2VlbSBzdXNwaWNpb3VzIGFuZCBzZW5kIHRoZSBpbnZlc3RpZ2F0b3JzIGluIHRoZSB3cm9uZyBkaXJlY3Rpb27igJRtYWtpbmcgbW9zdCByZWFsaXplIHRoZSBpbXByZWNpc2lvbiBvZiB0aGUgc3BlbGwgaW4gZ3JvdXAgc2V0dGluZ3MuPGJyIC8+PGJyIC8+IDxiPkRpc2Nlcm4gTGllczwvYj46IEJ5IHVuY292ZXJpbmcgbGllcywgdGhlIFBDcyBjYW4gZm9jdXMgdGhlaXIgaW52ZXN0aWdhdGlvbnMgb24gd2hhdCBpcyBiZWluZyBjb25jZWFsZWTigJR1c3VhbGx5LCB0aGUgdHJ1dGggYWJvdXQgdGhlIGNyaW1lLiBUaGVyZSBhcmUgb3RoZXIgcmVhc29ucyB0aGF0IHBlb3BsZSBsaWUsIHRob3VnaC4gQSBzdXNwZWN0IG9yIHdpdG5lc3MgbWlnaHQgbGllIGZvciBhIG51bWJlciBvZiByZWFzb25zLCBzdWNoIGFzIHNoYW1lIG92ZXIgd2hhdCBzaGUgd2FzIGRvaW5nLCBmZWFyIG9mIHJldHJpYnV0aW9uLCBvciB0byBwcm90ZWN0IHNvbWVvbmUgZWxzZS4gQW5kIGEgc3VzcGVjdCBjYW4gYWx3YXlzIGRlbnkgbHlpbmcgYW5kIHJlZnVzZSB0byBzYXkgYW55dGhpbmcgbW9yZS48YnIgLz48YnIgLz4gPGI+RGl2aW5hdGlvbjwvYj46IFBDcyBjYW4gdXNlIHRoZSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9ZGl2aW5hdGlvbiI+PGk+ZGl2aW5hdGlvbjwvaT48L2E+IHNwZWxsIHRvIHRyeSB0byBzb2x2ZSB0aGUgbXlzdGVyeS4gVGhlIEdNIG5lZWQgbm90IGFuc3dlciB0aGVpciBxdWVzdGlvbiBwbGFpbmx5LCBob3dldmVyLiBJbiBhZGRpdGlvbiwgbXVsdGlwbGUgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPWRpdmluYXRpb25zIj48aT5kaXZpbmF0aW9uczwvaT48L2E+IGFib3V0IHRoZSBzYW1lIHRvcGljIHJldmVhbCB0aGUgc2FtZSBhZHZpY2UsIHNvIHVubGVzcyB0aGUgUENzIGZvbGxvdyB0aGUgYWR2aWNlIGFuZCBsZWFybiB3aGF0IHRoZXkgY2FuIGZyb20gdGhhdCBjb3Vyc2Ugb2YgYWN0aW9uLCB0aGV5IGNhbm5vdCBsZWFybiBtb3JlIGJ5IGFza2luZyBkaWZmZXJlbnQgcXVlc3Rpb25zIGFib3V0IHRoZSBjcmltZS48YnIgLz48YnIgLz4gPGI+RGV0ZWN0IEFsaWdubWVudDwvYj46IEp1c3QgYmVjYXVzZSBhbiBOUEMgaGFzIGFuIGV2aWwgYWxpZ25tZW50IGRvZXNu4oCZdCBtZWFuIGhl4oCZcyBhIG15c3RlcnnigJlzIGFyY2hpdGVjdCBvciBldmVuIGEgdmlsbGFpbi4gSW4gY29tbW9uIHNvY2lldHksIHRoZXJlIGFyZSB1bnRvbGQgbnVtYmVycyBvZiBwZXR0eSBldmlscywgYnV0IHRoZSBjcmltZXMgb2YgYSBwZXR0eSBjaGVhdCBwcm9iYWJseSBoYXZlIG5vdGhpbmcgdG8gZG8gd2l0aCBhIGdyZWF0ZXIgcGxvdC4gVGh1cywgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPWRldGVjdCBhbGlnbm1lbnQiPjxpPmRldGVjdCBhbGlnbm1lbnQ8L2k+PC9hPiBjYW7igJl0IGJlIHJlbGllZCB1cG9uIGFzIHRoZSBwZXJmZWN0IHZpbGxhaW4gZGV0ZWN0b3IuIEhvd2V2ZXIsIG9uZSBvZiB0aGUgc3VyZXN0IHdheXMgdG8gY29udmluY2UgYSBncm91cCBvZiBhIGNoYXJhY3RlcuKAmXMgZ3VpbHQgaXMgdG8gaGF2ZSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9ZGV0ZWN0IGFsaWdubWVudCI+PGk+ZGV0ZWN0IGFsaWdubWVudDwvaT48L2E+IGZhaWwgd2hlbiBoZeKAmXMgc2NydXRpbml6ZWQuIEEgY2xldmVyIHZpbGxhaW4gd2l0aCA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9dW5kZXRlY3RhYmxlIGFsaWdubWVudCI+PGk+dW5kZXRlY3RhYmxlIGFsaWdubWVudDwvaT48L2E+IGNvdWxkIG9ic2N1cmUgdGhlIGFsaWdubWVudCBvZiBvbmUgb3Igc2V2ZXJhbCBpbm5vY2VudHMsIHRocm93aW5nIGEgaHVydGxlIGluIHRoZSB3YXkgb2YgbWFnaWMtcmVsaWFudCBpbnZlc3RpZ2F0b3JzLjxiciAvPjxiciAvPiA8Yj5Nb2RpZnkgTWVtb3J5PC9iPjogV2l0bmVzc2VzLCBzdXNwZWN0cywgYW5kIGV2ZW4gY3JpbWluYWxzIG1pZ2h0IG5vdCByZWNhbGwgcGVydGluZW50IGluZm9ybWF0aW9uIGlmIHRoZWlyIG1pbmRzIGhhdmUgYmVlbiB0YW1wZXJlZCB3aXRoLiBUaGUgR00gc2hvdWxkIG5vdCB1c2UgdGhlIHNwZWxsIHRvbyBmcmVxdWVudGx5LCBob3dldmVyLiBBcyB3aXRoIG90aGVyIGNsdWUtbmVnYXRpbmcgc3BlbGxzLCB0aGUgUENzIHNob3VsZCBsZWFybiBzb21ldGhpbmcgZnJvbSB0aGUgZmFjdCB0aGF0IHRoZXkgbGVhcm5lZCBub3RoaW5nLiBBdCB0aGUgdmVyeSBsZWFzdCwgdGhleSBtaWdodCBzdXNwZWN0IGNvbXB1bHNpb24gbWFnaWPigJRhbmQgdGh1cyB0aGUgaW52b2x2ZW1lbnQgb2YgYSBzcGVsbGNhc3Rlci48YnIgLz48YnIgLz4gPGI+U3BlYWsgd2l0aCBEZWFkPC9iPjogPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNwZWFrIHdpdGggZGVhZCI+PGk+U3BlYWsgd2l0aCBkZWFkPC9pPjwvYT4gYWxsb3dzIHRoZSBjaGFyYWN0ZXJzIHRvIHNwZWFrIHdpdGggYSBjb3Jwc2UsIGJ1dCB0aGUgY29ycHNlIGtub3dzIG9ubHkgd2hhdCBpdCBkaWQgaW4gbGlmZS4gSWYgdGhlIHZpY3RpbSB3YXMgYXR0YWNrZWQgZnJvbSBiZWhpbmQsIGhlIG1heSBub3QgaGF2ZSBzZWVuIGhpcyBtdXJkZXJlci4gPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNwZWFrIHdpdGggZGVhZCI+PGk+U3BlYWsgd2l0aCBkZWFkPC9pPjwvYT4gYWxzbyBmYWlscyBpZiB0aGUgY29ycHNlIGhhcyBiZWVuIGEgdGFyZ2V0IG9mIHRoZSBzcGVsbCB3aXRoaW4gdGhlIHBhc3Qgd2Vlaywgb3IgaWYgdGhlIGNvcnBzZSBkb2Vzbid0IGhhdmUgYSBtb3V0aC4gQmUgc3VyZSB0byBnaXZlIHRoZSBQQ3Mgc29tZSBjbHVlIGZvciB0aGVpciBlZmZvcnRzLCBob3dldmVyLmRkZEBrgRpksIdl/+6iWWFnf27e1AYaRcZIi0b4phrZFLA4" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=454">GameMastery Guide</a></u> / <u><a href="Rules.aspx?ID=870">Advanced Topics</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=922">Mysteries and Investigations</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 246</i></a><br />A favorite weapon inexplicably stained in blood, a treasure purloined despite the best defenses, a locked room with a mangled corpse within—such elements might seem more at home in tales of crime and suspense than in the sword-swinging quests of most roleplaying games, but just as the literary genres of fantasy and mystery have a long and overlapping tradition, so too do aspects of crime and detective work hold the potential for memorable adventures. In fantasy, mysteries often take on puzzling new angles, as magic, the abilities of monsters, and other wondrous elements vastly enlarge the spectrum of possibilities. Yet fantasy opens up not just new avenues of crime, but also those of detection, and many classic capers might be solved in an instant merely by speaking a simple spell. Thus, the arena of crime, mystery, and investigation changes completely with the introduction of magic, forcing GMs interested in creating enigmatic adventures to think beyond the tropes of classic detective stories and consider the logic of impossible realms in their schemes.<br /><br /> When planning an adventure based around a mystery, a GM needs to consider the plot from two angles, conceiving both the mystery’s elements and the investigative techniques of the detectives (typically the PCs).<br /><h1 class="title"><a href="Rules.aspx?ID=923">The Fantasy Mystery</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 246</i></a><br />At the root of any fantasy mystery is a puzzle that needs to be solved. In laying such a foundation, a GM can take inspiration from traditional tales of conspiracy and deception. Once he has a basic plot, adding details relevant to a fantasy setting makes the mystery more believable, more difficult to solve, and better tuned to the elements of a magical world.<br /><br /> <b>Create Levels</b>: The best mysteries have more than one mystery going on. If someone is murdered, it might be fairly easy for the PCs to track the killer down. Creating extra layers gives the PCs more to work with and reduces the efficacy of divination spells. One person wants another dead, so he hires a thug to commit the murder. On his way to the victim’s house, the murderer runs into a city guard, panics, and kills the guard. The next day he returns to the house and successfully murders the victim. Now the PCs have two murders to investigate, the second of which is the intended murder. And the murderer is not the instigator of the crime.<br /><br /> <b>Consider Multiple Villains</b>: When creating levels, consider having multiple villains playing roles in the crime. This can apply to non-criminal mysteries as well: if the local cleric is plagued with nightmares, it might have as much to do with the evil cult operating beneath the tavern as it does with the strange mushrooms his housekeeper has been putting in the soup. When a combination of factors contribute to a mystery, it’s more difficult for the PCs to skip straight to the end.<br /><br /> <b>Secrets upon Secrets</b>: In a mystery, it’s easy to consider everyone who isn’t guilty as “innocent”—knowing nothing and holding nothing back. But anyone connected to a mystery might know secrets they don’t wish to share for various reasons. Witnesses and suspects might hold clues they don’t realize are clues: small incidents they can’t imagine being connected to the mystery. They also have secrets of their own they wish to protect, which can act as red herrings.<br /><br /> <b>The Truth</b>: When creating an adventure based on a mysterious occurrence, it’s vital to sketch out the timeline of events. Once the GM knows exactly what happened, it becomes easier to handle PCs who take unexpected tracks. What incidents led up to the mystery, who is involved, who knows details of the incident, how much time elapsed between events?<br /><h1 class="title"><a href="Rules.aspx?ID=924">Running a Mystery</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 246</i></a><br />Running a mystery can also prove very different from a more linear, site-based adventure, as investigative adventures typically grant the PCs greater freedom to pursue their theories to multiple ends. When running a mystery adventure, keep the following in mind to make sure the adventure stays interesting and on track.<br /><br /> <b>Clues</b>: Details are the bread crumbs by which a GM leads the PCs through a mystery adventure. Just because a mystery lacks literal dungeon walls to guide a party from encounter to encounter doesn’t mean the GM loses any control. Sometimes a clue offers a direct guidepost from one encounter to the next, while other times they require more detail or investigation, changing their suggestions as information builds up. Clues allow GMs to guide the PCs from point to point while providing them with the illusion of choice. The characters can surely go anywhere they please and pursue all the routes of inquiry they like, but the adventure doesn’t progress until they reach the next point.<br /><br /> <b>Give the Right Details</b>: In detective stories it’s not uncommon for an investigator to crack a case based on his expansive field of knowledge or familiarity with a single detail. Yet even though characters in an adventure might be intimate with the specifics of a world, the players might not be. Few players can be expected to realize and act upon clues requiring in-depth knowledge of the world or continuity details that haven’t already been highlighted in a campaign. In such cases, the GM might call for skill checks, giving the PCs opportunities to have revelations or realizations about the clues before them. This grants the players access to their characters’ insights to motivate the investigation’s progress, proving more satisfying than NPCs having all the big breakthroughs in a plot.<br /><br /> At the same time, it’s very possible that a group might miss a clue completely or the adventure lacks a detail the GM didn’t realize. It’s up to the GM to make sure the PCs’ investigations always have a direction. If all the clues lead to brick walls or leave the party bogged down in argument and inaction, then it’s time to introduce a new clue or NPC with a bit of extra insight. Sometimes even just having an NPC subtly remind the PCs of a forgotten facet of the mystery is enough to spark a new revelation, without having the players feel like they’re being spoon-fed the plot.<br /><br /> <b>Let the PCs Drive</b>: It’s tempting to negate all of the PCs' mystery-busting abilities to preserve a mystery’s secrecy. In a mystery, more than other adventures, it's vital for the GM to be reactive. Let the PCs make use of their abilities. Let them find clues and decide where to go next—even if it means bumbling off course or into a red herring. The NPCs involved in the mystery should have their own agendas and take sensible precautions to protect themselves; the GM, however, shouldn't negate PC abilities across the board to make things harder.<br /><br /> <b>Sleuth-Proof</b>: Despite the GM's best efforts, a gaffe early on or an unanticipated line of investigation might lead the PCs to a solution right away, bypassing some or all of the clues and encounters. In minor cases, the PCs should be rewarded for their cleverness and maybe get to skip a few dangers or side encounters. In more significant instances, the GM can be reactive with his plot. Perhaps the PCs arrive at the criminal's house and find him dead, letting the GM create a new master villain and reuse clues and incidents the PCs skipped over the first time. Or perhaps the GM sows the seeds of a new mystery; a cryptic letter, evidence of magical coercion, or an ominous map all might hint at a greater plot. The PCs might think the mystery was straightforward, but the sown clues indicate the adventure is merely a setup for a more complex incident.<br /><br /> <b>Sub-Adventures</b>: A detailed mystery doesn’t need to exclude the elements of more traditional adventures. Interspersing an investigation with combats, challenges, and even related dungeons can bolster a group’s excitement and keep the mystery feeling like an adventure and not merely a drawn-out roleplaying encounter.<br /><h1 class="title"><a href="Rules.aspx?ID=925">Magical Investigations</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 247</i></a><br />When formulating a mystery adventure, a GM needs to account for the realities of a fantasy world—primarily magic. While some crimes and criminals might prove vulnerable to the right spells, true masterminds will know about such magics and expend resources to stymie investigations relying upon them. GMs should also be familiar with the effects of common divination spells, as well as what spells might confound them.<br /><br /> <b>Detect Thoughts</b>: <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=Detect thoughts"><i>Detect thoughts</i></a> is a useful spell when questioning witnesses. The GM should not place the criminal among the witnesses if the PCs are likely to use <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=detect thoughts"><i>detect thoughts</i></a>. However, witnesses will likely have opinions and dark thoughts that may seem suspicious and send the investigators in the wrong direction—making most realize the imprecision of the spell in group settings.<br /><br /> <b>Discern Lies</b>: By uncovering lies, the PCs can focus their investigations on what is being concealed—usually, the truth about the crime. There are other reasons that people lie, though. A suspect or witness might lie for a number of reasons, such as shame over what she was doing, fear of retribution, or to protect someone else. And a suspect can always deny lying and refuse to say anything more.<br /><br /> <b>Divination</b>: PCs can use the <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=divination"><i>divination</i></a> spell to try to solve the mystery. The GM need not answer their question plainly, however. In addition, multiple <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=divinations"><i>divinations</i></a> about the same topic reveal the same advice, so unless the PCs follow the advice and learn what they can from that course of action, they cannot learn more by asking different questions about the crime.<br /><br /> <b>Detect Alignment</b>: Just because an NPC has an evil alignment doesn’t mean he’s a mystery’s architect or even a villain. In common society, there are untold numbers of petty evils, but the crimes of a petty cheat probably have nothing to do with a greater plot. Thus, <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=detect alignment"><i>detect alignment</i></a> can’t be relied upon as the perfect villain detector. However, one of the surest ways to convince a group of a character’s guilt is to have <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=detect alignment"><i>detect alignment</i></a> fail when he’s scrutinized. A clever villain with <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=undetectable alignment"><i>undetectable alignment</i></a> could obscure the alignment of one or several innocents, throwing a hurtle in the way of magic-reliant investigators.<br /><br /> <b>Modify Memory</b>: Witnesses, suspects, and even criminals might not recall pertinent information if their minds have been tampered with. The GM should not use the spell too frequently, however. As with other clue-negating spells, the PCs should learn something from the fact that they learned nothing. At the very least, they might suspect compulsion magic—and thus the involvement of a spellcaster.<br /><br /> <b>Speak with Dead</b>: <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=Speak with dead"><i>Speak with dead</i></a> allows the characters to speak with a corpse, but the corpse knows only what it did in life. If the victim was attacked from behind, he may not have seen his murderer. <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=Speak with dead"><i>Speak with dead</i></a> also fails if the corpse has been a target of the spell within the past week, or if the corpse doesn't have a mouth. Be sure to give the PCs some clue for their efforts, however.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	The Feudal Society - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, The Feudal Society" /><meta name="description" content="As cultures emerge from ignorance into knowledge, as the people band together for mutual protection, certain leaders—whether strong, smart, or charismatic—rise to guide, lead, and protect. In a fantastic feudal society, such protection is paramount. With hordes of orcs nearby or a dragon’s lair within flying distance, those without skill in arms or magic must depend on those who do have it—and those who have it must expend their energy on maintaining their abilities, rather than scratching the earth or chopping wood. Thus, leaders arise.&lt;br />&lt;br /> These leaders gather strength by bringing together other powerful people. Advisors and warriors earn power and prestige, and as the society expands, so too does the land (or the ambition) required to support it. The trusted advisors become vassals, sworn to commit their warriors in defense of the commonweal, and in turn, the leader becomes the liege, who likewise swears a solemn oath to uphold the sanctity of the realm. This structure is feudalism.&lt;br />&lt;br /> The feudal system is thus a pyramid of bodies, controlled by the warrior aristocracy. At the bottom of the pyramid labor the serfs, who compose the vast majority of the feudal population. In the earliest stage of a feudal society, the fruit of their work supports nearly the entirety of the rest of the society; they act as woodsmen, farmers, hunters, trappers, miners, smiths, millers, carpenters, and more. Serfs are the property of the lord who controls the land on which they work, and most of them never see the world 20 miles past their birthplace. They are expected to serve their lord faithfully and without question; his word is their law, and in return, he protects them, administers justice, feeds them in times of famine, and serves as the mouth of the king.&lt;br />&lt;br /> Above the serfs are the freemen, who pay rent on land overseen by the local lord. Their service to the lord begins and ends with the moneys due him, but many choose a more active role as free mercenaries, smiths, innkeepers, and more. Because the lord of the land to whom they pay rent has no obligation to them in lean times, freemen must create their own fortunes, save their money, and rely on themselves.&lt;br />&lt;br /> Both freemen and serfs might be called to serve in the levies and militias of their kingdom.&lt;br />&lt;br /> To manage their land, the landowners deputize vassals of their own: lesser judges, sheriffs, guardsmen, and more. These men might be serfs as well, or they might be freemen who have sold their services to the lord, but they wield power in the name of the lord, and their word is law unless someone higher up the social ladder says otherwise.&lt;br />&lt;br /> Above these vassals are the nobility, both greater and lesser. In many feudal societies, the nobility are knights, their status dependent on their skill with the blade or the spell. For the most part, they are also landowners, sworn to their liege lord’s defense and sworn to the defense of the citizens who depend upon them. These knights are warriors or magicians, and in certain cases, the religious hierarchy of the kingdom. Those with castles or keeps have more of a duty to their kingdom than simply waiting at the king’s call. They must also adjudicate matters in their fiefs, raise and support a troop of knights to contribute to their lord’s defense, and keep current with the politics of the court and their neighbors.&lt;br />&lt;br /> Additionally, they must also tax their peasants, maintain the fief’s infrastructure (since technically this land belongs to their liege), and stamp out uprisings, rebellions, and monstrous incursions. They can pass their titles to their children, if their liege allows it; many titles begin as granted titles but later turn into hereditary titles, with the holder being responsible for the fief ’s tithe. At the top of this pyramid sits the all-powerful monarch." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=737" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWxVTx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDU0Ij5HYW1lTWFzdGVyeSBHdWlkZTwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD03MDgiPkNyZWF0aW5nIGEgV29ybGQ8L2E+PC91PjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NzM3Ij5UaGUgRmV1ZGFsIFNvY2lldHk8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiAxNTI8L2k+PC9hPjxiciAvPkFzIGN1bHR1cmVzIGVtZXJnZSBmcm9tIGlnbm9yYW5jZSBpbnRvIGtub3dsZWRnZSwgYXMgdGhlIHBlb3BsZSBiYW5kIHRvZ2V0aGVyIGZvciBtdXR1YWwgcHJvdGVjdGlvbiwgY2VydGFpbiBsZWFkZXJz4oCUd2hldGhlciBzdHJvbmcsIHNtYXJ0LCBvciBjaGFyaXNtYXRpY+KAlHJpc2UgdG8gZ3VpZGUsIGxlYWQsIGFuZCBwcm90ZWN0LiBJbiBhIGZhbnRhc3RpYyBmZXVkYWwgc29jaWV0eSwgc3VjaCBwcm90ZWN0aW9uIGlzIHBhcmFtb3VudC4gV2l0aCBob3JkZXMgb2Ygb3JjcyBuZWFyYnkgb3IgYSBkcmFnb27igJlzIGxhaXIgd2l0aGluIGZseWluZyBkaXN0YW5jZSwgdGhvc2Ugd2l0aG91dCBza2lsbCBpbiBhcm1zIG9yIG1hZ2ljIG11c3QgZGVwZW5kIG9uIHRob3NlIHdobyBkbyBoYXZlIGl04oCUYW5kIHRob3NlIHdobyBoYXZlIGl0IG11c3QgZXhwZW5kIHRoZWlyIGVuZXJneSBvbiBtYWludGFpbmluZyB0aGVpciBhYmlsaXRpZXMsIHJhdGhlciB0aGFuIHNjcmF0Y2hpbmcgdGhlIGVhcnRoIG9yIGNob3BwaW5nIHdvb2QuIFRodXMsIGxlYWRlcnMgYXJpc2UuPGJyIC8+PGJyIC8+IFRoZXNlIGxlYWRlcnMgZ2F0aGVyIHN0cmVuZ3RoIGJ5IGJyaW5naW5nIHRvZ2V0aGVyIG90aGVyIHBvd2VyZnVsIHBlb3BsZS4gQWR2aXNvcnMgYW5kIHdhcnJpb3JzIGVhcm4gcG93ZXIgYW5kIHByZXN0aWdlLCBhbmQgYXMgdGhlIHNvY2lldHkgZXhwYW5kcywgc28gdG9vIGRvZXMgdGhlIGxhbmQgKG9yIHRoZSBhbWJpdGlvbikgcmVxdWlyZWQgdG8gc3VwcG9ydCBpdC4gVGhlIHRydXN0ZWQgYWR2aXNvcnMgYmVjb21lIHZhc3NhbHMsIHN3b3JuIHRvIGNvbW1pdCB0aGVpciB3YXJyaW9ycyBpbiBkZWZlbnNlIG9mIHRoZSBjb21tb253ZWFsLCBhbmQgaW4gdHVybiwgdGhlIGxlYWRlciBiZWNvbWVzIHRoZSBsaWVnZSwgd2hvIGxpa2V3aXNlIHN3ZWFycyBhIHNvbGVtbiBvYXRoIHRvIHVwaG9sZCB0aGUgc2FuY3RpdHkgb2YgdGhlIHJlYWxtLiBUaGlzIHN0cnVjdHVyZSBpcyBmZXVkYWxpc20uPGJyIC8+PGJyIC8+IFRoZSBmZXVkYWwgc3lzdGVtIGlzIHRodXMgYSBweXJhbWlkIG9mIGJvZGllcywgY29udHJvbGxlZCBieSB0aGUgd2FycmlvciBhcmlzdG9jcmFjeS4gQXQgdGhlIGJvdHRvbSBvZiB0aGUgcHlyYW1pZCBsYWJvciB0aGUgc2VyZnMsIHdobyBjb21wb3NlIHRoZSB2YXN0IG1ham9yaXR5IG9mIHRoZSBmZXVkYWwgcG9wdWxhdGlvbi4gSW4gdGhlIGVhcmxpZXN0IHN0YWdlIG9mIGEgZmV1ZGFsIHNvY2lldHksIHRoZSBmcnVpdCBvZiB0aGVpciB3b3JrIHN1cHBvcnRzIG5lYXJseSB0aGUgZW50aXJldHkgb2YgdGhlIHJlc3Qgb2YgdGhlIHNvY2lldHk7IHRoZXkgYWN0IGFzIHdvb2RzbWVuLCBmYXJtZXJzLCBodW50ZXJzLCB0cmFwcGVycywgbWluZXJzLCBzbWl0aHMsIG1pbGxlcnMsIGNhcnBlbnRlcnMsIGFuZCBtb3JlLiBTZXJmcyBhcmUgdGhlIHByb3BlcnR5IG9mIHRoZSBsb3JkIHdobyBjb250cm9scyB0aGUgbGFuZCBvbiB3aGljaCB0aGV5IHdvcmssIGFuZCBtb3N0IG9mIHRoZW0gbmV2ZXIgc2VlIHRoZSB3b3JsZCAyMCBtaWxlcyBwYXN0IHRoZWlyIGJpcnRocGxhY2UuIFRoZXkgYXJlIGV4cGVjdGVkIHRvIHNlcnZlIHRoZWlyIGxvcmQgZmFpdGhmdWxseSBhbmQgd2l0aG91dCBxdWVzdGlvbjsgaGlzIHdvcmQgaXMgdGhlaXIgbGF3LCBhbmQgaW4gcmV0dXJuLCBoZSBwcm90ZWN0cyB0aGVtLCBhZG1pbmlzdGVycyBqdXN0aWNlLCBmZWVkcyB0aGVtIGluIHRpbWVzIG9mIGZhbWluZSwgYW5kIHNlcnZlcyBhcyB0aGUgbW91dGggb2YgdGhlIGtpbmcuPGJyIC8+PGJyIC8+IEFib3ZlIHRoZSBzZXJmcyBhcmUgdGhlIGZyZWVtZW4sIHdobyBwYXkgcmVudCBvbiBsYW5kIG92ZXJzZWVuIGJ5IHRoZSBsb2NhbCBsb3JkLiBUaGVpciBzZXJ2aWNlIHRvIHRoZSBsb3JkIGJlZ2lucyBhbmQgZW5kcyB3aXRoIHRoZSBtb25leXMgZHVlIGhpbSwgYnV0IG1hbnkgY2hvb3NlIGEgbW9yZSBhY3RpdmUgcm9sZSBhcyBmcmVlIG1lcmNlbmFyaWVzLCBzbWl0aHMsIGlubmtlZXBlcnMsIGFuZCBtb3JlLiBCZWNhdXNlIHRoZSBsb3JkIG9mIHRoZSBsYW5kIHRvIHdob20gdGhleSBwYXkgcmVudCBoYXMgbm8gb2JsaWdhdGlvbiB0byB0aGVtIGluIGxlYW4gdGltZXMsIGZyZWVtZW4gbXVzdCBjcmVhdGUgdGhlaXIgb3duIGZvcnR1bmVzLCBzYXZlIHRoZWlyIG1vbmV5LCBhbmQgcmVseSBvbiB0aGVtc2VsdmVzLjxiciAvPjxiciAvPiBCb3RoIGZyZWVtZW4gYW5kIHNlcmZzIG1pZ2h0IGJlIGNhbGxlZCB0byBzZXJ2ZSBpbiB0aGUgbGV2aWVzIGFuZCBtaWxpdGlhcyBvZiB0aGVpciBraW5nZG9tLjxiciAvPjxiciAvPiBUbyBtYW5hZ2UgdGhlaXIgbGFuZCwgdGhlIGxhbmRvd25lcnMgZGVwdXRpemUgdmFzc2FscyBvZiB0aGVpciBvd246IGxlc3NlciBqdWRnZXMsIHNoZXJpZmZzLCBndWFyZHNtZW4sIGFuZCBtb3JlLiBUaGVzZSBtZW4gbWlnaHQgYmUgc2VyZnMgYXMgd2VsbCwgb3IgdGhleSBtaWdodCBiZSBmcmVlbWVuIHdobyBoYXZlIHNvbGQgdGhlaXIgc2VydmljZXMgdG8gdGhlIGxvcmQsIGJ1dCB0aGV5IHdpZWxkIHBvd2VyIGluIHRoZSBuYW1lIG9mIHRoZSBsb3JkLCBhbmQgdGhlaXIgd29yZCBpcyBsYXcgdW5sZXNzIHNvbWVvbmUgaGlnaGVyIHVwIHRoZSBzb2NpYWwgbGFkZGVyIHNheXMgb3RoZXJ3aXNlLjxiciAvPjxiciAvPiBBYm92ZSB0aGVzZSB2YXNzYWxzIGFyZSB0aGUgbm9iaWxpdHksIGJvdGggZ3JlYXRlciBhbmQgbGVzc2VyLiBJbiBtYW55IGZldWRhbCBzb2NpZXRpZXMsIHRoZSBub2JpbGl0eSBhcmUga25pZ2h0cywgdGhlaXIgc3RhdHVzIGRlcGVuZGVudCBvbiB0aGVpciBza2lsbCB3aXRoIHRoZSBibGFkZSBvciB0aGUgc3BlbGwuIEZvciB0aGUgbW9zdCBwYXJ0LCB0aGV5IGFyZSBhbHNvIGxhbmRvd25lcnMsIHN3b3JuIHRvIHRoZWlyIGxpZWdlIGxvcmTigJlzIGRlZmVuc2UgYW5kIHN3b3JuIHRvIHRoZSBkZWZlbnNlIG9mIHRoZSBjaXRpemVucyB3aG8gZGVwZW5kIHVwb24gdGhlbS4gVGhlc2Uga25pZ2h0cyBhcmUgd2FycmlvcnMgb3IgbWFnaWNpYW5zLCBhbmQgaW4gY2VydGFpbiBjYXNlcywgdGhlIHJlbGlnaW91cyBoaWVyYXJjaHkgb2YgdGhlIGtpbmdkb20uIFRob3NlIHdpdGggY2FzdGxlcyBvciBrZWVwcyBoYXZlIG1vcmUgb2YgYSBkdXR5IHRvIHRoZWlyIGtpbmdkb20gdGhhbiBzaW1wbHkgd2FpdGluZyBhdCB0aGUga2luZ+KAmXMgY2FsbC4gVGhleSBtdXN0IGFsc28gYWRqdWRpY2F0ZSBtYXR0ZXJzIGluIHRoZWlyIGZpZWZzLCByYWlzZSBhbmQgc3VwcG9ydCBhIHRyb29wIG9mIGtuaWdodHMgdG8gY29udHJpYnV0ZSB0byB0aGVpciBsb3Jk4oCZcyBkZWZlbnNlLCBhbmQga2VlcCBjdXJyZW50IHdpdGggdGhlIHBvbGl0aWNzIG9mIHRoZSBjb3VydCBhbmQgdGhlaXIgbmVpZ2hib3JzLjxiciAvPjxiciAvPiBBZGRpdGlvbmFsbHksIHRoZXkgbXVzdCBhbHNvIHRheCB0aGVpciBwZWFzYW50cywgbWFpbnRhaW4gdGhlIGZpZWbigJlzIGluZnJhc3RydWN0dXJlIChzaW5jZSB0ZWNobmljYWxseSB0aGlzIGxhbmQgYmVsb25ncyB0byB0aGVpciBsaWVnZSksIGFuZCBzdGFtcCBvdXQgdXByaXNpbmdzLCByZWJlbGxpb25zLCBhbmQgbW9uc3Ryb3VzIGluY3Vyc2lvbnMuIFRoZXkgY2FuIHBhc3MgdGhlaXIgdGl0bGVzIHRvIHRoZWlyIGNoaWxkcmVuLCBpZiB0aGVpciBsaWVnZSBhbGxvd3MgaXQ7IG1hbnkgdGl0bGVzIGJlZ2luIGFzIGdyYW50ZWQgdGl0bGVzIGJ1dCBsYXRlciB0dXJuIGludG8gaGVyZWRpdGFyeSB0aXRsZXMsIHdpdGggdGhlIGhvbGRlciBiZWluZyByZXNwb25zaWJsZSBmb3IgdGhlIGZpZWYg4oCZcyB0aXRoZS4gQXQgdGhlIHRvcCBvZiB0aGlzIHB5cmFtaWQgc2l0cyB0aGUgYWxsLXBvd2VyZnVsIG1vbmFyY2guPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD03MzgiPlJ1bGluZyBhIEZldWRhbCBTb2NpZXR5PC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gMTUyPC9pPjwvYT48YnIgLz5UaGUgcHJpbWFyeSByZXNwb25zaWJpbGl0eSBvZiBhIGZldWRhbCBsb3JkIGlzIHByb3RlY3Rpb24gZm9yIGhpcyBvciBoZXIgdmFzc2Fscy4gVGhpcyBwcm90ZWN0aW9uIGlzIGJvdGggcGh5c2ljYWwgYW5kIGxlZ2FsLCBpbmNsdWRpbmcgYWlkIGlmIGEgdmFzc2FsIGNvbWVzIHVuZGVyIGF0dGFjayBhcyB3ZWxsIGFzIHN3aWZ0IGp1c3RpY2UgdW5kZXIgdGhlIGxhdy4gVGhvdWdoIG1vcmUgYWR2YW5jZWQga2luZ2RvbXMgdGVuZCB0byByZWx5IG9uIHByZWNlZGVudCBhbmQgZXN0YWJsaXNoZWQgY29tbW9uIGxhdywga2luZ3MgYW5kIHF1ZWVucyBjYW4gb3ZlcnJpZGUgdGhlc2UgYXQgd2lsbC4gVGhlaXIgd29yZCBsaXRlcmFsbHkgaXMgdGhlIGxhdywgb2Z0ZW4gYm9sc3RlcmVkIGJ5IGEgc3VwcG9zZWQgZGl2aW5lIG1hbmRhdGUgKGFuZCB0aGVpciBhbGxpZXMgd2l0aGluIHRoZSBjaHVyY2gpLjxiciAvPjxiciAvPiBQcm90ZWN0aW9uIGNvbWVzIGluIG1hbnkgZm9ybXMuIFRoZSB2ZXJ5IHB1cnBvc2Ugb2YgdGhlIGtpbmdkb20gaXMgdG8gc3RhbmQgdW5pdGVkIGFnYWluc3QgZW5lbXkgaW52YXNpb24sIGFuZCB0aGlzIGlzIHRoZSByZWFzb24gdGhlIHZhc3NhbHMgaGF2ZSBzd29ybiB0byBwcm92aWRlIHdhcnJpb3JzIGFuZCBzZXJ2aWNlIHRvIHRoZSBraW5nLiBZZXQgdGhlIGtpbmcgbXVzdCBhbHNvIHByb3RlY3QgdGhlIGtpbmdkb20gYWdhaW5zdCBpbnRlcm5hbCB0aHJlYXRzLCBzdWNoIGFzIHJlYmVsbGlvbnMsIGJhbmRpdHMsIHRoaWV2ZXMgYW5kIG11cmRlcmVycywgbWVyY2FudGlsZSBmcmF1ZCwgYW5kIGRpc3NpZGVudCBvciBhbWJpdGlvdXMgbm9ibGVzLiBNdWNoIG9mIHRoZSB0aW1lLCB0aGlzIG1lYW5zIHBhc3NpbmcgcmVzcG9uc2liaWxpdHkgdG8gdGhlIGxvY2FsIGxvcmRzIGFuZCB0cnVzdGluZyB0aGVtIHRvIGRvIHRoZWlyIHdvcms7IGFuZCBpbiBtb3N0IGNhc2VzIHRoZSB2YXNzYWxzIGhhdmUgZXh0cmFvcmRpbmFyeSBsYXRpdHVkZSB0byBpbnRlcnByZXQgdGhlIGtpbmfigJlzIHdpc2hlcywgYW5kIGRpcmVjdCBhcHBlYWwgdG8gdGhlIHJ1bGVyIGlzIHJhcmUgYW5kIGRpc2NvdXJhZ2VkIGJ5IGhpcyB1bmRlcmxpbmdzLiBGZXVkYWwganVzdGljZSBhdCB0aGUgdXBwZXJtb3N0IGxldmVscyB0ZW5kcyB0byBiZSBwcmFnbWF0aWMsIHJhdGhlciB0aGFuIGlkZWFsaXN0aWMsIG1lYW5pbmcgdGhhdCBhbnkgZGlzcHV0ZXMgYXJlIHNldHRsZWQgYWNjb3JkaW5nIHRvIHdoaWNoIHBhcnR5IGlzIG9mIG1vc3QgdXNlIHRvIHRoZSBraW5nIGhpbXNlbGYuIE9jY2FzaW9uYWxseSwgYXMgaW4gdGhlIGNhc2Ugb2YgdGhlIEhvbHkgUm9tYW4gRW1wZXJvciwgYSBtb25hcmNoIG1heSBiZSBzZWxlY3RlZCBieSBhIGdyb3VwIG9mIHBlZXJzIHJhdGhlciB0aGFuIGluaGVyaXRlZCB0aHJvdWdoIGhpcyBibG9vZGxpbmUsIGluIHdoaWNoIGNhc2UgaGXigJlzIGJvdGggYWJzb2x1dGUgcnVsZXIgYW5kIGJlaG9sZGVuIHRvIGhpcyB1bmRlcmxpbmdzLCBhIGZhY3QgcmVmbGVjdGVkIGluIGhpcyBydWxpbmdzLiBJbiBhIGZldWRhbCBzb2NpZXR5LCBqdXN0aWNlIGlzIGZhciBmcm9tIGJsaW5kLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NzM5Ij5UaGUgRmV1ZGFsIEhpZXJhcmNoeTwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDE1MzwvaT48L2E+PGJyIC8+QSBzYW1wbGUgZmV1ZGFsIGhpZXJhcmNoeSwgZnJvbSB0b3AgdG8gYm90dG9tLCBpcyBhcyBmb2xsb3dzLiBOb3RlIHRoYXQgdGhlIG5vYmlsaXR5IGhvbGRzIHRoZSBsYW5kIGluIHRydXN0IGZvciB0aGUgY3Jvd24gYW5kIGRvZXMgbm90IG93biBpdCBvdXRyaWdodC4gQ2VydGFpbiBleGNlcHRpb25zLCBjYWxsZWQgYWxsb2RpYWwgaG9sZGluZ3MsIGNhbiBiZSBncmFudGVkIHRvIGFueW9uZSBieSB0aGUgY3Jvd24sIGJ1dCB0aGV5IHVzdWFsbHkgcXVpY2tseSByZXZlcnQgdG8gdGhlIGNyb3duIHZpYSB0cmlja2VyeSBvciBjb25xdWVzdC4gQXMgYSBmZXVkYWwgc29jaWV0eSBkb2VzbuKAmXQgbGVhdmUgYSBsb3Qgb2ZsZWV3YXkgZm9yIHRyYXZlbCwgYWR2ZW50dXJlcnMgbWlnaHQgYmUgZnJlZW1lbiBvdXQgdG8gaW1wcm92ZSB0aGVpciBzdGF0aW9uIHRocm91Z2ggZ3JlYXQgZGVlZHMsIG9yIHRoZSB5b3VuZ2VzdCBwcm9nZW55IG9mIHRoZSBub2JpbGl0eSwgZWFnZXIgdG8gd2luIHRoZWlyIG93biB0aXRsZXMgdGhyb3VnaCBmb3JjZSBvZiBhcm1zLjxiciAvPiA8dGFibGUgY2xhc3M9ImlubmVyIj48dHI+PHRkPjxiPlRpdGxlPC9iPjwvdGQ+PHRkPjxiPkxhbmRzPC9iPjwvdGQ+PHRkPjxiPkhlcmVkaXRhcnk/PC9iPjwvdGQ+PC90cjx0cj48dGQ+S2luZy9RdWVlbjwvdGQ+PHRkPktpbmdkb208L3RkPjx0ZD5ZPC90ZD48L3RyPjx0cj48dGQ+UHJpbmNlL1ByaW5jZXNzPC90ZD48dGQ+UHJpbmNpcGFsaXR5PC90ZD48dGQ+WTwvdGQ+PC90cj48dHI+PHRkPkR1a2UvRHVjaGVzczwvdGQ+PHRkPkR1Y2h5PC90ZD48dGQ+WTwvdGQ+PC90cj48dHI+PHRkPk1hcmdyYXZlL01hcmdyYXZpbmU8L3RkPjx0ZD5NYXJxdWlzYXRlPC90ZD48dGQ+WTwvdGQ+PC90cj48dHI+PHRkPkNvdW50IChvciBFYXJsKS9Db3VudGVzczwvdGQ+PHRkPkNvdW50eTwvdGQ+PHRkPlk8L3RkPjwvdHI+PHRyPjx0ZD5WaXNjb3VudC9WaXNjb3VudGVzczwvdGQ+PHRkPlZpc2NvdW50eSBvciBTaGlyZTwvdGQ+PHRkPlk8L3RkPjwvdHI+PHRyPjx0ZD5CYXJvbi9CYXJvbmVzczwvdGQ+PHRkPkJhcm9ueTwvdGQ+PHRkPlk8L3RkPjwvdHI+PHRyPjx0ZD5LbmlnaHQvRGFtZS9Mb3JlPC90ZD48dGQ+TWFub3I8L3RkPjx0ZD5OPC90ZD48L3RyPjx0cj48dGQ+TWVyY2hhbnQ8L3RkPjx0ZD7igJQ8L3RkPjx0ZD7igJQ8L3RkPjwvdHI+PHRyPjx0ZD5GcmVlbWFuPC90ZD48dGQ+4oCUPC90ZD48dGQ+WTwvdGQ+PC90cj48dHI+PHRkPlNlcmY8L3RkPjx0ZD7igJQ8L3RkPjx0ZD5ZPC90ZD48L3RyPjwvdGFibGU+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD03NDAiPlJlbGlnaW9uJ3MgUm9sZTwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDE1MzwvaT48L2E+PGJyIC8+RmFpdGggcGxheXMgYSBodWdlIHJvbGUgaW4gbWFueSBmZXVkYWwgc29jaWV0aWVzLCBlc3BlY2lhbGx5IGluIG1vbm90aGVpc3RpYyBiZWxpZWYgc3lzdGVtcyB3aG9zZSBjaHVyY2hlcyBhcmUgc3RydWN0dXJlZCBpbiBhIHNpbWlsYXIgZmFzaGlvbi4gSW4gYSBmYW50YXN5IHNldHRpbmcsIHdpdGggbXVsdGlwbGUgcGFudGhlb25zIGFuZCB0aGUgZmF2b3Igb2YgdGhlIGdvZHMgbWFuaWZlc3RpbmcgaW4gcGh5c2ljYWwgcGhlbm9tZW5hLCBhbGwgYmV0cyBhcmUgb2ZmLiBXaWxsIGEgbW9uYXJjaCB3YW50IHRvIGFsbHkgd2l0aCBhIGNodXJjaD8gRWFybHkgbWVtYmVycyBvZiB0aGUgcm95YWwgZmFtaWx5IG1heSBmaW5kIHRoZXNlIGFsbGlhbmNlcyBjb252ZW5pZW50LCBidXQgd2hlbiBhIHByaWVzdCBjYW4gY2FzdCA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9ZGV0ZWN0IGV2aWwiPjxpPmRldGVjdCBldmlsPC9pPjwvYT4gb3IgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPWtub3cgYWxpZ25tZW50Ij48aT5rbm93IGFsaWdubWVudDwvaT48L2E+LCBydWxlcnMgbm8gbG9uZ2VyIGhhdmUgdGhlIG9wdGlvbiBvZiBoaWRpbmcgdGhlaXIgdHJ1ZSBiZWxpZWZzLiBHaXZpbmcgc3VjaCBwb3dlciB0byBhIGNodXJjaCBtaWdodCBzcGVsbCBkaXNhc3RlciBmb3IgYSByb3lhbCBob3VzZS4gV2hlbiBwcmllc3RzIHNwZWFrIG9mIGEgcnVsZXIgaGF2aW5nIHRoZSBkaXZpbmUgcmlnaHQsIHRoZSBwZW9wbGUgY2FuIHJlc3QgYXNzdXJlZCB0aGF0IHRoaXMgaXMgc28uIE9uZSBxdWVzdGlvbiwgdGhlbiwgaXMgd2hhdCBoYXBwZW5zIHdoZW4gYSBoZXJlZGl0YXJ5IG1vbmFyY2ggZG9lc27igJl0IGhhdmUgdGhhdCBmYXZvci4gRG9lcyBoZSBjb3JydXB0IHRoZSBwcmllc3Rob29kLCBvciBkbyB0aGUgcHJpZXN0cyBoZWxwIHRvIHJlcGxhY2UgaGltPyBJbiBhIGZldWRhbCBzb2NpZXR5LCB0aGVzZSBhcmUgbm90IHNtYWxsIHRhc2tzLjxiciAvPjxiciAvPiBEZXBlbmRpbmcgb24gdGhlIHNvY2lldHkgeW91IGRlc2lnbiwgdGhlIGNodXJjaGVzIG1heSBiZSBtb3JlIG9yIGxlc3Mgd292ZW4gaW50byB0aGUgZnJhbWV3b3JrIG9mIHNvY2lldHksIHdpdGggY2h1cmNoZXMgb2YgYSBsYXdmdWwgYmVudCBuYXR1cmFsbHkgYXBwZWFsaW5nIHRvIGEgbW9uYXJjaCBmcm9tIHdob20gYWxsIGxhd3Mgc3RlbS4gSW4gc3VjaCBzaXR1YXRpb25zLCB0aGUgbW9uYXJjaHkgZ2VuZXJhbGx5IHdvcmtzIHdpdGggaXRzIHNwaXJpdHVhbCBhZHZpc29ycyBpbiBtdWNoIHRoZSBzYW1lIHdheSBhcyBpdCBkb2VzIHdpdGggaXRzIHZhc3NhbHPigJR0aG91Z2ggaW4gdGhlb3J5IHRoZSBjaHVyY2ggYW5zd2VycyB0byBpdHNlbGYsIGluIHByYWN0aWNlIHBvd2VyIGJlZ2V0cyBwb3dlciwgYW5kIHRob3NlIGNodXJjaGVzIGRlZXBseSBlbm1lc2hlZCBpbiBmZXVkYWwgcG9saXRpY3MgdGVuZCB0byBzcGVuZCBtdWNoIG9mIHRoZWlyIGVmZm9ydCBlbmZvcmNpbmcgdGhlIHNvY2lhbCBvcmRlciwgbWFpbnRhaW5pbmcgb3J0aG9kb3h5LCBhbmQgcm9vdGluZyBvdXQgaGVyZXNpZXMuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD03NDEiPlF1ZXN0aW9ucyBhYm91dCBZb3VyIEZldWRhbCBTb2NpZXR5PC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gMTUzPC9pPjwvYT48YnIgLz5XaGVuIGRlc2lnbmluZyBhIGZldWRhbCBzb2NpZXR5LCBjb25zaWRlciB0aGUgZm9sbG93aW5nOiA8dWw+PGxpPldobyBydWxlcyB0aGUgc29jaWV0eT8gSG93IGRvZXMgdGhlIHJ1bGVyIG1haW50YWluIHBvd2VyIGFuZCBjb250cm9sPyA8L2xpPjxsaT5XaGF0IGZhY3Rpb25zIHBsb3QgYWdhaW5zdCB0aGUgcnVsZXI/IFdoeT8gPC9saT48bGk+SG93IGlzIHRoZSBydWxlciBzZWxlY3RlZD8gPC9saT48bGk+SG93IGRvZXMgdGhlIHJ1bGVyIGtlZXAgb3JkZXI/IDwvbGk+PGxpPkhvdyBpbnZvbHZlZCBpcyB0aGUgcnVsZXIgaW4gdGhlIGFmZmFpcnMgb2YgdGhlIHJlYWxtPyA8L2xpPjxsaT5XaGF0IGFyZSB0aGUgZXh0ZXJuYWwgdGhyZWF0cyB0byB0aGlzIHNvY2lldHk/IDwvbGk+PGxpPldoYXQgYXJlIHRoZSBpbnRlcm5hbCB0aHJlYXRzIHRvIHRoaXMgc29jaWV0eT8gPC9saT48bGk+SG93IGNvcnJ1cHQgaXMgdGhlIG5vYmlsaXR5PyA8L2xpPjxsaT5Ib3cgcmlnaWQgaXMgdGhlIHNvY2lhbCBzeXN0ZW0/IDwvbGk+PGxpPldoYXQgZG8gdGhlIHNvY2lhbCBjbGFzc2VzIHRoaW5rIG9mIGVhY2ggb3RoZXI/IDwvbGk+PGxpPkhvdyB3ZWxsIGRvZXMgdGhlIG5vYmlsaXR5IHByb3ZpZGUgZm9yIGl0cyBzZXJmcz8gPC9saT48bGk+SG93IGRvZXMgdGhlIHNvY2lldHkgZmVlbCBhYm91dCB0cmF2ZWxpbmcgYWR2ZW50dXJlcnM/IDwvbGk+PGxpPldoYXQgaXMgdGhlIHJvbGUgb2YgcmVsaWdpb24gaW4gdGhpcyBzb2NpZXR5PyBXaGF0IGRlaXRpZXMgYXJlIHByb21pbmVudD8gPC9saT48bGk+RG8gcHJpZXN0cyB3aWVsZCBwb3dlcj8gSG93IG11Y2g/IDwvbGk+PGxpPklzIHRoZXJlIGEgaGllcmFyY2h5IHdpdGhpbiB0aGUgY2h1cmNoIHRoYXQgbWlycm9ycyB0aGF0IG9mIHRoZSBzb2NpZXR5IGF0IGxhcmdlPyA8L2xpPjxsaT5XaGF0IGlzIHRoZSByb2xlIG9mIHdpemFyZHMgaW4gdGhpcyBzb2NpZXR5PyBEbyB0aGV5IHdvcmsgd2l0aCwgYWdhaW5zdCwgb3IgYWxvbmdzaWRlIHRoZSBtb25hcmNoPyA8L2xpPjxsaT5Ib3cgZG8gcGVvcGxlIG9mIHRoZSBzb2NpZXR5IGZlZWwgYWJvdXQgbWFnaWM/IDwvbGk+PGxpPldoaWNoIGFyZSB0aGUgbW9zdCBwcm9taW5lbnQgY2l0aWVzLCBhbmQgZG8gdGhleSBoYXZlIG1ham9yIHdvcmtzIGxpa2UgY2F0aGVkcmFscywgYnJpZGdlcywgYW5kIGZvcnRyZXNzZXM/PC9saT48L3VsPmRkZJweavyP9sN1eRMoyckG1ox3monYOEJgFR0snD0qxzJL" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=454">GameMastery Guide</a></u> / <u><a href="Rules.aspx?ID=708">Creating a World</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=737">The Feudal Society</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 152</i></a><br />As cultures emerge from ignorance into knowledge, as the people band together for mutual protection, certain leaders—whether strong, smart, or charismatic—rise to guide, lead, and protect. In a fantastic feudal society, such protection is paramount. With hordes of orcs nearby or a dragon’s lair within flying distance, those without skill in arms or magic must depend on those who do have it—and those who have it must expend their energy on maintaining their abilities, rather than scratching the earth or chopping wood. Thus, leaders arise.<br /><br /> These leaders gather strength by bringing together other powerful people. Advisors and warriors earn power and prestige, and as the society expands, so too does the land (or the ambition) required to support it. The trusted advisors become vassals, sworn to commit their warriors in defense of the commonweal, and in turn, the leader becomes the liege, who likewise swears a solemn oath to uphold the sanctity of the realm. This structure is feudalism.<br /><br /> The feudal system is thus a pyramid of bodies, controlled by the warrior aristocracy. At the bottom of the pyramid labor the serfs, who compose the vast majority of the feudal population. In the earliest stage of a feudal society, the fruit of their work supports nearly the entirety of the rest of the society; they act as woodsmen, farmers, hunters, trappers, miners, smiths, millers, carpenters, and more. Serfs are the property of the lord who controls the land on which they work, and most of them never see the world 20 miles past their birthplace. They are expected to serve their lord faithfully and without question; his word is their law, and in return, he protects them, administers justice, feeds them in times of famine, and serves as the mouth of the king.<br /><br /> Above the serfs are the freemen, who pay rent on land overseen by the local lord. Their service to the lord begins and ends with the moneys due him, but many choose a more active role as free mercenaries, smiths, innkeepers, and more. Because the lord of the land to whom they pay rent has no obligation to them in lean times, freemen must create their own fortunes, save their money, and rely on themselves.<br /><br /> Both freemen and serfs might be called to serve in the levies and militias of their kingdom.<br /><br /> To manage their land, the landowners deputize vassals of their own: lesser judges, sheriffs, guardsmen, and more. These men might be serfs as well, or they might be freemen who have sold their services to the lord, but they wield power in the name of the lord, and their word is law unless someone higher up the social ladder says otherwise.<br /><br /> Above these vassals are the nobility, both greater and lesser. In many feudal societies, the nobility are knights, their status dependent on their skill with the blade or the spell. For the most part, they are also landowners, sworn to their liege lord’s defense and sworn to the defense of the citizens who depend upon them. These knights are warriors or magicians, and in certain cases, the religious hierarchy of the kingdom. Those with castles or keeps have more of a duty to their kingdom than simply waiting at the king’s call. They must also adjudicate matters in their fiefs, raise and support a troop of knights to contribute to their lord’s defense, and keep current with the politics of the court and their neighbors.<br /><br /> Additionally, they must also tax their peasants, maintain the fief’s infrastructure (since technically this land belongs to their liege), and stamp out uprisings, rebellions, and monstrous incursions. They can pass their titles to their children, if their liege allows it; many titles begin as granted titles but later turn into hereditary titles, with the holder being responsible for the fief ’s tithe. At the top of this pyramid sits the all-powerful monarch.<br /><h1 class="title"><a href="Rules.aspx?ID=738">Ruling a Feudal Society</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 152</i></a><br />The primary responsibility of a feudal lord is protection for his or her vassals. This protection is both physical and legal, including aid if a vassal comes under attack as well as swift justice under the law. Though more advanced kingdoms tend to rely on precedent and established common law, kings and queens can override these at will. Their word literally is the law, often bolstered by a supposed divine mandate (and their allies within the church).<br /><br /> Protection comes in many forms. The very purpose of the kingdom is to stand united against enemy invasion, and this is the reason the vassals have sworn to provide warriors and service to the king. Yet the king must also protect the kingdom against internal threats, such as rebellions, bandits, thieves and murderers, mercantile fraud, and dissident or ambitious nobles. Much of the time, this means passing responsibility to the local lords and trusting them to do their work; and in most cases the vassals have extraordinary latitude to interpret the king’s wishes, and direct appeal to the ruler is rare and discouraged by his underlings. Feudal justice at the uppermost levels tends to be pragmatic, rather than idealistic, meaning that any disputes are settled according to which party is of most use to the king himself. Occasionally, as in the case of the Holy Roman Emperor, a monarch may be selected by a group of peers rather than inherited through his bloodline, in which case he’s both absolute ruler and beholden to his underlings, a fact reflected in his rulings. In a feudal society, justice is far from blind.<br /><h1 class="title"><a href="Rules.aspx?ID=739">The Feudal Hierarchy</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 153</i></a><br />A sample feudal hierarchy, from top to bottom, is as follows. Note that the nobility holds the land in trust for the crown and does not own it outright. Certain exceptions, called allodial holdings, can be granted to anyone by the crown, but they usually quickly revert to the crown via trickery or conquest. As a feudal society doesn’t leave a lot ofleeway for travel, adventurers might be freemen out to improve their station through great deeds, or the youngest progeny of the nobility, eager to win their own titles through force of arms.<br /> <table class="inner"><tr><td><b>Title</b></td><td><b>Lands</b></td><td><b>Hereditary?</b></td></tr<tr><td>King/Queen</td><td>Kingdom</td><td>Y</td></tr><tr><td>Prince/Princess</td><td>Principality</td><td>Y</td></tr><tr><td>Duke/Duchess</td><td>Duchy</td><td>Y</td></tr><tr><td>Margrave/Margravine</td><td>Marquisate</td><td>Y</td></tr><tr><td>Count (or Earl)/Countess</td><td>County</td><td>Y</td></tr><tr><td>Viscount/Viscountess</td><td>Viscounty or Shire</td><td>Y</td></tr><tr><td>Baron/Baroness</td><td>Barony</td><td>Y</td></tr><tr><td>Knight/Dame/Lore</td><td>Manor</td><td>N</td></tr><tr><td>Merchant</td><td>—</td><td>—</td></tr><tr><td>Freeman</td><td>—</td><td>Y</td></tr><tr><td>Serf</td><td>—</td><td>Y</td></tr></table><br /><h1 class="title"><a href="Rules.aspx?ID=740">Religion's Role</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 153</i></a><br />Faith plays a huge role in many feudal societies, especially in monotheistic belief systems whose churches are structured in a similar fashion. In a fantasy setting, with multiple pantheons and the favor of the gods manifesting in physical phenomena, all bets are off. Will a monarch want to ally with a church? Early members of the royal family may find these alliances convenient, but when a priest can cast <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=detect evil"><i>detect evil</i></a> or <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=know alignment"><i>know alignment</i></a>, rulers no longer have the option of hiding their true beliefs. Giving such power to a church might spell disaster for a royal house. When priests speak of a ruler having the divine right, the people can rest assured that this is so. One question, then, is what happens when a hereditary monarch doesn’t have that favor. Does he corrupt the priesthood, or do the priests help to replace him? In a feudal society, these are not small tasks.<br /><br /> Depending on the society you design, the churches may be more or less woven into the framework of society, with churches of a lawful bent naturally appealing to a monarch from whom all laws stem. In such situations, the monarchy generally works with its spiritual advisors in much the same way as it does with its vassals—though in theory the church answers to itself, in practice power begets power, and those churches deeply enmeshed in feudal politics tend to spend much of their effort enforcing the social order, maintaining orthodoxy, and rooting out heresies.<br /><h1 class="title"><a href="Rules.aspx?ID=741">Questions about Your Feudal Society</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 153</i></a><br />When designing a feudal society, consider the following: <ul><li>Who rules the society? How does the ruler maintain power and control? </li><li>What factions plot against the ruler? Why? </li><li>How is the ruler selected? </li><li>How does the ruler keep order? </li><li>How involved is the ruler in the affairs of the realm? </li><li>What are the external threats to this society? </li><li>What are the internal threats to this society? </li><li>How corrupt is the nobility? </li><li>How rigid is the social system? </li><li>What do the social classes think of each other? </li><li>How well does the nobility provide for its serfs? </li><li>How does the society feel about traveling adventurers? </li><li>What is the role of religion in this society? What deities are prominent? </li><li>Do priests wield power? How much? </li><li>Is there a hierarchy within the church that mirrors that of the society at large? </li><li>What is the role of wizards in this society? Do they work with, against, or alongside the monarch? </li><li>How do people of the society feel about magic? </li><li>Which are the most prominent cities, and do they have major works like cathedrals, bridges, and fortresses?</li></ul></span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

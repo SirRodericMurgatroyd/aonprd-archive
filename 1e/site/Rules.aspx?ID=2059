@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Psychic Magic - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Psychic Magic" /><meta name="description" content="Wizards study ancient tomes to unlock arcane secrets of the universe, and clerics pray to distant deities to grant them divine power. Yet there is a third, more esoteric kind of magic, connected to every creature’s composite being, from the conscious mind to the deepest desire, from the life force to the spirit, from the very soul to the cosmic self. This third type of magic is psychic magic.&lt;br />&lt;br /> A psychic spell largely functions like any other spell. It’s another type of magic, similar to arcane or divine magic—in fact, those who use psychic magic are easily mistaken for practitioners of arcane and divine traditions. &lt;a style=&quot;text-decoration:underline&quot; href=&quot;Feats.aspx?Category=Metamagic&quot;>Metamagic feats&lt;/a> and any other rules that alter or trigger from spells can usually be used with psychic spells (though see the Components section below for a few exceptions). Psychic spellcasters aren’t affected by effects that target only arcane or divine spellcasters, nor can they use arcane or divine scrolls or other items or feats that state they can be utilized by only arcane or divine spellcasters." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=2059" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXDODxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjA1OSI+UHN5Y2hpYyBNYWdpYzwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWVndT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtT2NjdWx0LUFkdmVudHVyZXMiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+T2NjdWx0IEFkdmVudHVyZXMgcGcuIDE0NDwvaT48L2E+PGJyIC8+V2l6YXJkcyBzdHVkeSBhbmNpZW50IHRvbWVzIHRvIHVubG9jayBhcmNhbmUgc2VjcmV0cyBvZiB0aGUgdW5pdmVyc2UsIGFuZCBjbGVyaWNzIHByYXkgdG8gZGlzdGFudCBkZWl0aWVzIHRvIGdyYW50IHRoZW0gZGl2aW5lIHBvd2VyLiBZZXQgdGhlcmUgaXMgYSB0aGlyZCwgbW9yZSBlc290ZXJpYyBraW5kIG9mIG1hZ2ljLCBjb25uZWN0ZWQgdG8gZXZlcnkgY3JlYXR1cmXigJlzIGNvbXBvc2l0ZSBiZWluZywgZnJvbSB0aGUgY29uc2Npb3VzIG1pbmQgdG8gdGhlIGRlZXBlc3QgZGVzaXJlLCBmcm9tIHRoZSBsaWZlIGZvcmNlIHRvIHRoZSBzcGlyaXQsIGZyb20gdGhlIHZlcnkgc291bCB0byB0aGUgY29zbWljIHNlbGYuIFRoaXMgdGhpcmQgdHlwZSBvZiBtYWdpYyBpcyBwc3ljaGljIG1hZ2ljLjxiciAvPjxiciAvPiBBIHBzeWNoaWMgc3BlbGwgbGFyZ2VseSBmdW5jdGlvbnMgbGlrZSBhbnkgb3RoZXIgc3BlbGwuIEl04oCZcyBhbm90aGVyIHR5cGUgb2YgbWFnaWMsIHNpbWlsYXIgdG8gYXJjYW5lIG9yIGRpdmluZSBtYWdpY+KAlGluIGZhY3QsIHRob3NlIHdobyB1c2UgcHN5Y2hpYyBtYWdpYyBhcmUgZWFzaWx5IG1pc3Rha2VuIGZvciBwcmFjdGl0aW9uZXJzIG9mIGFyY2FuZSBhbmQgZGl2aW5lIHRyYWRpdGlvbnMuIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PU1ldGFtYWdpYyI+TWV0YW1hZ2ljIGZlYXRzPC9hPiBhbmQgYW55IG90aGVyIHJ1bGVzIHRoYXQgYWx0ZXIgb3IgdHJpZ2dlciBmcm9tIHNwZWxscyBjYW4gdXN1YWxseSBiZSB1c2VkIHdpdGggcHN5Y2hpYyBzcGVsbHMgKHRob3VnaCBzZWUgdGhlIENvbXBvbmVudHMgc2VjdGlvbiBiZWxvdyBmb3IgYSBmZXcgZXhjZXB0aW9ucykuIFBzeWNoaWMgc3BlbGxjYXN0ZXJzIGFyZW7igJl0IGFmZmVjdGVkIGJ5IGVmZmVjdHMgdGhhdCB0YXJnZXQgb25seSBhcmNhbmUgb3IgZGl2aW5lIHNwZWxsY2FzdGVycywgbm9yIGNhbiB0aGV5IHVzZSBhcmNhbmUgb3IgZGl2aW5lIHNjcm9sbHMgb3Igb3RoZXIgaXRlbXMgb3IgZmVhdHMgdGhhdCBzdGF0ZSB0aGV5IGNhbiBiZSB1dGlsaXplZCBieSBvbmx5IGFyY2FuZSBvciBkaXZpbmUgc3BlbGxjYXN0ZXJzLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjA2MCI+Q29tcG9uZW50czwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWVndT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtT2NjdWx0LUFkdmVudHVyZXMiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+T2NjdWx0IEFkdmVudHVyZXMgcGcuIDE0NDwvaT48L2E+PGJyIC8+UHN5Y2hpYyBtYWdpYyBvcmlnaW5hdGVzIGZyb20gdGhlIGRpc3RpbmN0aXZlIHF1YWxpdGllcyBvZiB0aGUgY2FzdGVy4oCZcyBjb21wb3NpdGUgYmVpbmcsIHJhdGhlciB0aGFuIHRocm91Z2ggYXJjYW5lIGZvcm11bGFlIG9yIHJvdGUgc3VwcGxpY2F0aW9uIHRvIGRpdmluZSBlbnRpdGllcy4gVGhlcmVmb3JlLCBwc3ljaGljIHNwZWxscyBuZXZlciBoYXZlIHZlcmJhbCBvciBzb21hdGljIGNvbXBvbmVudHMsIGFuZCBoYXZlIG9ubHkgZXhwZW5zaXZlIG1hdGVyaWFsIGNvbXBvbmVudHMuIFBzeWNoaWMgc3BlbGxzIGFyZSBwdXJlbHkgbWVudGFsIGFjdGlvbnMsIGFuZCB0aGV5IGNhbiBiZSBjYXN0IGV2ZW4gd2hpbGUgdGhlIGNhc3RlciBpcyBwaW5uZWQgb3IgcGFyYWx5emVkLiBGb2N1cyBjb21wb25lbnRzIHdvcmsgdGhlIHNhbWUgd2F5IHdpdGggcHN5Y2hpYyBzcGVsbHMgYXMgdGhleSBkbyB3aXRoIG90aGVyIHNwZWxscy48YnIgLz48YnIgLz4gV2hlbiBhIHNwZWxsIGNhbGxzIGZvciBhbiBleHBlbnNpdmUgbWF0ZXJpYWwgY29tcG9uZW50LCBhIHBzeWNoaWMgc3BlbGxjYXN0ZXIgY2FuIGluc3RlYWQgdXNlIGFueSBpdGVtIHdpdGggYm90aCBzaWduaWZpY2FudCBtZWFuaW5nIGFuZCBhIHZhbHVlIGdyZWF0ZXIgdGhhbiBvciBlcXVhbCB0byB0aGUgc3BlbGzigJlzIGNvbXBvbmVudCBjb3N0LiBGb3IgZXhhbXBsZSwgaWYgYSBzcGlyaXR1YWxpc3Qgd2FudGVkIHRvIGNhc3QgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPXJhaXNlIGRlYWQiPjxpPnJhaXNlIGRlYWQ8L2k+PC9hPiB0byBicmluZyBoZXIgZGVhZCBodXNiYW5kIGJhY2sgZnJvbSB0aGUgZ3JhdmUsIHNoZSBjb3VsZCB1c2UgaGVyIDUsMDAwIGdwIHdlZGRpbmcgcmluZyBhcyB0aGUgc3BlbGzigJlzIG1hdGVyaWFsIGNvbXBvbmVudC48YnIgLz48YnIgLz4gSW5zdGVhZCBvZiB2ZXJiYWwgYW5kIHNvbWF0aWMgY29tcG9uZW50cywgYWxsIHBzeWNoaWMgc3BlbGxzIGhhdmUgY29tcG9uZW50cyByZWxhdGVkIHRvIHRoZSBjYXN0ZXLigJlzIGlubmVyIGJlaW5nLiBUaGUgdHdvIHBzeWNoaWMgY29tcG9uZW50cyBhcmUgY2FsbGVkIGVtb3Rpb24gY29tcG9uZW50cyBhbmQgdGhvdWdodCBjb21wb25lbnRzLiBJZiBhIHNwZWxs4oCZcyBjb21wb25lbnRzIGxpbmUgbGlzdHMgYSBzb21hdGljIGNvbXBvbmVudCwgdGhhdCBzcGVsbCBpbnN0ZWFkIHJlcXVpcmVzIGFuIGVtb3Rpb24gY29tcG9uZW50IHdoZW4gY2FzdCBieSBwc3ljaGljIHNwZWxsY2FzdGVycywgYW5kIGlmIGl0IGhhcyBhIHZlcmJhbCBjb21wb25lbnQsIGl0IGluc3RlYWQgcmVxdWlyZXMgYSB0aG91Z2h0IGNvbXBvbmVudCB3aGVuIGNhc3QgYnkgcHN5Y2hpYyBzcGVsbGNhc3RlcnMuIFBzeWNoaWMgc3BlbGxzIGNhc3QgYnkgbm9uLXBzeWNoaWMgYXJjYW5lIGFuZCBkaXZpbmUgY2FzdGVycyB1c2UgYW55IGxpc3RlZCBzb21hdGljIGFuZCB2ZXJiYWwgY29tcG9uZW50cyBhcyBub3JtYWwuIDxiciAvPjxiciAvPjxiPkVtb3Rpb24gQ29tcG9uZW50czwvYj46IEVtb3Rpb24gY29tcG9uZW50cyByZXByZXNlbnQgYSBwYXJ0aWN1bGFyIGVtb3Rpb25hbCBzdGF0ZSByZXF1aXJlZCB0byBjYXN0IHRoZSBzcGVsbC4gQSBwc3ljaGljIHNwZWxsY2FzdGVyIG1hcnNoYWxzIGhlciBkZXNpcmUgaW4gb3JkZXIgdG8gZm9jdXMgYW5kIHJlbGVhc2UgdGhlIHNwZWxs4oCZcyBlbmVyZ3kuIEl0IGlzIGltcG9zc2libGUgdG8gY2FzdCBhIHNwZWxsIHdpdGggYW4gZW1vdGlvbiBjb21wb25lbnQgd2hpbGUgdGhlIHNwZWxsY2FzdGVyIGlzIHVuZGVyIHRoZSBpbmZsdWVuY2Ugb2YgYSBub24taGFybWxlc3MgZWZmZWN0IHdpdGggdGhlIGVtb3Rpb24gb3IgZmVhciBkZXNjcmlwdG9ycy4gKFRoZSBlbW90aW9uIGRlc2NyaXB0b3Igd2FzIG9yaWdpbmFsbHkgaW50cm9kdWNlZCBpbiA8aT5QYXRoZmluZGVyIFJQRyBVbHRpbWF0ZSBNYWdpYzwvaT4uKSBFdmVuIGlmIHRoZSBlZmZlY3TigJlzIGVtb3Rpb24gbWF0Y2hlcyB0aGUgbmVjZXNzYXJ5IGVtb3Rpb24gdG8gY2FzdCB0aGUgcHN5Y2hpYyBzcGVsbCwgdGhlIHNwZWxsY2FzdGVyIGlzIG5vdCBpbiBjb250cm9sIG9mIGhlciBvd24gZGVzaXJlcyBhbmQgYW5pbWFsIGltcHVsc2VzLCB3aGljaCBpcyBhIG5lY2Vzc2FyeSBwYXJ0IG9mIHByb3ZpZGluZyBhbiBlbW90aW9uIGNvbXBvbmVudC4gPGJyIC8+PGJyIC8+PGI+VGhvdWdodCBDb21wb25lbnRzPC9iPjogVGhvdWdodCBjb21wb25lbnRzIHJlcHJlc2VudCBtZW50YWwgY29uc3RydWN0cyBuZWNlc3NhcnkgZm9yIHRoZSBzcGVsbOKAmXMgZnVuY3Rpb24sIHN1Y2ggYXMgcGljdHVyaW5nIGEgd29sZiBpbiB2aXZpZCBkZXRhaWzigJRkb3duIHRvIHRoZSBzYWxpdmEgZHJpcHBpbmcgZnJvbSBpdHMgamF3c+KAlGluIG9yZGVyIHRvIGNhc3QgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPWJlYXN0IHNoYXBlIEkiPjxpPmJlYXN0IHNoYXBlPC9pPjwvYT4gdG8gdHJhbnNmb3JtIGludG8gYSB3b2xmLiBUaG91Z2h0IGNvbXBvbmVudHMgYXJlIHNvIG1lbnRhbGx5IGRlbWFuZGluZyB0aGF0IHRoZXkgbWFrZSBpbnRlcnJ1cHRpb25zIGFuZCBkaXN0cmFjdGlvbnMgZXh0cmVtZWx5IGNoYWxsZW5naW5nLiBUaGUgREMgZm9yIGFueSBjb25jZW50cmF0aW9uIGNoZWNrIGZvciBhIHNwZWxsIHdpdGggYSB0aG91Z2h0IGNvbXBvbmVudCBpbmNyZWFzZXMgYnkgMTAuIEEgcHN5Y2hpYyBzcGVsbGNhc3RlciBjYXN0aW5nIGEgc3BlbGwgd2l0aCBhIHRob3VnaHQgY29tcG9uZW50IGNhbiB0YWtlIGEgbW92ZSBhY3Rpb24gYmVmb3JlIGJlZ2lubmluZyB0byBjYXN0IHRoZSBzcGVsbCB0byBjZW50ZXIgaGVyc2VsZjsgc2hlIGNhbiB0aGVuIHVzZSB0aGUgbm9ybWFsIERDIGluc3RlYWQgb2YgdGhlIGluY3JlYXNlZCBEQy48YnIgLz48YnIgLz4gSnVzdCBhcyBzcGVsbC1saWtlIGFiaWxpdGllcyBuZXZlciByZXF1aXJlIHZlcmJhbCwgc29tYXRpYywgb3IgbWF0ZXJpYWwgY29tcG9uZW50cywgdGhlc2UgYWJpbGl0aWVzIGFsc28gZG9u4oCZdCByZXF1aXJlIHRob3VnaHQgb3IgZW1vdGlvbiBjb21wb25lbnRzLiBBIHBzeWNoaWMgc3BlbGxjYXN0ZXIgY2FuIHJlcGxhY2UgdmVyYmFsIGFuZCBzb21hdGljIGNvbXBvbmVudHMgd2l0aCB0aG91Z2h0IGFuZCBlbW90aW9uIGNvbXBvbmVudHMgb25seSBmb3IgdGhlIHB1cnBvc2VzIG9mIHRoZSBzcGVsbCBjb21wb25lbnRzIHRoZW1zZWx2ZXMsIG5vdCBmb3IgdGhlIHB1cnBvc2VzIG9mIGFueSBvdGhlciBydWxlcyBlbGVtZW50cyB0aGF0IHJlbGF0ZSB0byB2ZXJiYWwgYW5kIHNvbWF0aWMgY29tcG9uZW50cy4gU2hlIGNhbuKAmXQgdXNlIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNpbGVudCBTcGVsbCI+U2lsZW50IFNwZWxsPC9hPiB0byBpZ25vcmUgdGhlIHRob3VnaHQgY29tcG9uZW50IG9mIGEgc3BlbGwsIGZvciBleGFtcGxlLiBUaGUgbmV3IGZlYXRzIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUludHVpdGl2ZSBTcGVsbCI+SW50dWl0aXZlIFNwZWxsPC9hPiBhbmQgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IkZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9TG9naWNhbCBTcGVsbCI+TG9naWNhbCBTcGVsbDwvYT4gc2VydmUgYSBzaW1pbGFyIGZ1bmN0aW9uIGZvciB0aGVzZSBuZXcgY29tcG9uZW50cy48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTIwNjEiPlVuZGVyY2FzdGluZyBTcGVsbHM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTllZ3U/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLU9jY3VsdC1BZHZlbnR1cmVzIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPk9jY3VsdCBBZHZlbnR1cmVzIHBnLiAxNDQ8L2k+PC9hPjxiciAvPlNvbWUgcHN5Y2hpYyBzcGVsbHMgY2FuIGJlIHVuZGVyY2FzdC4gVGhpcyBtZWFucyB0aGF0IHRoZSBzcGVsbGNhc3RlciBjYW4gY2FzdCB0aGUgc3BlbGwgYXQgdGhlIGxldmVsIHRoYXQgaGUga25vd3MsIG9yIGFzIGFueSBsb3dlci1sZXZlbCB2ZXJzaW9uIG9mIHRoYXQgc3BlbGwsIHVzaW5nIHRoZSBhcHByb3ByaWF0ZSBzcGVsbCBzbG90LiBXaGVuIGEgc3BlbGxjYXN0ZXIgdW5kZXJjYXN0cyBhIHNwZWxsLCBpdCBpcyB0cmVhdGVkIGV4YWN0bHkgbGlrZSB0aGUgbG93ZXItbGV2ZWwgdmVyc2lvbiwgaW5jbHVkaW5nIHdoZW4gZGV0ZXJtaW5pbmcgaXRzIGVmZmVjdCwgc2F2aW5nIHRocm93LCBhbmQgb3RoZXIgdmFyaWFibGVzLiBGb3IgZXhhbXBsZSwgYSBwc3ljaGljIHNwZWxsY2FzdGVyIHdobyBhZGRzIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1lZ28gd2hpcCBJSUkiPjxpPmVnbyB3aGlwIElJSTwvaT48L2E+IHRvIGhpcyBsaXN0IG9mIHNwZWxscyBrbm93biBjYW4gY2FzdCBpdCBhcyA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9ZWdvIHdoaXAgSSI+PGk+ZWdvIHdoaXAgSTwvaT48L2E+LCA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9ZWdvIHdoaXAgSUkiPjxpPklJPC9pPjwvYT4sIG9yIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1lZ28gd2hpcCBJSUkiPjxpPklJSTwvaT48L2E+LiBJZiBoZSBjYXN0cyBpdCBhcyA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9ZWdvIHdoaXAgSSI+PGk+ZWdvIHdoaXAgSTwvaT48L2E+LCBpdCBpcyB0cmVhdGVkIGluIGFsbCB3YXlzIGFzIHRoYXQgc3BlbGw7IGl0IHVzZXMgdGhlIHRleHQgYW5kIHRoZSBzYXZpbmcgdGhyb3cgREMgZm9yIHRoYXQgc3BlbGwsIGFuZCByZXF1aXJlcyBoaW0gdG8gZXhwZW5kIGEgM3JkLWxldmVsIHNwZWxsIHNsb3QuPGJyIC8+PGJyIC8+IFdoZW5ldmVyIGEgc3BvbnRhbmVvdXMgc3BlbGxjYXN0ZXIgYWRkcyBhIHNwZWxsIHRvIGhpcyBsaXN0IG9mIHNwZWxscyBrbm93biB0aGF0IGNhbiBiZSB1bmRlcmNhc3QsIGhlIGNhbiBpbW1lZGlhdGVseSBsZWFybiBhIHNwZWxsIGluIHBsYWNlIG9mIGVhY2ggbG93ZXItbGV2ZWwgdmVyc2lvbiBvZiB0aGF0IHNwZWxsIGhlIGtub3dzLiBJbiBlc3NlbmNlLCBoZSBsb3NlcyBlYWNoIGVhcmxpZXIgdmVyc2lvbiBhbmQgY2FuIHJlcGxhY2UgaXQgd2l0aCBhbm90aGVyIHNwZWxsIG9mIHRoZSBzYW1lIGxldmVsIHRoYXQgaXMgb24gaGlzIHNwZWxsIGxpc3QuZGRkZTEJESIlelVzfkSdnQyKFZzs4p9J74+9Hz408da8wFs=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><h1 class="title"><a href="Rules.aspx?ID=2059">Psychic Magic</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9egu?Pathfinder-Roleplaying-Game-Occult-Adventures" target="_blank" class="external-link"><i>Occult Adventures pg. 144</i></a><br />Wizards study ancient tomes to unlock arcane secrets of the universe, and clerics pray to distant deities to grant them divine power. Yet there is a third, more esoteric kind of magic, connected to every creature’s composite being, from the conscious mind to the deepest desire, from the life force to the spirit, from the very soul to the cosmic self. This third type of magic is psychic magic.<br /><br /> A psychic spell largely functions like any other spell. It’s another type of magic, similar to arcane or divine magic—in fact, those who use psychic magic are easily mistaken for practitioners of arcane and divine traditions. <a style="text-decoration:underline" href="Feats.aspx?Category=Metamagic">Metamagic feats</a> and any other rules that alter or trigger from spells can usually be used with psychic spells (though see the Components section below for a few exceptions). Psychic spellcasters aren’t affected by effects that target only arcane or divine spellcasters, nor can they use arcane or divine scrolls or other items or feats that state they can be utilized by only arcane or divine spellcasters.<br /><h1 class="title"><a href="Rules.aspx?ID=2060">Components</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9egu?Pathfinder-Roleplaying-Game-Occult-Adventures" target="_blank" class="external-link"><i>Occult Adventures pg. 144</i></a><br />Psychic magic originates from the distinctive qualities of the caster’s composite being, rather than through arcane formulae or rote supplication to divine entities. Therefore, psychic spells never have verbal or somatic components, and have only expensive material components. Psychic spells are purely mental actions, and they can be cast even while the caster is pinned or paralyzed. Focus components work the same way with psychic spells as they do with other spells.<br /><br /> When a spell calls for an expensive material component, a psychic spellcaster can instead use any item with both significant meaning and a value greater than or equal to the spell’s component cost. For example, if a spiritualist wanted to cast <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=raise dead"><i>raise dead</i></a> to bring her dead husband back from the grave, she could use her 5,000 gp wedding ring as the spell’s material component.<br /><br /> Instead of verbal and somatic components, all psychic spells have components related to the caster’s inner being. The two psychic components are called emotion components and thought components. If a spell’s components line lists a somatic component, that spell instead requires an emotion component when cast by psychic spellcasters, and if it has a verbal component, it instead requires a thought component when cast by psychic spellcasters. Psychic spells cast by non-psychic arcane and divine casters use any listed somatic and verbal components as normal. <br /><br /><b>Emotion Components</b>: Emotion components represent a particular emotional state required to cast the spell. A psychic spellcaster marshals her desire in order to focus and release the spell’s energy. It is impossible to cast a spell with an emotion component while the spellcaster is under the influence of a non-harmless effect with the emotion or fear descriptors. (The emotion descriptor was originally introduced in <i>Pathfinder RPG Ultimate Magic</i>.) Even if the effect’s emotion matches the necessary emotion to cast the psychic spell, the spellcaster is not in control of her own desires and animal impulses, which is a necessary part of providing an emotion component. <br /><br /><b>Thought Components</b>: Thought components represent mental constructs necessary for the spell’s function, such as picturing a wolf in vivid detail—down to the saliva dripping from its jaws—in order to cast <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=beast shape I"><i>beast shape</i></a> to transform into a wolf. Thought components are so mentally demanding that they make interruptions and distractions extremely challenging. The DC for any concentration check for a spell with a thought component increases by 10. A psychic spellcaster casting a spell with a thought component can take a move action before beginning to cast the spell to center herself; she can then use the normal DC instead of the increased DC.<br /><br /> Just as spell-like abilities never require verbal, somatic, or material components, these abilities also don’t require thought or emotion components. A psychic spellcaster can replace verbal and somatic components with thought and emotion components only for the purposes of the spell components themselves, not for the purposes of any other rules elements that relate to verbal and somatic components. She can’t use <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Silent Spell">Silent Spell</a> to ignore the thought component of a spell, for example. The new feats <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Intuitive Spell">Intuitive Spell</a> and <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Logical Spell">Logical Spell</a> serve a similar function for these new components.<br /><h1 class="title"><a href="Rules.aspx?ID=2061">Undercasting Spells</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9egu?Pathfinder-Roleplaying-Game-Occult-Adventures" target="_blank" class="external-link"><i>Occult Adventures pg. 144</i></a><br />Some psychic spells can be undercast. This means that the spellcaster can cast the spell at the level that he knows, or as any lower-level version of that spell, using the appropriate spell slot. When a spellcaster undercasts a spell, it is treated exactly like the lower-level version, including when determining its effect, saving throw, and other variables. For example, a psychic spellcaster who adds <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=ego whip III"><i>ego whip III</i></a> to his list of spells known can cast it as <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=ego whip I"><i>ego whip I</i></a>, <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=ego whip II"><i>II</i></a>, or <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=ego whip III"><i>III</i></a>. If he casts it as <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=ego whip I"><i>ego whip I</i></a>, it is treated in all ways as that spell; it uses the text and the saving throw DC for that spell, and requires him to expend a 3rd-level spell slot.<br /><br /> Whenever a spontaneous spellcaster adds a spell to his list of spells known that can be undercast, he can immediately learn a spell in place of each lower-level version of that spell he knows. In essence, he loses each earlier version and can replace it with another spell of the same level that is on his spell list.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

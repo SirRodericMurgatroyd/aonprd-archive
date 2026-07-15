@@ -1,0 +1,284 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Skills - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    
+    <meta name="keywords" content="Archives, Nethys, Pathfinder, Official, PRD, PFSRD, Skills" /><meta name="description" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Skills.aspx?ItemName=Profession" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNTY3NDMxODU3D2QWAmYPZBYCAgMPZBYCAgEPZBYIAgEPDxYCHgRUZXh0Bb8LPGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9QWNyb2JhdGljcyI+QWNyb2JhdGljczwvYT4gfCA8YSBocmVmPSJTa2lsbHMuYXNweD9JdGVtTmFtZT1BcHByYWlzZSI+QXBwcmFpc2U8L2E+IHwgPGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9Qmx1ZmYiPkJsdWZmPC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPUNsaW1iIj5DbGltYjwvYT4gfCA8YSBocmVmPSJTa2lsbHMuYXNweD9JdGVtTmFtZT1DcmFmdCI+Q3JhZnQ8L2E+IHwgPGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9RGlwbG9tYWN5Ij5EaXBsb21hY3k8L2E+IHwgPGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9RGlzYWJsZSBEZXZpY2UiPkRpc2FibGUgRGV2aWNlPC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPURpc2d1aXNlIj5EaXNndWlzZTwvYT4gfCA8YSBocmVmPSJTa2lsbHMuYXNweD9JdGVtTmFtZT1Fc2NhcGUgQXJ0aXN0Ij5Fc2NhcGUgQXJ0aXN0PC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPUZseSI+Rmx5PC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPUhhbmRsZSBBbmltYWwiPkhhbmRsZSBBbmltYWw8L2E+IHwgPGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9SGVhbCI+SGVhbDwvYT4gfCA8YSBocmVmPSJTa2lsbHMuYXNweD9JdGVtTmFtZT1JbnRpbWlkYXRlIj5JbnRpbWlkYXRlPC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPUtub3dsZWRnZSI+S25vd2xlZGdlPC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPUxpbmd1aXN0aWNzIj5MaW5ndWlzdGljczwvYT4gfCA8YSBocmVmPSJTa2lsbHMuYXNweD9JdGVtTmFtZT1QZXJjZXB0aW9uIj5QZXJjZXB0aW9uPC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPVBlcmZvcm0iPlBlcmZvcm08L2E+IHwgPGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9UHJvZmVzc2lvbiI+UHJvZmVzc2lvbjwvYT4gfCA8YSBocmVmPSJTa2lsbHMuYXNweD9JdGVtTmFtZT1SaWRlIj5SaWRlPC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPVNlbnNlIE1vdGl2ZSI+U2Vuc2UgTW90aXZlPC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPVNsZWlnaHQgb2YgSGFuZCI+U2xlaWdodCBvZiBIYW5kPC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPVNwZWxsY3JhZnQiPlNwZWxsY3JhZnQ8L2E+IHwgPGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9U3RlYWx0aCI+U3RlYWx0aDwvYT4gfCA8YSBocmVmPSJTa2lsbHMuYXNweD9JdGVtTmFtZT1TdXJ2aXZhbCI+U3Vydml2YWw8L2E+IHwgPGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9U3dpbSI+U3dpbTwvYT4gfCA8YSBocmVmPSJTa2lsbHMuYXNweD9JdGVtTmFtZT1Vc2UgTWFnaWMgRGV2aWNlIj5Vc2UgTWFnaWMgRGV2aWNlPC9hPmRkAgUPDxYCHwAF8QE8aDEgY2xhc3M9InRpdGxlIj5Ta2lsbHM8L2gxPlNraWxscyByZXByZXNlbnQgc29tZSBvZiB0aGUgbW9zdCBiYXNpYyBhbmQgeWV0IG1vc3QgZnVuZGFtZW50YWwgYWJpbGl0aWVzIHlvdXIgY2hhcmFjdGVyIHBvc3Nlc3Nlcy4gQXMgeW91ciBjaGFyYWN0ZXIgYWR2YW5jZXMgaW4gbGV2ZWwsIGhlIGNhbiBnYWluIG5ldyBza2lsbHMgYW5kIGltcHJvdmUgaGlzIGV4aXN0aW5nIHNraWxscyBkcmFtYXRpY2FsbHkuPGJyIC8+ZGQCBw88KwAJAQAPFgQeCERhdGFLZXlzFgAeC18hSXRlbUNvdW50AgFkFgJmD2QWAgIBDw8WAh8ABY4zPGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9UHJvZmVzc2lvbiI+UHJvZmVzc2lvbjwvYT4gKFdpczsgVHJhaW5lZCBPbmx5KTwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5ODh5aiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QUlBHIENvcmUgUnVsZWJvb2sgcGcuIDEwMzwvaT48L2E+PGJyIC8+WW91IGFyZSBza2lsbGVkIGF0IGEgc3BlY2lmaWMgam9iLiBMaWtlIENyYWZ0LCBLbm93bGVkZ2UsIGFuZCBQZXJmb3JtLCBQcm9mZXNzaW9uIGlzIGFjdHVhbGx5IGEgbnVtYmVyIG9mIHNlcGFyYXRlIHNraWxscy4gWW91IGNvdWxkIGhhdmUgc2V2ZXJhbCBQcm9mZXNzaW9uIHNraWxscywgZWFjaCB3aXRoIGl0cyBvd24gcmFua3MuIFdoaWxlIGEgQ3JhZnQgc2tpbGwgcmVwcmVzZW50cyBhYmlsaXR5IGluIGNyZWF0aW5nIGFuIGl0ZW0sIGEgUHJvZmVzc2lvbiBza2lsbCByZXByZXNlbnRzIGFuIGFwdGl0dWRlIGluIGEgdm9jYXRpb24gcmVxdWlyaW5nIGEgYnJvYWRlciByYW5nZSBvZiBsZXNzIHNwZWNpZmljIGtub3dsZWRnZS4gVGhlIG1vc3QgY29tbW9uIFByb2Zlc3Npb24gc2tpbGxzIGFyZSBhcmNoaXRlY3QsIGJha2VyLCBiYXJyaXN0ZXIsIGJyZXdlciwgYnV0Y2hlciwgY2xlcmssIGNvb2ssIGNvdXJ0ZXNhbiwgZHJpdmVyLCBlbmdpbmVlciwgZmFybWVyLCBmaXNoZXJtYW4sIGdhbWJsZXIsIGdhcmRlbmVyLCBoZXJiYWxpc3QsIGlubmtlZXBlciwgbGlicmFyaWFuLCBtZXJjaGFudCwgbWlkd2lmZSwgbWlsbGVyLCBtaW5lciwgcG9ydGVyLCBzYWlsb3IsIHNjcmliZSwgc2hlcGhlcmQsIHN0YWJsZSBtYXN0ZXIsIHNvbGRpZXIsIHRhbm5lciwgdHJhcHBlciwgYW5kIHdvb2RjdXR0ZXIuPGJyIC8+PGJyIC8+PGI+Q2hlY2s8L2I+OiBZb3UgY2FuIGVhcm4gaGFsZiB5b3VyIFByb2Zlc3Npb24gY2hlY2sgcmVzdWx0IGluIGdvbGQgcGllY2VzIHBlciB3ZWVrIG9mIGRlZGljYXRlZCB3b3JrLiBZb3Uga25vdyBob3cgdG8gdXNlIHRoZSB0b29scyBvZiB5b3VyIHRyYWRlLCBob3cgdG8gcGVyZm9ybSB0aGUgcHJvZmVzc2lvbuKAmXMgZGFpbHkgdGFza3MsIGhvdyB0byBzdXBlcnZpc2UgaGVscGVycywgYW5kIGhvdyB0byBoYW5kbGUgY29tbW9uIHByb2JsZW1zLiBZb3UgY2FuIGFsc28gYW5zd2VyIHF1ZXN0aW9ucyBhYm91dCB5b3VyIFByb2Zlc3Npb24uIEJhc2ljIHF1ZXN0aW9ucyBhcmUgREMgMTAsIHdoaWxlIG1vcmUgY29tcGxleCBxdWVzdGlvbnMgYXJlIERDIDE1IG9yIGhpZ2hlci4gPGJyIC8+PGJyIC8+IDxiPkFjdGlvbjwvYj46IE5vdCBhcHBsaWNhYmxlLiBBIHNpbmdsZSBjaGVjayBnZW5lcmFsbHkgcmVwcmVzZW50cyBhIHdlZWsgb2Ygd29yay4gPGJyIC8+PGJyIC8+IDxiPlRyeSBBZ2FpbjwvYj46IFZhcmllcy4gQW4gYXR0ZW1wdCB0byB1c2UgYSBQcm9mZXNzaW9uIHNraWxsIHRvIGVhcm4gaW5jb21lIGNhbm5vdCBiZSByZXRyaWVkLiBZb3UgYXJlIHN0dWNrIHdpdGggd2hhdGV2ZXIgd2Vla2x5IHdhZ2UgeW91ciBjaGVjayByZXN1bHQgYnJvdWdodCB5b3UuIEFub3RoZXIgY2hlY2sgbWF5IGJlIG1hZGUgYWZ0ZXIgYSB3ZWVrIHRvIGRldGVybWluZSBhIG5ldyBpbmNvbWUgZm9yIHRoZSBuZXh0IHBlcmlvZCBvZiB0aW1lLiBBbiBhdHRlbXB0IHRvIGFjY29tcGxpc2ggc29tZSBzcGVjaWZpYyB0YXNrIGNhbiB1c3VhbGx5IGJlIHJldHJpZWQuIDxiciAvPjxiciAvPiA8Yj5VbnRyYWluZWQ8L2I+OiBVbnRyYWluZWQgbGFib3JlcnMgYW5kIGFzc2lzdGFudHMgKHRoYXQgaXMsIGNoYXJhY3RlcnMgd2l0aG91dCBhbnkgcmFua3MgaW4gUHJvZmVzc2lvbikgZWFybiBhbiBhdmVyYWdlIG9mIDEgc2lsdmVyIHBpZWNlIHBlciBkYXkuIDxiciAvPjxiciAvPiA8Yj5TcGVjaWFsPC9iPjogQSBnbm9tZSBnZXRzIGEgKzIgYm9udXMgb24gYSBDcmFmdCBvciBQcm9mZXNzaW9uIHNraWxsIG9mIGhlciBjaG9pY2UuPGgyIGNsYXNzPSJ0aXRsZSI+SGVyYmFsaXNtPC9oMj48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTl1am8iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+VWx0aW1hdGUgV2lsZGVybmVzcyBwZy4gMTUyPC9pPjwvYT48YnIgLz5IZXJicyBhbmQgdXNlZnVsIHBsYW50cyBhbmQgZnVuZ2kgYWJvdW5kIGluIG1vc3Qgd2lsZGVybmVzcyByZWdpb25zLCBhbmQgd2hpbGUgdGhlc2UgdmFsdWFibGUgcGxhbnRzIGNhbiBiZSBvYnRhaW5lZCBpbiBzcGVjaWFsIG1hcmtldHMgb3Igc2hvcHMsIHRoZSBza2lsbGVkIGhlcmJhbGlzdCBrbm93cyB3aGVyZSB0byBnbyB0byBnYXRoZXIgdGhlc2UgcmVzb3VyY2VzIGJ5IGhhbmQgaW4gdGhlIHdpbGQuPGJyIC8+PGJyIC8+IDxiPkdhdGhlcmluZyBIZXJiczwvYj46IEdhdGhlcmluZyBoZXJicyBpcyBzaW1pbGFyIHRvIGZvcmFnaW5nIGFuZCBjYW4gYmUgYWNjb21wbGlzaGVkIHdoaWxlIHlvdSBhcmUgdHJhdmVsaW5nIG9yIGFzIHlvdXIgc29sZSBhY3Rpdml0eSBkdXJpbmcgYW4gOC1ob3VyIHBlcmlvZC4gSWYgeW91IGdhdGhlciBoZXJicyB3aGlsZSB0cmF2ZWxpbmcsIHlvdXIgb3ZlcmxhbmQgc3BlZWQgaXMgaGFsdmVkLiBTcGVuZGluZyA4IGhvdXJzIGRvaW5nIG5vdGhpbmcgYnV0IGdhdGhlcmluZyBoZXJicyBmcm9tIHRoZSBhcmVhIGdyYW50cyAxIGFkZGl0aW9uYWwgeWllbGQgb2YgZWFjaCBoZXJiIHlvdeKAmXJlIGdhdGhlcmluZy48YnIgLz48YnIgLz4gV2hlbiB5b3Ugc3RhcnQgeW91ciBkYXkgb2YgaGVyYiBnYXRoZXJpbmcsIHlvdSBtdXN0IGRlY2xhcmUgd2hpY2ggaGVyYiB5b3UgYXJlIGxvb2tpbmcgZm9yLiBJZiB5b3UgaGF2ZSA1IHJhbmtzIG9mIFByb2Zlc3Npb24gKGhlcmJhbGlzdCksIHlvdSBjYW4gc2VhcmNoIGZvciB0d28gZGlmZmVyZW50IHR5cGVzIG9mIGhlcmJzIGF0IG9uY2UsIGFuZCBmb3IgZWFjaCBhZGRpdGlvbmFsIDUgcmFua3MgeW91IGhhdmUgaW4gdGhpcyBza2lsbCwgeW91IGNhbiBzZWFyY2ggZm9yIG9uZSBhZGRpdGlvbmFsIGhlcmIsIHRvIGEgbWF4aW11bSBvZiA1IGhlcmJzIGF0IG9uY2UgaWYgeW91IGhhdmUgMjAgcmFua3MgaW4gUHJvZmVzc2lvbiAoaGVyYmFsaXN0KS48YnIgLz48YnIgLz4gRWFjaCBoZXJiIGxpc3RlZCBiZWxvdyBoYXMgYSBnYXRoZXIgREMuIEF0IHRoZSBlbmQgb2YgdGhlIHRpbWUgc3BlbnQgZ2F0aGVyaW5nLCBhdHRlbXB0IGEgUHJvZmVzc2lvbiAoaGVyYmFsaXN0KSBvciBLbm93bGVkZ2UgKG5hdHVyZSkgY2hlY2sgYWdhaW5zdCBlYWNoIGhlcmLigJlzIGdhdGhlciBEQy4gSWYgdGhlIHRlcnJhaW4geW91IGFyZSBzZWFyY2hpbmcgaW4gaXMgb25lIG9mIHlvdXIgZmF2b3JlZCB0ZXJyYWlucywgeW91IGNhbiBhdHRlbXB0IGEgU3Vydml2YWwgY2hlY2sgaW5zdGVhZC4gSWYgdGhlIGhlcmIgaW4gcXVlc3Rpb24gaXMgcHJlc2VudCBpbiB0aGUgcmVnaW9uIHlvdSBzZWFyY2hlZCAodGhpcyBpcyBhbHdheXMgc3ViamVjdCB0byB0aGUgR03igJlzIGRpc2NyZXRpb24pLCBzdWNjZXNzIHJlc3VsdHMgaW4gYSBzaW5nbGUgeWllbGQgb2YgdGhhdCBoZXJiLiBTdWNjZXNzIGJ5IDUgb3IgbW9yZSBncmFudHMgMSBleHRyYSB5aWVsZC4gU3VjY2VzcyBieSAxMCBvciBtb3JlIGdyYW50cyAyIGV4dHJhIHlpZWxkcy48YnIgLz48YnIgLz4gQSBzaW5nbGUgeWllbGQgb2YgaGVyYiB3ZWlnaHMgMS8xMCBvZiBhIHBvdW5kIHVubGVzcyBvdGhlcndpc2Ugbm90ZWQgaW4gaXRzIHlpZWxkIHNlY3Rpb24gaW4gdGhlIHN0YXRzIGJlbG93LjxiciAvPjxiciAvPiBJbiBhZGRpdGlvbiB0byBkZXRlcm1pbmluZyB3aGV0aGVyIGEgcGFydGljdWxhciBoZXJiIGlzIGF2YWlsYWJsZSB0byBnYXRoZXIgaW4gYSByZWdpb24sIHRoZSBHTSBhbHNvIGRldGVybWluZXMgaG93IG1hbnkgYXR0ZW1wdHMgdG8gZ2F0aGVyIHRoYXQgaGVyYiBjYW4gYmUgYXR0ZW1wdGVkIGluIHRoZSByZWdpb24uIFR5cGljYWxseSwgYSByZWdpb24gY2FuIHN1cHBvcnQgMWQ0IGhlcmItZ2F0aGVyaW5nIGV4cGVkaXRpb25zIGJlZm9yZSB0aGUgaGVyYnMgbXVzdCBiZSBnaXZlbiAyZDYgbW9udGhzIHRvIHJlZ3Jvdy48YnIgLz48YnIgLz4gPGI+UHJlcGFyaW5nIEhlcmJzPC9iPjogTW9zdCBoZXJicyBtdXN0IGJlIHByZXBhcmVkIHRvIHVubG9jayB0aGVpciBwb3RlbmN5LiBJZiB0aGlzIGlzIHRoZSBjYXNlIGZvciBhbiBoZXJiLCBpdHMgc3RhdCBibG9jayBkZXNjcmliZXMgdGhlIG1ldGhvZCByZXF1aXJlZCB0byBwcm9jZXNzIGl0LCB0aGUgQ3JhZnQgKGFsY2hlbXkpIERDIHRvIGFjY29tcGxpc2ggdGhpcyB0YXNrLCBhbmQgdGhlIGFtb3VudCBvZiB0aW1lIG5lZWRlZCB0byBkbyBzby4gQSBQcm9mZXNzaW9uIChoZXJiYWxpc3QpIGNoZWNrIGNhbiBiZSBjb25kdWN0ZWQgaW5zdGVhZCBvZiBhIENyYWZ0IChhbGNoZW15KSwgYnV0IHRoZSBEQyBvZiB0aGUgY2hlY2sgdG8gcHJlcGFyZSB0aGUgaGVyYiBpbmNyZWFzZXMgYnkgNSBpbiB0aGlzIGNhc2UuIElmIHRoZSBwcmVwYXJlciBmYWlscyB0aGlzIGNoZWNrIGJ5IDUgb3IgbW9yZSwgdGhlIGRvc2Ugb2YgdGhlIGhlcmIgaXMgcnVpbmVkOyBpZiBzaGUgZmFpbHMgYnkgbGVzcywgc2hlIGNhbiB0cnkgYWdhaW4gd2l0aCB0aGUgc2FtZSBoZXJicy48YnIgLz48YnIgLz4gPGI+UHJlcGFyaW5nIE11bHRpcGxlIEhlcmJzPC9iPjogQW4gaGVyYmFsaXN0IGNhbiBub3JtYWxseSBwcmVwYXJlIG9uZSB0eXBlIG9mIGhlcmIgcGVyIGRheSwgYnV0IHNoZSBjYW4gcHJlcGFyZSBhIG51bWJlciBvZiBkb3NlcyBvZiB0aGF0IHNpbmdsZSB0eXBlIG9mIGhlcmIgZXF1YWwgdG8gaGVyIHJhbmtzIGluIFByb2Zlc3Npb24gKGhlcmJhbGlzdCkuIEFuIGhlcmJhbGlzdCB3aXRoIDcgb3IgbW9yZSByYW5rcyBpbiBQcm9mZXNzaW9uIChoZXJiYWxpc3QpIGNhbiBzaW11bHRhbmVvdXNseSBwcmVwYXJlIGEgc2Vjb25kIHR5cGUgb2YgaGVyYi4gQXQgMTQgcmFua3MgaW4gUHJvZmVzc2lvbiAoaGVyYmFsaXN0KSwgdGhlIGNoYXJhY3RlciBjYW4gcHJlcGFyZSB1cCB0byB0aHJlZSB0eXBlcyBvZiBoZXJicyBhdCB0aGUgc2FtZSB0aW1lLjxiciAvPjxiciAvPiA8Yj5IZXJiIExpZmVzcGFuPC9iPjogQSByYXcsIHVucHJlcGFyZWQgaGVyYiBzcG9pbHMgMjQgaG91cnMgYWZ0ZXIgaXQgaXMgaGFydmVzdGVkLiBBIHByZXBhcmVkIGhlcmIgc3BvaWxzIGFmdGVyIDEgbW9udGggdW5sZXNzIG90aGVyd2lzZSBub3RlZCBpbiBpdHMgVXNlIGVudHJ5LjxoMiBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlNraWxsVW5sb2Nrcy5hc3B4Ij48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sTi5naWYiIHRpdGxlPSJUaGUgc2tpbGwgdW5sb2NrcyBhbmQgU2lnbmF0dXJlIFNraWxsIGZlYXQgYXJlIG9ubHkgYXZhaWxhYmxlIHRocm91Z2ggdGhlIHJvZ3VlJ3MgZWRnZSBjbGFzcyBhYmlsaXR5IiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBVbmNoYWluZWQgLSBTa2lsbCBVbmxvY2s8L2E+PC9oMj48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTljMjU/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVBhdGhmaW5kZXItVW5jaGFpbmVkIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBhdGhmaW5kZXIgVW5jaGFpbmVkIHBnLiA4NjwvaT48L2E+PGJyIC8+V2l0aCBzdWZmaWNpZW50IHJhbmtzIGluIFByb2Zlc3Npb24sIHlvdSBlYXJuIHRoZSBmb2xsb3dpbmcuPGJyIC8+PGJyIC8+PGI+NSBSYW5rczwvYj46IFdoZW4gdXNpbmcgUHJvZmVzc2lvbiBjaGVja3MgdG8gZWFybiBpbmNvbWUsIHlvdSBlYXJuIGdvbGQgcGllY2VzIGVxdWFsIHRvIHRoZSByZXN1bHQgb2YgeW91ciBjaGVjayBlYWNoIHdlZWsuPGJyIC8+PGJyIC8+PGI+MTAgUmFua3M8L2I+OiBXaGVuIGF0dGVtcHRpbmcgUHJvZmVzc2lvbiBjaGVja3MsIHlvdSBjYW4gcm9sbCB0d2ljZSBhbmQgdGFrZSB0aGUgYmV0dGVyIHJlc3VsdC4gV2hlbiBhbnN3ZXJpbmcgcXVlc3Rpb25zIGFib3V0IHlvdXIgUHJvZmVzc2lvbiwgeW91IGNhbiBhbHdheXMgdGFrZSAxMC48YnIgLz48YnIgLz48Yj4xNSBSYW5rczwvYj46IFlvdSBjYW4gYXR0ZW1wdCBjaGVja3MgdG8gZWFybiBpbmNvbWUgb25jZSBwZXIgZGF5IGluc3RlYWQgb2Ygb25jZSBwZXIgd2Vlay48YnIgLz48YnIgLz48Yj4yMCBSYW5rczwvYj46IFdoZW4gYXR0ZW1wdGluZyBQcm9mZXNzaW9uIGNoZWNrcywgeW91IGNhbiBjaG9vc2UgdG8gcm9sbCBvbmNlIGluc3RlYWQgb2YgdHdpY2UuIElmIHlvdSBkbyBhbmQgdGhlIHJlc3VsdCBvZiB0aGUgcm9sbCBpcyBsZXNzIHRoYW4gMTAsIHJlcGxhY2UgaXQgd2l0aCAxMC4gV2hlbiBhbnN3ZXJpbmcgcXVlc3Rpb25zIGFib3V0IHlvdXIgUHJvZmVzc2lvbiwgeW91IGNhbiBhbHdheXMgdGFrZSAyMC48YnIgLz48YnIgLz5kZAIJDw9kPCsABgEAEBYBZhYBFgIeDlBhcmFtZXRlclZhbHVlBQpQcm9mZXNzaW9uFgECBGRkdZCXdovt3TKfmFXE7QQ0SJHsb+PS6rQvP1JUrqDeffU=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="54EBCB5A" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <h2 style="text-align: center"><span id="MainContent_FullSkillList"><a href="Skills.aspx?ItemName=Acrobatics">Acrobatics</a> | <a href="Skills.aspx?ItemName=Appraise">Appraise</a> | <a href="Skills.aspx?ItemName=Bluff">Bluff</a> | <a href="Skills.aspx?ItemName=Climb">Climb</a> | <a href="Skills.aspx?ItemName=Craft">Craft</a> | <a href="Skills.aspx?ItemName=Diplomacy">Diplomacy</a> | <a href="Skills.aspx?ItemName=Disable Device">Disable Device</a> | <a href="Skills.aspx?ItemName=Disguise">Disguise</a> | <a href="Skills.aspx?ItemName=Escape Artist">Escape Artist</a> | <a href="Skills.aspx?ItemName=Fly">Fly</a> | <a href="Skills.aspx?ItemName=Handle Animal">Handle Animal</a> | <a href="Skills.aspx?ItemName=Heal">Heal</a> | <a href="Skills.aspx?ItemName=Intimidate">Intimidate</a> | <a href="Skills.aspx?ItemName=Knowledge">Knowledge</a> | <a href="Skills.aspx?ItemName=Linguistics">Linguistics</a> | <a href="Skills.aspx?ItemName=Perception">Perception</a> | <a href="Skills.aspx?ItemName=Perform">Perform</a> | <a href="Skills.aspx?ItemName=Profession">Profession</a> | <a href="Skills.aspx?ItemName=Ride">Ride</a> | <a href="Skills.aspx?ItemName=Sense Motive">Sense Motive</a> | <a href="Skills.aspx?ItemName=Sleight of Hand">Sleight of Hand</a> | <a href="Skills.aspx?ItemName=Spellcraft">Spellcraft</a> | <a href="Skills.aspx?ItemName=Stealth">Stealth</a> | <a href="Skills.aspx?ItemName=Survival">Survival</a> | <a href="Skills.aspx?ItemName=Swim">Swim</a> | <a href="Skills.aspx?ItemName=Use Magic Device">Use Magic Device</a></span></h2><hr />
+    <h2 style="text-align: center"><span id="MainContent_MainClassLabel"></span></h2>
+    <span id="MainContent_SectionHeader"><h1 class="title">Skills</h1>Skills represent some of the most basic and yet most fundamental abilities your character possesses. As your character advances in level, he can gain new skills and improve his existing skills dramatically.<br /></span>
+    <hr />
+
+    <table id="MainContent_DataListTalentsAll" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+            <span id="MainContent_DataListTalentsAll_LabelName_0"><h1 class="title"><a href="Skills.aspx?ItemName=Profession">Profession</a> (Wis; Trained Only)</h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 103</i></a><br />You are skilled at a specific job. Like Craft, Knowledge, and Perform, Profession is actually a number of separate skills. You could have several Profession skills, each with its own ranks. While a Craft skill represents ability in creating an item, a Profession skill represents an aptitude in a vocation requiring a broader range of less specific knowledge. The most common Profession skills are architect, baker, barrister, brewer, butcher, clerk, cook, courtesan, driver, engineer, farmer, fisherman, gambler, gardener, herbalist, innkeeper, librarian, merchant, midwife, miller, miner, porter, sailor, scribe, shepherd, stable master, soldier, tanner, trapper, and woodcutter.<br /><br /><b>Check</b>: You can earn half your Profession check result in gold pieces per week of dedicated work. You know how to use the tools of your trade, how to perform the profession’s daily tasks, how to supervise helpers, and how to handle common problems. You can also answer questions about your Profession. Basic questions are DC 10, while more complex questions are DC 15 or higher. <br /><br /> <b>Action</b>: Not applicable. A single check generally represents a week of work. <br /><br /> <b>Try Again</b>: Varies. An attempt to use a Profession skill to earn income cannot be retried. You are stuck with whatever weekly wage your check result brought you. Another check may be made after a week to determine a new income for the next period of time. An attempt to accomplish some specific task can usually be retried. <br /><br /> <b>Untrained</b>: Untrained laborers and assistants (that is, characters without any ranks in Profession) earn an average of 1 silver piece per day. <br /><br /> <b>Special</b>: A gnome gets a +2 bonus on a Craft or Profession skill of her choice.<h2 class="title">Herbalism</h2><b>Source</b> <a href="http://paizo.com/products/btpy9ujo" target="_blank" class="external-link"><i>Ultimate Wilderness pg. 152</i></a><br />Herbs and useful plants and fungi abound in most wilderness regions, and while these valuable plants can be obtained in special markets or shops, the skilled herbalist knows where to go to gather these resources by hand in the wild.<br /><br /> <b>Gathering Herbs</b>: Gathering herbs is similar to foraging and can be accomplished while you are traveling or as your sole activity during an 8-hour period. If you gather herbs while traveling, your overland speed is halved. Spending 8 hours doing nothing but gathering herbs from the area grants 1 additional yield of each herb you’re gathering.<br /><br /> When you start your day of herb gathering, you must declare which herb you are looking for. If you have 5 ranks of Profession (herbalist), you can search for two different types of herbs at once, and for each additional 5 ranks you have in this skill, you can search for one additional herb, to a maximum of 5 herbs at once if you have 20 ranks in Profession (herbalist).<br /><br /> Each herb listed below has a gather DC. At the end of the time spent gathering, attempt a Profession (herbalist) or Knowledge (nature) check against each herb’s gather DC. If the terrain you are searching in is one of your favored terrains, you can attempt a Survival check instead. If the herb in question is present in the region you searched (this is always subject to the GM’s discretion), success results in a single yield of that herb. Success by 5 or more grants 1 extra yield. Success by 10 or more grants 2 extra yields.<br /><br /> A single yield of herb weighs 1/10 of a pound unless otherwise noted in its yield section in the stats below.<br /><br /> In addition to determining whether a particular herb is available to gather in a region, the GM also determines how many attempts to gather that herb can be attempted in the region. Typically, a region can support 1d4 herb-gathering expeditions before the herbs must be given 2d6 months to regrow.<br /><br /> <b>Preparing Herbs</b>: Most herbs must be prepared to unlock their potency. If this is the case for an herb, its stat block describes the method required to process it, the Craft (alchemy) DC to accomplish this task, and the amount of time needed to do so. A Profession (herbalist) check can be conducted instead of a Craft (alchemy), but the DC of the check to prepare the herb increases by 5 in this case. If the preparer fails this check by 5 or more, the dose of the herb is ruined; if she fails by less, she can try again with the same herbs.<br /><br /> <b>Preparing Multiple Herbs</b>: An herbalist can normally prepare one type of herb per day, but she can prepare a number of doses of that single type of herb equal to her ranks in Profession (herbalist). An herbalist with 7 or more ranks in Profession (herbalist) can simultaneously prepare a second type of herb. At 14 ranks in Profession (herbalist), the character can prepare up to three types of herbs at the same time.<br /><br /> <b>Herb Lifespan</b>: A raw, unprepared herb spoils 24 hours after it is harvested. A prepared herb spoils after 1 month unless otherwise noted in its Use entry.<h2 class="title"><a href="SkillUnlocks.aspx"><img src="images\PathfinderSocietySymbolN.gif" title="The skill unlocks and Signature Skill feat are only available through the rogue's edge class ability" style="margin:3px 3px 0px 3px;"> Unchained - Skill Unlock</a></h2><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 86</i></a><br />With sufficient ranks in Profession, you earn the following.<br /><br /><b>5 Ranks</b>: When using Profession checks to earn income, you earn gold pieces equal to the result of your check each week.<br /><br /><b>10 Ranks</b>: When attempting Profession checks, you can roll twice and take the better result. When answering questions about your Profession, you can always take 10.<br /><br /><b>15 Ranks</b>: You can attempt checks to earn income once per day instead of once per week.<br /><br /><b>20 Ranks</b>: When attempting Profession checks, you can choose to roll once instead of twice. If you do and the result of the roll is less than 10, replace it with 10. When answering questions about your Profession, you can always take 20.<br /><br /></span>
+        </td>
+	</tr>
+</table>
+
+    
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

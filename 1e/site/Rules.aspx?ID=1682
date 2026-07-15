@@ -1,0 +1,281 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Intrigue Elements - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Intrigue Elements" /><meta name="description" content="The following elements are ingredients that can help add intrigue to your game. You can use a single element to introduce complications into an otherwise low-intrigue game or session, or put several of them together to weave a complex web of intrigue throughout your campaign.&lt;br />&lt;br /> Even a group that’s primarily involved in dungeon-delving might get embroiled in a power struggle back in the town where they make their home base, or be stuck between two rivals who attempt to use the PCs as cat’s-paws. In a campaign that uses just one element for a bit of flavor, it’s important to incorporate that element on a regular basis—but not necessarily every session." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=1682" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXcajx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTY4MCI+TWFzdGVyaW5nIEludHJpZ3VlPC9hPjwvdT4gLyA8dT48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE2ODEiPkludHJpZ3VlIFN5c3RlbXM8L2E+PC91PjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTY4MiI+SW50cmlndWUgRWxlbWVudHM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTlqNnA/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVVsdGltYXRlLUludHJpZ3VlDQoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+VWx0aW1hdGUgSW50cmlndWUgcGcuIDk4PC9pPjwvYT48YnIgLz5UaGUgZm9sbG93aW5nIGVsZW1lbnRzIGFyZSBpbmdyZWRpZW50cyB0aGF0IGNhbiBoZWxwIGFkZCBpbnRyaWd1ZSB0byB5b3VyIGdhbWUuIFlvdSBjYW4gdXNlIGEgc2luZ2xlIGVsZW1lbnQgdG8gaW50cm9kdWNlIGNvbXBsaWNhdGlvbnMgaW50byBhbiBvdGhlcndpc2UgbG93LWludHJpZ3VlIGdhbWUgb3Igc2Vzc2lvbiwgb3IgcHV0IHNldmVyYWwgb2YgdGhlbSB0b2dldGhlciB0byB3ZWF2ZSBhIGNvbXBsZXggd2ViIG9mIGludHJpZ3VlIHRocm91Z2hvdXQgeW91ciBjYW1wYWlnbi48YnIgLz48YnIgLz4gRXZlbiBhIGdyb3VwIHRoYXTigJlzIHByaW1hcmlseSBpbnZvbHZlZCBpbiBkdW5nZW9uLWRlbHZpbmcgbWlnaHQgZ2V0IGVtYnJvaWxlZCBpbiBhIHBvd2VyIHN0cnVnZ2xlIGJhY2sgaW4gdGhlIHRvd24gd2hlcmUgdGhleSBtYWtlIHRoZWlyIGhvbWUgYmFzZSwgb3IgYmUgc3R1Y2sgYmV0d2VlbiB0d28gcml2YWxzIHdobyBhdHRlbXB0IHRvIHVzZSB0aGUgUENzIGFzIGNhdOKAmXMtcGF3cy4gSW4gYSBjYW1wYWlnbiB0aGF0IHVzZXMganVzdCBvbmUgZWxlbWVudCBmb3IgYSBiaXQgb2YgZmxhdm9yLCBpdOKAmXMgaW1wb3J0YW50IHRvIGluY29ycG9yYXRlIHRoYXQgZWxlbWVudCBvbiBhIHJlZ3VsYXIgYmFzaXPigJRidXQgbm90IG5lY2Vzc2FyaWx5IGV2ZXJ5IHNlc3Npb24uPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNjgzIj5SZWxhdGlvbnNoaXBzIGFuZCBMb3lhbHR5PC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5ajZwP1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1VbHRpbWF0ZS1JbnRyaWd1ZQ0KIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlVsdGltYXRlIEludHJpZ3VlIHBnLiA5ODwvaT48L2E+PGJyIC8+SW4gYW4gaW50cmlndWUtYmFzZWQgZ2FtZSwgaW50ZXJwZXJzb25hbCByZWxhdGlvbnNoaXBzIGFyZSBzcG90bGlnaHRlZCwgYW5kIHNlcnZlIGEgdmFyaWV0eSBvZiBkaWZmZXJlbnQgcm9sZXMgYW5kIHB1cnBvc2VzLiBUaGUgd2F5IHRoYXQgcGVvcGxl4oCZcyByZWFjdGlvbnMgYW5kIGZlZWxpbmdzIGNoYW5nZSB3aXRoIHRpbWUgYW5kIGludGVyYWN0aW9uIGlzIGNlbnRyYWwgdG8gdGhlIHBsb3QgaW4gc3VjaCBhIGdhbWUsIHJhdGhlciB0aGFuIHNvbWV0aGluZyB0byBpZ25vcmUgb3Igc2tpcCB0aHJvdWdoIHdpdGggYSBzaW5nbGUgcm9sbC4gUmVsYXRpb25zaGlwcyBhbmQgbG95YWx0eSBjYW4gbWFrZSB0aGVpciBtYXJrcyBpbiBhIGNhbXBhaWduIGluIG1hbnkgd2F5cy4gPGJyIC8+PGJyIC8+PGI+Tm9ubW9uZXRhcnkgUmV3YXJkczwvYj46IFJlbGF0aW9uc2hpcHMgd2l0aCBvdGhlciBjaGFyYWN0ZXJzIGFuZCB0aGUgcGVya3MgYW5kIHByaXZpbGVnZXMgZ3JhbnRlZCBieSB0aG9zZSByZWxhdGlvbnNoaXBzIGFyZSBmdW5kYW1lbnRhbCByZXdhcmRzLCBlcXVhbGx5IG9yIGV2ZW4gbW9yZSB2YWx1YWJsZSB0aGFuIHNpbXBsZSBjb2luLiBUaGUgcmlnaHQgZnJpZW5kcyBjYW4gZ3JhbnQgYWNjZXNzIHRvIHNvY2lhbCBldmVudHMsIGdpdmUgZ2lmdHMsIHByb3ZpZGUgaW5mb3JtYXRpb24sIG1ha2UgcHJvYmxlbXMgZ28gYXdheSwgb3IgcGVyZm9ybSB2YXJpb3VzIG90aGVyIGZhdm9ycyBvbiBhIGNoYXJhY3RlcuKAmXMgYmVoYWxmLiBTb21ldGltZXMsIGEgZnJpZW5kc2hpcCBjYW4gYmxvc3NvbSBpbnRvIHNvbWV0aGluZyBtb3JlLCBhbmQgdGhhdCBjYW4gYmUgaXRzIG93biByZXdhcmQuIDxiciAvPjxiciAvPjxiPkxveWFsdGllcyBhbmQgVGVuc2lvbjwvYj46IEFsbCBjaGFyYWN0ZXJzIGhhdmUgdGhlaXIgb3duIGFnZW5kYSBhbmQgbG95YWx0aWVzLCBldmVuIHRob3NlIGFsbGllZCB3aXRoIHRoZSBQQ3MuIENoYXJhY3RlcnMgYWN0IGFuZCByZXNwb25kIHRvIHRoZSBldmVudHMgaW4gdGhlIHdvcmxkIGFyb3VuZCB0aGVtIGluIHdheXMgdGhhdCBzZXJ2ZSB0aGVpciBpbnRlcmVzdHMgYW5kIG1hdGNoIHRoZWlyIHdvcmxkdmlld3MuIFNvbWUgb2YgdGhlIHRlbnNpb24gaW4gc3VjaCBnYW1lcyBjb21lcyBmcm9tIHRoZSB1bmNlcnRhaW50eSBvZiBob3cgb3RoZXJzIHdpbGwgYWN0LCBwYXJ0aWN1bGFybHkgYXQgYSBkZWNpc2l2ZSBtb21lbnQgd2hlbiBjb25mbGljdGluZyBsb3lhbHRpZXMgY2xhc2guIENhbiB0aGUgUEMgdGhpZXZlcyB0cnVzdCB0aGVpciBmcmllbmQgaW4gdGhlIGd1YXJkIG5vdCB0byBjcmFjayB3aGVuIGhlciBjb21tYW5kaW5nIG9mZmljZXIgcHV0cyBwcmVzc3VyZSBvbiBoZXIsIG9yIHdpbGwgc2hlIHJldmVhbCB3aGF0IHNoZSBrbm93cz8gV2lsbCB0aGUgcHJpbmNlc3MgdGhlIFBDcyBhc3Npc3RlZCBpbiBnYWluaW5nIHRoZSB0aHJvbmUga2VlcCBoZXIgcHJvbWlzZSB0byB0aGUgUENzIHRvIGdyYW50IGFzeWx1bSB0byB3aXRjaGVzIG5vdyB0aGF0IHNoZeKAmXMgcXVlZW4sIG9yIHdpbGwgc2hlIGJhY2twZWRhbCB0byB0aGUgbW9yZSBwb3B1bGFyIHN0YW5jZSB3aGVuIHRoZSBkdWtlcyB0aHJlYXRlbiB0byBzZWNlZGU/IFdpbGwgYSBQQ+KAmXMgc3Rld2FyZCBjYXZlIHRvIHRoZSBjcmltZSBib3Nz4oCZcyB0aHJlYXRzIGFnYWluc3QgaGlzIGtpZG5hcHBlZCBmYW1pbHkgYW5kIHNlY3JldGx5IGVtYmV6emxlIGZyb20gdGhlIFBDcywgb3Igd2lsbCBoZSBpbmZvcm0gdGhlbSBhbmQgcmlzayBoaXMgZmFtaWx5PzxiciAvPjxiciAvPiBIb3cgTlBDcyByZWFjdCBpbiB0aGVzZSBoaWdoLXByZXNzdXJlIHNpdHVhdGlvbnMgYWxzbyBzZXJ2ZXMgdG8gY2hhcmFjdGVyaXplIGFuZCBodW1hbml6ZSB0aGVtLiBJZiBhbiBOUEMgc2lkZXMgd2l0aCB0aGUgUENzIGluIGFueSBvZiB0aGVzZSBleGFtcGxlIHNpdHVhdGlvbnMsIHRoYXQgTlBDIGhhcyBtYWRlIGEgcG93ZXJmdWwgZGVtb25zdHJhdGlvbiBvZiBsb3lhbHR5IHRvIHRoZSBQQ3MuIElmIHRoZSBQQ3MgaGF2ZSBiZWVuIGVhcm5pbmcgdGhhdCBsb3lhbHR5IGFzIGEgcmV3YXJkLCBpdCB3aWxsIHNlcnZlIGFzIHJlaW5mb3JjZW1lbnQgb2YgdGhlIFBDc+KAmSBhY2NvbXBsaXNobWVudHMuIEVpdGhlciB3YXksIGl04oCZcyBsaWtlbHkgdG8gaW1wcmVzcyB0aGUgUENzIGFuZCBicmluZyB0aGVtIGNsb3NlciB0byB0aGUgTlBDLiBFdmVuIGlmIHRoZSBOUEMgYnVja2xlcywgaXQgZG9lc27igJl0IG1ha2UgaGVyIGEgdmlsbGFpbiwgYW5kIGl0IGNvdWxkIGNhdGFwdWx0IGhlciByb2xlIGludG8gdGhhdCBvZiBhIHJlbHVjdGFudCBhZHZlcnNhcnkgdG8gdGhlIFBDcyB3aXRoIHNpZ25pZmljYW50IHBhdGhvcy48YnIgLz48YnIgLz4gPGI+QmV0cmF5YWw8L2I+OiBJbiBjb250cmFzdCB0byBhIGZvcm1lciBhbGx5IGJlaW5nIGZvcmNlZCBieSBjaXJjdW1zdGFuY2VzIGFuZCBjb25mbGljdGluZyBsb3lhbHRpZXMgdG8gYWN0IGFnYWluc3QgdGhlIFBDc+KAmSBpbnRlcmVzdHMsIG5vdGhpbmcgaW5zcGlyZXMgaGF0cmVkIGZvciBhbiBOUEMgcXVpdGUgbGlrZSBhIGdvb2Qgb2xkLWZhc2hpb25lZCBiZXRyYXlhbC4gV2hldGhlciBpdOKAmXMgYW4gTlBDIHdobyBoaXJlcyB0aGUgUENzIHVuZGVyIGZhbHNlIHByZXRlbnNlcyBhcyBhIG1lYW5zIG9mIHNldHRpbmcgdGhlbSB1cCBvciBhIHNlZW1pbmcgYWxseSB3aG8gaXMgcHJvdmlkaW5nIGluZm9ybWF0aW9uIHRvIHRoZSBlbmVteSwgYSB0cmFpdG9yIHVwcyB0aGUgc3Rha2VzIGFuZCBwcm92aWRlcyBhIHBvd2VyZnVsIGVtb3Rpb25hbCByZXNwb25zZS48YnIgLz48YnIgLz4gT2YgY291cnNlLCBiZXRyYXlhbCBpcyBtdWNoIG1vcmUgaW50ZXJlc3RpbmcgaWYgaXTigJlzIHRoZSBleGNlcHRpb24sIHJhdGhlciB0aGFuIHRoZSBydWxlLiBJZiBOUENzIGJldHJheSB0aGUgUENzIHRvbyBvZnRlbiwgeW91IHVuZGVybWluZSB0aGUgY2FtcGFpZ27igJlzIGZvY3VzIG9uIHJlbGF0aW9uc2hpcHMgYnkgbWFraW5nIHRoZSBQQ3MgcmVncmV0IHRoZSBlZmZvcnRzIHRoZXkgdG9vayB0byBidWlsZCB1cCBhbGxpYW5jZXMgd2l0aCBOUENzIGFuZCBlYXJuIHRoZWlyIGxveWFsdHkuIFRoZSBleGNlcHRpb24gdG8gdGhpcyBndWlkZWxpbmUgaXMgaW4gYSBncml0dGllciwgbW9yZSBjeW5pY2FsIGdhbWUgd2hlcmUgYWxsaWFuY2VzIGFyZSBuZWNlc3NhcnkgdG8gZXZlbiBzdXJ2aXZlIGJ1dCBiZXRyYXlhbCBpcyB0aGUgc3RhdHVzIHF1by4gV2hlbiB5b3XigJlyZSBydW5uaW5nIHN1Y2ggYSBnYW1lLCBpdCBpcyBjcml0aWNhbCB0aGF0IHRoZSBwbGF5ZXJzIGtub3cgdGhpcyBpbiBhZHZhbmNlLCBvciBhdCBsZWFzdCBzaG9ydGx5IGFmdGVyIHRoZSBmaXJzdCB0aW1lIHRoZXkgZGVhbCB3aXRoIHRoZSBjeW5pY2FsIGFuZCB0cmVhY2hlcm91cyBhc3BlY3RzIG9mIHNvY2lldHkuIEV2ZW4gaW4gc3VjaCBnYW1lcywgdGhvdWdoIHRoZSBwb3NzaWJpbGl0eSBvZiBiZXRyYXlhbCBpcyB1YmlxdWl0b3VzIGFuZCBjb25zdGFudGx5IG9uIGJvdGggdGhlIHBsYXllcnPigJkgYW5kIGNoYXJhY3RlcnPigJkgbWluZHMsIG5vdCBldmVyeSByZWxhdGlvbnNoaXAgc2hvdWxkIGVuZCBpbiBiZXRyYXlhbCwgb3IgaXQgcXVpY2tseSBsb3NlcyBpdHMgaW1wYWN0LiA8YnIgLz48YnIgLz48Yj5IaWVyYXJjaGllczwvYj46IEhpZXJhcmNoaWVzIGFyZSBhIHN0cnVjdHVyZWQgc3lzdGVtIG9mIGxveWFsdGllcywgd2hldGhlciBwb2xpdGljYWwsIHNvY2lhbCwgbWlsaXRhcnksIG9yIGFub3RoZXIgc29ydCBlbnRpcmVseS4gUHJvZ3Jlc3Npb24gdXAgYSBoaWVyYXJjaHkgaXMgYSBncmVhdCB3YXkgdG8gdHJhY2sgdGhlIG5vbm1vbmV0YXJ5IHJld2FyZHMgaW4gYW4gaW50cmlndWViYXNlZCBnYW1lLiBIaWVyYXJjaGllcyBhcmUgYWxzbyBhbiBleGNlbGxlbnQgc291cmNlIG9mIGludGVyZXN0aW5nIHBsb3RsaW5lcyBhbmQgY29uZmxpY3RpbmcgbG95YWx0aWVzLCBmcm9tIGVpdGhlciBkaXJlY3Rpb24gb24gdGhlIGhpZXJhcmNoeS4gQmVjb21pbmcgYSBtZW1iZXIgb2YgYSBoaWVyYXJjaHkgZ2l2ZXMgUENzIGEgc3Ryb25nIHNlbnNlIG9mIGJlbG9uZ2luZyBhbmQgcmVhc29uIHRvIHRha2UgYWN0aW9ucyBhbmQgcHVyc3VlIGFuIGludHJpZ3VlIGFkdmVudHVyZS4gRW5lbWllcyBvcGVyYXRpbmcgd2l0aGluIGEgaGllcmFyY2h5IG1ha2UgZ3JlYXQgb3Bwb25lbnRzLCBhcyB0aGVpciBtZW1iZXJzaGlwIGluIHRoZSBoaWVyYXJjaHkgY2FuIGJlIGFsdGVybmF0ZWx5IGEgc291cmNlIG9mIHN0cmVuZ3RoIGFuZCBhIHZ1bG5lcmFiaWxpdHkuIElmIHRoZSBlbmVteSBhbmQgYSBQQyBhcmUgYm90aCBtZW1iZXJzIG9mIHRoZSBzYW1lIGhpZXJhcmNoeSwgdGhpbmdzIGNhbiBiZWNvbWUgcGFydGljdWxhcmx5IGludGVyZXN0aW5nLCBhcyBib3RoIGNoYXJhY3RlcnMgYXJlIGVtcG93ZXJlZCBhbmQgY29uc3RyYWluZWQgYnkgdGhlaXIgcGxhY2VzIGluIHRoZSBzeXN0ZW0uPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNjg0Ij5NZWFzdXJlIGFuZCBDb3VudGVybWVhc3VyZTwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWo2cD9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtVWx0aW1hdGUtSW50cmlndWUNCiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5VbHRpbWF0ZSBJbnRyaWd1ZSBwZy4gOTk8L2k+PC9hPjxiciAvPkluIGludHJpZ3VlLXRoZW1lZCBnYW1lcywgYWR2ZXJzYXJpZXMgZW5nYWdlIGluIGNsYW5kZXN0aW5lIGFjdGl2aXRpZXMgYW5kIHNlZWsgdG8gcHJldmVudCBlYWNoIG90aGVy4oCZcyBhY3Rpb25zLiBKdXN0IGxpa2UgaW4gdGhlIHJlYWwgd29ybGQsIHRoZSBpbnZlbnRpb24gb2YgbmV3IG1lYXN1cmVzIGFuZCBjb3VudGVybWVhc3VyZXMgbGVhZHMgdG8gc2VjcmV0aXZlIGFuZCBlc2NhbGF0aW5nIGNsYXNoZXMgdGhhdCByb2lsIHVuZGVyIHRoZSBzdXJmYWNlLCBhcyBlYWNoIHNpZGUgc2Vla3MgdG8gZXhwbG9pdCB0aGUgb3RoZXLigJlzIHZ1bG5lcmFiaWxpdGllcyBvciBzaG9yZSB1cCBpdHMgb3duLiBJbiBhIGZhbnRhc3kgd29ybGQsIHRoZXNlIGFkdmFuY2VtZW50cyBjYW4gYmUgYm90aCBtYWdpY2FsIGFuZCBtdW5kYW5lLCBmcm9tIGEgbmV3IHdheSBvZiBlbmNvZGluZyBpbmZvcm1hdGlvbiB0byBhIHNwZWxsIHRoYXQgYnlwYXNzZXMgdGhlIGVuZW154oCZcyBzZWN1cml0eS4gSW4gdGhpcyByZWdhcmQsIGl0IGNhbiBiZSBmdW4gdG8gaW5jbHVkZSBuZXcgc3BlbGxzLCBwZXJoYXBzIGZyb20gYW4gb2JzY3VyZSBzcGVsbGJvb2ssIG9yIGV2ZW4gaW52ZW50ZWQgYnkgYSBQQy4gQWZ0ZXIgdGhlIFBDc+KAmSBhZHZlcnNhcmllcyBjYXRjaCBvbiwgdGhvdWdoLCB0aGV5IGV2ZW50dWFsbHkgZGV2aXNlIGEgY291bnRlciBmb3IgaXQsIGFuZCB0aGUgY3ljbGUgY29udGludWVzLjxiciAvPjxiciAvPiBCZSBjYXJlZnVsIHdoZW4gdXNpbmcgdGhpcyBlbGVtZW50LiBJZGVhbGx5LCB5b3Ugd2FudCB0byBoYXZlIHRoZSBQQ3PigJkgYWR2ZXJzYXJpZXMgcGFydGljaXBhdGUgaW4gdGhpcyBpbnRyaWd1ZSBhcm1zIHJhY2UgYXQgYWJvdXQgdGhlIHNhbWUgcGFjZSBhcyB0aGUgUENzIGRvIHNvIHRoYXQgdGhleSBzZWVtIGxpa2UgY3JlZGlibGUgcml2YWxzLCByYXRoZXIgdGhhbiBpbmNvbXBldGVudCBwdXNob3ZlcnMuIElmIHRoZSBQQ3MgYXJlbuKAmXQgaW50ZXJlc3RlZCBpbiB0aGlzIGFzcGVjdCBhdCBhbGwsIHRob3VnaCwgZG9u4oCZdCBoYXZlIHRoZSBOUENzIGtlZXAgZXNjYWxhdGluZy4gVGhpcyBhZHZpY2UgaXMgZXZlbiB0cnVlIGZvciB0aGUgYmFzaWMgc3BlbGxzIGZyb20gdGhlIDxpPlBhdGhmaW5kZXIgUlBHIENvcmUgUnVsZWJvb2s8L2k+LiBUaGUgUENzIGFuZCB0aGUgcHJlY2F1dGlvbnMgdGhleSB0YWtlIGFuZCBleHBlY3QgYXJlIGEgYmVsbHdldGhlciBvZiB0aGUgYXBwcm94aW1hdGUgcHJlY2F1dGlvbnMgdGhlIE5QQ3Mgc2hvdWxkIGJlIHRha2luZy48YnIgLz48YnIgLz4gVGhlIGV4Y2VwdGlvbiBpcyB3aGVuIHRyeWluZyB0byBpbnRyb2R1Y2UgdGhlIG5vdGlvbiBvZiBtZWFzdXJlcyBhbmQgY291bnRlcm1lYXN1cmVzIHRvIGEgcGxheSBncm91cCB0aGF0IGRvZXNu4oCZdCB0eXBpY2FsbHkgdXNlIHRoZW0gb3IgdGhhdCBjb25zaXN0cyBvZiBuZXcgcGxheWVycyB3aG8gYXJlbuKAmXQgZmFtaWxpYXIgd2l0aCBhbGwgdGhlIHNwZWxscyBhbmQgdG9vbHMgYXQgdGhlaXIgZGlzcG9zYWwuIEZvciBzdWNoIGEgZ3JvdXAsIHRoZSBmaXJzdCB0aW1lIHRoZXkgbGVhcm4gYWJvdXQgdXNpbmcgYmFzaWMgY291bnRlcm1lYXN1cmVzIG1pZ2h0IGJlIHdoZW4gYW4gTlBDIGhhcyB1c2VkIHRoZW0uIEZvciBleGFtcGxlLCBzYXkgdGhlIFBDcyBiZWdpbiBhbiBpbnZlc3RpZ2F0aW9uIG9mIGEgY3JpbWUgYXQgdGhlIHJlcXVlc3Qgb2YgYW4gTlBDOyB0aGUgTlBDIGNvdWxkIHN0YXJ0IGJ5IHRlbGxpbmcgdGhlIFBDcyB3aGF0IGludmVzdGlnYXRpdmUgbWVhc3VyZXMgaGUgaGFzIGFscmVhZHkgdGFrZW7igJRhbmQgdGh1cyB3aGF0IGNvdW50ZXJtZWFzdXJlcyBoZSBzdXNwZWN0cyB0aGUgcGVycGV0cmF0b3IgbWlnaHQgaGF2ZSB1c2VkLiBUaGlzIGludHJvZHVjZXMgdGhlIFBDcyB0byB0aG9zZSBtZWFzdXJlcyBhbmQgY291bnRlcm1lYXN1cmVzIHNlYW1sZXNzbHkgYXMgYW4gZXN0YWJsaXNoZWQgZWxlbWVudCBvZiB0aGUgZ2FtZSB3b3JsZCwgcmF0aGVyIHRoYW4gYW4gb2JzdGFjbGUgdGhhdCBjb21lcyBvdXQgb2YgdGhlIGJsdWUgZHVyaW5nIHBsYXkuIFdpdGggdGhpcyBzb3J0IG9mIGludHJvZHVjdGlvbiBwbGFubmVkLCB5b3UgY2FuIGRlc2lnbiBhIHBsb3QgcmV2b2x2aW5nIGFyb3VuZCBieXBhc3Npbmcgb3IgZXhwbG9pdGluZyB0aG9zZSBjb3VudGVybWVhc3VyZXMgZnJvbSB0aGUgb3V0c2V0LjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTY4NSI+VGhlIEltcG9ydGFuY2Ugb2YgQXBwZWFyYW5jZXM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTlqNnA/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVVsdGltYXRlLUludHJpZ3VlDQoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+VWx0aW1hdGUgSW50cmlndWUgcGcuIDk5PC9pPjwvYT48YnIgLz5JbiBzb21lIGdhbWVzLCBzdWNjZXNzIGFuZCBmYWlsdXJlIGFyZSBtZWFzdXJlZCBpbiB0aGUgY291cnQgb2YgcHVibGljIG9waW5pb24sIGFuZCBhcHBlYXJpbmcgdG8gYmUgYSBjZXJ0YWluIHdheSBpcyBvZnRlbiBtb3JlIGltcG9ydGFudCB0aGFuIGJlaW5nIHRoYXQgd2F5LiBUaGlzIGxlYWRzIHRvIHBsZW50eSBvZiBkZWNlcHRpb24gYW5kIGJldHJheWFsLCBhbmQgY2FuIGFsc28gbGVhZCB0byB3YXJzIG9mIHBvcHVsYXIgYmVsaWVmLCB3aGVyZWluIGJvdGggc2lkZXMgc2VlayB0byBwYWludCB0aGUgb3RoZXIgYXMgZXZpbCBhbmQgc3ViamVjdGl2ZSBvcGluaW9ucyBob2xkIHN3YXkgb3ZlciB0aGUgdHJ1dGggb2YgdGhlIG1hdHRlci4gSW4gdGhlc2Ugc2l0dWF0aW9ucywgaXQgaXMgaW1wb3J0YW50IHRvIGJlIGFibGUgdG8ga2VlcCB1cCBhcHBlYXJhbmNlcywgd2hpY2ggaXMgYSBrZXkgc2tpbGwgc2V0IGluIGFuIGludHJpZ3VlLWZvY3VzZWQgYWR2ZW50dXJpbmcgcGFydHkuIFRoZSBuZWNlc3NpdHkgb2YgYXBwZWFyYW5jZXMgb2Z0ZW4gcmVzdHJpY3RzIGNlcnRhaW4gYWN0aW9ucyBhIGdyb3VwIGNhbiB0YWtlLCByZXN1bHRpbmcgaW4gaW5kaXJlY3QsIGRpc2NyZWV0LCBhbmQgdW51c3VhbCB0YWN0aWNzLCByYXRoZXIgdGhhbiBydXNoaW5nIGludG8gYW4gYWR2ZXJzYXJ54oCZcyBob21lIGFuZCBhbm5paGlsYXRpbmcgZXZlcnlvbmUgd2l0aCBzdGVlbCBhbmQgc3BlbGxzLiBVc2luZyBzb2NpYWwgcHJlc3N1cmUgdG8gcmVzdHJpY3QgdGhlIGFjdGlvbnMgdW5kZXIgY29uc2lkZXJhdGlvbiBpcyBhIGdyZWF0IHdheSB0byBoaWdobGlnaHQgdGhlIHZhcmllZCBza2lsbHMgYW5kIGFiaWxpdGllcyBvZiBlYWNoIHBhcnR5IG1lbWJlciwgYXMgbG9uZyBhcyB0aGVzZSByZXN0cmljdGlvbnMgbWFrZSBzZW5zZSBhbmQgZml0IGludG8gdGhlIHdheSB0aGUgc2l0dWF0aW9uIGlzIHN0cnVjdHVyZWQuIEZvciBpbnN0YW5jZSwgaWYgdGhlIFBDcyB3YW50IHRvIGhlbHAgdGhlIGV2aWwgZHVrZeKAmXMgeW91bmdlciBzaXN0ZXIgc3RpciB1cCBkaXNzZW50IGFnYWluc3QgdGhlIGR1a2UgYnkgcHJvdmluZyB0aGF0IHRoZSBkdWtlIHdhcyBndWlsdHkgb2YgbXVyZGVyaW5nIGhpcyBtYWpvcmRvbW8sIG11cmRlcmluZyB0aGUgZHVrZeKAmXMgbG95YWwgcmV0YWluZXJzIGFuZCBuZXcgbWFqb3Jkb21vIHdvdWxkIG1ha2UgdGhlIFBDcyBsb29rIGh5cG9jcml0aWNhbCAoYXMgd2VsbCBhcyBsaWtlIGRlc3BlcmF0ZSBtYW5pYWNzKSwgYW5kIHNvIGlzbuKAmXQgYSB3aXNlIHRhY3RpYy4gU2ltaWxhcmx5LCBpZiBhIGNlcnRhaW4gdHlwZSBvZiBtYWdpYywgc3VjaCBhcyBuZWNyb21hbmN5IG9yIGNvbXB1bHNpb25zLCBpcyBpbGxlZ2FsIGluIGEgc29jaWV0eSwgdGhlbiBpdCBtYWtlcyBzZW5zZSB0aGF0IHRoZSBQQ3MgbXVzdCB1c2UgdGhvc2UgdGFjdGljcyBzcGFyaW5nbHkgdG8gYXZvaWQgdGhlaXIgZGVlZHMgYmVpbmcgb3ZlcnNoYWRvd2VkIGJ5IHRoZWlyIHVubGF3ZnVsIHVzZXMgb2YgbWFnaWMuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNjg2Ij5CYXJnYWlucyBhbmQgQ29tcHJvbWlzZTwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWo2cD9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtVWx0aW1hdGUtSW50cmlndWUNCiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5VbHRpbWF0ZSBJbnRyaWd1ZSBwZy4gMTAwPC9pPjwvYT48YnIgLz5JbiBhIGNhbXBhaWduIHJldm9sdmluZyBhcm91bmQgcGh5c2ljYWwgY29tYmF0IGJldHdlZW4gZ29vZCBhbmQgZXZpbCwgdGhlcmXigJlzIGxpdHRsZSByb29tIGZvciBjb21wcm9taXNlLiBCdXQgaW4gYW4gaW50cmlndWUtYmFzZWQgZ2FtZSwgd2hlcmUgZWFjaCBjaGFyYWN0ZXIgYWN0cyBhY2NvcmRpbmcgdG8gaGVyIGludGVyZXN0cyBhbmQgbG95YWx0aWVzLCB0aGVyZSBjb21lcyBhIHBvaW50IHdoZXJlIHRoZSB3cml0aW5nIGlzIG9uIHRoZSB3YWxsLCBhdCB3aGljaCBhIHJlYXNvbmFibGUgb3Bwb25lbnQgb2ZmZXJzIGEgYmFyZ2FpbiByYXRoZXIgdGhhbiBmb2xsb3cgdGhlIHN0cnVnZ2xlIGFsbCB0aGUgd2F5IHRocm91Z2ggdG8gZGVzdHJ1Y3Rpb24uIFRoZXNlIGNvbXByb21pc2VzIG1pZ2h0IGV2ZW4gb2ZmZXIgdGhlIFBDcyBtb3JlIHRoYW4gdGhleSB3b3VsZCBnZXQgZm9yIGRlc3Ryb3lpbmcgdGhlaXIgZm9lLCB3aGlsZSBhbGxvd2luZyB0aGUgZm9lIHRvIGtlZXAgd2hhdOKAmXMgbW9zdCBpbXBvcnRhbnQgdG8gaGVyLiBJbiBtb3N0IGNhbXBhaWducywgdGhlIFBDcyBhcmUgZ29pbmcgdG8gd2luLCBidXQgdGhpcyBzb3J0IG9mIG9mZmVyIGlzIGEgZ3JlYXQgb3Bwb3J0dW5pdHkgZm9yIHRoZSBQQ3MgdG8gZXN0YWJsaXNoIHRoZWlyIHByaW9yaXRpZXMgYW5kIG1ha2UgYSByZWFsIGRlY2lzaW9uIGFib3V0IGhvdyB0aGV5IHdpbi4gRm9yIGV4YW1wbGUsIHN1cHBvc2UgdGhlIFBDcyBoYXZlIGEgbWFpbiBnb2FsIG9mIGVtYW5jaXBhdGluZyBlbnNsYXZlZCBoYWxmbGluZ3MsIGFuZCBkdXJpbmcgdGhpcyBjb25mbGljdCwgdGhlIHByb3NsYXZlcnkgZmFjdGlvbiBicmliZXMgYW4gaW5mbHVlbnRpYWwgbWFnaXN0cmF0ZSB0byBtYWtlIGxpZmUgZGlmZmljdWx0IGZvciB0aGUgUENzLiBUaGUgUENzIGFyZSBhYmxlIHRvIHR1cm4gdGhlIHRhYmxlcyBhbmQgZGlzY292ZXIgZGFtbmluZyBldmlkZW5jZSB0aGF0IGNvdWxkIGRlc3Ryb3kgdGhlIG1hZ2lzdHJhdGXigJlzIGNhcmVlciBmb3JldmVyLCBzbyB0aGUgbWFnaXN0cmF0ZSBvZmZlcnMgdGhlIFBDcyBhIGRlYWw6IGlmIHRoZXkgd2l0aGhvbGQgdGhlIGV2aWRlbmNlIGFuZCBhbGxvdyBoZXIgdG8ga2VlcCBoZXIgam9iLCBzaGXigJlsbCB1c2UgaGVyIGluZmx1ZW5jZSB0byBhc3Npc3QgaW4gaGFsZmxpbmcgZW1hbmNpcGF0aW9uIGFuZCBnaXZlIHRoZSBQQ3MgYSBzdHJvbmcgYWR2YW50YWdlLiBDYW4gdGhlIFBDcyB0cnVzdCBoZXI/IFdoaWNoIGlzIHN0cm9uZ2VyLCB0aGVpciBkZXNpcmUgdG8gaGVscCB0aGUgaGFsZmxpbmdzLCBvciB0aGVpciBkZXNpcmUgdG8gc2VlIHRoZSBtYWdpc3RyYXRlIGdldCBoZXIganVzdCBkZXNzZXJ0cz88YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE2ODciPlRoZSBQb3dlciBvZiBTZWNyZXRzPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5ajZwP1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1VbHRpbWF0ZS1JbnRyaWd1ZQ0KIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlVsdGltYXRlIEludHJpZ3VlIHBnLiAxMDA8L2k+PC9hPjxiciAvPlNlY3JldHMgYXJlIHBvd2VyZnVsIGluIGFueSBQYXRoZmluZGVyIGdhbWUsIGV2ZW4gb25lcyBlbnRpcmVseSBmb2N1c2VkIG9uIGNvbWJhdCwgc2luY2UgZGlzY292ZXJpbmcgc2VjcmV0cyBlbmFibGVzIGNoYXJhY3RlcnMgdG8gbGVhcm4gYW4gZW5lbXnigJlzIHN0cmVuZ3RocyBhbmQgd2Vha25lc3NlcyBhbmQgcGxhbiBhY2NvcmRpbmdseS4gSG93ZXZlciwgd2hlbiB5b3XigJlyZSB1c2luZyBpbnRyaWd1ZSBpbiB5b3VyIGdhbWUsIHNlY3JldHMgYXJlIGV2ZW4gbW9yZSBzaWduaWZpY2FudC4gSW4gZmFjdCwgYSB0cnVseSBwb3dlcmZ1bCBzZWNyZXQgY2FuIGJlIGEgZmFyIGdyZWF0ZXIgcmV3YXJkIHRoYW4gZXZlbiBhIGRyYWdvbuKAmXMgaG9hcmQuIFNlY3JldHMgYXJlIHRpZWQgaW50byBhbGwgdGhlIG90aGVyIGVsZW1lbnRzIG9mIGFuIGludHJpZ3VlLWJhc2VkIGdhbWUuIFRoZXkgY2FuIGRlc3Ryb3kgcmVsYXRpb25zaGlwcyBhbmQgY2hhbmdlIGxveWFsdGllcywgb2Z0ZW4gdG8gdGhlIGFkdmFudGFnZSBvZiB0aGUgb25lIHdobyBob2xkcyBvciByZWxlYXNlcyB0aGUgc2VjcmV0LiBEaXNjbG9zaW5nIGEgc2VjcmV0IGNhbiBzaGF0dGVyIHNvbWVvbmXigJlzIGZhbHNlIGFwcGVhcmFuY2UuIEZvciBpbnN0YW5jZSwgbm8gbWF0dGVyIGhvdyBoaWdoIHRoZSBQQ3Mgcm9sbCBvbiBEaXBsb21hY3ksIHRoZWlyIHdvcmRzIGFsb25lIGNhbuKAmXQgcGVyc3VhZGUgdGhlIGtpbmQgYW5kIGZhaXRoZnVsIHF1ZWVuIHRvIGhlbHAgYXNzYXNzaW5hdGUgb3Igb3VzdCBoZXIgaHVzYmFuZCwgYW4gZXZpbCBraW5nIHdobyBoYXMgY29udmluY2VkIGV2ZXJ5b25l4oCUZXZlbiBoaXMgd2lmZSwgd2hvbSBoZSB0cnVseSBsb3Zlc+KAlHRoYXQgaGUgaXMgYSBnb29kIG1hbi4gQnV0IGlmIHRoZSBQQ3MgZXhwb3NlIHRoZSBraW5n4oCZcyBkYXJrIHNlY3JldHMgaW4gYSBjb252aW5jaW5nIHdheSwgdGhlbiBwdWxsIG9mZiBhIHNraWxsZWQgZWZmb3J0IHRvIGluZmx1ZW5jZSB0aGUgcXVlZW4sIHRoZXkganVzdCBtaWdodCBzdWNjZWVkLiBTZWNyZXRzIGFyZSBhbHNvIHBhcnQgYW5kIHBhcmNlbCBvZiBibGFja21haWwgcGxvdHMsIHdoaWNoIGNhbiBsZWFkIHRvIGZhc2NpbmF0aW5nIGJhcmdhaW5zIGFuZCBiYWNrcm9vbSBkZWFscy4gT2YgY291cnNlLCB0aG91Z2ggdXNpbmcgZXh0b3J0aW9uIG1pZ2h0IGVhcm4geW91IGFuIGFsbHkgb2Ygc29ydHMsIHN1Y2ggYWxsaWFuY2VzIGFyZSBidWlsdCBvbiBpbGwgd2lsbC4gQmVjYXVzZSBvZiB0aGUgZGFuZ2VycyBvZiBsZWFrZWQgc2VjcmV0cywgcHJvdGVjdGluZyBzZWNyZXRzIGlzIGEgbWFpbiBpbXBldHVzIG9mIHRoZSBhcm1zIHJhY2Ugb2YgbWVhc3VyZXMgYW5kIGNvdW50ZXJtZWFzdXJlcyBtZW50aW9uZWQgZWFybGllci4gQW5kLCBvZiBjb3Vyc2UsIHNvbWV0aW1lcyB0aGUgbW9zdCBkYW5nZXJvdXMgdGhpbmcgYSBjaGFyYWN0ZXIgY2FuIGRvIGlzIGRpc2NvdmVyIGEgc2VjcmV0IHRoYXQgc29tZW9uZSBwb3dlcmZ1bCBkb2VzbuKAmXQgd2FudCBhbnlvbmUgdG8ga25vdy5kZGTe/CfAqc/lIEtgIbIXkmG4z0Ncdm7FHeTpTtLTL2C4IQ==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1680">Mastering Intrigue</a></u> / <u><a href="Rules.aspx?ID=1681">Intrigue Systems</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=1682">Intrigue Elements</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9j6p?Pathfinder-Roleplaying-Game-Ultimate-Intrigue
+" target="_blank" class="external-link"><i>Ultimate Intrigue pg. 98</i></a><br />The following elements are ingredients that can help add intrigue to your game. You can use a single element to introduce complications into an otherwise low-intrigue game or session, or put several of them together to weave a complex web of intrigue throughout your campaign.<br /><br /> Even a group that’s primarily involved in dungeon-delving might get embroiled in a power struggle back in the town where they make their home base, or be stuck between two rivals who attempt to use the PCs as cat’s-paws. In a campaign that uses just one element for a bit of flavor, it’s important to incorporate that element on a regular basis—but not necessarily every session.<br /><h1 class="title"><a href="Rules.aspx?ID=1683">Relationships and Loyalty</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9j6p?Pathfinder-Roleplaying-Game-Ultimate-Intrigue
+" target="_blank" class="external-link"><i>Ultimate Intrigue pg. 98</i></a><br />In an intrigue-based game, interpersonal relationships are spotlighted, and serve a variety of different roles and purposes. The way that people’s reactions and feelings change with time and interaction is central to the plot in such a game, rather than something to ignore or skip through with a single roll. Relationships and loyalty can make their marks in a campaign in many ways. <br /><br /><b>Nonmonetary Rewards</b>: Relationships with other characters and the perks and privileges granted by those relationships are fundamental rewards, equally or even more valuable than simple coin. The right friends can grant access to social events, give gifts, provide information, make problems go away, or perform various other favors on a character’s behalf. Sometimes, a friendship can blossom into something more, and that can be its own reward. <br /><br /><b>Loyalties and Tension</b>: All characters have their own agenda and loyalties, even those allied with the PCs. Characters act and respond to the events in the world around them in ways that serve their interests and match their worldviews. Some of the tension in such games comes from the uncertainty of how others will act, particularly at a decisive moment when conflicting loyalties clash. Can the PC thieves trust their friend in the guard not to crack when her commanding officer puts pressure on her, or will she reveal what she knows? Will the princess the PCs assisted in gaining the throne keep her promise to the PCs to grant asylum to witches now that she’s queen, or will she backpedal to the more popular stance when the dukes threaten to secede? Will a PC’s steward cave to the crime boss’s threats against his kidnapped family and secretly embezzle from the PCs, or will he inform them and risk his family?<br /><br /> How NPCs react in these high-pressure situations also serves to characterize and humanize them. If an NPC sides with the PCs in any of these example situations, that NPC has made a powerful demonstration of loyalty to the PCs. If the PCs have been earning that loyalty as a reward, it will serve as reinforcement of the PCs’ accomplishments. Either way, it’s likely to impress the PCs and bring them closer to the NPC. Even if the NPC buckles, it doesn’t make her a villain, and it could catapult her role into that of a reluctant adversary to the PCs with significant pathos.<br /><br /> <b>Betrayal</b>: In contrast to a former ally being forced by circumstances and conflicting loyalties to act against the PCs’ interests, nothing inspires hatred for an NPC quite like a good old-fashioned betrayal. Whether it’s an NPC who hires the PCs under false pretenses as a means of setting them up or a seeming ally who is providing information to the enemy, a traitor ups the stakes and provides a powerful emotional response.<br /><br /> Of course, betrayal is much more interesting if it’s the exception, rather than the rule. If NPCs betray the PCs too often, you undermine the campaign’s focus on relationships by making the PCs regret the efforts they took to build up alliances with NPCs and earn their loyalty. The exception to this guideline is in a grittier, more cynical game where alliances are necessary to even survive but betrayal is the status quo. When you’re running such a game, it is critical that the players know this in advance, or at least shortly after the first time they deal with the cynical and treacherous aspects of society. Even in such games, though the possibility of betrayal is ubiquitous and constantly on both the players’ and characters’ minds, not every relationship should end in betrayal, or it quickly loses its impact. <br /><br /><b>Hierarchies</b>: Hierarchies are a structured system of loyalties, whether political, social, military, or another sort entirely. Progression up a hierarchy is a great way to track the nonmonetary rewards in an intriguebased game. Hierarchies are also an excellent source of interesting plotlines and conflicting loyalties, from either direction on the hierarchy. Becoming a member of a hierarchy gives PCs a strong sense of belonging and reason to take actions and pursue an intrigue adventure. Enemies operating within a hierarchy make great opponents, as their membership in the hierarchy can be alternately a source of strength and a vulnerability. If the enemy and a PC are both members of the same hierarchy, things can become particularly interesting, as both characters are empowered and constrained by their places in the system.<br /><h1 class="title"><a href="Rules.aspx?ID=1684">Measure and Countermeasure</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9j6p?Pathfinder-Roleplaying-Game-Ultimate-Intrigue
+" target="_blank" class="external-link"><i>Ultimate Intrigue pg. 99</i></a><br />In intrigue-themed games, adversaries engage in clandestine activities and seek to prevent each other’s actions. Just like in the real world, the invention of new measures and countermeasures leads to secretive and escalating clashes that roil under the surface, as each side seeks to exploit the other’s vulnerabilities or shore up its own. In a fantasy world, these advancements can be both magical and mundane, from a new way of encoding information to a spell that bypasses the enemy’s security. In this regard, it can be fun to include new spells, perhaps from an obscure spellbook, or even invented by a PC. After the PCs’ adversaries catch on, though, they eventually devise a counter for it, and the cycle continues.<br /><br /> Be careful when using this element. Ideally, you want to have the PCs’ adversaries participate in this intrigue arms race at about the same pace as the PCs do so that they seem like credible rivals, rather than incompetent pushovers. If the PCs aren’t interested in this aspect at all, though, don’t have the NPCs keep escalating. This advice is even true for the basic spells from the <i>Pathfinder RPG Core Rulebook</i>. The PCs and the precautions they take and expect are a bellwether of the approximate precautions the NPCs should be taking.<br /><br /> The exception is when trying to introduce the notion of measures and countermeasures to a play group that doesn’t typically use them or that consists of new players who aren’t familiar with all the spells and tools at their disposal. For such a group, the first time they learn about using basic countermeasures might be when an NPC has used them. For example, say the PCs begin an investigation of a crime at the request of an NPC; the NPC could start by telling the PCs what investigative measures he has already taken—and thus what countermeasures he suspects the perpetrator might have used. This introduces the PCs to those measures and countermeasures seamlessly as an established element of the game world, rather than an obstacle that comes out of the blue during play. With this sort of introduction planned, you can design a plot revolving around bypassing or exploiting those countermeasures from the outset.<br /><h1 class="title"><a href="Rules.aspx?ID=1685">The Importance of Appearances</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9j6p?Pathfinder-Roleplaying-Game-Ultimate-Intrigue
+" target="_blank" class="external-link"><i>Ultimate Intrigue pg. 99</i></a><br />In some games, success and failure are measured in the court of public opinion, and appearing to be a certain way is often more important than being that way. This leads to plenty of deception and betrayal, and can also lead to wars of popular belief, wherein both sides seek to paint the other as evil and subjective opinions hold sway over the truth of the matter. In these situations, it is important to be able to keep up appearances, which is a key skill set in an intrigue-focused adventuring party. The necessity of appearances often restricts certain actions a group can take, resulting in indirect, discreet, and unusual tactics, rather than rushing into an adversary’s home and annihilating everyone with steel and spells. Using social pressure to restrict the actions under consideration is a great way to highlight the varied skills and abilities of each party member, as long as these restrictions make sense and fit into the way the situation is structured. For instance, if the PCs want to help the evil duke’s younger sister stir up dissent against the duke by proving that the duke was guilty of murdering his majordomo, murdering the duke’s loyal retainers and new majordomo would make the PCs look hypocritical (as well as like desperate maniacs), and so isn’t a wise tactic. Similarly, if a certain type of magic, such as necromancy or compulsions, is illegal in a society, then it makes sense that the PCs must use those tactics sparingly to avoid their deeds being overshadowed by their unlawful uses of magic.<br /><h1 class="title"><a href="Rules.aspx?ID=1686">Bargains and Compromise</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9j6p?Pathfinder-Roleplaying-Game-Ultimate-Intrigue
+" target="_blank" class="external-link"><i>Ultimate Intrigue pg. 100</i></a><br />In a campaign revolving around physical combat between good and evil, there’s little room for compromise. But in an intrigue-based game, where each character acts according to her interests and loyalties, there comes a point where the writing is on the wall, at which a reasonable opponent offers a bargain rather than follow the struggle all the way through to destruction. These compromises might even offer the PCs more than they would get for destroying their foe, while allowing the foe to keep what’s most important to her. In most campaigns, the PCs are going to win, but this sort of offer is a great opportunity for the PCs to establish their priorities and make a real decision about how they win. For example, suppose the PCs have a main goal of emancipating enslaved halflings, and during this conflict, the proslavery faction bribes an influential magistrate to make life difficult for the PCs. The PCs are able to turn the tables and discover damning evidence that could destroy the magistrate’s career forever, so the magistrate offers the PCs a deal: if they withhold the evidence and allow her to keep her job, she’ll use her influence to assist in halfling emancipation and give the PCs a strong advantage. Can the PCs trust her? Which is stronger, their desire to help the halflings, or their desire to see the magistrate get her just desserts?<br /><h1 class="title"><a href="Rules.aspx?ID=1687">The Power of Secrets</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9j6p?Pathfinder-Roleplaying-Game-Ultimate-Intrigue
+" target="_blank" class="external-link"><i>Ultimate Intrigue pg. 100</i></a><br />Secrets are powerful in any Pathfinder game, even ones entirely focused on combat, since discovering secrets enables characters to learn an enemy’s strengths and weaknesses and plan accordingly. However, when you’re using intrigue in your game, secrets are even more significant. In fact, a truly powerful secret can be a far greater reward than even a dragon’s hoard. Secrets are tied into all the other elements of an intrigue-based game. They can destroy relationships and change loyalties, often to the advantage of the one who holds or releases the secret. Disclosing a secret can shatter someone’s false appearance. For instance, no matter how high the PCs roll on Diplomacy, their words alone can’t persuade the kind and faithful queen to help assassinate or oust her husband, an evil king who has convinced everyone—even his wife, whom he truly loves—that he is a good man. But if the PCs expose the king’s dark secrets in a convincing way, then pull off a skilled effort to influence the queen, they just might succeed. Secrets are also part and parcel of blackmail plots, which can lead to fascinating bargains and backroom deals. Of course, though using extortion might earn you an ally of sorts, such alliances are built on ill will. Because of the dangers of leaked secrets, protecting secrets is a main impetus of the arms race of measures and countermeasures mentioned earlier. And, of course, sometimes the most dangerous thing a character can do is discover a secret that someone powerful doesn’t want anyone to know.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

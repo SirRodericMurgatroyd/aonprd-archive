@@ -1,0 +1,270 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Structural Traits - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Structural Traits" /><meta name="description" content="The underlying rules of reality that govern how the denizens and landscape of a plane function are described by a plane’s structural traits. Regardless of the nature of a plane’s structural traits, all planes can be altered on a whim by a deity’s will to a certain extent; this ability to change reality is greatest within the boundaries of a deity’s planar realm. Demigods have a lesser ability to effect such change and are limited to changing only their own planar realms. See &lt;a style=&quot;text-decoration:underline&quot; href=&quot;Rules.aspx?Name=Divine Power&amp;Category=Role of the Divine&quot;>Divine Power&lt;/a> for more details. &lt;br />&lt;br />&lt;h3 class=&quot;framing&quot;>Lasting Structure&lt;/h3> On a plane with this trait, objects remain where they are (and what they are) unless affected by physical force or magic. Anyone can change the immediate environment as a result of tangible effort. &lt;br />&lt;br />&lt;h3 class=&quot;framing&quot;>Morphic Structure&lt;/h3> A plane with morphic structure behaves similarly to a plane with a lasting structure, but its realities and physicality can be changed with ease even by nondivine beings. When a plane has morphic structure, additional details for how that manifests are provided in the entry. &lt;br />&lt;br />&lt;h3 class=&quot;framing&quot;>Sentient Structure&lt;/h3> These planes respond to a single entity’s thoughts—those of the plane itself. Travelers might find the plane’s landscape changing as a result of what the plane thinks of the travelers, becoming either more or less hospitable depending on its reaction. The influence of a deity or demigod can sometimes supersede the plane’s whims, but in most cases a sentient plane constantly works to erode and transform such unwanted intrusions into its structure. &lt;br />&lt;br />&lt;h3 class=&quot;framing&quot;>Static Structure&lt;/h3> Static planes are unchanging, or they reset once change occurs. Visitors cannot affect living residents of the plane or objects that the denizens carry in any lasting way. Spells that would affect the plane or its denizens have no effect unless the plane’s static trait is somehow removed or suppressed. Spells cast before entering a plane with the static trait remain in effect, however. Even moving an unattended object within a static plane requires a successful DC 16 Strength check. Particularly heavy objects may be impossible to move. Often, a plane with the static trait has a duration listed—this is the amount of time that any change can persist before the plane’s reality resets." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=2484" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAX3FTx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjQ3NyI+UGxhbmFyIEFkdmVudHVyZXM8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjQ4MCI+VHJhaXRzIG9mIGEgUGxhbmU8L2E+PC91PjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjQ4NCI+U3RydWN0dXJhbCBUcmFpdHM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweWExYW0iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UGxhbmFyIEFkdmVudHVyZXMgcGcuIDYwPC9pPjwvYT48YnIgLz5UaGUgdW5kZXJseWluZyBydWxlcyBvZiByZWFsaXR5IHRoYXQgZ292ZXJuIGhvdyB0aGUgZGVuaXplbnMgYW5kIGxhbmRzY2FwZSBvZiBhIHBsYW5lIGZ1bmN0aW9uIGFyZSBkZXNjcmliZWQgYnkgYSBwbGFuZeKAmXMgc3RydWN0dXJhbCB0cmFpdHMuIFJlZ2FyZGxlc3Mgb2YgdGhlIG5hdHVyZSBvZiBhIHBsYW5l4oCZcyBzdHJ1Y3R1cmFsIHRyYWl0cywgYWxsIHBsYW5lcyBjYW4gYmUgYWx0ZXJlZCBvbiBhIHdoaW0gYnkgYSBkZWl0eeKAmXMgd2lsbCB0byBhIGNlcnRhaW4gZXh0ZW50OyB0aGlzIGFiaWxpdHkgdG8gY2hhbmdlIHJlYWxpdHkgaXMgZ3JlYXRlc3Qgd2l0aGluIHRoZSBib3VuZGFyaWVzIG9mIGEgZGVpdHnigJlzIHBsYW5hciByZWFsbS4gRGVtaWdvZHMgaGF2ZSBhIGxlc3NlciBhYmlsaXR5IHRvIGVmZmVjdCBzdWNoIGNoYW5nZSBhbmQgYXJlIGxpbWl0ZWQgdG8gY2hhbmdpbmcgb25seSB0aGVpciBvd24gcGxhbmFyIHJlYWxtcy4gU2VlIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJSdWxlcy5hc3B4P05hbWU9RGl2aW5lIFBvd2VyJkNhdGVnb3J5PVJvbGUgb2YgdGhlIERpdmluZSI+RGl2aW5lIFBvd2VyPC9hPiBmb3IgbW9yZSBkZXRhaWxzLiA8YnIgLz48YnIgLz48aDMgY2xhc3M9ImZyYW1pbmciPkxhc3RpbmcgU3RydWN0dXJlPC9oMz4gT24gYSBwbGFuZSB3aXRoIHRoaXMgdHJhaXQsIG9iamVjdHMgcmVtYWluIHdoZXJlIHRoZXkgYXJlIChhbmQgd2hhdCB0aGV5IGFyZSkgdW5sZXNzIGFmZmVjdGVkIGJ5IHBoeXNpY2FsIGZvcmNlIG9yIG1hZ2ljLiBBbnlvbmUgY2FuIGNoYW5nZSB0aGUgaW1tZWRpYXRlIGVudmlyb25tZW50IGFzIGEgcmVzdWx0IG9mIHRhbmdpYmxlIGVmZm9ydC4gPGJyIC8+PGJyIC8+PGgzIGNsYXNzPSJmcmFtaW5nIj5Nb3JwaGljIFN0cnVjdHVyZTwvaDM+IEEgcGxhbmUgd2l0aCBtb3JwaGljIHN0cnVjdHVyZSBiZWhhdmVzIHNpbWlsYXJseSB0byBhIHBsYW5lIHdpdGggYSBsYXN0aW5nIHN0cnVjdHVyZSwgYnV0IGl0cyByZWFsaXRpZXMgYW5kIHBoeXNpY2FsaXR5IGNhbiBiZSBjaGFuZ2VkIHdpdGggZWFzZSBldmVuIGJ5IG5vbmRpdmluZSBiZWluZ3MuIFdoZW4gYSBwbGFuZSBoYXMgbW9ycGhpYyBzdHJ1Y3R1cmUsIGFkZGl0aW9uYWwgZGV0YWlscyBmb3IgaG93IHRoYXQgbWFuaWZlc3RzIGFyZSBwcm92aWRlZCBpbiB0aGUgZW50cnkuIDxiciAvPjxiciAvPjxoMyBjbGFzcz0iZnJhbWluZyI+U2VudGllbnQgU3RydWN0dXJlPC9oMz4gVGhlc2UgcGxhbmVzIHJlc3BvbmQgdG8gYSBzaW5nbGUgZW50aXR54oCZcyB0aG91Z2h0c+KAlHRob3NlIG9mIHRoZSBwbGFuZSBpdHNlbGYuIFRyYXZlbGVycyBtaWdodCBmaW5kIHRoZSBwbGFuZeKAmXMgbGFuZHNjYXBlIGNoYW5naW5nIGFzIGEgcmVzdWx0IG9mIHdoYXQgdGhlIHBsYW5lIHRoaW5rcyBvZiB0aGUgdHJhdmVsZXJzLCBiZWNvbWluZyBlaXRoZXIgbW9yZSBvciBsZXNzIGhvc3BpdGFibGUgZGVwZW5kaW5nIG9uIGl0cyByZWFjdGlvbi4gVGhlIGluZmx1ZW5jZSBvZiBhIGRlaXR5IG9yIGRlbWlnb2QgY2FuIHNvbWV0aW1lcyBzdXBlcnNlZGUgdGhlIHBsYW5l4oCZcyB3aGltcywgYnV0IGluIG1vc3QgY2FzZXMgYSBzZW50aWVudCBwbGFuZSBjb25zdGFudGx5IHdvcmtzIHRvIGVyb2RlIGFuZCB0cmFuc2Zvcm0gc3VjaCB1bndhbnRlZCBpbnRydXNpb25zIGludG8gaXRzIHN0cnVjdHVyZS4gPGJyIC8+PGJyIC8+PGgzIGNsYXNzPSJmcmFtaW5nIj5TdGF0aWMgU3RydWN0dXJlPC9oMz4gU3RhdGljIHBsYW5lcyBhcmUgdW5jaGFuZ2luZywgb3IgdGhleSByZXNldCBvbmNlIGNoYW5nZSBvY2N1cnMuIFZpc2l0b3JzIGNhbm5vdCBhZmZlY3QgbGl2aW5nIHJlc2lkZW50cyBvZiB0aGUgcGxhbmUgb3Igb2JqZWN0cyB0aGF0IHRoZSBkZW5pemVucyBjYXJyeSBpbiBhbnkgbGFzdGluZyB3YXkuIFNwZWxscyB0aGF0IHdvdWxkIGFmZmVjdCB0aGUgcGxhbmUgb3IgaXRzIGRlbml6ZW5zIGhhdmUgbm8gZWZmZWN0IHVubGVzcyB0aGUgcGxhbmXigJlzIHN0YXRpYyB0cmFpdCBpcyBzb21laG93IHJlbW92ZWQgb3Igc3VwcHJlc3NlZC4gU3BlbGxzIGNhc3QgYmVmb3JlIGVudGVyaW5nIGEgcGxhbmUgd2l0aCB0aGUgc3RhdGljIHRyYWl0IHJlbWFpbiBpbiBlZmZlY3QsIGhvd2V2ZXIuIEV2ZW4gbW92aW5nIGFuIHVuYXR0ZW5kZWQgb2JqZWN0IHdpdGhpbiBhIHN0YXRpYyBwbGFuZSByZXF1aXJlcyBhIHN1Y2Nlc3NmdWwgREMgMTYgU3RyZW5ndGggY2hlY2suIFBhcnRpY3VsYXJseSBoZWF2eSBvYmplY3RzIG1heSBiZSBpbXBvc3NpYmxlIHRvIG1vdmUuIE9mdGVuLCBhIHBsYW5lIHdpdGggdGhlIHN0YXRpYyB0cmFpdCBoYXMgYSBkdXJhdGlvbiBsaXN0ZWTigJR0aGlzIGlzIHRoZSBhbW91bnQgb2YgdGltZSB0aGF0IGFueSBjaGFuZ2UgY2FuIHBlcnNpc3QgYmVmb3JlIHRoZSBwbGFuZeKAmXMgcmVhbGl0eSByZXNldHMuZGRkndAHubg42VEOVYRy5eKJm0Rsl9d0eK1rpvWV1BkKzh4=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=2477">Planar Adventures</a></u> / <u><a href="Rules.aspx?ID=2480">Traits of a Plane</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=2484">Structural Traits</a></h1><b>Source</b> <a href="http://paizo.com/products/btpya1am" target="_blank" class="external-link"><i>Planar Adventures pg. 60</i></a><br />The underlying rules of reality that govern how the denizens and landscape of a plane function are described by a plane’s structural traits. Regardless of the nature of a plane’s structural traits, all planes can be altered on a whim by a deity’s will to a certain extent; this ability to change reality is greatest within the boundaries of a deity’s planar realm. Demigods have a lesser ability to effect such change and are limited to changing only their own planar realms. See <a style="text-decoration:underline" href="Rules.aspx?Name=Divine Power&Category=Role of the Divine">Divine Power</a> for more details. <br /><br /><h3 class="framing">Lasting Structure</h3> On a plane with this trait, objects remain where they are (and what they are) unless affected by physical force or magic. Anyone can change the immediate environment as a result of tangible effort. <br /><br /><h3 class="framing">Morphic Structure</h3> A plane with morphic structure behaves similarly to a plane with a lasting structure, but its realities and physicality can be changed with ease even by nondivine beings. When a plane has morphic structure, additional details for how that manifests are provided in the entry. <br /><br /><h3 class="framing">Sentient Structure</h3> These planes respond to a single entity’s thoughts—those of the plane itself. Travelers might find the plane’s landscape changing as a result of what the plane thinks of the travelers, becoming either more or less hospitable depending on its reaction. The influence of a deity or demigod can sometimes supersede the plane’s whims, but in most cases a sentient plane constantly works to erode and transform such unwanted intrusions into its structure. <br /><br /><h3 class="framing">Static Structure</h3> Static planes are unchanging, or they reset once change occurs. Visitors cannot affect living residents of the plane or objects that the denizens carry in any lasting way. Spells that would affect the plane or its denizens have no effect unless the plane’s static trait is somehow removed or suppressed. Spells cast before entering a plane with the static trait remain in effect, however. Even moving an unattended object within a static plane requires a successful DC 16 Strength check. Particularly heavy objects may be impossible to move. Often, a plane with the static trait has a duration listed—this is the amount of time that any change can persist before the plane’s reality resets.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

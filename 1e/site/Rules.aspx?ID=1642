@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Mythic Trials - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Mythic Trials" /><meta name="description" content="The saga of mythic heroes is filled with wild adventures, deadly foes, and mysterious forces. For most, their journey is defined by such moments. These trials are the peaks of the story, turning points at which one wrong move or costly mistake might cause the entire quest to fail. In the game, these events denote the stages of the mythic character’s journey. Think of trials as an important plot point, one that is intrinsically tied to the legend of the characters.&lt;br />&lt;br /> Mythic characters advance in two ways: they gain character levels by accumulating experience points, and they gain tiers by accomplishing a number of trials (see &lt;a style=&quot;text-decoration:underline&quot; href=&quot;Rules.aspx?Name=Gaining Tiers&amp;Category=Mythic Heroes&quot;>Table 1–2: Mythic Trials per Tier&lt;/a>). These trials are the true tales of mythic heroism, representing the culmination of an entire adventure or campaign arc in which the PCs overcome a terrifying challenge or achieve some fantastic victory. The trial can be anything the GM imagines, but it’s not accomplished until some major goal is completed—be it to defeat a monster, save a town, or recover an artifact. So while an entire adventure might be a trial, it does not count toward advancement until the heroes complete it.&lt;br />&lt;br /> The rate at which these trials are accomplished determines how quickly the PCs gain mythic tiers. As a guideline, the PCs should face a number of trials equal to the amount needed to gain a tier in the time it takes for them to gain two character levels. This should keep the character’s mythic tier roughly equal to 1/2 the character’s overall level. (Of course, the GM can alter this rate to suit the campaign.) That means if the PCs attain their first mythic tier at 1st level, they should probably face only a single greater trial by the time they reach 4th level, so that they reach 2nd tier at that time. Conversely, higher-level characters that gain mythic power later in their careers might face a number of trials in quick succession to gain tiers quickly, or they might even start with multiple tiers right away to get them closer to the average. &lt;a style=&quot;text-decoration:underline&quot; href=&quot;Rules.aspx?Name=Gaining Tiers&amp;Category=Mythic Heroes&quot;>Table 1–2&lt;/a> lists the number of trials a character must overcome to gain a new tier, but this number is subject to GM discretion and the needs of the story.&lt;br />&lt;br /> A GM might instead decide that every time the PCs complete a trial, they gain a tier. In this case, such trials are far less common. Alternatively, a GM might double the number of trials needed, and in turn make them more common. Either way, the rate of tier progression shouldn’t feel much different from what would normally happen.&lt;br />&lt;br /> When designing a trial, GMs should keep the following points in mind. Trials represent important stories in the legend of mythic characters. Unlike an anecdote about particularly nasty fight or dangerous trap, trials are lengthy tales of multiple dangerous encounters, against mythic foes and unimaginable adversity. A trial should be the culmination of an entire adventure or a short series of adventures.&lt;br />&lt;br /> In addition, each trial should include at least three of the elements noted in &lt;a style=&quot;text-decoration:underline&quot; href=&quot;Rules.aspx?Name=Elements of a Mythic Adventure&amp;Category=Mythic Story Structure&quot;>Elements of a Mythic Adventure&lt;/a>. These elements define a trial as mythic and help the players understand that they’re approaching a vital stage of their journey without directly telling them that a trial is forthcoming." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=1642" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXeazx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTYwOCI+TXl0aGljIFJ1bGVzPC9hPjwvdT4gLyA8dT48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE2MjIiPlJ1bm5pbmcgYSBNeXRoaWMgR2FtZTwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNjQyIj5NeXRoaWMgVHJpYWxzPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk4eXdlP1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1NeXRoaWMtQWR2ZW50dXJlcyIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5NeXRoaWMgQWR2ZW50dXJlcyBwZy4gMTI5PC9pPjwvYT48YnIgLz5UaGUgc2FnYSBvZiBteXRoaWMgaGVyb2VzIGlzIGZpbGxlZCB3aXRoIHdpbGQgYWR2ZW50dXJlcywgZGVhZGx5IGZvZXMsIGFuZCBteXN0ZXJpb3VzIGZvcmNlcy4gRm9yIG1vc3QsIHRoZWlyIGpvdXJuZXkgaXMgZGVmaW5lZCBieSBzdWNoIG1vbWVudHMuIFRoZXNlIHRyaWFscyBhcmUgdGhlIHBlYWtzIG9mIHRoZSBzdG9yeSwgdHVybmluZyBwb2ludHMgYXQgd2hpY2ggb25lIHdyb25nIG1vdmUgb3IgY29zdGx5IG1pc3Rha2UgbWlnaHQgY2F1c2UgdGhlIGVudGlyZSBxdWVzdCB0byBmYWlsLiBJbiB0aGUgZ2FtZSwgdGhlc2UgZXZlbnRzIGRlbm90ZSB0aGUgc3RhZ2VzIG9mIHRoZSBteXRoaWMgY2hhcmFjdGVy4oCZcyBqb3VybmV5LiBUaGluayBvZiB0cmlhbHMgYXMgYW4gaW1wb3J0YW50IHBsb3QgcG9pbnQsIG9uZSB0aGF0IGlzIGludHJpbnNpY2FsbHkgdGllZCB0byB0aGUgbGVnZW5kIG9mIHRoZSBjaGFyYWN0ZXJzLjxiciAvPjxiciAvPiBNeXRoaWMgY2hhcmFjdGVycyBhZHZhbmNlIGluIHR3byB3YXlzOiB0aGV5IGdhaW4gY2hhcmFjdGVyIGxldmVscyBieSBhY2N1bXVsYXRpbmcgZXhwZXJpZW5jZSBwb2ludHMsIGFuZCB0aGV5IGdhaW4gdGllcnMgYnkgYWNjb21wbGlzaGluZyBhIG51bWJlciBvZiB0cmlhbHMgKHNlZSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iUnVsZXMuYXNweD9OYW1lPUdhaW5pbmcgVGllcnMmQ2F0ZWdvcnk9TXl0aGljIEhlcm9lcyI+VGFibGUgMeKAkzI6IE15dGhpYyBUcmlhbHMgcGVyIFRpZXI8L2E+KS4gVGhlc2UgdHJpYWxzIGFyZSB0aGUgdHJ1ZSB0YWxlcyBvZiBteXRoaWMgaGVyb2lzbSwgcmVwcmVzZW50aW5nIHRoZSBjdWxtaW5hdGlvbiBvZiBhbiBlbnRpcmUgYWR2ZW50dXJlIG9yIGNhbXBhaWduIGFyYyBpbiB3aGljaCB0aGUgUENzIG92ZXJjb21lIGEgdGVycmlmeWluZyBjaGFsbGVuZ2Ugb3IgYWNoaWV2ZSBzb21lIGZhbnRhc3RpYyB2aWN0b3J5LiBUaGUgdHJpYWwgY2FuIGJlIGFueXRoaW5nIHRoZSBHTSBpbWFnaW5lcywgYnV0IGl04oCZcyBub3QgYWNjb21wbGlzaGVkIHVudGlsIHNvbWUgbWFqb3IgZ29hbCBpcyBjb21wbGV0ZWTigJRiZSBpdCB0byBkZWZlYXQgYSBtb25zdGVyLCBzYXZlIGEgdG93biwgb3IgcmVjb3ZlciBhbiBhcnRpZmFjdC4gU28gd2hpbGUgYW4gZW50aXJlIGFkdmVudHVyZSBtaWdodCBiZSBhIHRyaWFsLCBpdCBkb2VzIG5vdCBjb3VudCB0b3dhcmQgYWR2YW5jZW1lbnQgdW50aWwgdGhlIGhlcm9lcyBjb21wbGV0ZSBpdC48YnIgLz48YnIgLz4gVGhlIHJhdGUgYXQgd2hpY2ggdGhlc2UgdHJpYWxzIGFyZSBhY2NvbXBsaXNoZWQgZGV0ZXJtaW5lcyBob3cgcXVpY2tseSB0aGUgUENzIGdhaW4gbXl0aGljIHRpZXJzLiBBcyBhIGd1aWRlbGluZSwgdGhlIFBDcyBzaG91bGQgZmFjZSBhIG51bWJlciBvZiB0cmlhbHMgZXF1YWwgdG8gdGhlIGFtb3VudCBuZWVkZWQgdG8gZ2FpbiBhIHRpZXIgaW4gdGhlIHRpbWUgaXQgdGFrZXMgZm9yIHRoZW0gdG8gZ2FpbiB0d28gY2hhcmFjdGVyIGxldmVscy4gVGhpcyBzaG91bGQga2VlcCB0aGUgY2hhcmFjdGVy4oCZcyBteXRoaWMgdGllciByb3VnaGx5IGVxdWFsIHRvIDEvMiB0aGUgY2hhcmFjdGVy4oCZcyBvdmVyYWxsIGxldmVsLiAoT2YgY291cnNlLCB0aGUgR00gY2FuIGFsdGVyIHRoaXMgcmF0ZSB0byBzdWl0IHRoZSBjYW1wYWlnbi4pIFRoYXQgbWVhbnMgaWYgdGhlIFBDcyBhdHRhaW4gdGhlaXIgZmlyc3QgbXl0aGljIHRpZXIgYXQgMXN0IGxldmVsLCB0aGV5IHNob3VsZCBwcm9iYWJseSBmYWNlIG9ubHkgYSBzaW5nbGUgZ3JlYXRlciB0cmlhbCBieSB0aGUgdGltZSB0aGV5IHJlYWNoIDR0aCBsZXZlbCwgc28gdGhhdCB0aGV5IHJlYWNoIDJuZCB0aWVyIGF0IHRoYXQgdGltZS4gQ29udmVyc2VseSwgaGlnaGVyLWxldmVsIGNoYXJhY3RlcnMgdGhhdCBnYWluIG15dGhpYyBwb3dlciBsYXRlciBpbiB0aGVpciBjYXJlZXJzIG1pZ2h0IGZhY2UgYSBudW1iZXIgb2YgdHJpYWxzIGluIHF1aWNrIHN1Y2Nlc3Npb24gdG8gZ2FpbiB0aWVycyBxdWlja2x5LCBvciB0aGV5IG1pZ2h0IGV2ZW4gc3RhcnQgd2l0aCBtdWx0aXBsZSB0aWVycyByaWdodCBhd2F5IHRvIGdldCB0aGVtIGNsb3NlciB0byB0aGUgYXZlcmFnZS4gPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlJ1bGVzLmFzcHg/TmFtZT1HYWluaW5nIFRpZXJzJkNhdGVnb3J5PU15dGhpYyBIZXJvZXMiPlRhYmxlIDHigJMyPC9hPiBsaXN0cyB0aGUgbnVtYmVyIG9mIHRyaWFscyBhIGNoYXJhY3RlciBtdXN0IG92ZXJjb21lIHRvIGdhaW4gYSBuZXcgdGllciwgYnV0IHRoaXMgbnVtYmVyIGlzIHN1YmplY3QgdG8gR00gZGlzY3JldGlvbiBhbmQgdGhlIG5lZWRzIG9mIHRoZSBzdG9yeS48YnIgLz48YnIgLz4gQSBHTSBtaWdodCBpbnN0ZWFkIGRlY2lkZSB0aGF0IGV2ZXJ5IHRpbWUgdGhlIFBDcyBjb21wbGV0ZSBhIHRyaWFsLCB0aGV5IGdhaW4gYSB0aWVyLiBJbiB0aGlzIGNhc2UsIHN1Y2ggdHJpYWxzIGFyZSBmYXIgbGVzcyBjb21tb24uIEFsdGVybmF0aXZlbHksIGEgR00gbWlnaHQgZG91YmxlIHRoZSBudW1iZXIgb2YgdHJpYWxzIG5lZWRlZCwgYW5kIGluIHR1cm4gbWFrZSB0aGVtIG1vcmUgY29tbW9uLiBFaXRoZXIgd2F5LCB0aGUgcmF0ZSBvZiB0aWVyIHByb2dyZXNzaW9uIHNob3VsZG7igJl0IGZlZWwgbXVjaCBkaWZmZXJlbnQgZnJvbSB3aGF0IHdvdWxkIG5vcm1hbGx5IGhhcHBlbi48YnIgLz48YnIgLz4gV2hlbiBkZXNpZ25pbmcgYSB0cmlhbCwgR01zIHNob3VsZCBrZWVwIHRoZSBmb2xsb3dpbmcgcG9pbnRzIGluIG1pbmQuIFRyaWFscyByZXByZXNlbnQgaW1wb3J0YW50IHN0b3JpZXMgaW4gdGhlIGxlZ2VuZCBvZiBteXRoaWMgY2hhcmFjdGVycy4gVW5saWtlIGFuIGFuZWNkb3RlIGFib3V0IHBhcnRpY3VsYXJseSBuYXN0eSBmaWdodCBvciBkYW5nZXJvdXMgdHJhcCwgdHJpYWxzIGFyZSBsZW5ndGh5IHRhbGVzIG9mIG11bHRpcGxlIGRhbmdlcm91cyBlbmNvdW50ZXJzLCBhZ2FpbnN0IG15dGhpYyBmb2VzIGFuZCB1bmltYWdpbmFibGUgYWR2ZXJzaXR5LiBBIHRyaWFsIHNob3VsZCBiZSB0aGUgY3VsbWluYXRpb24gb2YgYW4gZW50aXJlIGFkdmVudHVyZSBvciBhIHNob3J0IHNlcmllcyBvZiBhZHZlbnR1cmVzLjxiciAvPjxiciAvPiBJbiBhZGRpdGlvbiwgZWFjaCB0cmlhbCBzaG91bGQgaW5jbHVkZSBhdCBsZWFzdCB0aHJlZSBvZiB0aGUgZWxlbWVudHMgbm90ZWQgaW4gPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlJ1bGVzLmFzcHg/TmFtZT1FbGVtZW50cyBvZiBhIE15dGhpYyBBZHZlbnR1cmUmQ2F0ZWdvcnk9TXl0aGljIFN0b3J5IFN0cnVjdHVyZSI+RWxlbWVudHMgb2YgYSBNeXRoaWMgQWR2ZW50dXJlPC9hPi4gVGhlc2UgZWxlbWVudHMgZGVmaW5lIGEgdHJpYWwgYXMgbXl0aGljIGFuZCBoZWxwIHRoZSBwbGF5ZXJzIHVuZGVyc3RhbmQgdGhhdCB0aGV54oCZcmUgYXBwcm9hY2hpbmcgYSB2aXRhbCBzdGFnZSBvZiB0aGVpciBqb3VybmV5IHdpdGhvdXQgZGlyZWN0bHkgdGVsbGluZyB0aGVtIHRoYXQgYSB0cmlhbCBpcyBmb3J0aGNvbWluZy48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE2NDMiPlNhbXBsZSBUcmlhbHM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTh5d2U/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLU15dGhpYy1BZHZlbnR1cmVzIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPk15dGhpYyBBZHZlbnR1cmVzIHBnLiAxMzA8L2k+PC9hPjxiciAvPlRoZSBmb2xsb3dpbmcgdHJpYWxzIHNob3VsZCBnaXZlIEdNcyBpZGVhcyBvZiB0aGUgdmFyaW91cyBjaGFsbGVuZ2VzIG15dGhpYyBjaGFyYWN0ZXJzIG5lZWQgdG8gZmFjZSB0byBnYWluIHRpZXJzLiBVc2UgdGhlc2UgYXMgaXMgb3IgYXMgaW5zcGlyYXRpb24gZm9yIGRlc2lnbmluZyB5b3VyIG93bi4gU29tZSBvZiB0aGVzZSBzdWdnZXN0IGEgbXl0aGljIG9yaWdpbiBhcyB3ZWxsLCBidXQgY2FuIGJlIHJld29ya2VkIGZvciBvdGhlciBteXRoaWMgY2hhcmFjdGVycy4gTm90ZSB0aGF0IHNvbWUgb2YgdGhlc2UgYXJlIGxhcmdlciBpbiBzY29wZSBhbmQgbWlnaHQgcmVwcmVzZW50IGFuIGVudGlyZSBjYW1wYWlnbiBhcmMuIEF0IHRoZSBHTeKAmXMgZGlzY3JldGlvbiwgc3VjaCBsb25nZXIgZXZlbnRzIG1pZ2h0IHJlcHJlc2VudCBzZXZlcmFsIHRyaWFscy4gPGJyIC8+PGJyIC8+PGI+QSBOb2JsZeKAmXMgTWluZCBPdmVydGhyb3duPC9iPjogQSBncmVhdCBraW5nIG9yIGVtcGVyb3Igc3VjY3VtYnMgdG8gYSBzdHJhbmdlIG1hZG5lc3MsIGVpdGhlciBmcm9tIHNvbWUgdW5mb3Jlc2VlbiBkaXNlYXNlIG9yIGEgdmlsbGFpbuKAmXMgbWFnaWNhbCBjb3JydXB0aW9uLiBJbiB0aGUgZW5zdWluZyBtYW5pYSwgdGhlIHJ1bGVyIGRlY2xhcmVzIHdhciBvbiBmb2xsb3dlcnMgb2YgdGhlIG1ham9yIHJlbGlnaW9ucywgaGl0aGVydG8gZ3JlYXQgc3VwcG9ydGVycyBvZiB0aGUgY3Jvd24gYW5kIGEgYm9vbiB0byB0aGUgY29tbW9uIHBlb3BsZS4gTm90IHdhbnRpbmcgdG8gcHJvdm9rZSBvdXRyaWdodCB3YXIgYmV0d2VlbiB0aGUgY3Jvd24gYW5kIHRoZSBmYWl0aHMsIHRoZSBteXRoaWMgY2hhcmFjdGVycyBhcmUgY2hhcmdlZCBieSB0aGVpciBwYXRyb24gdG8gZGlzY292ZXIgdGhlIGN1cmUgZm9yIHRoZWlyIG1vbmFyY2jigJlzIGJlc2llZ2VkIG1pbmQuIDxiciAvPjxiciAvPjxiPkFieXNzYWwgUGFyYXNpdGU8L2I+OiBBIHBvd2VyZnVsIGludGVyYWN0aW9uIG9mIG11bHRpcGxlIG15dGhpYyBzcGVsbHMgZGVzdHJveWVkIHRoZSBib2R5IG9mIGEgcG93ZXJmdWwgZGVtb24sIGJ1dCBpbiBpdHMgcGxhY2UgY3JlYXRlZCBhIHZlbmdlZnVsIHNwaXJpdCBuZWl0aGVyIGRlYWQgbm9yIGFsaXZlLiBUaGUgc3Bpcml0IGlzIGNhcGFibGUgb2YgcG9zc2Vzc2luZyBvdGhlcnMgYW5kIGluZnVzaW5nIGl0cyBob3N0IHdpdGggZGVtb25pYyBwb3dlcnMsIHVzaW5nIHRoaXMgYXMgYW4gb3Bwb3J0dW5pdHkgdG8gZ2F0aGVyIGV2aWwgYWxsaWVzIGFuZCBnYWluIHN0cmVuZ3RoLiBBIGNlbGVzdGlhbCBiZWluZyB0aGF0IG9wcG9zZXMgZGVtb25raW5kIGNhbGxzIHRoZSB1cG9uIFBDcyB0byBzdG9wIHRoZSB2aWxlIGJlaW5nLiBUaGV5IG11c3QgdGhlbiB0cmFjayB0aGUgZGVtb24gc3Bpcml0IGFzIGl0IG1vdmVzIGZyb20gdmljdGltIHRvIHZpY3RpbSwgdW50aWwgdGhlIGhlcm9lcyBjYW4gZXJhZGljYXRlIHRoZSBkZW1vbmljIHNoYWRlLiA8YnIgLz48YnIgLz48Yj5BZnRlcm1hdGg8L2I+OiBUaGUga2luZ2RvbSBoYXMgYmVlbiByYXZhZ2VkIGJ5IGEgdGVycmlibGUgYmF0dGxlIHdpdGggYW4gaW52YWRpbmcgZm9yY2UuIFRoZSBraW5n4oCZcyBhcm1pZXMgc3VmZmVyZWQgYSBweXJyaGljIHZpY3RvcnnigJR0aGUgcmVhbG0gaXMgYWxsIGJ1dCBkZXN0cm95ZWQuIFRoZSBQQ3MgbXVzdCBoZWxwIHJlc3RvcmUgdGhlIGRvbWFpbiB0byBpdHMgZm9ybWVyIGdsb3J5IGJ5IHJvb3Rpbmcgb3V0IHJlbWFpbmluZyBlbmVtaWVzLCB0ZW5kaW5nIHRvIHRoZSBzdWZmZXJpbmcgcGVvcGxlLCByZWJ1aWxkaW5nIHRoZSBjaXRpZXMsIHN0cmlraW5nIGRlYWxzIHdpdGggbmVpZ2hib3JpbmcgbmF0aW9ucyBmb3IgYWlkLCBhbmQgcHJvdGVjdGluZyB0aGUga2luZ2RvbSBhZ2FpbnN0IGZ1cnRoZXIgYXR0YWNrIGJ5IGVtYm9sZGVuZWQgZm9lcy4gPGJyIC8+PGJyIC8+PGI+Rmlyc3QgU3RlcHM8L2I+OiBUaGUgUENzIGFyZSBub3JtYWwgYWR2ZW50dXJlcnMgd2hvIGNvbWUgdG8gdGhlIGFpZCBvZiBhIHN0cmFuZ2UgY3JlYXR1cmUgYmVzZXQgYnkgdmljaW91cyBlbmVtaWVzLiBVbmZvcnR1bmF0ZWx5LCBieSB0aGUgdGltZSB0aGUgUENzIGZlbmQgb2ZmIHRoZSBhdHRhY2tlcnMsIHRoZSBncmF2ZWx5IHdvdW5kZWQgY3JlYXR1cmUgaXMgZHJhd2luZyBpdHMgbGFzdCBicmVhdGhzLiBKdXN0IGJlZm9yZSBkeWluZywgaXQgYmVzdG93cyBteXRoaWMgcG93ZXIgdXBvbiB0aGUgaGVyb2VzIGFuZCBlbnRydXN0cyB0aGVtIHdpdGggYSBxdWVzdCB0aGF0IGl0IHdhcyBub3QgYWJsZSB0byBjb21wbGV0ZS4gV2l0aCB0aGVpciBuZXcgYWJpbGl0aWVzLCB0aGUgUENzIGNhbiBmaW5pc2ggdGhlIG1pc3Npb24sIGF2ZW5nZSB0aGVpciBmYWxsZW4gYmVuZWZhY3RvciwgYW5kIHRha2UgdGhlaXIgZmlyc3Qgc3RlcHMgaW50byBhIGxhcmdlciB3b3JsZCBvZiBjaGFsbGVuZ2VzIGFuZCBmb2VzIGdyZWF0ZXIgdGhhbiB0aGV5IGV2ZXIga25ldyBleGlzdGVkLiA8YnIgLz48YnIgLz48Yj5Gb3IgVGhvc2UgV2hvIE11c3QgRm9sbG93PC9iPjogVGhlIFBDcyBhcmUgaGVyb2VzIGluIHRoZSBkYXlzIGJlZm9yZSBhIGNvbWluZyBhcG9jYWx5cHNlIGF0IHRoZSBoYW5kcyBvZiBhIGRhcmsgZGl2aW5lIG9yIGV2ZW4gZXh0cmF0ZXJyZXN0cmlhbCBwb3dlci4gVW5saWtlIGEgY2FtcGFpZ24gd2hlcmUgdGhlIFBDcyBtdXN0IHN0b3AgYSBjYXRhY2x5c20sIGluIHRoaXMgdHJpYWwgdGhleSBoYXZlIG5vIGhvcGUgb2YgYXZlcnRpbmcgdGhlIGltcGVuZGluZyBkaXNhc3Rlci4gSW5zdGVhZCwgdGhleSBtdXN0IGRyYXcgb24gbXl0aGljIHBvd2VyIHRvIGxheSBhIGZvdW5kYXRpb24gZm9yIGZ1dHVyZSBoZXJvZXMgdG8gc2F2ZSB0aGUgd29ybGQuIFRoZWlyIGFkdmVudHVyZXMgd2lsbCBsZWFkIHRoZW0gdG8gY3JlYXRlIHNlY3JldCByZXBvc2l0b3JpZXMgY29udGFpbmluZyBrbm93bGVkZ2UgYW5kIHNtYWxsIHNsaXZlcnMgb2YgdGhlaXIgb3duIG15dGhpYyBwb3dlci4gV2hpbGUgZG9pbmcgdGhpcyB0aGV5IGFsc28gYXR0ZW1wdCB0byBmb3JtIGRlZXAgYWxsaWFuY2VzIHdpdGggZGlzcGFyYXRlIGdyb3VwcyB0aGUgd29ybGQgb3ZlciwgbGF5aW5nIHRoZSBncm91bmR3b3JrIGZvciB0aGUgaGVyb2VzIHRoYXQgd2lsbCBvbmUgZGF5IHJpc2UgYW5kIGNoYW5nZSB0aGUgZmF0ZSBvZiBhIHdvcmxkIHRoYXQgdGhleSB0aGVtc2VsdmVzIGhhZCBub3QgdGltZSBlbm91Z2ggdG8gc2F2ZS4gPGJyIC8+PGJyIC8+PGI+SW50byB0aGUgQWJ5c3M8L2I+OiBUaGUgUENzIGdvIG9uIGEgcXVlc3QgdG8gdGhlIEFieXNzLCBhbmQgbXVzdCBlbmR1cmUgYSBoYXJyb3dpbmcgZXhwZWRpdGlvbiB0aHJvdWdoIHRoZSBpbmZpbml0ZSBsYXllcnMgb2YgdGhhdCBjaGFvdGljIGV2aWwgcmVhbG0uIFRoZXnigJlyZSB0YXNrZWQgdG8gcmVzY3VlIGFuIGltcG9ydGFudCBtb3J0YWwgc29sZCBpbnRvIGRlbW9uaWMgc2xhdmVyeSwgcmV0cmlldmUgYSBzb3VsIHRoYXQgd2FzIGNvbmRlbW5lZCB0byB0aGUgQWJ5c3MgYnkgbWlzdGFrZSwgb3IgdG9wcGxlIGEgcGFydGljdWxhcmx5IGRlc3RydWN0aXZlIGRlbW9uIGxvcmQuIFdoYXRldmVyIHRoZSByZWFzb24sIHRoZSBhZHZlbnR1cmVycyBmYWNlIGNoYWxsZW5nZXMgdGhhdCBwdXNoIHRoZWlyIG5ldyBhYmlsaXRpZXMgdG8gdGhlIGxpbWl0LiA8YnIgLz48YnIgLz48Yj5Mb3N0IFNvdWxzPC9iPjogVGhlIHNvdWxzIG9mIHRoZSBkZWFkIGFyZSBub3QgcmVhY2hpbmcgdGhlaXIgZmluYWwgZGVzdGluYXRpb25zLCBidXQgYXJlIGluc3RlYWQgdHJhcHBlZCBpbiBhIHN0YXRlIG9mIHdhaXRpbmcuIFRoZSBQQ3MgbXVzdCBkaXNjb3ZlciB3aGF0IGlzIHBvd2VyZnVsIGVub3VnaCB0byBpbnRlcmZlcmUgd2l0aCB0aGlzIGNvc21pYyBwcm9jZXNz4oCUYW5kIGZvciB3aGF0IGRhcmsgcHVycG9zZS4gV29yc2UsIHRoZSBkZW5pZWQgc291bHMgYXJlIGJlaW5nIHR3aXN0ZWQgaW50byBtb25zdHJvdXMgZm9ybXMsIGNhdXNpbmcgcG9ja2V0cyBvZiBjb3JydXB0aW9uIGFuZCBpbnN0YWJpbGl0eSwgYW5kIHByZXNlbnRpbmcgb3RoZXIgdGhyZWF0cyB0byB0aGUgd29ybGQuIFRoZSBQQ3Mgc3RydWdnbGUgdG8gdW5yYXZlbCB0aGUgbXlzdGVyeSBhbmQgZGVmZWF0IHRoZSBmdXJ0aXZlIHZpbGxhaW4gYmVoaW5kIGl0IGFsbC4gPGJyIC8+PGJyIC8+PGI+TWlycm9yIHRocm91Z2ggdGhlIE11bHRpdmVyc2U8L2I+OiBBIHN1ZGRlbiBtYWdpY2FsIGV2ZW50LCBsaWtlIGFuIGFyY2FuZSBlYXJ0aHF1YWtlLCBzaHJlZHMgdGhlIGJhcnJpZXIgYmV0d2VlbiBwYXJhbGxlbCB3b3JsZHMuIFRoZSBkaXZpbmUgcG93ZXJzIG9mIGVhY2ggcmVhbG0gcGVyY2VpdmUgdGhlIG90aGVycyBhcyB0aHJlYXRzIGFuZCBzZWVrIHRvIGRvIGF3YXkgd2l0aCB0aGUgcml2YWwg4oCcbW9ja2VyaWVz4oCdIG9mIHRoZWlyIG93biB3b3JsZCB0aHJvdWdoIHRoZWlyIGFzY2VuZGVkIGNoYW1waW9ucy4gVGhlIFBDcyBhcmUgc2VsZWN0ZWQgb24gYmVoYWxmIG9mIHRoZWlyIHdvcmxk4oCZcyBwYW50aGVvbiBvZiBnb2RzIHdoaWxlIHNlYXJjaGluZyBvdXQgdGhlaXIgb3Bwb25lbnRzLCBzb21lIG9mIHdob20gbWlnaHQgYmUgZWVyaWx5IHNpbWlsYXIgdG8gdGhlbS4gR01zIGNhbiBvZmZlciBwbGF5ZXJzIHRoZSBjaG9pY2Ugb2YgdmFucXVpc2hpbmcgdGhlaXIgb3Bwb25lbnRzIG9yIG9mIGFsbHlpbmcgd2l0aCB0aGVtIGluIGEgam9pbnQgZWZmb3J0IHRvIHN0b3AgdGhpcyBjb3NtaWMgYm91dC4gPGJyIC8+PGJyIC8+PGI+UHJvdmluZyBHcm91bmRzIG9mIHRoZSBHcmVhdCBCZXlvbmQ8L2I+OiBUaGUgUENzIGFyZSBjYXB0dXJlZCBhbmQgdGFrZW4gdG8gYSBncmFuZCBhcmVuYSB3aGVyZSB0aGV5IG11c3QgZmlnaHQgYWdhaW5zdCBvdGhlciBsZWdlbmRhcnkgY3JlYXR1cmVzIGZvciB0aGUgYW11c2VtZW50IG9mIHBvd2VyZnVsIHBsYW5hciBlbnRpdGllcy4gRWFjaCByb3VuZCBvZiB0aGUgY29tcGV0aXRpb24gcHJvdmVzIG1vcmUgZGVhZGx5IHRoYW4gdGhlIGxhc3QsIGFzIGl0IGJlY29tZXMgY2xlYXIgdGhhdCBvbmx5IG9uZSB0ZWFtIHdpbGwgc3Vydml2ZSB0aGlzIHRvdXJuYW1lbnQuIElmIHRoZSBQQ3MgYXJlIHZpY3RvcmlvdXMsIGEgZ3JlYXQgYm9vbiBtaWdodCBiZSBiZXN0b3dlZCB1cG9uIHRoZW0sIHNvIHdoZW4gdGhlIGNoYW5jZSB0byBlc2NhcGUgcHJlc2VudHMgaXRzZWxmLCB0aGV5IG11c3QgZGVjaWRlIHdoZXRoZXIgb3Igbm90IHRvIGNvbnRpbnVlLiA8YnIgLz48YnIgLz48Yj5SZWRlbXB0aW9uPC9iPjogUHVyc3VpbmcgYSBvbmNlLXN0cm9uZyBjaGFtcGlvbiBvZiBnb29kbmVzcyBsaWtlIGEgZmFsbGVuIGFuZ2VsIG9yIGFuIGFudGlwYWxhZGluLCB0aGUgUENzIHVzZSBteXRoaWMgcG93ZXIgbm90IHRvIG9wcG9zZSB0aGVpciBlbmVteSBidXQgdG8gZGlzY292ZXIgdGhlIHNvdXJjZSBvZiBoaXMgZGVmZWN0aW9uIGluIHRoZSBob3BlcyBvZiB0dXJuaW5nIGhpbSBiYWNrIHRvIHRoZSBsaWdodC4gT3IgdGhleSBtdXN0IGNsZWFuc2UgYSByZWxpYyB0aGF04oCZcyBiZWVuIHBvbGx1dGVkIGJ5IHNvbWUgZmVzdGVyaW5nIG1hbGlnbmFuY3kuIFRoZSBjb3JydXB0aW9uIGlzIHNvIGRlZXAtc2VhdGVkIHRoYXQgdGhlIFBDcyBtdXN0IGpvdXJuZXkgdG8gYSBkaXN0YW50IHBsYWNlIG9mIHJlbm93biB0aGF0IGNhbiBiZSByZWFjaGVkIG9ubHkgYnkgaGVyb2VzIHdpZWxkaW5nIHRoZSBzdHJvbmdlc3Qgb2YgbXl0aGljIHBvd2Vycy4gPGJyIC8+PGJyIC8+PGI+UmV2ZW5nZSBVbnlpZWxkaW5nPC9iPjogU29tZSBsZWdlbmRhcnkgd2FycmlvciBvciBwb3dlcmZ1bCBtb25zdGVyIHJldHVybnMsIGxpa2UgYSBkcmFnb24gb3IgZ2lhbnQgb25jZSBpbXByaXNvbmVkIGluIHN0YXNpcywgcGV0cmlmaWVkLCBvciB1bmRlciBhbiBlbmNoYW50ZWQgc2xlZXAuIEZpbmRpbmcgaXRzIHdvcmxkIGdvbmUgYW5kIGFsbCBvZiBpdHMgZmFtaWx5IGFuZCBraW4gcGVyaXNoZWQgYXQgdGhlIGhhbmRzIG9mIGhlcm9lcyBsb25nIHNpbmNlIHBhc3QsIGl0cyBtaW5kIGNvbGxhcHNlcyBpbnRvIG1hZG5lc3MuIFRoZSBjcmVhdHVyZSB2b3dzIHJldmVuZ2Ugb24gYWxsIGl0cyBmb2Vz4oCZIGRlc2NlbmRhbnRzLCBvciBwZXJoYXBzIGV2ZW4gdGhlIGVudGlyZSB3b3JsZCwgYW5kIHNsYXVnaHRlcnMgaW4gYmxpbmQgcmFnZS4gVGhlIGhlcm9lcyBtdXN0IGZpbmQgYSB3YXkgdG8gc3RheSB0aGUgYXZlbmdlcuKAmXMgbWFkbmVzcyBvciBwdXQgdGhlIHRvcm1lbnRlZCBzb3VsIHRvIHJlc3QuIDxiciAvPjxiciAvPjxiPlRoZSBDdWxsaW5nIFBsYWd1ZTwvYj46IEEgcmFyZSBkaXNlYXNlIGhhcyBzdHJpY2tlbiBvbmUgb2YgdGhlIGdyZWF0IHJhY2VzIG9mIHRoZSB3b3JsZC4gR2lhbnRzLCBkcmFnb25zLCBldmVuIG91dHNpZGVycyBtaWdodCBiZSB2aWN0aW0gdG8gdGhpcyBkZWJpbGl0YXRpbmcgcGxhZ3VlLiBUaGUgb2xkZXN0IG1lbWJlcnMgb2YgdGhlIGFmZmxpY3RlZCBzcGVjaWVzIGJlc2VlY2ggdGhlIGFkdmVudHVyZXJzIHRvIHN0ZW0gdGhpcyBob3JyaWJsZSBjb250YWdpb24uIFN1Y2ggYSBxdWVzdCBjb3VsZCB0YWtlIHRoZSBQQ3MgdG8gZmFyLWZsdW5nIHBhcnRzIG9mIHRoZSB3b3JsZCAoYW5kIHBlcmhhcHMgZXZlbiBiZXlvbmQpIHNlYXJjaGluZyBmb3IgcmFyZSBpbmdyZWRpZW50cyB0byBjb25jb2N0IGEgY3VyZS4gQWx0ZXJuYXRpdmVseSwgYSBzaWNrbmVzcyB0aGF0IHN0cmlrZXMgYSBzcGVjaWVzIHNwcmVhZCBhY3Jvc3MgdGhlIHNwZWN0cnVtIG9mIGdvb2QgYW5kIGV2aWwsIGxpa2Ugb3V0c2lkZXJzIG9yIGRyYWdvbnMsIG1pZ2h0IG1ha2UgdGhlIFBDcyB1bmxpa2VseSBwZWFjZSBicm9rZXJzIGJldHdlZW4gYW5nZWxzIGFuZCBkZXZpbHMgb3IgY2hyb21hdGljIGFuZCBtZXRhbGxpYyBkcmFnb25raW5kIHdoaWxlIHRyeWluZyB0byBmaW5kIHRoZSBjdXJlLiA8YnIgLz48YnIgLz48Yj5UaGUgR2l2aW5nIFJhaW48L2I+OiBUaGUgZmxlbnNlZCBmbGVzaCBvZiBhIGRlaXR5IGV4ZWN1dGVkIGZvciB1bmtub3dhYmxlIGNyaW1lcyBmYWxscyBpbiBhIGdvcnkgcmFpbiBhY3Jvc3MgdGhlIGxhbmQuIFRoZSBhcmVhcyB3aXRoIHRoZSBoaWdoZXN0IGNvbmNlbnRyYXRpb24gZXhoaWJpdCBiaXphcnJlLCB0cm91YmxpbmcgZWZmZWN0cy4gVGhlIFBDcywgYmVpbmcgY2xvc2UgdG8gb25lIHN1Y2ggcGxhY2UsIGdhaW4gbXl0aGljIHBvd2Vycy4gRHJhd24gdG8gb3RoZXIgZXBpY2VudGVycyBhcyBpZiBwdWxsZWQgYnkgdGhlIGdvZGZsZXNoLCB0aGUgaGVyb2VzIG11c3QgZGVhbCB3aXRoIHRoZSBjaGFuZ2VzIHdyb3VnaHQgYnkgdGhlIHN0b3JtLiBUaGlzIGluY2x1ZGVzIHB1dHRpbmcgZG93biBtb25zdGVycyB0aGF0IGhhdmUgbGlrZXdpc2UgZ2FpbmVkIHN0cmFuZ2UgbmV3IGFiaWxpdGllcywgaHVudGluZyBkb3duIG1hc3NlcyBvZiBnb2RmbGVzaCB0aGF0IGFyZSBoaWRkZW4gZGVlcCB1bmRlcmdyb3VuZCBvciBhdG9wIHRoZSBoaWdoZXN0IHBlYWtzLCBhbmQgcmVzdG9yaW5nIHBlYWNlIHRvIGtpbmdkb21zIHRoYXQgaGF2ZSBnb25lIHRvIHdhciBvdmVyIHBvc3Nlc3Npb24gb2YgdGhlc2UgZGl2aW5lIGJsZXNzaW5ncy4gPGJyIC8+PGJyIC8+PGI+VGhlIE9sZCBHdWFyZDwvYj46IFRoZSBQQ3MgaW5oZXJpdCBhIGdyYW5kIGR1dHkgZnJvbSBhIGdyb3VwIG9mIGFnaW5nIGhlcm9lcyB3aXRoIGEgc2FjcmVkIGFuZCBtb21lbnRvdXMgY2hhcmdlLiBUaGlzIG1pZ2h0IGJlIGd1YXJkaW5nIGEgcmlmdCBpbiB0aGUgbXVsdGl2ZXJzZSwgbWFubmluZyB0aGUgcHJpc29uIG9mIGEgZHJlYWRlZCBsaWNoIG9yIGV2ZW4gYW4gZWxkZXIgZ29kLCBvciBwcmVzZXJ2aW5nIHRoZSBmaXJzdCB0ZWFjaGluZ3Mgb2YgYXJjYW5lIG1hZ2ljIG9yIGEgaGFsbG93ZWQgZmlnaHRpbmcgc3R5bGUuIFRoZSBhZ2luZyBndWFyZGlhbnMgZGVwdXRpemUgdGhlIFBDcyBhbmQgY2hhcmdlIHRoZW0gd2l0aCBhIHNhY3JlZCBxdWVzdCB0byBmaW5kIG90aGVycyBhYmxlIHRvIHdpZWxkIG15dGhpYyBwb3dlciBhbmQgdGFrZSBvdmVyIGZvciB0aGUgYXVndXN0IHZldGVyYW5zIHdoZW4gdGhlaXIgdGltZSBoYXMgY29tZSwgb3IgZ3JhbnQgdGhlIFBDcyBhIGNoYW5jZSB0byBiZWNvbWUgdGhlIG5ldyBndWFyZGlhbnMgdGhlbXNlbHZlcy4gSW4gdGhlIGxhdHRlciBjYXNlLCB0aGUgb2xkZXIgaGVyb2VzIGRpcmVjdCB0aGUgUENzIHRvd2FyZCBxdWVzdHMgYW5kIGFjY29tcGxpc2htZW50cyB0aGF0IHdpbGwgaW5jcmVhc2UgdGhlaXIgbXl0aGljIHBvd2VyIHRvIHRoZSBsZXZlbHMgbmVlZGVkIHRvIHJlcGxhY2UgdGhlIHJldGlyaW5nIGd1YXJkaWFucy4gUGVyaGFwcyB0aGUgUENzIGRvbuKAmXQgZXZlbiByZWFsaXplIHRoZXnigJlyZSBiZWluZyB2ZXR0ZWQgZm9yIHRoaXMgY3J1Y2lhbCByb2xlIGFzIHRoZXkgdW5kZXJnbyB0aGVpciBhZHZlbnR1cmVzLiA8YnIgLz48YnIgLz48Yj5UbyBDaGFsbGVuZ2UgYSBHb2Q8L2I+OiBBbiBldmlsIGRlaXR5IGFuZCBpdHMgbWluaW9ucyBhcmUgbWFraW5nIGEgcGxheSBmb3IgdWx0aW1hdGUgcG93ZXIgaW4gdGhlIG1vcnRhbCByZWFsbXMuIE90aGVyIGdvZHMsIHByZXZlbnRlZCBmcm9tIGludGVyZmVyaW5nIGluIHRoZSBtYXR0ZXIgYnkgYSBkaXZpbmUgY29tcGFjdCwgdGFzayB0aGUgY2hhcmFjdGVycyB0byBvcHBvc2UgdGhlIHVzdXJwZXIuIFRoZSBQQ3MgbXVzdCBkaXNydXB0IHRoZSBzY2hlbWVzIG9mIHRoZSBkZWl0eeKAmXMgbWluaW9ucyBhbmQgd29yayB0aGVpciB3YXkgdXAgdGhyb3VnaCB0aGUgcmFua3MsIGJyZWFraW5nIHRoZSBjaGFpbiBvbmUgbGluayBhdCBhIHRpbWUsIHVudGlsIHRoZXkgZmluYWxseSBjb25mcm9udCB0aGUgYW1iaXRpb3VzIGdvZC4gPGJyIC8+PGJyIC8+PGI+VW5pdGluZyB0aGUgQXJtaWVzPC9iPjogV2FyIHJhZ2VzIGFjcm9zcyB0aGUgbGFuZC4gRGlzcGFyYXRlIGh1bWFub2lkIGFuZCBtb25zdHJvdXMgcmFjZXMgZmlnaHQgd2l0aCBvbmUgYW5vdGhlciwgb2JsaXZpb3VzIHRvIGEgcmlzaW5nIHRocmVhdCB0aGF0IHdpbGwgc29vbiBlbmRhbmdlciB0aGVtIGFsbOKAlGFuZCB0aGF0IG1pZ2h0IGhhdmUgb3JjaGVzdHJhdGVkIHRoZWlyIGNvbmZsaWN0cyBpbiB0aGUgZmlyc3QgcGxhY2UgdG8ga2VlcCB0aGVpciBhcm1pZXMgb2NjdXBpZWQuIFRoZSBoZXJvZXMgYWxvbmUgbGVhcm4gdGhlIHRydXRoIGFuZCBtdXN0IHVzZSB0aGVpciBteXRoaWMgcG93ZXJzIHRvIHVuaXRlIHRoZSB3YXJyaW5nIGdyb3Vwc+KAlGJ1dCBkb2luZyBzbyBtZWFucyBmYWNpbmcgYSBzZXJpZXMgb2YgY2hhbGxlbmdlcyBvZiBkaXBsb21hY3ksIGludHJpZ3VlLCBhbmQgYnJ1dGUgZm9yY2UuIE9ubHkgYnkgYmFuZGluZyB0b2dldGhlciB3aWxsIHRoZSBsYW5kIGJlIGFibGUgdG8gZmlnaHQgb2ZmIHRoZWlyIGltbWVuc2UgZm9lIGluIHRoZSB1bHRpbWF0ZSBiYXR0bGUuZGRkBnywImwLR16WnX6fq+pwzdOXfZZ82aB4kN6K9UbHHoA=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1608">Mythic Rules</a></u> / <u><a href="Rules.aspx?ID=1622">Running a Mythic Game</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=1642">Mythic Trials</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8ywe?Pathfinder-Roleplaying-Game-Mythic-Adventures" target="_blank" class="external-link"><i>Mythic Adventures pg. 129</i></a><br />The saga of mythic heroes is filled with wild adventures, deadly foes, and mysterious forces. For most, their journey is defined by such moments. These trials are the peaks of the story, turning points at which one wrong move or costly mistake might cause the entire quest to fail. In the game, these events denote the stages of the mythic character’s journey. Think of trials as an important plot point, one that is intrinsically tied to the legend of the characters.<br /><br /> Mythic characters advance in two ways: they gain character levels by accumulating experience points, and they gain tiers by accomplishing a number of trials (see <a style="text-decoration:underline" href="Rules.aspx?Name=Gaining Tiers&Category=Mythic Heroes">Table 1–2: Mythic Trials per Tier</a>). These trials are the true tales of mythic heroism, representing the culmination of an entire adventure or campaign arc in which the PCs overcome a terrifying challenge or achieve some fantastic victory. The trial can be anything the GM imagines, but it’s not accomplished until some major goal is completed—be it to defeat a monster, save a town, or recover an artifact. So while an entire adventure might be a trial, it does not count toward advancement until the heroes complete it.<br /><br /> The rate at which these trials are accomplished determines how quickly the PCs gain mythic tiers. As a guideline, the PCs should face a number of trials equal to the amount needed to gain a tier in the time it takes for them to gain two character levels. This should keep the character’s mythic tier roughly equal to 1/2 the character’s overall level. (Of course, the GM can alter this rate to suit the campaign.) That means if the PCs attain their first mythic tier at 1st level, they should probably face only a single greater trial by the time they reach 4th level, so that they reach 2nd tier at that time. Conversely, higher-level characters that gain mythic power later in their careers might face a number of trials in quick succession to gain tiers quickly, or they might even start with multiple tiers right away to get them closer to the average. <a style="text-decoration:underline" href="Rules.aspx?Name=Gaining Tiers&Category=Mythic Heroes">Table 1–2</a> lists the number of trials a character must overcome to gain a new tier, but this number is subject to GM discretion and the needs of the story.<br /><br /> A GM might instead decide that every time the PCs complete a trial, they gain a tier. In this case, such trials are far less common. Alternatively, a GM might double the number of trials needed, and in turn make them more common. Either way, the rate of tier progression shouldn’t feel much different from what would normally happen.<br /><br /> When designing a trial, GMs should keep the following points in mind. Trials represent important stories in the legend of mythic characters. Unlike an anecdote about particularly nasty fight or dangerous trap, trials are lengthy tales of multiple dangerous encounters, against mythic foes and unimaginable adversity. A trial should be the culmination of an entire adventure or a short series of adventures.<br /><br /> In addition, each trial should include at least three of the elements noted in <a style="text-decoration:underline" href="Rules.aspx?Name=Elements of a Mythic Adventure&Category=Mythic Story Structure">Elements of a Mythic Adventure</a>. These elements define a trial as mythic and help the players understand that they’re approaching a vital stage of their journey without directly telling them that a trial is forthcoming.<br /><h1 class="title"><a href="Rules.aspx?ID=1643">Sample Trials</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8ywe?Pathfinder-Roleplaying-Game-Mythic-Adventures" target="_blank" class="external-link"><i>Mythic Adventures pg. 130</i></a><br />The following trials should give GMs ideas of the various challenges mythic characters need to face to gain tiers. Use these as is or as inspiration for designing your own. Some of these suggest a mythic origin as well, but can be reworked for other mythic characters. Note that some of these are larger in scope and might represent an entire campaign arc. At the GM’s discretion, such longer events might represent several trials. <br /><br /><b>A Noble’s Mind Overthrown</b>: A great king or emperor succumbs to a strange madness, either from some unforeseen disease or a villain’s magical corruption. In the ensuing mania, the ruler declares war on followers of the major religions, hitherto great supporters of the crown and a boon to the common people. Not wanting to provoke outright war between the crown and the faiths, the mythic characters are charged by their patron to discover the cure for their monarch’s besieged mind. <br /><br /><b>Abyssal Parasite</b>: A powerful interaction of multiple mythic spells destroyed the body of a powerful demon, but in its place created a vengeful spirit neither dead nor alive. The spirit is capable of possessing others and infusing its host with demonic powers, using this as an opportunity to gather evil allies and gain strength. A celestial being that opposes demonkind calls the upon PCs to stop the vile being. They must then track the demon spirit as it moves from victim to victim, until the heroes can eradicate the demonic shade. <br /><br /><b>Aftermath</b>: The kingdom has been ravaged by a terrible battle with an invading force. The king’s armies suffered a pyrrhic victory—the realm is all but destroyed. The PCs must help restore the domain to its former glory by rooting out remaining enemies, tending to the suffering people, rebuilding the cities, striking deals with neighboring nations for aid, and protecting the kingdom against further attack by emboldened foes. <br /><br /><b>First Steps</b>: The PCs are normal adventurers who come to the aid of a strange creature beset by vicious enemies. Unfortunately, by the time the PCs fend off the attackers, the gravely wounded creature is drawing its last breaths. Just before dying, it bestows mythic power upon the heroes and entrusts them with a quest that it was not able to complete. With their new abilities, the PCs can finish the mission, avenge their fallen benefactor, and take their first steps into a larger world of challenges and foes greater than they ever knew existed. <br /><br /><b>For Those Who Must Follow</b>: The PCs are heroes in the days before a coming apocalypse at the hands of a dark divine or even extraterrestrial power. Unlike a campaign where the PCs must stop a cataclysm, in this trial they have no hope of averting the impending disaster. Instead, they must draw on mythic power to lay a foundation for future heroes to save the world. Their adventures will lead them to create secret repositories containing knowledge and small slivers of their own mythic power. While doing this they also attempt to form deep alliances with disparate groups the world over, laying the groundwork for the heroes that will one day rise and change the fate of a world that they themselves had not time enough to save. <br /><br /><b>Into the Abyss</b>: The PCs go on a quest to the Abyss, and must endure a harrowing expedition through the infinite layers of that chaotic evil realm. They’re tasked to rescue an important mortal sold into demonic slavery, retrieve a soul that was condemned to the Abyss by mistake, or topple a particularly destructive demon lord. Whatever the reason, the adventurers face challenges that push their new abilities to the limit. <br /><br /><b>Lost Souls</b>: The souls of the dead are not reaching their final destinations, but are instead trapped in a state of waiting. The PCs must discover what is powerful enough to interfere with this cosmic process—and for what dark purpose. Worse, the denied souls are being twisted into monstrous forms, causing pockets of corruption and instability, and presenting other threats to the world. The PCs struggle to unravel the mystery and defeat the furtive villain behind it all. <br /><br /><b>Mirror through the Multiverse</b>: A sudden magical event, like an arcane earthquake, shreds the barrier between parallel worlds. The divine powers of each realm perceive the others as threats and seek to do away with the rival “mockeries” of their own world through their ascended champions. The PCs are selected on behalf of their world’s pantheon of gods while searching out their opponents, some of whom might be eerily similar to them. GMs can offer players the choice of vanquishing their opponents or of allying with them in a joint effort to stop this cosmic bout. <br /><br /><b>Proving Grounds of the Great Beyond</b>: The PCs are captured and taken to a grand arena where they must fight against other legendary creatures for the amusement of powerful planar entities. Each round of the competition proves more deadly than the last, as it becomes clear that only one team will survive this tournament. If the PCs are victorious, a great boon might be bestowed upon them, so when the chance to escape presents itself, they must decide whether or not to continue. <br /><br /><b>Redemption</b>: Pursuing a once-strong champion of goodness like a fallen angel or an antipaladin, the PCs use mythic power not to oppose their enemy but to discover the source of his defection in the hopes of turning him back to the light. Or they must cleanse a relic that’s been polluted by some festering malignancy. The corruption is so deep-seated that the PCs must journey to a distant place of renown that can be reached only by heroes wielding the strongest of mythic powers. <br /><br /><b>Revenge Unyielding</b>: Some legendary warrior or powerful monster returns, like a dragon or giant once imprisoned in stasis, petrified, or under an enchanted sleep. Finding its world gone and all of its family and kin perished at the hands of heroes long since past, its mind collapses into madness. The creature vows revenge on all its foes’ descendants, or perhaps even the entire world, and slaughters in blind rage. The heroes must find a way to stay the avenger’s madness or put the tormented soul to rest. <br /><br /><b>The Culling Plague</b>: A rare disease has stricken one of the great races of the world. Giants, dragons, even outsiders might be victim to this debilitating plague. The oldest members of the afflicted species beseech the adventurers to stem this horrible contagion. Such a quest could take the PCs to far-flung parts of the world (and perhaps even beyond) searching for rare ingredients to concoct a cure. Alternatively, a sickness that strikes a species spread across the spectrum of good and evil, like outsiders or dragons, might make the PCs unlikely peace brokers between angels and devils or chromatic and metallic dragonkind while trying to find the cure. <br /><br /><b>The Giving Rain</b>: The flensed flesh of a deity executed for unknowable crimes falls in a gory rain across the land. The areas with the highest concentration exhibit bizarre, troubling effects. The PCs, being close to one such place, gain mythic powers. Drawn to other epicenters as if pulled by the godflesh, the heroes must deal with the changes wrought by the storm. This includes putting down monsters that have likewise gained strange new abilities, hunting down masses of godflesh that are hidden deep underground or atop the highest peaks, and restoring peace to kingdoms that have gone to war over possession of these divine blessings. <br /><br /><b>The Old Guard</b>: The PCs inherit a grand duty from a group of aging heroes with a sacred and momentous charge. This might be guarding a rift in the multiverse, manning the prison of a dreaded lich or even an elder god, or preserving the first teachings of arcane magic or a hallowed fighting style. The aging guardians deputize the PCs and charge them with a sacred quest to find others able to wield mythic power and take over for the august veterans when their time has come, or grant the PCs a chance to become the new guardians themselves. In the latter case, the older heroes direct the PCs toward quests and accomplishments that will increase their mythic power to the levels needed to replace the retiring guardians. Perhaps the PCs don’t even realize they’re being vetted for this crucial role as they undergo their adventures. <br /><br /><b>To Challenge a God</b>: An evil deity and its minions are making a play for ultimate power in the mortal realms. Other gods, prevented from interfering in the matter by a divine compact, task the characters to oppose the usurper. The PCs must disrupt the schemes of the deity’s minions and work their way up through the ranks, breaking the chain one link at a time, until they finally confront the ambitious god. <br /><br /><b>Uniting the Armies</b>: War rages across the land. Disparate humanoid and monstrous races fight with one another, oblivious to a rising threat that will soon endanger them all—and that might have orchestrated their conflicts in the first place to keep their armies occupied. The heroes alone learn the truth and must use their mythic powers to unite the warring groups—but doing so means facing a series of challenges of diplomacy, intrigue, and brute force. Only by banding together will the land be able to fight off their immense foe in the ultimate battle.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

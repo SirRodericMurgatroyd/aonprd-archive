@@ -1,0 +1,329 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Feats - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, Feat, Axiomatic Discourse, Blazing Aura (PA), Chaos Reigns, Death Field, Flickering Step, Gloomstorm, Greater Planar Infusion, Healer&#39;s Hands, Heaven&#39;s Light, Hollow Soul, Improved Planar Infusion, Last Rites, Malleable Form, Peace of Mind, Phase Strike, Planar Infusion, Primal Bloom, Shadow&#39;s Shroud, Stony Rampart, Tidal Swiftness, Tyrant&#39;s Rebuke, Wanderer&#39;s Fortune, Wind Leaper" /><meta name="description" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Feats.aspx?Category=Conduit" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDY4MzUzMjE1D2QWAmYPZBYCAgMPZBYCAgEPZBYKAgEPDxYCHgRUZXh0BYcRPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT0iPkdlbmVyYWw8L2E+IHwgPGEgaHJlZj0iQ29tYmF0U3RhbWluYS5hc3B4Ij5Db21iYXQgU3RhbWluYTwvYT48YnIgLz48YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PUFjaGlldmVtZW50Ij5BY2hpZXZlbWVudDwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PUFsaWdubWVudCI+QWxpZ25tZW50PC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9QXJtb3IgTWFzdGVyeSI+QXJtb3IgTWFzdGVyeTwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PUFybW9yIFN0eWxlIj5Bcm1vciBTdHlsZTwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PUJldHJheWFsIj5CZXRyYXlhbDwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PUJsb29kIEhleCI+Qmxvb2QgSGV4PC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9Q2FsbGVkIFNob3QiPkNhbGxlZCBTaG90PC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9Q29tYmF0Ij5Db21iYXQ8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1Db21iaW5hdGlvbiI+Q29tYmluYXRpb248L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1Db25kdWl0Ij5Db25kdWl0PC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9Q292ZW4iPkNvdmVuPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9Q3JpdGljYWwiPkNyaXRpY2FsPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9RGFtbmF0aW9uIj5EYW1uYXRpb248L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1Fc290ZXJpYyI+RXNvdGVyaWM8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1GYWN0aW9uIj5GYWN0aW9uPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9RmFtaWxpYXIiPkZhbWlsaWFyPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9R2F0aGxhaW4gQ291cnQgVGl0bGUiPkdhdGhsYWluIENvdXJ0IFRpdGxlPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9R3JpdCI+R3JpdDwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PUhlcm8gUG9pbnQiPkhlcm8gUG9pbnQ8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1JdGVtIENyZWF0aW9uIj5JdGVtIENyZWF0aW9uPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9SXRlbSBNYXN0ZXJ5Ij5JdGVtIE1hc3Rlcnk8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1NZWRpdGF0aW9uIj5NZWRpdGF0aW9uPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9TWV0YW1hZ2ljIj5NZXRhbWFnaWM8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1Nb25zdGVyIj5Nb25zdGVyPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9T3JpZ2luIj5PcmlnaW48L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1QYW5hY2hlIj5QYW5hY2hlPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9UGVyZm9ybWFuY2UiPlBlcmZvcm1hbmNlPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9U2hpZWxkIE1hc3RlcnkiPlNoaWVsZCBNYXN0ZXJ5PC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9U2hpZWxkIFN0eWxlIj5TaGllbGQgU3R5bGU8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1TdGFyZSI+U3RhcmU8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1TdG9yeSI+U3Rvcnk8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1TdHlsZSI+U3R5bGU8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1UYXJnZXRpbmciPlRhcmdldGluZzwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PVRlYW13b3JrIj5UZWFtd29yazwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PVRyaWNrIj5UcmljazwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PVdlYXBvbiBNYXN0ZXJ5Ij5XZWFwb24gTWFzdGVyeTwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PVdvcmRzIG9mIFBvd2VyIj5Xb3JkcyBvZiBQb3dlcjwvYT5kZAIDDw8WAh8ABcsFPGgyPjxoMSBjbGFzcz0idGl0bGUiPkNvbmR1aXQgRmVhdHM8L2gxPjwvaDI+PGI+RGVzY3JpcHRpb24gPC9iPiA8Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweWExYW0iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UGxhbmFyIEFkdmVudHVyZXMgcGcuIDIyPC9pPjwvYT48YnIgLz5Db25kdWl0IGZlYXRzIGdyYW50IHRoZSBhYmlsaXR5IHRvIGRyYXcgZW5lcmdpZXMgZnJvbSBvdGhlciBwbGFuZXMuIFRoZSBlZmZlY3RzIG9mIGNvbmR1aXQgZmVhdHMgYXJlIHN1cGVybmF0dXJhbCBhbmQgZG8gbm90IGZ1bmN0aW9uIGluIGFuIDxpPmFudGltYWdpYyBmaWVsZDwvaT4gb3Igc2ltaWxhciBlZmZlY3QuIEluIGFkZGl0aW9uLCBzaW5jZSB0aGVzZSBhYmlsaXRpZXMgcmVxdWlyZSBlbmVyZ2llcyBmcm9tIG90aGVyIHBsYW5lcywgeW91IGNhbm5vdCB1c2UgdGhlbSBpbiBhcmVhcyB0aGF0IGFyZSB3YXJkZWQgYWdhaW5zdCBwbGFuYXIgb3IgZGltZW5zaW9uYWwgdHJhdmVsIChzdWNoIGFzIHRob3NlIHVuZGVyIHRoZSBlZmZlY3RzIG9mIDxpPmRpbWVuc2lvbmFsIGxvY2s8L2k+IG9yIDxpPmZvcmJpZGRhbmNlPC9pPikgb3Igd2hlbiB5b3UgaGF2ZSBiZWVuIGRlbmllZCB0aGlzIGFiaWxpdHkgKHN1Y2ggYXMgdmlhIDxpPmRpbWVuc2lvbmFsIGFuY2hvcjwvaT4pLjxiciAvPjxiciAvPmRkAgUPDxYCHwAF0wE8ZGl2IHN0eWxlPSJmb250LXNpemU6MTJweCI+PGk+KmNvbWJhdCBmZWF0PC9pPjxiciAvPjxpPjxzdXA+4oqkPC9zdXA+YXJtb3IgbWFzdGVyeSBmZWF0PC9pPjxiciAvPjxpPjxzdXA+4oqk4oqkPC9zdXA+c2hpZWxkIG1hc3RlcnkgZmVhdDwvaT48YnIgLz48aT48c3VwPuKKpOKKpOKKpDwvc3VwPndlYXBvbiBtYXN0ZXJ5IGZlYXQ8L2k+PGJyIC8+PGJyIC8+PC9kaXY+ZGQCBw88KwARAwAPFgQeC18hRGF0YUJvdW5kZx4LXyFJdGVtQ291bnQCF2QBEBYAFgAWAAwUKwAAFgJmD2QWMAIBD2QWBmYPZBYCZg8PFgQfAAV0PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IEF4aW9tYXRpYyBEaXNjb3Vyc2UeC05hdmlnYXRlVXJsBS1GZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUF4aW9tYXRpYyBEaXNjb3Vyc2VkZAIBDw8WAh8ABS1EaXBsb21hY3kgMyByYW5rcywgS25vd2xlZGdlIChwbGFuZXMpIDMgcmFua3NkZAICDw8WAh8ABTdZb3VyIERpcGxvbWFjeSBjaGVja3MgaGF2ZSBhIGxvd2VyIGNoYW5jZSBvZiBiYWNrZmlyaW5nZGQCAg9kFgZmD2QWAmYPDxYEHwAFczxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBCbGF6aW5nIEF1cmEgKFBBKSofAwUrRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1CbGF6aW5nIEF1cmEgKFBBKWRkAgEPDxYCHwAFGktub3dsZWRnZSAocGxhbmVzKSAzIHJhbmtzZGQCAg8PFgIfAAU5U2hyb3VkIHlvdXJzZWxmIGluIGZpcmUgdGhhdCBkYW1hZ2VzIHRob3NlIHdobyBhdHRhY2sgeW91ZGQCAw9kFgZmD2QWAmYPDxYEHwAFbTxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBDaGFvcyBSZWlnbnMfAwUmRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1DaGFvcyBSZWlnbnNkZAIBDw8WAh8ABRpLbm93bGVkZ2UgKHBsYW5lcykgMyByYW5rc2RkAgIPDxYCHwAFEEdhaW4gc2xhbSBhdHRhY2tkZAIED2QWBmYPZBYCZg8PFgQfAAVsPGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IERlYXRoIEZpZWxkHwMFJUZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9RGVhdGggRmllbGRkZAIBDw8WAh8ABRpLbm93bGVkZ2UgKHBsYW5lcykgNSByYW5rc2RkAgIPDxYCHwAFP0V4dWRlIG5lZ2F0aXZlIGVuZXJneSB0aGF0IGhpbmRlcnMgZW50YW5nbGluZyBwbGFudHMgYW5kIHN3YXJtc2RkAgUPZBYGZg9kFgJmDw8WBB8ABXA8aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gRmxpY2tlcmluZyBTdGVwHwMFKUZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9RmxpY2tlcmluZyBTdGVwZGQCAQ8PFgIfAAUaS25vd2xlZGdlIChwbGFuZXMpIDkgcmFua3NkZAICDw8WAh8ABTFVc2UgPGk+ZGltZW5zaW9uIGRvb3I8L2k+IGFzIGEgc3BlbGwtbGlrZSBhYmlsaXR5ZGQCBg9kFgZmD2QWAmYPDxYEHwAFbDxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBHbG9vbXN0b3JtKh8DBSRGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUdsb29tc3Rvcm1kZAIBDw8WAh8ABTdLbm93bGVkZ2UgKHBsYW5lcykgNCByYW5rcywgc2hhZG93IHdlYXBvbiBjbGFzcyBmZWF0dXJlZGQCAg8PFgIfAAUqQ3JlYXRlIG5ldyBzaGFkb3cgd2VhcG9ucyBhcyBhIGZyZWUgYWN0aW9uZGQCBw9kFgZmD2QWAmYPDxYEHwAFeDxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBHcmVhdGVyIFBsYW5hciBJbmZ1c2lvbh8DBTFGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUdyZWF0ZXIgUGxhbmFyIEluZnVzaW9uZGQCAQ8PFgIfAAX8ATxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUltcHJvdmVkIFBsYW5hciBJbmZ1c2lvbiI+SW1wcm92ZWQgUGxhbmFyIEluZnVzaW9uPC9hPiwgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IkZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9UGxhbmFyIEluZnVzaW9uIj5QbGFuYXIgSW5mdXNpb248L2E+LCBjaGFyYWN0ZXIgbGV2ZWwgMTN0aGRkAgIPDxYCHwAFJEdhaW4gYSBncmVhdGVyIGluZnVzaW9uIGZyb20gYSBwbGFuZWRkAggPZBYGZg9kFgJmDw8WBB8ABQ5IZWFsZXIncyBIYW5kcx8DBShGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUhlYWxlcidzIEhhbmRzZGQCAQ8PFgIfAAUmSGVhbCAxIHJhbmssIEtub3dsZWRnZSAocGxhbmVzKSAxIHJhbmtkZAICDw8WAh8ABUdUcmVhdCBkZWFkbHkgd291bmRzIHdpdGggdGhlIEhlYWwgc2tpbGwgbW9yZSBlZmZpY2llbnRseSBhbmQgbW9yZSBvZnRlbmRkAgkPZBYGZg9kFgJmDw8WBB8ABW88aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gSGVhdmVuJ3MgTGlnaHQfAwUoRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1IZWF2ZW4ncyBMaWdodGRkAgEPDxYCHwAFGUtub3dsZWRnZSAocGxhbmVzKSAxIHJhbmtkZAICDw8WAh8ABR9TaGVkIGlsbHVtaW5hdGluZyBoYWxvIG9mIGxpZ2h0ZGQCCg9kFgZmD2QWAmYPDxYEHwAFbDxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBIb2xsb3cgU291bB8DBSVGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUhvbGxvdyBTb3VsZGQCAQ8PFgIfAAUaS25vd2xlZGdlIChwbGFuZXMpIDkgcmFua3NkZAICDw8WAh8ABUhGdW5jdGlvbiBhcyB1bmRlYWQgZm9yIGNlcnRhaW4gc3BlbGwgZWZmZWN0cw0KKGluY2x1ZGluZyBoZWFsaW5nIHNwZWxscylkZAILD2QWBmYPZBYCZg8PFgQfAAV5PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IEltcHJvdmVkIFBsYW5hciBJbmZ1c2lvbh8DBTJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUltcHJvdmVkIFBsYW5hciBJbmZ1c2lvbmRkAgEPDxYCHwAFfjxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPVBsYW5hciBJbmZ1c2lvbiI+UGxhbmFyIEluZnVzaW9uPC9hPiwgY2hhcmFjdGVyIGxldmVsIDd0aGRkAgIPDxYCHwAFJkdhaW4gYW4gaW1wcm92ZWQgaW5mdXNpb24gZnJvbSBhIHBsYW5lZGQCDA9kFgZmD2QWAmYPDxYEHwAFazxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBMYXN0IFJpdGVzHwMFJEZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9TGFzdCBSaXRlc2RkAgEPDxYCHwAFOEtub3dsZWRnZSAocGxhbmVzKSAzIHJhbmtzLCBLbm93bGVkZ2UgKHJlbGlnaW9uKSAzIHJhbmtzZGQCAg8PFgIfAAVPRGFtYWdlIGhhdW50cyBvciB1bmRlYWQgdGhhdCBhcmUgdnVsbmVyYWJsZSB0byByZXNzdXJlY3Rpb24gd2l0aCBhIHRvdWNoIGF0dGFja2RkAg0PZBYGZg9kFgJmDw8WBB8ABW88aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gTWFsbGVhYmxlIEZvcm0fAwUoRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1NYWxsZWFibGUgRm9ybWRkAgEPDxYCHwAFGktub3dsZWRnZSAocGxhbmVzKSA3IHJhbmtzZGQCAg8PFgIfAAU9R2FpbiBjb21wcmVzc2lvbiBhYmlsaXR5IGFuZCBiZWNvbWUgaGFyZGVyIHRvIGdyYXBwbGUgb3IgdHJpcGRkAg4PZBYGZg9kFgJmDw8WBB8ABW48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gUGVhY2Ugb2YgTWluZB8DBSdGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPVBlYWNlIG9mIE1pbmRkZAIBDw8WAh8ABRpLbm93bGVkZ2UgKHBsYW5lcykgMyByYW5rc2RkAgIPDxYCHwAFOUlnbm9yZSBlbW90aW9uLCBmZWFyLCBvciBwYWluIGVmZmVjdCBidXQgYmUgZGF6ZWQgaW5zdGVhZGRkAg8PZBYGZg9kFgJmDw8WBB8ABW48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gUGhhc2UgU3RyaWtlKh8DBSZGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPVBoYXNlIFN0cmlrZWRkAgEPDxYCHwAFG0tub3dsZWRnZSAocGxhbmVzKSAxMCByYW5rc2RkAgIPDxYCHwAFJk1ha2UgYSB3ZWFwb24gYXR0YWNrIGFzIGEgdG91Y2ggYXR0YWNrZGQCEA9kFgZmD2QWAmYPDxYEHwAFrAU8aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sTi5naWYiIHRpdGxlPSJUbyBxdWFsaWZ5IHRvIHRha2UgdGhlIFBsYW5hciBJbmZ1c2lvbiBmZWF0LCBhIFBDIG11c3QgZmlyc3QgcGFydGljaXBhdGUgaW4gYW4gYWR2ZW50dXJlIHRoYXQgdGFrZXMgcGxhY2UgcGFydGlhbGx5IG9uIHRoZSBwbGFuZSBhbmQgc3VjY2Vzc2Z1bGx5IGNvbXBsZXRlIGF0IGxlYXN0IG9uZSBlbmNvdW50ZXIgb24gdGhhdCBwbGFuZS4gQWZ0ZXJ3YXJkLCB0aGUgUEMgY2FuIHNwZW5kIGhlciBEb3dudGltZSBhbmQgMiBQUCB0byBhdHR1bmUgaGVyc2VsZiB0byB0aGF0IHBsYW5lLiBTaGUgbXVzdCBhbHNvIHNlbGVjdCBhIGxlZ2FsIHBsYW5hciBpbmZ1c2lvbi4gUGxhbmFyIGluZnVzaW9ucyBhcmUgbGVnYWwgZm9yIGFsbCBjaGFyYWN0ZXIgb3B0aW9ucyB0aGF0IHJlZmVyZW5jZSB0aGVtIGV4Y2VwdCB0aGUgYmFzaWMgYW5kIGltcHJvdmVkIGluZnVzaW9ucyBmb3IgdGhlIEFiYWRkb24gYW5kIHRoZSBQb3NpdGl2ZSBFbmVyZ3kgUGxhbmUsIGFzIHdlbGwgYXMgdGhlIGdyZWF0ZXIgaW5mdXNpb25zIGZvciBBYmFkZG9uLCBBeGlzLCBDeW5vc3VyZSwgTGVuZywgYW5kIHRoZSBQb3NpdGl2ZSBFbmVyZ3kgUGxhbmUuIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBQbGFuYXIgSW5mdXNpb24fAwUpRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1QbGFuYXIgSW5mdXNpb25kZAIBDw8WAh8ABWhZb3UgbXVzdCBzcGVuZCBhIHNpZ25pZmljYW50IGFtb3VudCBvZiB0aW1lIG9uIGEgcGxhbmUgb3RoZXIgdGhhbiB5b3VyIGhvbWUgcGxhbmUgb3IgdGhlIE1hdGVyaWFsIFBsYW5lLmRkAgIPDxYCHwAFGkdhaW4gaW5mdXNpb24gZnJvbSBhIHBsYW5lZGQCEQ9kFgZmD2QWAmYPDxYEHwAFDFByaW1hbCBCbG9vbR8DBSZGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPVByaW1hbCBCbG9vbWRkAgEPDxYCHwAFG0tub3dsZWRnZSAocGxhbmVzKSAxMCByYW5rc2RkAgIPDxYCHwAFJkNhdXNlIGFuIGFyZWEgdG8gZ2FpbiB3aWxkIG1hZ2ljIHRyYWl0ZGQCEg9kFgZmD2QWAmYPDxYEHwAFcDxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBTaGFkb3cncyBTaHJvdWQfAwUpRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1TaGFkb3cncyBTaHJvdWRkZAIBDw8WAh8ABRpLbm93bGVkZ2UgKHBsYW5lcykgNSByYW5rc2RkAgIPDxYCHwAFSFNocm91ZCB5b3Vyc2VsZiBpbiBzaGFkb3dzIHRvIGdhaW4gb3Bwb3J0dW5pdHkgdG8gYXR0ZW1wdCBTdGVhbHRoIGNoZWNrc2RkAhMPZBYGZg9kFgJmDw8WBB8ABW88aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gU3RvbnkgUmFtcGFydCofAwUnRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1TdG9ueSBSYW1wYXJ0ZGQCAQ8PFgIfAAUaS25vd2xlZGdlIChwbGFuZXMpIDMgcmFua3NkZAICDw8WAh8ABTNDYXVzZSBhIGxvdyBzdG9uZSB3YWxsIHRvIHNwcmluZyB1cCBmcm9tIHRoZSBncm91bmRkZAIUD2QWBmYPZBYCZg8PFgQfAAVwPGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IFRpZGFsIFN3aWZ0bmVzcx8DBSlGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPVRpZGFsIFN3aWZ0bmVzc2RkAgEPDxYCHwAFGktub3dsZWRnZSAocGxhbmVzKSA1IHJhbmtzZGQCAg8PFgIfAAUoSW5jcmVhc2UgeW91ciBzcGVlZCB3aXRoIGEgdGlkZSBvZiB3YXRlcmRkAhUPZBYGZg9kFgJmDw8WBB8ABXA8aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gVHlyYW50J3MgUmVidWtlHwMFKUZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9VHlyYW50J3MgUmVidWtlZGQCAQ8PFgIfAAUaS25vd2xlZGdlIChwbGFuZXMpIDUgcmFua3NkZAICDw8WAh8ABRxTdGFnZ2VyIGEgY3JlYXR1cmUgeW91IHRvdWNoZGQCFg9kFgZmD2QWAmYPDxYEHwAFczxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBXYW5kZXJlcidzIEZvcnR1bmUfAwUsRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1XYW5kZXJlcidzIEZvcnR1bmVkZAIBDw8WAh8ABRpLbm93bGVkZ2UgKHBsYW5lcykgMyByYW5rc2RkAgIPDxYCHwAFSEdhaW4gPGk+ZnJlZWRvbSBvZiBtb3ZlbWVudDwvaT4gdG8gZXNjYXBlIGEgZ3JhcHBsZSBvciBtYWdpY2FsIHJlc3RyYWludGRkAhcPZBYGZg9kFgJmDw8WBB8ABWw8aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gV2luZCBMZWFwZXIfAwUlRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1XaW5kIExlYXBlcmRkAgEPDxYCHwAFGktub3dsZWRnZSAocGxhbmVzKSAzIHJhbmtzZGQCAg8PFgIfAAU1VXNlIHdpbmQgdG8gYm9sc3RlciB5b3VyIGp1bXBzIGFuZCByZWR1Y2UgeW91ciB3ZWlnaHRkZAIYDw8WAh4HVmlzaWJsZWhkZAIJDw9kPCsABgBkGAEFG2N0bDAwJE1haW5Db250ZW50JEdyaWRWaWV3Ng88KwAMAwYVAQZJdGVtSWQHFCsAFxQrAAEC6RoUKwABAu0aFCsAAQLwGhQrAAEC8hoUKwABAvkaFCsAAQL6GhQrAAEC/RoUKwABAv8aFCsAAQKAGxQrAAECghsUKwABAoMbFCsAAQKGGxQrAAECiBsUKwABAosbFCsAAQKMGxQrAAECjhsUKwABApAbFCsAAQKRGxQrAAECkhsUKwABApcbFCsAAQKZGxQrAAECmhsUKwABApsbCAIBZLGFU0HnMdreLyuxtdvvphWwwEO65Qe3bYHBE9/lbEJy" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="59D2DE08" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <h2 style="text-align: center"><span id="MainContent_AllFeatLabel"><a href="Feats.aspx?Category=">General</a> | <a href="CombatStamina.aspx">Combat Stamina</a><br /><a href="Feats.aspx?Category=Achievement">Achievement</a> | <a href="Feats.aspx?Category=Alignment">Alignment</a> | <a href="Feats.aspx?Category=Armor Mastery">Armor Mastery</a> | <a href="Feats.aspx?Category=Armor Style">Armor Style</a> | <a href="Feats.aspx?Category=Betrayal">Betrayal</a> | <a href="Feats.aspx?Category=Blood Hex">Blood Hex</a> | <a href="Feats.aspx?Category=Called Shot">Called Shot</a> | <a href="Feats.aspx?Category=Combat">Combat</a> | <a href="Feats.aspx?Category=Combination">Combination</a> | <a href="Feats.aspx?Category=Conduit">Conduit</a> | <a href="Feats.aspx?Category=Coven">Coven</a> | <a href="Feats.aspx?Category=Critical">Critical</a> | <a href="Feats.aspx?Category=Damnation">Damnation</a> | <a href="Feats.aspx?Category=Esoteric">Esoteric</a> | <a href="Feats.aspx?Category=Faction">Faction</a> | <a href="Feats.aspx?Category=Familiar">Familiar</a> | <a href="Feats.aspx?Category=Gathlain Court Title">Gathlain Court Title</a> | <a href="Feats.aspx?Category=Grit">Grit</a> | <a href="Feats.aspx?Category=Hero Point">Hero Point</a> | <a href="Feats.aspx?Category=Item Creation">Item Creation</a> | <a href="Feats.aspx?Category=Item Mastery">Item Mastery</a> | <a href="Feats.aspx?Category=Meditation">Meditation</a> | <a href="Feats.aspx?Category=Metamagic">Metamagic</a> | <a href="Feats.aspx?Category=Monster">Monster</a> | <a href="Feats.aspx?Category=Origin">Origin</a> | <a href="Feats.aspx?Category=Panache">Panache</a> | <a href="Feats.aspx?Category=Performance">Performance</a> | <a href="Feats.aspx?Category=Shield Mastery">Shield Mastery</a> | <a href="Feats.aspx?Category=Shield Style">Shield Style</a> | <a href="Feats.aspx?Category=Stare">Stare</a> | <a href="Feats.aspx?Category=Story">Story</a> | <a href="Feats.aspx?Category=Style">Style</a> | <a href="Feats.aspx?Category=Targeting">Targeting</a> | <a href="Feats.aspx?Category=Teamwork">Teamwork</a> | <a href="Feats.aspx?Category=Trick">Trick</a> | <a href="Feats.aspx?Category=Weapon Mastery">Weapon Mastery</a> | <a href="Feats.aspx?Category=Words of Power">Words of Power</a></span></h2>
+    <span id="MainContent_FeatLabel"><h2><h1 class="title">Conduit Feats</h1></h2><b>Description </b> <b>Source</b> <a href="http://paizo.com/products/btpya1am" target="_blank" class="external-link"><i>Planar Adventures pg. 22</i></a><br />Conduit feats grant the ability to draw energies from other planes. The effects of conduit feats are supernatural and do not function in an <i>antimagic field</i> or similar effect. In addition, since these abilities require energies from other planes, you cannot use them in areas that are warded against planar or dimensional travel (such as those under the effects of <i>dimensional lock</i> or <i>forbiddance</i>) or when you have been denied this ability (such as via <i>dimensional anchor</i>).<br /><br /></span>
+    <span id="MainContent_FeatLabel2"><div style="font-size:12px"><i>*combat feat</i><br /><i><sup>⊤</sup>armor mastery feat</i><br /><i><sup>⊤⊤</sup>shield mastery feat</i><br /><i><sup>⊤⊤⊤</sup>weapon mastery feat</i><br /><br /></div></span>
+    <div>
+	<table cellspacing="0" cellpadding="3" rules="cols" id="MainContent_GridView6" style="color:Black;background-color:White;border-color:#999999;border-width:1px;border-style:Solid;border-collapse:collapse;">
+		<tr style="color:White;background-color:Black;font-weight:bold;">
+			<th scope="col">Name</th><th scope="col">Prerequisite</th><th scope="col">Description</th>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Axiomatic Discourse"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Axiomatic Discourse</a></td><td>Diplomacy 3 ranks, Knowledge (planes) 3 ranks</td><td>Your Diplomacy checks have a lower chance of backfiring</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Blazing Aura (PA)"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Blazing Aura (PA)*</a></td><td>Knowledge (planes) 3 ranks</td><td>Shroud yourself in fire that damages those who attack you</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Chaos Reigns"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Chaos Reigns</a></td><td>Knowledge (planes) 3 ranks</td><td>Gain slam attack</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Death Field"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Death Field</a></td><td>Knowledge (planes) 5 ranks</td><td>Exude negative energy that hinders entangling plants and swarms</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Flickering Step"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Flickering Step</a></td><td>Knowledge (planes) 9 ranks</td><td>Use <i>dimension door</i> as a spell-like ability</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Gloomstorm"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Gloomstorm*</a></td><td>Knowledge (planes) 4 ranks, shadow weapon class feature</td><td>Create new shadow weapons as a free action</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Greater Planar Infusion"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Greater Planar Infusion</a></td><td><a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Improved Planar Infusion">Improved Planar Infusion</a>, <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Planar Infusion">Planar Infusion</a>, character level 13th</td><td>Gain a greater infusion from a plane</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Healer&#39;s Hands">Healer's Hands</a></td><td>Heal 1 rank, Knowledge (planes) 1 rank</td><td>Treat deadly wounds with the Heal skill more efficiently and more often</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Heaven&#39;s Light"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Heaven's Light</a></td><td>Knowledge (planes) 1 rank</td><td>Shed illuminating halo of light</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Hollow Soul"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Hollow Soul</a></td><td>Knowledge (planes) 9 ranks</td><td>Function as undead for certain spell effects
+(including healing spells)</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Improved Planar Infusion"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Improved Planar Infusion</a></td><td><a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Planar Infusion">Planar Infusion</a>, character level 7th</td><td>Gain an improved infusion from a plane</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Last Rites"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Last Rites</a></td><td>Knowledge (planes) 3 ranks, Knowledge (religion) 3 ranks</td><td>Damage haunts or undead that are vulnerable to ressurection with a touch attack</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Malleable Form"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Malleable Form</a></td><td>Knowledge (planes) 7 ranks</td><td>Gain compression ability and become harder to grapple or trip</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Peace of Mind"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Peace of Mind</a></td><td>Knowledge (planes) 3 ranks</td><td>Ignore emotion, fear, or pain effect but be dazed instead</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Phase Strike"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Phase Strike*</a></td><td>Knowledge (planes) 10 ranks</td><td>Make a weapon attack as a touch attack</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Planar Infusion"><img src="images\PathfinderSocietySymbolN.gif" title="To qualify to take the Planar Infusion feat, a PC must first participate in an adventure that takes place partially on the plane and successfully complete at least one encounter on that plane. Afterward, the PC can spend her Downtime and 2 PP to attune herself to that plane. She must also select a legal planar infusion. Planar infusions are legal for all character options that reference them except the basic and improved infusions for the Abaddon and the Positive Energy Plane, as well as the greater infusions for Abaddon, Axis, Cynosure, Leng, and the Positive Energy Plane." style="margin:3px 3px 0px 3px;"> Planar Infusion</a></td><td>You must spend a significant amount of time on a plane other than your home plane or the Material Plane.</td><td>Gain infusion from a plane</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Primal Bloom">Primal Bloom</a></td><td>Knowledge (planes) 10 ranks</td><td>Cause an area to gain wild magic trait</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Shadow&#39;s Shroud"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Shadow's Shroud</a></td><td>Knowledge (planes) 5 ranks</td><td>Shroud yourself in shadows to gain opportunity to attempt Stealth checks</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Stony Rampart"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Stony Rampart*</a></td><td>Knowledge (planes) 3 ranks</td><td>Cause a low stone wall to spring up from the ground</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Tidal Swiftness"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Tidal Swiftness</a></td><td>Knowledge (planes) 5 ranks</td><td>Increase your speed with a tide of water</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Tyrant&#39;s Rebuke"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Tyrant's Rebuke</a></td><td>Knowledge (planes) 5 ranks</td><td>Stagger a creature you touch</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Wanderer&#39;s Fortune"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Wanderer's Fortune</a></td><td>Knowledge (planes) 3 ranks</td><td>Gain <i>freedom of movement</i> to escape a grapple or magical restraint</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Wind Leaper"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Wind Leaper</a></td><td>Knowledge (planes) 3 ranks</td><td>Use wind to bolster your jumps and reduce your weight</td>
+		</tr>
+	</table>
+</div><br />
+   
+    
+    
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

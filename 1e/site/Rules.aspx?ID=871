@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Customizing Your Game - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Customizing Your Game" /><meta name="description" content="Roleplaying games are, at their cores, simulations, with most rules focusing on how to perform epic feats and participate in the fantastic adventures of legendary heroes. Thus, games like the Pathfinder RPG highlight the most common elements of fantasy stories: battle, magic, monsters, and the like, detailing facets of the simulation that benefit from or require more detail than a GM might comfortably arbitrate on his own. The &lt;i>Pathfinder RPG Core Rulebook&lt;/i> gives GMs the tools they need to run countless adventures, and serves as a toolbox to help you create nearly any fantasy situation imaginable. Yet no rules set can anticipate every specific situation. Rather than just glossing over situations not discussed in the rules, in many cases, GMs employ specialized subsystems to add new layers of excitement and precision to their adventures. Thus, adjudicating a pursuit through a crowded city might become an exhilarating new game within the game while a fortune-telling session takes on new realism by drawing upon well-known tricks of the trade.&lt;br />&lt;br /> In an attempt to better equip GMs with more exciting options for their campaigns, this chapter presents a variety of new subsystems, as well as advice to make running common fantasy encounters easier. While some sections offer more detailed explanations and uses of existing rules, others present altogether new rules, while still others explain the methods behind creating common story elements. In any case, this chapter strives to aid GMs seeking to craft more exciting and evocative games, but does not claim to be inclusive of all the situations that might arise in an adventure. Rather, GMs should utilize these new rules and details in the same way they might use those in the &lt;i>Pathfinder RPG Core Rulebook&lt;/i>, employing them as written when possible or altering them to serve as departure points customized to specific stories, or as the basis for wholly unique subsystems." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=871" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWuRjx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDU0Ij5HYW1lTWFzdGVyeSBHdWlkZTwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD04NzAiPkFkdmFuY2VkIFRvcGljczwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD04NzEiPkN1c3RvbWl6aW5nIFlvdXIgR2FtZTwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDIzMDwvaT48L2E+PGJyIC8+Um9sZXBsYXlpbmcgZ2FtZXMgYXJlLCBhdCB0aGVpciBjb3Jlcywgc2ltdWxhdGlvbnMsIHdpdGggbW9zdCBydWxlcyBmb2N1c2luZyBvbiBob3cgdG8gcGVyZm9ybSBlcGljIGZlYXRzIGFuZCBwYXJ0aWNpcGF0ZSBpbiB0aGUgZmFudGFzdGljIGFkdmVudHVyZXMgb2YgbGVnZW5kYXJ5IGhlcm9lcy4gVGh1cywgZ2FtZXMgbGlrZSB0aGUgUGF0aGZpbmRlciBSUEcgaGlnaGxpZ2h0IHRoZSBtb3N0IGNvbW1vbiBlbGVtZW50cyBvZiBmYW50YXN5IHN0b3JpZXM6IGJhdHRsZSwgbWFnaWMsIG1vbnN0ZXJzLCBhbmQgdGhlIGxpa2UsIGRldGFpbGluZyBmYWNldHMgb2YgdGhlIHNpbXVsYXRpb24gdGhhdCBiZW5lZml0IGZyb20gb3IgcmVxdWlyZSBtb3JlIGRldGFpbCB0aGFuIGEgR00gbWlnaHQgY29tZm9ydGFibHkgYXJiaXRyYXRlIG9uIGhpcyBvd24uIFRoZSA8aT5QYXRoZmluZGVyIFJQRyBDb3JlIFJ1bGVib29rPC9pPiBnaXZlcyBHTXMgdGhlIHRvb2xzIHRoZXkgbmVlZCB0byBydW4gY291bnRsZXNzIGFkdmVudHVyZXMsIGFuZCBzZXJ2ZXMgYXMgYSB0b29sYm94IHRvIGhlbHAgeW91IGNyZWF0ZSBuZWFybHkgYW55IGZhbnRhc3kgc2l0dWF0aW9uIGltYWdpbmFibGUuIFlldCBubyBydWxlcyBzZXQgY2FuIGFudGljaXBhdGUgZXZlcnkgc3BlY2lmaWMgc2l0dWF0aW9uLiBSYXRoZXIgdGhhbiBqdXN0IGdsb3NzaW5nIG92ZXIgc2l0dWF0aW9ucyBub3QgZGlzY3Vzc2VkIGluIHRoZSBydWxlcywgaW4gbWFueSBjYXNlcywgR01zIGVtcGxveSBzcGVjaWFsaXplZCBzdWJzeXN0ZW1zIHRvIGFkZCBuZXcgbGF5ZXJzIG9mIGV4Y2l0ZW1lbnQgYW5kIHByZWNpc2lvbiB0byB0aGVpciBhZHZlbnR1cmVzLiBUaHVzLCBhZGp1ZGljYXRpbmcgYSBwdXJzdWl0IHRocm91Z2ggYSBjcm93ZGVkIGNpdHkgbWlnaHQgYmVjb21lIGFuIGV4aGlsYXJhdGluZyBuZXcgZ2FtZSB3aXRoaW4gdGhlIGdhbWUgd2hpbGUgYSBmb3J0dW5lLXRlbGxpbmcgc2Vzc2lvbiB0YWtlcyBvbiBuZXcgcmVhbGlzbSBieSBkcmF3aW5nIHVwb24gd2VsbC1rbm93biB0cmlja3Mgb2YgdGhlIHRyYWRlLjxiciAvPjxiciAvPiBJbiBhbiBhdHRlbXB0IHRvIGJldHRlciBlcXVpcCBHTXMgd2l0aCBtb3JlIGV4Y2l0aW5nIG9wdGlvbnMgZm9yIHRoZWlyIGNhbXBhaWducywgdGhpcyBjaGFwdGVyIHByZXNlbnRzIGEgdmFyaWV0eSBvZiBuZXcgc3Vic3lzdGVtcywgYXMgd2VsbCBhcyBhZHZpY2UgdG8gbWFrZSBydW5uaW5nIGNvbW1vbiBmYW50YXN5IGVuY291bnRlcnMgZWFzaWVyLiBXaGlsZSBzb21lIHNlY3Rpb25zIG9mZmVyIG1vcmUgZGV0YWlsZWQgZXhwbGFuYXRpb25zIGFuZCB1c2VzIG9mIGV4aXN0aW5nIHJ1bGVzLCBvdGhlcnMgcHJlc2VudCBhbHRvZ2V0aGVyIG5ldyBydWxlcywgd2hpbGUgc3RpbGwgb3RoZXJzIGV4cGxhaW4gdGhlIG1ldGhvZHMgYmVoaW5kIGNyZWF0aW5nIGNvbW1vbiBzdG9yeSBlbGVtZW50cy4gSW4gYW55IGNhc2UsIHRoaXMgY2hhcHRlciBzdHJpdmVzIHRvIGFpZCBHTXMgc2Vla2luZyB0byBjcmFmdCBtb3JlIGV4Y2l0aW5nIGFuZCBldm9jYXRpdmUgZ2FtZXMsIGJ1dCBkb2VzIG5vdCBjbGFpbSB0byBiZSBpbmNsdXNpdmUgb2YgYWxsIHRoZSBzaXR1YXRpb25zIHRoYXQgbWlnaHQgYXJpc2UgaW4gYW4gYWR2ZW50dXJlLiBSYXRoZXIsIEdNcyBzaG91bGQgdXRpbGl6ZSB0aGVzZSBuZXcgcnVsZXMgYW5kIGRldGFpbHMgaW4gdGhlIHNhbWUgd2F5IHRoZXkgbWlnaHQgdXNlIHRob3NlIGluIHRoZSA8aT5QYXRoZmluZGVyIFJQRyBDb3JlIFJ1bGVib29rPC9pPiwgZW1wbG95aW5nIHRoZW0gYXMgd3JpdHRlbiB3aGVuIHBvc3NpYmxlIG9yIGFsdGVyaW5nIHRoZW0gdG8gc2VydmUgYXMgZGVwYXJ0dXJlIHBvaW50cyBjdXN0b21pemVkIHRvIHNwZWNpZmljIHN0b3JpZXMsIG9yIGFzIHRoZSBiYXNpcyBmb3Igd2hvbGx5IHVuaXF1ZSBzdWJzeXN0ZW1zLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9ODcyIj5XaGVuIHRvIERlc2lnbj88L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiAyMzA8L2k+PC9hPjxiciAvPlBhcnQgb2YgYSBHTeKAmXMgZnVuIGlzIG5vdCBqdXN0IGNvbWluZyB1cCB3aXRoIGV4Y2l0aW5nIGFkdmVudHVyZXMsIGJ1dCBkZXZpc2luZyBuZXcgd2F5cyB0byBwcmVzZW50IGhpcyBhZHZlbnR1cmVzLiBXaGlsZSBDaGFwdGVyIDIgZGlzY3Vzc2VzIG1hbnkgdGVjaG5pcXVlcyBhIEdNIG1pZ2h0IHVzZSB0byBtYWtlIGhpcyBjYW1wYWlnbiBtb3JlIGNhcHRpdmF0aW5nLCBnb29kIG9yZ2FuaXphdGlvbiwgdHJhY2tpbmcgdG9vbHMsIGhhbmRvdXRzLCBhbmQgdGhlIGxpa2UgYXJlbuKAmXQgYWx3YXlzIGVub3VnaC4gU29tZXRpbWVzLCBhIEdNIG1pZ2h0IGZpbmQgdGhhdCB0aGVyZeKAmXMgbm8gcGVyZmVjdCBmaXQgd2l0aGluIHRoZSBleGlzdGluZyBydWxlcyBmb3IgYW4gZW5jb3VudGVyLCBjcmVhdHVyZSwgb3Igb3RoZXIgZWxlbWVudCBoZeKAmWQgbGlrZSB0byBpbmNsdWRlLiBZZXQgcmF0aGVyIHRoYW4gYmVpbmcgZGV0ZXJyZWQgYW5kIGhhdmluZyB0byByZWltYWdpbmUgaGlzIGFkdmVudHVyZSwgaXTigJlzIGNvbXBsZXRlbHkgd2l0aGluIHRoZSBHTeKAmXMgcHVydmlldyB0byBnZXQgY3JlYXRpdmUgd2l0aCB0aGUgcnVsZXMgdG8gbWFrZSB3aGF0IGhlIHdhbnRzIG9yIGEgY2FtcGFpZ24gbmVlZHMuIFVsdGltYXRlbHksIHdoaWxlIHRoZSBQYXRoZmluZGVyIFJQR+KAmXMgcnVsZXMgYXJlIGRlc2lnbmVkIGZvciBlYXNlIG9mIHVzZSBhbmQgdG8gcHJvbW90ZSBmYWlybmVzcyBpbiBhIGdhbWUsIHRoZXkgZXhpc3QgdG8gaGVscCBhIEdNIHRlbGwgaGlzIHN0b3J5LCBhbmQgc2hvdWxkIG5ldmVyIGJlIGEgaGluZHJhbmNlIHRvIHBsYXkuIElmIHJldmlzaW5nIHRoZSBydWxlcyBvciByZXdvcmtpbmcgdGhlbSB0byBiZXR0ZXIgc3VpdCBhIHNpdHVhdGlvbiBpbXByb3ZlcyBhbiBhZHZlbnR1cmUsIHRoZSBHTSBpcyB3aXRoaW4gaGlzIHJpZ2h0cyB0byBtYWtlIGFueSBhZGp1c3RtZW50cyBoZSBzZWVzIGZpdC4gQXQgdGhlIHNpbXBsZXN0IGxldmVsLCBzdWNoIGNoYW5nZXMgbWlnaHQgYmUgcHVyZWx5IGNvc21ldGlj4oCUdXNpbmcgdGhlIHN0YXRzIG9mIGFuIGV4aXN0aW5nIG1vbnN0ZXIgd2hpbGUgZGVzY3JpYmluZyBzb21lIG5ldyB0aHJlYXQsIG9yIGRlc2NyaWJpbmcgYSBtYWdpYyBpdGVtIGRpZmZlcmVudGx5IGZyb20gaXRzIHR5cGljYWwgaW50ZXJwcmV0YXRpb24sIGZvciBleGFtcGxlLiBJbiBvdGhlciBjYXNlcywgYWN0dWFsIHJ1bGVzIG1pZ2h0IGJlIGFsdGVyZWQgYXMgdGhlIEdNIGNob29zZXMsIHRob3VnaCB0aGUgYmFsYW5jZSBhbmQgZmFpcm5lc3Mgb2YgdGhlIGdhbWUgc2hvdWxkIGFsd2F5cyByZW1haW4gYSBjb25zaWRlcmF0aW9uLiBUaGVyZeKAmXMgbm90aGluZyB3cm9uZyB3aXRoIGluY3JlYXNpbmcgdGhlIGhpdCBwb2ludHMgb2YgYSBtYWpvciB2aWxsYWluIG9yIG1vbnN0ZXIgaWYgdGhlIFBDcyByaXNrIGJyZWV6aW5nIHRocm91Z2ggYSBjYW1wYWlnbuKAmXMgY2xpbWF4LCBvciBpbmNyZWFzaW5nIHRoZSBEQyBvZiBhIGRpc2Vhc2UgbWVhbnQgdG8gYmUgZXNwZWNpYWxseSB2aXJ1bGVudC4gSW4gc3VjaCBjYXNlcywgdGhvdWdoLCB0aGUgR00gc2hvdWxkIGNvbnNpZGVyIGlmIG5vdCBtYWtpbmcgYSBjaGFuZ2UgaXMgYWN0dWFsbHkgYmFkIGZvciBhIGdhbWUuIFNvbWV0aW1lcyByZWFsIGhlcm9lcyBzbGF5IGEgZHJhZ29uIGluIGEgc2luZ2xlIHJvdW5kIG9yIHNocnVnIG9mZiB0aGUgd29ybGQtcmF2YWdpbmcgcGxhZ3VlLCBhbmQgc3VjaCB0aGluZ3MgbWFrZSB0aGUgcGxheWVycyBmZWVsIHNwZWNpYWwgYW5kIHJlbWFpbiBtZW1vcmFibGUgbG9uZyBhZnRlciB0aGUgYWR2ZW50dXJlIGVuZHMuPGJyIC8+PGJyIC8+IE9jY2FzaW9uYWxseSwgdGhvdWdoLCBhbiBhZHZlbnR1cmUgbWlnaHQgY2FsbCBmb3IgYSBjaGFuZ2UgdGhhdCBhIGNvc21ldGljIGFsdGVyYXRpb24gb3IgYSByYW5kb20gYWRqdXN0bWVudCB3b27igJl0IHNhdGlzZnkuIEluIHN1Y2ggY2FzZXMsIEdNcyBoYXZlIHRoZSBvcHRpb24gb2YgY3JlYXRpbmcgdGhlaXIgb3duIHNpbXBsZSBzdWJzeXN0ZW1zIHRvIGhhbmRsZSBleGFjdGx5IHRoZSBjaXJjdW1zdGFuY2UgdGhleSBkZXNpcmUuIEFzaWRlIGZyb20gd2hhdCBhIEdNIGRldGVybWluZXMsIHRoZXJl4oCZcyBubyBvdGhlciBhdXRob3JpdHkgdGhhdCBhIHJ1bGUgb3Igc3Vic3lzdGVtIG11c3QgYXBwZWFzZSBmb3IgdXNlIGluIGEgZ2FtZS4gV2hpbGUgcHVibGlzaGVkIHJ1bGVzIHR5cGljYWxseSBoYXZlIHRoZSBiZW5lZml0IG9mIHByb2Zlc3Npb25hbCBkZXNpZ24gYW5kIGV4dGVuc2l2ZSBwbGF5dGVzdGluZywgdGhlcmXigJlzIG5vdGhpbmcgcHJldmVudGluZyBhbnkgR00gZnJvbSBkZXNpZ25pbmcgaGlzIG93biBjb21wb25lbnRzLiBUaGlzIGNvdWxkIGJlIGJhc2ljLCBsaWtlIHVzaW5nIGV4aXN0aW5nIHJ1bGVzIHRvIGNyZWF0ZSBtYWdpYyBpdGVtcyBvciBtb25zdGVyczsgbW9yZSBjb21wbGV4LCBsaWtlIHVzaW5nIGV4aXN0aW5nIHNwZWxscyBhcyBndWlkZWxpbmVzIHRvIGNyZWF0ZSBuZXcgb25lczsgb3Igd2hvbGx5IG5ldywgbGlrZSBtYW55IG9mIHRoZSBzdWJzeXN0ZW1zIGluIHRoaXMgY2hhcHRlci4gV2hpbGUgR01zIHVuY29tZm9ydGFibGUgd2l0aCB0aGUgZGV0YWlscyBvZiBhIGdhbWUgbWF5IHdhbnQgdG8ga2VlcCB0aGluZ3Mgc2ltcGxlIG9yIG1pbWljIGV4aXN0aW5nIHJ1bGVzLCB0aG9zZSBtb3JlIGV4cGVyaWVuY2VkIG1pZ2h0IGF0dGVtcHQgdG8gZGVzaWduIGFueSBlbGVtZW50IHRoZXkgZmVlbCBjb3VsZCBpbXByb3ZlIHRoZWlyIGdhbWUuPGJyIC8+PGJyIC8+IERlc2lnbmluZyBuZXcgZWxlbWVudHMgZm9yIG9uZeKAmXMgZ2FtZSBkb2VzbuKAmXQgbmVlZCB0byBiZSBkYXVudGluZywgYW5kIHRha2luZyBjdWVzIGZyb20gZXhpc3RpbmcgZXhhbXBsZXMgc2VydmVzIGFzIGEgZmFudGFzdGljIGRlcGFydHVyZSBwb2ludC4gQSBHTSBtaWdodCBkZXNpZ24gd2FuZGVyaW5nIG1vbnN0ZXIgdGFibGVzIGZvciBoaXMgc3BlY2lmaWMgYWR2ZW50dXJlLCBjdXN0b21pemUgYSBuZXcga2luZCBvZiBzdGFmZiBmb3IgYSB2aWxsYWluLCBvciBjcmVhdGUgYSBuZXcga2luZCBvZiBmbGFtaW5nIHRvcm5hZG8gaGF6YXJkIGZvciBhIHNpZGUgdHJlayBvbnRvIHRoZSBQbGFuZSBvZiBGaXJlLiBJbiBlYWNoIG9mIHRoZXNlIGNhc2VzLCB0ZW1wbGF0ZXMgb3IgY29tcG9uZW50cyBleGlzdCBmb3Igc3VjaCBlbGVtZW50cywgcmVxdWlyaW5nIGp1c3QgYSBiaXQgb2YgY3VzdG9taXppbmcgb24gdGhlIHBhcnQgb2YgdGhlIEdNLCB5ZXQgZmVlbGluZyBjb21wbGV0ZWx5IHVuaXF1ZSB0byB0aGUgcGxheWVyc+KAlHdoaWNoIGlzIGFsbCB0aGUgbWF0dGVycy4gT24gdGhlIG90aGVyIHNpZGUgb2YgdGhlIHNwZWN0cnVtLCBzaG91bGQgdGhlIEdNIGhhdmUgbmVlZCBvZiBjb21wbGV4IHJ1bGVzIGZvciBhcmd1aW5nIGluIGNvdXJ0LCBjbGltYmluZyBvbiB0aXRhbmljIGJlYXN0cywgb3IgZmlyaW5nIGEgbGFzZXIgY2Fub24sIGhlIG1pZ2h0IGJlIGZvcmNlZCB0byByZWx5IG9uIGhpcyBvd24gaW5nZW51aXR5LiBJbiBzdWNoIGNhc2VzLCBzaW1wbGUsIGZsZXhpYmxlIHN5c3RlbXMgdGVuZCB0byB3b3JrIGJlc3QsIGVzcGVjaWFsbHkgd2hlbiB0aGV5IHJlbHkgdXBvbiBlc3RhYmxpc2hlZCBydWxlcy4gSW4gdGhlIGNhc2Ugb2YgY291cnRseSBhcmd1bWVudHMsIG9uZSBtaWdodCBkZXZpc2UgYSBzY2FsZSBmb3IgYSBraW5n4oCZcyBvcGluaW9uLCBhbmQgaGF2ZSB0aGUgYWN0aW9ucyBhbmQgdXJnaW5ncyBvZiBQQ3MgYW5kIE5QQ3MgYWZmZWN0IHRoZSBzY2FsZSBpbiBvbmUgd2F5IG9yIGFub3RoZXIsIGNyZWF0aW5nIGEgbW9yZSBudWFuY2VkIHN5c3RlbSBmb3IgYXJndW1lbnQgdGhhbiBhIG1lcmUgRGlwbG9tYWN5IGNoZWNrLiBHTXMgc2hvdWxkIHRyeSB0byB0ZXN0IHRoZWlyIHJ1bGVzIHN5c3RlbXMgYmVmb3JlIGdhbWVzIGJlZ2luLCBjb21wYXJlIHRoZW0gdG8gZXhpc3RpbmcgcnVsZXMsIGFuZCB0aGVuIGxldCB0aGUgcGxheWVycyBrbm93IHRoYXQgdGhleeKAmXJlIHRyeWluZyBydWxlcyB0aGUgR00gaGFzIGNyZWF0ZWQgaGltc2VsZi4gSWYgdGhpbmdzIGdvIHBvb3JseSwgdGhlIEdNIGNhbiBhZGp1c3QgZWxlbWVudHMgb24gdGhlIGZseSBvciBldmVuIGFiYW5kb24gdGhlIHN5c3RlbSBpbiBmYXZvciBvZiBtb3JlIHN0YW5kYXJkIHJ1bGVz4oCUYW5kIGdvIGJhY2sgdG8gdGhlIGRyYXdpbmcgYm9hcmQgYWZ0ZXIgdGhlIGdhbWUuIElmIHRoaW5ncyBnbyB3ZWxsLCB0aG91Z2gsIHRoZSBHTSBtaWdodCBzb2xpY2l0IGZlZWRiYWNrIGFuZCBtYWtlIGFkZGl0aW9uYWwgYWRqdXN0bWVudHMsIHRpbmtlcmluZyB1bnRpbCBoZeKAmXMgZGV2aXNlZCBhIHVzZWZ1bCBuZXcgdG9vbC48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTg3MyI+V2hlbiB0byBEaXNndWlzZT88L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiAyMzE8L2k+PC9hPjxiciAvPk9mdGVuIHRoZSBhcHBlYXJhbmNlIG9mIGEgcnVsZSB3b3JrcyBqdXN0IGFzIHdlbGwgYXMgYSBydWxlLiBGb3IgYSBHTSBmYWNlZCB3aXRoIGEgc2l0dWF0aW9uIGZvciB3aGljaCB0aGVyZSBzZWVtcyB0byBiZSBubyBvYnZpb3VzIHJlZmVyZW5jZSBpbiB0aGUgZ2FtZeKAmXMgcnVsZXMsIHlldCB3aG8gYWxzbyBsYWNrcyB0aGUgdGltZSBvciBpbnRlcmVzdCBuZWVkZWQgdG8gY3JlYXRlIGEgbmV3IHN1YnN5c3RlbSwgZ29vZCBzdG9yeXRlbGxpbmcsIGV2ZW4taGFuZGVkIGFyYml0cmF0aW9uLCBhbmQgYSBiaXQgb2YgZGVjZXB0aW9uIGNhbiB0eXBpY2FsbHkgc29sdmUgdGhlIHByb2JsZW0gYW5kIGtlZXAgYSBnYW1lIG1vdmluZyBhbG9uZy4gV2hlbiBuZWVkIGZvciBhIG5ldyBydWxlcyBlbGVtZW50IHVuZXhwZWN0ZWRseSBjb21lcyB1cCBtaWQtZ2FtZSwgdGhhdOKAmXMgcmFyZWx5IHRoZSB0aW1lIHRvIHN0b3AgYW5kIGJlZ2luIGRlc2lnbmluZyBuZXcgcnVsZXMuIFdoaWxlIHlvdSBjYW4gZWFzaWx5IG1ha2UgYSBmZXcgY29zbWV0aWMgY2hhbmdlcyB0byBleGlzdGluZyBydWxlcyBhbmQgc3RhdCBibG9ja3MgaWYgeW91IGtub3cgb2YgZWxlbWVudHMgdGhhdCBtaWdodCBzZXJ2ZSBhcyBnb29kIHN0YW5kLWlucywgc29tZXRpbWVzIHBsYXllcnMgY29tZSB1cCB3aXRoIHBsYW5zIG5vIHJ1bGVzIHN5c3RlbSBjb3VsZCBhY2NvdW50IGZvci4gU2F5IGEgUEMgd2lzaGVzIHRvIHJ1biwgbGVhcCBvZmYgYSBjbGlmZiwgYW5kIGF0dGFjayBhIGRyYWdvbiBzb2FyaW5nIHBhc3QsIGRpZ2dpbmcgaW4gaGlzIGF4ZSB0byBtYWludGFpbiBhIGhvbGQgb24gdGhlIHNvYXJpbmcgYmVhc3QuIFdoaWxlIHJ1bGVzIGV4aXN0IGZvciBlbGVtZW50cyBvZiB0aGUgYWN0aW9uLCBzdGlja2luZyBhbmQgaGFuZ2luZyBvbnRvIGEgd2VhcG9uIGVtYmVkZGVkIGluIGFub3RoZXIgY3JlYXR1cmUgaXMgbm90IHBhcnQgb2YgdGhlIGdhbWUgc3lzdGVtLiBZZXQgcmF0aGVyIHRoYW4gZGVueWluZyBhIGNoYXJhY3RlciB0aGUgb3Bwb3J0dW5pdHkgdG8gYXR0ZW1wdCBhIGhlcm9pYyBmZWF0LCB5b3UgY291bGQgZWFzaWx5IHJlbHkgb24gdGhlIHJlc3VsdHMgb2YgdGhlIHJ1bGVzIHlvdSBkbyBrbm93IHRvIGFyYml0cmF0ZSB0aG9zZSB5b3UgZG9u4oCZdC4gRm9yIGV4YW1wbGUsIGlmIHRoZSBzYW1lIGNoYXJhY3RlciByb2xscyBoaWdoIG9uIGhpcyBBY3JvYmF0aWNzIHNraWxsIGNoZWNrIGFuZCBzaWduaWZpY2FudGx5IGV4Y2VlZHMgaGlzIHRhcmdldOKAmXMgQUMgd2l0aCBoaXMgYXR0YWNrLCB5b3UgY291bGQgZGVjbGFyZSB0aGF0IGhlciBwbGFuIHdvcmtzIGFuZCBzaGXigJlzIG5vdyBiZWluZyBkcmFnZ2VkIGFsb25nIGJ5IHRoZSBkcmFnb24uIEFsdGVybmF0aXZlbHksIGlmIHRoZSBQQyBib3RjaGVzIGVpdGhlciByb2xsLCBzaGUgbWlnaHQgYmUgaW4gZm9yIGEgbG9uZyBmYWxsLiBFaXRoZXIgd2F5LCBpbnRlcnByZXRpbmcgZXhpc3RpbmcgcnVsZXMgaW4gYW4gdW5jb252ZW50aW9uYWwgd2F5LCBvciBldmVuIGp1c3QgY2FsbGluZyBmb3IgYW4gYWJpbGl0eSBjaGVjayB0byBzdWdnZXN0IGVpdGhlciBhIGdvb2Qgb3IgcG9vciByZXN1bHQsIGNhbiBzYXZlIHlvdSBmcm9tIHBhZ2luZyB0aHJvdWdoIHZvbHVtZXMgb2YgcnVsZXMgdHJ5aW5nIHRvIGZpbmQgYSBub25leGlzdGVudCBwZXJmZWN0IGZpdC4gQW5kIHdpdGggc29tZSBzaHVmZmxpbmcgb2Ygbm90ZXMgYW5kIGhpZGRlbiBkaWNlIHJvbGVzLCBubyBwbGF5ZXIgc2hvdWxkIGJlIHRoZSB3aXNlciB0byBzdWNoIGFuIGltcHJvdmlzZWQgcnVsaW5nLmRkZH+WjWyMUv/7nGbDQvPRTG7ILoAgRoZPq7kZJQquXk8v" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=454">GameMastery Guide</a></u> / <u><a href="Rules.aspx?ID=870">Advanced Topics</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=871">Customizing Your Game</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 230</i></a><br />Roleplaying games are, at their cores, simulations, with most rules focusing on how to perform epic feats and participate in the fantastic adventures of legendary heroes. Thus, games like the Pathfinder RPG highlight the most common elements of fantasy stories: battle, magic, monsters, and the like, detailing facets of the simulation that benefit from or require more detail than a GM might comfortably arbitrate on his own. The <i>Pathfinder RPG Core Rulebook</i> gives GMs the tools they need to run countless adventures, and serves as a toolbox to help you create nearly any fantasy situation imaginable. Yet no rules set can anticipate every specific situation. Rather than just glossing over situations not discussed in the rules, in many cases, GMs employ specialized subsystems to add new layers of excitement and precision to their adventures. Thus, adjudicating a pursuit through a crowded city might become an exhilarating new game within the game while a fortune-telling session takes on new realism by drawing upon well-known tricks of the trade.<br /><br /> In an attempt to better equip GMs with more exciting options for their campaigns, this chapter presents a variety of new subsystems, as well as advice to make running common fantasy encounters easier. While some sections offer more detailed explanations and uses of existing rules, others present altogether new rules, while still others explain the methods behind creating common story elements. In any case, this chapter strives to aid GMs seeking to craft more exciting and evocative games, but does not claim to be inclusive of all the situations that might arise in an adventure. Rather, GMs should utilize these new rules and details in the same way they might use those in the <i>Pathfinder RPG Core Rulebook</i>, employing them as written when possible or altering them to serve as departure points customized to specific stories, or as the basis for wholly unique subsystems.<br /><h1 class="title"><a href="Rules.aspx?ID=872">When to Design?</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 230</i></a><br />Part of a GM’s fun is not just coming up with exciting adventures, but devising new ways to present his adventures. While Chapter 2 discusses many techniques a GM might use to make his campaign more captivating, good organization, tracking tools, handouts, and the like aren’t always enough. Sometimes, a GM might find that there’s no perfect fit within the existing rules for an encounter, creature, or other element he’d like to include. Yet rather than being deterred and having to reimagine his adventure, it’s completely within the GM’s purview to get creative with the rules to make what he wants or a campaign needs. Ultimately, while the Pathfinder RPG’s rules are designed for ease of use and to promote fairness in a game, they exist to help a GM tell his story, and should never be a hindrance to play. If revising the rules or reworking them to better suit a situation improves an adventure, the GM is within his rights to make any adjustments he sees fit. At the simplest level, such changes might be purely cosmetic—using the stats of an existing monster while describing some new threat, or describing a magic item differently from its typical interpretation, for example. In other cases, actual rules might be altered as the GM chooses, though the balance and fairness of the game should always remain a consideration. There’s nothing wrong with increasing the hit points of a major villain or monster if the PCs risk breezing through a campaign’s climax, or increasing the DC of a disease meant to be especially virulent. In such cases, though, the GM should consider if not making a change is actually bad for a game. Sometimes real heroes slay a dragon in a single round or shrug off the world-ravaging plague, and such things make the players feel special and remain memorable long after the adventure ends.<br /><br /> Occasionally, though, an adventure might call for a change that a cosmetic alteration or a random adjustment won’t satisfy. In such cases, GMs have the option of creating their own simple subsystems to handle exactly the circumstance they desire. Aside from what a GM determines, there’s no other authority that a rule or subsystem must appease for use in a game. While published rules typically have the benefit of professional design and extensive playtesting, there’s nothing preventing any GM from designing his own components. This could be basic, like using existing rules to create magic items or monsters; more complex, like using existing spells as guidelines to create new ones; or wholly new, like many of the subsystems in this chapter. While GMs uncomfortable with the details of a game may want to keep things simple or mimic existing rules, those more experienced might attempt to design any element they feel could improve their game.<br /><br /> Designing new elements for one’s game doesn’t need to be daunting, and taking cues from existing examples serves as a fantastic departure point. A GM might design wandering monster tables for his specific adventure, customize a new kind of staff for a villain, or create a new kind of flaming tornado hazard for a side trek onto the Plane of Fire. In each of these cases, templates or components exist for such elements, requiring just a bit of customizing on the part of the GM, yet feeling completely unique to the players—which is all the matters. On the other side of the spectrum, should the GM have need of complex rules for arguing in court, climbing on titanic beasts, or firing a laser canon, he might be forced to rely on his own ingenuity. In such cases, simple, flexible systems tend to work best, especially when they rely upon established rules. In the case of courtly arguments, one might devise a scale for a king’s opinion, and have the actions and urgings of PCs and NPCs affect the scale in one way or another, creating a more nuanced system for argument than a mere Diplomacy check. GMs should try to test their rules systems before games begin, compare them to existing rules, and then let the players know that they’re trying rules the GM has created himself. If things go poorly, the GM can adjust elements on the fly or even abandon the system in favor of more standard rules—and go back to the drawing board after the game. If things go well, though, the GM might solicit feedback and make additional adjustments, tinkering until he’s devised a useful new tool.<br /><h1 class="title"><a href="Rules.aspx?ID=873">When to Disguise?</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 231</i></a><br />Often the appearance of a rule works just as well as a rule. For a GM faced with a situation for which there seems to be no obvious reference in the game’s rules, yet who also lacks the time or interest needed to create a new subsystem, good storytelling, even-handed arbitration, and a bit of deception can typically solve the problem and keep a game moving along. When need for a new rules element unexpectedly comes up mid-game, that’s rarely the time to stop and begin designing new rules. While you can easily make a few cosmetic changes to existing rules and stat blocks if you know of elements that might serve as good stand-ins, sometimes players come up with plans no rules system could account for. Say a PC wishes to run, leap off a cliff, and attack a dragon soaring past, digging in his axe to maintain a hold on the soaring beast. While rules exist for elements of the action, sticking and hanging onto a weapon embedded in another creature is not part of the game system. Yet rather than denying a character the opportunity to attempt a heroic feat, you could easily rely on the results of the rules you do know to arbitrate those you don’t. For example, if the same character rolls high on his Acrobatics skill check and significantly exceeds his target’s AC with his attack, you could declare that her plan works and she’s now being dragged along by the dragon. Alternatively, if the PC botches either roll, she might be in for a long fall. Either way, interpreting existing rules in an unconventional way, or even just calling for an ability check to suggest either a good or poor result, can save you from paging through volumes of rules trying to find a nonexistent perfect fit. And with some shuffling of notes and hidden dice roles, no player should be the wiser to such an improvised ruling.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

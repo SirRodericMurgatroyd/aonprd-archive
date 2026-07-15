@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Wild Magic - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Wild Magic" /><meta name="description" content="Though many spellcasters like to consider their use of magic a science, the effects of magic are not always easy to predict. Wild, uncontrolled magic sometimes surges as a side effect of spellcasting or magical experimentation. Wild magic can be used in any situation where magic might cause randomness and chaotic effects. When a character casts a spell or takes an action that could trigger a surge of wild magic (see Implementing Wild Magic below), roll on Table 4–4: Wild Magic Surge.&lt;br />&lt;br /> Roll to determine the surge effect before the spell is cast, but apply the effect after the spell is cast unless it alters the spell itself in some way (such as changing the effective caster level). Any reference on the table to the spell or the spell’s level applies to the spell being cast, supernatural ability being used, or magic item effect being activated. Similarly, any reference to the caster applies to the character who triggers the surge. If an effect requires a caster level, use the caster’s full character level.&lt;br />&lt;br /> If the wild magic surge effect you roll isn’t possible due to the nature of the spell or effect, roll instead on Table 4–5: Universal Surge Effects. A wild magic surge effect doesn’t allow a saving throw, even if it’s replicating a spell that normally would, and any effect that would normally have a limit on the amount of Hit Dice it can affect ignores that limit. Higher results on the table are more likely to be beneficial, so a GM might give a bonus or penalty on the check if an action would alter how likely it is that the wild magic surge would be helpful. &lt;br />&lt;br /> &lt;h2>Table 4-4: Wild Magi Surge&lt;/h2> &lt;table class=&quot;inner&quot;> &lt;tr>&lt;td>&lt;b>d%&lt;/b>&lt;/td>&lt;td>&lt;b>Surge Effect&lt;/b>&lt;/td>&lt;/tr>&lt;tr>&lt;td>01-02&lt;/td>&lt;td>The caster takes 1d6 points of damage per spell level.&lt;/td>&lt;/tr>&lt;tr>&lt;td>03-04&lt;/td>&lt;td>The caster is affected by a &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=slow&quot;>&lt;i>slow&lt;/i>&lt;/a> spell for 5 rounds.&lt;/td>&lt;/tr>&lt;tr>&lt;td>05&lt;/td>&lt;td>The spell takes effect at a random location within the spell’s range.&lt;/td>&lt;/tr>&lt;tr>&lt;td>06&lt;/td>&lt;td>The caster is confused for 1 round (as &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=confusion&quot;>&lt;i>confusion&lt;/i>&lt;/a>).&lt;/td>&lt;/tr>&lt;tr>&lt;td>07&lt;/td>&lt;td>The caster takes 1 point of Constitution bleed.&lt;/td>&lt;/tr>&lt;tr>&lt;td>08&lt;/td>&lt;td>The caster takes 1 point of ability bleed that matches her spellcasting ability score (determine randomly if the creature isn’t a spellcaster).&lt;/td>&lt;/tr>&lt;tr>&lt;td>09-10&lt;/td>&lt;td>The caster is dazed for 1 round (as &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=daze monster&quot;>&lt;i>daze monster&lt;/i>&lt;/a>).&lt;/td>&lt;/tr>&lt;tr>&lt;td>11-12&lt;/td>&lt;td>The spell deals half as much damage as normal.&lt;/td>&lt;/tr>&lt;tr>&lt;td>13&lt;/td>&lt;td>The caster takes 1d4 points of bleed damage.&lt;/td>&lt;/tr>&lt;tr>&lt;td>14&lt;/td>&lt;td>The caster falls asleep for 1 minute (as &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=sleep&quot;>&lt;i>sleep&lt;/i>&lt;/a>).&lt;/td>&lt;/tr>&lt;tr>&lt;td>15-16&lt;/td>&lt;td>The caster can’t cast or concentrate on spells for 1 round.&lt;/td>&lt;/tr>&lt;tr>&lt;td>17&lt;/td>&lt;td>The caster is affected by &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=reduce person&quot;>&lt;i>reduce person&lt;/i>&lt;/a> for 1 minute.&lt;/td>&lt;/tr>&lt;tr>&lt;td>18-19&lt;/td>&lt;td>The caster becomes sickened for 5 rounds.&lt;/td>&lt;/tr>&lt;tr>&lt;td>20&lt;/td>&lt;td>A &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=zone of truth&quot;>&lt;i>zone of truth&lt;/i>&lt;/a> appears, centered on the caster.&lt;/td>&lt;/tr>&lt;tr>&lt;td>21-29&lt;/td>&lt;td>The caster is affected as if targeted by the spell.&lt;/td>&lt;/tr>&lt;tr>&lt;td>30-32&lt;/td>&lt;td>All targets of the spell are affected by &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=restoration, lesser&quot;>&lt;i>lesser restoration&lt;/i>&lt;/a>.&lt;/td>&lt;/tr>&lt;tr>&lt;td>33-38&lt;/td>&lt;td>All targets of the spell are healed of 1d8+1 points of damage. This is a positive energy effect.&lt;/td>&lt;/tr>&lt;tr>&lt;td>39-43&lt;/td>&lt;td>The spell’s area or the targets of the spell become affected by &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=silence&quot;>&lt;i>silence&lt;/i>&lt;/a> for 3 rounds.&lt;/td>&lt;/tr>&lt;tr>&lt;td>44-50&lt;/td>&lt;td>All targets of the spell become invisible for 1 round (as &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=invisibility&quot;>&lt;i>invisibility&lt;/i>&lt;/a>).&lt;/td>&lt;/tr>&lt;tr>&lt;td>51-58&lt;/td>&lt;td>The area of the spell is filled with &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=daylight&quot;>&lt;i>daylight&lt;/i>&lt;/a>.&lt;/td>&lt;/tr>&lt;tr>&lt;td>59-64&lt;/td>&lt;td>A &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=shatter&quot;>&lt;i>shatter&lt;/i>&lt;/a> spell affects a 5-foot radius around each target of the spell (or the spell’s area).&lt;/td>&lt;/tr>&lt;tr>&lt;td>65-71&lt;/td>&lt;td>The spell’s area is coated in &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=grease&quot;>&lt;i>grease&lt;/i>&lt;/a>.&lt;/td>&lt;/tr>&lt;tr>&lt;td>72-74&lt;/td>&lt;td>One random tree or animal targeted by the spell or in the spell’s area is affected by &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=awaken&quot;>&lt;i>awaken&lt;/i>&lt;/a>.&lt;/td>&lt;/tr>&lt;tr>&lt;td>75-78&lt;/td>&lt;td>An instrument appears adjacent to each target (as &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=summon instrument&quot;>&lt;i>summon instrument&lt;/i>&lt;/a>).&lt;/td>&lt;/tr>&lt;tr>&lt;td>79-80&lt;/td>&lt;td>Every door within 100 feet of the caster is affected by a &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=knock&quot;>&lt;i>knock&lt;/i>&lt;/a> spell.&lt;/td>&lt;/tr>&lt;tr>&lt;td>81-83&lt;/td>&lt;td>The caster teleports to a square of her choice adjacent to the spell’s target or within the spell’s area.&lt;/td>&lt;/tr>&lt;tr>&lt;td>84-86&lt;/td>&lt;td>The next spell targeting the caster is turned back, as &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=spell turning&quot;>&lt;i>spell turning&lt;/i>&lt;/a>.&lt;/td>&lt;/tr>&lt;tr>&lt;td>87-90&lt;/td>&lt;td>The caster gains 2d6 temporary hit points that last 1 hour and don’t stack with any other temporary hit points.&lt;/td>&lt;/tr>&lt;tr>&lt;td>91-92&lt;/td>&lt;td>A random creature from the &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=summon monster 1&quot;>&lt;i>summon monster I&lt;/i>&lt;/a> list is summoned in a square adjacent to the caster. It is under the caster’s control.&lt;/td>&lt;/tr>&lt;tr>&lt;td>93-95&lt;/td>&lt;td>The caster is affected by tongues for 10 minutes.&lt;/td>&lt;/tr>&lt;tr>&lt;td>96-97&lt;/td>&lt;td>The caster is affected by haste for 5 rounds.&lt;/td>&lt;/tr>&lt;tr>&lt;td>98&lt;/td>&lt;td>The spell is &lt;a style=&quot;text-decoration:underline&quot; href=&quot;FeatDisplay.aspx?ItemName=Extend Spell&quot;>extended&lt;/a>.&lt;/td>&lt;/tr>&lt;tr>&lt;td>99&lt;/td>&lt;td>The spell is &lt;a style=&quot;text-decoration:underline&quot; href=&quot;FeatDisplay.aspx?ItemName=Maximize Spell&quot;>maximized&lt;/a>.&lt;/td>&lt;/tr>&lt;tr>&lt;td>100&lt;/td>&lt;td>The spell slot used to cast the spell is not expended.&lt;/td>&lt;/tr>&lt;/table> &lt;br />&lt;br /> &lt;h2>Table 4-5: Universal Surge Effects&lt;/h2> &lt;table class=&quot;inner&quot;> &lt;tr>&lt;td>&lt;b>d%&lt;/b>&lt;/td>&lt;td>&lt;b>Surge Effect&lt;/b>&lt;/td>&lt;/tr>&lt;tr>&lt;td>01-20&lt;/td>&lt;td>The caster takes 1d6 points of damage that can’t be prevented in any way.&lt;/td>&lt;/tr>&lt;tr>&lt;td>21-80&lt;/td>&lt;td>The caster is affected by &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=faerie fire&quot;>&lt;i>faerie fire&lt;/i>&lt;/a> for 1 round.&lt;/td>&lt;/tr>&lt;tr>&lt;td>81-100&lt;/td>&lt;td>The caster gains 1d6 temporary hit points that last for 1 hour. These don’t stack with other temporary hit points.&lt;/td>&lt;/tr>&lt;/table> &lt;br />&lt;br />" /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=1933" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWZSjx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTcyNSI+UGF0aGZpbmRlciBVbmNoYWluZWQ8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTkyOCI+U3BlbGwgQWx0ZXJhdGlvbnM8L2E+PC91PjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTkzMyI+V2lsZCBNYWdpYzwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWMyNT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtUGF0aGZpbmRlci1VbmNoYWluZWQiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UGF0aGZpbmRlciBVbmNoYWluZWQgcGcuIDE0NzwvaT48L2E+PGJyIC8+VGhvdWdoIG1hbnkgc3BlbGxjYXN0ZXJzIGxpa2UgdG8gY29uc2lkZXIgdGhlaXIgdXNlIG9mIG1hZ2ljIGEgc2NpZW5jZSwgdGhlIGVmZmVjdHMgb2YgbWFnaWMgYXJlIG5vdCBhbHdheXMgZWFzeSB0byBwcmVkaWN0LiBXaWxkLCB1bmNvbnRyb2xsZWQgbWFnaWMgc29tZXRpbWVzIHN1cmdlcyBhcyBhIHNpZGUgZWZmZWN0IG9mIHNwZWxsY2FzdGluZyBvciBtYWdpY2FsIGV4cGVyaW1lbnRhdGlvbi4gV2lsZCBtYWdpYyBjYW4gYmUgdXNlZCBpbiBhbnkgc2l0dWF0aW9uIHdoZXJlIG1hZ2ljIG1pZ2h0IGNhdXNlIHJhbmRvbW5lc3MgYW5kIGNoYW90aWMgZWZmZWN0cy4gV2hlbiBhIGNoYXJhY3RlciBjYXN0cyBhIHNwZWxsIG9yIHRha2VzIGFuIGFjdGlvbiB0aGF0IGNvdWxkIHRyaWdnZXIgYSBzdXJnZSBvZiB3aWxkIG1hZ2ljIChzZWUgSW1wbGVtZW50aW5nIFdpbGQgTWFnaWMgYmVsb3cpLCByb2xsIG9uIFRhYmxlIDTigJM0OiBXaWxkIE1hZ2ljIFN1cmdlLjxiciAvPjxiciAvPiBSb2xsIHRvIGRldGVybWluZSB0aGUgc3VyZ2UgZWZmZWN0IGJlZm9yZSB0aGUgc3BlbGwgaXMgY2FzdCwgYnV0IGFwcGx5IHRoZSBlZmZlY3QgYWZ0ZXIgdGhlIHNwZWxsIGlzIGNhc3QgdW5sZXNzIGl0IGFsdGVycyB0aGUgc3BlbGwgaXRzZWxmIGluIHNvbWUgd2F5IChzdWNoIGFzIGNoYW5naW5nIHRoZSBlZmZlY3RpdmUgY2FzdGVyIGxldmVsKS4gQW55IHJlZmVyZW5jZSBvbiB0aGUgdGFibGUgdG8gdGhlIHNwZWxsIG9yIHRoZSBzcGVsbOKAmXMgbGV2ZWwgYXBwbGllcyB0byB0aGUgc3BlbGwgYmVpbmcgY2FzdCwgc3VwZXJuYXR1cmFsIGFiaWxpdHkgYmVpbmcgdXNlZCwgb3IgbWFnaWMgaXRlbSBlZmZlY3QgYmVpbmcgYWN0aXZhdGVkLiBTaW1pbGFybHksIGFueSByZWZlcmVuY2UgdG8gdGhlIGNhc3RlciBhcHBsaWVzIHRvIHRoZSBjaGFyYWN0ZXIgd2hvIHRyaWdnZXJzIHRoZSBzdXJnZS4gSWYgYW4gZWZmZWN0IHJlcXVpcmVzIGEgY2FzdGVyIGxldmVsLCB1c2UgdGhlIGNhc3RlcuKAmXMgZnVsbCBjaGFyYWN0ZXIgbGV2ZWwuPGJyIC8+PGJyIC8+IElmIHRoZSB3aWxkIG1hZ2ljIHN1cmdlIGVmZmVjdCB5b3Ugcm9sbCBpc27igJl0IHBvc3NpYmxlIGR1ZSB0byB0aGUgbmF0dXJlIG9mIHRoZSBzcGVsbCBvciBlZmZlY3QsIHJvbGwgaW5zdGVhZCBvbiBUYWJsZSA04oCTNTogVW5pdmVyc2FsIFN1cmdlIEVmZmVjdHMuIEEgd2lsZCBtYWdpYyBzdXJnZSBlZmZlY3QgZG9lc27igJl0IGFsbG93IGEgc2F2aW5nIHRocm93LCBldmVuIGlmIGl04oCZcyByZXBsaWNhdGluZyBhIHNwZWxsIHRoYXQgbm9ybWFsbHkgd291bGQsIGFuZCBhbnkgZWZmZWN0IHRoYXQgd291bGQgbm9ybWFsbHkgaGF2ZSBhIGxpbWl0IG9uIHRoZSBhbW91bnQgb2YgSGl0IERpY2UgaXQgY2FuIGFmZmVjdCBpZ25vcmVzIHRoYXQgbGltaXQuIEhpZ2hlciByZXN1bHRzIG9uIHRoZSB0YWJsZSBhcmUgbW9yZSBsaWtlbHkgdG8gYmUgYmVuZWZpY2lhbCwgc28gYSBHTSBtaWdodCBnaXZlIGEgYm9udXMgb3IgcGVuYWx0eSBvbiB0aGUgY2hlY2sgaWYgYW4gYWN0aW9uIHdvdWxkIGFsdGVyIGhvdyBsaWtlbHkgaXQgaXMgdGhhdCB0aGUgd2lsZCBtYWdpYyBzdXJnZSB3b3VsZCBiZSBoZWxwZnVsLiA8YnIgLz48YnIgLz4gPGgyPlRhYmxlIDQtNDogV2lsZCBNYWdpIFN1cmdlPC9oMj4gPHRhYmxlIGNsYXNzPSJpbm5lciI+IDx0cj48dGQ+PGI+ZCU8L2I+PC90ZD48dGQ+PGI+U3VyZ2UgRWZmZWN0PC9iPjwvdGQ+PC90cj48dHI+PHRkPjAxLTAyPC90ZD48dGQ+VGhlIGNhc3RlciB0YWtlcyAxZDYgcG9pbnRzIG9mIGRhbWFnZSBwZXIgc3BlbGwgbGV2ZWwuPC90ZD48L3RyPjx0cj48dGQ+MDMtMDQ8L3RkPjx0ZD5UaGUgY2FzdGVyIGlzIGFmZmVjdGVkIGJ5IGEgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPXNsb3ciPjxpPnNsb3c8L2k+PC9hPiBzcGVsbCBmb3IgNSByb3VuZHMuPC90ZD48L3RyPjx0cj48dGQ+MDU8L3RkPjx0ZD5UaGUgc3BlbGwgdGFrZXMgZWZmZWN0IGF0IGEgcmFuZG9tIGxvY2F0aW9uIHdpdGhpbiB0aGUgc3BlbGzigJlzIHJhbmdlLjwvdGQ+PC90cj48dHI+PHRkPjA2PC90ZD48dGQ+VGhlIGNhc3RlciBpcyBjb25mdXNlZCBmb3IgMSByb3VuZCAoYXMgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPWNvbmZ1c2lvbiI+PGk+Y29uZnVzaW9uPC9pPjwvYT4pLjwvdGQ+PC90cj48dHI+PHRkPjA3PC90ZD48dGQ+VGhlIGNhc3RlciB0YWtlcyAxIHBvaW50IG9mIENvbnN0aXR1dGlvbiBibGVlZC48L3RkPjwvdHI+PHRyPjx0ZD4wODwvdGQ+PHRkPlRoZSBjYXN0ZXIgdGFrZXMgMSBwb2ludCBvZiBhYmlsaXR5IGJsZWVkIHRoYXQgbWF0Y2hlcyBoZXIgc3BlbGxjYXN0aW5nIGFiaWxpdHkgc2NvcmUgKGRldGVybWluZSByYW5kb21seSBpZiB0aGUgY3JlYXR1cmUgaXNu4oCZdCBhIHNwZWxsY2FzdGVyKS48L3RkPjwvdHI+PHRyPjx0ZD4wOS0xMDwvdGQ+PHRkPlRoZSBjYXN0ZXIgaXMgZGF6ZWQgZm9yIDEgcm91bmQgKGFzIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1kYXplIG1vbnN0ZXIiPjxpPmRhemUgbW9uc3RlcjwvaT48L2E+KS48L3RkPjwvdHI+PHRyPjx0ZD4xMS0xMjwvdGQ+PHRkPlRoZSBzcGVsbCBkZWFscyBoYWxmIGFzIG11Y2ggZGFtYWdlIGFzIG5vcm1hbC48L3RkPjwvdHI+PHRyPjx0ZD4xMzwvdGQ+PHRkPlRoZSBjYXN0ZXIgdGFrZXMgMWQ0IHBvaW50cyBvZiBibGVlZCBkYW1hZ2UuPC90ZD48L3RyPjx0cj48dGQ+MTQ8L3RkPjx0ZD5UaGUgY2FzdGVyIGZhbGxzIGFzbGVlcCBmb3IgMSBtaW51dGUgKGFzIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1zbGVlcCI+PGk+c2xlZXA8L2k+PC9hPikuPC90ZD48L3RyPjx0cj48dGQ+MTUtMTY8L3RkPjx0ZD5UaGUgY2FzdGVyIGNhbuKAmXQgY2FzdCBvciBjb25jZW50cmF0ZSBvbiBzcGVsbHMgZm9yIDEgcm91bmQuPC90ZD48L3RyPjx0cj48dGQ+MTc8L3RkPjx0ZD5UaGUgY2FzdGVyIGlzIGFmZmVjdGVkIGJ5IDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1yZWR1Y2UgcGVyc29uIj48aT5yZWR1Y2UgcGVyc29uPC9pPjwvYT4gZm9yIDEgbWludXRlLjwvdGQ+PC90cj48dHI+PHRkPjE4LTE5PC90ZD48dGQ+VGhlIGNhc3RlciBiZWNvbWVzIHNpY2tlbmVkIGZvciA1IHJvdW5kcy48L3RkPjwvdHI+PHRyPjx0ZD4yMDwvdGQ+PHRkPkEgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPXpvbmUgb2YgdHJ1dGgiPjxpPnpvbmUgb2YgdHJ1dGg8L2k+PC9hPiBhcHBlYXJzLCBjZW50ZXJlZCBvbiB0aGUgY2FzdGVyLjwvdGQ+PC90cj48dHI+PHRkPjIxLTI5PC90ZD48dGQ+VGhlIGNhc3RlciBpcyBhZmZlY3RlZCBhcyBpZiB0YXJnZXRlZCBieSB0aGUgc3BlbGwuPC90ZD48L3RyPjx0cj48dGQ+MzAtMzI8L3RkPjx0ZD5BbGwgdGFyZ2V0cyBvZiB0aGUgc3BlbGwgYXJlIGFmZmVjdGVkIGJ5IDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1yZXN0b3JhdGlvbiwgbGVzc2VyIj48aT5sZXNzZXIgcmVzdG9yYXRpb248L2k+PC9hPi48L3RkPjwvdHI+PHRyPjx0ZD4zMy0zODwvdGQ+PHRkPkFsbCB0YXJnZXRzIG9mIHRoZSBzcGVsbCBhcmUgaGVhbGVkIG9mIDFkOCsxIHBvaW50cyBvZiBkYW1hZ2UuIFRoaXMgaXMgYSBwb3NpdGl2ZSBlbmVyZ3kgZWZmZWN0LjwvdGQ+PC90cj48dHI+PHRkPjM5LTQzPC90ZD48dGQ+VGhlIHNwZWxs4oCZcyBhcmVhIG9yIHRoZSB0YXJnZXRzIG9mIHRoZSBzcGVsbCBiZWNvbWUgYWZmZWN0ZWQgYnkgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPXNpbGVuY2UiPjxpPnNpbGVuY2U8L2k+PC9hPiBmb3IgMyByb3VuZHMuPC90ZD48L3RyPjx0cj48dGQ+NDQtNTA8L3RkPjx0ZD5BbGwgdGFyZ2V0cyBvZiB0aGUgc3BlbGwgYmVjb21lIGludmlzaWJsZSBmb3IgMSByb3VuZCAoYXMgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPWludmlzaWJpbGl0eSI+PGk+aW52aXNpYmlsaXR5PC9pPjwvYT4pLjwvdGQ+PC90cj48dHI+PHRkPjUxLTU4PC90ZD48dGQ+VGhlIGFyZWEgb2YgdGhlIHNwZWxsIGlzIGZpbGxlZCB3aXRoIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1kYXlsaWdodCI+PGk+ZGF5bGlnaHQ8L2k+PC9hPi48L3RkPjwvdHI+PHRyPjx0ZD41OS02NDwvdGQ+PHRkPkEgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPXNoYXR0ZXIiPjxpPnNoYXR0ZXI8L2k+PC9hPiBzcGVsbCBhZmZlY3RzIGEgNS1mb290IHJhZGl1cyBhcm91bmQgZWFjaCB0YXJnZXQgb2YgdGhlIHNwZWxsIChvciB0aGUgc3BlbGzigJlzIGFyZWEpLjwvdGQ+PC90cj48dHI+PHRkPjY1LTcxPC90ZD48dGQ+VGhlIHNwZWxs4oCZcyBhcmVhIGlzIGNvYXRlZCBpbiA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9Z3JlYXNlIj48aT5ncmVhc2U8L2k+PC9hPi48L3RkPjwvdHI+PHRyPjx0ZD43Mi03NDwvdGQ+PHRkPk9uZSByYW5kb20gdHJlZSBvciBhbmltYWwgdGFyZ2V0ZWQgYnkgdGhlIHNwZWxsIG9yIGluIHRoZSBzcGVsbOKAmXMgYXJlYSBpcyBhZmZlY3RlZCBieSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9YXdha2VuIj48aT5hd2FrZW48L2k+PC9hPi48L3RkPjwvdHI+PHRyPjx0ZD43NS03ODwvdGQ+PHRkPkFuIGluc3RydW1lbnQgYXBwZWFycyBhZGphY2VudCB0byBlYWNoIHRhcmdldCAoYXMgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPXN1bW1vbiBpbnN0cnVtZW50Ij48aT5zdW1tb24gaW5zdHJ1bWVudDwvaT48L2E+KS48L3RkPjwvdHI+PHRyPjx0ZD43OS04MDwvdGQ+PHRkPkV2ZXJ5IGRvb3Igd2l0aGluIDEwMCBmZWV0IG9mIHRoZSBjYXN0ZXIgaXMgYWZmZWN0ZWQgYnkgYSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9a25vY2siPjxpPmtub2NrPC9pPjwvYT4gc3BlbGwuPC90ZD48L3RyPjx0cj48dGQ+ODEtODM8L3RkPjx0ZD5UaGUgY2FzdGVyIHRlbGVwb3J0cyB0byBhIHNxdWFyZSBvZiBoZXIgY2hvaWNlIGFkamFjZW50IHRvIHRoZSBzcGVsbOKAmXMgdGFyZ2V0IG9yIHdpdGhpbiB0aGUgc3BlbGzigJlzIGFyZWEuPC90ZD48L3RyPjx0cj48dGQ+ODQtODY8L3RkPjx0ZD5UaGUgbmV4dCBzcGVsbCB0YXJnZXRpbmcgdGhlIGNhc3RlciBpcyB0dXJuZWQgYmFjaywgYXMgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPXNwZWxsIHR1cm5pbmciPjxpPnNwZWxsIHR1cm5pbmc8L2k+PC9hPi48L3RkPjwvdHI+PHRyPjx0ZD44Ny05MDwvdGQ+PHRkPlRoZSBjYXN0ZXIgZ2FpbnMgMmQ2IHRlbXBvcmFyeSBoaXQgcG9pbnRzIHRoYXQgbGFzdCAxIGhvdXIgYW5kIGRvbuKAmXQgc3RhY2sgd2l0aCBhbnkgb3RoZXIgdGVtcG9yYXJ5IGhpdCBwb2ludHMuPC90ZD48L3RyPjx0cj48dGQ+OTEtOTI8L3RkPjx0ZD5BIHJhbmRvbSBjcmVhdHVyZSBmcm9tIHRoZSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9c3VtbW9uIG1vbnN0ZXIgMSI+PGk+c3VtbW9uIG1vbnN0ZXIgSTwvaT48L2E+IGxpc3QgaXMgc3VtbW9uZWQgaW4gYSBzcXVhcmUgYWRqYWNlbnQgdG8gdGhlIGNhc3Rlci4gSXQgaXMgdW5kZXIgdGhlIGNhc3RlcuKAmXMgY29udHJvbC48L3RkPjwvdHI+PHRyPjx0ZD45My05NTwvdGQ+PHRkPlRoZSBjYXN0ZXIgaXMgYWZmZWN0ZWQgYnkgdG9uZ3VlcyBmb3IgMTAgbWludXRlcy48L3RkPjwvdHI+PHRyPjx0ZD45Ni05NzwvdGQ+PHRkPlRoZSBjYXN0ZXIgaXMgYWZmZWN0ZWQgYnkgaGFzdGUgZm9yIDUgcm91bmRzLjwvdGQ+PC90cj48dHI+PHRkPjk4PC90ZD48dGQ+VGhlIHNwZWxsIGlzIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUV4dGVuZCBTcGVsbCI+ZXh0ZW5kZWQ8L2E+LjwvdGQ+PC90cj48dHI+PHRkPjk5PC90ZD48dGQ+VGhlIHNwZWxsIGlzIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPU1heGltaXplIFNwZWxsIj5tYXhpbWl6ZWQ8L2E+LjwvdGQ+PC90cj48dHI+PHRkPjEwMDwvdGQ+PHRkPlRoZSBzcGVsbCBzbG90IHVzZWQgdG8gY2FzdCB0aGUgc3BlbGwgaXMgbm90IGV4cGVuZGVkLjwvdGQ+PC90cj48L3RhYmxlPiA8YnIgLz48YnIgLz4gPGgyPlRhYmxlIDQtNTogVW5pdmVyc2FsIFN1cmdlIEVmZmVjdHM8L2gyPiA8dGFibGUgY2xhc3M9ImlubmVyIj4gPHRyPjx0ZD48Yj5kJTwvYj48L3RkPjx0ZD48Yj5TdXJnZSBFZmZlY3Q8L2I+PC90ZD48L3RyPjx0cj48dGQ+MDEtMjA8L3RkPjx0ZD5UaGUgY2FzdGVyIHRha2VzIDFkNiBwb2ludHMgb2YgZGFtYWdlIHRoYXQgY2Fu4oCZdCBiZSBwcmV2ZW50ZWQgaW4gYW55IHdheS48L3RkPjwvdHI+PHRyPjx0ZD4yMS04MDwvdGQ+PHRkPlRoZSBjYXN0ZXIgaXMgYWZmZWN0ZWQgYnkgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPWZhZXJpZSBmaXJlIj48aT5mYWVyaWUgZmlyZTwvaT48L2E+IGZvciAxIHJvdW5kLjwvdGQ+PC90cj48dHI+PHRkPjgxLTEwMDwvdGQ+PHRkPlRoZSBjYXN0ZXIgZ2FpbnMgMWQ2IHRlbXBvcmFyeSBoaXQgcG9pbnRzIHRoYXQgbGFzdCBmb3IgMSBob3VyLiBUaGVzZSBkb27igJl0IHN0YWNrIHdpdGggb3RoZXIgdGVtcG9yYXJ5IGhpdCBwb2ludHMuPC90ZD48L3RyPjwvdGFibGU+IDxiciAvPjxiciAvPjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTkzNCI+SW1wbGVtZW50aW5nIFdpbGQgTWFnaWM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTljMjU/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVBhdGhmaW5kZXItVW5jaGFpbmVkIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBhdGhmaW5kZXIgVW5jaGFpbmVkIHBnLiAxNDc8L2k+PC9hPjxiciAvPlRob3VnaCB0aGUgcnVsZXMgb24gd2hlbiB0byB1c2Ugd2lsZCBtYWdpYyBhcmUgZGVsaWJlcmF0ZWx5IHZhZ3VlIHRvIGdpdmUgdGhlIEdNIGxlZXdheSwgaGVyZSBhcmUgc29tZSBzdWdnZXN0aW9ucywgcHJlc2VudGVkIGluIG9yZGVyIGZyb20gc2ltcGxlc3QgdG8gbW9zdCBjb21wbGV4LiA8YnIgLz48YnIgLz48Yj5GYWlsZWQgQ29uY2VudHJhdGlvbjwvYj46IFdoZW4gYSBjYXN0ZXIgZmFpbHMgYSBjb25jZW50cmF0aW9uIGNoZWNrLCBhbmQgdGhlcmVieSBsb3NlcyBhIHNwZWxsLCBzb21lIG9mIHRoZSBzcGVsbOKAmXMgZW5lcmd5IGVzY2FwZXMgaW4gYSB3aWxkIG1hZ2ljIHN1cmdlLiA8YnIgLz48YnIgLz48Yj5EaXNwZWwgYW5kIENvdW50ZXJzcGVsbDwvYj46IFdoZW4gYSBzcGVsbCBvciBtYWdpY2FsIGVmZmVjdCBpcyBkaXNwZWxsZWQgb3IgY291bnRlcnNwZWxsZWQsIGl0IHRyaWdnZXJzIGEgd2lsZCBtYWdpYyBzdXJnZSBvbiB0aGUgY2FzdGVyIG9yIHN1YmplY3QuIDxiciAvPjxiciAvPjxiPldpbGQgWm9uZXM8L2I+OiBTb21lIHBsYWNlcyBhcmUgbWFnaWNhbGx5IHVuc3RhYmxlLiBXaGVuIGEgY3JlYXR1cmUgY2FzdHMgYSBzcGVsbCwgdXNlcyBhIHNwZWxsLWxpa2UgYWJpbGl0eSwgb3IgYWN0aXZhdGVzIGEgbWFnaWMgaXRlbSBpbiBzdWNoIGFuIGFyZWEsIGl0IGNhdXNlcyBhIHdpbGQgbWFnaWMgc3VyZ2UuIDxiciAvPjxiciAvPjxiPkJvb3N0IENhc3Rpbmc8L2I+OiBBIGNhc3RlciBjYW4gYXR0ZW1wdCB0byB1c2UgYSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1NZXRhbWFnaWMiPm1ldGFtYWdpYyBmZWF0PC9hPiBzaGUgaGFzIHdpdGggYSBzcGVsbCBzaGXigJlzIGNhc3Rpbmcgd2l0aG91dCBleHBlbmRpbmcgYSBoaWdoZXItbGV2ZWwgc3BlbGwgc2xvdCwgbmVlZGluZyB0byBwcmVwYXJlIHRoZSBzcGVsbCBhdCBhIGhpZ2hlciBsZXZlbCAoaWYgYSBwcmVwYXJlZCBjYXN0ZXIpLCBvciBpbmNyZWFzaW5nIHRoZSBjYXN0aW5nIHRpbWUgKGlmIGEgc3BvbnRhbmVvdXMgY2FzdGVyKS4gVG8gZG8gc28sIHNoZSBtdXN0IGF0dGVtcHQgYSBjYXN0ZXIgbGV2ZWwgY2hlY2sgd2l0aCBhIERDIGVxdWFsIHRvIDEwICsgdGhlIHNwZWxs4oCZcyBsZXZlbCArIDUgZm9yIGV2ZXJ5IGluY3JlYXNlIGluIHNwZWxsIGxldmVsIHRoZSBtZXRhbWFnaWMgZmVhdCB3b3VsZCBub3JtYWxseSBjYXVzZS4gSWYgc2hlIHN1Y2NlZWRzLCBoZXIgc3BlbGwgZ2FpbnMgdGhlIG1ldGFtYWdpYyBmZWF04oCZcyBiZW5lZml0IGFuZCBzaGUgY2F1c2VzIGEgd2lsZCBtYWdpYyBzdXJnZS4gSWYgc2hlIGZhaWxzLCBzaGUgc3RpbGwgcm9sbHMgb24gVGFibGUgNOKAkzQsIGJ1dCBzdWJ0cmFjdHMgZnJvbSB0aGUgcmVzdWx0IGEgbnVtYmVyIGVxdWFsIHRvIHRoZSBhbW91bnQgYnkgd2hpY2ggc2hlIGZhaWxlZCB0aGUgY2hlY2suZGRkSs5S/CX/aJBgeMpPTaRYgI9N/YH3LbN6/ZueOZaQQww=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1725">Pathfinder Unchained</a></u> / <u><a href="Rules.aspx?ID=1928">Spell Alterations</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=1933">Wild Magic</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 147</i></a><br />Though many spellcasters like to consider their use of magic a science, the effects of magic are not always easy to predict. Wild, uncontrolled magic sometimes surges as a side effect of spellcasting or magical experimentation. Wild magic can be used in any situation where magic might cause randomness and chaotic effects. When a character casts a spell or takes an action that could trigger a surge of wild magic (see Implementing Wild Magic below), roll on Table 4–4: Wild Magic Surge.<br /><br /> Roll to determine the surge effect before the spell is cast, but apply the effect after the spell is cast unless it alters the spell itself in some way (such as changing the effective caster level). Any reference on the table to the spell or the spell’s level applies to the spell being cast, supernatural ability being used, or magic item effect being activated. Similarly, any reference to the caster applies to the character who triggers the surge. If an effect requires a caster level, use the caster’s full character level.<br /><br /> If the wild magic surge effect you roll isn’t possible due to the nature of the spell or effect, roll instead on Table 4–5: Universal Surge Effects. A wild magic surge effect doesn’t allow a saving throw, even if it’s replicating a spell that normally would, and any effect that would normally have a limit on the amount of Hit Dice it can affect ignores that limit. Higher results on the table are more likely to be beneficial, so a GM might give a bonus or penalty on the check if an action would alter how likely it is that the wild magic surge would be helpful. <br /><br /> <h2>Table 4-4: Wild Magi Surge</h2> <table class="inner"> <tr><td><b>d%</b></td><td><b>Surge Effect</b></td></tr><tr><td>01-02</td><td>The caster takes 1d6 points of damage per spell level.</td></tr><tr><td>03-04</td><td>The caster is affected by a <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=slow"><i>slow</i></a> spell for 5 rounds.</td></tr><tr><td>05</td><td>The spell takes effect at a random location within the spell’s range.</td></tr><tr><td>06</td><td>The caster is confused for 1 round (as <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=confusion"><i>confusion</i></a>).</td></tr><tr><td>07</td><td>The caster takes 1 point of Constitution bleed.</td></tr><tr><td>08</td><td>The caster takes 1 point of ability bleed that matches her spellcasting ability score (determine randomly if the creature isn’t a spellcaster).</td></tr><tr><td>09-10</td><td>The caster is dazed for 1 round (as <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=daze monster"><i>daze monster</i></a>).</td></tr><tr><td>11-12</td><td>The spell deals half as much damage as normal.</td></tr><tr><td>13</td><td>The caster takes 1d4 points of bleed damage.</td></tr><tr><td>14</td><td>The caster falls asleep for 1 minute (as <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=sleep"><i>sleep</i></a>).</td></tr><tr><td>15-16</td><td>The caster can’t cast or concentrate on spells for 1 round.</td></tr><tr><td>17</td><td>The caster is affected by <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=reduce person"><i>reduce person</i></a> for 1 minute.</td></tr><tr><td>18-19</td><td>The caster becomes sickened for 5 rounds.</td></tr><tr><td>20</td><td>A <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=zone of truth"><i>zone of truth</i></a> appears, centered on the caster.</td></tr><tr><td>21-29</td><td>The caster is affected as if targeted by the spell.</td></tr><tr><td>30-32</td><td>All targets of the spell are affected by <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=restoration, lesser"><i>lesser restoration</i></a>.</td></tr><tr><td>33-38</td><td>All targets of the spell are healed of 1d8+1 points of damage. This is a positive energy effect.</td></tr><tr><td>39-43</td><td>The spell’s area or the targets of the spell become affected by <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=silence"><i>silence</i></a> for 3 rounds.</td></tr><tr><td>44-50</td><td>All targets of the spell become invisible for 1 round (as <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=invisibility"><i>invisibility</i></a>).</td></tr><tr><td>51-58</td><td>The area of the spell is filled with <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=daylight"><i>daylight</i></a>.</td></tr><tr><td>59-64</td><td>A <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=shatter"><i>shatter</i></a> spell affects a 5-foot radius around each target of the spell (or the spell’s area).</td></tr><tr><td>65-71</td><td>The spell’s area is coated in <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=grease"><i>grease</i></a>.</td></tr><tr><td>72-74</td><td>One random tree or animal targeted by the spell or in the spell’s area is affected by <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=awaken"><i>awaken</i></a>.</td></tr><tr><td>75-78</td><td>An instrument appears adjacent to each target (as <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=summon instrument"><i>summon instrument</i></a>).</td></tr><tr><td>79-80</td><td>Every door within 100 feet of the caster is affected by a <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=knock"><i>knock</i></a> spell.</td></tr><tr><td>81-83</td><td>The caster teleports to a square of her choice adjacent to the spell’s target or within the spell’s area.</td></tr><tr><td>84-86</td><td>The next spell targeting the caster is turned back, as <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=spell turning"><i>spell turning</i></a>.</td></tr><tr><td>87-90</td><td>The caster gains 2d6 temporary hit points that last 1 hour and don’t stack with any other temporary hit points.</td></tr><tr><td>91-92</td><td>A random creature from the <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=summon monster 1"><i>summon monster I</i></a> list is summoned in a square adjacent to the caster. It is under the caster’s control.</td></tr><tr><td>93-95</td><td>The caster is affected by tongues for 10 minutes.</td></tr><tr><td>96-97</td><td>The caster is affected by haste for 5 rounds.</td></tr><tr><td>98</td><td>The spell is <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Extend Spell">extended</a>.</td></tr><tr><td>99</td><td>The spell is <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Maximize Spell">maximized</a>.</td></tr><tr><td>100</td><td>The spell slot used to cast the spell is not expended.</td></tr></table> <br /><br /> <h2>Table 4-5: Universal Surge Effects</h2> <table class="inner"> <tr><td><b>d%</b></td><td><b>Surge Effect</b></td></tr><tr><td>01-20</td><td>The caster takes 1d6 points of damage that can’t be prevented in any way.</td></tr><tr><td>21-80</td><td>The caster is affected by <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=faerie fire"><i>faerie fire</i></a> for 1 round.</td></tr><tr><td>81-100</td><td>The caster gains 1d6 temporary hit points that last for 1 hour. These don’t stack with other temporary hit points.</td></tr></table> <br /><br /><br /><h1 class="title"><a href="Rules.aspx?ID=1934">Implementing Wild Magic</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 147</i></a><br />Though the rules on when to use wild magic are deliberately vague to give the GM leeway, here are some suggestions, presented in order from simplest to most complex. <br /><br /><b>Failed Concentration</b>: When a caster fails a concentration check, and thereby loses a spell, some of the spell’s energy escapes in a wild magic surge. <br /><br /><b>Dispel and Counterspell</b>: When a spell or magical effect is dispelled or counterspelled, it triggers a wild magic surge on the caster or subject. <br /><br /><b>Wild Zones</b>: Some places are magically unstable. When a creature casts a spell, uses a spell-like ability, or activates a magic item in such an area, it causes a wild magic surge. <br /><br /><b>Boost Casting</b>: A caster can attempt to use a <a style="text-decoration:underline" href="Feats.aspx?Category=Metamagic">metamagic feat</a> she has with a spell she’s casting without expending a higher-level spell slot, needing to prepare the spell at a higher level (if a prepared caster), or increasing the casting time (if a spontaneous caster). To do so, she must attempt a caster level check with a DC equal to 10 + the spell’s level + 5 for every increase in spell level the metamagic feat would normally cause. If she succeeds, her spell gains the metamagic feat’s benefit and she causes a wild magic surge. If she fails, she still rolls on Table 4–4, but subtracts from the result a number equal to the amount by which she failed the check.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

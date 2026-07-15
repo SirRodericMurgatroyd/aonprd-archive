@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	The Abilities - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, The Abilities" /><meta name="description" content="Each ability partially describes your character and affects some of his actions. " /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=93" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAW9Ojx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDEiPkJhc2ljczwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD04NCI+QWJpbGl0eSBTY29yZXM8L2E+PC91PjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9OTMiPlRoZSBBYmlsaXRpZXM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4OHlqIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBSUEcgQ29yZSBSdWxlYm9vayBwZy4gMTY8L2k+PC9hPjxiciAvPkVhY2ggYWJpbGl0eSBwYXJ0aWFsbHkgZGVzY3JpYmVzIHlvdXIgY2hhcmFjdGVyIGFuZCBhZmZlY3RzIHNvbWUgb2YgaGlzIGFjdGlvbnMuIDxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MzQ3Ij5TdHJlbmd0aDwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweTg4eWoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UFJQRyBDb3JlIFJ1bGVib29rIHBnLiAxNjwvaT48L2E+PGJyIC8+U3RyZW5ndGggbWVhc3VyZXMgbXVzY2xlIGFuZCBwaHlzaWNhbCBwb3dlci4gVGhpcyBhYmlsaXR5IGlzIGltcG9ydGFudCBmb3IgdGhvc2Ugd2hvIGVuZ2FnZSBpbiBoYW5kLXRvLWhhbmQgKG9yIOKAnG1lbGVl4oCdKSBjb21iYXQsIHN1Y2ggYXMgZmlnaHRlcnMsIG1vbmtzLCBwYWxhZGlucywgYW5kIHNvbWUgcmFuZ2Vycy4gU3RyZW5ndGggYWxzbyBzZXRzIHRoZSBtYXhpbXVtIGFtb3VudCBvZiB3ZWlnaHQgeW91ciBjaGFyYWN0ZXIgY2FuIGNhcnJ5LiBBIGNoYXJhY3RlciB3aXRoIGEgU3RyZW5ndGggc2NvcmUgb2YgMCBpcyB0b28gd2VhayB0byBtb3ZlIGluIGFueSB3YXkgYW5kIGlzIHVuY29uc2Npb3VzLiBTb21lIGNyZWF0dXJlcyBkbyBub3QgcG9zc2VzcyBhIFN0cmVuZ3RoIHNjb3JlIGFuZCBoYXZlIG5vIG1vZGlmaWVyIGF0IGFsbCB0byBTdHJlbmd0aC1iYXNlZCBza2lsbHMgb3IgY2hlY2tzLjxiciAvPjxiciAvPiBZb3UgYXBwbHkgeW91ciBjaGFyYWN0ZXLigJlzIFN0cmVuZ3RoIG1vZGlmaWVyIHRvOiA8dWw+PGxpPk1lbGVlIGF0dGFjayByb2xscy48L2xpPiA8bGk+RGFtYWdlIHJvbGxzIHdoZW4gdXNpbmcgYSBtZWxlZSB3ZWFwb24gb3IgYSB0aHJvd24gd2VhcG9uLCBpbmNsdWRpbmcgYSBzbGluZy4gKEV4Y2VwdGlvbnM6IE9mZi1oYW5kIGF0dGFja3MgcmVjZWl2ZSBvbmx5IGhhbGYgdGhlIGNoYXJhY3RlcuKAmXMgU3RyZW5ndGggYm9udXMsIHdoaWxlIHR3by1oYW5kZWQgYXR0YWNrcyByZWNlaXZlIDHigJMxLzIgdGltZXMgdGhlIFN0cmVuZ3RoIGJvbnVzLiBBIFN0cmVuZ3RoIHBlbmFsdHksIGJ1dCBub3QgYSBib251cywgYXBwbGllcyB0byBhdHRhY2tzIG1hZGUgd2l0aCBhIGJvdyB0aGF0IGlzIG5vdCBhIGNvbXBvc2l0ZSBib3cuKTwvbGk+IDxsaT5DbGltYiBhbmQgU3dpbSBjaGVja3MuPC9saT4gPGxpPlN0cmVuZ3RoIGNoZWNrcyAoZm9yIGJyZWFraW5nIGRvd24gZG9vcnMgYW5kIHRoZSBsaWtlKS48L2xpPjwvdWw+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0zNDgiPkRleHRlcml0eTwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweTg4eWoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UFJQRyBDb3JlIFJ1bGVib29rIHBnLiAxNjwvaT48L2E+PGJyIC8+RGV4dGVyaXR5IG1lYXN1cmVzIGFnaWxpdHksIHJlZmxleGVzLCBhbmQgYmFsYW5jZS4gVGhpcyBhYmlsaXR5IGlzIHRoZSBtb3N0IGltcG9ydGFudCBvbmUgZm9yIHJvZ3VlcywgYnV0IGl04oCZcyBhbHNvIHVzZWZ1bCBmb3IgY2hhcmFjdGVycyB3aG8gd2VhciBsaWdodCBvciBtZWRpdW0gYXJtb3Igb3Igbm8gYXJtb3IgYXQgYWxsLiBUaGlzIGFiaWxpdHkgaXMgdml0YWwgZm9yIGNoYXJhY3RlcnMgc2Vla2luZyB0byBleGNlbCB3aXRoIHJhbmdlZCB3ZWFwb25zLCBzdWNoIGFzIHRoZSBib3cgb3Igc2xpbmcuIEEgY2hhcmFjdGVyIHdpdGggYSBEZXh0ZXJpdHkgc2NvcmUgb2YgMCBpcyBpbmNhcGFibGUgb2YgbW92aW5nIGFuZCBpcyBlZmZlY3RpdmVseSBpbW1vYmlsZSAoYnV0IG5vdCB1bmNvbnNjaW91cykuPGJyIC8+PGJyIC8+IFlvdSBhcHBseSB5b3VyIGNoYXJhY3RlcuKAmXMgRGV4dGVyaXR5IG1vZGlmaWVyIHRvOiA8dWw+PGxpPlJhbmdlZCBhdHRhY2sgcm9sbHMsIGluY2x1ZGluZyB0aG9zZSBmb3IgYXR0YWNrcyBtYWRlIHdpdGggYm93cywgY3Jvc3Nib3dzLCB0aHJvd2luZyBheGVzLCBhbmQgbWFueSByYW5nZWQgc3BlbGwgYXR0YWNrcyBsaWtlIDxpPnNjb3JjaGluZyByYXk8L2k+IG9yIDxpPnNlYXJpbmcgbGlnaHQ8L2k+LjwvbGk+IDxsaT5Bcm1vciBDbGFzcyAoQUMpLCBwcm92aWRlZCB0aGF0IHRoZSBjaGFyYWN0ZXIgY2FuIHJlYWN0IHRvIHRoZSBhdHRhY2suPC9saT4gPGxpPlJlZmxleCBzYXZpbmcgdGhyb3dzLCBmb3IgYXZvaWRpbmcgPGk+ZmlyZWJhbGxzPC9pPiBhbmQgb3RoZXIgYXR0YWNrcyB0aGF0IHlvdSBjYW4gZXNjYXBlIGJ5IG1vdmluZyBxdWlja2x5LjwvbGk+IDxsaT5BY3JvYmF0aWNzLCBEaXNhYmxlIERldmljZSwgRXNjYXBlIEFydGlzdCwgRmx5LCBSaWRlLCBTbGVpZ2h0IG9mIEhhbmQsIGFuZCBTdGVhbHRoIGNoZWNrcy48L2xpPjwvdWw+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0zNDkiPkNvbnN0aXR1dGlvbjwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweTg4eWoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UFJQRyBDb3JlIFJ1bGVib29rIHBnLiAxNjwvaT48L2E+PGJyIC8+Q29uc3RpdHV0aW9uIHJlcHJlc2VudHMgeW91ciBjaGFyYWN0ZXIncyBoZWFsdGggYW5kIHN0YW1pbmEuIEEgQ29uc3RpdHV0aW9uIGJvbnVzIGluY3JlYXNlcyBhIGNoYXJhY3RlcidzIGhpdCBwb2ludHMsIHNvIHRoZSBhYmlsaXR5IGlzIGltcG9ydGFudCBmb3IgYWxsIGNsYXNzZXMuIFNvbWUgY3JlYXR1cmVzLCBzdWNoIGFzIHVuZGVhZCBhbmQgY29uc3RydWN0cywgZG8gbm90IGhhdmUgYSBDb25zdGl0dXRpb24gc2NvcmUuIFRoZWlyIG1vZGlmaWVyIGlzICswIGZvciBhbnkgQ29uc3RpdHV0aW9uLWJhc2VkIGNoZWNrcy4gQSBjaGFyYWN0ZXIgd2l0aCBhIENvbnN0aXR1dGlvbiBzY29yZSBvZiAwIGlzIGRlYWQuPGJyIC8+PGJyIC8+IFlvdSBhcHBseSB5b3VyIGNoYXJhY3RlcidzIENvbnN0aXR1dGlvbiBtb2RpZmllciB0bzogPHVsPjxsaT5FYWNoIHJvbGwgb2YgYSBIaXQgRGllICh0aG91Z2ggYSBwZW5hbHR5IGNhbiBuZXZlciBkcm9wIGEgcmVzdWx0IGJlbG93IDHigJR0aGF0IGlzLCBhIGNoYXJhY3RlciBhbHdheXMgZ2FpbnMgYXQgbGVhc3QgMSBoaXQgcG9pbnQgZWFjaCB0aW1lIGhlIGFkdmFuY2VzIGluIGxldmVsKS48L2xpPiA8bGk+Rm9ydGl0dWRlIHNhdmluZyB0aHJvd3MsIGZvciByZXNpc3RpbmcgcG9pc29uLCBkaXNlYXNlLCBhbmQgc2ltaWxhciB0aHJlYXRzLjwvbGk+PC91bD4gSWYgYSBjaGFyYWN0ZXIncyBDb25zdGl0dXRpb24gc2NvcmUgY2hhbmdlcyBlbm91Z2ggdG8gYWx0ZXIgaGlzIG9yIGhlciBDb25zdGl0dXRpb24gbW9kaWZpZXIsIHRoZSBjaGFyYWN0ZXIncyBoaXQgcG9pbnRzIGFsc28gaW5jcmVhc2Ugb3IgZGVjcmVhc2UgYWNjb3JkaW5nbHkuIDxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MzUwIj5JbnRlbGxpZ2VuY2U8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4OHlqIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBSUEcgQ29yZSBSdWxlYm9vayBwZy4gMTY8L2k+PC9hPjxiciAvPkludGVsbGlnZW5jZSBkZXRlcm1pbmVzIGhvdyB3ZWxsIHlvdXIgY2hhcmFjdGVyIGxlYXJucyBhbmQgcmVhc29ucy4gVGhpcyBhYmlsaXR5IGlzIGltcG9ydGFudCBmb3Igd2l6YXJkcyBiZWNhdXNlIGl0IGFmZmVjdHMgdGhlaXIgc3BlbGxjYXN0aW5nIGFiaWxpdHkgaW4gbWFueSB3YXlzLiBDcmVhdHVyZXMgb2YgYW5pbWFsLWxldmVsIGluc3RpbmN0IGhhdmUgSW50ZWxsaWdlbmNlIHNjb3JlcyBvZiAxIG9yIDIuIEFueSBjcmVhdHVyZSBjYXBhYmxlIG9mIHVuZGVyc3RhbmRpbmcgc3BlZWNoIGhhcyBhIHNjb3JlIG9mIGF0IGxlYXN0IDMuIEEgY2hhcmFjdGVyIHdpdGggYW4gSW50ZWxsaWdlbmNlIHNjb3JlIG9mIDAgaXMgY29tYXRvc2UuIFNvbWUgY3JlYXR1cmVzIGRvIG5vdCBwb3NzZXNzIGFuIEludGVsbGlnZW5jZSBzY29yZS4gVGhlaXIgbW9kaWZpZXIgaXMgKzAgZm9yIGFueSBJbnRlbGxpZ2VuY2UtYmFzZWQgc2tpbGxzIG9yIGNoZWNrcy48YnIgLz48YnIgLz4gWW91IGFwcGx5IHlvdXIgY2hhcmFjdGVy4oCZcyBJbnRlbGxpZ2VuY2UgbW9kaWZpZXIgdG86IDx1bD48bGk+VGhlIG51bWJlciBvZiBib251cyBsYW5ndWFnZXMgeW91ciBjaGFyYWN0ZXIga25vd3MgYXQgdGhlIHN0YXJ0IG9mIHRoZSBnYW1lLiBUaGVzZSBhcmUgaW4gYWRkaXRpb24gdG8gYW55IHN0YXJ0aW5nIHJhY2lhbCBsYW5ndWFnZXMgYW5kIENvbW1vbi4gSWYgeW91IGhhdmUgYSBwZW5hbHR5LCB5b3UgY2FuIHN0aWxsIHJlYWQgYW5kIHNwZWFrIHlvdXIgcmFjaWFsIGxhbmd1YWdlcyB1bmxlc3MgeW91ciBJbnRlbGxpZ2VuY2UgaXMgbG93ZXIgdGhhbiAzLjwvbGk+IDxsaT5UaGUgbnVtYmVyIG9mIHNraWxsIHBvaW50cyBnYWluZWQgZWFjaCBsZXZlbCwgdGhvdWdoIHlvdXIgY2hhcmFjdGVyIGFsd2F5cyBnZXRzIGF0IGxlYXN0IDEgc2tpbGwgcG9pbnQgcGVyIGxldmVsLjwvbGk+IDxsaT5BcHByYWlzZSwgQ3JhZnQsIEtub3dsZWRnZSwgTGluZ3Vpc3RpY3MsIGFuZCBTcGVsbGNyYWZ0IGNoZWNrcy48L2xpPjwvdWw+IEEgd2l6YXJkIGdhaW5zIGJvbnVzIHNwZWxscyBiYXNlZCBvbiBoaXMgSW50ZWxsaWdlbmNlIHNjb3JlLiBUaGUgbWluaW11bSBJbnRlbGxpZ2VuY2Ugc2NvcmUgbmVlZGVkIHRvIGNhc3QgYSB3aXphcmQgc3BlbGwgaXMgMTAgKyB0aGUgc3BlbGzigJlzIGxldmVsLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MzUxIj5XaXNkb208L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4OHlqIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBSUEcgQ29yZSBSdWxlYm9vayBwZy4gMTY8L2k+PC9hPjxiciAvPldpc2RvbSBkZXNjcmliZXMgYSBjaGFyYWN0ZXLigJlzIHdpbGxwb3dlciwgY29tbW9uIHNlbnNlLCBhd2FyZW5lc3MsIGFuZCBpbnR1aXRpb24uIFdpc2RvbSBpcyB0aGUgbW9zdCBpbXBvcnRhbnQgYWJpbGl0eSBmb3IgY2xlcmljcyBhbmQgZHJ1aWRzLCBhbmQgaXQgaXMgYWxzbyBpbXBvcnRhbnQgZm9yIHBhbGFkaW5zIGFuZCByYW5nZXJzLiBJZiB5b3Ugd2FudCB5b3VyIGNoYXJhY3RlciB0byBoYXZlIGFjdXRlIHNlbnNlcywgcHV0IGEgaGlnaCBzY29yZSBpbiBXaXNkb20uIEV2ZXJ5IGNyZWF0dXJlIGhhcyBhIFdpc2RvbSBzY29yZS4gQSBjaGFyYWN0ZXIgd2l0aCBhIFdpc2RvbSBzY29yZSBvZiAwIGlzIGluY2FwYWJsZSBvZiByYXRpb25hbCB0aG91Z2h0IGFuZCBpcyB1bmNvbnNjaW91cy48YnIgLz48YnIgLz4gWW91IGFwcGx5IHlvdXIgY2hhcmFjdGVy4oCZcyBXaXNkb20gbW9kaWZpZXIgdG86IDx1bD48bGk+V2lsbCBzYXZpbmcgdGhyb3dzIChmb3IgbmVnYXRpbmcgdGhlIGVmZmVjdHMgb2YgY2hhcm0gcGVyc29uIGFuZCBvdGhlciBzcGVsbHMpLjwvbGk+IDxsaT5IZWFsLCBQZXJjZXB0aW9uLCBQcm9mZXNzaW9uLCBTZW5zZSBNb3RpdmUsIGFuZCBTdXJ2aXZhbCBjaGVja3MuPC9saT48L3VsPiBDbGVyaWNzLCBkcnVpZHMsIGFuZCByYW5nZXJzIGdldCBib251cyBzcGVsbHMgYmFzZWQgb24gdGhlaXIgV2lzZG9tIHNjb3Jlcy4gVGhlIG1pbmltdW0gV2lzZG9tIHNjb3JlIG5lZWRlZCB0byBjYXN0IGEgY2xlcmljLCBkcnVpZCwgb3IgcmFuZ2VyIHNwZWxsIGlzIDEwICsgdGhlIHNwZWxs4oCZcyBsZXZlbC48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTM1MiI+Q2hhcmlzbWE8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4OHlqIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBSUEcgQ29yZSBSdWxlYm9vayBwZy4gMTc8L2k+PC9hPjxiciAvPkNoYXJpc21hIG1lYXN1cmVzIGEgY2hhcmFjdGVy4oCZcyBwZXJzb25hbGl0eSwgcGVyc29uYWwgbWFnbmV0aXNtLCBhYmlsaXR5IHRvIGxlYWQsIGFuZCBhcHBlYXJhbmNlLiBJdCBpcyB0aGUgbW9zdCBpbXBvcnRhbnQgYWJpbGl0eSBmb3IgcGFsYWRpbnMsIHNvcmNlcmVycywgYW5kIGJhcmRzLiBJdCBpcyBhbHNvIGltcG9ydGFudCBmb3IgY2xlcmljcywgc2luY2UgaXQgYWZmZWN0cyB0aGVpciBhYmlsaXR5IHRvIGNoYW5uZWwgZW5lcmd5LiBGb3IgdW5kZWFkIGNyZWF0dXJlcywgQ2hhcmlzbWEgaXMgYSBtZWFzdXJlIG9mIHRoZWlyIHVubmF0dXJhbCDigJxsaWZlZm9yY2Uu4oCdIEV2ZXJ5IGNyZWF0dXJlIGhhcyBhIENoYXJpc21hIHNjb3JlLiBBIGNoYXJhY3RlciB3aXRoIGEgQ2hhcmlzbWEgc2NvcmUgb2YgMCBpcyBub3QgYWJsZSB0byBleGVydCBoaW1zZWxmIGluIGFueSB3YXkgYW5kIGlzIHVuY29uc2Npb3VzLjxiciAvPjxiciAvPiBZb3UgYXBwbHkgeW91ciBjaGFyYWN0ZXLigJlzIENoYXJpc21hIG1vZGlmaWVyIHRvOiA8dWw+PGxpPkJsdWZmLCBEaXBsb21hY3ksIERpc2d1aXNlLCBIYW5kbGUgQW5pbWFsLCBJbnRpbWlkYXRlLCBQZXJmb3JtLCBhbmQgVXNlIE1hZ2ljIERldmljZSBjaGVja3MuPC9saT4gPGxpPkNoZWNrcyB0aGF0IHJlcHJlc2VudCBhdHRlbXB0cyB0byBpbmZsdWVuY2Ugb3RoZXJzLjwvbGk+IDxsaT5DaGFubmVsIGVuZXJneSBEQ3MgZm9yIGNsZXJpY3MgYW5kIHBhbGFkaW5zIGF0dGVtcHRpbmcgdG8gaGFybSB1bmRlYWQgZm9lcy48L2xpPjwvdWw+IEJhcmRzLCBwYWxhZGlucywgYW5kIHNvcmNlcmVycyBnYWluIGEgbnVtYmVyIG9mIGJvbnVzIHNwZWxscyBiYXNlZCBvbiB0aGVpciBDaGFyaXNtYSBzY29yZXMuIFRoZSBtaW5pbXVtIENoYXJpc21hIHNjb3JlIG5lZWRlZCB0byBjYXN0IGEgYmFyZCwgcGFsYWRpbiwgb3Igc29yY2VyZXIgc3BlbGwgaXMgMTAgKyB0aGUgc3BlbGzigJlzIGxldmVsLmRkZCaxoB8SNa38Pc/j3taV1UoEZTKDK7HLCFAUJhfxHh9A" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=41">Basics</a></u> / <u><a href="Rules.aspx?ID=84">Ability Scores</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=93">The Abilities</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 16</i></a><br />Each ability partially describes your character and affects some of his actions. <br /><h1 class="title"><a href="Rules.aspx?ID=347">Strength</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 16</i></a><br />Strength measures muscle and physical power. This ability is important for those who engage in hand-to-hand (or “melee”) combat, such as fighters, monks, paladins, and some rangers. Strength also sets the maximum amount of weight your character can carry. A character with a Strength score of 0 is too weak to move in any way and is unconscious. Some creatures do not possess a Strength score and have no modifier at all to Strength-based skills or checks.<br /><br /> You apply your character’s Strength modifier to: <ul><li>Melee attack rolls.</li> <li>Damage rolls when using a melee weapon or a thrown weapon, including a sling. (Exceptions: Off-hand attacks receive only half the character’s Strength bonus, while two-handed attacks receive 1–1/2 times the Strength bonus. A Strength penalty, but not a bonus, applies to attacks made with a bow that is not a composite bow.)</li> <li>Climb and Swim checks.</li> <li>Strength checks (for breaking down doors and the like).</li></ul><br /><h1 class="title"><a href="Rules.aspx?ID=348">Dexterity</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 16</i></a><br />Dexterity measures agility, reflexes, and balance. This ability is the most important one for rogues, but it’s also useful for characters who wear light or medium armor or no armor at all. This ability is vital for characters seeking to excel with ranged weapons, such as the bow or sling. A character with a Dexterity score of 0 is incapable of moving and is effectively immobile (but not unconscious).<br /><br /> You apply your character’s Dexterity modifier to: <ul><li>Ranged attack rolls, including those for attacks made with bows, crossbows, throwing axes, and many ranged spell attacks like <i>scorching ray</i> or <i>searing light</i>.</li> <li>Armor Class (AC), provided that the character can react to the attack.</li> <li>Reflex saving throws, for avoiding <i>fireballs</i> and other attacks that you can escape by moving quickly.</li> <li>Acrobatics, Disable Device, Escape Artist, Fly, Ride, Sleight of Hand, and Stealth checks.</li></ul><br /><h1 class="title"><a href="Rules.aspx?ID=349">Constitution</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 16</i></a><br />Constitution represents your character's health and stamina. A Constitution bonus increases a character's hit points, so the ability is important for all classes. Some creatures, such as undead and constructs, do not have a Constitution score. Their modifier is +0 for any Constitution-based checks. A character with a Constitution score of 0 is dead.<br /><br /> You apply your character's Constitution modifier to: <ul><li>Each roll of a Hit Die (though a penalty can never drop a result below 1—that is, a character always gains at least 1 hit point each time he advances in level).</li> <li>Fortitude saving throws, for resisting poison, disease, and similar threats.</li></ul> If a character's Constitution score changes enough to alter his or her Constitution modifier, the character's hit points also increase or decrease accordingly. <br /><h1 class="title"><a href="Rules.aspx?ID=350">Intelligence</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 16</i></a><br />Intelligence determines how well your character learns and reasons. This ability is important for wizards because it affects their spellcasting ability in many ways. Creatures of animal-level instinct have Intelligence scores of 1 or 2. Any creature capable of understanding speech has a score of at least 3. A character with an Intelligence score of 0 is comatose. Some creatures do not possess an Intelligence score. Their modifier is +0 for any Intelligence-based skills or checks.<br /><br /> You apply your character’s Intelligence modifier to: <ul><li>The number of bonus languages your character knows at the start of the game. These are in addition to any starting racial languages and Common. If you have a penalty, you can still read and speak your racial languages unless your Intelligence is lower than 3.</li> <li>The number of skill points gained each level, though your character always gets at least 1 skill point per level.</li> <li>Appraise, Craft, Knowledge, Linguistics, and Spellcraft checks.</li></ul> A wizard gains bonus spells based on his Intelligence score. The minimum Intelligence score needed to cast a wizard spell is 10 + the spell’s level.<br /><h1 class="title"><a href="Rules.aspx?ID=351">Wisdom</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 16</i></a><br />Wisdom describes a character’s willpower, common sense, awareness, and intuition. Wisdom is the most important ability for clerics and druids, and it is also important for paladins and rangers. If you want your character to have acute senses, put a high score in Wisdom. Every creature has a Wisdom score. A character with a Wisdom score of 0 is incapable of rational thought and is unconscious.<br /><br /> You apply your character’s Wisdom modifier to: <ul><li>Will saving throws (for negating the effects of charm person and other spells).</li> <li>Heal, Perception, Profession, Sense Motive, and Survival checks.</li></ul> Clerics, druids, and rangers get bonus spells based on their Wisdom scores. The minimum Wisdom score needed to cast a cleric, druid, or ranger spell is 10 + the spell’s level.<br /><h1 class="title"><a href="Rules.aspx?ID=352">Charisma</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 17</i></a><br />Charisma measures a character’s personality, personal magnetism, ability to lead, and appearance. It is the most important ability for paladins, sorcerers, and bards. It is also important for clerics, since it affects their ability to channel energy. For undead creatures, Charisma is a measure of their unnatural “lifeforce.” Every creature has a Charisma score. A character with a Charisma score of 0 is not able to exert himself in any way and is unconscious.<br /><br /> You apply your character’s Charisma modifier to: <ul><li>Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, Perform, and Use Magic Device checks.</li> <li>Checks that represent attempts to influence others.</li> <li>Channel energy DCs for clerics and paladins attempting to harm undead foes.</li></ul> Bards, paladins, and sorcerers gain a number of bonus spells based on their Charisma scores. The minimum Charisma score needed to cast a bard, paladin, or sorcerer spell is 10 + the spell’s level.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

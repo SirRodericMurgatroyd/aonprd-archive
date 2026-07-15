@@ -1,0 +1,248 @@
+﻿@font-face {
+    font-family: 'fairydustbregular';
+    src: url('../Fonts/fairydustb-webfont.eot');
+    src: url('../Fonts/fairydustb-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../Fonts/fairydustb-webfont.woff') format('woff'),
+         url('../Fonts/fairydustb-webfont.ttf') format('truetype'),
+         url('../Fonts/fairydustb-webfont.svg#fairydustbregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Julee', cursive;
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    color: #fff;
+    font-size: 15px;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+    body.dark {
+        color: #fff;
+    }
+
+    body.light {
+        color: #0f0f0f;
+    }
+
+A:link {
+    text-decoration: none;
+    color: inherit;
+}
+
+A:visited {
+    text-decoration: none;
+    color: inherit;
+}
+
+A:hover {
+    text-decoration: underline;
+}
+
+A:active {
+    text-decoration: underline;
+    color: inherit;
+}
+
+.external-link {
+    font-style: italic;
+}
+
+body.light .external-link {
+    color: #0000FF;
+}
+
+body.dark .external-link {
+    color: #00FFFF;
+}
+
+h1 
+{
+	font-size: 1.75em;
+	margin-bottom: 0.00em;
+	margin-top: 1.00em;
+	text-indent: 0.00em;
+	text-align: left;
+	font-weight: bold;
+	font-style: normal;	
+	font-variant: small-caps;
+}
+	
+h2 
+{
+	font-size: 1.3em;
+	margin-bottom: 0.00em;
+	margin-top: 1.00em;
+	text-indent: 0.00em;
+	margin-right: 0.00em;
+	margin-left: 0.00em;
+	text-align: left;
+	font-weight: bold;
+	font-style: normal;	
+	font-variant: small-caps;
+}
+
+h2.title
+{
+	margin-bottom:10px;
+	margin-left:-2px;
+    color:  #1B1007;
+	padding:4px 9px 4px 9px;
+	line-height:16px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+body.light h2.title { background-color: #cbc18f; }
+body.dark h2.title { background-color: #64542f; }
+h1.title{
+    background-color: #522e2c; 
+	margin-bottom:10px;
+	margin-left:-2px;
+    color:  #cbc18f;
+	padding:4px 9px 4px 9px;
+	height:26px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+
+}
+
+
+h3.title
+{
+    background-color: #999999;
+    color: White;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+h3 
+{
+	font-size: 1.1em;
+	margin-bottom: 0.00em;
+	margin-top: 0.00em;
+	text-indent: 0.00em;
+	margin-right: 0.00em;
+	margin-left: 0.00em;
+	text-align: left;
+	font-weight: bold;
+	font-style: normal;	
+	font-variant: small-caps;
+}
+
+div + h1, div + h2, div + h3, div + p,h1 + p, h2 + p, h3 + p, h1+h2, :first-child, p:first-child
+{
+	margin-top: 0;
+}
+
+tr.title
+{
+    background-color: #64542f; 
+    color: White;
+    font-variant: small-caps;
+}
+
+
+#main-menu, #main-menu a{
+	font-family:Julee;
+	text-decoration:none;
+	color: #25160B;
+	text-align: center;
+	font-size: 20px;
+	line-height: 21px;
+}
+
+#main-menu, #main-menu a:hover{
+	color:#9b3602;
+}
+
+#main-menu{
+
+}
+.menutitle h1 {
+    font-family: fairydustbregular;
+    text-decoration: none;
+    font-size: 70px;
+    padding: 22px 15px 5px 19px;
+    font-weight: normal;
+    text-transform: none;
+    font-variant: normal;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+body.dark .menutitle h1 {
+    color: #fff;
+}
+
+body.light .menutitle h1 {
+    color: #0f0f0f;
+}
+
+.menutitle h2 {
+    font-family: fairydustbregular;
+    text-decoration: none;
+    font-size: 32px;
+    padding: 5px 15px 26px 19px;
+    font-weight: normal;
+    text-transform: none;
+    font-variant: normal;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.title h1{
+	font-family:fairydustbregular;
+	text-decoration:none;
+	font-size: 70px;
+	padding: 22px 15px 5px 19px;
+	font-weight: normal;
+	text-transform:none;
+	font-variant:normal;
+	letter-spacing:1px;
+    text-align: center;
+}
+
+body.dark .title h1{
+	color:#fff;
+}
+body.light .title h1{
+	color:#0f0f0f;
+}
+
+.title h2{
+	font-family:fairydustbregular;
+	text-decoration:none;
+	font-size: 32px;
+	padding: 5px 15px 26px 19px;
+	font-weight: normal;
+	text-transform:none;
+	font-variant:normal;
+	letter-spacing:1px;
+    text-align: center;
+}
+
+#main{
+	line-height:24px;
+}
+
+#footer{
+	/*font-family:fairydustbregular;*/
+	font-size:10px;
+}
+body.dark #footer{
+    color:#eee;	
+}
+body.light #footer{
+  	color:#111;	
+}

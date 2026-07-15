@@ -1,0 +1,964 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Traits - Archives of Nethys
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, Trait, Basic (Combat)" /><meta name="description" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Traits.aspx?Type=Basic+(Combat)" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMTYzNjAxNDhkZAl+oI3KmjvA2zVc9F3ldmHQSZQjtLhHQxz570vWdQ+0" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5AB4AC19" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <h2 style="text-align: center"><a href="Traits.aspx?Type=Basic (Combat)"><b>Basic (Combat)</b></a> | 
+                                   <a href="Traits.aspx?Type=Basic (Faith)"><b>Basic (Faith)</b></a> | 
+                                   <a href="Traits.aspx?Type=Basic (Magic)"><b>Basic (Magic)</b></a> | 
+                                   <a href="Traits.aspx?Type=Basic (Social)"><b>Basic (Social)</b></a> | 
+                                   <a href="Traits.aspx?Type=Campaign"><b>Campaign</b></a> | 
+                                   <a href="Traits.aspx?Type=Cosmic"><b>Cosmic</b></a> | 
+                                   <a href="Traits.aspx?Type=Equipment"><b>Equipment</b></a> | 
+                                   <a href="Traits.aspx?Type=Exemplar"><b>Exemplar</b></a> | 
+                                   <a href="Traits.aspx?Type=Faction"><b>Faction</b></a> | 
+                                   <a href="Traits.aspx?Type=Family"><b>Family</b></a> | 
+                                   <a href="Traits.aspx?Type=Mount"><b>Mount</b></a> | 
+                                   <a href="Traits.aspx?Type=Race"><b>Race</b></a> | 
+                                   <a href="Traits.aspx?Type=Region"><b>Region</b></a> | 
+                                   <a href="Traits.aspx?Type=Religion"><b>Religion</b></a></h2>
+    <h2 style="text-align: center"><a href="Traits.aspx?Type=Drawback"><b>Drawbacks</b></a></h2><hr />
+    <span id="MainContent_MainTraitLabel"><h1 class="title">Basic (Combat) Traits</h1></span>
+    <span id="MainContent_HeaderDescription"></span>
+    <table id="MainContent_DataListTypes" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_0"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Absalom Bouncer [<a href="TraitDisplay.aspx?ItemName=Absalom Bouncer" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy965z?Pathfinder-Player-Companion-Advanced-Class-Origins
+" target="_blank" class="external-link"><i>Advanced Class Origins pg. 11</i></a><br /> You learned to fight while serving as a bodyguard in the taverns of Absalom, where keeping the patrons alive through bloody bar brawls was just part of your job. When you make an attack that deals nonlethal damage with an unarmed strike, you gain a +1 bonus on your damage roll.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_1"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Absolute Loyalty [<a href="TraitDisplay.aspx?ItemName=Absolute Loyalty" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8ufc?Pathfinder-Player-Companion-Knights-of-the-Inner-Sea" target="_blank" class="external-link"><i>Knights of the Inner Sea pg. 0</i></a><br /> You gain the one-time ability to immediately cast <i>atonement </i>upon yourself as a spell-like ability upon performing an act or being subjected to an effect that spell affects. This ability can only be used while you are acting in the service of your liege (an individual of higher social standing chosen when you take this feat).<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_2"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Accelerated Drinker [<a href="TraitDisplay.aspx?ItemName=Accelerated Drinker" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/store/downloads/pathfinder/pathfinderCompanion/pathfinderRPG/v5748btpy89ca" target="_blank" class="external-link"><i>Cheliax, Empire of Devils pg. 18</i></a><br />You know how to drink a potion efficiently, such as by not using your hands, tossing it in the air and catching it in your mouth, or opening it with your teeth. You may drink a potion as a move action instead of a standard as long as you start your turn with the potion in your hand.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_3"><h2 class="title">Aldori Caution [<a href="TraitDisplay.aspx?ItemName=Aldori Caution" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9hdy?Pathfinder-Player-Companion-Weapon-Masters-Handbook
+" target="_blank" class="external-link"><i>Weapon Master's Handbook pg. 4</i></a><br /> You learned defensive moves from Aldori trainers. You gain an additional +1 dodge bonus to Armor Class while you fight defensively or use the total defense action.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_4"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Ambush Training [<a href="TraitDisplay.aspx?ItemName=Ambush Training" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw6?Pathfinder-Player-Companion-Pathfinder-Society-Primer" target="_blank" class="external-link"><i>Pathfinder Society Primer pg. 15</i></a><br /> You’ve learned that taking an enemy by surprise can end a combat before it begins. You gain a +1 trait bonus on initiative checks and a +1 trait bonus on weapon damage rolls during any surprise round in which you act.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_5"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Anatomist [<a href="TraitDisplay.aspx?ItemName=Anatomist" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 51</i></a>, <a href="http://paizo.com/pathfinderRPG/v5748btpy8fo1" target="_blank"><i>Advanced Player's Guide pg. 327</i></a>, <a href="http://paizo.com/store/downloads/pathfinder/pathfinderCompanion/35E/v5748btpy84en" target="_blank"><i>Second Darkness Player's Guide pg. 11</i></a><br /> You have studied the workings of anatomy, either as a student at university or as an apprentice mortician or necromancer. You know where to aim your blows to strike vital organs. You gain a +1 trait bonus on all rolls made to confirm critical hits.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_6"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Armed Grit [<a href="TraitDisplay.aspx?ItemName=Armed Grit" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9hdy?Pathfinder-Player-Companion-Weapon-Masters-Handbook
+" target="_blank" class="external-link"><i>Weapon Master's Handbook pg. 5</i></a><br /> You make an impression during a standoff. As long as you have a firearm drawn, you gain a +2 trait bonus on saving throws against fear and the DCs of Intimidate checks to demoralize you increase by 2.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_7"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Armor Expert [<a href="TraitDisplay.aspx?ItemName=Armor Expert" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 51</i></a>, <a href="http://paizo.com/store/downloads/pathfinder/pathfinderCompanion/35E/v5748btpy84en" target="_blank"><i>Second Darkness Player's Guide pg. 11</i></a>, <a href="http://paizo.com/pathfinderRPG/v5748btpy8fo1" target="_blank"><i>Advanced Player's Guide pg. 327</i></a><br /> You have worn armor as long as you can remember, either as part of your training to become a knight’s squire or simply because you were seeking to emulate a hero. Your childhood armor wasn’t the real thing as far as protection, but it did encumber you as much as real armor would have, and you’ve grown used to moving in such suits with relative grace. When you wear armor of any sort, reduce that suit’s armor check penalty by 1, to a minimum check penalty of 0.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_8"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Armored Rider [<a href="TraitDisplay.aspx?ItemName=Armored Rider" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9jbh?Pathfinder-Player-Companion-Armor-Masters-Handbook
+" target="_blank" class="external-link"><i>Armor Master's Handbook pg. 3</i></a><br />You gain a +1 trait bonus on Ride checks, and Ride is a class skill for you. You don’t take an armor check penalty on Ride checks while wearing light or medium armor.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_9"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Armored Soul [<a href="TraitDisplay.aspx?ItemName=Armored Soul" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9jbh?Pathfinder-Player-Companion-Armor-Masters-Handbook
+" target="_blank" class="external-link"><i>Armor Master's Handbook pg. 3</i></a><br />When wearing armor or using a shield, you gain a +1 trait bonus on saving throws against divine spells that deal damage.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_10"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Arodenite Sword Training [<a href="TraitDisplay.aspx?ItemName=Arodenite Sword Training" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9i8l?Pathfinder-Player-Companion-Arcane-Anthology
+" target="_blank" class="external-link"><i>Arcane Anthology pg. 10</i></a><br /> Your family has passed down training in Aroden’s favored weapon, even though the god no longer answers their prayers. You are proficient with the longsword. If your class grants longsword proficiency as well, you gain a +1 trait bonus on attacks of opportunity with longswords.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_11"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Axe to Grind [<a href="TraitDisplay.aspx?ItemName=Axe to Grind" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 51</i></a><br /> There is a fire in your heart that can’t be quenched. You gain a +1 trait bonus on damage against foes who are threatened by only you.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_12"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Back for More [<a href="TraitDisplay.aspx?ItemName=Back for More" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9he0?Pathfinder-Player-Companion-Agents-of-Evil
+" target="_blank" class="external-link"><i>Agents of Evil pg. 11</i></a><br /> Anytime an opponent confirms a critical hit against you, you gain a +2 morale bonus on attack rolls and damage rolls against that foe until the end of your next turn.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_13"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Battlefield Disciple [<a href="TraitDisplay.aspx?ItemName=Battlefield Disciple" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 51</i></a><br /> You are skilled at supporting your allies in the heat of battle. You gain a +2 trait bonus on Heal checks made to stabilize a dying creature. In addition, when you successfully use the aid another action in combat to grant an ally a bonus on her next attack roll, the bonus you grant increases by 1.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_14"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Berserker of the Society [<a href="TraitDisplay.aspx?ItemName=Berserker of the Society" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8txj?Pathfinder-Adventure-Path-Shattered-Star-Players-Guide
+" target="_blank" class="external-link"><i>Shattered Star Player's Guide pg. 5</i></a>, <a href="http://paizo.com/store/downloads/pathfinder/pathfinderChronicles/pathfinderRPG/v5748btpy8emo" target="_blank"><i>Faction Guide pg. 62</i></a><br /><b>Requirement(s)</b> Barbarian, Pathfinder Society<br /> Your time spent as a Pathfinder has taught you new truths about the origins of the your rage ability. You may use your rage ability for 3 additional rounds per day.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_15"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Black Powder Bravado [<a href="TraitDisplay.aspx?ItemName=Black Powder Bravado" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 51</i></a><br /> You are particularly successful when using deeds. Once per day, when you perform a deed that requires an attack roll and you miss with that roll, you can reroll it. You must take the second result even if it is worse.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_16"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Black Powder Fortune [<a href="TraitDisplay.aspx?ItemName=Black Powder Fortune" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 51</i></a><br /> You have little to fear when there’s a gun in your hand. As long as you are wielding a firearm, you gain a +2 trait bonus on all saving throws against curse, fear, and emotion effects.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_17"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Black Powder Interjection [<a href="TraitDisplay.aspx?ItemName=Black Powder Interjection" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 51</i></a><br /> Your confidence rises when you foil spellcasting. Once per day, when you interrupt the casting of a spell with a firearm attack, you may regain 1 grit point.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_18"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Blackjacket Weapon Flair [<a href="TraitDisplay.aspx?ItemName=Blackjacket Weapon Flair" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9hdy?Pathfinder-Player-Companion-Weapon-Masters-Handbook
+" target="_blank" class="external-link"><i>Weapon Master's Handbook pg. 4</i></a><br /> You trained with the Blackjackets of Druma to make optimal use of magic weapons. Whenever you roll a natural 20 (the die shows a “20”) on a combat maneuver check with a magic weapon, you gain a +5 trait bonus on the check.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_19"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Blade of the Society [<a href="TraitDisplay.aspx?ItemName=Blade of the Society" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8txj?Pathfinder-Adventure-Path-Shattered-Star-Players-Guide
+" target="_blank" class="external-link"><i>Shattered Star Player's Guide pg. 5</i></a>, <a href="http://paizo.com/store/downloads/pathfinder/pathfinderChronicles/pathfinderRPG/v5748btpy8emo" target="_blank"><i>Faction Guide pg. 62</i></a><br /><b>Requirement(s)</b> Rogue, Pathfinder Society<br /> The Society gave you access to charts detailing the weak spots of hundreds of humanoids and monsters. You gain a +1 trait bonus on damage rolls from sneak attacks.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_20"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Blight's Bane [<a href="TraitDisplay.aspx?ItemName=Blight's Bane" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9sk7?Pathfinder-Player-Companion-People-of-the-Wastes" target="_blank" class="external-link"><i>People of the Wastes pg. 3</i></a><br />You are trained in the destruction of blights. You gain a +2 trait bonus to confirm critical hits against a creature that has a template affiliated with some kind of communicable condition, such as a blighted fey or a fungal creature.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_21"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Bloodthirsty [<a href="TraitDisplay.aspx?ItemName=Bloodthirsty" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 52</i></a><br /> You have a vicious streak, and nothing satisfies you more than warm blood on your hands and blade. Whenever you make an attack that reduces a foe to 0 hit points or fewer or you confirm a critical hit, your attack deals 1 additional point of damage. The additional damage is a trait bonus, and is multiplied by your weapon’s critical hit multiplier.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_22"><h2 class="title">Bloody-Minded [<a href="TraitDisplay.aspx?ItemName=Bloody-Minded" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy991x?Pathfinder-Player-Companion-Champions-of-Corruption
+" target="_blank" class="external-link"><i>Champions of Corruption pg. 11</i></a><br /> You are always ready for bloodshed. You gain a +1 trait bonus on initiative and Intimidate checks.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_23"><h2 class="title">Born under the Cradle [<a href="TraitDisplay.aspx?ItemName=Born under the Cradle" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy95d3?Pathfinder-Player-Companion-People-of-the-Stars" target="_blank" class="external-link"><i>People of the Stars pg. 27</i></a><br /> Your birth sign aligned significantly with Bretheda on the day you were born, granting you a knack for cooperation in the heat of battle. You gain a +2 trait bonus on attack rolls to perform the aid another action.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_24"><h2 class="title">Born under the Dreamer [<a href="TraitDisplay.aspx?ItemName=Born under the Dreamer" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy95d3?Pathfinder-Player-Companion-People-of-the-Stars" target="_blank" class="external-link"><i>People of the Stars pg. 25</i></a><br /> Your birth sign aligned significantly with Liavara on the day you were born, and you are touched by the instinctual dreaming spirit of that planet, making you naturally poised and hard to surprise. Once per day as a free action, you can take 10 on your initiative check.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_25"><h2 class="title">Born under the Stranger [<a href="TraitDisplay.aspx?ItemName=Born under the Stranger" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy95d3?Pathfinder-Player-Companion-People-of-the-Stars" target="_blank" class="external-link"><i>People of the Stars pg. 31</i></a><br /> Your birth was marked by the alignment of Aucturn with your birth sign and by strange happenings, giving you a link to alien beings. When feinting against aberrations, you do not take a –4 penalty for feinting against a non-humanoid creature, and you take only a –4 penalty if you feint against an aberration of animal Intelligence (instead of –8). You still cannot feint against mindless creatures.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_26"><h2 class="title">Broken, Not Beaten [<a href="TraitDisplay.aspx?ItemName=Broken, Not Beaten" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9he0?Pathfinder-Player-Companion-Agents-of-Evil
+" target="_blank" class="external-link"><i>Agents of Evil pg. 11</i></a><br /> You automatically stabilize when reduced below 0 hit points. Once per day when brought below 0 hit points, you can accept 1 point of damage to regain consciousness for 1 round, though you remain staggered and only able to take a single move or standard action.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_27"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Bullied [<a href="TraitDisplay.aspx?ItemName=Bullied" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 52</i></a>, <a href="http://paizo.com/store/downloads/pathfinder/pathfinderCompanion/35E/v5748btpy84en" target="_blank"><i>Second Darkness Player's Guide pg. 11</i></a>, <a href="http://paizo.com/pathfinderRPG/v5748btpy8fo1" target="_blank"><i>Advanced Player's Guide pg. 328</i></a><br /> You were bullied often as a child, and you are now constantly ready to defend yourself with your fists when an enemy comes near. You gain a +1 trait bonus on attack of opportunity attack rolls made with unarmed strikes. Note that this trait does not grant the ability to make attacks of opportunity with your unarmed strikes— you must have a level in monk, the Improved Unarmed Strike feat, or some other similar power to gain the use of this character trait. However, that doesn’t prevent you from selecting this trait. You simply cannot make use of it until a later point if you do.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_28"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Careful Combatant [<a href="TraitDisplay.aspx?ItemName=Careful Combatant" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x1s?Pathfinder-Player-Companion-Champions-of-Purity
+" target="_blank" class="external-link"><i>Champions of Purity pg. 11</i></a><br /> You have a strong sense of self-preservation, believing it is more important to safely extract yourself from a fight that has turned hopeless than to stubbornly stand your ground and risk death—for when you’re dead, you can’t protect the innocent. When using the withdraw action, both the first and second squares of your movement are not considered threatened by any opponents you can see, rather than just the first square.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_29"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Clockwork Engineer [<a href="TraitDisplay.aspx?ItemName=Clockwork Engineer" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9sk7?Pathfinder-Player-Companion-People-of-the-Wastes" target="_blank" class="external-link"><i>People of the Wastes pg. 3</i></a><br />You have experience with the ancient clockwork constructs that roam certain wastelands, and this has granted you an understanding of these guardians. You gain a +2 trait bonus on damage rolls against creatures with the clockwork subtype.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_30"><h2 class="title">Coherent Rage [<a href="TraitDisplay.aspx?ItemName=Coherent Rage" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/store/downloads/pathfinder/pathfinderChronicles/pathfinderRPG/v5748btpy8emo" target="_blank" class="external-link"><i>Faction Guide pg. 62</i></a><br /><b>Requirement(s)</b> Ulfen Guard<br />Your determination allows you to hold onto a shred of your rational mind at all times. Select one of the following skills: Bluff, Escape Artist, Handle Animal, or Stealth. You may use this skill normally while raging.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_31"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Cold and Calculating [<a href="TraitDisplay.aspx?ItemName=Cold and Calculating" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 52</i></a><br /> You are adept at tricking favored enemies of your race or those related to your race. You gain a +1 trait bonus on all Bluff checks against favored enemies that share one of your subtypes. You also gain a +1 trait bonus on attack rolls made against such favored enemies during the surprise round.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_32"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Courageous [<a href="TraitDisplay.aspx?ItemName=Courageous" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 52</i></a>, <a href="http://paizo.com/store/downloads/pathfinder/pathfinderCompanion/35E/v5748btpy84en" target="_blank"><i>Second Darkness Player's Guide pg. 11</i></a>, <a href="http://paizo.com/pathfinderRPG/v5748btpy8fo1" target="_blank"><i>Advanced Player's Guide pg. 328</i></a><br /> Your childhood was brutal, but you persevered through force of will and faith. No matter how hard things got, you knew you’d make it through as long as you kept a level head. You gain a +2 trait bonus on saving throws against fear effects.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_33"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Crimson Carapace [<a href="TraitDisplay.aspx?ItemName=Crimson Carapace" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9jbh?Pathfinder-Player-Companion-Armor-Masters-Handbook
+" target="_blank" class="external-link"><i>Armor Master's Handbook pg. 3</i></a><br />A combination of armor and agility protects you from deadly attacks. When wearing light armor and fighting defensively or using Combat Expertise, you receive a +2 trait bonus to your AC against attack rolls to confirm a critical threat.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_34"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Crowd Dodger [<a href="TraitDisplay.aspx?ItemName=Crowd Dodger" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 18</i></a><br /> You spent much of your youth on crowded streets, dodging quickly around and under others. You gain a +2 trait bonus on Acrobatics checks to move through another creature’s space and to avoid attacks of opportunity for leaving a threatened square.<br /><br /> <i>Suggested Characters</i>: Absalom natives, Chelaxians, Lion Blades.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_35"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Dedicated Defender [<a href="TraitDisplay.aspx?ItemName=Dedicated Defender" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 52</i></a><br /> When a companion is down, you fight harder. You gain a +1 trait bonus on attack rolls and on checks made to overcome spell resistance while you are adjacent to a dying or disabled ally, animal companion, eidolon, familiar, or mount.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_36"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Defender of the Society [<a href="TraitDisplay.aspx?ItemName=Defender of the Society" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8txj?Pathfinder-Adventure-Path-Shattered-Star-Players-Guide
+" target="_blank" class="external-link"><i>Shattered Star Player's Guide pg. 5</i></a>, <a href="http://paizo.com/store/downloads/pathfinder/pathfinderChronicles/pathfinderRPG/v5748btpy8emo" target="_blank"><i>Faction Guide pg. 62</i></a><br /><b>Requirement(s)</b> Fighter, Pathfinder Society<br /> Your time spent studying the greatest warriors of the Society taught you new defensive skills while wearing armor. You gain a +1 trait bonus to Armor Class when wearing medium or heavy armor.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_37"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Deft Dodger [<a href="TraitDisplay.aspx?ItemName=Deft Dodger" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 52</i></a>, <a href="http://paizo.com/store/downloads/pathfinder/pathfinderCompanion/35E/v5748btpy84en" target="_blank"><i>Second Darkness Player's Guide pg. 11</i></a>, <a href="http://paizo.com/pathfinderRPG/v5748btpy8fo1" target="_blank"><i>Advanced Player's Guide pg. 328</i></a><br /> Growing up in a rough neighborhood or a dangerous environment has honed your senses. You gain a +1 trait bonus on Reflex saves.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_38"><h2 class="title">Demon Slayer [<a href="TraitDisplay.aspx?ItemName=Demon Slayer" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/store/downloads/pathfinder/pathfinderChronicles/pathfinderRPG/v5748btpy8emo" target="_blank" class="external-link"><i>Faction Guide pg. 62</i></a><br /><b>Requirement(s)</b> Mendev Crusaders<br />By studying a demonic opponent, you can sense and target its weak spots. You can attempt a Knowledge (planes) check to find a demon’s weak spot. (DC 10 + the demon’s CR). If you succeed, you gain a +3 trait bonus on rolls to confirm critical hits against that demon until the end of the battle. This effect only works on demons.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_39"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Demon Smiter [<a href="TraitDisplay.aspx?ItemName=Demon Smiter" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x1s?Pathfinder-Player-Companion-Champions-of-Purity
+" target="_blank" class="external-link"><i>Champions of Purity pg. 13</i></a><br /> You grew up around those who fight the demons streaming out of the Worldwound, and from their stories you learned about the demons’ weaknesses. You are likely from Mendev or have joined that nation’s cause as a crusader. Once per day when fighting demons, you gain a +4 trait bonus on a single attack roll.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_40"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Devil Fighter [<a href="TraitDisplay.aspx?ItemName=Devil Fighter" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9jbh?Pathfinder-Player-Companion-Armor-Masters-Handbook
+" target="_blank" class="external-link"><i>Armor Master's Handbook pg. 2</i></a><br />Learning how devils think helps you resist their trickery. You gain a +1 trait bonus to your AC against attacks made by lawful outsiders.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_41"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Dirty Fighter [<a href="TraitDisplay.aspx?ItemName=Dirty Fighter" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 52</i></a>, <a href="http://paizo.com/store/downloads/pathfinder/pathfinderCompanion/35E/v5748btpy84en" target="_blank"><i>Second Darkness Player's Guide pg. 11</i></a>, <a href="http://paizo.com/pathfinderRPG/v5748btpy8fo1" target="_blank"><i>Advanced Player's Guide pg. 328</i></a><br /> You wouldn’t have lived to make it out of childhood without the aid of a sibling, friend, or companion you could always count on to distract your enemies long enough for you to do a little bit more damage than normal. That companion may be another PC or an NPC (who may even be recently departed from your side). When you hit a foe you are flanking, you deal 1 additional point of damage (this damage is added to your base damage, and is multiplied on a critical hit). This additional damage is a trait bonus.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_42"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Dirty Trickster [<a href="TraitDisplay.aspx?ItemName=Dirty Trickster" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9s2i?Pathfinder-Player-Companion-Antiheros-Handbook" target="_blank" class="external-link"><i>Antihero's Handbook pg. 7</i></a><br />You learned early that there’s no point in fighting fair when you’re fighting for your life. Others may look down their noses at your tactics, but you know you wouldn’t have survived this long without breaking a few conventions of fair play. You can take the Improved Dirty Trick<sup>APG</sup> feat without meeting its prerequisites, and you gain a +1 trait bonus on combat maneuver checks to attempt a dirty trick<sup>APG</sup>.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_43"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Disillusioned [<a href="TraitDisplay.aspx?ItemName=Disillusioned" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 18</i></a><br /> Your childhood was ended by a great disaster or atrocity that you witnessed. To cope with the horror, you have learned to reflexively suppress all emotion. You gain a +2 trait bonus on Will saving throws against emotion and fear effects. <br /><br /><i>Suggested Characters</i>: Galtans, Hellknights, Nidalese.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_44"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Dispelled Battler [<a href="TraitDisplay.aspx?ItemName=Dispelled Battler" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 52</i></a><br /> When deprived of magic, you fight harder. You gain a +1 trait bonus on weapon attack and damage rolls while within an area of antimagic such as that created by an <i>antimagic field</i>. You also gain this bonus for 1 round after you are subject to an area or targeted <i>dispel magic</i> spell, regardless of the effect’s success or failure in dispelling your spells and magical effects.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_45"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Dormant Defense [<a href="TraitDisplay.aspx?ItemName=Dormant Defense" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9sk7?Pathfinder-Player-Companion-People-of-the-Wastes" target="_blank" class="external-link"><i>People of the Wastes pg. 4</i></a><br />Your body never lets down its defenses, even when you rest. The DC for Perception checks you attempt while asleep increases only by 7 (instead of the normal +10 increase). While you are dazed, stunned, or helpless, each critical hit or sneak attack scored against you has a 25% chance of being negated; when a critical hit or sneak attack is negated, roll its damage normally. This doesn’t stack with the fortification armor special ability and similar effects.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_46"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Dragon Armor [<a href="TraitDisplay.aspx?ItemName=Dragon Armor" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9jbh?Pathfinder-Player-Companion-Armor-Masters-Handbook
+" target="_blank" class="external-link"><i>Armor Master's Handbook pg. 3</i></a><br />Xa Hoi’s elite warriors are trained to deflect energy attacks. Choose an energy type (acid, cold, electricity, fire, or sonic) when you acquire this trait. When you are wearing medium or heavy armor, you gain a +2 trait bonus on Reflex saves against spells and effects of the chosen energy type.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_47"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Dueling Cloak Adept [<a href="TraitDisplay.aspx?ItemName=Dueling Cloak Adept" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8ufc?Pathfinder-Player-Companion-Knights-of-the-Inner-Sea" target="_blank" class="external-link"><i>Knights of the Inner Sea pg. 0</i></a><br /> You are trained in using your cloak to disguise your body and deceive your enemies. While wearing a cloak and using an Aldori dueling sword, you gain a +2 trait bonus on Bluff checks made to feint. Additionally, every time you successfully feint while wearing a cloak, you gain a +1 dodge bonus to your Armor Class until your next turn.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_48"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Easy Way or the Hard Way [<a href="TraitDisplay.aspx?ItemName=Easy Way or the Hard Way" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 52</i></a><br /> You are skilled at subduing your enemies. Whenever you attack one of your favored enemies with a weapon that deals lethal damage and choose to deal nonlethal damage, you take only a –2 penalty on the attack roll instead of the normal –4.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_49"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Elemental Apprentice [<a href="TraitDisplay.aspx?ItemName=Elemental Apprentice" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9qyb?Pathfinder-Player-Companion-Elemental-Masters-Handbook" target="_blank" class="external-link"><i>Elemental Master's Handbook pg. 3</i></a><br />You spent your childhood in a region of Golarion where the use of elemental magic is commonplace or the environment is heavily infused with elemental energies, such as the volcano Asuulek’s Mouth or the hurricane-lashed Sodden Lands. Your time near raw elemental energies has inured you to taking damage from them. At character creation, select acid, cold, electricity, or fire (once chosen, this damage type can’t be changed). Once per day as a free action, when you hit a creature with a melee weapon, you can convert an amount of damage dealt by your attack equal to your character level into the selected energy type. You cannot convert this damage if any damage from the attack would normally deal a different type of energy damage (such as that of a <i>flaming</i> weapon).<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_50"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Evasive Sting [<a href="TraitDisplay.aspx?ItemName=Evasive Sting" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 53</i></a><br /> Larger enemies have a hard time striking you. You gain a +1 dodge bonus to AC against enemies that are both your favored enemy and at least two size categories larger than you.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_51"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Excitable [<a href="TraitDisplay.aspx?ItemName=Excitable" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/store/downloads/pathfinder/pathfinderCompanion/pathfinderRPG/v5748btpy8dmh" target="_blank" class="external-link"><i>Gnomes of Golarion pg. 14</i></a><br /><b>Requirement(s)</b> Gnome<br />You demand that everything must happen right now, no matter what, and are too impatient to wait for everyone else to catch up. You finish people’s sentences, blurt out the punch lines to slowly-told jokes, rarely make plans, and leap headlong into anything that looks like it might get interesting. While this has sometimes gotten you in trouble, it’s also trained you to start moving a split second before everyone else, and that’s saved your hide a few times as well. You gain a +2 trait bonus on all Initiative checks.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_52"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Failed Aspirant [<a href="TraitDisplay.aspx?ItemName=Failed Aspirant" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy965z?Pathfinder-Player-Companion-Advanced-Class-Origins
+" target="_blank" class="external-link"><i>Advanced Class Origins pg. 11</i></a><br /> You’ve failed the trials to gain entry to one of the Houses of Perfection. Though you are disappointed, you were able to pick up one trick from the monks. Choose a single combat maneuver. Once per day, you can perform that combat maneuver without provoking an attack of opportunity, and you gain a +2 bonus on that attempt.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_53"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Faith's Hunter [<a href="TraitDisplay.aspx?ItemName=Faith's Hunter" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 53</i></a><br /> Divine powers smile upon you each time you grievously wound a favored enemy. When you confirm a critical hit against a favored enemy, you may extend the duration of any divine spell affecting you by 1 round. The benefits from multiple critical hits stack. Divine spells with an instantaneous duration can’t be extended in this manner.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_54"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Fencer [<a href="TraitDisplay.aspx?ItemName=Fencer" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 53</i></a>, <a href="http://paizo.com/pathfinderRPG/v5748btpy8fo1" target="_blank"><i>Advanced Player's Guide pg. 328</i></a>, <a href="http://paizo.com/store/downloads/pathfinder/pathfinderCompanion/35E/v5748btpy84en" target="_blank"><i>Second Darkness Player's Guide pg. 11</i></a><br /> You trained with blades for long hours as a youth, either taking lessons in the genteel art of fencing from tutors paid for by your parents or being taken under the wing of a disenfranchised fencer who may have turned to a life of crime. You gain a +1 trait bonus on attack of opportunity attack rolls made with daggers, swords, and similar bladed weapons.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_55"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Firebug [<a href="TraitDisplay.aspx?ItemName=Firebug" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 18</i></a><br /> You were the child of a gunsmith or alchemist and always enjoyed experimenting with fiery alchemical items and minor explosives. You gain a +1 trait bonus on attack rolls made with thrown splash weapons and alchemist bombs. <br /><br /><i>Suggested Characters</i>: Alkenstar natives, Katapeshi, Thuvians.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_56"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Fugitive [<a href="TraitDisplay.aspx?ItemName=Fugitive" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9s2i?Pathfinder-Player-Companion-Antiheros-Handbook" target="_blank" class="external-link"><i>Antihero's Handbook pg. 7</i></a><br />You crossed the law (or those in charge thought you did), and you are now a wanted criminal. As such, you have grown used to looking over your shoulder wherever you go. While in settlements, you gain a +3 trait bonus on Perception checks to determine awareness for the purpose of a surprise round.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_57"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Guerrilla Tactics [<a href="TraitDisplay.aspx?ItemName=Guerrilla Tactics" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="https://paizo.com/products/btq01w1y" target="_blank" class="external-link"><i>Wilderness Origins pg. 2</i></a><br />You gain a +2 trait bonus on Stealth checks and Initiative checks in forests.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_58"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Hard to Kill [<a href="TraitDisplay.aspx?ItemName=Hard to Kill" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x1s?Pathfinder-Player-Companion-Champions-of-Purity
+" target="_blank" class="external-link"><i>Champions of Purity pg. 7</i></a><br /> Your strong will to live and spread good combined with your pure physicality makes you a tough opponent to take down. You may have discovered this as a child after a tragic accident or during the course of your first battle. When you are attempting a Constitution check to stabilize when dying, the penalty on the check is only half your negative hit point total instead of your full negative hit point total.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_59"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Hellknight Devotion [<a href="TraitDisplay.aspx?ItemName=Hellknight Devotion" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy965z?Pathfinder-Player-Companion-Advanced-Class-Origins
+" target="_blank" class="external-link"><i>Advanced Class Origins pg. 25</i></a><br /> Your family has strong ties to a Hellknight order, and you harness this belief as a weapon. Once per day as a swift action, you can empower the next single melee attack you make to be treated as lawful-aligned for the purpose of overcoming damage reduction.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_60"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Hellknight Initiate [<a href="TraitDisplay.aspx?ItemName=Hellknight Initiate" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9ela?Pathfinder-Player-Companion-Monster-Summoners-Handbook" target="_blank" class="external-link"><i>Monster Summoner's Handbook pg. 10</i></a><br /> You have laboriously studied the training rites of various Hellknight orders with the intent of joining one yourself. You gain a +2 trait bonus on damage rolls against outsiders summoned through conjuration (calling) and conjuration (summoning) spells and effects.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_61"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Helpful [<a href="TraitDisplay.aspx?ItemName=Helpful" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x1s?Pathfinder-Player-Companion-Champions-of-Purity
+" target="_blank" class="external-link"><i>Champions of Purity pg. 9</i></a><br /> You always know the best way to assist your companions, be it assisting them with a task, defending them in battle, or helping them place a wellaimed strike. When using the aid another action, you grant your ally a +3 bonus instead of a +2 bonus.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_62"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Hidden Hand [<a href="TraitDisplay.aspx?ItemName=Hidden Hand" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 53</i></a><br /> Your concealed weapons strike fast and true. You gain a +1 trait bonus on Sleight of Hand checks made to conceal light weapons and a +1 trait bonus on attack rolls when making an attack with a light weapon during a surprise round.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_63"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Hill Fighter [<a href="TraitDisplay.aspx?ItemName=Hill Fighter" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/store/downloads/pathfinder/pathfinderCompanion/pathfinderRPG/v5748btpy8ey2" target="_blank" class="external-link"><i>Sargava, the Lost Colony pg. 23</i></a><br /><b>Requirement(s)</b> Sargavan<br />You are used to fighting in hilly environments (<i>Pathfinder RPG Core Rulebook</i> 427–428). You may run or charge downhill on a steep slope (moving up to your base speed) without making an Acrobatics check to avoid stumbling—but if you travel farther than this distance, the normal rules for steep slopes apply.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_64"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Holdout [<a href="TraitDisplay.aspx?ItemName=Holdout" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 18</i></a><br /> You were robbed at a young age by bullies, an experience that impressed upon you the importance of being able to hold on to whatever you cared to keep. You gain a +1 trait bonus to CMD against disarm and steal combat maneuvers. <br /><br /><i>Suggested Characters</i>: Half-orcs, River Kingdoms natives, Varisians.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_65"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Honored Fist of the Society [<a href="TraitDisplay.aspx?ItemName=Honored Fist of the Society" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8txj?Pathfinder-Adventure-Path-Shattered-Star-Players-Guide
+" target="_blank" class="external-link"><i>Shattered Star Player's Guide pg. 5</i></a>, <a href="http://paizo.com/store/downloads/pathfinder/pathfinderChronicles/pathfinderRPG/v5748btpy8emo" target="_blank"><i>Faction Guide pg. 62</i></a><br /><b>Requirement(s)</b> Monk, Pathfinder Society<br /> You have studied dozens of ancient texts on martial arts that only the Society possesses, and are more learned in these arts than most. You increase your <i>ki </i>pool by 1 point.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_66"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Hunter's Knack [<a href="TraitDisplay.aspx?ItemName=Hunter's Knack" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 53</i></a><br /> When you watch and wait before attacking, your strike is true. You gain a +1 trait bonus on attack rolls against your favored enemies when you make such attacks as part of a readied action.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_67"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Ichimeiyo Champion [<a href="TraitDisplay.aspx?ItemName=Ichimeiyo Champion" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9hdy?Pathfinder-Player-Companion-Weapon-Masters-Handbook
+" target="_blank" class="external-link"><i>Weapon Master's Handbook pg. 5</i></a><br /> You draw strength from adhering to the Ichimeiyo honor code in combat. Once per day, if an effect would compel you to harm an ally, abandon an ally, or break your word, you can attempt a Will save at the usual DC to end the effect. If the effect normally allows a Will save at this point, you can roll twice and take the better result.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_68"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Improvised Defense [<a href="TraitDisplay.aspx?ItemName=Improvised Defense" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy93na?Pathfinder-Player-Companion-Bastards-of-Golarion" target="_blank" class="external-link"><i>Bastards of Golarion pg. 25</i></a><br /> You’re never defenseless, even when you are caught off guard. Whenever you wield an improvised weapon, you gain a +1 shield bonus to AC. If you use the improvised weapon to attack, you lose this shield bonus until the beginning of your next turn.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_69"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Indelible Ire [<a href="TraitDisplay.aspx?ItemName=Indelible Ire" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 53</i></a><br /> When you are gravely wounded, you’re stirred to greater combat focus. Each time a critical hit is confirmed against you, you gain a +1 trait bonus on attack rolls for 1 round.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_70"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Inspiring [<a href="TraitDisplay.aspx?ItemName=Inspiring" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 18</i></a><br /> As a child, you learned the power of a simple expression of faith in another when you gave a hero the inspiration to fight on in the face of terrible odds and save you from danger. As a standard action, you can speak words of encouragement to grant a +1 morale bonus to an ally within 30 feet who can see and hear you. The ally can use this bonus on any d20 roll of her choice before the start of your next turn. You cannot use this trait to grant a bonus to yourself or to an ally who has already benefited from this trait within the last 24 hours.<br /><br /> <b>Suggested Characters</b>: Eagle Knights, Iomedaeans, Mendevian crusaders.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_71"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Inspiring Rush [<a href="TraitDisplay.aspx?ItemName=Inspiring Rush" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8ufc?Pathfinder-Player-Companion-Knights-of-the-Inner-Sea" target="_blank" class="external-link"><i>Knights of the Inner Sea pg. 0</i></a><br /> Your charge inspires nearby companions to new heights of daring. Once per day when you make a charge attack, you gain a +1 trait bonus on both your attack and damage rolls, as do any allies who make a charge attack before the beginning of your next turn.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_72"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Jacket Training [<a href="TraitDisplay.aspx?ItemName=Jacket Training" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9jbh?Pathfinder-Player-Companion-Armor-Masters-Handbook
+" target="_blank" class="external-link"><i>Armor Master's Handbook pg. 2</i></a><br />You can treat an armored coat<sup>UE</sup> as light armor. This choice must be made when you don the armor, and can’t be changed until you remove and redon the armor. You must still be proficient in wearing medium armor to avoid adding the armor’s check penalty on all attack rolls and skill checks that involve moving.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_73"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Jungle Fighter [<a href="TraitDisplay.aspx?ItemName=Jungle Fighter" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/store/downloads/pathfinder/pathfinderCompanion/pathfinderRPG/v5748btpy8ey2" target="_blank" class="external-link"><i>Sargava, the Lost Colony pg. 23</i></a><br /><b>Requirement(s)</b> Sargavan<br />You are sure-footed in jungle environments, and your speed may not be reduced to less than 10 feet by difficult terrain in jungles (meaning you may take a 5-foot step in difficult terrain and not provoke an attack of opportunity).<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_74"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Just Like New [<a href="TraitDisplay.aspx?ItemName=Just Like New" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 53</i></a><br /> Broken firearms are not problems—they are challenges. Your first attempt to remove the broken condition from your starting firearm and to upgrade it to a masterwork weapon costs 150 gp instead of 300 gp. In addition, when wielding a firearm that has the broken condition or is treated as if it had the broken condition, you take a –1 penalty on attack rolls made with it instead of the normal –2.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_75"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Killer [<a href="TraitDisplay.aspx?ItemName=Killer" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 53</i></a>, <a href="http://paizo.com/pathfinderRPG/v5748btpy8fo1" target="_blank"><i>Advanced Player's Guide pg. 328</i></a>, <a href="http://paizo.com/store/downloads/pathfinder/pathfinderCompanion/35E/v5748btpy84en" target="_blank"><i>Second Darkness Player's Guide pg. 11</i></a><br /> You made your first kill at a very young age and found the task of war or murder to your liking. You either take particular pride in a well-placed blow, or find vile pleasure in twisting the blade to maximize your target’s pain. You deal an amount of additional damage equal to your weapon’s critical hit modifier when you score a successful critical hit with a weapon; this additional damage is added to the final total, and is not multiplied by the critical hit multiple itself. This extra damage is a trait bonus.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_76"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Kin Guardian [<a href="TraitDisplay.aspx?ItemName=Kin Guardian" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 53</i></a><br /> You are dedicated to defending members of your family. When you use the aid another action to give a member of your family a bonus to AC, increase the bonus by 2. This increase is a trait bonus (and therefore doesn’t stack with increases granted by other family members using this trait). This trait has no effect when using the aid another action to increase a family member’s next attack roll.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_77"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Larger Than Life [<a href="TraitDisplay.aspx?ItemName=Larger Than Life" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 53</i></a><br /> You wield firearms with truly terrifying menace. When you use the Intimidate skill on a creature while wielding a firearm, you are considered one size category larger than your actual size.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_78"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Lastwall Defender [<a href="TraitDisplay.aspx?ItemName=Lastwall Defender" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy965z?Pathfinder-Player-Companion-Advanced-Class-Origins
+" target="_blank" class="external-link"><i>Advanced Class Origins pg. 25</i></a><br /> Your military service in Lastwall taught you how to identify undead creatures, changing them in your mind from mysterious terrors to concrete foes you know how to deal with. You gain a +1 trait bonus on attack and damage rolls against undead creatures that you have personally identified using the Knowledge (religion) skill.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_79"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Martial Performer [<a href="TraitDisplay.aspx?ItemName=Martial Performer" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 53</i></a><br /> Your training has made you a martial performer. When you gain a monk bonus feat, you may instead take a performance feat for which you meet the prerequisites.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_80"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Merciful Scimitar [<a href="TraitDisplay.aspx?ItemName=Merciful Scimitar" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9hdy?Pathfinder-Player-Companion-Weapon-Masters-Handbook
+" target="_blank" class="external-link"><i>Weapon Master's Handbook pg. 5</i></a><br /> You learned from worshipers of Sarenrae to cut foes with a scimitar without killing them. You can deal nonlethal damage with a scimitar without taking a penalty on your attack rolls.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_81"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Monk Weapon Skill [<a href="TraitDisplay.aspx?ItemName=Monk Weapon Skill" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9hdy?Pathfinder-Player-Companion-Weapon-Masters-Handbook
+" target="_blank" class="external-link"><i>Weapon Master's Handbook pg. 5</i></a><br /> Your exposure to teaching from the Houses of Perfection makes your attacks with monk weapons even more deadly. Select one monk weapon with which you are proficient (unarmed attacks do not qualify for this purpose). You gain a +1 trait bonus on damage rolls with this weapon.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_82"><h2 class="title">Monster Challenger [<a href="TraitDisplay.aspx?ItemName=Monster Challenger" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9s7z" target="_blank" class="external-link"><i>Monster Hunter's Handbook pg. 3</i></a><br />You have made it your mission to bring down a fearsome beast. Choose two of the following: aberrations, animals, dragons, fey, magical beasts, oozes, and vermin. You can move at full speed without penalty while using Survival to follow tracks left by your chosen creature types.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_83"><h2 class="title">Monster Survivor [<a href="TraitDisplay.aspx?ItemName=Monster Survivor" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9s7z" target="_blank" class="external-link"><i>Monster Hunter's Handbook pg. 3</i></a><br />You’ve escaped with your life after a terrible monster attack. You gain a +4 dodge bonus to AC against attacks of opportunity made against you by Large or larger opponents when you’re making a withdraw action.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_84"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Muscle of the Society [<a href="TraitDisplay.aspx?ItemName=Muscle of the Society" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw6?Pathfinder-Player-Companion-Pathfinder-Society-Primer" target="_blank" class="external-link"><i>Pathfinder Society Primer pg. 15</i></a><br /> Your intense training with the Swords has taught you how to infiltrate otherwise inaccessible ruins and extract their treasures without too much exertion. You gain a +2 trait bonus on Strength checks made to break doors and lift portcullises, and you treat your Strength score as 2 higher for the purpose of determining your carrying capacity.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_85"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Natural Flyer [<a href="TraitDisplay.aspx?ItemName=Natural Flyer" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9wmz?Pathfinder-Player-Companion-Blood-of-the-Ancients
+" target="_blank" class="external-link"><i>Blood of the Ancients pg. 29</i></a><br />All your life, the sky has beckoned to you, and you have dreamed of reveling in the freedom and bliss of flight. You gain a +1 trait bonus on Fly checks, as well as Acrobatics checks attempted while flying. Fly is always a class skill for you.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_86"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Nature's Mimic [<a href="TraitDisplay.aspx?ItemName=Nature's Mimic" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 53</i></a><br /> Your knowledge of nature informs your fighting style, and that style gives you insight into related aspects of the natural world. You gain a +1 trait bonus on all Knowledge (nature) checks, and Knowledge (nature) is always a class skill for you. You can make Knowledge (nature) checks pertaining to animals that correspond to your style feats untrained.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_87"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Never Stop Shooting [<a href="TraitDisplay.aspx?ItemName=Never Stop Shooting" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 53</i></a><br /> Even when the chips are down, you keep on shooting. If your hit point total drops to 0 or lower but you are not dead, you may act as if disabled rather than dying (as if you possessed the Diehard feat). However, you can use your actions only to draw a firearm, reload a firearm, or attack with a firearm. If you have the Diehard feat, this trait also allows you to substitute your Wisdom score for your Constitution score for the purpose of determining the negative hit point total at which you die.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_88"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> No Escape [<a href="TraitDisplay.aspx?ItemName=No Escape" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy93nc?Pathfinder-Player-Companion-Champions-of-Balance" target="_blank" class="external-link"><i>Champions of Balance pg. 7</i></a><br /> Struggle as they might, ne’erdo- wells and vagrants are hard pressed to evade the law once in your clutches. You gain a +1 trait bonus on combat maneuver checks to lawfully and nonlethally restrain a creature you’ve witnessed commit a crime.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_89"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Obari Veteran [<a href="TraitDisplay.aspx?ItemName=Obari Veteran" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9vn1?Pathfinder-Player-Companion-Merchants-Manifest
+" target="_blank" class="external-link"><i>Merchant's Manifest pg. 2</i></a><br />You’ve spent years aboard ships traveling the lucrative Obari Crossing, transporting Garundi and Vudrani goods. You gain +1 bonus on Profession (sailor) checks, and Profession (sailor) is a class skill for you. You also gain a +1 trait bonus on weapon damage rolls against creatures with the aquatic subtype.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_90"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Ogre Avoidance [<a href="TraitDisplay.aspx?ItemName=Ogre Avoidance" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9sk7?Pathfinder-Player-Companion-People-of-the-Wastes" target="_blank" class="external-link"><i>People of the Wastes pg. 24</i></a><br />You have practiced defensive maneuvers to avoid being caught by ogres, whose grasps you know are tight and unforgiving. You gain a +2 trait bonus to CMD against bull rush and grapple combat maneuvers.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_91"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Ozem-Inspired [<a href="TraitDisplay.aspx?ItemName=Ozem-Inspired" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9hdy?Pathfinder-Player-Companion-Weapon-Masters-Handbook
+" target="_blank" class="external-link"><i>Weapon Master's Handbook pg. 4</i></a><br /> Tales of the Knights of Ozem have inspired you since childhood to lash out reflexively against the undead. You gain a +1 trait bonus on attack rolls and damage rolls when making attacks of opportunity against undead. While you wield a shield, your shield bonus to AC improves by 1 against attacks of opportunity made by undead.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_92"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Performer's Surprise [<a href="TraitDisplay.aspx?ItemName=Performer's Surprise" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9hdy?Pathfinder-Player-Companion-Weapon-Masters-Handbook
+" target="_blank" class="external-link"><i>Weapon Master's Handbook pg. 5</i></a><br /> You are practiced at the surprising combat tricks of Varisian wanderers. Against foes denied their Dexterity bonus to AC, you gain a +1 trait bonus on damage rolls with improvised weapons, exotic weapons, and thrown weapons.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_93"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Permanent Scars [<a href="TraitDisplay.aspx?ItemName=Permanent Scars" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9jbh?Pathfinder-Player-Companion-Armor-Masters-Handbook
+" target="_blank" class="external-link"><i>Armor Master's Handbook pg. 2</i></a><br />You carry the physical and emotional scars of your Gray Maiden initiation as mental armor. You receive a +2 trait bonus on saving throws against emotion<sup>UM</sup> and pain<sup>UM</sup> spells and effects.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_94"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Pillager [<a href="TraitDisplay.aspx?ItemName=Pillager" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 18</i></a><br /> Growing up in a place where authorities, if there were any, rarely enforced property laws, you learned quickly that you have only what you can hold—but you gain whatever you can take. You gain a +1 trait bonus on combat maneuver checks to perform disarm and steal combat maneuvers.<br /><br /> <i>Suggested Characters</i>: Halflings, River Kingdoms natives, Shackles natives.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_95"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Promising [<a href="TraitDisplay.aspx?ItemName=Promising" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9jbh?Pathfinder-Player-Companion-Armor-Masters-Handbook
+" target="_blank" class="external-link"><i>Armor Master's Handbook pg. 2</i></a><br />Your superiors have identified you as an Eagle Knight candidate, and their praise encourages you to strive to meet their expectations. Each day after getting a full night’s sleep, you gain a +1 trait bonus to your AC when wearing armor or carrying a shield. This bonus lasts until you are first hit by an attack within the next 24 hours.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_96"><h2 class="title">Punish Insurrection [<a href="TraitDisplay.aspx?ItemName=Punish Insurrection" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy991x?Pathfinder-Player-Companion-Champions-of-Corruption
+" target="_blank" class="external-link"><i>Champions of Corruption pg. 7</i></a><br /> You relish reminding people who’s in charge. Against members of the same organization or hierarchy who formally answer to you, you gain a +1 trait bonus on attack and damage rolls. You also gain this bonus against members who have openly defied the authority or rules of that body, provided the infraction is serious enough that their standing is now less than yours.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_97"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Rapscallion [<a href="TraitDisplay.aspx?ItemName=Rapscallion" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/store/downloads/pathfinder/pathfinderCompanion/pathfinderRPG/v5748btpy8dmh" target="_blank" class="external-link"><i>Gnomes of Golarion pg. 14</i></a><br /><b>Requirement(s)</b> Gnome<br />You’ve spent your entire life thumbing your nose at the establishment, and you take pride in your run-ins with the law. Somehow, despite all the mischievous behavior in your life, you’ve never been caught—you always manage to stay one step ahead of your pursuers. You gain a +1 trait bonus on Escape Artist checks and a +1 trait bonus on Initiative checks.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_98"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Reactionary [<a href="TraitDisplay.aspx?ItemName=Reactionary" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 53</i></a>, <a href="http://paizo.com/pathfinderRPG/v5748btpy8fo1" target="_blank"><i>Advanced Player's Guide pg. 328</i></a>, <a href="http://paizo.com/store/downloads/pathfinder/pathfinderCompanion/35E/v5748btpy84en" target="_blank"><i>Second Darkness Player's Guide pg. 11</i></a><br /> You were bullied often as a child, but never quite developed an offensive response. Instead, you became adept at anticipating sudden attacks and reacting to danger quickly. You gain a +2 trait bonus on initiative checks.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_99"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Reckless [<a href="TraitDisplay.aspx?ItemName=Reckless" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 53</i></a><br /> You have a tendency for rash behavior, often disregarding your own safety as you move across the battlefield. You gain a +1 bonus on Acrobatics checks, and Acrobatics is always a class skill for you.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_100"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Reckless Contempt [<a href="TraitDisplay.aspx?ItemName=Reckless Contempt" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 53</i></a><br /> You do not fear the threat of lesser weapons. Whenever you provoke an attack of opportunity by firing a firearm, you gain a +1 trait bonus on the attack roll that provoked the attack of opportunity.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_101"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Red Mantis Bleeding [<a href="TraitDisplay.aspx?ItemName=Red Mantis Bleeding" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9hdy?Pathfinder-Player-Companion-Weapon-Masters-Handbook
+" target="_blank" class="external-link"><i>Weapon Master's Handbook pg. 5</i></a><br /> You witnessed the training of Red Mantis assassins, either as a child on Mediogalti Island or as an aspirant, and learned to leave bleeding wounds. Whenever you confirm a critical hit with a slashing weapon, you also deal 1 point of bleed damage.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_102"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Resilient [<a href="TraitDisplay.aspx?ItemName=Resilient" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 53</i></a>, <a href="http://paizo.com/store/downloads/pathfinder/pathfinderCompanion/35E/v5748btpy84en" target="_blank"><i>Second Darkness Player's Guide pg. 12</i></a>, <a href="http://paizo.com/pathfinderRPG/v5748btpy8fo1" target="_blank"><i>Advanced Player's Guide pg. 328</i></a><br /> Growing up in a poor neighborhood or in the unforgiving wilds often forced you to subsist on food and water from doubtful sources. You’ve built up your constitution as a result, and gain a +1 trait bonus on Fortitude saves.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_103"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Resolve of the Rejected [<a href="TraitDisplay.aspx?ItemName=Resolve of the Rejected" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 53</i></a><br /> Some disagree with your choice to wield a firearm, and their scorn has only hardened your resolve in battle. You gain a +1 trait bonus on all saving throws against charm and compulsion effects. Also, once per day when you succeed at a saving throw against such an effect, you regain 1 grit point.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_104"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Rider's Bond [<a href="TraitDisplay.aspx?ItemName=Rider's Bond" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9nda?Pathfinder-Player-Companion-Heroes-of-the-High-Court
+" target="_blank" class="external-link"><i>Heroes of the High Court pg. 3</i></a><br /><b>Requirement(s)</b> Asociated with the court of Castle Overwatch in Lastwall<br />Your mount keenly understands your commands. If you gain a horse as an animal companion or mount as one of your class abilities, it gains two bonus tricks that don’t count against the normal limit of tricks known by the animal.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_105"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> River Fighter [<a href="TraitDisplay.aspx?ItemName=River Fighter" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/store/downloads/pathfinder/pathfinderCompanion/pathfinderRPG/v5748btpy8ey2" target="_blank" class="external-link"><i>Sargava, the Lost Colony pg. 23</i></a><br /><b>Requirement(s)</b> Sargavan<br />You are used to fighting while swimming. You may swim downstream or cross-current as a charge if you make your Swim DC by 5 or more.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_106"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Roving Range [<a href="TraitDisplay.aspx?ItemName=Roving Range" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9hdy?Pathfinder-Player-Companion-Weapon-Masters-Handbook
+" target="_blank" class="external-link"><i>Weapon Master's Handbook pg. 5</i></a><br /> You learned from pirates to make the most of ranged attacks as you close with targets. Increase the range increment of ranged weapons (but not thrown weapons) you wield by 5 feet.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_107"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Savanna Hunter [<a href="TraitDisplay.aspx?ItemName=Savanna Hunter" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/store/downloads/pathfinder/pathfinderCompanion/pathfinderRPG/v5748btpy8ey2" target="_blank" class="external-link"><i>Sargava, the Lost Colony pg. 23</i></a><br />You have been trained to hunt and fight on the open plains since birth. You gain a +1 trait bonus on attacks of opportunity attack rolls made with a shortspear, as well as a +1 racial bonus on Constitution checks to continue running and avoid nonlethal damage from a forced march<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_108"><h2 class="title">Scarred by Space Pirates [<a href="TraitDisplay.aspx?ItemName=Scarred by Space Pirates" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy95d3?Pathfinder-Player-Companion-People-of-the-Stars" target="_blank" class="external-link"><i>People of the Stars pg. 15</i></a><br /> You were attacked by Vercite space pirates in your youth, inspiring you to find ways to deal with the alien interlopers should they return. You gain a +1 trait bonus on attack rolls against humanoids from beyond Golarion, including androids, kasathas, Triaxians, and Vercites, among others.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_109"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Scarred Descendant [<a href="TraitDisplay.aspx?ItemName=Scarred Descendant" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 53</i></a><br /> Your own people are your favored enemy. You gain a +1 trait bonus on rolls to confirm critical hits against favored enemies of your own subtype and on Survival checks made to track such creatures.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_110"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Shadow Trained [<a href="TraitDisplay.aspx?ItemName=Shadow Trained" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9nda?Pathfinder-Player-Companion-Heroes-of-the-High-Court
+" target="_blank" class="external-link"><i>Heroes of the High Court pg. 3</i></a><br /><b>Requirement(s)</b> Associated with the Umbral Court of Nidal<br />You have experience fighting in darkness. Your miss chance while fighting in areas of dim light is only 10%.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_111"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Siege Defender [<a href="TraitDisplay.aspx?ItemName=Siege Defender" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9i8l?Pathfinder-Player-Companion-Arcane-Anthology
+" target="_blank" class="external-link"><i>Arcane Anthology pg. 10</i></a><br /> Aroden taught the people of Absalom to survive any siege with proper preparation and cooperation, and those teachings were passed on to you. You gain a +1 trait bonus on melee damage rolls when you attack a target from higher ground.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_112"><h2 class="title">Slippery [<a href="TraitDisplay.aspx?ItemName=Slippery" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/store/downloads/pathfinder/pathfinderChronicles/pathfinderRPG/v5748btpy8emo" target="_blank" class="external-link"><i>Faction Guide pg. 62</i></a><br /><b>Requirement(s)</b> Bellflower Network<br />You have escaped from so many dangerous situations in your life that you’ve gotten quite good at not getting caught. You gain a +1 trait bonus on Stealth checks and Stealth is a class skill for you.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_113"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Soaring Sprinter [<a href="TraitDisplay.aspx?ItemName=Soaring Sprinter" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 18</i></a><br /> As a youth, you often leaped and ran at treacherous heights, either because it was the only place with enough freedom for you to play or because it was not a good idea to play any lower. You gain a +2 trait bonus on Acrobatics checks to keep your balance or jump, and Acrobatics becomes a class skill for you.<br /><br /> <i>Suggested Characters</i>: Chelaxians, gnomes, Korvosans.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_114"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Solitary [<a href="TraitDisplay.aspx?ItemName=Solitary" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9s2i?Pathfinder-Player-Companion-Antiheros-Handbook" target="_blank" class="external-link"><i>Antihero's Handbook pg. 7</i></a><br />You are skilled at slipping away from crowds. Once per day, you can attempt a Bluff check to create a diversion to hide with a +2 trait bonus on the check, and if successful, you take only a –5 penalty on your Stealth check to get to an unobserved place while observers are distracted (instead of the normal –10 penalty).<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_115"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Spirit of the Law [<a href="TraitDisplay.aspx?ItemName=Spirit of the Law" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9s2i?Pathfinder-Player-Companion-Antiheros-Handbook" target="_blank" class="external-link"><i>Antihero's Handbook pg. 7</i></a><br />You have seen the rules of society endlessly twisted in their implementation, and as such, you are especially wary of those who exploit the law to impose their own will. You gain a +1 trait bonus on attacks against lawful-aligned humanoids and a +2 trait bonus on saving throws against effects with the lawful descriptor.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_116"><h2 class="title">Splash Attack [<a href="TraitDisplay.aspx?ItemName=Splash Attack" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy978r?Pathfinder-Player-Companion-People-of-the-River" target="_blank" class="external-link"><i>People of the River pg. 25</i></a><br /> You catch others off-guard when a confrontation escalates. As long as you are standing in or adjacent to water, or holding at least a pint of liquid (including insoluble liquids like oil or alchemist’s fire), you can perform a dirty trick combat maneuver to blind a foe within reach without provoking an attack of opportunity. If you select the Improved Dirty Trick feat, you gain a +2 trait bonus on dirty trick combat maneuvers to blind foes as long as you are standing in or adjacent to water or holding a pint of liquid.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_117"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Sprint [<a href="TraitDisplay.aspx?ItemName=Sprint" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/store/downloads/pathfinder/pathfinderCompanion/pathfinderRPG/v5748btpy8dmh" target="_blank" class="external-link"><i>Gnomes of Golarion pg. 14</i></a><br /><b>Requirement(s)</b> Gnome<br />You were taught from a young age that the world is full of big, fast, dangerous foes, and that sometimes the best course of action is to put your head down and run. Your parents taught you how to make the most of a solid mid-length sprint and how to squeeze just a little extra speed out of yourself. If you do nothing but move in a turn (that is, if you run or use both of your actions in a round to move your speed) and you are in no armor or light armor, you may move an extra 5 feet.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_118"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Startling Report [<a href="TraitDisplay.aspx?ItemName=Startling Report" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 53</i></a><br /> Through either perfect timing or the determination of your action, the sound of your firearm going off sets your enemies on edge. When you shoot a firearm, you gain a +2 trait bonus on Intimidate checks for 1 round against those who heard the shot.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_119"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Steel Skin [<a href="TraitDisplay.aspx?ItemName=Steel Skin" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8ufc?Pathfinder-Player-Companion-Knights-of-the-Inner-Sea" target="_blank" class="external-link"><i>Knights of the Inner Sea pg. 0</i></a><br /> You gain the ability to don or remove heavy armor in half the normal time. Additionally, you begin play with a great helm bearing the iconography of your family (this helm grants no special defensive benefits). While wearing this helm with a suit of heavy armor, you gain a +2 trait bonus on Intimidate checks.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_120"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Strong Arm, Supple Wrist [<a href="TraitDisplay.aspx?ItemName=Strong Arm, Supple Wrist" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9nd2?Pathfinder-Campaign-Setting-Qadira-Jewel-of-the-East
+" target="_blank" class="external-link"><i>Qadira, Jewel of the East pg. 15</i></a>, <a href="http://paizo.com/store/downloads/pathfinder/pathfinderCompanion/pathfinderRPG/v5748btpy88zq" target="_blank"><i>Qadira, Gateway to the East pg. 9</i></a><br />You have been trained in the javelin and the spear, and you know how to make the best use of your momentum. When you move at least 10 feet before making an attack with a thrown weapon, you can add 10 feet to the range increment of the weapon thrown. You can gain this benefit only once per round.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_121"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Subjective Equilibrium [<a href="TraitDisplay.aspx?ItemName=Subjective Equilibrium" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9z15?Pathfinder-Player-Companion-PlaneHopper-s-Handbook
+" target="_blank" class="external-link"><i>Plane-Hopper's Handbook pg. 3</i></a><br />You understand that gravity is far from constant when traversing the Great Beyond. You gain a +2 trait bonus on Wisdom checks to move on a plane with subjective directional gravity, and you gain a +10-foot enhancement bonus to your speed when “falling” on such a plane.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_122"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Surprise Weapon [<a href="TraitDisplay.aspx?ItemName=Surprise Weapon" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 54</i></a><br /> You are skilled at fighting with objects not traditionally considered weapons. You gain a +2 trait bonus on attack rolls with improvised weapons.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_123"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Sworn Enemy [<a href="TraitDisplay.aspx?ItemName=Sworn Enemy" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 18</i></a><br /> You were raised with defiance, fear, or hatred of a particular sort of foe. To make you ready to resist such foes, you were trained for long hours in the proper ways to defeat them. Choose a foe from the ranger’s list of favored enemies. You gain a +1 trait bonus on attacks of opportunity against the chosen foe.<br /><br /> <i>Suggested Characters</i>: Dwarves, Isgeri, Mendevian crusaders.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_124"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Tactician [<a href="TraitDisplay.aspx?ItemName=Tactician" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 54</i></a><br /> You know how to take advantage of enemies who are unprepared for your assault. You gain a +1 trait bonus on initiative checks. In addition, once per day when you make an attack of opportunity, you gain a +2 trait bonus on the attack roll.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_125"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Tar Taargadth Trained [<a href="TraitDisplay.aspx?ItemName=Tar Taargadth Trained" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9wmz?Pathfinder-Player-Companion-Blood-of-the-Ancients
+" target="_blank" class="external-link"><i>Blood of the Ancients pg. 31</i></a><br />You know the ancient fighting techniques of the Tar Taargadth Empire. You gain a +1 trait bonus on damage rolls when using any weapon with the word “dwarven” in its name.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_126"><h2 class="title">Tarnished Halls Runner [<a href="TraitDisplay.aspx?ItemName=Tarnished Halls Runner" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9h7x?Pathfinder-Player-Companion-Black-Markets
+" target="_blank" class="external-link"><i>Black Markets pg. 9</i></a><br /> You evaded Technic League patrols with the Blood Gar pirates. When you move at least 10 feet, you gain a +1 trait bonus on attack rolls with firearms and technological weapons and a +1 dodge bonus to your AC against such weapons until the start of your next turn.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_127"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Threatening Defender [<a href="TraitDisplay.aspx?ItemName=Threatening Defender" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/store/downloads/pathfinder/pathfinderCompanion/pathfinderRPG/v5748btpy89ca" target="_blank" class="external-link"><i>Cheliax, Empire of Devils pg. 19</i></a><br />You know how to avoid a blow while still maintaining your offensive posture. When you use Combat Expertise, reduce the number you subtract from your melee attack rolls by 1.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_128"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Thunder and Fang Performer [<a href="TraitDisplay.aspx?ItemName=Thunder and Fang Performer" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9hdy?Pathfinder-Player-Companion-Weapon-Masters-Handbook
+" target="_blank" class="external-link"><i>Weapon Master's Handbook pg. 5</i></a><br /> You learned from Shoanti champions to take advantage of the dramatic swings required by heavy weapons like the earth breaker. You gain a +2 trait bonus on Intimidate checks while wielding a two-handed melee weapon.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_129"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> To The Last [<a href="TraitDisplay.aspx?ItemName=To The Last" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9jbh?Pathfinder-Player-Companion-Armor-Masters-Handbook
+" target="_blank" class="external-link"><i>Armor Master's Handbook pg. 2</i></a><br />Choose one type of medium or heavy armor (such as chainmail or half-plate). If you have no allies within 60 feet when you are wearing that type of armor, you gain DR 1/—. This stacks with any one other source of damage resistance you have.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_130"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Tracker of the Society [<a href="TraitDisplay.aspx?ItemName=Tracker of the Society" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8txj?Pathfinder-Adventure-Path-Shattered-Star-Players-Guide
+" target="_blank" class="external-link"><i>Shattered Star Player's Guide pg. 5</i></a>, <a href="http://paizo.com/store/downloads/pathfinder/pathfinderChronicles/pathfinderRPG/v5748btpy8emo" target="_blank"><i>Faction Guide pg. 62</i></a><br /><b>Requirement(s)</b> Ranger, Pathfinder Society<br /> Thanks to your time as a Pathfinder, you’ve mastered the art of tracking. You gain a +1 trait bonus on initiative checks and a +2 trait bonus on Survival checks made while traveling through any of your favored terrains. This is in addition to any bonuses you receive from your favored terrain class ability.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_131"><h2 class="title">Unblemished Barrel [<a href="TraitDisplay.aspx?ItemName=Unblemished Barrel" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 54</i></a><br /> Your skill with firearms speeds your repair of such weapons. You gain a +1 trait bonus on Craft (alchemy) and Craft (weapons) checks, and it takes you only 30 minutes to remove the broken condition from a firearm.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_132"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Undergrowth Specialist [<a href="TraitDisplay.aspx?ItemName=Undergrowth Specialist" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9sk7?Pathfinder-Player-Companion-People-of-the-Wastes" target="_blank" class="external-link"><i>People of the Wastes pg. 3</i></a><br />You’ve trained yourself to move in and out of undergrowth with ease. The DCs of Acrobatics checks don’t increase for you when you’re moving through light undergrowth, and the DCs of Acrobatics checks you attempt while you’re moving through heavy undergrowth increase only by 2.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_133"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Unpredictable Reactions [<a href="TraitDisplay.aspx?ItemName=Unpredictable Reactions" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy93nc?Pathfinder-Player-Companion-Champions-of-Balance" target="_blank" class="external-link"><i>Champions of Balance pg. 11</i></a><br /> Your reactions to combat beginning aren’t what people expect. You gain a +1 trait bonus on attack rolls made during the surprise round of combat.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_134"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Vandal [<a href="TraitDisplay.aspx?ItemName=Vandal" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9cro?Pathfinder-Player-Companion-Heroes-of-the-Wild" target="_blank" class="external-link"><i>Heroes of the Wild pg. 5</i></a><br /> You gain a +2 bonus on Strength checks to break objects, and when damaging an object with a weapon, natural weapon, or unarmed attack, you ignore 2 points of its hardness.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_135"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Vengeful (Combat) [<a href="TraitDisplay.aspx?ItemName=Vengeful (Combat)" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 18</i></a><br /> During your childhood, you suffered occasional or frequent abuse from those too powerful for you to resist. Now you thrill at the chance to get back at those who wronged you. Whenever you strike the last creature that damaged you in the past 24 hours, you gain a +1 trait bonus on damage rolls against that creature.<br /><br /> <i>Suggested Characters</i>: Calistrians, Galtan refugees, Gyronna worshipers.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_136"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Venom Resistance [<a href="TraitDisplay.aspx?ItemName=Venom Resistance" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9sk7?Pathfinder-Player-Companion-People-of-the-Wastes" target="_blank" class="external-link"><i>People of the Wastes pg. 23</i></a><br />You have spent considerable time in arid wastelands where girtablilus and other venomous creatures are common, and you have built up a resistance to poison. You gain a +2 trait bonus on Fortitude saving throws against poison, and once per day when attempting a saving throw to resist girtablilu poison, you can roll twice and take the higher result.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_137"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Vigilant Battler [<a href="TraitDisplay.aspx?ItemName=Vigilant Battler" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 54</i></a><br /> You are hard to fool and harder to trick with a feint. You gain a +1 trait bonus on all Sense Motive checks. This trait bonus increases to +2 when used to counter a feint in combat.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_138"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Volatile Fuse [<a href="TraitDisplay.aspx?ItemName=Volatile Fuse" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9sk7?Pathfinder-Player-Companion-People-of-the-Wastes" target="_blank" class="external-link"><i>People of the Wastes pg. 4</i></a><br />Firearms you wield are especially dangerous to you and everyone nearby. Whenever a firearm you wield misfires or explodes, roll a d%. On a result of 1–25, the misfire or explosion is delayed; reroll the attack with a –5 penalty (penalties from the broken condition are not applied to this reroll, and a firearm that was already broken does not explode). After the reroll is resolved, apply the effects of the misfire or explosion as normal. (If the d% roll result is 26 or higher, the misfire or explosion happens as normal.) Whenever a firearm you wield explodes due to a misfire, increase the explosion’s damage by 1d6 plus 1d6 for every 4 character levels you have.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_139"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Wary Eye [<a href="TraitDisplay.aspx?ItemName=Wary Eye" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9l2w?Pathfinder-Player-Companion-Spymasters-Handbook
+" target="_blank" class="external-link"><i>Spymaster's Handbook pg. 6</i></a><br />You know that you could be exposed at any time. Even your closest friends could someday become enemies, and so you have trained yourself to never be surprised by a betrayal. At the beginning of combat, before initiative checks are revealed, you can select one opponent you are aware of to be the subject of this trait. If you succeed at a Wisdom check opposed by the subject’s initiative check, you are not considered flat-footed against this subject for this combat, even if you normally would be. You can use this trait in a surprise round, even if you cannot otherwise act that round.
+<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_140"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Weapon of Peace [<a href="TraitDisplay.aspx?ItemName=Weapon of Peace" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x1s?Pathfinder-Player-Companion-Champions-of-Purity
+" target="_blank" class="external-link"><i>Champions of Purity pg. 7</i></a><br /> Even though you are a trained combatant, proficient with any number of weapons, you don’t relish killing your enemies. It’s not that you’re afraid of seeing blood, but rather that disabling a foe is superior to killing someone capable of admitting defeat. When using a melee weapon that deals lethal damage to instead deal nonlethal damage, you take only a –2 penalty instead of –4.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_141"><h2 class="title">Witty Repartee [<a href="TraitDisplay.aspx?ItemName=Witty Repartee" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/store/downloads/pathfinder/pathfinderChronicles/pathfinderRPG/v5748btpy8emo" target="_blank" class="external-link"><i>Faction Guide pg. 62</i></a><br /><b>Requirement(s)</b> Kitharodian Academy<br />You are quick with your tongue and have always possessed the talent to quickly admonish your enemies. You gain a +1 trait bonus on Bluff checks and Bluff is a class skill for you.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_142"><h2 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Youthful Infiltrator [<a href="TraitDisplay.aspx?ItemName=Youthful Infiltrator" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9l2w?Pathfinder-Player-Companion-Spymasters-Handbook
+" target="_blank" class="external-link"><i>Spymaster's Handbook pg. 6</i></a><br />You were trained from a young age to ambush the enemies of your order or organization, which makes you hard to trust for most outside your organization if they learn your affiliation. You gain a +1 trait bonus on attack rolls against flat-footed foes, as long as they have not seen you make an attack with this bonus before.
+<br /><br /></span>
+        </td>
+	</tr>
+</table>
+    
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

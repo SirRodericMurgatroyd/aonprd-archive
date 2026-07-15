@@ -1,0 +1,430 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	NPCs - Archives of Nethys: Pathfinder RPG Databases
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    
+    <meta name="keywords" content="Archives, Nethys, Pathfinder, Official, PRD, PFSRD, NPC" /><meta name="description" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./NPCs.aspx?SubGroup=Rogue" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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aXNwbGF5LmFzcHg/SXRlbU5hbWU9U3RyZWV0IChEZWFsZXIpZGQCAQ8PFgIfAgUBM2RkAgIPDxYCHwIFFkh1bWFuIGV4cGVydCAxL3JvZ3VlIDNkZAIPD2QWBmYPZBYCZg8PFgQfAgUXVGVjaG5pYyBMZWFndWUgSGlyZWxpbmcfAwUwTlBDRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVRlY2huaWMgTGVhZ3VlIEhpcmVsaW5nZGQCAQ8PFgIfAgUBM2RkAgIPDxYCHwIFDUh1bWFuIHJvZ3VlIDRkZAIQD2QWBmYPZBYCZg8PFgQfAgUOR3VpbGQgSW5pdGlhdGUfAwUnTlBDRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUd1aWxkIEluaXRpYXRlZGQCAQ8PFgIfAgUBNGRkAgIPDxYCHwIFEEhhbGZsaW5nIHJvZ3VlIDVkZAIRD2QWBmYPZBYCZg8PFgQfAgUQU29kZGVuIFNjYXZlbmdlch8DBSlOUENEaXNwbGF5LmFzcHg/SXRlbU5hbWU9U29kZGVuIFNjYXZlbmdlcmRkAgEPDxYCHwIFATRkZAICDw8WAh8CBRdIdW1hbiBmaWdodGVyIDIvcm9ndWUgM2RkAhIPZBYGZg9kFgJmDw8WBB8CBRhBZHZlbnR1cmVyIChUb21iIFJhaWRlcikfAwUxTlBDRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUFkdmVudHVyZXIgKFRvbWIgUmFpZGVyKWRkAgEPDxYCHwIFATVkZAICDw8WAh8CBQ1IdW1hbiByb2d1ZSA2ZGQCEw9kFgZmD2QWAmYPDxYEHwIFDENhdmUgU3RhbGtlch8DBSVOUENEaXNwbGF5LmFzcHg/SXRlbU5hbWU9Q2F2ZSBTdGFsa2VyZGQCAQ8PFgIfAgUBNWRkAgIPDxYCHwIFDUR3YXJmIHJvZ3VlIDZkZAIUD2QWBmYPZBYCZg8PFgQfAgUUTmlnaHQgU2NhbGUgQXNzYXNzaW4fAwUtTlBDRGlzcGxheS5hc3B4P0l0ZW1OYW1lPU5pZ2h0IFNjYWxlIEFzc2Fzc2luZGQCAQ8PFgIfAgUBNWRkAgIPDxYCHwIFIkZlbWFsZSBoYWxmLWVsZiByb2d1ZSA1L2Fzc2Fzc2luIDFkZAIVD2QWBmYPZBYCZg8PFgQfAgUPRnJlZWxhbmNlIFRoaWVmHwMFKE5QQ0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1GcmVlbGFuY2UgVGhpZWZkZAIBDw8WAh8CBQE2ZGQCAg8PFgIfAgUNSHVtYW4gcm9ndWUgN2RkAhYPZBYGZg9kFgJmDw8WBB8CBRdTY2hvbGFyIChBcmNoYWVvbG9naXN0KR8DBTBOUENEaXNwbGF5LmFzcHg/SXRlbU5hbWU9U2Nob2xhciAoQXJjaGFlb2xvZ2lzdClkZAIBDw8WAh8CBQE2ZGQCAg8PFgIfAgUNSHVtYW4gcm9ndWUgN2RkAhcPZBYGZg9kFgJmDw8WBB8CBRNEYWdnZXJtYXJrIFBvaXNvbmVyHwMFLE5QQ0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1EYWdnZXJtYXJrIFBvaXNvbmVyZGQCAQ8PFgIfAgUBN2RkAgIPDxYCHwIFLkdub21lIHJvZ3VlIChwb2lzb25lcikgNS9EYWdnZXJtYXJrIHBvaXNvbmVyIDNkZAIYD2QWBmYPZBYCZg8PFgQfAgUJVHJhcHNtaXRoHwMFIk5QQ0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1UcmFwc21pdGhkZAIBDw8WAh8CBQE3ZGQCAg8PFgIfAgUNR25vbWUgcm9ndWUgOGRkAhkPZBYGZg9kFgJmDw8WBB8CBQpEZWFkbHkgU3B5HwMFI05QQ0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1EZWFkbHkgU3B5ZGQCAQ8PFgIfAgUBOGRkAgIPDxYCHwIFC0VsZiByb2d1ZSA5ZGQCGg9kFgZmD2QWAmYPDxYEHwIFDVNhY3JlZCBLaWxsZXIfAwUmTlBDRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNhY3JlZCBLaWxsZXJkZAIBDw8WAh8CBQE4ZGQCAg8PFgIfAgUxSGFsZi1vcmMgY2xlcmljIG9mIE5vcmdvcmJlciAxL3JvZ3VlIDYvYXNzYXNzaW4gMmRkAhsPZBYGZg9kFgJmDw8WBB8CBQ9EYW5jaW5nIERlcnZpc2gfAwUoTlBDRGlzcGxheS5hc3B4P0l0ZW1OYW1lPURhbmNpbmcgRGVydmlzaGRkAgEPDxYCHwIFATlkZAICDw8WAh8CBQ5IdW1hbiByb2d1ZSAxMGRkAhwPZBYGZg9kFgJmDw8WBB8CBRpNZXJjaGFudCAoTWVyY2hhbnQgUHJpbmNlKR8DBTNOUENEaXNwbGF5LmFzcHg/SXRlbU5hbWU9TWVyY2hhbnQgKE1lcmNoYW50IFByaW5jZSlkZAIBDw8WAh8CBQE5ZGQCAg8PFgIfAgUWSHVtYW4gZXhwZXJ0IDQvcm9ndWUgNmRkAh0PZBYGZg9kFgJmDw8WBB8CBQ9Db250cmFjdCBLaWxsZXIfAwUoTlBDRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUNvbnRyYWN0IEtpbGxlcmRkAgEPDxYCHwIFAjEwZGQCAg8PFgIfAgUMRWxmIHJvZ3VlIDExZGQCHg9kFgZmD2QWAmYPDxYEHwIFF0NyaW1pbmFsIChHdWlsZCBNYXN0ZXIpHwMFME5QQ0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1DcmltaW5hbCAoR3VpbGQgTWFzdGVyKWRkAgEPDxYCHwIFAjEwZGQCAg8PFgIfAgUOSHVtYW4gcm9ndWUgMTFkZAIfD2QWBmYPZBYCZg8PFgQfAgUPQW5hcGhleGlhIEFnZW50HwMFKE5QQ0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1BbmFwaGV4aWEgQWdlbnRkZAIBDw8WAh8CBQIxMWRkAgIPDxYCHwIFGEh1bWFuIHJvZ3VlIDYvYXNzYXNzaW4gNmRkAiAPZBYGZg9kFgJmDw8WBB8CBQpEaWxldHRhbnRlHwMFI05QQ0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1EaWxldHRhbnRlZGQCAQ8PFgIfAgUCMTFkZAICDw8WAh8CBQ5IdW1hbiByb2d1ZSAxMmRkAiEPZBYGZg9kFgJmDw8WBB8CBQ5GZWlzdHkgSG90c3B1ch8DBSdOUENEaXNwbGF5LmFzcHg/SXRlbU5hbWU9RmVpc3R5IEhvdHNwdXJkZAIBDw8WAh8CBQIxMmRkAgIPDxYCHwIFGkhhbGZsaW5nIHJvZ3VlIDkvZHVlbGlzdCA0ZGQCIg9kFgZmD2QWAmYPDxYEHwIFC0d1aWxkbWFzdGVyHwMFJE5QQ0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1HdWlsZG1hc3RlcmRkAgEPDxYCHwIFAjEyZGQCAg8PFgIfAgUORHdhcmYgcm9ndWUgMTNkZAIjD2QWBmYPZBYCZg8PFgQfAgUaQXNwaXMgQ29uc29ydGl1bSBDb21tYW5kZXIfAwUzTlBDRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUFzcGlzIENvbnNvcnRpdW0gQ29tbWFuZGVyZGQCAQ8PFgIfAgUCMTNkZAICDw8WAh8CBRtIdW1hbiByb2d1ZSA5L0FzcGlzIGFnZW50IDRkZAIkD2QWBmYPZBYCZg8PFgQfAgUMQ2hhaW4gTWF1bGVyHwMFJU5QQ0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1DaGFpbiBNYXVsZXJkZAIBDw8WAh8CBQIxM2RkAgIPDxYCHwIFDkh1bWFuIHJvZ3VlIDE0ZGQCJQ9kFgZmD2QWAmYPDxYEHwIFE1JlZCBNYW50aXMgQXNzYXNzaW4fAwUsTlBDRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVJlZCBNYW50aXMgQXNzYXNzaW5kZAIBDw8WAh8CBQIxM2RkAgIPDxYCHwIFJkhhbGYtZWxmIHJvZ3VlIDcvUmVkIE1hbnRpcyBhc3Nhc3NpbiA3ZGQCJg9kFgZmD2QWAmYPDxYEHwIFDVVuc2VlbiBBcmNoZXIfAwUmTlBDRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVVuc2VlbiBBcmNoZXJkZAIBDw8WAh8CBQIxNGRkAgIPDxYCHwIFEUhhbGYtZWxmIHJvZ3VlIDE1ZGQCJw9kFgZmD2QWAmYPDxYEHwIFC01hZ2UgU2xheWVyHwMFJE5QQ0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1NYWdlIFNsYXllcmRkAgEPDxYCHwIFAjE1ZGQCAg8PFgIfAgURSGFsZi1vcmMgcm9ndWUgMTZkZAIoD2QWBmYPZBYCZg8PFgQfAgULTWFza2VkIExvcmQfAwUkTlBDRGlzcGxheS5hc3B4P0l0ZW1OYW1lPU1hc2tlZCBMb3JkZGQCAQ8PFgIfAgUCMTZkZAICDw8WAh8CBQ5IdW1hbiByb2d1ZSAxN2RkAikPZBYGZg9kFgJmDw8WBB8CBQxWYXVsdGJyZWFrZXIfAwUlTlBDRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVZhdWx0YnJlYWtlcmRkAgEPDxYCHwIFAjE2ZGQCAg8PFgIfAgUtSHVtYW4gcm9ndWUgNi90cmFuc211dGVyIDQvYXJjYW5lIHRyaWNrc3RlciA3ZGQCKg9kFgZmD2QWAmYPDxYEHwIFDURhZ2dlciBNYXN0ZXIfAwUmTlBDRGlzcGxheS5hc3B4P0l0ZW1OYW1lPURhZ2dlciBNYXN0ZXJkZAIBDw8WAh8CBQIxN2RkAgIPDxYCHwIFEUhhbGZsaW5nIHJvZ3VlIDE4ZGQCKw9kFgZmD2QWAmYPDxYEHwIFD0RlYXRoIFdoaXNwZXJlch8DBShOUENEaXNwbGF5LmFzcHg/SXRlbU5hbWU9RGVhdGggV2hpc3BlcmVyZGQCAQ8PFgIfAgUCMThkZAICDw8WAh8CBQ5IdW1hbiByb2d1ZSAxOWRkAiwPZBYGZg9kFgJmDw8WBB8CBQpCbGFkZSBMb3JkHwMFI05QQ0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1CbGFkZSBMb3JkZGQCAQ8PFgIfAgUCMTlkZAICDw8WAh8CBQxFbGYgcm9ndWUgMjBkZAItD2QWBmYPZBYCZg8PFgQfAgULQ2hhb3MgQXJyb3cfAwUkTlBDRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUNoYW9zIEFycm93ZGQCAQ8PFgIfAgUCMTlkZAICDw8WAh8CBSlHbm9tZSByb2d1ZSA2L3NvcmNlcmVyIDQvYXJjYW5lIGFyY2hlciAxMGRkAi4PZBYGZg9kFgJmDw8WBB8CBQhEYXJrc3Rhch8DBSFOUENEaXNwbGF5LmFzcHg/SXRlbU5hbWU9RGFya3N0YXJkZAIBDw8WAh8CBQIxOWRkAgIPDxYCHwIFIUhhbGZsaW5nIHJvZ3VlIDEwL3NoYWRvd2RhbmNlciAxMGRkAi8PZBYGZg9kFgJmDw8WBB8CBQlGYXRhbCBBeGUfAwUiTlBDRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUZhdGFsIEF4ZWRkAgEPDxYCHwIFAjE5ZGQCAg8PFgIfAgUaRHdhcmYgcm9ndWUgMTAvYXNzYXNzaW4gMTBkZAIwDw8WAh4HVmlzaWJsZWhkZAIDDw9kPCsABgEAEBYBZhYBFgIeDlBhcmFtZXRlclZhbHVlBQVSb2d1ZRYBAgRkGAEFG2N0bDAwJE1haW5Db250ZW50JEdyaWRWaWV3Ng88KwAMAwYVAQZJdGVtSWQHFCsALxQrAAEC2gIUKwABArgBFCsAAQIJFCsAAQIRFCsAAQK5ARQrAAEC3AIUKwABAgYUKwABAgoUKwABAoEDFCsAAQLUAxQrAAECugEUKwABAqkDFCsAAQK7ARQrAAECkgMUKwABAqcDFCsAAQK8ARQrAAEC2wMUKwABAtACFCsAAQK9ARQrAAECEBQrAAECvgEUKwABAosDFCsAAQK2AxQrAAECvwEUKwABAsABFCsAAQL8ARQrAAECwQEUKwABAvoCFCsAAQLCARQrAAEC3wIUKwABAqsDFCsAAQLDARQrAAEChQIUKwABAsQBFCsAAQKtAxQrAAECxQEUKwABAtIDFCsAAQLGARQrAAECxwEUKwABAsgBFCsAAQL6ARQrAAECyQEUKwABAsoBFCsAAQLLARQrAAEC9wEUKwABApsCFCsAAQL/AQgCAWRapU/iidwKHTcwafH9XbF204WopsheVyqDLqgh/TNsNw==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form1'];
+if (!theForm) {
+    theForm = document.Form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E69A80CF" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <h2 style="text-align: center"><a href="NPCs.aspx?SubGroup=All"><b>All</b></a>
+    </h2>
+    <h2 style="text-align: center"><a href="NPCs.aspx?SubGroup=Alchemist"><b>Alchemist</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Antipaladin"><b>Antipaladin</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Arcanist"><b>Arcanist</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Barbarian"><b>Barbarian</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Bard"><b>Bard</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Bloodrager"><b>Bloodrager</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Brawler"><b>Brawler</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Cavalier"><b>Cavalier</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Cleric"><b>Cleric</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Druid"><b>Druid</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Fighter"><b>Fighter</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Gunslinger"><b>Gunslinger</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Hunter"><b>Hunter</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Inquisitor"><b>Inquisitor</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Investigator"><b>Investigator</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Magus"><b>Magus</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Monk"><b>Monk</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Ninja"><b>Ninja</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Oracle"><b>Oracle</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Paladin"><b>Paladin</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Ranger"><b>Ranger</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Rogue"><b>Rogue</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Samurai"><b>Samurai</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Shaman"><b>Shaman</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Skald"><b>Skald</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Slayer"><b>Slayer</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Sorcerer"><b>Sorcerer</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Summoner"><b>Summoner</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Swashbuckler"><b>Swashbuckler</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Warpriest"><b>Warpriest</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Witch"><b>Witch</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Wizard"><b>Wizard</b></a></h2>
+    <h2 style="text-align: center"><a href="NPCs.aspx?SubGroup=Adept"><b>Adept</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Aristocrat"><b>Aristocrat</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Commoner"><b>Commoner</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Expert"><b>Expert</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Warrior"><b>Warrior</b></a></h2><hr />
+    <div>
+	<table cellspacing="0" cellpadding="3" rules="cols" id="MainContent_GridView6" style="color:Black;background-color:White;border-color:#999999;border-width:1px;border-style:Solid;border-collapse:collapse;">
+		<tr style="color:White;background-color:Black;font-weight:bold;">
+			<th scope="col"><a href="javascript:__doPostBack(&#39;ctl00$MainContent$GridView6&#39;,&#39;Sort$FullName&#39;)" style="color:White;">Name</a></th><th scope="col"><a href="javascript:__doPostBack(&#39;ctl00$MainContent$GridView6&#39;,&#39;Sort$DoubleCR&#39;)" style="color:White;">CR</a></th><th scope="col"><a href="javascript:__doPostBack(&#39;ctl00$MainContent$GridView6&#39;,&#39;Sort$RaceClass&#39;)" style="color:White;">Race/Class</a></th>
+		</tr><tr>
+			<td><a href="NPCDisplay.aspx?ItemName=Criminal (Pickpocket)">Criminal (Pickpocket)</a></td><td>1/2</td><td>Human rogue 1</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="NPCDisplay.aspx?ItemName=Cutpurse">Cutpurse</a></td><td>1/2</td><td>Human rogue 1</td>
+		</tr><tr>
+			<td><a href="NPCDisplay.aspx?ItemName=Pirate (Sailor)">Pirate (Sailor)</a></td><td>1/2</td><td>Human rogue 1</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="NPCDisplay.aspx?ItemName=Sczarni Thug">Sczarni Thug</a></td><td>1</td><td>Male human rogue 2</td>
+		</tr><tr>
+			<td><a href="NPCDisplay.aspx?ItemName=Skulking Brute">Skulking Brute</a></td><td>1</td><td>Half-orc rogue 2</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="NPCDisplay.aspx?ItemName=Criminal (Burglar)">Criminal (Burglar)</a></td><td>2</td><td>Human rogue 3</td>
+		</tr><tr>
+			<td><a href="NPCDisplay.aspx?ItemName=Jinx Eater">Jinx Eater</a></td><td>2</td><td>Male rogue (charlatan) 3 (<i>Ultimate Combat </i>72)</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="NPCDisplay.aspx?ItemName=Pirate (Smuggler)">Pirate (Smuggler)</a></td><td>2</td><td>Human rogue (smuggler) 3 (Pirates of the Inner Sea 23)</td>
+		</tr><tr>
+			<td><a href="NPCDisplay.aspx?ItemName=Road (Wanderer)">Road (Wanderer)</a></td><td>2</td><td>Human bard 1/rogue 2</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="NPCDisplay.aspx?ItemName=Sczarni Thief">Sczarni Thief</a></td><td>2</td><td>Human rogue 3</td>
+		</tr><tr>
+			<td><a href="NPCDisplay.aspx?ItemName=Skilled Sniper">Skilled Sniper</a></td><td>2</td><td>Half-elf rogue 3</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="NPCDisplay.aspx?ItemName=Absalom Wave Rider">Absalom Wave Rider</a></td><td>3</td><td>Gillman rogue 2/sorcerer 2</td>
+		</tr><tr>
+			<td><a href="NPCDisplay.aspx?ItemName=Charlatan">Charlatan</a></td><td>3</td><td>Human rogue 4</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="NPCDisplay.aspx?ItemName=Street (Dealer)">Street (Dealer)</a></td><td>3</td><td>Human expert 1/rogue 3</td>
+		</tr><tr>
+			<td><a href="NPCDisplay.aspx?ItemName=Technic League Hireling">Technic League Hireling</a></td><td>3</td><td>Human rogue 4</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="NPCDisplay.aspx?ItemName=Guild Initiate">Guild Initiate</a></td><td>4</td><td>Halfling rogue 5</td>
+		</tr><tr>
+			<td><a href="NPCDisplay.aspx?ItemName=Sodden Scavenger">Sodden Scavenger</a></td><td>4</td><td>Human fighter 2/rogue 3</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="NPCDisplay.aspx?ItemName=Adventurer (Tomb Raider)">Adventurer (Tomb Raider)</a></td><td>5</td><td>Human rogue 6</td>
+		</tr><tr>
+			<td><a href="NPCDisplay.aspx?ItemName=Cave Stalker">Cave Stalker</a></td><td>5</td><td>Dwarf rogue 6</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="NPCDisplay.aspx?ItemName=Night Scale Assassin">Night Scale Assassin</a></td><td>5</td><td>Female half-elf rogue 5/assassin 1</td>
+		</tr><tr>
+			<td><a href="NPCDisplay.aspx?ItemName=Freelance Thief">Freelance Thief</a></td><td>6</td><td>Human rogue 7</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="NPCDisplay.aspx?ItemName=Scholar (Archaeologist)">Scholar (Archaeologist)</a></td><td>6</td><td>Human rogue 7</td>
+		</tr><tr>
+			<td><a href="NPCDisplay.aspx?ItemName=Daggermark Poisoner">Daggermark Poisoner</a></td><td>7</td><td>Gnome rogue (poisoner) 5/Daggermark poisoner 3</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="NPCDisplay.aspx?ItemName=Trapsmith">Trapsmith</a></td><td>7</td><td>Gnome rogue 8</td>
+		</tr><tr>
+			<td><a href="NPCDisplay.aspx?ItemName=Deadly Spy">Deadly Spy</a></td><td>8</td><td>Elf rogue 9</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="NPCDisplay.aspx?ItemName=Sacred Killer">Sacred Killer</a></td><td>8</td><td>Half-orc cleric of Norgorber 1/rogue 6/assassin 2</td>
+		</tr><tr>
+			<td><a href="NPCDisplay.aspx?ItemName=Dancing Dervish">Dancing Dervish</a></td><td>9</td><td>Human rogue 10</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="NPCDisplay.aspx?ItemName=Merchant (Merchant Prince)">Merchant (Merchant Prince)</a></td><td>9</td><td>Human expert 4/rogue 6</td>
+		</tr><tr>
+			<td><a href="NPCDisplay.aspx?ItemName=Contract Killer">Contract Killer</a></td><td>10</td><td>Elf rogue 11</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="NPCDisplay.aspx?ItemName=Criminal (Guild Master)">Criminal (Guild Master)</a></td><td>10</td><td>Human rogue 11</td>
+		</tr><tr>
+			<td><a href="NPCDisplay.aspx?ItemName=Anaphexia Agent">Anaphexia Agent</a></td><td>11</td><td>Human rogue 6/assassin 6</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="NPCDisplay.aspx?ItemName=Dilettante">Dilettante</a></td><td>11</td><td>Human rogue 12</td>
+		</tr><tr>
+			<td><a href="NPCDisplay.aspx?ItemName=Feisty Hotspur">Feisty Hotspur</a></td><td>12</td><td>Halfling rogue 9/duelist 4</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="NPCDisplay.aspx?ItemName=Guildmaster">Guildmaster</a></td><td>12</td><td>Dwarf rogue 13</td>
+		</tr><tr>
+			<td><a href="NPCDisplay.aspx?ItemName=Aspis Consortium Commander">Aspis Consortium Commander</a></td><td>13</td><td>Human rogue 9/Aspis agent 4</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="NPCDisplay.aspx?ItemName=Chain Mauler">Chain Mauler</a></td><td>13</td><td>Human rogue 14</td>
+		</tr><tr>
+			<td><a href="NPCDisplay.aspx?ItemName=Red Mantis Assassin">Red Mantis Assassin</a></td><td>13</td><td>Half-elf rogue 7/Red Mantis assassin 7</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="NPCDisplay.aspx?ItemName=Unseen Archer">Unseen Archer</a></td><td>14</td><td>Half-elf rogue 15</td>
+		</tr><tr>
+			<td><a href="NPCDisplay.aspx?ItemName=Mage Slayer">Mage Slayer</a></td><td>15</td><td>Half-orc rogue 16</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="NPCDisplay.aspx?ItemName=Masked Lord">Masked Lord</a></td><td>16</td><td>Human rogue 17</td>
+		</tr><tr>
+			<td><a href="NPCDisplay.aspx?ItemName=Vaultbreaker">Vaultbreaker</a></td><td>16</td><td>Human rogue 6/transmuter 4/arcane trickster 7</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="NPCDisplay.aspx?ItemName=Dagger Master">Dagger Master</a></td><td>17</td><td>Halfling rogue 18</td>
+		</tr><tr>
+			<td><a href="NPCDisplay.aspx?ItemName=Death Whisperer">Death Whisperer</a></td><td>18</td><td>Human rogue 19</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="NPCDisplay.aspx?ItemName=Blade Lord">Blade Lord</a></td><td>19</td><td>Elf rogue 20</td>
+		</tr><tr>
+			<td><a href="NPCDisplay.aspx?ItemName=Chaos Arrow">Chaos Arrow</a></td><td>19</td><td>Gnome rogue 6/sorcerer 4/arcane archer 10</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="NPCDisplay.aspx?ItemName=Darkstar">Darkstar</a></td><td>19</td><td>Halfling rogue 10/shadowdancer 10</td>
+		</tr><tr>
+			<td><a href="NPCDisplay.aspx?ItemName=Fatal Axe">Fatal Axe</a></td><td>19</td><td>Dwarf rogue 10/assassin 10</td>
+		</tr>
+	</table>
+</div>
+    
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

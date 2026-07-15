@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Movement Racial Traits - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Movement Racial Traits" /><meta name="description" content="The following racial traits augment a race’s ability to move about the world." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=1200" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAX0MDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTE2MyI+UmFjZSBCdWlsZGVyPC9hPjwvdT4gLyA8dT48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTExNjUiPkNyZWF0aW5nIGEgTmV3IFJhY2U8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTE4NSI+U3RlcCAzOiBSYWNpYWwgVHJhaXRzPC9hPjwvdT48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTEyMDAiPk1vdmVtZW50IFJhY2lhbCBUcmFpdHM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweThydjI/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLUFkdmFuY2VkLVJhY2UtR3VpZGUiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+QWR2YW5jZWQgUmFjZSBHdWlkZSBwZy4gMjMxPC9pPjwvYT48YnIgLz5UaGUgZm9sbG93aW5nIHJhY2lhbCB0cmFpdHMgYXVnbWVudCBhIHJhY2XigJlzIGFiaWxpdHkgdG8gbW92ZSBhYm91dCB0aGUgd29ybGQuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xMjAxIj5TdGFuZGFyZCBNb3ZlbWVudCBUcmFpdHM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweThydjI/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLUFkdmFuY2VkLVJhY2UtR3VpZGUiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+QWR2YW5jZWQgUmFjZSBHdWlkZSBwZy4gMjMxPC9pPjwvYT48YnIgLz48Yj5DbGltYiAoMiBSUCk8L2I+OiA8aT5QcmVyZXF1aXNpdGVzPC9pPjogTm9uZTsgPGk+QmVuZWZpdDwvaT46IE1lbWJlcnMgb2YgdGhpcyByYWNlIGhhdmUgYSBjbGltYiBzcGVlZCBvZiAyMCBmZWV0LCBhbmQgZ2FpbiB0aGUgKzggcmFjaWFsIGJvbnVzIG9uIENsaW1iIGNoZWNrcyB0aGF0IGEgY2xpbWIgc3BlZWQgbm9ybWFsbHkgZ3JhbnRzLiA8YnIgLz48YnIgLz48Yj5EYXJrbGFuZHMgU3RhbGtlciAoNCBSUCk8L2I+OiA8aT5QcmVyZXF1aXNpdGU8L2k+OiBOYXRpdmUgdG8gdGhlIERhcmtsYW5kczsgPGk+QmVuZWZpdDwvaT46IE1lbWJlcnMgb2YgdGhpcyByYWNlIGNhbiBtb3ZlIHVuaGluZGVyZWQgdGhyb3VnaCBkaWZmaWN1bHQgdGVycmFpbiB3aGlsZSB1bmRlcmdyb3VuZC4gSW4gYWRkaXRpb24sIG1lbWJlcnMgb2YgdGhpcyByYWNlIHdpdGggYSBEZXh0ZXJpdHkgc2NvcmUgb2YgMTMgb3IgaGlnaGVyIGdhaW4gPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IkZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9TmltYmxlIE1vdmVzIj5OaW1ibGUgTW92ZXM8L2E+IGFzIGEgYm9udXMgZmVhdC4gPGJyIC8+PGJyIC8+PGI+RmxlZXQtRm9vdGVkICgzIFJQKTwvYj46IDxpPlByZXJlcXVpc2l0ZTwvaT46IFRoZSByYWNlIGhhcyBhdCBsZWFzdCBhICsyIHJhY2lhbCBib251cyB0byBEZXh0ZXJpdHk7IDxpPkJlbmVmaXQ8L2k+OiBNZW1iZXJzIG9mIHRoaXMgcmFjZSByZWNlaXZlIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPVJ1biI+UnVuPC9hPiBhcyBhIGJvbnVzIGZlYXQgYW5kIGEgKzIgcmFjaWFsIGJvbnVzIG9uIGluaXRpYXRpdmUgY2hlY2tzLiA8YnIgLz48YnIgLz48Yj5HbGlkaW5nIFdpbmdzICgzIFJQKTwvYj46IDxpPlByZXJlcXVpc2l0ZXM8L2k+OiBOb25lOyA8aT5CZW5lZml0PC9pPjogTWVtYmVycyBvZiB0aGlzIHJhY2UgdGFrZSBubyBkYW1hZ2UgZnJvbSBmYWxsaW5nIChhcyBpZiBzdWJqZWN0IHRvIGEgY29uc3RhbnQgbm9ubWFnaWNhbCBmZWF0aGVyIGZhbGwgc3BlbGwpLiBXaGlsZSBpbiBtaWRhaXIsIG1lbWJlcnMgb2YgdGhpcyByYWNlIGNhbiBtb3ZlIHVwIHRvIDUgZmVldCBpbiBhbnkgaG9yaXpvbnRhbCBkaXJlY3Rpb24gZm9yIGV2ZXJ5IDEgZm9vdCB0aGV5IGZhbGwsIGF0IGEgc3BlZWQgb2YgNjAgZmVldCBwZXIgcm91bmQuIEEgbWVtYmVyIG9mIGEgcmFjZSB3aXRoIGdsaWRpbmcgd2luZ3MgY2Fubm90IGdhaW4gaGVpZ2h0IHdpdGggdGhlc2Ugd2luZ3MgYWxvbmU7IGl0IG1lcmVseSBjb2FzdHMgaW4gb3RoZXIgZGlyZWN0aW9ucyBhcyBpdCBmYWxscy4gSWYgc3ViamVjdGVkIHRvIGEgc3Ryb25nIHdpbmQgb3IgYW55IG90aGVyIGVmZmVjdCB0aGF0IGNhdXNlcyBhIGNyZWF0dXJlIHdpdGggZ2xpZGluZyB3aW5ncyB0byByaXNlLCBpdCBjYW4gdGFrZSBhZHZhbnRhZ2Ugb2YgdGhlIHVwZHJhZnQgdG8gaW5jcmVhc2UgdGhlIGRpc3RhbmNlIGl0IGNhbiBnbGlkZS4gPGJyIC8+PGJyIC8+PGI+SnVtcGVyICgyIFJQKTwvYj46IDxpPlByZXJlcXVpc2l0ZTwvaT46IFRoZSByYWNlIGhhcyBhdCBsZWFzdCBhICsyIHJhY2lhbCBib251cyB0byBEZXh0ZXJpdHk7IDxpPkJlbmVmaXQ8L2k+OiBNZW1iZXJzIG9mIHRoaXMgcmFjZSBhcmUgYWx3YXlzIGNvbnNpZGVyZWQgdG8gaGF2ZSBhIHJ1bm5pbmcgc3RhcnQgd2hlbiBtYWtpbmcgQWNyb2JhdGljcyBjaGVja3MgdG8ganVtcC4gPGJyIC8+PGJyIC8+PGI+TW91bnRhaW5lZXIgKDEgUlApPC9iPjogPGk+UHJlcmVxdWlzaXRlczwvaT46IE5vbmU7IDxpPkJlbmVmaXQ8L2k+OiBNZW1iZXJzIG9mIHRoaXMgcmFjZSBhcmUgaW1tdW5lIHRvIGFsdGl0dWRlIHNpY2tuZXNzIGFuZCBkbyBub3QgbG9zZSB0aGVpciBEZXh0ZXJpdHkgYm9udXMgdG8gQUMgd2hlbiBtYWtpbmcgQ2xpbWIgY2hlY2tzIG9yIEFjcm9iYXRpY3MgY2hlY2tzIHRvIGNyb3NzIG5hcnJvdyBvciBzbGlwcGVyeSBzdXJmYWNlcy4gPGJyIC8+PGJyIC8+PGI+U3ByaW50ZXIgKDEgUlApPC9iPjogPGk+UHJlcmVxdWlzaXRlPC9pPjogTm9ybWFsIHNwZWVkOyA8aT5CZW5lZml0PC9pPjogTWVtYmVycyBvZiB0aGlzIHJhY2UgZ2FpbiBhICsxMCBmb290IHJhY2lhbCBib251cyB0byB0aGVpciBzcGVlZCB3aGVuIHVzaW5nIHRoZSBjaGFyZ2UsIHJ1biwgb3Igd2l0aGRyYXcgYWN0aW9ucy4gPGJyIC8+PGJyIC8+PGI+U3dpZnQgYXMgU2hhZG93cyAoMyBSUCk8L2I+OiA8aT5QcmVyZXF1aXNpdGU8L2k+OiBUaGUgcmFjZSBoYXMgYXQgbGVhc3QgYSArMiByYWNpYWwgYm9udXMgdG8gRGV4dGVyaXR5OyA8aT5CZW5lZml0PC9pPjogTWVtYmVycyBvZiB0aGlzIHJhY2UgcmVkdWNlIHRoZSBwZW5hbHR5IGZvciB1c2luZyBTdGVhbHRoIHdoaWxlIG1vdmluZyBhdCBmdWxsIHNwZWVkIGJ5IDUsIGFuZCByZWR1Y2UgdGhlIFN0ZWFsdGggY2hlY2sgcGVuYWx0eSBmb3Igc25pcGluZyBieSAxMC4gPGJyIC8+PGJyIC8+PGI+U3dpbSAoMiBSUCk8L2I+OiA8aT5QcmVyZXF1aXNpdGVzPC9pPjogTm9uZTsgPGk+QmVuZWZpdDwvaT46IE1lbWJlcnMgb2YgdGhpcyByYWNlIGhhdmUgYSBzd2ltIHNwZWVkIG9mIDMwIGZlZXQgYW5kIGdhaW4gdGhlICs4IHJhY2lhbCBib251cyBvbiBTd2ltIGNoZWNrcyB0aGF0IGEgc3dpbSBzcGVlZCBub3JtYWxseSBncmFudHMuIDxiciAvPjxiciAvPjxiPlRlcnJhaW4gU3RyaWRlICgxIFJQKTwvYj46IDxpPlByZXJlcXVpc2l0ZTwvaT46IE5vcm1hbCBzcGVlZDsgPGk+QmVuZWZpdDwvaT46IENob29zZSBhIHJhbmdlciBmYXZvcmVkIHRlcnJhaW4gdHlwZS4gTWVtYmVycyBvZiB0aGlzIHJhY2UgY2FuIG1vdmUgdGhyb3VnaCBuYXR1cmFsIGRpZmZpY3VsdCB0ZXJyYWluIGF0IHRoZWlyIG5vcm1hbCBzcGVlZCB3aGlsZSB3aXRoaW4gdGhlIGNob3NlbiB0ZXJyYWluLiBNYWdpY2FsbHkgYWx0ZXJlZCB0ZXJyYWluIGFmZmVjdHMgdGhlbSBub3JtYWxseS4gPGJyIC8+PGJyIC8+PGI+VmVzdGlnaWFsIFdpbmdzICgyIFJQKTwvYj46IDxpPlByZXJlcXVpc2l0ZXM8L2k+OiBOb25lOyA8aT5CZW5lZml0PC9pPjogTWVtYmVycyBvZiB0aGlzIHJhY2UgaGF2ZSB3aW5ncyB0aGF0IGRvIG5vdCBwcm92aWRlIHRoZSBsaWZ0IHJlcXVpcmVkIGZvciBhY3R1YWwgZmxpZ2h0LCBidXQgZG8gaGF2ZSBlbm91Z2ggcG93ZXIgdG8gYWlkIGZsaWdodCBhdHRhaW5lZCBieSBzb21lIG90aGVyIG1ldGhvZCwgYW5kIGdyYW50IGEgKzQgcmFjaWFsIGJvbnVzIG9uIEZseSBjaGVja3MuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xMjAyIj5BZHZhbmNlZCBNb3ZlbWVudCBUcmFpdHM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweThydjI/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLUFkdmFuY2VkLVJhY2UtR3VpZGUiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+QWR2YW5jZWQgUmFjZSBHdWlkZSBwZy4gMjMyPC9pPjwvYT48YnIgLz48Yj5CdXJyb3cgKDMgUlApPC9iPjogPGk+UHJlcmVxdWlzaXRlPC9pPjogTm9ybWFsIHNwZWVkOyA8aT5CZW5lZml0PC9pPjogTWVtYmVycyBvZiB0aGlzIHJhY2UgZ2FpbiBhIGJ1cnJvdyBzcGVlZCBvZiAyMCBmZWV0LiA8aT5TcGVjaWFsPC9pPjogVGhpcyB0cmFpdCBjYW4gYmUgdGFrZW4gdHdpY2UuIFRoZSBzZWNvbmQgdGltZSBpdCBpcyB0YWtlbiwgdGhlIGJ1cnJvdyBzcGVlZCBpbmNyZWFzZXMgdG8gMzAgZmVldC4gPGJyIC8+PGJyIC8+PGI+RmFzdCAoMSBSUCk8L2I+OiA8aT5QcmVyZXF1aXNpdGU8L2k+OiBOb3JtYWwgc3BlZWQ7IDxpPkJlbmVmaXQ8L2k+OiBNZW1iZXJzIG9mIHRoaXMgcmFjZSBnYWluIGEgKzEwIGZvb3QgYm9udXMgdG8gdGhlaXIgYmFzZSBzcGVlZC4gPGk+U3BlY2lhbDwvaT46IFRoaXMgdHJhaXQgY2FuIGJlIHRha2VuIG1vcmUgdGhhbiBvbmNlLCBidXQgZWFjaCB0aW1lIGl0IGlzLCB0aGUgY29zdCBpbmNyZWFzZXMgYnkgMSBSUC4gSXRzIGVmZmVjdHMgc3RhY2suIDxiciAvPjxiciAvPjxiPkZsaWdodCAoNCBSUCk8L2I+OiA8aT5QcmVyZXF1aXNpdGVzPC9pPjogTm9uZTsgPGk+QmVuZWZpdDwvaT46IE1lbWJlcnMgb2YgdGhpcyByYWNlIGhhdmUgYSBmbHkgc3BlZWQgb2YgMzAgZmVldCB3aXRoIGNsdW1zeSBtYW5ldXZlcmFiaWxpdHkuIDxpPlNwZWNpYWw8L2k+OiBUaGlzIHRyYWl0IGNhbiBiZSB0YWtlbiBtb3JlIHRoYW4gb25jZS4gRm9yIGVhY2ggYWRkaXRpb25hbCAyIFJQIHNwZW50LCB0aGUgcmFjZeKAmXMgZmx5IHNwZWVkIGluY3JlYXNlcyBieSArMTAgZmVldCwgYW5kIHRoZSBtYW5ldXZlcmFiaWxpdHkgaW1wcm92ZXMgYnkgb25lIHN0ZXAuIDxiciAvPjxiciAvPjxiPlBvd2VyZnVsIFN3aW1tZXIgKDEgUlApPC9iPjogPGk+UHJlcmVxdWlzaXRlPC9pPjogU3dpbSByYWNpYWwgdHJhaXQ7IDxpPkJlbmVmaXQ8L2k+OiBNZW1iZXJzIG9mIHRoaXMgcmFjZSByZWNlaXZlIGEgKzEwIGZvb3QgYm9udXMgdG8gdGhlaXIgc3dpbSBzcGVlZC4gPGk+U3BlY2lhbDwvaT46IFRoaXMgdHJhaXQgY2FuIGJlIHRha2VuIHR3aWNlLiBJdHMgZWZmZWN0cyBzdGFjay48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTEyMDMiPk1vbnN0cm91cyBNb3ZlbWVudCBUcmFpdHM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweThydjI/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLUFkdmFuY2VkLVJhY2UtR3VpZGUiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+QWR2YW5jZWQgUmFjZSBHdWlkZSBwZy4gMjMyPC9pPjwvYT48YnIgLz48Yj5FeHBlcnQgQ2xpbWJlciAoNCBSUCk8L2I+OiA8aT5QcmVyZXF1aXNpdGU8L2k+OiBDbGltYiByYWNpYWwgdHJhaXQ7IDxpPkJlbmVmaXQ8L2k+OiBNZW1iZXJzIG9mIHRoaXMgcmFjZSBjYW4gY2xpbmcgdG8gY2F2ZSB3YWxscyBhbmQgZXZlbiBjZWlsaW5ncyBhcyBsb25nIGFzIHRoZSBzdXJmYWNlIGhhcyBoYW5kLSBhbmQgZm9vdGhvbGRzLiBJbiBlZmZlY3QsIG1lbWJlcnMgb2YgdGhpcyByYWNlIGFyZSB0cmVhdGVkIGFzIGJlaW5nIGNvbnN0YW50bHkgdW5kZXIgdGhlIGVmZmVjdHMgb2YgYSBub25tYWdpY2FsIHNwaWRlciBjbGltYiBzcGVsbCwgc2F2ZSB0aGF0IG1lbWJlcnMgb2YgdGhpcyByYWNlIGNhbm5vdCBjbGluZyB0byBzbW9vdGggc3VyZmFjZXMuIFRoaXMgdHJhaXQgZG91YmxlcyB0aGUgbm9ybWFsICs4IHJhY2lhbCBib251cyBvbiBDbGltYiBjaGVja3Mgbm9ybWFsbHkgZ3JhbnRlZCB0byBjcmVhdHVyZXMgd2l0aCBhIGNsaW1iIHNwZWVkICh0byBhIHRvdGFsICsxNiBib251cykuZGRkyVrXdS8fPjV42LSIGGiFCdntmvVqHx+7QNMRW3hB8KQ=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1163">Race Builder</a></u> / <u><a href="Rules.aspx?ID=1165">Creating a New Race</a></u> / <u><a href="Rules.aspx?ID=1185">Step 3: Racial Traits</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=1200">Movement Racial Traits</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8rv2?Pathfinder-Roleplaying-Game-Advanced-Race-Guide" target="_blank" class="external-link"><i>Advanced Race Guide pg. 231</i></a><br />The following racial traits augment a race’s ability to move about the world.<br /><h1 class="title"><a href="Rules.aspx?ID=1201">Standard Movement Traits</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8rv2?Pathfinder-Roleplaying-Game-Advanced-Race-Guide" target="_blank" class="external-link"><i>Advanced Race Guide pg. 231</i></a><br /><b>Climb (2 RP)</b>: <i>Prerequisites</i>: None; <i>Benefit</i>: Members of this race have a climb speed of 20 feet, and gain the +8 racial bonus on Climb checks that a climb speed normally grants. <br /><br /><b>Darklands Stalker (4 RP)</b>: <i>Prerequisite</i>: Native to the Darklands; <i>Benefit</i>: Members of this race can move unhindered through difficult terrain while underground. In addition, members of this race with a Dexterity score of 13 or higher gain <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Nimble Moves">Nimble Moves</a> as a bonus feat. <br /><br /><b>Fleet-Footed (3 RP)</b>: <i>Prerequisite</i>: The race has at least a +2 racial bonus to Dexterity; <i>Benefit</i>: Members of this race receive <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Run">Run</a> as a bonus feat and a +2 racial bonus on initiative checks. <br /><br /><b>Gliding Wings (3 RP)</b>: <i>Prerequisites</i>: None; <i>Benefit</i>: Members of this race take no damage from falling (as if subject to a constant nonmagical feather fall spell). While in midair, members of this race can move up to 5 feet in any horizontal direction for every 1 foot they fall, at a speed of 60 feet per round. A member of a race with gliding wings cannot gain height with these wings alone; it merely coasts in other directions as it falls. If subjected to a strong wind or any other effect that causes a creature with gliding wings to rise, it can take advantage of the updraft to increase the distance it can glide. <br /><br /><b>Jumper (2 RP)</b>: <i>Prerequisite</i>: The race has at least a +2 racial bonus to Dexterity; <i>Benefit</i>: Members of this race are always considered to have a running start when making Acrobatics checks to jump. <br /><br /><b>Mountaineer (1 RP)</b>: <i>Prerequisites</i>: None; <i>Benefit</i>: Members of this race are immune to altitude sickness and do not lose their Dexterity bonus to AC when making Climb checks or Acrobatics checks to cross narrow or slippery surfaces. <br /><br /><b>Sprinter (1 RP)</b>: <i>Prerequisite</i>: Normal speed; <i>Benefit</i>: Members of this race gain a +10 foot racial bonus to their speed when using the charge, run, or withdraw actions. <br /><br /><b>Swift as Shadows (3 RP)</b>: <i>Prerequisite</i>: The race has at least a +2 racial bonus to Dexterity; <i>Benefit</i>: Members of this race reduce the penalty for using Stealth while moving at full speed by 5, and reduce the Stealth check penalty for sniping by 10. <br /><br /><b>Swim (2 RP)</b>: <i>Prerequisites</i>: None; <i>Benefit</i>: Members of this race have a swim speed of 30 feet and gain the +8 racial bonus on Swim checks that a swim speed normally grants. <br /><br /><b>Terrain Stride (1 RP)</b>: <i>Prerequisite</i>: Normal speed; <i>Benefit</i>: Choose a ranger favored terrain type. Members of this race can move through natural difficult terrain at their normal speed while within the chosen terrain. Magically altered terrain affects them normally. <br /><br /><b>Vestigial Wings (2 RP)</b>: <i>Prerequisites</i>: None; <i>Benefit</i>: Members of this race have wings that do not provide the lift required for actual flight, but do have enough power to aid flight attained by some other method, and grant a +4 racial bonus on Fly checks.<br /><h1 class="title"><a href="Rules.aspx?ID=1202">Advanced Movement Traits</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8rv2?Pathfinder-Roleplaying-Game-Advanced-Race-Guide" target="_blank" class="external-link"><i>Advanced Race Guide pg. 232</i></a><br /><b>Burrow (3 RP)</b>: <i>Prerequisite</i>: Normal speed; <i>Benefit</i>: Members of this race gain a burrow speed of 20 feet. <i>Special</i>: This trait can be taken twice. The second time it is taken, the burrow speed increases to 30 feet. <br /><br /><b>Fast (1 RP)</b>: <i>Prerequisite</i>: Normal speed; <i>Benefit</i>: Members of this race gain a +10 foot bonus to their base speed. <i>Special</i>: This trait can be taken more than once, but each time it is, the cost increases by 1 RP. Its effects stack. <br /><br /><b>Flight (4 RP)</b>: <i>Prerequisites</i>: None; <i>Benefit</i>: Members of this race have a fly speed of 30 feet with clumsy maneuverability. <i>Special</i>: This trait can be taken more than once. For each additional 2 RP spent, the race’s fly speed increases by +10 feet, and the maneuverability improves by one step. <br /><br /><b>Powerful Swimmer (1 RP)</b>: <i>Prerequisite</i>: Swim racial trait; <i>Benefit</i>: Members of this race receive a +10 foot bonus to their swim speed. <i>Special</i>: This trait can be taken twice. Its effects stack.<br /><h1 class="title"><a href="Rules.aspx?ID=1203">Monstrous Movement Traits</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8rv2?Pathfinder-Roleplaying-Game-Advanced-Race-Guide" target="_blank" class="external-link"><i>Advanced Race Guide pg. 232</i></a><br /><b>Expert Climber (4 RP)</b>: <i>Prerequisite</i>: Climb racial trait; <i>Benefit</i>: Members of this race can cling to cave walls and even ceilings as long as the surface has hand- and footholds. In effect, members of this race are treated as being constantly under the effects of a nonmagical spider climb spell, save that members of this race cannot cling to smooth surfaces. This trait doubles the normal +8 racial bonus on Climb checks normally granted to creatures with a climb speed (to a total +16 bonus).</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

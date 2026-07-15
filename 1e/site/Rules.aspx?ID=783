@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Elements of Adventure - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Elements of Adventure" /><meta name="description" content="Past the elaborate details and fantastical beasts, beyond the schemes of villains and works of strange magic, lies the culmination of the Game Master’s craft: the development and harmonizing of numerous characters, plots, creatures, and settings into a single vibrant, dangerous, and enthralling experience: a Pathfinder Roleplaying Game adventure. More than simply the sum of its parts, a great adventure transcends any host of villains, arsenal of cunning traps, legion of monsters, or stack of stat blocks. Brought to life by the interplay of a creative GM with dynamic players, a great adventure is something akin to a living fantasy story, thrilling and captivating in a way that—like an epic work of fiction— draws participants into the tale, makes them integral parts of the excitement, and leaves them yearning to see how the story unfolds. Such an adventure is both the pinnacle and the goal of the Game Master’s art.&lt;br />&lt;br /> Yet building such an adventure proves no mean feat, and it relies on a variety of factors. While the previous chapters of this guide have laid the groundwork to help GMs choose and create many of the elements that go into crafting a great gaming experience, these elements all come together in the adventure and the act of storytelling itself. To help GMs in the sometimes daunting task of pulling together a great fantasy adventure, this chapter presents a storehouse of advice, inspiration, and tools for GMs to plan and create adventures in a wide variety of settings. From advice on managing staple elements of nearly any plot, to helpful new rules elements to enhance campaigns venturing into classic RPG locales, to random encounter tables easily customized for use in nearly any setting, this chapter is designed to be a constant aid to GMs, no matter what types of campaigns they decide to run." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=783" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXmQzx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDU0Ij5HYW1lTWFzdGVyeSBHdWlkZTwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD03ODIiPkFkdmVudHVyZXM8L2E+PC91PjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NzgzIj5FbGVtZW50cyBvZiBBZHZlbnR1cmU8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiAxNzI8L2k+PC9hPjxiciAvPlBhc3QgdGhlIGVsYWJvcmF0ZSBkZXRhaWxzIGFuZCBmYW50YXN0aWNhbCBiZWFzdHMsIGJleW9uZCB0aGUgc2NoZW1lcyBvZiB2aWxsYWlucyBhbmQgd29ya3Mgb2Ygc3RyYW5nZSBtYWdpYywgbGllcyB0aGUgY3VsbWluYXRpb24gb2YgdGhlIEdhbWUgTWFzdGVy4oCZcyBjcmFmdDogdGhlIGRldmVsb3BtZW50IGFuZCBoYXJtb25pemluZyBvZiBudW1lcm91cyBjaGFyYWN0ZXJzLCBwbG90cywgY3JlYXR1cmVzLCBhbmQgc2V0dGluZ3MgaW50byBhIHNpbmdsZSB2aWJyYW50LCBkYW5nZXJvdXMsIGFuZCBlbnRocmFsbGluZyBleHBlcmllbmNlOiBhIFBhdGhmaW5kZXIgUm9sZXBsYXlpbmcgR2FtZSBhZHZlbnR1cmUuIE1vcmUgdGhhbiBzaW1wbHkgdGhlIHN1bSBvZiBpdHMgcGFydHMsIGEgZ3JlYXQgYWR2ZW50dXJlIHRyYW5zY2VuZHMgYW55IGhvc3Qgb2YgdmlsbGFpbnMsIGFyc2VuYWwgb2YgY3VubmluZyB0cmFwcywgbGVnaW9uIG9mIG1vbnN0ZXJzLCBvciBzdGFjayBvZiBzdGF0IGJsb2Nrcy4gQnJvdWdodCB0byBsaWZlIGJ5IHRoZSBpbnRlcnBsYXkgb2YgYSBjcmVhdGl2ZSBHTSB3aXRoIGR5bmFtaWMgcGxheWVycywgYSBncmVhdCBhZHZlbnR1cmUgaXMgc29tZXRoaW5nIGFraW4gdG8gYSBsaXZpbmcgZmFudGFzeSBzdG9yeSwgdGhyaWxsaW5nIGFuZCBjYXB0aXZhdGluZyBpbiBhIHdheSB0aGF04oCUbGlrZSBhbiBlcGljIHdvcmsgb2YgZmljdGlvbuKAlCBkcmF3cyBwYXJ0aWNpcGFudHMgaW50byB0aGUgdGFsZSwgbWFrZXMgdGhlbSBpbnRlZ3JhbCBwYXJ0cyBvZiB0aGUgZXhjaXRlbWVudCwgYW5kIGxlYXZlcyB0aGVtIHllYXJuaW5nIHRvIHNlZSBob3cgdGhlIHN0b3J5IHVuZm9sZHMuIFN1Y2ggYW4gYWR2ZW50dXJlIGlzIGJvdGggdGhlIHBpbm5hY2xlIGFuZCB0aGUgZ29hbCBvZiB0aGUgR2FtZSBNYXN0ZXLigJlzIGFydC48YnIgLz48YnIgLz4gWWV0IGJ1aWxkaW5nIHN1Y2ggYW4gYWR2ZW50dXJlIHByb3ZlcyBubyBtZWFuIGZlYXQsIGFuZCBpdCByZWxpZXMgb24gYSB2YXJpZXR5IG9mIGZhY3RvcnMuIFdoaWxlIHRoZSBwcmV2aW91cyBjaGFwdGVycyBvZiB0aGlzIGd1aWRlIGhhdmUgbGFpZCB0aGUgZ3JvdW5kd29yayB0byBoZWxwIEdNcyBjaG9vc2UgYW5kIGNyZWF0ZSBtYW55IG9mIHRoZSBlbGVtZW50cyB0aGF0IGdvIGludG8gY3JhZnRpbmcgYSBncmVhdCBnYW1pbmcgZXhwZXJpZW5jZSwgdGhlc2UgZWxlbWVudHMgYWxsIGNvbWUgdG9nZXRoZXIgaW4gdGhlIGFkdmVudHVyZSBhbmQgdGhlIGFjdCBvZiBzdG9yeXRlbGxpbmcgaXRzZWxmLiBUbyBoZWxwIEdNcyBpbiB0aGUgc29tZXRpbWVzIGRhdW50aW5nIHRhc2sgb2YgcHVsbGluZyB0b2dldGhlciBhIGdyZWF0IGZhbnRhc3kgYWR2ZW50dXJlLCB0aGlzIGNoYXB0ZXIgcHJlc2VudHMgYSBzdG9yZWhvdXNlIG9mIGFkdmljZSwgaW5zcGlyYXRpb24sIGFuZCB0b29scyBmb3IgR01zIHRvIHBsYW4gYW5kIGNyZWF0ZSBhZHZlbnR1cmVzIGluIGEgd2lkZSB2YXJpZXR5IG9mIHNldHRpbmdzLiBGcm9tIGFkdmljZSBvbiBtYW5hZ2luZyBzdGFwbGUgZWxlbWVudHMgb2YgbmVhcmx5IGFueSBwbG90LCB0byBoZWxwZnVsIG5ldyBydWxlcyBlbGVtZW50cyB0byBlbmhhbmNlIGNhbXBhaWducyB2ZW50dXJpbmcgaW50byBjbGFzc2ljIFJQRyBsb2NhbGVzLCB0byByYW5kb20gZW5jb3VudGVyIHRhYmxlcyBlYXNpbHkgY3VzdG9taXplZCBmb3IgdXNlIGluIG5lYXJseSBhbnkgc2V0dGluZywgdGhpcyBjaGFwdGVyIGlzIGRlc2lnbmVkIHRvIGJlIGEgY29uc3RhbnQgYWlkIHRvIEdNcywgbm8gbWF0dGVyIHdoYXQgdHlwZXMgb2YgY2FtcGFpZ25zIHRoZXkgZGVjaWRlIHRvIHJ1bi48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTc4NCI+V2hhdCBNYWtlcyBhIEdyZWF0IEFkdmVudHVyZTwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDE3MjwvaT48L2E+PGJyIC8+VGhlIHF1ZXN0aW9uIG9mIHdoYXQgZGVmaW5lcyBhIGdyZWF0IFBhdGhmaW5kZXIgUm9sZXBsYXlpbmcgR2FtZSBhZHZlbnR1cmUgY29uanVyZXMgdG8gbWluZCBhIHdpZGUgdmFyaWV0eSBvZiBwb3RlbnRpYWwgYW5zd2VycywgZnJvbSBhcnRpc3RpYyBpZGVhcyByZWdhcmRpbmcgdGhlIGNvbWJpbmF0aW9uIG9mIGdyZWF0IHN0b3J5dGVsbGluZyBhbmQgZW50aHVzaWFzdGljIHBsYXllcnMgdG8gbW9yZSBsaXRlcmFsIG1peHR1cmVzIG9mIHBsYW5uaW5nLCBwbG90LCBhbmQgcnVsZXMuIEluIHRoZSBlbmQsIHRob3VnaCwgdGhlIGFuc3dlciB0ZW5kcyB0byBiZSBzdWJqZWN0aXZlOiBhIGdyZWF0IGFkdmVudHVyZSBpcyBhbnkgYmxlbmQgb2YgcHJlcGFyYXRpb24sIHN0b3J5dGVsbGluZywgcm9sZXBsYXlpbmcsIGFuZCBzdHJhdGVneSB0aGF0IGtlZXBzIGJvdGggdGhlIEdNIGFuZCBwbGF5ZXJzIGludm9sdmVkLCBlbnRlcnRhaW5lZCwgYW5kIGNvbWluZyBiYWNrIGZvciBtb3JlLiBXaGV0aGVyIHRoZSBhZHZlbnR1cmUgaXMgY3VzdG9tLWRlc2lnbmVkIG9yIGRyYXduIGRpcmVjdGx5IGZyb20gcHJpbnRlZCBwcm9kdWN0cywgdGhlcmUgaXMgbm8gcmlnaHQgb3Igd3Jvbmcgd2F5IHRvIHBsYXksIGFzIGxvbmcgYXMgdGhlIGVudGlyZSBncm91cCBpcyBoYXZpbmcgZnVuLjxiciAvPjxiciAvPiBZZXQgYXMgc2ltcGxlIGFzIHRoaXMgZ29sZGVuIHJ1bGUgb2YgZ2FtaW5nIG1pZ2h0IHNlZW0sIGNyZWF0aW5nIGFuZCBydW5uaW5nIGEgZmFudGFzdGljIGFkdmVudHVyZSBjYW4gaW52b2x2ZSBsb3RzIG9mIHdvcmsgYW5kIGEgc2lnbmlmaWNhbnQgaW52ZXN0bWVudCBvZiB0aW1lLiBFdmVuIHJ1bm5pbmcgYSBwdWJsaXNoZWQgYWR2ZW50dXJlIG1vZHVsZSBjYW4gbWVhbiBob3VycyBvZiByZWFkaW5nIHRvIGZhbWlsaWFyaXplIHlvdXJzZWxmIHdpdGggdGhlIGNvbnRlbnQsIGFzIGhlYWRpbmcgaW50byBhIGdhbWUgc2Vzc2lvbiBvbmx5IGhhbGYgcHJlcGFyZWQgYW5kIHRydXN0aW5nIGluIGltcHJvdmlzYXRpb24gY2FuIGxlYWQgYSBnYW1lIGludG8gdW5mb3Jlc2VlbiBhbmQgcG9zc2libHkgdW5kZXNpcmVkIHRlcnJpdG9yeS4gVGhlIGJldHRlciBwcmVwYXJlZCBhIEdNIGlzLCBvciBhdCBsZWFzdCBhcHBlYXJzIHRvIGJlLCB0aGUgbW9yZSB0aW1lIFBDcyBjYW4gc3BlbmQgcGxheWluZy4gVGhlIGJlc3QgR01zIHByZXBhcmUgZm9yIGFuIGFkdmVudHVyZSBieSBkb2luZyB3aGF0IHRoZXkgbXVzdCB0byBwcmVzZW50IGEgc2VhbWxlc3Mgcm9sZXBsYXlpbmcgZXhwZXJpZW5jZS4gRm9yIHRob3NlIGtub3dsZWRnZWFibGUgb2YgYSBjYW1wYWlnbuKAmXMgc2V0dGluZyBhbmQgY29tZm9ydGFibGUgd2l0aCBjcmVhdGluZyBjb250ZW50IG9uIGZseSwgdGhpcyBtaWdodCBtZWFuIHZlcnkgbGl0dGxlLiBGb3Igb3RoZXJzLCB0aGlzIGNvdWxkIG1lYW4gaG91cnMgb2YgcmVhZGluZyBhbmQgY3JhZnRpbmcgYW5jaWxsYXJ5IHBsb3RzIGFuZCBjaGFyYWN0ZXJzIGluIGNhc2UgYW4gYWR2ZW50dXJlIHRha2VzIGFuIHVuYW50aWNpcGF0ZWQgY291cnNlLiBOZWl0aGVyIGNvdXJzZSBub3IgYW55IG90aGVyIG1ldGhvZCBvZiBwcmVwYXJhdGlvbiBpcyBuZWNlc3NhcmlseSBmYXZvcmFibGUgb3ZlciBvdGhlcnMsIGFzIGVhY2ggR00gc2hvdWxkIGZpbmQgYSBtZXRob2QgdGhhdCBrZWVwcyBoaW0gZW50ZXJ0YWluZWQgYW5kIGxldHMgaGltIGNvbWZvcnRhYmx5IHRlbGwgdGhlIHN0b3JpZXMgaGUgY2hvb3Nlcy4gVGhlIG1ham9yIGdvYWwsIHRob3VnaCwgaXMgc2VhbWxlc3NuZXNzLCB0aGUgYXBwZWFyYW5jZSB0aGF0IHRoZSBHTSBoYXMgYWNjb3VudGVkIGZvciBldmVyeSBldmVudHVhbGl0eSB0aGUgUENzIG1pZ2h0IGFycml2ZSBhdCBvciwgZXZlbiBiZXR0ZXIsIHRoYXQgdGhlIEdNIGlzIHNpbXBseSB0aGUgbW91dGhwaWVjZSBvZiBhIHdvcmxkIHdoZXJlIGFsbCB0aGluZ3MgYXJlIHBvc3NpYmxlLiBTdWNoIGlzIGFsd2F5cyBhbiBpbGx1c2lvbiwgdGhvdWdoLCBhIG1hc2sgZm9yIHRoZSBHTeKAmXMgcHJlcGFyYXRpb24gYW5kIGltYWdpbmF0aW9uLiBZZXQsIHRoZSBsZXNzIHRpbWUgYSBHTSBuZWVkcyB0byBzcGVuZCBkaWdnaW5nIHRocm91Z2ggcnVsZWJvb2tzLCBwYXVzaW5nIHRvIHRoaW5rIHVwIGNoYXJhY3RlciBuYW1lcyBhbmQgdHJhaXRzLCBvciBub3QgYXBwZWFyaW5nIHRvIGtub3cgd2hhdOKAmXMgZ29pbmcgb24gaW4gaGlzIG93biBnYW1lLCB0aGUgbW9yZSBiZWxpZXZhYmxlIGFuZCB1bHRpbWF0ZWx5IHRoZSBtb3JlIHN1Y2Nlc3NmdWwgdGhlIGFkdmVudHVyZS4gVG8gYWlkIGluIGFsbCB0aGlzLCB0aGUgY3VycmVudCBjaGFwdGVyIGhpZ2hsaWdodHMgc2V2ZXJhbCBnZW5lcmFsIGxvY2F0aW9ucyBjb21tb24gdG8gUGF0aGZpbmRlciBSUEcgYWR2ZW50dXJlcy4gRWFjaCBzZWN0aW9uIGZlYXR1cmVzIGNvbnNpZGVyYXRpb25zIGEgR00gcHJlcGFyaW5nIGZvciBoaXMgYWR2ZW50dXJlIG1pZ2h0IHRha2UgaW50byBhY2NvdW50LCBhcyB3ZWxsIGFzIGEgd2lkZSB2YXJpZXR5IG9mIHRhYmxlcyB0byBhaWQgaW4gbWFraW5nIGludGVyZXN0aW5nIGFuZCBldm9jYXRpdmUgY2hvaWNlcyBzcG9udGFuZW91c2x5IHNob3VsZCB0aGUgUENzIHRha2Ugc29tZSB1bmV4cGVjdGVkIHJvdXRlIG9yIHRvIG1lcmVseSBoZWxwIGFkZCBhIGJpdCBtb3JlIGRldGFpbC48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTc4NSI+Q2hvb3NpbmcgWW91ciBBZHZlbnR1cmU8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiAxNzI8L2k+PC9hPjxiciAvPlNwZWNpZmljcyBvZiBzdG9yeXRlbGxpbmcgc3R5bGUgYW5kIG9uZ29pbmcgcGxvdHMgYXNpZGUsIGFsbCBhZHZlbnR1cmVzIGZpbmQgY29tbW9uIGVsZW1lbnRzIGluIHRoZSBzZXR0aW5ncyB3aGVyZSB0aGVpciBhY3Rpb24gdW5mb2xkcy4gSW4gdGhlIFBhdGhmaW5kZXIgUlBHLCBjZXJ0YWluIHNldHRpbmdzIGNvbWUgdXAgYWdhaW4gYW5kIGFnYWluOiB0YXZlcm5zIHdoZXJlIGhlcm9lcyBtZWV0IGZvciB0aGUgZmlyc3QgdGltZSBhbmQgcmVzdCBiZXR3ZWVuIGFkdmVudHVyZXMsIGR1bmdlb25zIHJpZmUgd2l0aCB0cmFwcyBhbmQgbW9uc3RlcnMsIHVudGFtZWQgd2lsZHMgZnVsbCBvZiBteXN0ZXJ5IGFuZCBkYW5nZXIsIGNpdGllcyB0ZWVtaW5nIHdpdGggY3V0cHVyc2VzIGFuZCBwb2xpdGljYWwgc3VidGxldHksIHZhc3Qgc2VhcyB3aGVyZSBzd2FzaGJ1Y2tsZXJzIGFuZCBjdXR0aHJvYXRzIHNhaWwgaW50byB0aGUgdW5rbm93biwgYW5kIG90aGVyd29ybGRseSBwbGFuZXMgd2hlcmUgdGhlIGltcG9zc2libGUgdGFrZXMgc2hhcGUuIFdoaWxlIGFkdmVudHVyZXMgY2VydGFpbmx5IG1pZ2h0IG9jY3VyIGluIG90aGVyIHZlbnVlcywgbW9zdCBjb25mb3JtIGluIG9uZSB3YXkgb3IgYW5vdGhlciB0byB0aGUgZ2VuZXJhbCBzZXR0aW5ncyBkZXNjcmliZWQgaGVyZeKAlGluY2x1ZGluZyB0aGUgbWljcm9jb3NtIG9mIHRoZSB0YXZlcm4sIGR1ZSB0byBpdHMgdHJhZGl0aW9uYWwgaW1wb3J0YW5jZSBpbiB0aGUgZ2FtZS4gV2hlbiBwbGFubmluZyBvciBwbGF5aW5nIGFuIGFkdmVudHVyZSwgaXQgb2Z0ZW4gaGVscHMgdG8gaGF2ZSBhbiB1bmRlcnN0YW5kaW5nIG9mIHdoYXQgdHlwZSBvZiBsb2NhbGUgZm9ybXMgdGhlIHNldHRpbmcgZm9yIHlvdXIgYWR2ZW50dXJlLiBNb3N0IG9mIHRoZSB0aW1lIHRoaXMgcHJvdmVzIG9idmlvdXPigJR3aGVuIHRoZSBQQ3MgYXJlIHNob3BwaW5nIGFuZCBjYXJvdXNpbmcsIHRoZXnigJlyZSBsaWtlbHkgaW4gYW4gdXJiYW4gc2V0dGluZywgYnV0IHdoZW4gdGhleeKAmXJlIGV4cGxvcmluZyB0aGUgYmFjayBjb3VudHJ5LCB0aGV54oCZcmUgcHJvYmFibHkgaW4gdGhlIHdpbGRlcm5lc3MuIFN1Y2ggc2V0dGluZ3MgYnJpbmcgd2l0aCB0aGVtIGEgdmFyaWV0eSBvZiBjb25jZXJucyBhbmQgcnVsZXMgZWxlbWVudHMgdGhhdCB0aGUgR00gc2hvdWxkIGJlIGZhbWlsaWFyIHdpdGggKG9yIGF0IGxlYXN0IGhhdmUgb24gaGFuZCkgYXMgdGhlIGFkdmVudHVyZSB1bmZvbGRzLiBJZiBhbiBhZHZlbnR1cmUgY2FsbHMgZm9yIHRoZSBQQ3MgdG8gZmlnaHQgYWdhaW5zdCBwcml2YXRlZXJzLCBmb3IgZXhhbXBsZSwgdGhlIEdNIHNob3VsZCBoYXZlIHRoZSBydWxlcyBmb3Igc3dpbW1pbmcgYW5kIGRyb3duaW5nIGhhbmR5OyBpdCBjYW4gYWxzbyBiZSBoZWxwZnVsIHRvIGtub3cgdGhlIHBhcnRzIG9mIGEgc2hpcCBhbmQgd2hhdCBjcmVhdHVyZXMgbWlnaHQgcmFuZG9tbHkgYXBwZWFyIGZyb20gdGhlIHdhdGVyLiBBIG1ham9yIGdvYWwgb2YgdGhpcyBjaGFwdGVyIGlzIHRvIGNvbGxlY3QgdGhlc2UgZGV0YWlscyBhbmQgcG9pbnQgdGhlIEdNIHRvd2FyZCBvdGhlciB1c2VmdWwgcGllY2VzIG9mIGluZm9ybWF0aW9uLCBwcm92aWRpbmcgbXVjaCBvZiB0aGUgcmVsZXZhbnQgZGV0YWlscyBoZSBuZWVkcyB0byBydW4gYSBjb252aW5jaW5nIGFkdmVudHVyZS48YnIgLz48YnIgLz4gSnVzdCBiZWNhdXNlIGFuIGFkdmVudHVyZSB0YWtlcyBwbGFjZSBpbiBhIHN0YW5kYXJkIHNldHRpbmcgZG9lc27igJl0IG1lYW4gdGhhdCBsb2NhdGlvbiBhbHdheXMgYWN0cyBsaWtlIGEgdHlwaWNhbCBleGFtcGxlIG9mIGl0cyBraW5kLiBJZiB0aGUgUENzIGZpbmQgdGhlbXNlbHZlcyBzbGlua2luZyB0aHJvdWdoIHRoZSBhbGxleXMgb2YgYSBkcm93IGNpdHksIHRoZSBsb2NhdGlvbiBsaWtlbHkgZnVuY3Rpb25zIG11Y2ggbW9yZSBsaWtlIGEgZHVuZ2VvbiB0aGFuIGEgY2l0eS4gQnkgdGhlIHNhbWUgdG9rZW4sIGEgZm9yZXN0IHVuZGVyIHRoZSBlZmZlY3RzIG9mIHBvd2VyZnVsIGZleSBtYWdpYyBtaWdodCBiZWhhdmUgbGVzcyBsaWtlIHBhcnQgb2YgdGhlIHdpbGRlcm5lc3MgYW5kIG1vcmUgYWtpbiB0byBhIHBsYW5lIHVudG8gaXRzZWxmLiBJbiBzdWNoIGNhc2VzLCBydWxlcyBub3QgY29tbW9ubHkgYXNzb2NpYXRlZCB3aXRoIHRoYXQgdHlwZSBvZiBzZXR0aW5nIG1pZ2h0IGFwcGx5LCBkcml2aW5nIGhvbWUgYSBzZW5zZSBvZiBzdHJhbmdlbmVzcyBvciBtZW5hY2UgdGhhdCBjYW4gaGVscCBhIHNldHRpbmcgZmVlbCBhbGwgdGhlIG1vcmUgZGlzdGluY3QuIFRodXMsIHNvbWUgb2YgdGhlIG1vc3QgaW50ZXJlc3RpbmcgYW5kIG1lbW9yYWJsZSB1c2VzIG9mIHN1Y2ggZWxlbWVudHMgbWlnaHQgb2NjdXIgd2hlbiB0aGV5IGFyaXNlIG91dHNpZGUgdGhlaXIgdHlwaWNhbCBzZXR0aW5ncy48YnIgLz48YnIgLz4gT25jZSB0aGUgR00ga25vd3Mgd2hhdCB0eXBlIG9mIGFkdmVudHVyZSBoZSB3YW50cyB0byBydW4sIGNvbnN1bHRpbmcgdGhlIGRldGFpbHMgYW5kIHNwZWNpYWwgcnVsZXMgaW4gdGhpcyBjaGFwdGVyIGFuZCB0aGUgPGk+UGF0aGZpbmRlciBSUEcgQ29yZSBSdWxlYm9vazwvaT4gY2FuIGhlbHAgaGlnaGxpZ2h0IHRob3NlIGFzcGVjdHMgdGhhdCBtYWtlIHRoZSBjaG9zZW4gbG9jYXRpb24gdW5pcXVlLiBQbGF5ZXJzIHNob3VsZCBiZSBhYmxlIHRvIGZlZWwgdGhhdCBhZHZlbnR1cmluZyBpbiBhIGR1bmdlb24sIHVuZGVyd2F0ZXIsIGFuZCBvbiB0aGUgcGxhbmVzIGFyZSBhbGwgZGlzdGluY3RseSBkaWZmZXJlbnQgZXhwZXJpZW5jZXMsIHByZXNlbnRpbmcgdW5pcXVlIGNoYWxsZW5nZXMgYW5kIGNob2ljZXMuIE1lbGRpbmcgdGhlIGRlc2NyaXB0aW9ucyBvZiBzdWNoIHNldHRpbmdzIHdpdGggZ2FtZSBjb21wb25lbnRzIHRoYXQgaGVscCBkcml2ZSBob21lIHRoZSBmZWVsIGFuZCBwZXJzb25hbGl0eSBvZiBhbiBhZHZlbnR1cmUgc2l0ZSBjYW4gYWRkIHZhcmlhdGlvbiBhbmQgZGV0YWlsIHRvIGFueSBzdG9yeS4gSWYgdGhlIEdNIGNhbiBtZWxkIGJvdGggdGhlIGRlc2NyaXB0aXZlIGFuZCBydWxlcyBlbGVtZW50cyBvZiB0aGUgZ2FtZeKAlHdoZXRoZXIgdGhyb3VnaCBjcmVhdGl2aXR5LCBydWxlcyBrbm93bGVkZ2UsIHdlbGwtcmVhc29uZWQgaW1wcm92aXNhdGlvbiwgcXVpY2sgcmVmZXJlbmNlLCBvciBhIGNvbWJpbmF0aW9uIG9mIHRoZXNlIHRyYWl0c+KAlHRoZSBwbGF5ZXJz4oCZIHJvbGVwbGF5aW5nIGV4cGVyaWVuY2VzIHdpbGwgYmUgYWxsIHRoZSByaWNoZXIuZGRk1OduayqIFRxHx888JN1WwouMHt4uYNro2jxgqu8WRRQ=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=454">GameMastery Guide</a></u> / <u><a href="Rules.aspx?ID=782">Adventures</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=783">Elements of Adventure</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 172</i></a><br />Past the elaborate details and fantastical beasts, beyond the schemes of villains and works of strange magic, lies the culmination of the Game Master’s craft: the development and harmonizing of numerous characters, plots, creatures, and settings into a single vibrant, dangerous, and enthralling experience: a Pathfinder Roleplaying Game adventure. More than simply the sum of its parts, a great adventure transcends any host of villains, arsenal of cunning traps, legion of monsters, or stack of stat blocks. Brought to life by the interplay of a creative GM with dynamic players, a great adventure is something akin to a living fantasy story, thrilling and captivating in a way that—like an epic work of fiction— draws participants into the tale, makes them integral parts of the excitement, and leaves them yearning to see how the story unfolds. Such an adventure is both the pinnacle and the goal of the Game Master’s art.<br /><br /> Yet building such an adventure proves no mean feat, and it relies on a variety of factors. While the previous chapters of this guide have laid the groundwork to help GMs choose and create many of the elements that go into crafting a great gaming experience, these elements all come together in the adventure and the act of storytelling itself. To help GMs in the sometimes daunting task of pulling together a great fantasy adventure, this chapter presents a storehouse of advice, inspiration, and tools for GMs to plan and create adventures in a wide variety of settings. From advice on managing staple elements of nearly any plot, to helpful new rules elements to enhance campaigns venturing into classic RPG locales, to random encounter tables easily customized for use in nearly any setting, this chapter is designed to be a constant aid to GMs, no matter what types of campaigns they decide to run.<br /><h1 class="title"><a href="Rules.aspx?ID=784">What Makes a Great Adventure</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 172</i></a><br />The question of what defines a great Pathfinder Roleplaying Game adventure conjures to mind a wide variety of potential answers, from artistic ideas regarding the combination of great storytelling and enthusiastic players to more literal mixtures of planning, plot, and rules. In the end, though, the answer tends to be subjective: a great adventure is any blend of preparation, storytelling, roleplaying, and strategy that keeps both the GM and players involved, entertained, and coming back for more. Whether the adventure is custom-designed or drawn directly from printed products, there is no right or wrong way to play, as long as the entire group is having fun.<br /><br /> Yet as simple as this golden rule of gaming might seem, creating and running a fantastic adventure can involve lots of work and a significant investment of time. Even running a published adventure module can mean hours of reading to familiarize yourself with the content, as heading into a game session only half prepared and trusting in improvisation can lead a game into unforeseen and possibly undesired territory. The better prepared a GM is, or at least appears to be, the more time PCs can spend playing. The best GMs prepare for an adventure by doing what they must to present a seamless roleplaying experience. For those knowledgeable of a campaign’s setting and comfortable with creating content on fly, this might mean very little. For others, this could mean hours of reading and crafting ancillary plots and characters in case an adventure takes an unanticipated course. Neither course nor any other method of preparation is necessarily favorable over others, as each GM should find a method that keeps him entertained and lets him comfortably tell the stories he chooses. The major goal, though, is seamlessness, the appearance that the GM has accounted for every eventuality the PCs might arrive at or, even better, that the GM is simply the mouthpiece of a world where all things are possible. Such is always an illusion, though, a mask for the GM’s preparation and imagination. Yet, the less time a GM needs to spend digging through rulebooks, pausing to think up character names and traits, or not appearing to know what’s going on in his own game, the more believable and ultimately the more successful the adventure. To aid in all this, the current chapter highlights several general locations common to Pathfinder RPG adventures. Each section features considerations a GM preparing for his adventure might take into account, as well as a wide variety of tables to aid in making interesting and evocative choices spontaneously should the PCs take some unexpected route or to merely help add a bit more detail.<br /><h1 class="title"><a href="Rules.aspx?ID=785">Choosing Your Adventure</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 172</i></a><br />Specifics of storytelling style and ongoing plots aside, all adventures find common elements in the settings where their action unfolds. In the Pathfinder RPG, certain settings come up again and again: taverns where heroes meet for the first time and rest between adventures, dungeons rife with traps and monsters, untamed wilds full of mystery and danger, cities teeming with cutpurses and political subtlety, vast seas where swashbucklers and cutthroats sail into the unknown, and otherworldly planes where the impossible takes shape. While adventures certainly might occur in other venues, most conform in one way or another to the general settings described here—including the microcosm of the tavern, due to its traditional importance in the game. When planning or playing an adventure, it often helps to have an understanding of what type of locale forms the setting for your adventure. Most of the time this proves obvious—when the PCs are shopping and carousing, they’re likely in an urban setting, but when they’re exploring the back country, they’re probably in the wilderness. Such settings bring with them a variety of concerns and rules elements that the GM should be familiar with (or at least have on hand) as the adventure unfolds. If an adventure calls for the PCs to fight against privateers, for example, the GM should have the rules for swimming and drowning handy; it can also be helpful to know the parts of a ship and what creatures might randomly appear from the water. A major goal of this chapter is to collect these details and point the GM toward other useful pieces of information, providing much of the relevant details he needs to run a convincing adventure.<br /><br /> Just because an adventure takes place in a standard setting doesn’t mean that location always acts like a typical example of its kind. If the PCs find themselves slinking through the alleys of a drow city, the location likely functions much more like a dungeon than a city. By the same token, a forest under the effects of powerful fey magic might behave less like part of the wilderness and more akin to a plane unto itself. In such cases, rules not commonly associated with that type of setting might apply, driving home a sense of strangeness or menace that can help a setting feel all the more distinct. Thus, some of the most interesting and memorable uses of such elements might occur when they arise outside their typical settings.<br /><br /> Once the GM knows what type of adventure he wants to run, consulting the details and special rules in this chapter and the <i>Pathfinder RPG Core Rulebook</i> can help highlight those aspects that make the chosen location unique. Players should be able to feel that adventuring in a dungeon, underwater, and on the planes are all distinctly different experiences, presenting unique challenges and choices. Melding the descriptions of such settings with game components that help drive home the feel and personality of an adventure site can add variation and detail to any story. If the GM can meld both the descriptive and rules elements of the game—whether through creativity, rules knowledge, well-reasoned improvisation, quick reference, or a combination of these traits—the players’ roleplaying experiences will be all the richer.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

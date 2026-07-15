@@ -1,0 +1,282 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Divination - Implement Schools - Occultist - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    
+    <meta name="keywords" content="Archives, Nethys, Pathfinder, Official, PRD, PFSRD, Occultist, Implements, Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Mage&#39;s Paraphernalia, Necromancy, Performer&#39;s Accoutrements, Saint&#39;s Holy Regalia, Transmutation, Trappings of the Warrior" /><meta name="description" content="Abjuration implements are objects associated with protection and wards.Implements used in conjuration allow the occultist to perform magic that transports or calls creatures.Implements of the divination school grant powers related to foresight and remote viewing.Enchantment implements allow the occultist to befuddle the mind and charm his foes.Implements focused on evocation grant the ability to create and direct energy to protect and to destroy.Illusion implements allow the occultist to distort the senses and cloak creatures from sight.This panoply is associated with the arcane arts and the masters of manipulating magic.Implements that draw power from necromancy can control undead and harm the living.This panoply is associated with those who deceive as well as those who entertain.This panoply is associated with devoted members of a good-aligned faith and the power of belief.Transmutation implements can alter the properties of both objects and creatures.This panoply is associated with brave and stalwart warriors, martial skill, and the defense of one’s allies." />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./OccultistImplementsDisplay.aspx?ItemName=Divination" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMTYzNjAxNDgPZBYCZg9kFgICAw9kFgICAQ9kFggCAQ8PFgIeBFRleHQF2Bo8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1BbGNoZW1pc3QiPkFsY2hlbWlzdDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1BbnRpcGFsYWRpbiI+QW50aXBhbGFkaW48L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9QXJjYW5pc3QiPkFyY2FuaXN0PC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUJhcmJhcmlhbiI+QmFyYmFyaWFuPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUJhcmJhcmlhbiAoVW5jaGFpbmVkKSI+QmFyYmFyaWFuIChVbmNoYWluZWQpPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUJhcmQiPkJhcmQ8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9Qmxvb2RyYWdlciI+Qmxvb2RyYWdlcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1CcmF3bGVyIj5CcmF3bGVyPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUNhdmFsaWVyIj5DYXZhbGllcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1DbGVyaWMiPkNsZXJpYzwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1EcnVpZCI+RHJ1aWQ8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9RmlnaHRlciI+RmlnaHRlcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1HdW5zbGluZ2VyIj5HdW5zbGluZ2VyPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUh1bnRlciI+SHVudGVyPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUlucXVpc2l0b3IiPklucXVpc2l0b3I8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9SW52ZXN0aWdhdG9yIj5JbnZlc3RpZ2F0b3I8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9S2luZXRpY2lzdCI+S2luZXRpY2lzdDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1NYWd1cyI+TWFndXM8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9TWVkaXVtIj5NZWRpdW08L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9TWVzbWVyaXN0Ij5NZXNtZXJpc3Q8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9TW9uayI+TW9uazwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1Nb25rIChVbmNoYWluZWQpIj5Nb25rIChVbmNoYWluZWQpPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPU5pbmphIj5OaW5qYTwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1PY2N1bHRpc3QiPk9jY3VsdGlzdDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1PcmFjbGUiPk9yYWNsZTwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1QYWxhZGluIj5QYWxhZGluPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVBzeWNoaWMiPlBzeWNoaWM8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9UmFuZ2VyIj5SYW5nZXI8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9Um9ndWUiPlJvZ3VlPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVJvZ3VlIChVbmNoYWluZWQpIj5Sb2d1ZSAoVW5jaGFpbmVkKTwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1TYW11cmFpIj5TYW11cmFpPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNoYW1hbiI+U2hhbWFuPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNoaWZ0ZXIiPlNoaWZ0ZXI8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9U2thbGQiPlNrYWxkPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNsYXllciI+U2xheWVyPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNvcmNlcmVyIj5Tb3JjZXJlcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1TcGlyaXR1YWxpc3QiPlNwaXJpdHVhbGlzdDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1TdW1tb25lciI+U3VtbW9uZXI8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9U3VtbW9uZXIgKFVuY2hhaW5lZCkiPlN1bW1vbmVyIChVbmNoYWluZWQpPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVN3YXNoYnVja2xlciI+U3dhc2hidWNrbGVyPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVZpZ2lsYW50ZSI+VmlnaWxhbnRlPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVdhcnByaWVzdCI+V2FycHJpZXN0PC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVdpdGNoIj5XaXRjaDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1XaXphcmQiPldpemFyZDwvYT48aHIgLz48YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1Db21wYW5pb24iPkNvbXBhbmlvbjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1EcmFrZSI+RHJha2U8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9RWlkb2xvbiI+RWlkb2xvbjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1FaWRvbG9uIChVbmNoYWluZWQpIj5FaWRvbG9uIChVbmNoYWluZWQpPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUZhbWlsaWFyIj5GYW1pbGlhcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1QaGFudG9tIj5QaGFudG9tPC9hPjxociAvPjxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUFkZXB0Ij5BZGVwdDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1BcmlzdG9jcmF0Ij5BcmlzdG9jcmF0PC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUNvbW1vbmVyIj5Db21tb25lcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1FeHBlcnQiPkV4cGVydDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1XYXJyaW9yIj5XYXJyaW9yPC9hPjxociAvPmRkAgMPDxYCHwAF0gE8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1PY2N1bHRpc3QiPk9jY3VsdGlzdCBDbGFzcyBEZXRhaWxzPC9hPiB8IDxhIGhyZWY9Ik9jY3VsdGlzdEltcGxlbWVudHMuYXNweCI+SW1wbGVtZW50IFNjaG9vbHMgLyBQYW5vcGxpZXM8L2E+IHwgPGEgaHJlZj0iQXJjaGV0eXBlcy5hc3B4P0NsYXNzPU9jY3VsdGlzdCI+QXJjaGV0eXBlczwvYT48aHIgLz5kZAIFDzwrAAkBAA8WBB4IRGF0YUtleXMWAB4LXyFJdGVtQ291bnQCAWQWAmYPZBYCAgEPDxYCHwAFqjE8aDEgY2xhc3M9InRpdGxlIj48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gRGl2aW5hdGlvbiBJbXBsZW1lbnRzPC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTllZ3U/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLU9jY3VsdC1BZHZlbnR1cmVzIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPk9jY3VsdCBBZHZlbnR1cmVzIHBnLiA1MjwvaT48L2E+PGJyIC8+SW1wbGVtZW50cyBvZiB0aGUgZGl2aW5hdGlvbiBzY2hvb2wgZ3JhbnQgcG93ZXJzIHJlbGF0ZWQgdG8gZm9yZXNpZ2h0IGFuZCByZW1vdGUgdmlld2luZy48YnIgLz48YnIgLz48Yj5JbXBsZW1lbnRzPC9iPjogQm9vaywgY3J5c3RhbCBiYWxsLCBnb2dnbGVzLCBoYXJyb3cgZGVjaywgaGVhZGJhbmQsIGxlbnNlcywgcGxhbmNoZXR0ZS48YnIgLz48YnIgLz48Yj5SZXNvbmFudCBQb3dlcjwvYj46IEVhY2ggdGltZSB0aGUgb2NjdWx0aXN0IGludmVzdHMgbWVudGFsIGZvY3VzIGludG8gYW4gZGl2aW5hdGlvbiBpbXBsZW1lbnQsIHRoZSBpbXBsZW1lbnQgZ3JhbnRzIHRoZSBmb2xsb3dpbmcgcmVzb25hbnQgcG93ZXIuIFRoZSBpbXBsZW1lbnTigJlzIGJlYXJlciBnYWlucyB0aGUgYmVuZWZpdHMgb2YgdGhpcyBwb3dlciB1bnRpbCB0aGUgb2NjdWx0aXN0IHJlZnJlc2hlcyBoaXMgZm9jdXMuPGJyIC8+PGJyIC8+PGk+VGhpcmQgRXllIChTdSk8L2k+OiBUaGUgaW1wbGVtZW50IGFsbG93cyBpdHMgYmVhcmVyIHRvIG5vdGljZSB0aGF0IHdoaWNoIGNhbuKAmXQgZWFzaWx5IGJlIHNlZW4uIFRoZSBpbXBsZW1lbnQgZ3JhbnRzIGEgKzEgaW5zaWdodCBib251cyBvbiBQZXJjZXB0aW9uIGNoZWNrcyBwZXIgMiBwb2ludHMgb2YgbWVudGFsIGZvY3VzIHN0b3JlZCBpbiBpdCwgdG8gYSBtYXhpbXVtIGJvbnVzIGVxdWFsIHRvIHRoZSBvY2N1bHRpc3TigJlzIGxldmVsLiBJZiB0aGUgb2NjdWx0aXN0IGlzIDNyZCBsZXZlbCBvciBoaWdoZXIgYW5kIHN0b3JlcyBhdCBsZWFzdCAzIHBvaW50cyBvZiBtZW50YWwgZm9jdXMgaW4gaXQsIHRoZSBpbXBsZW1lbnQgYWxzbyBncmFudHMgbG93bGlnaHQgdmlzaW9uLiBJZiB0aGUgb2NjdWx0aXN0IGlzIDV0aCBsZXZlbCBvciBoaWdoZXIgYW5kIHN0b3JlcyBhdCBsZWFzdCA2IHBvaW50cyBvZiBtZW50YWwgZm9jdXMgaW4gaXQsIHRoZSBpbXBsZW1lbnQgYWxzbyBncmFudHMgZGFya3Zpc2lvbiA2MCBmZWV0LiAoSWYgdGhlIGJlYXJlciBhbHJlYWR5IGhhcyBkYXJrdmlzaW9uLCB0aGUgaW1wbGVtZW50IGluY3JlYXNlcyB0aGUgcmFuZ2Ugb2YgdGhlIGRhcmt2aXNpb24gYnkgMzAgZmVldC4pIElmIHRoZSBvY2N1bHRpc3QgaXMgN3RoIGxldmVsIG9yIGhpZ2hlciBhbmQgc3RvcmVzIGF0IGxlYXN0IDkgcG9pbnRzIG9mIG1lbnRhbCBmb2N1cyBpbiBpdCwgdGhlIGltcGxlbWVudCBhbHNvIGdyYW50cyB0aGUgZWZmZWN0cyBvZiA8aT5zZWUgaW52aXNpYmlsaXR5PC9pPi4gSWYgdGhlIG9jY3VsdGlzdCBpcyAxM3RoIGxldmVsIG9yIGhpZ2hlciBhbmQgc3RvcmVzIGF0IGxlYXN0IDEyIHBvaW50cyBvZiBtZW50YWwgZm9jdXMgaW4gaXQsIHRoZSBpbXBsZW1lbnQgYWxzbyBncmFudHMgYmxpbmRzZW5zZSA2MCBmZWV0LiBJZiB0aGUgb2NjdWx0aXN0IGlzIDE5dGggbGV2ZWwgb3IgaGlnaGVyIGFuZCBzdG9yZXMgYXQgbGVhc3QgMTUgcG9pbnRzIG9mIG1lbnRhbCBmb2N1cyBpbiBpdCwgdGhlIGltcGxlbWVudCBhbHNvIGdyYW50cyBibGluZHNpZ2h0IDMwIGZlZXQuPGJyIC8+PGJyIC8+PGI+QmFzZSBGb2N1cyBQb3dlcjwvYj46IEFsbCBvY2N1bHRpc3RzIHdobyBsZWFybiB0byB1c2UgZGl2aW5hdGlvbiBpbXBsZW1lbnRzIGdhaW4gdGhlIGZvbGxvd2luZyBmb2N1cyBwb3dlci48YnIgLz48YnIgLz48aT5TdWRkZW4gSW5zaWdodCAoU3ApPC9pPjogQXMgYSBzd2lmdCBhY3Rpb24sIHlvdSBjYW4gZXhwZW5kIDEgcG9pbnQgb2YgbWVudGFsIGZvY3VzIHRvIGdhaW4gYW4gaW5zaWdodCBpbnRvIHlvdXIgaW1tZWRpYXRlIGZ1dHVyZS4gWW91IGNhbiB1c2UgdGhpcyBmb3Jla25vd2xlZGdlIGFzIGEgZnJlZSBhY3Rpb24gYmVmb3JlIHlvdSByb2xsIGFueSBhYmlsaXR5IGNoZWNrLCBhdHRhY2sgcm9sbCwgb3Igc2tpbGwgY2hlY2sgdG8gZ2FpbiBhbiBpbnNpZ2h0IGJvbnVzIG9uIHRoYXQgcm9sbCBlcXVhbCB0byAxLzIgeW91ciBvY2N1bHRpc3QgbGV2ZWwgKG1pbmltdW0gKzEpLiBZb3UgY2FuIHVzZSB5b3VyIGZvcmVrbm93bGVkZ2Ugb25seSBvbmNlIHBlciB0dXJuLCBhbmQgaWYgaXTigJlzIG5vdCB1c2VkIGJ5IHRoZSBlbmQgb2YgeW91ciB0dXJuLCB0aGUgaW5zaWdodCBmYWRlcyBhbmQgeW91IGdhaW4gbm8gYmVuZWZpdC48YnIgLz48YnIgLz48Yj5Gb2N1cyBQb3dlcnM8L2I+OiBJbiBhZGRpdGlvbiB0byBnYWluaW5nIHRoZSBiYXNlIGZvY3VzIHBvd2VyLCBvY2N1bHRpc3RzIHdobyBsZWFybiB0byB1c2UgZGl2aW5hdGlvbiBpbXBsZW1lbnRzIGNhbiBzZWxlY3QgZnJvbSB0aGUgZm9sbG93aW5nIGZvY3VzIHBvd2VycyB3aGVuIGNob29zaW5nIHRoZSBwb3dlcnMgZ2FpbmVkIGZyb20gdGhlaXIgZm9jdXMgcG93ZXJzIGNsYXNzIGZlYXR1cmUuPGJyIC8+PGJyIC8+PGk+RGFuZ2VyIFNpZ2h0IChTcCk8L2k+OiBBcyBhbiBpbW1lZGlhdGUgYWN0aW9uLCB5b3UgY2FuIHByb3RlY3QgeW91cnNlbGYgZnJvbSBoYXJtIGJ5IGV4cGVuZGluZyAxIHBvaW50IG9mIG1lbnRhbCBmb2N1cy4gWW91IGNhbiB1c2UgdGhpcyBhYmlsaXR5IHdoZW5ldmVyIHlvdSBhcmUgdGhlIHRhcmdldCBvZiBhbiBhdHRhY2sgb3IgYXJlIHJlcXVpcmVkIHRvIGF0dGVtcHQgYSBzYXZpbmcgdGhyb3cgYWdhaW5zdCBhIHNwZWNpYWwgYWJpbGl0eSwgc3BlbGwsIG9yIHRyYXAuIERvaW5nIHNvIGdyYW50cyB5b3UgYW4gaW5zaWdodCBib251cyB0byB5b3VyIEFDIG9yIG9uIHlvdXIgc2F2aW5nIHRocm93IGVxdWFsIHRvIDEvMiB5b3VyIG9jY3VsdGlzdCBsZXZlbC4gVGhpcyBib251cyBhcHBsaWVzIG9ubHkgdG8gdGhlIG5leHQgYXR0YWNrIGFnYWluc3QgeW91IG9yIHNhdmluZyB0aHJvdyB5b3UgYXR0ZW1wdCwgYW5kIGlmIG5vdCBhcHBsaWVkIGJ5IHRoZSBlbmQgb2YgdGhlIHJvdW5kLCB0aGUgcHJvdGVjdGlvbiBmYWRlcyBhbmQgeW91IGdhaW4gbm8gYmVuZWZpdC4gWW91IG11c3QgYmUgYXQgbGVhc3QgM3JkIGxldmVsIHRvIHNlbGVjdCB0aGlzIGZvY3VzIHBvd2VyLjxiciAvPjxiciAvPjxpPkZ1dHVyZSBHYXplIChTcCk8L2k+OiBBcyBhIHN0YW5kYXJkIGFjdGlvbiwgeW91IGNhbiBnYWluIGFuIGluc2lnaHQgaW50byB0aGUgZnV0dXJlIGJ5IGV4cGVuZGluZyAxIHBvaW50IG9mIG1lbnRhbCBmb2N1cy4gVGhpcyBmdW5jdGlvbnMgYXMgPGk+YXVndXJ5PC9pPiwgdXNpbmcgeW91ciBvY2N1bHRpc3QgbGV2ZWwgYXMgdGhlIGNhc3RlciBsZXZlbC48YnIgLz48YnIgLz48aT5NaW5kIEV5ZSAoU3ApPC9pPjogQXMgYSBzdGFuZGFyZCBhY3Rpb24sIHlvdSBjYW4gZXhwZW5kIDEgcG9pbnQgb2YgbWVudGFsIGZvY3VzIHRvIGNyZWF0ZSBhIG1pbmQgZXll4oCUYSBtYWdpY2FsIHNlbnNvciB0aHJvdWdoIHdoaWNoIHlvdSBjYW4gc2VlIGFuZCBoZWFyLiBUaGUgbWluZCBleWUgaXMgaW52aXNpYmxlIGFuZCBpdHMgc2l6ZSBpcyBGaW5lLCBnaXZpbmcgaXQgYW4gQUMgb2YgMTguIEFueSBhbW91bnQgb2YgZGFtYWdlIHRvIHRoZSBleWUgZGVzdHJveXMgaXQsIGJ1dCBpdCBjYW4gYmUgaGFybWVkIGJ5IG9ubHkgc3BlbGxzIG9yIG1hZ2ljIHdlYXBvbnMuIFRoZSBleWUgbW92ZXMgd2l0aCBhIGZseSBzcGVlZCBvZiA2MCBmZWV0IHdpdGggcGVyZmVjdCBtYW5ldXZlcmFiaWxpdHkgYW5kIGNhbiB0cmF2ZWwgdXAgdG8gMSBtaWxlIGF3YXkgZnJvbSB5b3UuIFlvdSBtdXN0IGNvbmNlbnRyYXRlIGFzIGEgc3RhbmRhcmQgYWN0aW9uIHRvIGRpcmVjdCB0aGUgZXllIGFuZCByZWNlaXZlIHNlbnNvcnkgaW1hZ2VzIHRocm91Z2ggaXQuIFRoZSBtaW5kIGV5ZSBzZWVzIGFzIHlvdXIgZXllcyBzZWUsIGluY2x1ZGluZyBhbnkgYWRkaXRpb25hbCBzZW5zZXMgeW91IHBvc3Nlc3MgKHN1Y2ggYXMgZGFya3Zpc2lvbiBvciA8aT5zZWUgaW52aXNpYmlsaXR5PC9pPikuIFRoZSBtaW5kIGV5ZSBsYXN0cyBmb3IgMSBtaW51dGUgcGVyIG9jY3VsdGlzdCBsZXZlbCB5b3UgcG9zc2Vzcy4gWW91IG11c3QgYmUgYXQgbGVhc3QgNXRoIGxldmVsIHRvIHNlbGVjdCB0aGlzIGZvY3VzIHBvd2VyLjxiciAvPjxiciAvPjxpPk9iamVjdCBTZWVyIChTcCk8L2k+OiBBcyBhIGZ1bGwtcm91bmQgYWN0aW9uLCB5b3UgY2FuIGV4cGVuZCAxIHBvaW50IG9mIG1lbnRhbCBmb2N1cyB0byBnYWluIGluc2lnaHQgaW50byBhbiBvYmplY3QgaW4geW91ciBwb3NzZXNzaW9uLiBZb3UgY2FuIGFzayBvbmUgcXVlc3Rpb24sIGJ1dCB0aGF0IHF1ZXN0aW9uIG11c3QgYmUgdGllZCBpbiBzb21lIHdheSB0byB0aGUgb2JqZWN0LCBzdWNoIGFzIHRoZSBuYXR1cmUgb2YgaXRzIHBvd2VyLCB0aGUgaWRlbnRpdHkgb2YgdGhlIGNyZWF0dXJlIHRoYXQgbGFzdCBwb3NzZXNzZWQgaXQsIG9yIGV2ZW4gd2hlcmUgdGhlIG9iamVjdCB3YXMgd2hlbiBhIGNlcnRhaW4gZXZlbnQgdG9vayBwbGFjZS4gWW91IGFsd2F5cyByZWNlaXZlIGFuIGFuc3dlciBmcm9tIHRoZSBwc3ljaGljIGltcHJlc3Npb25zIGltcHJpbnRlZCB1cG9uIHRoZSBpdGVtLCBidXQgdGhleSBhcmUgc29tZXRpbWVzIGNyeXB0aWMgb3IgbWlzbGVhZGluZy4gVGhpcyBhYmlsaXR5IG90aGVyd2lzZSBmdW5jdGlvbnMgYXMgPGk+Y29tbXVuZTwvaT4uIFlvdSBtdXN0IGJlIGF0IGxlYXN0IDd0aCBsZXZlbCB0byBzZWxlY3QgdGhpcyBmb2N1cyBwb3dlci48YnIgLz48YnIgLz48aT5Qb3dlcmZ1bCBDb25uZWN0aW9uIChTdSk8L2k+OiBXaGVuIGNhc3RpbmcgYSBkaXZpbmF0aW9uIHNwZWxsIChzdWNoIGFzIDxpPnNjcnlpbmc8L2k+KSB0aGF0IGltcG9zZXMgYSBwZW5hbHR5IG9uIHNhdmluZyB0aHJvd3MgYmFzZWQgb24gdGhlIHBoeXNpY2FsIGNvbm5lY3Rpb24geW91IGhhdmUgdG8gdGhlIHRhcmdldCwgeW91IGNhbiBleHBlbmQgMSBwb2ludCBvZiBtZW50YWwgZm9jdXMgdG8gZG91YmxlIHRoZSBwZW5hbHR5IGZyb20gYSBwb3NzZXNzaW9uLCBnYXJtZW50LCBvciBib2R5IHBhcnQuIEluIGFkZGl0aW9uLCB3aGVuIGNhc3RpbmcgYW55IG90aGVyIGRpdmluYXRpb24gc3BlbGwgdGhhdCBhbGxvd3MgYSBzYXZpbmcgdGhyb3csIHlvdSBjYW4gaW5jcmVhc2UgdGhlIERDIG9mIHRoYXQgc2F2ZSBieSAyIGJ5IGFkZGluZyBhbiBvYmplY3QsIGdhcm1lbnQsIG9yIGJvZHkgcGFydCB0aGF0IGJlbG9uZ2VkIHRvIHRoZSB0YXJnZXQgYXMgYSBmb2N1cyBjb21wb25lbnQgZm9yIHRoZSBzcGVsbCBhbmQgZXhwZW5kaW5nIDEgcG9pbnQgb2YgbWVudGFsIGZvY3VzLjxiciAvPjxiciAvPjxpPldhdGNoZnVsIEV5ZSAoU3ApPC9pPjogWW91IGNhbiBleHBlbmQgMSBwb2ludCBvZiBtZW50YWwgZm9jdXMgYXMgYSBzdGFuZGFyZCBhY3Rpb24gdG8gY3JlYXRlIGFuIGludmlzaWJsZSBzZW5zb3Igd2l0aGluIDMwIGZlZXQgdGhhdCB3YXRjaGVzIGEgNS1mb290LXNxdWFyZSBhcmVhLiBXaGVuZXZlciBhbnkgY3JlYXR1cmUgZW50ZXJzIHRoYXQgc3F1YXJlLCB5b3UgcmVjZWl2ZSBhIG1lbnRhbCBpbWFnZSBvZiB0aGUgY3JlYXR1cmUgYXMgbG9uZyBhcyB5b3UgYXJlIG9uIHRoZSBzYW1lIHBsYW5lIGFzIHRoZSBzZW5zb3IuIFRoZSBzZW5zb3IgcmVtYWlucyBhY3RpdmUgZm9yIDEwIG1pbnV0ZXMgcGVyIG9jY3VsdGlzdCBsZXZlbCB5b3UgcG9zc2Vzcy4gVGhlIGltYWdlIHdpbGwgbm90IHdha2UgeW91IGZyb20gc2x1bWJlciwgYWx0aG91Z2ggeW91IGRvIHJlY2VpdmUgYWxsIG9mIHRoZSBpbWFnZXMgdGhlIHNlbnNvciBjb2xsZWN0ZWQgb25jZSB5b3Ugd2FrZSB1cC4gVGhlIHNlbnNvciBjYW4gYmUgZGVjZWl2ZWQgYnkgPGk+aW52aXNpYmlsaXR5PC9pPiBhbmQgc2ltaWxhciBtYWdpYy4gWW91IGNhbiBleHBlbmQgYWRkaXRpb25hbCBwb2ludHMgb2YgbWVudGFsIGZvY3VzIHdoZW4gY3JlYXRpbmcgdGhlIGV5ZSB0byBpbmNyZWFzZSB0aGUgc2l6ZSBvZiB0aGUgc3F1YXJlIGJ5IDUgZmVldCBwZXIgYWRkaXRpb25hbCBwb2ludCBzcGVudCAodG8gMTAgZmVldCBzcXVhcmUsIDE1IGZlZXQgc3F1YXJlLCBhbmQgc28gb24pLmRkAgcPD2Q8KwAGAQAQFgFmFgEWAh4OUGFyYW1ldGVyVmFsdWUFCkRpdmluYXRpb24WAQIEZGR1+MvUCT1PRCayJTdijYplAM+msr/DtzqL6u0eBJa+VQ==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="83998B18" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <h2 style="text-align: center"><span id="MainContent_AllClassLabel"><a href="ClassDisplay.aspx?ItemName=Alchemist">Alchemist</a> | <a href="ClassDisplay.aspx?ItemName=Antipaladin">Antipaladin</a> | <a href="ClassDisplay.aspx?ItemName=Arcanist">Arcanist</a> | <a href="ClassDisplay.aspx?ItemName=Barbarian">Barbarian</a> | <a href="ClassDisplay.aspx?ItemName=Barbarian (Unchained)">Barbarian (Unchained)</a> | <a href="ClassDisplay.aspx?ItemName=Bard">Bard</a> | <a href="ClassDisplay.aspx?ItemName=Bloodrager">Bloodrager</a> | <a href="ClassDisplay.aspx?ItemName=Brawler">Brawler</a> | <a href="ClassDisplay.aspx?ItemName=Cavalier">Cavalier</a> | <a href="ClassDisplay.aspx?ItemName=Cleric">Cleric</a> | <a href="ClassDisplay.aspx?ItemName=Druid">Druid</a> | <a href="ClassDisplay.aspx?ItemName=Fighter">Fighter</a> | <a href="ClassDisplay.aspx?ItemName=Gunslinger">Gunslinger</a> | <a href="ClassDisplay.aspx?ItemName=Hunter">Hunter</a> | <a href="ClassDisplay.aspx?ItemName=Inquisitor">Inquisitor</a> | <a href="ClassDisplay.aspx?ItemName=Investigator">Investigator</a> | <a href="ClassDisplay.aspx?ItemName=Kineticist">Kineticist</a> | <a href="ClassDisplay.aspx?ItemName=Magus">Magus</a> | <a href="ClassDisplay.aspx?ItemName=Medium">Medium</a> | <a href="ClassDisplay.aspx?ItemName=Mesmerist">Mesmerist</a> | <a href="ClassDisplay.aspx?ItemName=Monk">Monk</a> | <a href="ClassDisplay.aspx?ItemName=Monk (Unchained)">Monk (Unchained)</a> | <a href="ClassDisplay.aspx?ItemName=Ninja">Ninja</a> | <a href="ClassDisplay.aspx?ItemName=Occultist">Occultist</a> | <a href="ClassDisplay.aspx?ItemName=Oracle">Oracle</a> | <a href="ClassDisplay.aspx?ItemName=Paladin">Paladin</a> | <a href="ClassDisplay.aspx?ItemName=Psychic">Psychic</a> | <a href="ClassDisplay.aspx?ItemName=Ranger">Ranger</a> | <a href="ClassDisplay.aspx?ItemName=Rogue">Rogue</a> | <a href="ClassDisplay.aspx?ItemName=Rogue (Unchained)">Rogue (Unchained)</a> | <a href="ClassDisplay.aspx?ItemName=Samurai">Samurai</a> | <a href="ClassDisplay.aspx?ItemName=Shaman">Shaman</a> | <a href="ClassDisplay.aspx?ItemName=Shifter">Shifter</a> | <a href="ClassDisplay.aspx?ItemName=Skald">Skald</a> | <a href="ClassDisplay.aspx?ItemName=Slayer">Slayer</a> | <a href="ClassDisplay.aspx?ItemName=Sorcerer">Sorcerer</a> | <a href="ClassDisplay.aspx?ItemName=Spiritualist">Spiritualist</a> | <a href="ClassDisplay.aspx?ItemName=Summoner">Summoner</a> | <a href="ClassDisplay.aspx?ItemName=Summoner (Unchained)">Summoner (Unchained)</a> | <a href="ClassDisplay.aspx?ItemName=Swashbuckler">Swashbuckler</a> | <a href="ClassDisplay.aspx?ItemName=Vigilante">Vigilante</a> | <a href="ClassDisplay.aspx?ItemName=Warpriest">Warpriest</a> | <a href="ClassDisplay.aspx?ItemName=Witch">Witch</a> | <a href="ClassDisplay.aspx?ItemName=Wizard">Wizard</a><hr /><a href="ClassDisplay.aspx?ItemName=Companion">Companion</a> | <a href="ClassDisplay.aspx?ItemName=Drake">Drake</a> | <a href="ClassDisplay.aspx?ItemName=Eidolon">Eidolon</a> | <a href="ClassDisplay.aspx?ItemName=Eidolon (Unchained)">Eidolon (Unchained)</a> | <a href="ClassDisplay.aspx?ItemName=Familiar">Familiar</a> | <a href="ClassDisplay.aspx?ItemName=Phantom">Phantom</a><hr /><a href="ClassDisplay.aspx?ItemName=Adept">Adept</a> | <a href="ClassDisplay.aspx?ItemName=Aristocrat">Aristocrat</a> | <a href="ClassDisplay.aspx?ItemName=Commoner">Commoner</a> | <a href="ClassDisplay.aspx?ItemName=Expert">Expert</a> | <a href="ClassDisplay.aspx?ItemName=Warrior">Warrior</a><hr /></span></h2>
+    <h2 style="text-align: center"><span id="MainContent_MainClassLabel"><a href="ClassDisplay.aspx?ItemName=Occultist">Occultist Class Details</a> | <a href="OccultistImplements.aspx">Implement Schools / Panoplies</a> | <a href="Archetypes.aspx?Class=Occultist">Archetypes</a><hr /></span></h2>
+
+    <table id="MainContent_DataListTypes" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelName_0"><h1 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Divination Implements</h1><b>Source</b> <a href="http://paizo.com/products/btpy9egu?Pathfinder-Roleplaying-Game-Occult-Adventures" target="_blank" class="external-link"><i>Occult Adventures pg. 52</i></a><br />Implements of the divination school grant powers related to foresight and remote viewing.<br /><br /><b>Implements</b>: Book, crystal ball, goggles, harrow deck, headband, lenses, planchette.<br /><br /><b>Resonant Power</b>: Each time the occultist invests mental focus into an divination implement, the implement grants the following resonant power. The implement’s bearer gains the benefits of this power until the occultist refreshes his focus.<br /><br /><i>Third Eye (Su)</i>: The implement allows its bearer to notice that which can’t easily be seen. The implement grants a +1 insight bonus on Perception checks per 2 points of mental focus stored in it, to a maximum bonus equal to the occultist’s level. If the occultist is 3rd level or higher and stores at least 3 points of mental focus in it, the implement also grants lowlight vision. If the occultist is 5th level or higher and stores at least 6 points of mental focus in it, the implement also grants darkvision 60 feet. (If the bearer already has darkvision, the implement increases the range of the darkvision by 30 feet.) If the occultist is 7th level or higher and stores at least 9 points of mental focus in it, the implement also grants the effects of <i>see invisibility</i>. If the occultist is 13th level or higher and stores at least 12 points of mental focus in it, the implement also grants blindsense 60 feet. If the occultist is 19th level or higher and stores at least 15 points of mental focus in it, the implement also grants blindsight 30 feet.<br /><br /><b>Base Focus Power</b>: All occultists who learn to use divination implements gain the following focus power.<br /><br /><i>Sudden Insight (Sp)</i>: As a swift action, you can expend 1 point of mental focus to gain an insight into your immediate future. You can use this foreknowledge as a free action before you roll any ability check, attack roll, or skill check to gain an insight bonus on that roll equal to 1/2 your occultist level (minimum +1). You can use your foreknowledge only once per turn, and if it’s not used by the end of your turn, the insight fades and you gain no benefit.<br /><br /><b>Focus Powers</b>: In addition to gaining the base focus power, occultists who learn to use divination implements can select from the following focus powers when choosing the powers gained from their focus powers class feature.<br /><br /><i>Danger Sight (Sp)</i>: As an immediate action, you can protect yourself from harm by expending 1 point of mental focus. You can use this ability whenever you are the target of an attack or are required to attempt a saving throw against a special ability, spell, or trap. Doing so grants you an insight bonus to your AC or on your saving throw equal to 1/2 your occultist level. This bonus applies only to the next attack against you or saving throw you attempt, and if not applied by the end of the round, the protection fades and you gain no benefit. You must be at least 3rd level to select this focus power.<br /><br /><i>Future Gaze (Sp)</i>: As a standard action, you can gain an insight into the future by expending 1 point of mental focus. This functions as <i>augury</i>, using your occultist level as the caster level.<br /><br /><i>Mind Eye (Sp)</i>: As a standard action, you can expend 1 point of mental focus to create a mind eye—a magical sensor through which you can see and hear. The mind eye is invisible and its size is Fine, giving it an AC of 18. Any amount of damage to the eye destroys it, but it can be harmed by only spells or magic weapons. The eye moves with a fly speed of 60 feet with perfect maneuverability and can travel up to 1 mile away from you. You must concentrate as a standard action to direct the eye and receive sensory images through it. The mind eye sees as your eyes see, including any additional senses you possess (such as darkvision or <i>see invisibility</i>). The mind eye lasts for 1 minute per occultist level you possess. You must be at least 5th level to select this focus power.<br /><br /><i>Object Seer (Sp)</i>: As a full-round action, you can expend 1 point of mental focus to gain insight into an object in your possession. You can ask one question, but that question must be tied in some way to the object, such as the nature of its power, the identity of the creature that last possessed it, or even where the object was when a certain event took place. You always receive an answer from the psychic impressions imprinted upon the item, but they are sometimes cryptic or misleading. This ability otherwise functions as <i>commune</i>. You must be at least 7th level to select this focus power.<br /><br /><i>Powerful Connection (Su)</i>: When casting a divination spell (such as <i>scrying</i>) that imposes a penalty on saving throws based on the physical connection you have to the target, you can expend 1 point of mental focus to double the penalty from a possession, garment, or body part. In addition, when casting any other divination spell that allows a saving throw, you can increase the DC of that save by 2 by adding an object, garment, or body part that belonged to the target as a focus component for the spell and expending 1 point of mental focus.<br /><br /><i>Watchful Eye (Sp)</i>: You can expend 1 point of mental focus as a standard action to create an invisible sensor within 30 feet that watches a 5-foot-square area. Whenever any creature enters that square, you receive a mental image of the creature as long as you are on the same plane as the sensor. The sensor remains active for 10 minutes per occultist level you possess. The image will not wake you from slumber, although you do receive all of the images the sensor collected once you wake up. The sensor can be deceived by <i>invisibility</i> and similar magic. You can expend additional points of mental focus when creating the eye to increase the size of the square by 5 feet per additional point spent (to 10 feet square, 15 feet square, and so on).</span>
+        </td>
+	</tr>
+</table>
+
+    
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

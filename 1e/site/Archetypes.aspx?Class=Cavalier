@@ -1,0 +1,360 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Archetypes - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    
+    <meta name="keywords" content="Archives, Nethys, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, Archetype, Beast Rider, Castellan, Charger, Circuit Judge, Constable, Courtly Knight, Daring Champion, Daring General, Disciple of the Pike, Drakerider, Emissary, Esquire, Fell Rider, First Mother&#39;s Fang, Gallant, Gendarme, Ghost Rider, Green Knight, Herald Squire, Honor Guard, Hooded Knight, Huntmaster, Hussar, Knight of Arnisant, Luring Cavalier, Musketeer, Oceanrider, Qabarat Outrider, Qadiran Horselord, Saurian Champion, Sister-in-Arms, Spellscar Drifter, Standard Bearer, Strategist, Verdivant, Vermin Tamer, Wave Rider, Cavalier" /><meta name="description" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Archetypes.aspx?Class=Cavalier" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEyMDA2MDM5MTgPZBYCZg9kFgICAw9kFgICAQ9kFgoCAQ8PFgIeBFRleHQF2Bo8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1BbGNoZW1pc3QiPkFsY2hlbWlzdDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1BbnRpcGFsYWRpbiI+QW50aXBhbGFkaW48L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9QXJjYW5pc3QiPkFyY2FuaXN0PC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUJhcmJhcmlhbiI+QmFyYmFyaWFuPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUJhcmJhcmlhbiAoVW5jaGFpbmVkKSI+QmFyYmFyaWFuIChVbmNoYWluZWQpPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUJhcmQiPkJhcmQ8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9Qmxvb2RyYWdlciI+Qmxvb2RyYWdlcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1CcmF3bGVyIj5CcmF3bGVyPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUNhdmFsaWVyIj5DYXZhbGllcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1DbGVyaWMiPkNsZXJpYzwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1EcnVpZCI+RHJ1aWQ8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9RmlnaHRlciI+RmlnaHRlcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1HdW5zbGluZ2VyIj5HdW5zbGluZ2VyPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUh1bnRlciI+SHVudGVyPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUlucXVpc2l0b3IiPklucXVpc2l0b3I8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9SW52ZXN0aWdhdG9yIj5JbnZlc3RpZ2F0b3I8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9S2luZXRpY2lzdCI+S2luZXRpY2lzdDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1NYWd1cyI+TWFndXM8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9TWVkaXVtIj5NZWRpdW08L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9TWVzbWVyaXN0Ij5NZXNtZXJpc3Q8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9TW9uayI+TW9uazwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1Nb25rIChVbmNoYWluZWQpIj5Nb25rIChVbmNoYWluZWQpPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPU5pbmphIj5OaW5qYTwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1PY2N1bHRpc3QiPk9jY3VsdGlzdDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1PcmFjbGUiPk9yYWNsZTwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1QYWxhZGluIj5QYWxhZGluPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVBzeWNoaWMiPlBzeWNoaWM8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9UmFuZ2VyIj5SYW5nZXI8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9Um9ndWUiPlJvZ3VlPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVJvZ3VlIChVbmNoYWluZWQpIj5Sb2d1ZSAoVW5jaGFpbmVkKTwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1TYW11cmFpIj5TYW11cmFpPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNoYW1hbiI+U2hhbWFuPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNoaWZ0ZXIiPlNoaWZ0ZXI8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9U2thbGQiPlNrYWxkPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNsYXllciI+U2xheWVyPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNvcmNlcmVyIj5Tb3JjZXJlcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1TcGlyaXR1YWxpc3QiPlNwaXJpdHVhbGlzdDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1TdW1tb25lciI+U3VtbW9uZXI8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9U3VtbW9uZXIgKFVuY2hhaW5lZCkiPlN1bW1vbmVyIChVbmNoYWluZWQpPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVN3YXNoYnVja2xlciI+U3dhc2hidWNrbGVyPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVZpZ2lsYW50ZSI+VmlnaWxhbnRlPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVdhcnByaWVzdCI+V2FycHJpZXN0PC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVdpdGNoIj5XaXRjaDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1XaXphcmQiPldpemFyZDwvYT48aHIgLz48YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1Db21wYW5pb24iPkNvbXBhbmlvbjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1EcmFrZSI+RHJha2U8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9RWlkb2xvbiI+RWlkb2xvbjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1FaWRvbG9uIChVbmNoYWluZWQpIj5FaWRvbG9uIChVbmNoYWluZWQpPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUZhbWlsaWFyIj5GYW1pbGlhcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1QaGFudG9tIj5QaGFudG9tPC9hPjxociAvPjxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUFkZXB0Ij5BZGVwdDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1BcmlzdG9jcmF0Ij5BcmlzdG9jcmF0PC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUNvbW1vbmVyIj5Db21tb25lcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1FeHBlcnQiPkV4cGVydDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1XYXJyaW9yIj5XYXJyaW9yPC9hPjxociAvPmRkAgMPDxYCHwAF4AE8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1DYXZhbGllciI+Q2F2YWxpZXIgQ2xhc3MgRGV0YWlsczwvYT4gfCA8YSBocmVmPSJDYXZhbGllckJhbm5lcnMuYXNweCI+QmFubmVyczwvYT4gfCA8YSBocmVmPSJDYXZhbGllck9yZGVycy5hc3B4Ij5PcmRlcnM8L2E+IHwgPGEgaHJlZj0iQXJjaGV0eXBlcy5hc3B4P0NsYXNzPUNhdmFsaWVyIj5BcmNoZXR5cGVzPC9hPjxociAvPmRkAgUPDxYCHwAFKjxoMSBjbGFzcz0idGl0bGUiPkNhdmFsaWVyIEFyY2hldHlwZXM8L2gxPmRkAgcPPCsAEQMADxYEHgtfIURhdGFCb3VuZGceC18hSXRlbUNvdW50AiVkARAWABYAFgAMFCsAABYCZg9kFkwCAQ9kFgZmDw8WAh8ABa8BPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1DYXZhbGllciBCZWFzdCBSaWRlciI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IEJlYXN0IFJpZGVyPC9hPmRkAgEPDxYCHwAFFU1vdW50OyBFeHBlcnQgVHJhaW5lcmRkAgIPDxYCHwAF4QFXaGVyZSBzb21lIGNhdmFsaWVycyBhcmUgc2ltcGx5IHNraWxsZWQgd2l0aCBob3JzZXMgb3Igd2VsbC10cmFpbmVkIGtuaWdodHMsIHRoZSBiZWFzdCByaWRlciBzcGVuZHMgaGlzIGxpZmUgaW4gY29uc3RhbnQgcHVyc3VpdCBvZiB0aGUgbW9zdCBwZXJmZWN0IG1vdW50LCBmb3JtaW5nIGJvbmRzIHdpdGggZ3JlYXRlciwgbW9yZSBwb3dlcmZ1bCwgYW5kIG1vcmUgZXhvdGljIGNyZWF0dXJlcy5kZAICD2QWBmYPDxYCHwAFqwE8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPUNhdmFsaWVyIENhc3RlbGxhbiI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IENhc3RlbGxhbjwvYT5kZAIBDw8WAh8ABV5Nb3VudDsgQ2F2YWxpZXLigJlzIENoYXJnZTsgRXhwZXJ0IFRyYWluZXI7IE1pZ2h0eSBDaGFyZ2U7IERlbWFuZGluZyBDaGFsbGVuZ2U7IFN1cHJlbWUgQ2hhcmdlZGQCAg8PFgIfAAVaQSBjYXN0ZWxsYW4gaXMgYSBjYXZhbGllciB3aG8gZGVkaWNhdGVzIGhpbXNlbGYgdG8gdGhlIGRlZmVuc2Ugb2YgYSBjYXN0bGUgb3Igd2FsbGVkIGNpdHkuZGQCAw9kFgZmDw8WAh8ABUY8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPUNhdmFsaWVyIENoYXJnZXIiPkNoYXJnZXI8L2E+ZGQCAQ8PFgIfAAVjQ2xhc3MgU2tpbGxzOyBXZWFwb24vQXJtb3IgUHJvZmljaWVuY2llczsgTW91bnQ7IENhdmFsaWVy4oCZcyBDaGFyZ2U7IEV4cGVydCBUcmFpbmVyOyBNaWdodHkgQ2hhcmdlZGQCAg8PFgIfAAVnKENlbnRhdXIgT25seSkgTm8gd2FycmlvciBiZXR0ZXIgZXBpdG9taXplcyB0aGUgY2VudGF1cuKAmXMgZGV2YXN0YXRpbmcgbWFydGlhbCBwb3dlciB0aGFuIHRoZSBjaGFyZ2VyLmRkAgQPZBYGZg8PFgIfAAWzATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9Q2F2YWxpZXIgQ2lyY3VpdCBKdWRnZSI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IENpcmN1aXQgSnVkZ2U8L2E+ZGQCAQ8PFgIfAAVOVGFjdGljaWFuOyBHcmVhdGVyIFRhY3RpY2lhbjsgTWFzdGVyIFRhY3RpY2lhbjsgQ2hhbGxlbmdlOyBEZW1hbmRpbmcgQ2hhbGxlbmdlZGQCAg8PFgIfAAV9QSBjaXJjdWl0IGp1ZGdlIGNsYWltcyBhIHNwZWNpZmljIHJlZ2lvbiwgYmVjb21pbmcgYW4gZXhwZXJ0IGluIHRoZSBsb2NhbCBsYXdzIGFuZCwgcGVyaGFwcywgYmVjb21pbmcgYSBmZWFyc29tZSBleGVjdXRpb25lci5kZAIFD2QWBmYPDxYCHwAFqwE8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPUNhdmFsaWVyIENvbnN0YWJsZSI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IENvbnN0YWJsZTwvYT5kZAIBDw8WAh8ABW9DbGFzcyBTa2lsbHM7IE1vdW50OyBDYXZhbGllcuKAmXMgQ2hhcmdlOyBFeHBlcnQgVHJhaW5lcjsgQmFubmVyOyBNaWdodHkgQ2hhcmdlOyBTdXByZW1lIENoYXJnZTsgR3JlYXRlciBCYW5uZXJkZAICDw8WAh8ABUtDb25zdGFibGVzIGtlZXAgb3JkZXIgaW4gdGhlIG5hcnJvdyBzdHJlZXRzIGFuZCBkYXJrIGFsbGV5cyBvZiBzZXR0bGVtZW50cy5kZAIGD2QWBmYPDxYCHwAFtQE8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPUNhdmFsaWVyIENvdXJ0bHkgS25pZ2h0Ij48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gQ291cnRseSBLbmlnaHQ8L2E+ZGQCAQ8PFgIfAAUuVGFjdGljaWFuOyBHcmVhdGVyIFRhY3RpY2lhbjsgTWFzdGVyIFRhY3RpY2lhbmRkAgIPDxYCHwAFSVRoZXNlIGNvdXJ0bHkga25pZ2h0cyBhcmUgZXF1YWxseSBhdCBob21lIGluIGEgZHVlbCB3aXRoIHdvcmRzIG9yIHN3b3Jkcy5kZAIHD2QWBmYPDxYCHwAFtwE8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPUNhdmFsaWVyIERhcmluZyBDaGFtcGlvbiI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IERhcmluZyBDaGFtcGlvbjwvYT5kZAIBDw8WAh8ABWVXZWFwb24vQXJtb3IgUHJvZmljaWVuY2llczsgTW91bnQ7IENhdmFsaWVy4oCZcyBDaGFyZ2U7IEV4cGVydCBUcmFpbmVyOyBNaWdodHkgQ2hhcmdlOyBTdXByZW1lIENoYXJnZWRkAgIPDxYCHwAF5gFXaGlsZSBtYW55IGNhdmFsaWVycyBhcmUgdGhlIGNoYW1waW9ucyBvZiBvbGQgZmlnaHRpbmcgZm9ybXMsIHNvbWUgeW91bmdlciwgbW9yZSBkYXJpbmcgY2F2YWxpZXJzIG1peCBhIG1hcnRpYWwgc3R5bGUgaW5mbHVlbmNlZCBieSB0aGUgbGlnaHRlciBhcm1vcmVkIGFuZCBtb3JlIGZsYW1ib3lhbnQgc3dhc2hidWNrbGVyIGZvcm1zIHdpdGggdGhlIGRlZGljYXRpb24gb2YgY2F2YWxpZXIgb3JkZXJzLmRkAggPZBYGZg8PFgIfAAVUPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1DYXZhbGllciBEYXJpbmcgR2VuZXJhbCI+RGFyaW5nIEdlbmVyYWw8L2E+ZGQCAQ8PFgIfAAVGNnRoLCAxMnRoLCAxOHRoLWxldmVsIEJvbnVzIEZlYXRzOyBEZW1hbmRpbmcgQ2hhbGxlbmdlOyBTdXByZW1lIENoYXJnZWRkAgIPDxYCHwAFRFRob3NlIGNhdmFsaWVycyBtb3N0IGdpZnRlZCBhdCBjb21tYW5kIG9mdGVuIGJlY29tZSBkYXJpbmcgZ2VuZXJhbHMuZGQCCQ9kFgZmDw8WAh8ABYgCPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1DYXZhbGllciBEaXNjaXBsZSBvZiB0aGUgUGlrZSI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbE4uZ2lmIiB0aXRsZT0iVGhlIGRpc2NpcGxlIG9mIHRoZSBwaWtlIGRvZXMgbm90IHF1YWxpZnkgZm9yIEFkdmFuY2VkIFdlYXBvbiBUcmFpbmluZyBvcHRpb25zLiIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gRGlzY2lwbGUgb2YgdGhlIFBpa2U8L2E+ZGQCAQ8PFgIfAAVfTW91bnQ7IENhdmFsaWVyJ3MgQ2hhcmdlOyBFeHBlcnQgVHJhaW5lcjsgQmFubmVyOyBHcmVhdGVyIEJhbm5lcjsgTWlnaHR5IENoYXJnZTsgU3VwcmVtZSBDaGFyZ2VkZAICDw8WAh8ABY0BVGhlIEhlbGxrbmlnaHQgT3JkZXIgb2YgdGhlIFBpa2UgYXJlIHJlbm93bmVkIG1vbnN0ZXIgaHVudGVycywgdGFraW5nIG9uIGxhcmdlIGdhbWUgdXNpbmcgYW5jaWVudCB3ZWFwb24gYXJ0cyBjb21iaW5lZCB3aXRoIG1vZGVybiBlcXVpcG1lbnQuZGQCCg9kFgZmDw8WAh8ABZcCPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1DYXZhbGllciBEcmFrZXJpZGVyIj48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sTi5naWYiIHRpdGxlPSJBIGRyYWtlcmlkZXIgbXVzdCBiZWxvbmcgdG8gdGhlIG9yZGVyIG9mIHRoZSBiZWFzdChJU0MpLCB0aGUgb3JkZXIgb2YgdGhlIGNvY2thdHJpY2UsIG9yIHRoZSBvcmRlciBvZiB0aGUgZHJhZ29uDQoiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IERyYWtlcmlkZXI8L2E+ZGQCAQ8PFgIfAAVfTW91bnQ7IFRhY3RjaWFuOyBFeHBlcnQgVHJhaW5lcjsgQmFubmVyOyBHcmVhdGVyIFRhY3RpY2lhbjsgR3JlYXRlciBCYW5uZXI7IE1hc3RlciBUYWN0aWNpYW47DQpkZAICDw8WAh8ABZkBV2hpbGUgbWFueSBjYXZhbGllcnMgZHJlYW0gb2YgcmlkaW5nIGEgZHJhZ29uIGludG8gYmF0dGxlLCBkcmFrZXJpZGVycyBjb21lIHRvIGxlYXJuIHRoYXQgdGhlIHJlYWxpdHkgaW52b2x2ZXMgZmFyIG1vcmUgZWZmb3J0IHRoYW4gdGhleSBoYWQgZXhwZWN0ZWQuIA0KZGQCCw9kFgZmDw8WAh8ABakBPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1DYXZhbGllciBFbWlzc2FyeSI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IEVtaXNzYXJ5PC9hPmRkAgEPDxYCHwAFRFRhY3RpY2lhbjsgQmFubmVyOyBHcmVhdGVyIFRhY3RpY2lhbjsgR3JlYXRlciBCYW5uZXI7IFN1cHJlbWUgQ2hhcmdlZGQCAg8PFgIfAAVkU29tZSBjYXZhbGllcnMgZm9jdXMgbW9yZSBvbiBzcGVlZCBhbmQgbW9iaWxpdHkgdGhhbiB0aGV5IGRvIG9uIHRoZSByYXcgcG93ZXIgb2YgdGhlIG1vdW50ZWQgY2hhcmdlLmRkAgwPZBYGZg8PFgIfAAVGPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1DYXZhbGllciBFc3F1aXJlIj5Fc3F1aXJlPC9hPmRkAgEPDxYCHwAFUU1vdW50OyBDYXZhbGllcuKAmXMgQ2hhcmdlOyBFeHBlcnQgVHJhaW5lcjsgQmFubmVyOyBNaWdodHkgQ2hhcmdlOyBTdXByZW1lIENoYXJnZWRkAgIPDxYCHwAFpgFUaGUgZXNxdWlyZSBpcyBhIHJvdmluZyBrbmlnaHQgd2hvIGFjcXVpcmVzIHRoZSBzZXJ2aWNlcyBvZiBhIGZhaXRoZnVsIGZvbGxvd2Vy4oCUYW4gYWlkZS1kZS1jYW1w4oCUd2hvIHNlcnZlcyBhcyB0aGUgZXNxdWlyZeKAmXMgYXNzaXN0YW50LCBzcGVhciBjYXJyaWVyLCBhbmQgZ3VhcmQuZGQCDQ9kFgZmDw8WAh8ABUw8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPUNhdmFsaWVyIEZlbGwgUmlkZXIiPkZlbGwgUmlkZXI8L2E+ZGQCAQ8PFgIfAAVhTW91bnQ7IENhdmFsaWVy4oCZcyBDaGFyZ2U7IEV4cGVydCBUcmFpbmVyOyBCYW5uZXI7IE1pZ2h0eSBDaGFyZ2U7IEdyZWF0ZXIgQmFubmVyOyBTdXByZW1lIENoYXJnZWRkAgIPDxYCHwAFsAEoSG9iZ29ibGluIE9ubHkpIFRoZSBmZWxsIHJpZGVyIHJpZGVzIGEgYmVzdGlhbCBzdGVlZCwgYSBtb3VudCBtYXN0ZXJlZCBieSBoaW0gYWxvbmUuIEhlIHRyYW1wbGVzIGhpcyBlbmVtaWVzIGRvd24sIGxlYXZpbmcgdHdpc3RlZCBib2RpZXMgaW4gaGlzIHdha2UsIGFuZCBmZWFyIHJpZGVzIHdpdGggaGltLmRkAg4PZBYGZg8PFgIfAAXaATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9Q2F2YWxpZXIgRmlyc3QgTW90aGVyJ3MgRmFuZyI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbE4uZ2lmIiB0aXRsZT0iT25seSBhdmFpbGFibGUgdG8gTmFnYWppIGNoYXJhY3RlcnMiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IEZpcnN0IE1vdGhlcidzIEZhbmc8L2E+ZGQCAQ8PFgIfAAUwQ2xhc3MgU2tpbGxzOyBXZWFwb24gUHJvZmljaWVuY2llczsgTW91bnQ7IE9yZGVyZGQCAg8PFgIfAAWUAUEgZmlyc3QgbW90aGVy4oCZcyBmYW5nIGFjdHMgYXMgYSBzZXJ2YW50IG9mIGhpcyBuYXRpb24sIGEgc2tpbGxlZCBnZW5lcmFsIGFuZCB0YWN0aWNpYW4gaW4gdGltZXMgb2Ygd2FyIGFuZCBhIG5vYmxlIGdvdmVybm9yIGR1cmluZyB0aW1lcyBvZiBwZWFjZS5kZAIPD2QWBmYPDxYCHwAFpwE8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPUNhdmFsaWVyIEdhbGxhbnQiPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBHYWxsYW50PC9hPmRkAgEPDxYCHwAFHU9yZGVyOyBCYW5uZXI7IEdyZWF0ZXIgQmFubmVyZGQCAg8PFgIfAAWqAUdhbGxhbnRzIGVtYm9keSB0aGUgdmlydHVlcyBvZiBob25vciwgZ2VuZXJvc2l0eSwgYW5kIGNpdmlsaXR5LiBUaGVpciBwZXJzb25hbCBzeW1ib2wgc2VydmVzIGFzIGFuIGluc3BpcmF0aW9uIHRvIG90aGVycyBpbiBhIGNvdXJ0bHkgc2V0dGluZyBhcyBtdWNoIGFzIG9uIGEgYmF0dGxlZmllbGQuZGQCEA9kFgZmDw8WAh8ABakBPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1DYXZhbGllciBHZW5kYXJtZSI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IEdlbmRhcm1lPC9hPmRkAgEPDxYCHwAFPlRhY3RpY2lhbjsgR3JlYXRlciBUYWN0aWNpYW47IE1hc3RlciBUYWN0aWNpYW47IFN1cHJlbWUgQ2hhcmdlZGQCAg8PFgIfAAW4AlRoZSBnZW5kYXJtZSBjYXJlcyBsZXNzIGZvciB0aGUgZmluZXIgcG9pbnRzIG9mIHRhY3RpY2FsIHByZWNpc2lvbiB0aGFuIGhlIGRvZXMgZm9yIHRoZSBleGhpbGFyYXRpb24gb2YgdGhlIGNoYXJnZTogdGhlIHJ1c2ggb2Ygd2luZCB0aHJvdWdoIHRoZSB2aXNvciBvZiBoaXMgaGVsbWV0LCB0aGUgZmVlbCBvZiBoaXMgY291Y2hlZCBsYW5jZSwgdGhlIHNhdGlzZnlpbmcgc2hyaWVrIG9mIGFybW9yIGdpdmluZyB3YXkgYmVmb3JlIGhpcyB3ZWFwb27igJlzIGZvcmNlIGFzIHRoZSBwb2ludCBkcml2ZXMgcGFzdCBtZXRhbCBpbnRvIGhpcyBmb2VzLmRkAhEPZBYGZg8PFgIfAAWvATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9Q2F2YWxpZXIgR2hvc3QgUmlkZXIiPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBHaG9zdCBSaWRlcjwvYT5kZAIBDw8WAh8ABYEBTW91bnQ7IFRhY3RpY2lhbjsgR3JlYXRlciBUYWN0aWNpYW47IE1hc3RlciBUYWN0aWNpYW47IENhdmFsaWVy4oCZcyBDaGFyZ2U7IEV4cGVydCBUcmFpbmVyOyBCYW5uZXI7IE1pZ2h0eSBDaGFyZ2U7IEdyZWF0ZXIgQmFubmVyZGQCAg8PFgIfAAWoAUdob3N0IHJpZGVycyBhcmUgY29uZmxpY3RlZCB3YXJyaW9ycyB3aG8gdXNlIHRoZSBwb3dlcnMgb2YgdGhlIHBoYW50YXNtYWwgZGVhZCBldmVuIHdoaWxlIHNlZWtpbmcgb3V0IGFuZCBiYW5pc2hpbmcgdGhlIGNvcnJ1cHRpb24gb2YgdW5kZWF0aCBmcm9tIHBsYWd1ZWQgY29tbXVuaXRpZXMuIGRkAhIPZBYGZg8PFgIfAAWxATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9Q2F2YWxpZXIgR3JlZW4gS25pZ2h0Ij48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gR3JlZW4gS25pZ2h0PC9hPmRkAgEPDxYCHwAFmAFUYWN0aWNpYW47IE1vdW50OyBPcmRlcjsgQ2F2YWxpZXLigJlzIENoYXJnZTsgRXhwZXJ0IFRyYWluZXI7IEJhbm5lcjsgR3JlYXRlciBUYWN0aWNpYW47IE1pZ2h0eSBDaGFyZ2U7IEdyZWF0ZXIgQmFubmVyOyBNYXN0ZXIgVGFjdGljaWFuOyBTdXByZW1lIENoYXJnZWRkAgIPDxYCHwAFbFNvbWUga25pZ2h0cyBzZXJ2ZSBuYXR1cmUgaXRzZWxmIGFuZCBjYW4gYmUgZm91bmQgcHJvdGVjdGluZyB1bnNwb2lsZWQgbmF0dXJhbCBwbGFjZXMgb3Igc2VydmluZyBmZXkgYmVpbmdzLmRkAhMPZBYGZg8PFgIfAAVSPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1DYXZhbGllciBIZXJhbGQgU3F1aXJlIj5IZXJhbGQgU3F1aXJlPC9hPmRkAgEPDxYCHwAFNVRhY3RpY2lhbjsgMm5kLWxldmVsIE9yZGVyIEFiaWxpdHk7IENhdmFsaWVyJ3MgQ2hhcmdlZGQCAg8PFgIfAAU9VGhlIGhlcmFsZCBzcXVpcmUgaXMgdGhlIGV5ZXMgYW5kIGVhcnMgb2YgYSB0cmF2ZWxpbmcga25pZ2h0LmRkAhQPZBYGZg8PFgIfAAWvATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9Q2F2YWxpZXIgSG9ub3IgR3VhcmQiPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBIb25vciBHdWFyZDwvYT5kZAIBDw8WAh8ABUJDaGFsbGVuZ2U7IENhdmFsaWVy4oCZcyBDaGFyZ2U7IE1pZ2h0eSBDaGFyZ2U7IERlbWFuZGluZyBDaGFsbGVuZ2VkZAICDw8WAh8ABZcBQ2VydGFpbiBjYXZhbGllcnMgYXJlIHRyYWluZWQgbm90IGFzIGFkdmFuY2UgY29tYmF0YW50cywgYnV0IGFzIGxveWFsIGd1YXJkcywgc3RhbmRpbmcgYXMgZmlybSBkZWZlbmRlcnMgaW4gdGhlIGZhY2Ugb2YgdGhyZWF0cyB0byB0aGVpciBjaG9zZW4gY2hhcmdlLmRkAhUPZBYGZg8PFgIfAAWzATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9Q2F2YWxpZXIgSG9vZGVkIEtuaWdodCI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IEhvb2RlZCBLbmlnaHQ8L2E+ZGQCAQ8PFgIfAAVDQ2xhc3MgU2tpbGxzOyBNb3VudDsgVGFjdGljaWFuOyBHcmVhdGVyIFRhY3RpY2lhbjsgTWFzdGVyIFRhY3RpY2lhbmRkAgIPDxYCHwAFkwFTb21lIGNhdmFsaWVycyB3YW5kZXIgdGhlIGxvbmVseSByb2FkcyBvZiB0aGUgd29ybGTigJRhbnkgd29ybGQsIGluY2x1ZGluZyB0aGUgRmlyc3QgV29ybGTigJRwcm90ZWN0aW5nIHRyYXZlbGVycyBhbmQgYWN0aW5nIGFzIHRoZWlyIGhvbm9yIGd1YXJkLiBkZAIWD2QWBmYPDxYCHwAF6gE8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPUNhdmFsaWVyIEh1bnRtYXN0ZXIiPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2xOLmdpZiIgdGl0bGU9IlRoZSBIdW50bWFzdGVyIG1heSBvbmx5IGhhdmUgb25lIGFuaW1hbCBjb21wYW5pb24gaW4gaGlzIGh1bnRpbmcgcGFjayIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gSHVudG1hc3RlcjwvYT5kZAIBDw8WAh8ABcMBV2VhcG9uL0FybW9yIFByb2ZpY2llbmN5OyBDaGFsbGVuZ2U7IE1vdW50OyBUYWN0aWNpYW47IEdyZWF0ZXIgVGFjdGljaWFuOyBNYXN0ZXIgVGFjdGljaWFuOyBDYXZhbGllcuKAmXMgQ2hhcmdlOyBFeHBlcnQgVHJhaW5lcjsgQmFubmVyOyBCb251cyBGZWF0czsgTWlnaHR5IENoYXJnZTsgR3JlYXRlciBCYW5uZXI7IFN1cHJlbWUgQ2hhcmdlZGQCAg8PFgIfAAVVSHVudG1hc3RlcnMgdHJhaW4gdGhlIGJlYXN0cyBmYXZvcmVkIGJ5IGxvcmRseSBjYXN0ZXMgaW50byBzd2lmdCBhbmQgZGVhZGx5IHRyYWNrZXJzLmRkAhcPZBYGZg8PFgIfAAWlATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9Q2F2YWxpZXIgSHVzc2FyIj48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gSHVzc2FyPC9hPmRkAgEPDxYCHwAFjQFBcm1vciBQcm9maWNpZW5jaWVzOyBDbGFzcyBTa2lsbHM7IFRhY3RpY2lhbjsgQmFubmVyOyBHcmVhdGVyIEJhbm5lcjsgNnRoLCAxMnRoLCAxOHRoLWxldmVsIEJvbnVzIEZlYXRzOyBHcmVhdGVyIFRhY3RpY2lhbjsgTWFzdGVyIFRhY3RpY2lhbiBkZAICDw8WAh8ABW5BZ2lsZSBhbmQgbWFuZXV2ZXJhYmxlIGNhdmFscnksIGh1c3NhcnMgbWFrZSB1cCBmb3IgdGhlaXIgcmVsYXRpdmVseSBsaWdodCBhcm1vciB3aXRoIHRoZWlyIHNwZWVkIGFuZCBjdW5uaW5nLmRkAhgPZBYGZg8PFgIfAAW9ATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9Q2F2YWxpZXIgS25pZ2h0IG9mIEFybmlzYW50Ij48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gS25pZ2h0IG9mIEFybmlzYW50PC9hPmRkAgEPDxYCHwAFXFRhY3RpY2lhbjsgRXhwZXJ0IFRyYWluZXI7IEJhbm5lcjsgR3JlYXRlciBUYWN0aWNpYW47IERlbWFuZGluZyBDaGFsbGVuZ2U7IEdyZWF0ZXIgVGFjdGljaWFuZGQCAg8PFgIfAAWaAlRoZSBjYXZhbGllcnMga25vd24gYXMga25pZ2h0cyBvZiBBcm5pc2FudCByZXZlcmUgdGhlIGZhbW91cyBnZW5lcmFsIHdobyB3YXMgY3J1Y2lhbCBpbiB0aGUgZGVmZWF0IG9mIHRoZSBXaGlzcGVyaW5nIFR5cmFudCwgdGhlIHBvd2VyZnVsIHdpemFyZC1raW5nLiBLbmlnaHRzIG9mIEFybmlzYW50IGNhbGwgdXBvbiBBcm5pc2FudCB0byBncmFudCB0aGVtIHByb3RlY3Rpb24gZnJvbSBldmlsIG1hZ2ljLCBqdXN0IGFzIHRoZSA8ST5TaGllbGQgb2YgQXJvZGVuPC9pPiBwcm90ZWN0ZWQgaGltLmRkAhkPZBYGZg8PFgIfAAW3ATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9Q2F2YWxpZXIgTHVyaW5nIENhdmFsaWVyIj48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gTHVyaW5nIENhdmFsaWVyPC9hPmRkAgEPDxYCHwAFUkNoYWxsZW5nZTsgQ2F2YWxpZXLigJlzIENoYXJnZTsgTWlnaHR5IENoYXJnZTsgRGVtYW5kaW5nIENoYWxsZW5nZTsgU3VwcmVtZSBDaGFyZ2VkZAICDw8WAh8ABaMBVGhvc2Ugd2hvIHN0dWR5IHRoZSBwZXJmZWN0aW9uIG9mIHN0cmF0ZWd5IGFuZCB0YWN0aWNzIGtub3cgdGhhdCBwaWNraW5nIHRoZSBiYXR0bGVmaWVsZCBjYW4gZ3JhbnQgYWR2YW50YWdlcyB0aGF0IG9ubHkgb3ZlcndoZWxtaW5nIG51bWJlcnMgb2YgYWxsaWVzIGNhbiBlY2xpcHNlLmRkAhoPZBYGZg8PFgIfAAVKPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1DYXZhbGllciBNdXNrZXRlZXIiPk11c2tldGVlcjwvYT5kZAIBDw8WAh8ABRVNb3VudDsgRXhwZXJ0IFRyYWluZXJkZAICDw8WAh8ABXNTb21lIGNhdmFsaWVycyBhcmUgZW50cnVzdGVkIGJ5IHRoZWlyIG1hc3RlcnMgd2l0aCB0aGUgY2FyZSBhbmQgdXNlIG9mIGV4cGVuc2l2ZSBhbmQgcG93ZXJmdWwgb2RkaXRpZXPigJRmaXJlYXJtcy4gZGQCGw9kFgZmDw8WAh8ABa0BPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1DYXZhbGllciBPY2VhbnJpZGVyIj48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gT2NlYW5yaWRlcjwvYT5kZAIBDw8WAh8ABShBcm1vciBQcm9maWNpZW5jeTsgTW91bnQ7IEV4cGVydCBUcmFpbmVyZGQCAg8PFgIfAAVMT2NlYW5yaWRlcnMgYXJlIHVuZGVyd2F0ZXIgY2F2YWxpZXJzIHdobyByaWRlIGRvbHBoaW5zLCBvcmNhcywgb3Igc2VhaG9yc2VzLmRkAhwPZBYGZg8PFgIfAAVYPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1DYXZhbGllciBRYWJhcmF0IE91dHJpZGVyIj5RYWJhcmF0IE91dHJpZGVyPC9hPmRkAgEPDxYCHwAFWUFybW9yIFByb2ZpY2llbmN5OyBUYWN0aWNpYW47IEdyZWF0ZXIgVGFjdGljaWFuOyBNYXN0ZXIgVGFjdGljaWFuOyBCYW5uZXI7IEdyZWF0ZXIgQmFubmVyZGQCAg8PFgIfAAXDAihMYXNodW50YSBPbmx5KSBUaGUgd2FyIGNvbGxlZ2VzIG9mIHRoZSBDYXN0cm92ZWxpYW4gY2l0eS1zdGF0ZSBvZiBRYWJhcmF0IHByb2R1Y2UgYSBkaXN0aW5jdGl2ZSBicmVlZCBvZiBjYXZhbGllciBrbm93biBhcyB0aGUgUWFiYXJhdCBvdXRyaWRlci4gSW4gZGVmZW5zZSBvZiB0aGUgbGFzaHVudGEgY2l0eS1zdGF0ZXMsIG91dHJpZGVycyBsZWFkIHNtYWxsIHVuaXRzIG9mIHJlZ3VsYXIgdHJvb3BzLCB0aGUgbWVtYmVycyBvZiB3aGljaCBjYW4gbGluayBtaW5kcyB3aXRoIG9uZSBhbm90aGVyIHRvIGZvcm0gYm9uZHMgaW4gYmF0dGxlIGZldyBjYW4gbWF0Y2guZGQCHQ9kFgZmDw8WAh8ABbsBPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1DYXZhbGllciBRYWRpcmFuIEhvcnNlbG9yZCI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IFFhZGlyYW4gSG9yc2Vsb3JkPC9hPmRkAgEPDxYCHwAFfFdlYXBvbiBhbmQgQXJtb3IgUHJvZmljaWVuY3k7IE1vdW50OyBUYWN0aWNpYW47IENhdmFsaWVyJ3MgQ2hhcmdlOyA2dGgtbGV2ZWwgQm9udXMgRmVhdDsgR3JlYXRlciBUYWN0aWNpYW47IE1hc3RlciBUYWN0aWNpYW5kZAICDw8WAh8ABW1NdWNoIGxpa2UgdGhlIGJyZWVkIG9mIGhvcnNlcyB0aGV5IHJpZGUsIFFhZGlyYW4gaG9yc2Vsb3JkcyBwcmlkZSB0aGVtc2VsdmVzIG9uIHRoZWlyIG1vYmlsaXR5IGFuZCBlbmR1cmFuY2UuZGQCHg9kFgZmDw8WAh8ABbkBPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1DYXZhbGllciBTYXVyaWFuIENoYW1waW9uIj48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gU2F1cmlhbiBDaGFtcGlvbjwvYT5kZAIBDw8WAh8ABZYBQ2xhc3MgU2tpbGxzOyBXZWFwb24vQXJtb3IgUHJvZmljaWVuY2llczsgQ2hhbGxlbmdlOyBPcmRlcjsgQ2F2YWxpZXLigJlzIE1vdW50OyBUYWN0aWNpYW47IEdyZWF0ZXIgVGFjdGljaWFuOyBNYXN0ZXIgVGFjdGljaWFuOyBCYW5uZXI7IEdyZWF0ZXIgQmFubmVyZGQCAg8PFgIfAAVqVGhlc2UgcHJpbWV2YWwgY2F2YWxpZXJzIGlkb2xpemUgZGlub3NhdXJzIGFzIGFwZXggcHJlZGF0b3JzIGFuZCB2YWx1ZSB0aGVtIGFzIHBvd2VyZnVsLCBvdmVyc2l6ZWQgbW91bnRzLmRkAh8PZBYGZg8PFgIfAAW1ATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9Q2F2YWxpZXIgU2lzdGVyLWluLUFybXMiPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBTaXN0ZXItaW4tQXJtczwvYT5kZAIBDw8WAh8ABVlDaGFsbGVuZ2U7IE9yZGVyOyBNb3VudDsgQ2F2YWxpZXIncyBDaGFyZ2U7IEV4cGVydCBUcmFpbmVyOyBNaWdodHkgQ2hhcmdlOyBTdXByZW1lIENoYXJnZWRkAgIPDxYCHwAF5gFTb21lIG9mIHRoZSBtb3N0IGNoYXJpc21hdGljIEdyYXkgTWFpZGVucyBjb21iaW5lIHRoZWlyIGRldm90aW9uIHRvIHRoZWlyIHNpc3RlcnMgd2l0aCB0aGUgaW50ZW5zZSB0YWN0aWNhbCB0cmFpbmluZyB0aGV5IHJlY2VpdmVkLCBsZWFybmluZyB0byBwZXJmZWN0bHkgZGlyZWN0IHRoZWlyIGNvbXBhbmlvbnMgYW5kIGluc3BpcmluZyB0aGVtIHRvIHN1cnZpdmUgYW5kIGVtZXJnZSB2aWN0b3Jpb3VzLmRkAiAPZBYGZg8PFgIfAAW7ATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9Q2F2YWxpZXIgU3BlbGxzY2FyIERyaWZ0ZXIiPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBTcGVsbHNjYXIgRHJpZnRlcjwvYT5kZAIBDw8WAh8ABa8BV2VhcG9uL0FybW9yIFByb2ZpY2llbmN5OyBUYWN0aWNpYW47IENhdmFsaWVy4oCZcyBDaGFyZ2U7IEJhbm5lciBDYXZhbGllcjsgQm9udXMgRmVhdHM7IEdyZWF0ZXIgVGFjdGljaWFuOyBNaWdodHkgQ2hhcmdlOyBEZW1hbmRpbmcgQ2hhbGxlbmdlOyBNYXN0ZXIgVGFjdGljaWFuOyBTdXByZW1lIENoYXJnZWRkAgIPDxYCHwAFkgFTcGVsbHNjYXIgZHJpZnRlcnMgYXJlIHNlbGYtcmVsaWFudCBhbmQgYWx3YXlzIGtlZXAgdGhlaXIgZmlyZWFybXMgbG9hZGVk4oCUaW4gdGhlIFNwZWxsc2NhciBEZXNlcnQsIGEgcmlkZXIgd2l0aCBhIHNsb3cgZHJhdyBkb2VzbuKAmXQgbGl2ZSBsb25nLmRkAiEPZBYGZg8PFgIfAAW3ATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9Q2F2YWxpZXIgU3RhbmRhcmQgQmVhcmVyIj48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gU3RhbmRhcmQgQmVhcmVyPC9hPmRkAgEPDxYCHwAFLE1vdW50OyBCYW5uZXI7IE1pZ2h0eSBDaGFyZ2U7IFN1cHJlbWUgQ2hhcmdlZGQCAg8PFgIfAAWSAVNvbWUgY2F2YWxpZXJzIHByZWZlciB0byBzdGFuZCBhd2F5IGZyb20gdGhlIGZyYXksIHRoZWlyIGJhbm5lcnMgYSBiZWFjb24gc2hpbmluZyBicmlnaHRseSBvdmVyIHRoZSBiYXR0bGVmaWVsZCwgcmFsbHlpbmcgdGhlaXIgdHJvb3BzIHRvIHZpY3RvcnkuZGQCIg9kFgZmDw8WAh8ABa0BPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1DYXZhbGllciBTdHJhdGVnaXN0Ij48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gU3RyYXRlZ2lzdDwvYT5kZAIBDw8WAh8ABTVFeHBlcnQgVHJhaW5lcjsgR3JlYXRlciBCYW5uZXI7IDE4dGgtbGV2ZWwgQm9udXMgRmVhdGRkAgIPDxYCHwAF5QFTb21lIGNhdmFsaWVycyBtYWtlIGEgbGlmZWxvbmcgbWlzc2lvbiBvdXQgb2YgdGhlaXIgZXhjZXB0aW9uYWwgYWJpbGl0eSB0byBkaXJlY3QgdHJvb3BzIG9uIHRoZSBiYXR0bGVmaWVsZCwgY29tYmluaW5nIHRhY3RpY2FsIGluc2lnaHQgd2l0aCBhIHByZXRlcm5hdHVyYWwgc2tpbGwgYXQgaW1wcm92aW5nIHRoZSB0ZWFtd29yayBvZiB0aGVpciBhbGxpZXMgaW4gb3JkZXIgdG8gd2luIHRoZSBkYXkuZGQCIw9kFgZmDw8WAh8ABasBPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1DYXZhbGllciBWZXJkaXZhbnQiPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBWZXJkaXZhbnQ8L2E+ZGQCAQ8PFgIfAAV2RXhwZXJ0IFRyYWluZXI7IFRhY3RpY2lhbjsgQmFubmVyOyBHcmVhdGVyIFRhY3RpY2lhbjsgR3JlYXRlciBCYW5uZXI7IE1hc3RlciBUYWN0aWNpYW47IEJvbnVzIEZlYXRzOyBDYXZhbGllcidzIENoYXJnZWRkAgIPDxYCHwAFXVNvbWUgdmluZSBsZXNoeXPigJkgc3Bpcml0cyBhcmUgdmlicmFudCBlbm91Z2ggdG8gcHJvamVjdCB0aGlzIGFuaW11cyBiZXlvbmQgdGhlaXIgb3duIGJvZGllc2RkAiQPZBYGZg8PFgIfAAWxATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9Q2F2YWxpZXIgVmVybWluIFRhbWVyIj48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gVmVybWluIFRhbWVyPC9hPmRkAgEPDxYCHwAFKk1vdW50OyBFeHBlcnQgVHJhaW5lcjsgRGVtYW5kaW5nIENoYWxsZW5nZWRkAgIPDxYCHwAF5wFEdWUgdG8gdGhlIHN0cmFuZ2UgdGVycmFpbiwgdGhlIGxhY2sgb2Ygc3VubGlnaHQsIGFuZCBudW1lcm91cyBvdGhlciBoYXphcmRzLCBrZWVwaW5nIGEgdHJhZGl0aW9uYWwgbW91bnQgaW4gdGhlIERhcmtsYW5kcyBjYW4gcHJvdmUgZGlmZmljdWx0LiBDYXZhbGllcnMgbmF0aXZlIHRvIG9yIHRyYXZlbGluZyB0aGUgcmVnaW9uIG1heSBjaG9vc2UgdG8gdGFtZSBsb2NhbCBjcmVhdHVyZXMgaW5zdGVhZC5kZAIlD2QWBmYPDxYCHwAFrQE8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPUNhdmFsaWVyIFdhdmUgUmlkZXIiPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBXYXZlIFJpZGVyPC9hPmRkAgEPDxYCHwAFH1dlYXBvbi9Bcm1vciBQcm9maWNpZW5jeTsgTW91bnRkZAICDw8WAh8ABdIBVGhyb3VnaG91dCB0aGUgSW5uZXIgU2VhIHJlZ2lvbiwgd2F2ZSByaWRlcnMgcGF0cm9sIGhhcmJvcnMsIGtlZXBpbmcgdGhlbSBzYWZlIGZyb20gZGFuZ2Vyb3VzIHNlYSBjcmVhdHVyZXMgYW5kIHdhdGNoaW5nIGZvciBzbXVnZ2xlcnMuIFRoZSBtb3N0IGZhbW91cyBvZiB0aGVzZSBpcyB0aGUgaGlwcG9jYW1wdXMtcmlkaW5nIFNlYSBDYXZhbHJ5IG9mIEFic2Fsb20uZGQCJg8PFgIeB1Zpc2libGVoZGQCCQ8PZDwrAAYBABAWAWYWARYCHg5QYXJhbWV0ZXJWYWx1ZQUIQ2F2YWxpZXIWAQIEZBgBBSRjdGwwMCRNYWluQ29udGVudCRHcmlkVmlld0FyY2hldHlwZXMPPCsADAMGFQEGSXRlbUlkBxQrACUUKwABAsgBFCsAAQLBBBQrAAEC+wQUKwABAr8HFCsAAQKPBRQrAAECuQYUKwABArgDFCsAAQK6BhQrAAECmQcUKwABArwFFCsAAQLJARQrAAEC+QQUKwABArQCFCsAAQKVBhQrAAECjQcUKwABAsoBFCsAAQLpBBQrAAEC1AgUKwABAjIUKwABAssBFCsAAQLMBxQrAAEC1QIUKwABArsGFCsAAQL+BRQrAAECzAEUKwABAs0BFCsAAQL8BxQrAAECiQQUKwABAtAHFCsAAQLVCBQrAAEC3wcUKwABAoMDFCsAAQLOARQrAAECzwEUKwABArIKFCsAAQKmBxQrAAEChgMIAgFkY1QflpbZg9lU7WSWfH+eGONkePE7fvHyjzgJjLAA0K4=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="654C4F5D" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <h2 style="text-align: center"><span id="MainContent_AllClassLabel"><a href="ClassDisplay.aspx?ItemName=Alchemist">Alchemist</a> | <a href="ClassDisplay.aspx?ItemName=Antipaladin">Antipaladin</a> | <a href="ClassDisplay.aspx?ItemName=Arcanist">Arcanist</a> | <a href="ClassDisplay.aspx?ItemName=Barbarian">Barbarian</a> | <a href="ClassDisplay.aspx?ItemName=Barbarian (Unchained)">Barbarian (Unchained)</a> | <a href="ClassDisplay.aspx?ItemName=Bard">Bard</a> | <a href="ClassDisplay.aspx?ItemName=Bloodrager">Bloodrager</a> | <a href="ClassDisplay.aspx?ItemName=Brawler">Brawler</a> | <a href="ClassDisplay.aspx?ItemName=Cavalier">Cavalier</a> | <a href="ClassDisplay.aspx?ItemName=Cleric">Cleric</a> | <a href="ClassDisplay.aspx?ItemName=Druid">Druid</a> | <a href="ClassDisplay.aspx?ItemName=Fighter">Fighter</a> | <a href="ClassDisplay.aspx?ItemName=Gunslinger">Gunslinger</a> | <a href="ClassDisplay.aspx?ItemName=Hunter">Hunter</a> | <a href="ClassDisplay.aspx?ItemName=Inquisitor">Inquisitor</a> | <a href="ClassDisplay.aspx?ItemName=Investigator">Investigator</a> | <a href="ClassDisplay.aspx?ItemName=Kineticist">Kineticist</a> | <a href="ClassDisplay.aspx?ItemName=Magus">Magus</a> | <a href="ClassDisplay.aspx?ItemName=Medium">Medium</a> | <a href="ClassDisplay.aspx?ItemName=Mesmerist">Mesmerist</a> | <a href="ClassDisplay.aspx?ItemName=Monk">Monk</a> | <a href="ClassDisplay.aspx?ItemName=Monk (Unchained)">Monk (Unchained)</a> | <a href="ClassDisplay.aspx?ItemName=Ninja">Ninja</a> | <a href="ClassDisplay.aspx?ItemName=Occultist">Occultist</a> | <a href="ClassDisplay.aspx?ItemName=Oracle">Oracle</a> | <a href="ClassDisplay.aspx?ItemName=Paladin">Paladin</a> | <a href="ClassDisplay.aspx?ItemName=Psychic">Psychic</a> | <a href="ClassDisplay.aspx?ItemName=Ranger">Ranger</a> | <a href="ClassDisplay.aspx?ItemName=Rogue">Rogue</a> | <a href="ClassDisplay.aspx?ItemName=Rogue (Unchained)">Rogue (Unchained)</a> | <a href="ClassDisplay.aspx?ItemName=Samurai">Samurai</a> | <a href="ClassDisplay.aspx?ItemName=Shaman">Shaman</a> | <a href="ClassDisplay.aspx?ItemName=Shifter">Shifter</a> | <a href="ClassDisplay.aspx?ItemName=Skald">Skald</a> | <a href="ClassDisplay.aspx?ItemName=Slayer">Slayer</a> | <a href="ClassDisplay.aspx?ItemName=Sorcerer">Sorcerer</a> | <a href="ClassDisplay.aspx?ItemName=Spiritualist">Spiritualist</a> | <a href="ClassDisplay.aspx?ItemName=Summoner">Summoner</a> | <a href="ClassDisplay.aspx?ItemName=Summoner (Unchained)">Summoner (Unchained)</a> | <a href="ClassDisplay.aspx?ItemName=Swashbuckler">Swashbuckler</a> | <a href="ClassDisplay.aspx?ItemName=Vigilante">Vigilante</a> | <a href="ClassDisplay.aspx?ItemName=Warpriest">Warpriest</a> | <a href="ClassDisplay.aspx?ItemName=Witch">Witch</a> | <a href="ClassDisplay.aspx?ItemName=Wizard">Wizard</a><hr /><a href="ClassDisplay.aspx?ItemName=Companion">Companion</a> | <a href="ClassDisplay.aspx?ItemName=Drake">Drake</a> | <a href="ClassDisplay.aspx?ItemName=Eidolon">Eidolon</a> | <a href="ClassDisplay.aspx?ItemName=Eidolon (Unchained)">Eidolon (Unchained)</a> | <a href="ClassDisplay.aspx?ItemName=Familiar">Familiar</a> | <a href="ClassDisplay.aspx?ItemName=Phantom">Phantom</a><hr /><a href="ClassDisplay.aspx?ItemName=Adept">Adept</a> | <a href="ClassDisplay.aspx?ItemName=Aristocrat">Aristocrat</a> | <a href="ClassDisplay.aspx?ItemName=Commoner">Commoner</a> | <a href="ClassDisplay.aspx?ItemName=Expert">Expert</a> | <a href="ClassDisplay.aspx?ItemName=Warrior">Warrior</a><hr /></span></h2>
+    <h2 style="text-align: center"><span id="MainContent_MainClassLabel"><a href="ClassDisplay.aspx?ItemName=Cavalier">Cavalier Class Details</a> | <a href="CavalierBanners.aspx">Banners</a> | <a href="CavalierOrders.aspx">Orders</a> | <a href="Archetypes.aspx?Class=Cavalier">Archetypes</a><hr /></span></h2>
+
+    <span id="MainContent_ArchetypeClassLabel"><h1 class="title">Cavalier Archetypes</h1></span>
+    <div>
+	<table cellspacing="0" cellpadding="3" rules="cols" id="MainContent_GridViewArchetypes" style="color:Black;background-color:White;border-color:#999999;border-width:1px;border-style:Solid;border-collapse:collapse;">
+		<tr style="color:White;background-color:Black;font-weight:bold;">
+			<th scope="col">Name</th><th scope="col">Replaces</th><th scope="col">Summary</th>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Beast Rider"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Beast Rider</a></td><td>Mount; Expert Trainer</td><td>Where some cavaliers are simply skilled with horses or well-trained knights, the beast rider spends his life in constant pursuit of the most perfect mount, forming bonds with greater, more powerful, and more exotic creatures.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Castellan"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Castellan</a></td><td>Mount; Cavalier’s Charge; Expert Trainer; Mighty Charge; Demanding Challenge; Supreme Charge</td><td>A castellan is a cavalier who dedicates himself to the defense of a castle or walled city.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Charger">Charger</a></td><td>Class Skills; Weapon/Armor Proficiencies; Mount; Cavalier’s Charge; Expert Trainer; Mighty Charge</td><td>(Centaur Only) No warrior better epitomizes the centaur’s devastating martial power than the charger.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Circuit Judge"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Circuit Judge</a></td><td>Tactician; Greater Tactician; Master Tactician; Challenge; Demanding Challenge</td><td>A circuit judge claims a specific region, becoming an expert in the local laws and, perhaps, becoming a fearsome executioner.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Constable"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Constable</a></td><td>Class Skills; Mount; Cavalier’s Charge; Expert Trainer; Banner; Mighty Charge; Supreme Charge; Greater Banner</td><td>Constables keep order in the narrow streets and dark alleys of settlements.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Courtly Knight"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Courtly Knight</a></td><td>Tactician; Greater Tactician; Master Tactician</td><td>These courtly knights are equally at home in a duel with words or swords.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Daring Champion"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Daring Champion</a></td><td>Weapon/Armor Proficiencies; Mount; Cavalier’s Charge; Expert Trainer; Mighty Charge; Supreme Charge</td><td>While many cavaliers are the champions of old fighting forms, some younger, more daring cavaliers mix a martial style influenced by the lighter armored and more flamboyant swashbuckler forms with the dedication of cavalier orders.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Daring General">Daring General</a></td><td>6th, 12th, 18th-level Bonus Feats; Demanding Challenge; Supreme Charge</td><td>Those cavaliers most gifted at command often become daring generals.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Disciple of the Pike"><img src="images\PathfinderSocietySymbolN.gif" title="The disciple of the pike does not qualify for Advanced Weapon Training options." style="margin:3px 3px 0px 3px;"> Disciple of the Pike</a></td><td>Mount; Cavalier's Charge; Expert Trainer; Banner; Greater Banner; Mighty Charge; Supreme Charge</td><td>The Hellknight Order of the Pike are renowned monster hunters, taking on large game using ancient weapon arts combined with modern equipment.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Drakerider"><img src="images\PathfinderSocietySymbolN.gif" title="A drakerider must belong to the order of the beast(ISC), the order of the cockatrice, or the order of the dragon
+" style="margin:3px 3px 0px 3px;"> Drakerider</a></td><td>Mount; Tactcian; Expert Trainer; Banner; Greater Tactician; Greater Banner; Master Tactician;
+</td><td>While many cavaliers dream of riding a dragon into battle, drakeriders come to learn that the reality involves far more effort than they had expected. 
+</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Emissary"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Emissary</a></td><td>Tactician; Banner; Greater Tactician; Greater Banner; Supreme Charge</td><td>Some cavaliers focus more on speed and mobility than they do on the raw power of the mounted charge.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Esquire">Esquire</a></td><td>Mount; Cavalier’s Charge; Expert Trainer; Banner; Mighty Charge; Supreme Charge</td><td>The esquire is a roving knight who acquires the services of a faithful follower—an aide-de-camp—who serves as the esquire’s assistant, spear carrier, and guard.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Fell Rider">Fell Rider</a></td><td>Mount; Cavalier’s Charge; Expert Trainer; Banner; Mighty Charge; Greater Banner; Supreme Charge</td><td>(Hobgoblin Only) The fell rider rides a bestial steed, a mount mastered by him alone. He tramples his enemies down, leaving twisted bodies in his wake, and fear rides with him.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier First Mother's Fang"><img src="images\PathfinderSocietySymbolN.gif" title="Only available to Nagaji characters" style="margin:3px 3px 0px 3px;"> First Mother's Fang</a></td><td>Class Skills; Weapon Proficiencies; Mount; Order</td><td>A first mother’s fang acts as a servant of his nation, a skilled general and tactician in times of war and a noble governor during times of peace.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Gallant"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Gallant</a></td><td>Order; Banner; Greater Banner</td><td>Gallants embody the virtues of honor, generosity, and civility. Their personal symbol serves as an inspiration to others in a courtly setting as much as on a battlefield.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Gendarme"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Gendarme</a></td><td>Tactician; Greater Tactician; Master Tactician; Supreme Charge</td><td>The gendarme cares less for the finer points of tactical precision than he does for the exhilaration of the charge: the rush of wind through the visor of his helmet, the feel of his couched lance, the satisfying shriek of armor giving way before his weapon’s force as the point drives past metal into his foes.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Ghost Rider"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Ghost Rider</a></td><td>Mount; Tactician; Greater Tactician; Master Tactician; Cavalier’s Charge; Expert Trainer; Banner; Mighty Charge; Greater Banner</td><td>Ghost riders are conflicted warriors who use the powers of the phantasmal dead even while seeking out and banishing the corruption of undeath from plagued communities. </td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Green Knight"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Green Knight</a></td><td>Tactician; Mount; Order; Cavalier’s Charge; Expert Trainer; Banner; Greater Tactician; Mighty Charge; Greater Banner; Master Tactician; Supreme Charge</td><td>Some knights serve nature itself and can be found protecting unspoiled natural places or serving fey beings.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Herald Squire">Herald Squire</a></td><td>Tactician; 2nd-level Order Ability; Cavalier's Charge</td><td>The herald squire is the eyes and ears of a traveling knight.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Honor Guard"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Honor Guard</a></td><td>Challenge; Cavalier’s Charge; Mighty Charge; Demanding Challenge</td><td>Certain cavaliers are trained not as advance combatants, but as loyal guards, standing as firm defenders in the face of threats to their chosen charge.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Hooded Knight"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Hooded Knight</a></td><td>Class Skills; Mount; Tactician; Greater Tactician; Master Tactician</td><td>Some cavaliers wander the lonely roads of the world—any world, including the First World—protecting travelers and acting as their honor guard. </td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Huntmaster"><img src="images\PathfinderSocietySymbolN.gif" title="The Huntmaster may only have one animal companion in his hunting pack" style="margin:3px 3px 0px 3px;"> Huntmaster</a></td><td>Weapon/Armor Proficiency; Challenge; Mount; Tactician; Greater Tactician; Master Tactician; Cavalier’s Charge; Expert Trainer; Banner; Bonus Feats; Mighty Charge; Greater Banner; Supreme Charge</td><td>Huntmasters train the beasts favored by lordly castes into swift and deadly trackers.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Hussar"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Hussar</a></td><td>Armor Proficiencies; Class Skills; Tactician; Banner; Greater Banner; 6th, 12th, 18th-level Bonus Feats; Greater Tactician; Master Tactician </td><td>Agile and maneuverable cavalry, hussars make up for their relatively light armor with their speed and cunning.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Knight of Arnisant"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Knight of Arnisant</a></td><td>Tactician; Expert Trainer; Banner; Greater Tactician; Demanding Challenge; Greater Tactician</td><td>The cavaliers known as knights of Arnisant revere the famous general who was crucial in the defeat of the Whispering Tyrant, the powerful wizard-king. Knights of Arnisant call upon Arnisant to grant them protection from evil magic, just as the <I>Shield of Aroden</i> protected him.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Luring Cavalier"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Luring Cavalier</a></td><td>Challenge; Cavalier’s Charge; Mighty Charge; Demanding Challenge; Supreme Charge</td><td>Those who study the perfection of strategy and tactics know that picking the battlefield can grant advantages that only overwhelming numbers of allies can eclipse.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Musketeer">Musketeer</a></td><td>Mount; Expert Trainer</td><td>Some cavaliers are entrusted by their masters with the care and use of expensive and powerful oddities—firearms. </td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Oceanrider"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Oceanrider</a></td><td>Armor Proficiency; Mount; Expert Trainer</td><td>Oceanriders are underwater cavaliers who ride dolphins, orcas, or seahorses.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Qabarat Outrider">Qabarat Outrider</a></td><td>Armor Proficiency; Tactician; Greater Tactician; Master Tactician; Banner; Greater Banner</td><td>(Lashunta Only) The war colleges of the Castrovelian city-state of Qabarat produce a distinctive breed of cavalier known as the Qabarat outrider. In defense of the lashunta city-states, outriders lead small units of regular troops, the members of which can link minds with one another to form bonds in battle few can match.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Qadiran Horselord"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Qadiran Horselord</a></td><td>Weapon and Armor Proficiency; Mount; Tactician; Cavalier's Charge; 6th-level Bonus Feat; Greater Tactician; Master Tactician</td><td>Much like the breed of horses they ride, Qadiran horselords pride themselves on their mobility and endurance.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Saurian Champion"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Saurian Champion</a></td><td>Class Skills; Weapon/Armor Proficiencies; Challenge; Order; Cavalier’s Mount; Tactician; Greater Tactician; Master Tactician; Banner; Greater Banner</td><td>These primeval cavaliers idolize dinosaurs as apex predators and value them as powerful, oversized mounts.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Sister-in-Arms"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Sister-in-Arms</a></td><td>Challenge; Order; Mount; Cavalier's Charge; Expert Trainer; Mighty Charge; Supreme Charge</td><td>Some of the most charismatic Gray Maidens combine their devotion to their sisters with the intense tactical training they received, learning to perfectly direct their companions and inspiring them to survive and emerge victorious.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Spellscar Drifter"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Spellscar Drifter</a></td><td>Weapon/Armor Proficiency; Tactician; Cavalier’s Charge; Banner Cavalier; Bonus Feats; Greater Tactician; Mighty Charge; Demanding Challenge; Master Tactician; Supreme Charge</td><td>Spellscar drifters are self-reliant and always keep their firearms loaded—in the Spellscar Desert, a rider with a slow draw doesn’t live long.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Standard Bearer"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Standard Bearer</a></td><td>Mount; Banner; Mighty Charge; Supreme Charge</td><td>Some cavaliers prefer to stand away from the fray, their banners a beacon shining brightly over the battlefield, rallying their troops to victory.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Strategist"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Strategist</a></td><td>Expert Trainer; Greater Banner; 18th-level Bonus Feat</td><td>Some cavaliers make a lifelong mission out of their exceptional ability to direct troops on the battlefield, combining tactical insight with a preternatural skill at improving the teamwork of their allies in order to win the day.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Verdivant"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Verdivant</a></td><td>Expert Trainer; Tactician; Banner; Greater Tactician; Greater Banner; Master Tactician; Bonus Feats; Cavalier's Charge</td><td>Some vine leshys’ spirits are vibrant enough to project this animus beyond their own bodies</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Vermin Tamer"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Vermin Tamer</a></td><td>Mount; Expert Trainer; Demanding Challenge</td><td>Due to the strange terrain, the lack of sunlight, and numerous other hazards, keeping a traditional mount in the Darklands can prove difficult. Cavaliers native to or traveling the region may choose to tame local creatures instead.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Cavalier Wave Rider"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Wave Rider</a></td><td>Weapon/Armor Proficiency; Mount</td><td>Throughout the Inner Sea region, wave riders patrol harbors, keeping them safe from dangerous sea creatures and watching for smugglers. The most famous of these is the hippocampus-riding Sea Cavalry of Absalom.</td>
+		</tr>
+	</table>
+</div>
+    
+    
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

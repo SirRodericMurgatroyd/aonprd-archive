@@ -1,0 +1,270 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Time in Your Game - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Time in Your Game" /><meta name="description" content="In most fantasy settings, time is a linear construct, a series of dates on a line. This is the standard construct, but it can also be tweaked. Do the people of your world think of time as a series of never-ending cycles or in terms of ages defined by a common theme, such as the Dark Ages or the Age of Reason? Does history repeat itself ? If so, is this repetition what leads to prophecy, and how does it affect the role of sages, historians, and storytellers? Alternatively, you might decide that time happens all at once, a singular, shared hallucination—this obviously becomes complicated and makes great demands on your world’s cosmology, but it can be a fun conceit nonetheless.&lt;br />&lt;br /> Assuming time is linear and cause leads to effect, how long are your world’s years, seasons, months, or weeks? In most cultures, these are labels for meteorological or cosmic events that can be reliably tracked. The sun goes down every day, the moon goes through its phases every month, the seasons come in cycles of four, and so forth. Any and all of these could be altered or eliminated, so long as you think of some reasonably sensible explanation for it.&lt;br />&lt;br /> Changing such things as the length of the day is more significant than the length of a season or even a month, because it can directly impact an adventure. If a day in your world is 32 hours long, how much of that is night? How does this change the length of a typical “business day” for markets, farmers, craftsmen, or guards? What about magic users whose abilities refresh each day?&lt;br />&lt;br /> A common world-building twist is adding moons or perhaps some other great cosmological object. If you do this, you provide your world with another reliable marker for time’s passing, so be sure to consider its effects. Is the smaller moon faster or slower? When a comet manifests in the heavens, does it signal the changing of kings or the beginning of a ritual war?&lt;br />&lt;br /> Finally, you should think about how tightly you want to bind such things as government, religion, or magic to the marking of time. Do people think of time in terms of the emperor’s reign? Is each day of the week connected to a religious practice or observation?" /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=760" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWuFDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDU0Ij5HYW1lTWFzdGVyeSBHdWlkZTwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD03MDgiPkNyZWF0aW5nIGEgV29ybGQ8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NzU4Ij5UaW1lPC9hPjwvdT48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTc2MCI+VGltZSBpbiBZb3VyIEdhbWU8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiAxNjI8L2k+PC9hPjxiciAvPkluIG1vc3QgZmFudGFzeSBzZXR0aW5ncywgdGltZSBpcyBhIGxpbmVhciBjb25zdHJ1Y3QsIGEgc2VyaWVzIG9mIGRhdGVzIG9uIGEgbGluZS4gVGhpcyBpcyB0aGUgc3RhbmRhcmQgY29uc3RydWN0LCBidXQgaXQgY2FuIGFsc28gYmUgdHdlYWtlZC4gRG8gdGhlIHBlb3BsZSBvZiB5b3VyIHdvcmxkIHRoaW5rIG9mIHRpbWUgYXMgYSBzZXJpZXMgb2YgbmV2ZXItZW5kaW5nIGN5Y2xlcyBvciBpbiB0ZXJtcyBvZiBhZ2VzIGRlZmluZWQgYnkgYSBjb21tb24gdGhlbWUsIHN1Y2ggYXMgdGhlIERhcmsgQWdlcyBvciB0aGUgQWdlIG9mIFJlYXNvbj8gRG9lcyBoaXN0b3J5IHJlcGVhdCBpdHNlbGYgPyBJZiBzbywgaXMgdGhpcyByZXBldGl0aW9uIHdoYXQgbGVhZHMgdG8gcHJvcGhlY3ksIGFuZCBob3cgZG9lcyBpdCBhZmZlY3QgdGhlIHJvbGUgb2Ygc2FnZXMsIGhpc3RvcmlhbnMsIGFuZCBzdG9yeXRlbGxlcnM/IEFsdGVybmF0aXZlbHksIHlvdSBtaWdodCBkZWNpZGUgdGhhdCB0aW1lIGhhcHBlbnMgYWxsIGF0IG9uY2UsIGEgc2luZ3VsYXIsIHNoYXJlZCBoYWxsdWNpbmF0aW9u4oCUdGhpcyBvYnZpb3VzbHkgYmVjb21lcyBjb21wbGljYXRlZCBhbmQgbWFrZXMgZ3JlYXQgZGVtYW5kcyBvbiB5b3VyIHdvcmxk4oCZcyBjb3Ntb2xvZ3ksIGJ1dCBpdCBjYW4gYmUgYSBmdW4gY29uY2VpdCBub25ldGhlbGVzcy48YnIgLz48YnIgLz4gQXNzdW1pbmcgdGltZSBpcyBsaW5lYXIgYW5kIGNhdXNlIGxlYWRzIHRvIGVmZmVjdCwgaG93IGxvbmcgYXJlIHlvdXIgd29ybGTigJlzIHllYXJzLCBzZWFzb25zLCBtb250aHMsIG9yIHdlZWtzPyBJbiBtb3N0IGN1bHR1cmVzLCB0aGVzZSBhcmUgbGFiZWxzIGZvciBtZXRlb3JvbG9naWNhbCBvciBjb3NtaWMgZXZlbnRzIHRoYXQgY2FuIGJlIHJlbGlhYmx5IHRyYWNrZWQuIFRoZSBzdW4gZ29lcyBkb3duIGV2ZXJ5IGRheSwgdGhlIG1vb24gZ29lcyB0aHJvdWdoIGl0cyBwaGFzZXMgZXZlcnkgbW9udGgsIHRoZSBzZWFzb25zIGNvbWUgaW4gY3ljbGVzIG9mIGZvdXIsIGFuZCBzbyBmb3J0aC4gQW55IGFuZCBhbGwgb2YgdGhlc2UgY291bGQgYmUgYWx0ZXJlZCBvciBlbGltaW5hdGVkLCBzbyBsb25nIGFzIHlvdSB0aGluayBvZiBzb21lIHJlYXNvbmFibHkgc2Vuc2libGUgZXhwbGFuYXRpb24gZm9yIGl0LjxiciAvPjxiciAvPiBDaGFuZ2luZyBzdWNoIHRoaW5ncyBhcyB0aGUgbGVuZ3RoIG9mIHRoZSBkYXkgaXMgbW9yZSBzaWduaWZpY2FudCB0aGFuIHRoZSBsZW5ndGggb2YgYSBzZWFzb24gb3IgZXZlbiBhIG1vbnRoLCBiZWNhdXNlIGl0IGNhbiBkaXJlY3RseSBpbXBhY3QgYW4gYWR2ZW50dXJlLiBJZiBhIGRheSBpbiB5b3VyIHdvcmxkIGlzIDMyIGhvdXJzIGxvbmcsIGhvdyBtdWNoIG9mIHRoYXQgaXMgbmlnaHQ/IEhvdyBkb2VzIHRoaXMgY2hhbmdlIHRoZSBsZW5ndGggb2YgYSB0eXBpY2FsIOKAnGJ1c2luZXNzIGRheeKAnSBmb3IgbWFya2V0cywgZmFybWVycywgY3JhZnRzbWVuLCBvciBndWFyZHM/IFdoYXQgYWJvdXQgbWFnaWMgdXNlcnMgd2hvc2UgYWJpbGl0aWVzIHJlZnJlc2ggZWFjaCBkYXk/PGJyIC8+PGJyIC8+IEEgY29tbW9uIHdvcmxkLWJ1aWxkaW5nIHR3aXN0IGlzIGFkZGluZyBtb29ucyBvciBwZXJoYXBzIHNvbWUgb3RoZXIgZ3JlYXQgY29zbW9sb2dpY2FsIG9iamVjdC4gSWYgeW91IGRvIHRoaXMsIHlvdSBwcm92aWRlIHlvdXIgd29ybGQgd2l0aCBhbm90aGVyIHJlbGlhYmxlIG1hcmtlciBmb3IgdGltZeKAmXMgcGFzc2luZywgc28gYmUgc3VyZSB0byBjb25zaWRlciBpdHMgZWZmZWN0cy4gSXMgdGhlIHNtYWxsZXIgbW9vbiBmYXN0ZXIgb3Igc2xvd2VyPyBXaGVuIGEgY29tZXQgbWFuaWZlc3RzIGluIHRoZSBoZWF2ZW5zLCBkb2VzIGl0IHNpZ25hbCB0aGUgY2hhbmdpbmcgb2Yga2luZ3Mgb3IgdGhlIGJlZ2lubmluZyBvZiBhIHJpdHVhbCB3YXI/PGJyIC8+PGJyIC8+IEZpbmFsbHksIHlvdSBzaG91bGQgdGhpbmsgYWJvdXQgaG93IHRpZ2h0bHkgeW91IHdhbnQgdG8gYmluZCBzdWNoIHRoaW5ncyBhcyBnb3Zlcm5tZW50LCByZWxpZ2lvbiwgb3IgbWFnaWMgdG8gdGhlIG1hcmtpbmcgb2YgdGltZS4gRG8gcGVvcGxlIHRoaW5rIG9mIHRpbWUgaW4gdGVybXMgb2YgdGhlIGVtcGVyb3LigJlzIHJlaWduPyBJcyBlYWNoIGRheSBvZiB0aGUgd2VlayBjb25uZWN0ZWQgdG8gYSByZWxpZ2lvdXMgcHJhY3RpY2Ugb3Igb2JzZXJ2YXRpb24/ZGRkrul0GQ5u8URMqA+1c1lO5IvgTmmEdWRni+UX2ZgADGM=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=454">GameMastery Guide</a></u> / <u><a href="Rules.aspx?ID=708">Creating a World</a></u> / <u><a href="Rules.aspx?ID=758">Time</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=760">Time in Your Game</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 162</i></a><br />In most fantasy settings, time is a linear construct, a series of dates on a line. This is the standard construct, but it can also be tweaked. Do the people of your world think of time as a series of never-ending cycles or in terms of ages defined by a common theme, such as the Dark Ages or the Age of Reason? Does history repeat itself ? If so, is this repetition what leads to prophecy, and how does it affect the role of sages, historians, and storytellers? Alternatively, you might decide that time happens all at once, a singular, shared hallucination—this obviously becomes complicated and makes great demands on your world’s cosmology, but it can be a fun conceit nonetheless.<br /><br /> Assuming time is linear and cause leads to effect, how long are your world’s years, seasons, months, or weeks? In most cultures, these are labels for meteorological or cosmic events that can be reliably tracked. The sun goes down every day, the moon goes through its phases every month, the seasons come in cycles of four, and so forth. Any and all of these could be altered or eliminated, so long as you think of some reasonably sensible explanation for it.<br /><br /> Changing such things as the length of the day is more significant than the length of a season or even a month, because it can directly impact an adventure. If a day in your world is 32 hours long, how much of that is night? How does this change the length of a typical “business day” for markets, farmers, craftsmen, or guards? What about magic users whose abilities refresh each day?<br /><br /> A common world-building twist is adding moons or perhaps some other great cosmological object. If you do this, you provide your world with another reliable marker for time’s passing, so be sure to consider its effects. Is the smaller moon faster or slower? When a comet manifests in the heavens, does it signal the changing of kings or the beginning of a ritual war?<br /><br /> Finally, you should think about how tightly you want to bind such things as government, religion, or magic to the marking of time. Do people think of time in terms of the emperor’s reign? Is each day of the week connected to a religious practice or observation?</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

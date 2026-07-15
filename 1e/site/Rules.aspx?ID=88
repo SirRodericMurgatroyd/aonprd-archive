@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Combat Statistics - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Combat Statistics" /><meta name="description" content="This section summarizes the statistics that determine success in combat, then details how to use them. " /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=88" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAW4bDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDQiPkNvbWJhdDwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD04OCI+Q29tYmF0IFN0YXRpc3RpY3M8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4OHlqIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBSUEcgQ29yZSBSdWxlYm9vayBwZy4gMTc4PC9pPjwvYT48YnIgLz5UaGlzIHNlY3Rpb24gc3VtbWFyaXplcyB0aGUgc3RhdGlzdGljcyB0aGF0IGRldGVybWluZSBzdWNjZXNzIGluIGNvbWJhdCwgdGhlbiBkZXRhaWxzIGhvdyB0byB1c2UgdGhlbS4gPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD05NyI+QXR0YWNrIFJvbGw8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4OHlqIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBSUEcgQ29yZSBSdWxlYm9vayBwZy4gMTc4PC9pPjwvYT48YnIgLz5BbiBhdHRhY2sgcm9sbCByZXByZXNlbnRzIHlvdXIgYXR0ZW1wdCB0byBzdHJpa2UgeW91ciBvcHBvbmVudCBvbiB5b3VyIHR1cm4gaW4gYSByb3VuZC4gV2hlbiB5b3UgbWFrZSBhbiBhdHRhY2sgcm9sbCwgeW91IHJvbGwgYSBkMjAgYW5kIGFkZCB5b3VyIGF0dGFjayBib251cy4gKE90aGVyIG1vZGlmaWVycyBtYXkgYWxzbyBhcHBseSB0byB0aGlzIHJvbGwuKSBJZiB5b3VyIHJlc3VsdCBlcXVhbHMgb3IgYmVhdHMgdGhlIHRhcmdldOKAmXMgQXJtb3IgQ2xhc3MsIHlvdSBoaXQgYW5kIGRlYWwgZGFtYWdlLiA8YnIgLz48YnIgLz4gPGI+QXV0b21hdGljIE1pc3NlcyBhbmQgSGl0czwvYj46IEEgbmF0dXJhbCAxICh0aGUgZDIwIGNvbWVzIHVwIDEpIG9uIGFuIGF0dGFjayByb2xsIGlzIGFsd2F5cyBhIG1pc3MuIEEgbmF0dXJhbCAyMCAodGhlIGQyMCBjb21lcyB1cCAyMCkgaXMgYWx3YXlzIGEgaGl0LiBBIG5hdHVyYWwgMjAgaXMgYWxzbyBhIHRocmVhdOKAlGEgcG9zc2libGUgY3JpdGljYWwgaGl0IChzZWUgdGhlIGF0dGFjayBhY3Rpb24pLiA8YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTk4Ij5BdHRhY2sgQm9udXM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4OHlqIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBSUEcgQ29yZSBSdWxlYm9vayBwZy4gMTc4PC9pPjwvYT48YnIgLz5Zb3VyIGF0dGFjayBib251cyB3aXRoIGEgbWVsZWUgd2VhcG9uIGlzIHRoZSBmb2xsb3dpbmc6PC9iciAvPjxwIGFsaWduPWNlbnRlcj48Yj5CYXNlIGF0dGFjayBib251cyArIFN0cmVuZ3RoIG1vZGlmaWVyICsgc2l6ZSBtb2RpZmllcjwvYj48L3A+PGJyIC8+V2l0aCBhIHJhbmdlZCB3ZWFwb24sIHlvdXIgYXR0YWNrIGJvbnVzIGlzIHRoZSBmb2xsb3dpbmc6PGJyIC8+PHAgYWxpZ249Y2VudGVyPjxiPkJhc2UgYXR0YWNrIGJvbnVzICsgRGV4dGVyaXR5IG1vZGlmaWVyICsgc2l6ZSBtb2RpZmllciArIHJhbmdlIHBlbmFsdHk8L2I+PC9wPjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9OTkiPkFybW9yIENsYXNzPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5ODh5aiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QUlBHIENvcmUgUnVsZWJvb2sgcGcuIDE3OTwvaT48L2E+PGJyIC8+WW91ciBBcm1vciBDbGFzcyAoQUMpIHJlcHJlc2VudHMgaG93IGhhcmQgaXQgaXMgZm9yIG9wcG9uZW50cyB0byBsYW5kIGEgc29saWQsIGRhbWFnaW5nIGJsb3cgb24geW91LiBJdCdzIHRoZSBhdHRhY2sgcm9sbCByZXN1bHQgdGhhdCBhbiBvcHBvbmVudCBuZWVkcyB0byBhY2hpZXZlIHRvIGhpdCB5b3UuIFlvdXIgQUMgaXMgZXF1YWwgdG8gdGhlIGZvbGxvd2luZzo8YnIgLz48cCBhbGlnbj1jZW50ZXI+PGI+MTAgKyBhcm1vciBib251cyArIHNoaWVsZCBib251cyArIERleHRlcml0eSBtb2RpZmllciArIG90aGVyIG1vZGlmaWVyczwvYj48L3A+PGJyIC8+IE5vdGUgdGhhdCBhcm1vciBsaW1pdHMgeW91ciBEZXh0ZXJpdHkgYm9udXMsIHNvIGlmIHlvdSdyZSB3ZWFyaW5nIGFybW9yLCB5b3UgbWlnaHQgbm90IGJlIGFibGUgdG8gYXBwbHkgeW91ciB3aG9sZSBEZXh0ZXJpdHkgYm9udXMgdG8geW91ciBBQyAoc2VlIFRhYmxlIDbigJM2KS48YnIgLz48YnIgLz4gU29tZXRpbWVzIHlvdSBjYW4ndCB1c2UgeW91ciBEZXh0ZXJpdHkgYm9udXMgKGlmIHlvdSBoYXZlIG9uZSkuIElmIHlvdSBjYW4ndCByZWFjdCB0byBhIGJsb3csIHlvdSBjYW4ndCB1c2UgeW91ciBEZXh0ZXJpdHkgYm9udXMgdG8gQUMuIElmIHlvdSBkb24ndCBoYXZlIGEgRGV4dGVyaXR5IGJvbnVzLCB5b3VyIEFDIGRvZXMgbm90IGNoYW5nZS48YnIgLz48YnIgLz4gPGI+T3RoZXIgTW9kaWZpZXJzPC9iPjogTWFueSBvdGhlciBmYWN0b3JzIG1vZGlmeSB5b3VyIEFDLjxiciAvPjxiciAvPiA8aT5FbmhhbmNlbWVudCBCb251c2VzPC9pPjogRW5oYW5jZW1lbnQgYm9udXNlcyBhcHBseSB0byB5b3VyIGFybW9yIHRvIGluY3JlYXNlIHRoZSBhcm1vciBib251cyBpdCBwcm92aWRlcy48YnIgLz48YnIgLz4gPGk+RGVmbGVjdGlvbiBCb251czwvaT46IE1hZ2ljYWwgZGVmbGVjdGlvbiBlZmZlY3RzIHdhcmQgb2ZmIGF0dGFja3MgYW5kIGltcHJvdmUgeW91ciBBQy48YnIgLz48YnIgLz4gPGk+TmF0dXJhbCBBcm1vcjwvaT46IElmIHlvdXIgcmFjZSBoYXMgYSB0b3VnaCBoaWRlLCBzY2FsZXMsIG9yIHRoaWNrIHNraW4geW91IHJlY2VpdmUgYSBib251cyB0byB5b3VyIEFDLjxiciAvPjxiciAvPiA8aT5Eb2RnZSBCb251c2VzPC9pPjogRG9kZ2UgYm9udXNlcyByZXByZXNlbnQgYWN0aXZlbHkgYXZvaWRpbmcgYmxvd3MuIEFueSBzaXR1YXRpb24gdGhhdCBkZW5pZXMgeW91IHlvdXIgRGV4dGVyaXR5IGJvbnVzIGFsc28gZGVuaWVzIHlvdSBkb2RnZSBib251c2VzLiAoV2VhcmluZyBhcm1vciwgaG93ZXZlciwgZG9lcyBub3QgbGltaXQgdGhlc2UgYm9udXNlcyB0aGUgd2F5IGl0IGxpbWl0cyBhIERleHRlcml0eSBib251cyB0byBBQy4pIFVubGlrZSBtb3N0IHNvcnRzIG9mIGJvbnVzZXMsIGRvZGdlIGJvbnVzZXMgc3RhY2sgd2l0aCBlYWNoIG90aGVyLjxiciAvPjxiciAvPiA8aT5TaXplIE1vZGlmaWVyPC9pPjogWW91IHJlY2VpdmUgYSBib251cyBvciBwZW5hbHR5IHRvIHlvdXIgQUMgYmFzZWQgb24geW91ciBzaXplLiBTZWUgVGFibGUgOOKAkzEuPGJyIC8+PGJyIC8+IDxiPlRvdWNoIEF0dGFja3M8L2I+OiBTb21lIGF0dGFja3MgY29tcGxldGVseSBkaXNyZWdhcmQgYXJtb3IsIGluY2x1ZGluZyBzaGllbGRzIGFuZCBuYXR1cmFsIGFybW9y4oCUdGhlIGFnZ3Jlc3NvciBuZWVkIG9ubHkgdG91Y2ggYSBmb2UgZm9yIHN1Y2ggYW4gYXR0YWNrIHRvIHRha2UgZnVsbCBlZmZlY3QuIEluIHRoZXNlIGNhc2VzLCB0aGUgYXR0YWNrZXIgbWFrZXMgYSB0b3VjaCBhdHRhY2sgcm9sbCAoZWl0aGVyIHJhbmdlZCBvciBtZWxlZSkuIFdoZW4geW91IGFyZSB0aGUgdGFyZ2V0IG9mIGEgdG91Y2ggYXR0YWNrLCB5b3VyIEFDIGRvZXNuJ3QgaW5jbHVkZSBhbnkgYXJtb3IgYm9udXMsIHNoaWVsZCBib251cywgb3IgbmF0dXJhbCBhcm1vciBib251cy4gQWxsIG90aGVyIG1vZGlmaWVycywgc3VjaCBhcyB5b3VyIHNpemUgbW9kaWZpZXIsIERleHRlcml0eSBtb2RpZmllciwgYW5kIGRlZmxlY3Rpb24gYm9udXMgKGlmIGFueSkgYXBwbHkgbm9ybWFsbHkuIFNvbWUgY3JlYXR1cmVzIGhhdmUgdGhlIGFiaWxpdHkgdG8gbWFrZSBpbmNvcnBvcmVhbCB0b3VjaCBhdHRhY2tzLiBUaGVzZSBhdHRhY2tzIGJ5cGFzcyBzb2xpZCBvYmplY3RzLCBzdWNoIGFzIGFybW9yIGFuZCBzaGllbGRzLCBieSBwYXNzaW5nIHRocm91Z2ggdGhlbS4gSW5jb3Jwb3JlYWwgdG91Y2ggYXR0YWNrcyB3b3JrIHNpbWlsYXJseSB0byBub3JtYWwgdG91Y2ggYXR0YWNrcyBleGNlcHQgdGhhdCB0aGV5IGFsc28gaWdub3JlIGNvdmVyIGJvbnVzZXMuIEluY29ycG9yZWFsIHRvdWNoIGF0dGFja3MgZG8gbm90IGlnbm9yZSBhcm1vciBib251c2VzIGdyYW50ZWQgYnkgZm9yY2UgZWZmZWN0cywgc3VjaCBhcyA8aT48YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9bWFnZSBhcm1vciI+PGk+bWFnZSBhcm1vcjwvaT48L2E+IGFuZCA8aT48YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iTWFnaWNXb25kcm91c0Rpc3BsYXkuYXNweD9GaW5hbE5hbWU9QnJhY2VycyBvZiBBcm1vcjEiPmJyYWNlcnMgb2YgYXJtb3I8L2E+PC9pPi4gPGJyIC8+PGJyIC8+PGgzPlRhYmxlIDgtMTogU2l6ZSBNb2RpZmllcnM8L2gzPjx0YWJsZSBjbGFzcz0iaW5uZXIiPjx0cj48dGQ+PGI+U2l6ZTwvYj48L3RkPjx0ZD48Yj5TaXplIE1vZGlmaWVyPC9iPjwvdGQ+PC90cj48dHI+PHRkPkNvbG9zc2FsPC90ZD48dGQ+LTg8L3RkPjwvdHI+PHRyPjx0ZD5HYXJnYW50dWFuPC90ZD48dGQ+LTQ8L3RkPjwvdHI+PHRyPjx0ZD5IdWdlPC90ZD48dGQ+LTI8L3RkPjwvdHI+PHRyPjx0ZD5MYXJnZTwvdGQ+PHRkPi0xPC90ZD48L3RyPjx0cj48dGQ+TWVkaXVtPC90ZD48dGQ+KzA8L3RkPjwvdHI+PHRyPjx0ZD5TbWFsbDwvdGQ+PHRkPisxPC90ZD48L3RyPjx0cj48dGQ+VGlueTwvdGQ+PHRkPisyPC90ZD48L3RyPjx0cj48dGQ+RGltaW51dGl2ZTwvdGQ+PHRkPis0PC90ZD48L3RyPjx0cj48dGQ+RmluZTwvdGQ+PHRkPis4PC90ZD48L3RyPjwvdGFibGU+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xMDAiPkRhbWFnZTwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweTg4eWoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UFJQRyBDb3JlIFJ1bGVib29rIHBnLiAxNzk8L2k+PC9hPjxiciAvPklmIHlvdXIgYXR0YWNrIHN1Y2NlZWRzLCB5b3UgZGVhbCBkYW1hZ2UuIFRoZSB0eXBlIG9mIHdlYXBvbiB1c2VkIGRldGVybWluZXMgdGhlIGFtb3VudCBvZiBkYW1hZ2UgeW91IGRlYWwuIERhbWFnZSByZWR1Y2VzIGEgdGFyZ2V04oCZcyBjdXJyZW50IGhpdCBwb2ludHMuPGJyIC8+PGJyIC8+IDxiPk1pbmltdW0gRGFtYWdlPC9iPjogSWYgcGVuYWx0aWVzIHJlZHVjZSB0aGUgZGFtYWdlIHJlc3VsdCB0byBsZXNzIHRoYW4gMSwgYSBoaXQgc3RpbGwgZGVhbHMgMSBwb2ludCBvZiBub25sZXRoYWwgZGFtYWdlIChzZWUgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlJ1bGVzLmFzcHg/TmFtZT1Ob25sZXRoYWwlMjBEYW1hZ2UmQ2F0ZWdvcnk9SW5qdXJ5JTIwYW5kJTIwRGVhdGgiPk5vbmxldGhhbCBEYW1hZ2U8L2E+KS48YnIgLz48YnIgLz4gPGI+U3RyZW5ndGggQm9udXM8L2I+OiBXaGVuIHlvdSBoaXQgd2l0aCBhIG1lbGVlIG9yIHRocm93biB3ZWFwb24sIGluY2x1ZGluZyBhIHNsaW5nLCBhZGQgeW91ciBTdHJlbmd0aCBtb2RpZmllciB0byB0aGUgZGFtYWdlIHJlc3VsdC4gQSBTdHJlbmd0aCBwZW5hbHR5LCBidXQgbm90IGEgYm9udXMsIGFwcGxpZXMgb24gZGFtYWdlIHJvbGxzIG1hZGUgd2l0aCBhIGJvdyB0aGF0IGlzIG5vdCBhIGNvbXBvc2l0ZSBib3cuPGJyIC8+PGJyIC8+IDxpPk9mZi1IYW5kIFdlYXBvbjwvaT46IFdoZW4geW91IGRlYWwgZGFtYWdlIHdpdGggYSB3ZWFwb24gaW4geW91ciBvZmYgaGFuZCwgeW91IGFkZCBvbmx5IDEvMiB5b3VyIFN0cmVuZ3RoIGJvbnVzLiBJZiB5b3UgaGF2ZSBhIFN0cmVuZ3RoIHBlbmFsdHksIHRoZSBlbnRpcmUgcGVuYWx0eSBhcHBsaWVzLjxiciAvPjxiciAvPiA8aT5XaWVsZGluZyBhIFdlYXBvbiBUd28tSGFuZGVkPC9pPjogV2hlbiB5b3UgZGVhbCBkYW1hZ2Ugd2l0aCBhIHdlYXBvbiB0aGF0IHlvdSBhcmUgd2llbGRpbmcgdHdvLWhhbmRlZCwgeW91IGFkZCAxLTEvMiB0aW1lcyB5b3VyIFN0cmVuZ3RoIGJvbnVzIChTdHJlbmd0aCBwZW5hbHRpZXMgYXJlIG5vdCBtdWx0aXBsaWVkKS4gWW91IGRvbuKAmXQgZ2V0IHRoaXMgaGlnaGVyIFN0cmVuZ3RoIGJvbnVzLCBob3dldmVyLCB3aGVuIHVzaW5nIGEgbGlnaHQgd2VhcG9uIHdpdGggdHdvIGhhbmRzLjxiciAvPjxiciAvPiA8Yj5NdWx0aXBseWluZyBEYW1hZ2U8L2I+OiBTb21ldGltZXMgeW91IG11bHRpcGx5IGRhbWFnZSBieSBzb21lIGZhY3Rvciwgc3VjaCBhcyBvbiBhIGNyaXRpY2FsIGhpdC4gUm9sbCB0aGUgZGFtYWdlICh3aXRoIGFsbCBtb2RpZmllcnMpIG11bHRpcGxlIHRpbWVzIGFuZCB0b3RhbCB0aGUgcmVzdWx0cy48YnIgLz48YnIgLz4gPGk+Tm90ZTwvaT46IFdoZW4geW91IG11bHRpcGx5IGRhbWFnZSBtb3JlIHRoYW4gb25jZSwgZWFjaCBtdWx0aXBsaWVyIHdvcmtzIG9mZiB0aGUgb3JpZ2luYWwsIHVubXVsdGlwbGllZCBkYW1hZ2UuIFNvIGlmIHlvdSBhcmUgYXNrZWQgdG8gZG91YmxlIHRoZSBkYW1hZ2UgdHdpY2UsIHRoZSBlbmQgcmVzdWx0IGlzIHRocmVlIHRpbWVzIHRoZSBub3JtYWwgZGFtYWdlLjxiciAvPjxiciAvPiA8aT5FeGNlcHRpb248L2k+OiBFeHRyYSBkYW1hZ2UgZGljZSBvdmVyIGFuZCBhYm92ZSBhIHdlYXBvbuKAmXMgbm9ybWFsIGRhbWFnZSBhcmUgbmV2ZXIgbXVsdGlwbGllZC48YnIgLz48YnIgLz4gPGI+QWJpbGl0eSBEYW1hZ2U8L2I+OiBDZXJ0YWluIGNyZWF0dXJlcyBhbmQgbWFnaWNhbCBlZmZlY3RzIGNhbiBjYXVzZSB0ZW1wb3Jhcnkgb3IgcGVybWFuZW50IGFiaWxpdHkgZGFtYWdlIChhIHJlZHVjdGlvbiB0byBhbiBhYmlsaXR5IHNjb3JlKS4gPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlJ1bGVzLmFzcHg/TmFtZT1BYmlsaXR5JTIwU2NvcmUlMjBEYW1hZ2UsJTIwUGVuYWx0eSwlMjBhbmQlMjBEcmFpbiZDYXRlZ29yeT1TcGVjaWFsJTIwQWJpbGl0aWVzIj5SdWxlcyBjb3ZlcmluZyBhYmlsaXR5IGRhbWFnZSBhcmUgZm91bmQgaGVyZTwvYT4uICA8YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTEwMSI+SGl0IFBvaW50czwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweTg4eWoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UFJQRyBDb3JlIFJ1bGVib29rIHBnLiAxNzk8L2k+PC9hPjxiciAvPldoZW4geW91ciBoaXQgcG9pbnQgdG90YWwgcmVhY2hlcyAwLCB5b3XigJlyZSBkaXNhYmxlZC4gV2hlbiBpdCByZWFjaGVzIOKAkzEsIHlvdeKAmXJlIGR5aW5nLiBXaGVuIGl0IGdldHMgdG8gYSBuZWdhdGl2ZSBhbW91bnQgZXF1YWwgdG8geW91ciBDb25zdGl0dXRpb24gc2NvcmUsIHlvdeKAmXJlIGRlYWQuIFNlZSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iUnVsZXMuYXNweD9OYW1lPUluanVyeSUyMGFuZCUyMERlYXRoJkNhdGVnb3J5PUNvbWJhdCI+SW5qdXJ5IGFuZCBEZWF0aDwvYT4gZm9yIG1vcmUgaW5mb3JtYXRpb24uICA8YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTEwMiI+QXR0YWNrcyBvZiBPcHBvcnR1bml0eTwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweTg4eWoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UFJQRyBDb3JlIFJ1bGVib29rIHBnLiAxODA8L2k+PC9hPjxiciAvPlNvbWV0aW1lcyBhIGNvbWJhdGFudCBpbiBhIG1lbGVlIGxldHMgaGVyIGd1YXJkIGRvd24gb3IgdGFrZXMgYSByZWNrbGVzcyBhY3Rpb24uIEluIHRoaXMgY2FzZSwgY29tYmF0YW50cyBuZWFyIGhlciBjYW4gdGFrZSBhZHZhbnRhZ2Ugb2YgaGVyIGxhcHNlIGluIGRlZmVuc2UgdG8gYXR0YWNrIGhlciBmb3IgZnJlZS4gVGhlc2UgZnJlZSBhdHRhY2tzIGFyZSBjYWxsZWQgYXR0YWNrcyBvZiBvcHBvcnR1bml0eS4gU2VlIHRoZSBBdHRhY2tzIG9mIE9wcG9ydHVuaXR5IGRpYWdyYW0gZm9yIGFuIGV4YW1wbGUgb2YgaG93IHRoZXkgd29yay48YnIgLz48YnIgLz4gPGI+VGhyZWF0ZW5lZCBTcXVhcmVzPC9iPjogWW91IHRocmVhdGVuIGFsbCBzcXVhcmVzIGludG8gd2hpY2ggeW91IGNhbiBtYWtlIGEgbWVsZWUgYXR0YWNrLCBldmVuIHdoZW4gaXQgaXMgbm90IHlvdXIgdHVybi4gR2VuZXJhbGx5LCB0aGF0IG1lYW5zIGV2ZXJ5dGhpbmcgaW4gYWxsIHNxdWFyZXMgYWRqYWNlbnQgdG8geW91ciBzcGFjZSAoaW5jbHVkaW5nIGRpYWdvbmFsbHkpLiBBbiBlbmVteSB0aGF0IHRha2VzIGNlcnRhaW4gYWN0aW9ucyB3aGlsZSBpbiBhIHRocmVhdGVuZWQgc3F1YXJlIHByb3Zva2VzIGFuIGF0dGFjayBvZiBvcHBvcnR1bml0eSBmcm9tIHlvdS4gSWYgeW914oCZcmUgdW5hcm1lZCwgeW91IGRvbuKAmXQgbm9ybWFsbHkgdGhyZWF0ZW4gYW55IHNxdWFyZXMgYW5kIHRodXMgY2Fu4oCZdCBtYWtlIGF0dGFja3Mgb2Ygb3Bwb3J0dW5pdHkuPGJyIC8+PGJyIC8+IDxpPlJlYWNoIFdlYXBvbnM8L2k+OiBNb3N0IGNyZWF0dXJlcyBvZiBNZWRpdW0gb3Igc21hbGxlciBzaXplIGhhdmUgYSByZWFjaCBvZiBvbmx5IDUgZmVldC4gVGhpcyBtZWFucyB0aGF0IHRoZXkgY2FuIG1ha2UgbWVsZWUgYXR0YWNrcyBvbmx5IGFnYWluc3QgY3JlYXR1cmVzIHVwIHRvIDUgZmVldCAoMSBzcXVhcmUpIGF3YXkuIEhvd2V2ZXIsIFNtYWxsIGFuZCBNZWRpdW0gY3JlYXR1cmVzIHdpZWxkaW5nIHJlYWNoIHdlYXBvbnMgdGhyZWF0ZW4gbW9yZSBzcXVhcmVzIHRoYW4gYSB0eXBpY2FsIGNyZWF0dXJlLiBJbiBhZGRpdGlvbiwgbW9zdCBjcmVhdHVyZXMgbGFyZ2VyIHRoYW4gTWVkaXVtIGhhdmUgYSBuYXR1cmFsIHJlYWNoIG9mIDEwIGZlZXQgb3IgbW9yZS48YnIgLz48YnIgLz4gPGI+UHJvdm9raW5nIGFuIEF0dGFjayBvZiBPcHBvcnR1bml0eTwvYj46IFR3byBraW5kcyBvZiBhY3Rpb25zIGNhbiBwcm92b2tlIGF0dGFja3Mgb2Ygb3Bwb3J0dW5pdHk6IG1vdmluZyBvdXQgb2YgYSB0aHJlYXRlbmVkIHNxdWFyZSBhbmQgcGVyZm9ybWluZyBjZXJ0YWluIGFjdGlvbnMgd2l0aGluIGEgdGhyZWF0ZW5lZCBzcXVhcmUuPGJyIC8+PGJyIC8+IDxpPk1vdmluZzwvaT46IE1vdmluZyBvdXQgb2YgYSB0aHJlYXRlbmVkIHNxdWFyZSB1c3VhbGx5IHByb3Zva2VzIGF0dGFja3Mgb2Ygb3Bwb3J0dW5pdHkgZnJvbSB0aHJlYXRlbmluZyBvcHBvbmVudHMuIFRoZXJlIGFyZSB0d28gY29tbW9uIG1ldGhvZHMgb2YgYXZvaWRpbmcgc3VjaCBhbiBhdHRhY2vigJR0aGUgNS1mb290IHN0ZXAgYW5kIHRoZSB3aXRoZHJhdyBhY3Rpb24uIFBlcmZvcm1pbmcgYSBEaXN0cmFjdGluZyBBY3Q6IFNvbWUgYWN0aW9ucywgd2hlbiBwZXJmb3JtZWQgaW4gYSB0aHJlYXRlbmVkIHNxdWFyZSwgcHJvdm9rZSBhdHRhY2tzIG9mIG9wcG9ydHVuaXR5IGFzIHlvdSBkaXZlcnQgeW91ciBhdHRlbnRpb24gZnJvbSB0aGUgYmF0dGxlLiBUYWJsZSA44oCTMiBub3RlcyBtYW55IG9mIHRoZSBhY3Rpb25zIHRoYXQgcHJvdm9rZSBhdHRhY2tzIG9mIG9wcG9ydHVuaXR5LjxiciAvPjxiciAvPiBSZW1lbWJlciB0aGF0IGV2ZW4gYWN0aW9ucyB0aGF0IG5vcm1hbGx5IHByb3Zva2UgYXR0YWNrcyBvZiBvcHBvcnR1bml0eSBtYXkgaGF2ZSBleGNlcHRpb25zIHRvIHRoaXMgcnVsZS48YnIgLz48YnIgLz4gPGI+TWFraW5nIGFuIEF0dGFjayBvZiBPcHBvcnR1bml0eTwvYj46IEFuIGF0dGFjayBvZiBvcHBvcnR1bml0eSBpcyBhIHNpbmdsZSBtZWxlZSBhdHRhY2ssIGFuZCBtb3N0IGNoYXJhY3RlcnMgY2FuIG9ubHkgbWFrZSBvbmUgcGVyIHJvdW5kLiBZb3UgZG9u4oCZdCBoYXZlIHRvIG1ha2UgYW4gYXR0YWNrIG9mIG9wcG9ydHVuaXR5IGlmIHlvdSBkb27igJl0IHdhbnQgdG8uIFlvdSBtYWtlIHlvdXIgYXR0YWNrIG9mIG9wcG9ydHVuaXR5IGF0IHlvdXIgbm9ybWFsIGF0dGFjayBib251cywgZXZlbiBpZiB5b3XigJl2ZSBhbHJlYWR5IGF0dGFja2VkIGluIHRoZSByb3VuZC48YnIgLz48YnIgLz4gQW4gYXR0YWNrIG9mIG9wcG9ydHVuaXR5IOKAnGludGVycnVwdHPigJ0gdGhlIG5vcm1hbCBmbG93IG9mIGFjdGlvbnMgaW4gdGhlIHJvdW5kLiBJZiBhbiBhdHRhY2sgb2Ygb3Bwb3J0dW5pdHkgaXMgcHJvdm9rZWQsIGltbWVkaWF0ZWx5IHJlc29sdmUgdGhlIGF0dGFjayBvZiBvcHBvcnR1bml0eSwgdGhlbiBjb250aW51ZSB3aXRoIHRoZSBuZXh0IGNoYXJhY3RlcuKAmXMgdHVybiAob3IgY29tcGxldGUgdGhlIGN1cnJlbnQgdHVybiwgaWYgdGhlIGF0dGFjayBvZiBvcHBvcnR1bml0eSB3YXMgcHJvdm9rZWQgaW4gdGhlIG1pZHN0IG9mIGEgY2hhcmFjdGVy4oCZcyB0dXJuKS48YnIgLz48YnIgLz4gPGk+Q29tYmF0IFJlZmxleGVzIGFuZCBBZGRpdGlvbmFsIEF0dGFja3Mgb2YgT3Bwb3J0dW5pdHk8L2k+OiBJZiB5b3UgaGF2ZSB0aGUgQ29tYmF0IFJlZmxleGVzIGZlYXQsIHlvdSBjYW4gYWRkIHlvdXIgRGV4dGVyaXR5IGJvbnVzIHRvIHRoZSBudW1iZXIgb2YgYXR0YWNrcyBvZiBvcHBvcnR1bml0eSB5b3UgY2FuIG1ha2UgaW4gYSByb3VuZC4gVGhpcyBmZWF0IGRvZXMgbm90IGxldCB5b3UgbWFrZSBtb3JlIHRoYW4gb25lIGF0dGFjayBmb3IgYSBnaXZlbiBvcHBvcnR1bml0eSwgYnV0IGlmIHRoZSBzYW1lIG9wcG9uZW50IHByb3Zva2VzIHR3byBhdHRhY2tzIG9mIG9wcG9ydHVuaXR5IGZyb20geW91LCB5b3UgY291bGQgbWFrZSB0d28gc2VwYXJhdGUgYXR0YWNrcyBvZiBvcHBvcnR1bml0eSAoc2luY2UgZWFjaCBvbmUgcmVwcmVzZW50cyBhIGRpZmZlcmVudCBvcHBvcnR1bml0eSkuIE1vdmluZyBvdXQgb2YgbW9yZSB0aGFuIG9uZSBzcXVhcmUgdGhyZWF0ZW5lZCBieSB0aGUgc2FtZSBvcHBvbmVudCBpbiB0aGUgc2FtZSByb3VuZCBkb2VzbuKAmXQgY291bnQgYXMgbW9yZSB0aGFuIG9uZSBvcHBvcnR1bml0eSBmb3IgdGhhdCBvcHBvbmVudC4gQWxsIHRoZXNlIGF0dGFja3MgYXJlIGF0IHlvdXIgZnVsbCBub3JtYWwgYXR0YWNrIGJvbnVzLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTAzIj5TcGVlZDwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweTg4eWoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UFJQRyBDb3JlIFJ1bGVib29rIHBnLiAxODA8L2k+PC9hPjxiciAvPllvdXIgc3BlZWQgdGVsbHMgeW91IGhvdyBmYXIgeW91IGNhbiBtb3ZlIGluIGEgcm91bmQgYW5kIHN0aWxsIGRvIHNvbWV0aGluZywgc3VjaCBhcyBhdHRhY2sgb3IgY2FzdCBhIHNwZWxsLiBZb3VyIHNwZWVkIGRlcGVuZHMgbW9zdGx5IG9uIHlvdXIgc2l6ZSBhbmQgeW91ciBhcm1vci4gRHdhcnZlcywgZ25vbWVzLCBhbmQgaGFsZmxpbmdzIGhhdmUgYSBzcGVlZCBvZiAyMCBmZWV0ICg0IHNxdWFyZXMpLCBvciAxNSBmZWV0ICgzIHNxdWFyZXMpIHdoZW4gd2VhcmluZyBtZWRpdW0gb3IgaGVhdnkgYXJtb3IgKGV4Y2VwdCBmb3IgZHdhcnZlcywgd2hvIG1vdmUgMjAgZmVldCBpbiBhbnkgYXJtb3IpLjxiciAvPjxiciAvPiBIdW1hbnMsIGVsdmVzLCBoYWxmLWVsdmVzLCBoYWxmLW9yY3MsIGFuZCBtb3N0IGh1bWFub2lkIG1vbnN0ZXJzIGhhdmUgYSBzcGVlZCBvZiAzMCBmZWV0ICg2IHNxdWFyZXMpLCBvciAyMCBmZWV0ICg0IHNxdWFyZXMpIGluIG1lZGl1bSBvciBoZWF2eSBhcm1vci48YnIgLz48YnIgLz4gSWYgeW91IHVzZSB0d28gbW92ZSBhY3Rpb25zIGluIGEgcm91bmQgKHNvbWV0aW1lcyBjYWxsZWQgYSDigJxkb3VibGUgbW92ZeKAnSBhY3Rpb24pLCB5b3UgY2FuIG1vdmUgdXAgdG8gZG91YmxlIHlvdXIgc3BlZWQuIElmIHlvdSBzcGVuZCB0aGUgZW50aXJlIHJvdW5kIHJ1bm5pbmcsIHlvdSBjYW4gbW92ZSB1cCB0byBxdWFkcnVwbGUgeW91ciBzcGVlZCAob3IgdHJpcGxlIGlmIHlvdSBhcmUgaW4gaGVhdnkgYXJtb3IpLiA8YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTEwNCI+U2F2aW5nIFRocm93czwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweTg4eWoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UFJQRyBDb3JlIFJ1bGVib29rIHBnLiAxODA8L2k+PC9hPjxiciAvPkdlbmVyYWxseSwgd2hlbiB5b3UgYXJlIHN1YmplY3QgdG8gYW4gdW51c3VhbCBvciBtYWdpY2FsIGF0dGFjaywgeW91IGdldCBhIHNhdmluZyB0aHJvdyB0byBhdm9pZCBvciByZWR1Y2UgdGhlIGVmZmVjdC4gTGlrZSBhbiBhdHRhY2sgcm9sbCwgYSBzYXZpbmcgdGhyb3cgaXMgYSBkMjAgcm9sbCBwbHVzIGEgYm9udXMgYmFzZWQgb24geW91ciBjbGFzcyBhbmQgbGV2ZWwgKHNlZSBDaGFwdGVyIDMpLCBhbmQgYW4gYXNzb2NpYXRlZCBhYmlsaXR5IHNjb3JlLiBZb3VyIHNhdmluZyB0aHJvdyBtb2RpZmllciBpczo8YnIgLz48cCBhbGlnbj1jZW50ZXI+PGI+QmFzZSBzYXZlIGJvbnVzICsgYWJpbGl0eSBtb2RpZmllcjwvYj48L3A+PGJyIC8+IDxiPlNhdmluZyBUaHJvdyBUeXBlczwvYj46IFRoZSB0aHJlZSBkaWZmZXJlbnQga2luZHMgb2Ygc2F2aW5nIHRocm93cyBhcmUgRm9ydGl0dWRlLCBSZWZsZXgsIGFuZCBXaWxsOjxiciAvPjxiciAvPiA8aT5Gb3J0aXR1ZGU8L2k+OiBUaGVzZSBzYXZlcyBtZWFzdXJlIHlvdXIgYWJpbGl0eSB0byBzdGFuZCB1cCB0byBwaHlzaWNhbCBwdW5pc2htZW50IG9yIGF0dGFja3MgYWdhaW5zdCB5b3VyIHZpdGFsaXR5IGFuZCBoZWFsdGguIEFwcGx5IHlvdXIgQ29uc3RpdHV0aW9uIG1vZGlmaWVyIHRvIHlvdXIgRm9ydGl0dWRlIHNhdmluZyB0aHJvd3MuPGJyIC8+PGJyIC8+IDxpPlJlZmxleDwvaT46IFRoZXNlIHNhdmVzIHRlc3QgeW91ciBhYmlsaXR5IHRvIGRvZGdlIGFyZWEgYXR0YWNrcyBhbmQgdW5leHBlY3RlZCBzaXR1YXRpb25zLiBBcHBseSB5b3VyIERleHRlcml0eSBtb2RpZmllciB0byB5b3VyIFJlZmxleCBzYXZpbmcgdGhyb3dzLjxiciAvPjxiciAvPiA8aT5XaWxsPC9pPjogVGhlc2Ugc2F2ZXMgcmVmbGVjdCB5b3VyIHJlc2lzdGFuY2UgdG8gbWVudGFsIGluZmx1ZW5jZSBhcyB3ZWxsIGFzIG1hbnkgbWFnaWNhbCBlZmZlY3RzLiBBcHBseSB5b3VyIFdpc2RvbSBtb2RpZmllciB0byB5b3VyIFdpbGwgc2F2aW5nIHRocm93cy48YnIgLz48YnIgLz4gPGI+U2F2aW5nIFRocm93IERpZmZpY3VsdHkgQ2xhc3M8L2I+OiBUaGUgREMgZm9yIGEgc2F2ZSBpcyBkZXRlcm1pbmVkIGJ5IHRoZSBhdHRhY2sgaXRzZWxmLjxiciAvPjxiciAvPiA8Yj5BdXRvbWF0aWMgRmFpbHVyZXMgYW5kIFN1Y2Nlc3NlczwvYj46IEEgbmF0dXJhbCAxICh0aGUgZDIwIGNvbWVzIHVwIDEpIG9uIGEgc2F2aW5nIHRocm93IGlzIGFsd2F5cyBhIGZhaWx1cmUgKGFuZCBtYXkgY2F1c2UgZGFtYWdlIHRvIGV4cG9zZWQgaXRlbXM7IHNlZSBJdGVtcyBTdXJ2aXZpbmcgYWZ0ZXIgYSBTYXZpbmcgVGhyb3cgb24gcGFnZSAyMTcpLiBBIG5hdHVyYWwgMjAgKHRoZSBkMjAgY29tZXMgdXAgMjApIGlzIGFsd2F5cyBhIHN1Y2Nlc3MuZGRkpd7Qe18DezM6799qD3pv0XtbYHjmuOQkRUXN4A6sYso=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=44">Combat</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=88">Combat Statistics</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 178</i></a><br />This section summarizes the statistics that determine success in combat, then details how to use them. <br /><h1 class="title"><a href="Rules.aspx?ID=97">Attack Roll</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 178</i></a><br />An attack roll represents your attempt to strike your opponent on your turn in a round. When you make an attack roll, you roll a d20 and add your attack bonus. (Other modifiers may also apply to this roll.) If your result equals or beats the target’s Armor Class, you hit and deal damage. <br /><br /> <b>Automatic Misses and Hits</b>: A natural 1 (the d20 comes up 1) on an attack roll is always a miss. A natural 20 (the d20 comes up 20) is always a hit. A natural 20 is also a threat—a possible critical hit (see the attack action). <br /><h1 class="title"><a href="Rules.aspx?ID=98">Attack Bonus</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 178</i></a><br />Your attack bonus with a melee weapon is the following:</br /><p align=center><b>Base attack bonus + Strength modifier + size modifier</b></p><br />With a ranged weapon, your attack bonus is the following:<br /><p align=center><b>Base attack bonus + Dexterity modifier + size modifier + range penalty</b></p><br /><h1 class="title"><a href="Rules.aspx?ID=99">Armor Class</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 179</i></a><br />Your Armor Class (AC) represents how hard it is for opponents to land a solid, damaging blow on you. It's the attack roll result that an opponent needs to achieve to hit you. Your AC is equal to the following:<br /><p align=center><b>10 + armor bonus + shield bonus + Dexterity modifier + other modifiers</b></p><br /> Note that armor limits your Dexterity bonus, so if you're wearing armor, you might not be able to apply your whole Dexterity bonus to your AC (see Table 6–6).<br /><br /> Sometimes you can't use your Dexterity bonus (if you have one). If you can't react to a blow, you can't use your Dexterity bonus to AC. If you don't have a Dexterity bonus, your AC does not change.<br /><br /> <b>Other Modifiers</b>: Many other factors modify your AC.<br /><br /> <i>Enhancement Bonuses</i>: Enhancement bonuses apply to your armor to increase the armor bonus it provides.<br /><br /> <i>Deflection Bonus</i>: Magical deflection effects ward off attacks and improve your AC.<br /><br /> <i>Natural Armor</i>: If your race has a tough hide, scales, or thick skin you receive a bonus to your AC.<br /><br /> <i>Dodge Bonuses</i>: Dodge bonuses represent actively avoiding blows. Any situation that denies you your Dexterity bonus also denies you dodge bonuses. (Wearing armor, however, does not limit these bonuses the way it limits a Dexterity bonus to AC.) Unlike most sorts of bonuses, dodge bonuses stack with each other.<br /><br /> <i>Size Modifier</i>: You receive a bonus or penalty to your AC based on your size. See Table 8–1.<br /><br /> <b>Touch Attacks</b>: Some attacks completely disregard armor, including shields and natural armor—the aggressor need only touch a foe for such an attack to take full effect. In these cases, the attacker makes a touch attack roll (either ranged or melee). When you are the target of a touch attack, your AC doesn't include any armor bonus, shield bonus, or natural armor bonus. All other modifiers, such as your size modifier, Dexterity modifier, and deflection bonus (if any) apply normally. Some creatures have the ability to make incorporeal touch attacks. These attacks bypass solid objects, such as armor and shields, by passing through them. Incorporeal touch attacks work similarly to normal touch attacks except that they also ignore cover bonuses. Incorporeal touch attacks do not ignore armor bonuses granted by force effects, such as <i><a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=mage armor"><i>mage armor</i></a> and <i><a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Bracers of Armor1">bracers of armor</a></i>. <br /><br /><h3>Table 8-1: Size Modifiers</h3><table class="inner"><tr><td><b>Size</b></td><td><b>Size Modifier</b></td></tr><tr><td>Colossal</td><td>-8</td></tr><tr><td>Gargantuan</td><td>-4</td></tr><tr><td>Huge</td><td>-2</td></tr><tr><td>Large</td><td>-1</td></tr><tr><td>Medium</td><td>+0</td></tr><tr><td>Small</td><td>+1</td></tr><tr><td>Tiny</td><td>+2</td></tr><tr><td>Diminutive</td><td>+4</td></tr><tr><td>Fine</td><td>+8</td></tr></table><br /><h1 class="title"><a href="Rules.aspx?ID=100">Damage</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 179</i></a><br />If your attack succeeds, you deal damage. The type of weapon used determines the amount of damage you deal. Damage reduces a target’s current hit points.<br /><br /> <b>Minimum Damage</b>: If penalties reduce the damage result to less than 1, a hit still deals 1 point of nonlethal damage (see <a style="text-decoration:underline" href="Rules.aspx?Name=Nonlethal%20Damage&Category=Injury%20and%20Death">Nonlethal Damage</a>).<br /><br /> <b>Strength Bonus</b>: When you hit with a melee or thrown weapon, including a sling, add your Strength modifier to the damage result. A Strength penalty, but not a bonus, applies on damage rolls made with a bow that is not a composite bow.<br /><br /> <i>Off-Hand Weapon</i>: When you deal damage with a weapon in your off hand, you add only 1/2 your Strength bonus. If you have a Strength penalty, the entire penalty applies.<br /><br /> <i>Wielding a Weapon Two-Handed</i>: When you deal damage with a weapon that you are wielding two-handed, you add 1-1/2 times your Strength bonus (Strength penalties are not multiplied). You don’t get this higher Strength bonus, however, when using a light weapon with two hands.<br /><br /> <b>Multiplying Damage</b>: Sometimes you multiply damage by some factor, such as on a critical hit. Roll the damage (with all modifiers) multiple times and total the results.<br /><br /> <i>Note</i>: When you multiply damage more than once, each multiplier works off the original, unmultiplied damage. So if you are asked to double the damage twice, the end result is three times the normal damage.<br /><br /> <i>Exception</i>: Extra damage dice over and above a weapon’s normal damage are never multiplied.<br /><br /> <b>Ability Damage</b>: Certain creatures and magical effects can cause temporary or permanent ability damage (a reduction to an ability score). <a style="text-decoration:underline" href="Rules.aspx?Name=Ability%20Score%20Damage,%20Penalty,%20and%20Drain&Category=Special%20Abilities">Rules covering ability damage are found here</a>.  <br /><h1 class="title"><a href="Rules.aspx?ID=101">Hit Points</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 179</i></a><br />When your hit point total reaches 0, you’re disabled. When it reaches –1, you’re dying. When it gets to a negative amount equal to your Constitution score, you’re dead. See <a style="text-decoration:underline" href="Rules.aspx?Name=Injury%20and%20Death&Category=Combat">Injury and Death</a> for more information.  <br /><h1 class="title"><a href="Rules.aspx?ID=102">Attacks of Opportunity</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 180</i></a><br />Sometimes a combatant in a melee lets her guard down or takes a reckless action. In this case, combatants near her can take advantage of her lapse in defense to attack her for free. These free attacks are called attacks of opportunity. See the Attacks of Opportunity diagram for an example of how they work.<br /><br /> <b>Threatened Squares</b>: You threaten all squares into which you can make a melee attack, even when it is not your turn. Generally, that means everything in all squares adjacent to your space (including diagonally). An enemy that takes certain actions while in a threatened square provokes an attack of opportunity from you. If you’re unarmed, you don’t normally threaten any squares and thus can’t make attacks of opportunity.<br /><br /> <i>Reach Weapons</i>: Most creatures of Medium or smaller size have a reach of only 5 feet. This means that they can make melee attacks only against creatures up to 5 feet (1 square) away. However, Small and Medium creatures wielding reach weapons threaten more squares than a typical creature. In addition, most creatures larger than Medium have a natural reach of 10 feet or more.<br /><br /> <b>Provoking an Attack of Opportunity</b>: Two kinds of actions can provoke attacks of opportunity: moving out of a threatened square and performing certain actions within a threatened square.<br /><br /> <i>Moving</i>: Moving out of a threatened square usually provokes attacks of opportunity from threatening opponents. There are two common methods of avoiding such an attack—the 5-foot step and the withdraw action. Performing a Distracting Act: Some actions, when performed in a threatened square, provoke attacks of opportunity as you divert your attention from the battle. Table 8–2 notes many of the actions that provoke attacks of opportunity.<br /><br /> Remember that even actions that normally provoke attacks of opportunity may have exceptions to this rule.<br /><br /> <b>Making an Attack of Opportunity</b>: An attack of opportunity is a single melee attack, and most characters can only make one per round. You don’t have to make an attack of opportunity if you don’t want to. You make your attack of opportunity at your normal attack bonus, even if you’ve already attacked in the round.<br /><br /> An attack of opportunity “interrupts” the normal flow of actions in the round. If an attack of opportunity is provoked, immediately resolve the attack of opportunity, then continue with the next character’s turn (or complete the current turn, if the attack of opportunity was provoked in the midst of a character’s turn).<br /><br /> <i>Combat Reflexes and Additional Attacks of Opportunity</i>: If you have the Combat Reflexes feat, you can add your Dexterity bonus to the number of attacks of opportunity you can make in a round. This feat does not let you make more than one attack for a given opportunity, but if the same opponent provokes two attacks of opportunity from you, you could make two separate attacks of opportunity (since each one represents a different opportunity). Moving out of more than one square threatened by the same opponent in the same round doesn’t count as more than one opportunity for that opponent. All these attacks are at your full normal attack bonus.<br /><h1 class="title"><a href="Rules.aspx?ID=103">Speed</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 180</i></a><br />Your speed tells you how far you can move in a round and still do something, such as attack or cast a spell. Your speed depends mostly on your size and your armor. Dwarves, gnomes, and halflings have a speed of 20 feet (4 squares), or 15 feet (3 squares) when wearing medium or heavy armor (except for dwarves, who move 20 feet in any armor).<br /><br /> Humans, elves, half-elves, half-orcs, and most humanoid monsters have a speed of 30 feet (6 squares), or 20 feet (4 squares) in medium or heavy armor.<br /><br /> If you use two move actions in a round (sometimes called a “double move” action), you can move up to double your speed. If you spend the entire round running, you can move up to quadruple your speed (or triple if you are in heavy armor). <br /><h1 class="title"><a href="Rules.aspx?ID=104">Saving Throws</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 180</i></a><br />Generally, when you are subject to an unusual or magical attack, you get a saving throw to avoid or reduce the effect. Like an attack roll, a saving throw is a d20 roll plus a bonus based on your class and level (see Chapter 3), and an associated ability score. Your saving throw modifier is:<br /><p align=center><b>Base save bonus + ability modifier</b></p><br /> <b>Saving Throw Types</b>: The three different kinds of saving throws are Fortitude, Reflex, and Will:<br /><br /> <i>Fortitude</i>: These saves measure your ability to stand up to physical punishment or attacks against your vitality and health. Apply your Constitution modifier to your Fortitude saving throws.<br /><br /> <i>Reflex</i>: These saves test your ability to dodge area attacks and unexpected situations. Apply your Dexterity modifier to your Reflex saving throws.<br /><br /> <i>Will</i>: These saves reflect your resistance to mental influence as well as many magical effects. Apply your Wisdom modifier to your Will saving throws.<br /><br /> <b>Saving Throw Difficulty Class</b>: The DC for a save is determined by the attack itself.<br /><br /> <b>Automatic Failures and Successes</b>: A natural 1 (the d20 comes up 1) on a saving throw is always a failure (and may cause damage to exposed items; see Items Surviving after a Saving Throw on page 217). A natural 20 (the d20 comes up 20) is always a success.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Character Creation - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Character Creation" /><meta name="description" content="From the sly rogue to the stalwart paladin, the Pathfinder RPG allows you to make the character you want to play. When generating a character, start with your character’s concept. Do you want a character who goes toe-to-toe with terrible monsters, matching sword and shield against claws and fangs? Or do you want a mystical seer who draws his powers from the great beyond to further his own ends? Nearly anything is possible.&lt;br />&lt;br /> Once you have a general concept worked out, use the following steps to bring your idea to life, recording the resulting information and statistics on your Pathfinder RPG character sheet, which can be found at the back of this book and photocopied for your convenience.&lt;br />&lt;br />&lt;b>Step 1— Determine Ability Scores&lt;/b>: Start by generating your character’s &lt;a style=&quot;text-decoration:underline&quot; href=&quot;Rules.aspx?Name=Ability%20Scores&amp;Category=Basics&quot;>ability scores&lt;/a>. These six scores determine your character’s most basic attributes and are used to decide a wide variety of details and statistics. Some class selections require you to have better than average scores for some of your abilities.&lt;br />&lt;br /> &lt;b>Step 2—Pick Your Race&lt;/b>: Next, pick your character’s &lt;a style=&quot;text-decoration:underline&quot; href=&quot;Races.aspx&quot;>race&lt;/a>, noting any modifiers to your ability scores and any other racial traits (see Chapter 2). There are seven basic races to choose from, although your GM might have others to add to the list. Each race lists the languages your character automatically knows, as well as a number of bonus languages. &lt;a style=&quot;text-decoration:underline&quot; href=&quot;Rules.aspx?Name=Intelligence&amp;Category=The%20Abilities&quot;>A character knows a number of additional bonus languages equal to his or her Intelligence modifier&lt;/a>.&lt;br />&lt;br /> &lt;b>Step 3—Pick Your Class&lt;/b>: A character’s class represents a profession, such as fighter or wizard. If this is a new character, he starts at 1st level in his chosen class. As he gains experience points (XP) for defeating monsters, he goes up in level, granting him new powers and abilities.&lt;br />&lt;br /> &lt;b>Step 4—Pick Skills and Select Feats&lt;/b>: Determine the number of skill ranks possessed by your character, based on his class and Intelligence modifier (and any other bonuses, such as the bonus received by humans). Then spend these ranks on skills, but remember that you cannot have more ranks than your level in any one skill (for a starting character, this is usually one). After skills, determine how many feats your character receives, based on his class and level, and select them from those presented in Chapter 5.&lt;br />&lt;br /> &lt;b>Step 5—Buy Equipment&lt;/b>: Each new character begins the game with an amount of gold, based on his class, that can be spent on a wide range of equipment and gear, from chainmail armor to leather backpacks. This gear helps your character survive while adventuring. Generally speaking, you cannot use this starting money to buy magic items without the consent of your GM.&lt;br />&lt;br /> &lt;b>Step 6—Finishing Details&lt;/b>: Finally, you need to determine all of a character’s details, including his starting hit points (hp), Armor Class (AC), saving throws, initiative modifier, and attack values. All of these numbers are determined by the decisions made in previous steps. A level 1 character begins with maximum hit points for its Hit Die roll. Aside from these, you need to decide on your character’s name, alignment, and physical appearance. It is best to jot down a few personality traits as well, to help you play the character during the game. Additional rules (like age and alignment) are described in Chapter 7." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=83" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXLSDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDEiPkJhc2ljczwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD04MyI+Q2hhcmFjdGVyIENyZWF0aW9uPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5ODh5aiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QUlBHIENvcmUgUnVsZWJvb2sgcGcuIDE0PC9pPjwvYT48YnIgLz5Gcm9tIHRoZSBzbHkgcm9ndWUgdG8gdGhlIHN0YWx3YXJ0IHBhbGFkaW4sIHRoZSBQYXRoZmluZGVyIFJQRyBhbGxvd3MgeW91IHRvIG1ha2UgdGhlIGNoYXJhY3RlciB5b3Ugd2FudCB0byBwbGF5LiBXaGVuIGdlbmVyYXRpbmcgYSBjaGFyYWN0ZXIsIHN0YXJ0IHdpdGggeW91ciBjaGFyYWN0ZXLigJlzIGNvbmNlcHQuIERvIHlvdSB3YW50IGEgY2hhcmFjdGVyIHdobyBnb2VzIHRvZS10by10b2Ugd2l0aCB0ZXJyaWJsZSBtb25zdGVycywgbWF0Y2hpbmcgc3dvcmQgYW5kIHNoaWVsZCBhZ2FpbnN0IGNsYXdzIGFuZCBmYW5ncz8gT3IgZG8geW91IHdhbnQgYSBteXN0aWNhbCBzZWVyIHdobyBkcmF3cyBoaXMgcG93ZXJzIGZyb20gdGhlIGdyZWF0IGJleW9uZCB0byBmdXJ0aGVyIGhpcyBvd24gZW5kcz8gTmVhcmx5IGFueXRoaW5nIGlzIHBvc3NpYmxlLjxiciAvPjxiciAvPiBPbmNlIHlvdSBoYXZlIGEgZ2VuZXJhbCBjb25jZXB0IHdvcmtlZCBvdXQsIHVzZSB0aGUgZm9sbG93aW5nIHN0ZXBzIHRvIGJyaW5nIHlvdXIgaWRlYSB0byBsaWZlLCByZWNvcmRpbmcgdGhlIHJlc3VsdGluZyBpbmZvcm1hdGlvbiBhbmQgc3RhdGlzdGljcyBvbiB5b3VyIFBhdGhmaW5kZXIgUlBHIGNoYXJhY3RlciBzaGVldCwgd2hpY2ggY2FuIGJlIGZvdW5kIGF0IHRoZSBiYWNrIG9mIHRoaXMgYm9vayBhbmQgcGhvdG9jb3BpZWQgZm9yIHlvdXIgY29udmVuaWVuY2UuPGJyIC8+PGJyIC8+PGI+U3RlcCAx4oCUIERldGVybWluZSBBYmlsaXR5IFNjb3JlczwvYj46IFN0YXJ0IGJ5IGdlbmVyYXRpbmcgeW91ciBjaGFyYWN0ZXLigJlzIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJSdWxlcy5hc3B4P05hbWU9QWJpbGl0eSUyMFNjb3JlcyZDYXRlZ29yeT1CYXNpY3MiPmFiaWxpdHkgc2NvcmVzPC9hPi4gVGhlc2Ugc2l4IHNjb3JlcyBkZXRlcm1pbmUgeW91ciBjaGFyYWN0ZXLigJlzIG1vc3QgYmFzaWMgYXR0cmlidXRlcyBhbmQgYXJlIHVzZWQgdG8gZGVjaWRlIGEgd2lkZSB2YXJpZXR5IG9mIGRldGFpbHMgYW5kIHN0YXRpc3RpY3MuIFNvbWUgY2xhc3Mgc2VsZWN0aW9ucyByZXF1aXJlIHlvdSB0byBoYXZlIGJldHRlciB0aGFuIGF2ZXJhZ2Ugc2NvcmVzIGZvciBzb21lIG9mIHlvdXIgYWJpbGl0aWVzLjxiciAvPjxiciAvPiA8Yj5TdGVwIDLigJRQaWNrIFlvdXIgUmFjZTwvYj46IE5leHQsIHBpY2sgeW91ciBjaGFyYWN0ZXLigJlzIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJSYWNlcy5hc3B4Ij5yYWNlPC9hPiwgbm90aW5nIGFueSBtb2RpZmllcnMgdG8geW91ciBhYmlsaXR5IHNjb3JlcyBhbmQgYW55IG90aGVyIHJhY2lhbCB0cmFpdHMgKHNlZSBDaGFwdGVyIDIpLiBUaGVyZSBhcmUgc2V2ZW4gYmFzaWMgcmFjZXMgdG8gY2hvb3NlIGZyb20sIGFsdGhvdWdoIHlvdXIgR00gbWlnaHQgaGF2ZSBvdGhlcnMgdG8gYWRkIHRvIHRoZSBsaXN0LiBFYWNoIHJhY2UgbGlzdHMgdGhlIGxhbmd1YWdlcyB5b3VyIGNoYXJhY3RlciBhdXRvbWF0aWNhbGx5IGtub3dzLCBhcyB3ZWxsIGFzIGEgbnVtYmVyIG9mIGJvbnVzIGxhbmd1YWdlcy4gPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlJ1bGVzLmFzcHg/TmFtZT1JbnRlbGxpZ2VuY2UmQ2F0ZWdvcnk9VGhlJTIwQWJpbGl0aWVzIj5BIGNoYXJhY3RlciBrbm93cyBhIG51bWJlciBvZiBhZGRpdGlvbmFsIGJvbnVzIGxhbmd1YWdlcyBlcXVhbCB0byBoaXMgb3IgaGVyIEludGVsbGlnZW5jZSBtb2RpZmllcjwvYT4uPGJyIC8+PGJyIC8+IDxiPlN0ZXAgM+KAlFBpY2sgWW91ciBDbGFzczwvYj46IEEgY2hhcmFjdGVy4oCZcyBjbGFzcyByZXByZXNlbnRzIGEgcHJvZmVzc2lvbiwgc3VjaCBhcyBmaWdodGVyIG9yIHdpemFyZC4gSWYgdGhpcyBpcyBhIG5ldyBjaGFyYWN0ZXIsIGhlIHN0YXJ0cyBhdCAxc3QgbGV2ZWwgaW4gaGlzIGNob3NlbiBjbGFzcy4gQXMgaGUgZ2FpbnMgZXhwZXJpZW5jZSBwb2ludHMgKFhQKSBmb3IgZGVmZWF0aW5nIG1vbnN0ZXJzLCBoZSBnb2VzIHVwIGluIGxldmVsLCBncmFudGluZyBoaW0gbmV3IHBvd2VycyBhbmQgYWJpbGl0aWVzLjxiciAvPjxiciAvPiA8Yj5TdGVwIDTigJRQaWNrIFNraWxscyBhbmQgU2VsZWN0IEZlYXRzPC9iPjogRGV0ZXJtaW5lIHRoZSBudW1iZXIgb2Ygc2tpbGwgcmFua3MgcG9zc2Vzc2VkIGJ5IHlvdXIgY2hhcmFjdGVyLCBiYXNlZCBvbiBoaXMgY2xhc3MgYW5kIEludGVsbGlnZW5jZSBtb2RpZmllciAoYW5kIGFueSBvdGhlciBib251c2VzLCBzdWNoIGFzIHRoZSBib251cyByZWNlaXZlZCBieSBodW1hbnMpLiBUaGVuIHNwZW5kIHRoZXNlIHJhbmtzIG9uIHNraWxscywgYnV0IHJlbWVtYmVyIHRoYXQgeW91IGNhbm5vdCBoYXZlIG1vcmUgcmFua3MgdGhhbiB5b3VyIGxldmVsIGluIGFueSBvbmUgc2tpbGwgKGZvciBhIHN0YXJ0aW5nIGNoYXJhY3RlciwgdGhpcyBpcyB1c3VhbGx5IG9uZSkuIEFmdGVyIHNraWxscywgZGV0ZXJtaW5lIGhvdyBtYW55IGZlYXRzIHlvdXIgY2hhcmFjdGVyIHJlY2VpdmVzLCBiYXNlZCBvbiBoaXMgY2xhc3MgYW5kIGxldmVsLCBhbmQgc2VsZWN0IHRoZW0gZnJvbSB0aG9zZSBwcmVzZW50ZWQgaW4gQ2hhcHRlciA1LjxiciAvPjxiciAvPiA8Yj5TdGVwIDXigJRCdXkgRXF1aXBtZW50PC9iPjogRWFjaCBuZXcgY2hhcmFjdGVyIGJlZ2lucyB0aGUgZ2FtZSB3aXRoIGFuIGFtb3VudCBvZiBnb2xkLCBiYXNlZCBvbiBoaXMgY2xhc3MsIHRoYXQgY2FuIGJlIHNwZW50IG9uIGEgd2lkZSByYW5nZSBvZiBlcXVpcG1lbnQgYW5kIGdlYXIsIGZyb20gY2hhaW5tYWlsIGFybW9yIHRvIGxlYXRoZXIgYmFja3BhY2tzLiBUaGlzIGdlYXIgaGVscHMgeW91ciBjaGFyYWN0ZXIgc3Vydml2ZSB3aGlsZSBhZHZlbnR1cmluZy4gR2VuZXJhbGx5IHNwZWFraW5nLCB5b3UgY2Fubm90IHVzZSB0aGlzIHN0YXJ0aW5nIG1vbmV5IHRvIGJ1eSBtYWdpYyBpdGVtcyB3aXRob3V0IHRoZSBjb25zZW50IG9mIHlvdXIgR00uPGJyIC8+PGJyIC8+IDxiPlN0ZXAgNuKAlEZpbmlzaGluZyBEZXRhaWxzPC9iPjogRmluYWxseSwgeW91IG5lZWQgdG8gZGV0ZXJtaW5lIGFsbCBvZiBhIGNoYXJhY3RlcuKAmXMgZGV0YWlscywgaW5jbHVkaW5nIGhpcyBzdGFydGluZyBoaXQgcG9pbnRzIChocCksIEFybW9yIENsYXNzIChBQyksIHNhdmluZyB0aHJvd3MsIGluaXRpYXRpdmUgbW9kaWZpZXIsIGFuZCBhdHRhY2sgdmFsdWVzLiBBbGwgb2YgdGhlc2UgbnVtYmVycyBhcmUgZGV0ZXJtaW5lZCBieSB0aGUgZGVjaXNpb25zIG1hZGUgaW4gcHJldmlvdXMgc3RlcHMuIEEgbGV2ZWwgMSBjaGFyYWN0ZXIgYmVnaW5zIHdpdGggbWF4aW11bSBoaXQgcG9pbnRzIGZvciBpdHMgSGl0IERpZSByb2xsLiBBc2lkZSBmcm9tIHRoZXNlLCB5b3UgbmVlZCB0byBkZWNpZGUgb24geW91ciBjaGFyYWN0ZXLigJlzIG5hbWUsIGFsaWdubWVudCwgYW5kIHBoeXNpY2FsIGFwcGVhcmFuY2UuIEl0IGlzIGJlc3QgdG8gam90IGRvd24gYSBmZXcgcGVyc29uYWxpdHkgdHJhaXRzIGFzIHdlbGwsIHRvIGhlbHAgeW91IHBsYXkgdGhlIGNoYXJhY3RlciBkdXJpbmcgdGhlIGdhbWUuIEFkZGl0aW9uYWwgcnVsZXMgKGxpa2UgYWdlIGFuZCBhbGlnbm1lbnQpIGFyZSBkZXNjcmliZWQgaW4gQ2hhcHRlciA3LjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTE2Ij5BZ2U8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4OHlqIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBSUEcgQ29yZSBSdWxlYm9vayBwZy4gMTY4PC9pPjwvYT48YnIgLz5Zb3UgY2FuIGNob29zZSBvciByYW5kb21seSBnZW5lcmF0ZSB5b3VyIGNoYXJhY3RlcuKAmXMgYWdlLiBJZiB5b3UgY2hvb3NlIGl0LCBpdCBtdXN0IGJlIGF0IGxlYXN0IHRoZSBtaW5pbXVtIGFnZSBmb3IgdGhlIGNoYXJhY3RlcuKAmXMgcmFjZSBhbmQgY2xhc3MgKHNlZSBUYWJsZSA34oCTMSkuIEFsdGVybmF0aXZlbHksIHJvbGwgdGhlIGRpY2UgaW5kaWNhdGVkIGZvciB5b3VyIGNsYXNzIG9uIFRhYmxlIDfigJMxIGFuZCBhZGQgdGhlIHJlc3VsdCB0byB0aGUgbWluaW11bSBhZ2Ugb2YgYWR1bHRob29kIGZvciB5b3VyIHJhY2UgdG8gZGV0ZXJtaW5lIGhvdyBvbGQgeW91ciBjaGFyYWN0ZXIgaXMuPGJyIC8+PGJyIC8+IDxoMj5UYWJsZSA3LTE6IFJhbmRvbSBTdGFydGluZyBBZ2VzPC9oMj4gPHRhYmxlIGNsYXNzPSJpbm5lciI+PHRyPjx0ZD48Yj5SYWNlPC9iPjwvdGQ+PHRkPjxiPkFkdWx0aG9vZDwvYj48L3RkPjx0ZD48Yj5CYXJiYXJpYW4sIFJvZ3VlLCBTb3JjZXJlcjwvYj48L3RkPjx0ZD48Yj5CYXJkLCBGaWdodGVyLCBQYWxhZGluLCBSYW5nZXI8L2I+PC90ZD48dGQ+PGI+Q2xlcmljLCBEcnVpZCwgTW9uaywgV2l6YXJkPC9iPjwvdGQ+PC90cj48dHI+PHRkPkh1bWFuPC90ZD48dGQ+MTUgeWVhcnM8L3RkPjx0ZD4rMWQ0PC90ZD48dGQ+KzFkNjwvdGQ+PHRkPisyZDY8L3RkPjwvdHI+PHRyPjx0ZD5Ed2FyZjwvdGQ+PHRkPjQwIHllYXJzPC90ZD48dGQ+KzNkNjwvdGQ+PHRkPis1ZDY8L3RkPjx0ZD4rN2Q2PC90ZD48L3RyPjx0cj48dGQ+RWxmPC90ZD48dGQ+MTEwIHllYXJzPC90ZD48dGQ+KzRkNjwvdGQ+PHRkPis2ZDY8L3RkPjx0ZD4rMTBkNjwvdGQ+PC90cj48dHI+PHRkPkdub21lPC90ZD48dGQ+NDAgeWVhcnM8L3RkPjx0ZD4rNGQ2PC90ZD48dGQ+KzZkNjwvdGQ+PHRkPis5ZDY8L3RkPjwvdHI+PHRyPjx0ZD5IYWxmLWVsZjwvdGQ+PHRkPjIwIHllYXJzPC90ZD48dGQ+KzFkNjwvdGQ+PHRkPisyZDY8L3RkPjx0ZD4rM2Q2PC90ZD48L3RyPjx0cj48dGQ+SGFsZi1vcmM8L3RkPjx0ZD4xNCB5ZWFyczwvdGQ+PHRkPisxZDQ8L3RkPjx0ZD4rMWQ2PC90ZD48dGQ+KzJkNjwvdGQ+PC90cj48dHI+PHRkPkhhbGZsaW5nPC90ZD48dGQ+MjAgeWVhcnM8L3RkPjx0ZD4rMmQ0PC90ZD48dGQ+KzNkNjwvdGQ+PHRkPis0ZDY8L3RkPjwvdHI+PC90YWJsZT48YnIgLz5XaXRoIGFnZSwgYSBjaGFyYWN0ZXLigJlzIHBoeXNpY2FsIGFiaWxpdHkgc2NvcmVzIGRlY3JlYXNlIGFuZCBoaXMgbWVudGFsIGFiaWxpdHkgc2NvcmVzIGluY3JlYXNlIChzZWUgVGFibGUgN+KAkzIpLiBUaGUgZWZmZWN0cyBvZiBlYWNoIGFnaW5nIHN0ZXAgYXJlIGN1bXVsYXRpdmUuIEhvd2V2ZXIsIG5vbmUgb2YgYSBjaGFyYWN0ZXLigJlzIGFiaWxpdHkgc2NvcmVzIGNhbiBiZSByZWR1Y2VkIGJlbG93IDEgaW4gdGhpcyB3YXkuV2hlbiBhIGNoYXJhY3RlciByZWFjaGVzIHZlbmVyYWJsZSBhZ2UsIHNlY3JldGx5IHJvbGwgaGlzIG1heGltdW0gYWdlIChvbiBUYWJsZSA34oCTMikgYW5kIHJlY29yZCB0aGUgcmVzdWx0LCB3aGljaCB0aGUgcGxheWVyIGRvZXMgbm90IGtub3cuIEEgY2hhcmFjdGVyIHdobyByZWFjaGVzIGhpcyBtYXhpbXVtIGFnZSBkaWVzIG9mIG9sZCBhZ2Ugc29tZXRpbWUgZHVyaW5nIHRoZSBmb2xsb3dpbmcgeWVhci48YnIgLz48YnIgLz4gVGhlIG1heGltdW0gYWdlcyBhcmUgZm9yIHBsYXllciBjaGFyYWN0ZXJzLiBNb3N0IHBlb3BsZSBpbiB0aGUgd29ybGQgYXQgbGFyZ2UgZGllIGZyb20gcGVzdGlsZW5jZSwgYWNjaWRlbnRzLCBpbmZlY3Rpb25zLCBvciB2aW9sZW5jZSBiZWZvcmUgZ2V0dGluZyB0byB2ZW5lcmFibGUgYWdlLiAgPGgyPlRhYmxlIDctMjogQWdpbmcgRWZmZWN0czwvaDI+IDx0YWJsZSBjbGFzcz0iaW5uZXIiPjx0cj48dGQ+PGI+UmFjZTwvYj48L3RkPjx0ZD48Yj5NaWRkbGUgQWdlPHN1cD4xPC9zdXA+PC9iPjwvdGQ+PHRkPjxiPk9sZDxzdXA+Mjwvc3VwPjwvYj48L3RkPjx0ZD48Yj5WZW5lcmFibGU8c3VwPjM8L3N1cD48L2I+PC90ZD48dGQ+PGI+TWF4aW11bSBBZ2U8L2I+PC90ZD48L3RyPjx0cj48dGQ+SHVtYW48L3RkPjx0ZD4zNSB5ZWFyczwvdGQ+PHRkPjUzIHllYXJzPC90ZD48dGQ+NzAgeWVhcnM8L3RkPjx0ZD43MCArIDJkMjAgeWVhcnM8L3RkPjwvdHI+PHRyPjx0ZD5Ed2FyZjwvdGQ+PHRkPjEyNSB5ZWFyczwvdGQ+PHRkPjE4OCB5ZWFyczwvdGQ+PHRkPjI1MCB5ZWFyczwvdGQ+PHRkPjI1MCArIDJkJSB5ZWFyczwvdGQ+PC90cj48dHI+PHRkPkVsZjwvdGQ+PHRkPjE3NSB5ZWFyczwvdGQ+PHRkPjI2MyB5ZWFyczwvdGQ+PHRkPjM1MCB5ZWFyczwvdGQ+PHRkPjM1MCArIDRkJSB5ZWFyczwvdGQ+PC90cj48dHI+PHRkPkdub21lPC90ZD48dGQ+MTAwIHllYXJzPC90ZD48dGQ+MTUwIHllYXJzPC90ZD48dGQ+MjAwIHllYXJzPC90ZD48dGQ+MjAwICsgM2QlIHllYXJzPC90ZD48L3RyPjx0cj48dGQ+SGFsZi1lbGY8L3RkPjx0ZD42MiB5ZWFyczwvdGQ+PHRkPjkzIHllYXJzPC90ZD48dGQ+MTI1IHllYXJzPC90ZD48dGQ+MTI1ICsgM2QyMCB5ZWFyczwvdGQ+PC90cj48dHI+PHRkPkhhbGYtb3JjPC90ZD48dGQ+MzAgeWVhcnM8L3RkPjx0ZD40NSB5ZWFyczwvdGQ+PHRkPjYwIHllYXJzPC90ZD48dGQ+NjAgKyAyZDEwIHllYXJzPC90ZD48L3RyPjx0cj48dGQ+SGFsZmxpbmc8L3RkPjx0ZD41MCB5ZWFyczwvdGQ+PHRkPjc1IHllYXJzPC90ZD48dGQ+MTAwIHllYXJzPC90ZD48dGQ+MTAwICsgNWQyMCB5ZWFyczwvdGQ+PC90cj48L3RhYmxlPjEgQXQgbWlkZGxlIGFnZSwgLTEgdG8gU3RyLCBEZXgsIGFuZCBDb247ICsxIHRvIEludCwgV2lzLCBhbmQgQ2hhPGJyIC8+MiBBdCBvbGQgYWdlLCAtMiB0byBTdHIsIERleCwgYW5kIENvbjsgKzEgdG8gSW50LCBXaXMsIGFuZCBDaGE8YnIgLz4zIGF0IHZlbmVyYWJsZSBhZ2UsIC0zIHRvIFN0ciwgRGV4LCBhbmQgQ29uOyArMSB0byBJbnQsIFdpcywgYW5kIENoYTxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTE3Ij5IZWlnaHQgYW5kIFdlaWdodDwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweTg4eWoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UFJQRyBDb3JlIFJ1bGVib29rIHBnLiAxNjk8L2k+PC9hPjxiciAvPlRvIGRldGVybWluZSBhIGNoYXJhY3RlcuKAmXMgaGVpZ2h0LCByb2xsIHRoZSBtb2RpZmllciBkaWNlIGluZGljYXRlZCBvbiBUYWJsZSA34oCTMyBhbmQgYWRkIHRoZSByZXN1bHQsIGluIGluY2hlcywgdG8gdGhlIGJhc2UgaGVpZ2h0IGZvciB5b3VyIGNoYXJhY3RlcuKAmXMgcmFjZSBhbmQgZ2VuZGVyLiBUbyBkZXRlcm1pbmUgYSBjaGFyYWN0ZXLigJlzIHdlaWdodCwgbXVsdGlwbHkgdGhlIHJlc3VsdCBvZiB0aGUgbW9kaWZpZXIgZGljZSBieSB0aGUgd2VpZ2h0IG11bHRpcGxpZXIgYW5kIGFkZCB0aGUgcmVzdWx0IHRvIHRoZSBiYXNlIHdlaWdodCBmb3IgeW91ciBjaGFyYWN0ZXLigJlzIHJhY2UgYW5kIGdlbmRlci4gPGgyPlRhYmxlIDctMzogcmFuZG9tIEhlaWdodCBhbmQgV2VpZ2h0PC9oMj4gPHRhYmxlIGNsYXNzPSJpbm5lciI+PHRyPjx0ZD48Yj5SYWNlPC9iPjwvdGQ+PHRkPjxiPkJhc2UgSGVpZ2h0PC9iPjwvdGQ+PHRkPjxiPkJhc2UgV2VpZ2h0PC9iPjwvdGQ+PHRkPjxiPk1vZGlmaWVyPC9iPjwvdGQ+PHRkPldlaWdodCBNdWx0aXBsaWVyPGI+PC9iPjwvdGQ+PC90cj48dHI+PHRkPkh1bWFuLCBtYWxlPC90ZD48dGQ+NCBmdC4gMTAgaW4uPC90ZD48dGQ+MTIwIGxicy48L3RkPjx0ZD4yZDEwPC90ZD48dGQ+w5cgNSBsYnMuPC90ZD48L3RyPjx0cj48dGQ+SHVtYW4sIGZlbWFsZTwvdGQ+PHRkPjQgZnQuIDUgaW4uPC90ZD48dGQ+ODUgbGJzLjwvdGQ+PHRkPjJkMTA8L3RkPjx0ZD7DlyA1IGxicy48L3RkPjwvdHI+PHRyPjx0ZD5Ed2FyZiwgbWFsZTwvdGQ+PHRkPjMgZnQuIDkgaW4uPC90ZD48dGQ+MTUwIGxicy48L3RkPjx0ZD4yZDQ8L3RkPjx0ZD7DlyA3IGxicy48L3RkPjwvdHI+PHRyPjx0ZD5Ed2FyZiwgZmVtYWxlPC90ZD48dGQ+MyBmdC4gNyBpbi48L3RkPjx0ZD4xMjAgbGJzLjwvdGQ+PHRkPjJkNDwvdGQ+PHRkPsOXIDcgbGJzLjwvdGQ+PC90cj48dHI+PHRkPkVsZiwgbWFsZTwvdGQ+PHRkPjUgZnQuIDQgaW4uPC90ZD48dGQ+MTAwIGxicy48L3RkPjx0ZD4yZDg8L3RkPjx0ZD7DlyAzIGxicy48L3RkPjwvdHI+PHRyPjx0ZD5FbGYsIGZlbWFsZTwvdGQ+PHRkPjUgZnQuIDQgaW4uPC90ZD48dGQ+OTAgbGJzLjwvdGQ+PHRkPjJkNjwvdGQ+PHRkPsOXIDMgbGJzLjwvdGQ+PC90cj48dHI+PHRkPkdub21lLCBtYWxlPC90ZD48dGQ+MyBmdC4gMCBpbi48L3RkPjx0ZD4zNSBsYnMuPC90ZD48dGQ+MmQ0PC90ZD48dGQ+eCAxIGxiLjwvdGQ+PC90cj48dHI+PHRkPkdub21lLCBmZW1hbGU8L3RkPjx0ZD4yIGZ0LiAxMCBpbi48L3RkPjx0ZD4zMCBsYnMuPC90ZD48dGQ+MmQ0PC90ZD48dGQ+w5cgMSBsYi48L3RkPjwvdHI+PHRyPjx0ZD5IYWxmLWVsZiwgbWFsZTwvdGQ+PHRkPjUgZnQuIDIgaW4uPC90ZD48dGQ+MTEwIGxicy48L3RkPjx0ZD4yZDg8L3RkPjx0ZD7DlyA1IGxicy48L3RkPjwvdHI+PHRyPjx0ZD5IYWxmLWVsZiwgZmVtYWxlPC90ZD48dGQ+NSBmdC4gMCBpbi48L3RkPjx0ZD45MCBsYnMuPC90ZD48dGQ+MmQ4PC90ZD48dGQ+w5cgNSBsYnMuPC90ZD48L3RyPjx0cj48dGQ+SGFsZi1vcmMsIG1hbGU8L3RkPjx0ZD40IGZ0LiAxMCBpbi48L3RkPjx0ZD4xNTAgbGJzLjwvdGQ+PHRkPjJkMTI8L3RkPjx0ZD7DlyA3IGxicy48L3RkPjwvdHI+PHRyPjx0ZD5IYWxmLW9yYywgZmVtYWxlPC90ZD48dGQ+NCBmdC4gNSBpbi48L3RkPjx0ZD4xMTAgbGJzLjwvdGQ+PHRkPjJkMTI8L3RkPjx0ZD7DlyA3IGxicy48L3RkPjwvdHI+PHRyPjx0ZD5IYWxmbGluZywgbWFsZSw8L3RkPjx0ZD4yIGZ0LiA4IGluLjwvdGQ+PHRkPjMwIGxicy48L3RkPjx0ZD4yZDQ8L3RkPjx0ZD7DlyAxIGxiLjwvdGQ+PC90cj48dHI+PHRkPkhhbGZsaW5nLCBmZW1hbGU8L3RkPjx0ZD4yIGZ0LiA2IGluLjwvdGQ+PHRkPjI1IGxicy48L3RkPjx0ZD4yZDQ8L3RkPjx0ZD7DlyAxIGxiLjwvdGQ+PC90cj48L3RhYmxlPmRkZOQ/AyzmmViUYb/ZZ7XZyzA8JEgkyxNHO3Z5/I4b6Cmq" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=41">Basics</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=83">Character Creation</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 14</i></a><br />From the sly rogue to the stalwart paladin, the Pathfinder RPG allows you to make the character you want to play. When generating a character, start with your character’s concept. Do you want a character who goes toe-to-toe with terrible monsters, matching sword and shield against claws and fangs? Or do you want a mystical seer who draws his powers from the great beyond to further his own ends? Nearly anything is possible.<br /><br /> Once you have a general concept worked out, use the following steps to bring your idea to life, recording the resulting information and statistics on your Pathfinder RPG character sheet, which can be found at the back of this book and photocopied for your convenience.<br /><br /><b>Step 1— Determine Ability Scores</b>: Start by generating your character’s <a style="text-decoration:underline" href="Rules.aspx?Name=Ability%20Scores&Category=Basics">ability scores</a>. These six scores determine your character’s most basic attributes and are used to decide a wide variety of details and statistics. Some class selections require you to have better than average scores for some of your abilities.<br /><br /> <b>Step 2—Pick Your Race</b>: Next, pick your character’s <a style="text-decoration:underline" href="Races.aspx">race</a>, noting any modifiers to your ability scores and any other racial traits (see Chapter 2). There are seven basic races to choose from, although your GM might have others to add to the list. Each race lists the languages your character automatically knows, as well as a number of bonus languages. <a style="text-decoration:underline" href="Rules.aspx?Name=Intelligence&Category=The%20Abilities">A character knows a number of additional bonus languages equal to his or her Intelligence modifier</a>.<br /><br /> <b>Step 3—Pick Your Class</b>: A character’s class represents a profession, such as fighter or wizard. If this is a new character, he starts at 1st level in his chosen class. As he gains experience points (XP) for defeating monsters, he goes up in level, granting him new powers and abilities.<br /><br /> <b>Step 4—Pick Skills and Select Feats</b>: Determine the number of skill ranks possessed by your character, based on his class and Intelligence modifier (and any other bonuses, such as the bonus received by humans). Then spend these ranks on skills, but remember that you cannot have more ranks than your level in any one skill (for a starting character, this is usually one). After skills, determine how many feats your character receives, based on his class and level, and select them from those presented in Chapter 5.<br /><br /> <b>Step 5—Buy Equipment</b>: Each new character begins the game with an amount of gold, based on his class, that can be spent on a wide range of equipment and gear, from chainmail armor to leather backpacks. This gear helps your character survive while adventuring. Generally speaking, you cannot use this starting money to buy magic items without the consent of your GM.<br /><br /> <b>Step 6—Finishing Details</b>: Finally, you need to determine all of a character’s details, including his starting hit points (hp), Armor Class (AC), saving throws, initiative modifier, and attack values. All of these numbers are determined by the decisions made in previous steps. A level 1 character begins with maximum hit points for its Hit Die roll. Aside from these, you need to decide on your character’s name, alignment, and physical appearance. It is best to jot down a few personality traits as well, to help you play the character during the game. Additional rules (like age and alignment) are described in Chapter 7.<br /><h1 class="title"><a href="Rules.aspx?ID=116">Age</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 168</i></a><br />You can choose or randomly generate your character’s age. If you choose it, it must be at least the minimum age for the character’s race and class (see Table 7–1). Alternatively, roll the dice indicated for your class on Table 7–1 and add the result to the minimum age of adulthood for your race to determine how old your character is.<br /><br /> <h2>Table 7-1: Random Starting Ages</h2> <table class="inner"><tr><td><b>Race</b></td><td><b>Adulthood</b></td><td><b>Barbarian, Rogue, Sorcerer</b></td><td><b>Bard, Fighter, Paladin, Ranger</b></td><td><b>Cleric, Druid, Monk, Wizard</b></td></tr><tr><td>Human</td><td>15 years</td><td>+1d4</td><td>+1d6</td><td>+2d6</td></tr><tr><td>Dwarf</td><td>40 years</td><td>+3d6</td><td>+5d6</td><td>+7d6</td></tr><tr><td>Elf</td><td>110 years</td><td>+4d6</td><td>+6d6</td><td>+10d6</td></tr><tr><td>Gnome</td><td>40 years</td><td>+4d6</td><td>+6d6</td><td>+9d6</td></tr><tr><td>Half-elf</td><td>20 years</td><td>+1d6</td><td>+2d6</td><td>+3d6</td></tr><tr><td>Half-orc</td><td>14 years</td><td>+1d4</td><td>+1d6</td><td>+2d6</td></tr><tr><td>Halfling</td><td>20 years</td><td>+2d4</td><td>+3d6</td><td>+4d6</td></tr></table><br />With age, a character’s physical ability scores decrease and his mental ability scores increase (see Table 7–2). The effects of each aging step are cumulative. However, none of a character’s ability scores can be reduced below 1 in this way.When a character reaches venerable age, secretly roll his maximum age (on Table 7–2) and record the result, which the player does not know. A character who reaches his maximum age dies of old age sometime during the following year.<br /><br /> The maximum ages are for player characters. Most people in the world at large die from pestilence, accidents, infections, or violence before getting to venerable age.  <h2>Table 7-2: Aging Effects</h2> <table class="inner"><tr><td><b>Race</b></td><td><b>Middle Age<sup>1</sup></b></td><td><b>Old<sup>2</sup></b></td><td><b>Venerable<sup>3</sup></b></td><td><b>Maximum Age</b></td></tr><tr><td>Human</td><td>35 years</td><td>53 years</td><td>70 years</td><td>70 + 2d20 years</td></tr><tr><td>Dwarf</td><td>125 years</td><td>188 years</td><td>250 years</td><td>250 + 2d% years</td></tr><tr><td>Elf</td><td>175 years</td><td>263 years</td><td>350 years</td><td>350 + 4d% years</td></tr><tr><td>Gnome</td><td>100 years</td><td>150 years</td><td>200 years</td><td>200 + 3d% years</td></tr><tr><td>Half-elf</td><td>62 years</td><td>93 years</td><td>125 years</td><td>125 + 3d20 years</td></tr><tr><td>Half-orc</td><td>30 years</td><td>45 years</td><td>60 years</td><td>60 + 2d10 years</td></tr><tr><td>Halfling</td><td>50 years</td><td>75 years</td><td>100 years</td><td>100 + 5d20 years</td></tr></table>1 At middle age, -1 to Str, Dex, and Con; +1 to Int, Wis, and Cha<br />2 At old age, -2 to Str, Dex, and Con; +1 to Int, Wis, and Cha<br />3 at venerable age, -3 to Str, Dex, and Con; +1 to Int, Wis, and Cha<br /><h1 class="title"><a href="Rules.aspx?ID=117">Height and Weight</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 169</i></a><br />To determine a character’s height, roll the modifier dice indicated on Table 7–3 and add the result, in inches, to the base height for your character’s race and gender. To determine a character’s weight, multiply the result of the modifier dice by the weight multiplier and add the result to the base weight for your character’s race and gender. <h2>Table 7-3: random Height and Weight</h2> <table class="inner"><tr><td><b>Race</b></td><td><b>Base Height</b></td><td><b>Base Weight</b></td><td><b>Modifier</b></td><td>Weight Multiplier<b></b></td></tr><tr><td>Human, male</td><td>4 ft. 10 in.</td><td>120 lbs.</td><td>2d10</td><td>× 5 lbs.</td></tr><tr><td>Human, female</td><td>4 ft. 5 in.</td><td>85 lbs.</td><td>2d10</td><td>× 5 lbs.</td></tr><tr><td>Dwarf, male</td><td>3 ft. 9 in.</td><td>150 lbs.</td><td>2d4</td><td>× 7 lbs.</td></tr><tr><td>Dwarf, female</td><td>3 ft. 7 in.</td><td>120 lbs.</td><td>2d4</td><td>× 7 lbs.</td></tr><tr><td>Elf, male</td><td>5 ft. 4 in.</td><td>100 lbs.</td><td>2d8</td><td>× 3 lbs.</td></tr><tr><td>Elf, female</td><td>5 ft. 4 in.</td><td>90 lbs.</td><td>2d6</td><td>× 3 lbs.</td></tr><tr><td>Gnome, male</td><td>3 ft. 0 in.</td><td>35 lbs.</td><td>2d4</td><td>x 1 lb.</td></tr><tr><td>Gnome, female</td><td>2 ft. 10 in.</td><td>30 lbs.</td><td>2d4</td><td>× 1 lb.</td></tr><tr><td>Half-elf, male</td><td>5 ft. 2 in.</td><td>110 lbs.</td><td>2d8</td><td>× 5 lbs.</td></tr><tr><td>Half-elf, female</td><td>5 ft. 0 in.</td><td>90 lbs.</td><td>2d8</td><td>× 5 lbs.</td></tr><tr><td>Half-orc, male</td><td>4 ft. 10 in.</td><td>150 lbs.</td><td>2d12</td><td>× 7 lbs.</td></tr><tr><td>Half-orc, female</td><td>4 ft. 5 in.</td><td>110 lbs.</td><td>2d12</td><td>× 7 lbs.</td></tr><tr><td>Halfling, male,</td><td>2 ft. 8 in.</td><td>30 lbs.</td><td>2d4</td><td>× 1 lb.</td></tr><tr><td>Halfling, female</td><td>2 ft. 6 in.</td><td>25 lbs.</td><td>2d4</td><td>× 1 lb.</td></tr></table></span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

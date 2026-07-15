@@ -1,0 +1,270 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Presenting the Planes - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Presenting the Planes" /><meta name="description" content="There’s a significant reason that most campaigns take place on an earthlike world: it’s predictable. Gravity works as expected, there are 24 hours in a day, seasons exist, and weather patterns make sense. That changes rapidly the moment the PCs start jumping to other planes of existence, and conflict between the players’ expectations and each planar reality is often more jarring for you than for them, due to potential challenges managing and presenting those differences in compelling ways. The ways in which you can overcome these difficulties vary as much as the planes themselves, but the basics fall into three broad concepts." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=2504" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWnVTx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjQ3NyI+UGxhbmFyIEFkdmVudHVyZXM8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjQ5OCI+QnVpbGRpbmcgYSBQbGFuYXIgQ2FtcGFpZ248L2E+PC91PjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjUwNCI+UHJlc2VudGluZyB0aGUgUGxhbmVzPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHlhMWFtIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBsYW5hciBBZHZlbnR1cmVzIHBnLiA4MzwvaT48L2E+PGJyIC8+VGhlcmXigJlzIGEgc2lnbmlmaWNhbnQgcmVhc29uIHRoYXQgbW9zdCBjYW1wYWlnbnMgdGFrZSBwbGFjZSBvbiBhbiBlYXJ0aGxpa2Ugd29ybGQ6IGl04oCZcyBwcmVkaWN0YWJsZS4gR3Jhdml0eSB3b3JrcyBhcyBleHBlY3RlZCwgdGhlcmUgYXJlIDI0IGhvdXJzIGluIGEgZGF5LCBzZWFzb25zIGV4aXN0LCBhbmQgd2VhdGhlciBwYXR0ZXJucyBtYWtlIHNlbnNlLiBUaGF0IGNoYW5nZXMgcmFwaWRseSB0aGUgbW9tZW50IHRoZSBQQ3Mgc3RhcnQganVtcGluZyB0byBvdGhlciBwbGFuZXMgb2YgZXhpc3RlbmNlLCBhbmQgY29uZmxpY3QgYmV0d2VlbiB0aGUgcGxheWVyc+KAmSBleHBlY3RhdGlvbnMgYW5kIGVhY2ggcGxhbmFyIHJlYWxpdHkgaXMgb2Z0ZW4gbW9yZSBqYXJyaW5nIGZvciB5b3UgdGhhbiBmb3IgdGhlbSwgZHVlIHRvIHBvdGVudGlhbCBjaGFsbGVuZ2VzIG1hbmFnaW5nIGFuZCBwcmVzZW50aW5nIHRob3NlIGRpZmZlcmVuY2VzIGluIGNvbXBlbGxpbmcgd2F5cy4gVGhlIHdheXMgaW4gd2hpY2ggeW91IGNhbiBvdmVyY29tZSB0aGVzZSBkaWZmaWN1bHRpZXMgdmFyeSBhcyBtdWNoIGFzIHRoZSBwbGFuZXMgdGhlbXNlbHZlcywgYnV0IHRoZSBiYXNpY3MgZmFsbCBpbnRvIHRocmVlIGJyb2FkIGNvbmNlcHRzLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjUwNSI+Tm90IEp1c3QgQW5vdGhlciBEdW5nZW9uPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHlhMWFtIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBsYW5hciBBZHZlbnR1cmVzIHBnLiA4MzwvaT48L2E+PGJyIC8+V2hlcmV2ZXIgdGhlIFBDcyBnbywgdGhlcmUgd2lsbCBiZSBjcmVhdHVyZXMsIGRhbmdlcm91cyBzaXRlcywgYW5kIHBsYWNlcyB0byBjb25ncmVnYXRl4oCUdGhlIGR1bmdlb25zLCBOUENzLCBhbmQgc2V0dGxlbWVudHMgdGhhdCBhcmUgY2VudHJhbCB0byBuZWFybHkgZXZlcnkgYWR2ZW50dXJlLiBUaGUgdGVtcHRhdGlvbiBtaWdodCBiZSB0byBqdXN0IHJlc2tpbiB0aGVzZSBmZWF0dXJlcyB0byBtYXRjaCB0aGUgcGxhbmXigJlzIGZsYXZvciwgYnV0IHRoYXQgc3VwZXJmaWNpYWxpdHkgaXMgaW5zdWZmaWNpZW50OyB0aGUgcGxhbmUgc2hvdWxkIGJlIGFuIGludGVncmFsIHBhcnQgb2YgdGhlIHNldHRpbmcgYW5kIHRoZSBwbGF5ZXJz4oCZIGV4cGVyaWVuY2VzLiBUaGF0IGluY2x1ZGVzIGV2ZXJ5dGhpbmcgZnJvbSB0aGUgdGV4dHVyZXMgb2Ygc3VyZmFjZXMgdG8gdGhlIHBsYW5hciB0cmFpdHMgdGhhdCByZXdyaXRlIHJlYWxpdHkgdG8gdGhlIHdheXMgaW4gd2hpY2ggdGhlIHBsYW5l4oCZcyBjdWx0dXJlcyAob3Igb3RoZXIgaW5oYWJpdGFudHMpIGFkYXB0IHRvIG1lZXQgdGhlc2Ugb2RkIHN0YW5kYXJkcy48YnIgLz48YnIgLz4gVGhpcyBpcyBlc3BlY2lhbGx5IHRydWUgaW4gdGhlIE91dGVyIFBsYW5lcywgd2hlcmUgcG93ZXJmdWwgYWxpZ25tZW50IHRyYWl0cyBjYW4gc2hhcGUgZW52aXJvbm1lbnRzIGFuZCBtYW55IGluaGFiaXRhbnRzIGhhdmUgZ29kcyBmb3IgbmVpZ2hib3JzLjxiciAvPjxiciAvPiBBcyBhbiBleGFtcGxlLCBmaWxsaW5nIGEgZHVuZ2VvbiB0aGF0IGlzIGxvY2F0ZWQgaW4gSGVsbCB3aXRoIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJNb25zdGVyRmFtaWxpZXMuYXNweD9JdGVtTmFtZT1EZXZpbCI+ZGV2aWxzPC9hPiBpcyBhIGRpc3NlcnZpY2UuIEluc3RlYWQsIGNvbnNpZGVyIHdoYXQgYWJpbGl0aWVzIGFyZSBjb21tb25seSBhdmFpbGFibGUgdG8gbG9jYWwgY3JlYXR1cmVzIChlLmcuLCB0ZWxlcG9ydGF0aW9uKSBhbmQgaG93IHRob3NlIGFiaWxpdGllcyBtaWdodCBzaGFwZSB0aGUgZGVuaXplbnPigJkgYmVoYXZpb3JzIGluIHRoaXMgaW5mZXJuYWwgY2l0YWRlbC4gSWYgdGhlIHNpdGUgaXMgY29uc3RydWN0ZWQgZnJvbSBldm9jYXRpdmUgbWF0ZXJpYWxzLCB3aXRoIHdhbGxzIG1hZGUgZnJvbSBldmVyLWJ1cm5pbmcgYm9uZXMgb3IgZmxvb3JzIGNvbXBvc2VkIG9mIHRvbWJzdG9uZXMsIGRvbuKAmXQgc3RvcCBhdCBhc2tpbmcgd2h5IGl04oCZcyB0aGF0IHdheeKAlHRoaW5rIGFib3V0IHdoYXQgZWZmZWN0IHRob3NlIGNob2ljZXMgaGF2ZSBvbiB0aGUgaW50ZW5kZWQgaW5oYWJpdGFudHMgYW5kIHRoZSBpbnRydWRpbmcgUENzLiBJZiB0aGVyZeKAmXMgYSBmaWVuZC1vcGVyYXRlZCBtYXJrZXQgbmVhcmJ5LCBjb25zaWRlciBhY2NlcHRhYmxlIGN1cnJlbmN5LCBob3cgdGhlIHRyYWRpdGlvbmFsIG1hcmtldHBsYWNlIGludGVyYWN0aW9ucyBtaWdodCBkaWZmZXIgZnJvbSB0aG9zZSBvZiB0aGUgUENz4oCZIGhvbWUgd29ybGQsIHdoYXTigJlzIGJlaW5nIHNvbGQsIGFuZCB3aG8gdGhlIGV4cGVjdGVkIGN1c3RvbWVycyBhcmUgKG91dHNpZGVycyBoYXZlIGZhaXJseSBsaW1pdGVkIG5lZWRzLCBhZnRlciBhbGwpLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjUwNiI+Tm9ybWFsIElzIEFibm9ybWFsPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHlhMWFtIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBsYW5hciBBZHZlbnR1cmVzIHBnLiA4NDwvaT48L2E+PGJyIC8+VGhlIHBsYW5lcyBvZnRlbiBzdWJ2ZXJ0IGNvbW1vbiBjdWx0dXJhbCBhbmQgcGh5c2ljYWwgZXhwZWN0YXRpb25zLiBEZXBlbmRpbmcgb24gdGhlIHBsYWNlLCB0aGUgUENzIG1pZ2h0IGhhdmUgdG8gbmF2aWdhdGUgY2l0aWVzIGRlc2lnbmVkIGVudGlyZWx5IGZvciBsb2NhbHMgd2hvIGNhbiBmbHksIHN3aW0sIG9yIHNwZW5kIGV4dGVuc2l2ZSBwZXJpb2RzIG9mIHRpbWUgaW4gZ2FzZW91cyBmb3JtLiBWaW9sZW50IHRob3VnaHRzIG1pZ2h0IHBoeXNpY2FsbHkgbWFuaWZlc3QgYW5kIGhhcmFzcyB0aGUgdGhpbmtlciwgb3IgcmF3IGNoYW9zIG1pZ2h0IHJlc2hhcGUgb2JqZWN0cyBsZWZ0IHVuYXR0ZW5kZWQgZm9yIHRvbyBsb25nLiBUbyBsb2NhbHMsIHRoZXNlIG9jY3VycmVuY2VzIG1pZ2h0IGJlIHBhcnQgb2YgdGhlaXIgZXZlcnlkYXkgbGl2ZXMsIGFuZCB0aGlzIG5vbmNoYWxhbmNlIGNhbiBiZSBhcyBhbGllbiBhcyB0aGUgcGhlbm9tZW5hLjxiciAvPjxiciAvPiBUcmF2ZWxpbmcgdGhlIHBsYW5lcyBleHBvc2VzIHRoZSBQQ3MgdG8gamF3LWRyb3BwaW5nIGNyZWF0dXJlcyBhbmQgdHJhZGl0aW9ucywgYW5kIHRoZXJl4oCZcyBubyByZWFzb24gdGhlaXIgcHJlc2VuY2Ugd291bGRu4oCZdCBoYXZlIGEgc2ltaWxhciBlZmZlY3Qgb24gdGhlIGRlc3RpbmF0aW9u4oCZcyBjaXRpemVucy4gRGVwZW5kaW5nIG9uIHRoZSBsb2NhdGlvbiwgbmF0aXZlIGNyZWF0dXJlcyBtaWdodCBmaW5kIHRoZSBQQ3PigJkgYXBwZWFyYW5jZXMsIGJlaGF2aW9ycywgYW5kIGJvZGllcyB0byBiZSB1bnNldHRsaW5nIG9yIGFwcGFsbGluZy4gU3VjaCBpbmhhYml0YW50cyBtaWdodCBkZW1vbnN0cmF0ZSBpbnRlbnRpb25zIGVudGlyZWx5IHRocm91Z2ggcGhlcm9tb25lcyBhbmQgY29sb3IgZGlzcGxheXMsIGhhdmUgc3VwZXJzdGl0aW9ucyBhYm91dCBibGlua2luZyBleWVzLCBzZWUgdGhlIHdvcmxkIGluIGEgd2lkZXIgcmFuZ2Ugb2YgY29sb3JzLCBvciBiZSB1bmFibGUgdG8gZXhwZXJpZW5jZSBjZXJ0YWluIGVtb3Rpb25zLiBCeSBjb250cmFzdCwgY29zbW9sb2dpY2FsbHkgY29zbW9wb2xpdGFuIHJlZ2lvbnMgbWlnaHQgYmUgZmFtaWxpYXIgd2l0aCB0cmF2ZWxlcnMgZnJvbSB0aGUgUENz4oCZIGhvbWUgd29ybGQsIGFuZCBzb21lIHBsYW5hciBtZXRyb3BvbGlzZXMgYm9hc3QgZm9yZWlnbiBkaXN0cmljdHMgd2hlcmUgb2Zmd29ybGQgY3JlYXR1cmVzIGFyZSBtb3JlIHdlbGNvbWUuIEFuIGludHJvZHVjdG9yeSBlbmNvdW50ZXIgc2V0IGluIHN1Y2ggYSBzcGFjZSBoYXMgdGhlIGJlbmVmaXQgb2YgYWxsb3dpbmcgdGhlIFBDcyB0byBzdGFydCBpbiBhIGxlc3MgamFycmluZyBwbGFjZSBhbmQgd29yayB0aGVpciB3YXkgaW50byBtb3JlIGJpemFycmUgcmVnaW9ucyBhdCB0aGVpciBvd24gcGFjZS48YnIgLz48YnIgLz4gTWFraW5nIHRoZSBhYm5vcm1hbCBub3JtYWwgY29tZXMgd2l0aCBhbiBpbXBvcnRhbnQgd2FybmluZzogYmUgdmVyeSBjYXJlZnVsIGFib3V0IHJld3JpdGluZyB0aGUgbGF3cyBvZiByZWFsaXR5LiBJdCBtaWdodCBzZWVtIGxpa2UgYSBncmFuZCBpZGVhIHRvIGFzc3VtZSB0aGF0IHBoeXNpY3MsIGRvd24gdG8gdGhlIGF0b21pYyBsZXZlbCwgb3BlcmF0ZXMgZGlmZmVyZW50bHkgb24gYW5vdGhlciBwbGFuZSwgYnV0IHRoYXQgd291bGQgbWVhbiBldmVuIGEgMjB0aC1sZXZlbCB3aXphcmTigJlzIGJvZHkgY291bGQgZGlzY29ycG9yYXRlIGluIGFuIGluc3RhbnQuIEZvciBtb3N0IGdyb3VwcywgYWltIGZvciBhIG1pZGRsZSBncm91bmQgb2YgdW5zZXR0bGluZ2x5IG9kZOKAlCBhbiBleGNpdGluZyBkZXN0aW5hdGlvbiB0aGF0IGRvZXNu4oCZdCBlbnRpcmVseSB1cGVuZCB0aGUgZ2FtZeKAmXMgbWVjaGFuaWNzLiBMaWtlIHJ1bm5pbmcgYW4gaW50ZW5zZSBpbnZlc3RpZ2F0aW9uIG9yIGEgaG9ycm9yIGNhbXBhaWduLCBzdHJpa2luZyB0aGUgcmlnaHQgYmFsYW5jZSBmb3IgYSBwbGFuYXIgYWR2ZW50dXJlIG1pZ2h0IGludm9sdmUgYSBjb252ZXJzYXRpb24gd2l0aCB5b3VyIHBsYXllcnMgdG8gdW5kZXJzdGFuZCBldmVyeW9uZeKAmXMgYm91bmRhcmllcyBhbmQgZXhwZWN0YXRpb25zLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjUwNyI+VHJhdmVsaW5nIHRoZSBQbGFuZXM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweWExYW0iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UGxhbmFyIEFkdmVudHVyZXMgcGcuIDg0PC9pPjwvYT48YnIgLz5BIG1hbmFnZWFibGUgcGxhbmFyIGFkdmVudHVyZSB0aHJpdmVzIG9uIGRpcmVjdGlvbuKAlCBlc3BlY2lhbGx5IGFzIHRoZSBQQ3MgYW5kIHBsYXllcnMgc3RhcnQgdG8gdHJhdmVsIHRoZSBwbGFuZXMgZm9yIHRoZSBmaXJzdCB0aW1lLiBUaGUgbW9yZSBmYW1pbGlhciB0aGUgcGxheWVycyBiZWNvbWUgd2l0aCBhbGwgZm9ybXMgb2YgcGxhbmFyIGV4cGxvcmF0aW9uIGFuZCB0aGUgd2lkZXIgdGhlaXIgY2lyY2xlIG9mIHBsYW5hciBjb250YWN0cyBiZWNvbWVzLCB0aGUgbW9yZSBmbGV4aWJpbGl0eSB5b3UgY2FuIHByb3ZpZGUuPGJyIC8+PGJyIC8+IFNlY29uZCB0byBhIGNvbXBlbGxpbmcgc3RvcnksIHRoZSBiZXN0IHRvb2wgeW91IGhhdmUgZm9yIHN0ZWVyaW5nIHRoZSBhY3Rpb24gaXMgdGhlIGRpZmZpY3VsdHkgb2YgdHJhdmVsaW5nIGZyb20gb25lIHBsYW5lIHRvIGFub3RoZXIuIE1vc3QgYWR2ZW50dXJpbmcgZ3JvdXBzIGxhY2sgdGhlIG1lYW5zIHRvIG1vdmUgYmV0d2VlbiBwbGFuZXMgaW5kZXBlbmRlbnRseSB1bnRpbCBhcm91bmQgOXRoIHRvIDEzdGggbGV2ZWwsIHNvIHRoZXnigJlyZSBvdGhlcndpc2UgcmVsaWFudCBvbiBleHRhbnQgcG9ydGFscyB0aGF0IHRoZSB5b3UgaW50cm9kdWNlIGFuZCBjb250cm9sLCBmYXZvcnMgZnJvbSBvdXRzaWRlcnMsIGFuZCByYXJlIG1hZ2ljIGl0ZW1zLiBQQ3MgaW4gYSBwbGFuYXIgY2FtcGFpZ24gbWlnaHQgcmVjZWl2ZSBvbmUgb3IgbW9yZSBzdWNoIHRvb2xzIGFzIHRyZWFzdXJlIGFib3ZlIGFuZCBiZXlvbmQgdGhlaXIgZXhwZWN0ZWQgd2VhbHRoIGJ5IGxldmVsLCB3aXRoIHRoZSB1bmRlcnN0YW5kaW5nIHRoYXQgdGhlc2UgYXJlIHBsb3QtY3JpdGljYWwgcmV3YXJkcyB0aGF0IGVuYWJsZSBmdXR1cmUgYWR2ZW50dXJlcy4gVGhlIGZvbGxvd2luZyBpcyBhbiBvdmVydmlldyBvZiB3ZWxsLWtub3duIHRvb2xzIHRoYXQgdGhlIFBDcyBtaWdodCBhY3F1aXJlLiA8YnIgLz48YnIgLz48Yj48YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iTWFnaWNXb25kcm91c0Rpc3BsYXkuYXNweD9GaW5hbE5hbWU9QW11bGV0IG9mIHRoZSBQbGFuZXMiPjxpPkFtdWxldCBvZiB0aGUgUGxhbmVzPC9pPjwvYT48L2I+OiBObyBpdGVtIGlzIGFzIHVuYW1iaWd1b3VzbHkgZWZmZWN0aXZlIGZvciBwbGFuYXIgdHJhdmVsIGFzIHRoaXMgYW11bGV0LCB3aGljaCBhbGxvd3MgYW4gZW50aXJlIGdyb3VwIHRvIGpvdXJuZXkgdG9nZXRoZXIgdG8gYSB3aWRlIHJhbmdlIG9mIGRlc3RpbmF0aW9ucy4gPGJyIC8+PGJyIC8+PGI+PGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9Ik1hZ2ljV29uZHJvdXNEaXNwbGF5LmFzcHg/RmluYWxOYW1lPUN1YmljIEdhdGUiPjxpPkN1YmljIEdhdGU8L2k+PC9hPjwvYj46IFdpdGggb25seSBzaXggcG9zc2libGUgZGVzdGluYXRpb25zLCBhIGN1YmljIGdhdGUgaXMgYW4gaWRlYWwgdG9vbCBmb3IgcGxhbmFyIGNhbXBhaWducyBvZiBsaW1pdGVkIHNjb3BlLiA8YnIgLz48YnIgLz48Yj48YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iTWFnaWNXb25kcm91c0Rpc3BsYXkuYXNweD9GaW5hbE5hbWU9Rmx5aW5nIFNraWZmIj48aT5GbHlpbmcgU2tpZmY8L2k+PC9hPjwvYj46IEZldyBvcHRpb25zIGFyZSBhcyBsdXh1cmlvdXMgYW5kIGV4cGVuc2l2ZSBhcyBhIDxpPmZseWluZyBza2lmZjwvaT47IGVudGlyZSBjYW1wYWlnbnMgbWlnaHQgYmUgYnVpbHQgYXJvdW5kIHRoaXMgZGV2aWNlLiBUaGUgUENzIG1pZ2h0IHNlcnZlIGFzIGNyZXcgYWJvYXJkIGEgPGk+Zmx5aW5nIHNraWZmPC9pPiBhbmQgdHJhdmVsIHRvIHN1bmRyeSBkZXN0aW5hdGlvbnMgdW5kZXIgdGhlaXIgZW1wbG95ZXJz4oCZIGNvbW1hbmRzLCBvbmx5IHRvIGZpbmQgdGhlbXNlbHZlcyBpbmhlcml0aW5nIHRoZSBzaGlwIHdoZW4gbWlzZm9ydHVuZSBiZWZhbGxzIHRoZSBwcmV2aW91cyBvd25lci4gPGJyIC8+PGJyIC8+PGI+PGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9Ik1hZ2ljV29uZHJvdXNEaXNwbGF5LmFzcHg/RmluYWxOYW1lPUZpZ3VyaW5lIG9mIFdvbmRyb3VzIFBvd2VyT2JzaWRpYW4gU3RlZWQiPjxpPk9ic2lkaWFuIFN0ZWVkPC9pPjwvYT48L2I+OiBUaGlzIDxpPmZpZ3VyaW5lIG9mIHdvbmRyb3VzIHBvd2VyPC9pPiBpcyBhbiBleGNlbGxlbnQgZXNjYXBlIHBsYW7igJRhcyBsb25nIGFzIHBsYXllcnMgYWNjb3VudCBmb3IgdGhlIGZhY3QgdGhhdCBpdCBjYW4gY2Fycnkgb25seSBhIHNpbmdsZSBjcmVhdHVyZS4gVGhlIGl0ZW3igJlzIHRlbmRlbmN5IHRvIGRlcG9zaXQgZ29vZC1hbGlnbmVkIHJpZGVycyBpbiB1bnBsZWFzYW50IHBsYWNlcyBjb3VsZCBhbHNvIGJlIHRoZSBiYXNpcyBmb3IgYSB0aW1lLWNyaXRpY2FsIHJlc2N1ZSBtaXNzaW9uLiA8YnIgLz48YnIgLz48Yj48YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iTWFnaWNXb25kcm91c0Rpc3BsYXkuYXNweD9GaW5hbE5hbWU9UGxhbmFyIEtleXN0b25lIj48aT5QbGFuYXIgS2V5c3RvbmVzPC9pPjwvYT48L2I+OiBUaGVzZSBpdGVtcyBtYWtlIGZvciBhIGxvdy1jb3N0IG1ldGhvZCB0byBhbGxvdyB0cmF2ZWwgdG8gYW5kIGZyb20gc3BlY2lmaWMgcGxhbmVzLiBTaW5jZSB0aGVpciBkZXN0aW5hdGlvbnMgYXJlIGxpbWl0ZWQgYW5kIGl0IHRha2VzIHRpbWUgdG8gYWN0aXZhdGUgdGhlbSwgPGk+cGxhbmFyIGtleXN0b25lczwvaT4gaGF2ZSBubyByZWFsIHVzZSBpbiBjb21iYXQuIEJ1dCBhcyBhIG1ldGhvZCBvZiB0cmFuc3BvcnRpbmcgYSBncm91cCBvZiBQQ3MgdG8gb3IgZnJvbSBhIHBsYW5lIGF0IGFueSBleHBlcmllbmNlIGxldmVsLCA8aT5wbGFuYXIga2V5c3RvbmVzPC9pPiBhcmUgb25lIG9mIHlvdXIgYmVzdCBvcHRpb25zLiA8YnIgLz48YnIgLz48Yj48YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iTWFnaWNXb25kcm91c0Rpc3BsYXkuYXNweD9GaW5hbE5hbWU9Um9iZSBvZiBTdGFycyI+PGk+Um9iZSBvZiBTdGFyczwvaT48L2E+PC9iPjogQSA8aT5yb2JlIG9mIHN0YXJzPC9pPiBhbGxvd3Mgb25seSBvbmUgY3JlYXR1cmUgdG8gdHJhdmVsLiBIb3dldmVyLCBiZWNhdXNlIHRoZSByb2JlIHBoeXNpY2FsbHkgdHJhbnNwb3J0cyB0aGUgd2VhcmVyIHRvIHRoZSBBc3RyYWwgUGxhbmUsIHRoZXnigJlyZSBuZWl0aGVyIHByb3RlY3RlZCBieSBub3IgbGltaXRlZCBieSB0aGUgc2lsdmVyIGNvcmQgYWZmb3JkZWQgYnkgdGhlIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1hc3RyYWwgcHJvamVjdGlvbiI+PGk+YXN0cmFsIHByb2plY3Rpb248L2k+PC9hPiBzcGVsbCwgYWxsb3dpbmcgbGltaXRsZXNzIHRyYXZlbCBmcm9tIHRoZXJlIHRvIGFueSBudW1iZXIgb2YgZGVtaXBsYW5lcyBhbmQgT3V0ZXIgUGxhbmVzLiA8YnIgLz48YnIgLz48Yj48YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iTWFnaWNTdGF2ZXNEaXNwbGF5LmFzcHg/SXRlbU5hbWU9U3RhZmYgb2YgdGhlIFBsYW5lcyI+PGk+U3RhZmYgb2YgdGhlIFBsYW5lczwvaT48L2E+PC9iPjogV2hlbiBmdWxseSBjaGFyZ2VkLCB0aGlzIHN0YWZmIGNhbiB0cmFuc3BvcnQgYSBncm91cCB0byBhbm90aGVyIHBsYW5lIGFuZCBiYWNrIG9yIHRyYW5zcG9ydCB0aGUgZ3JvdXAgd2hpbGUgcHJvdGVjdGluZyB1cCB0byBmaXZlIG9mIGl0cyBtZW1iZXJzIGZyb20gZGFuZ2Vyb3VzIHBsYW5hciB0cmFpdHMuIEluIGFuIGVtZXJnZW5jeSwgdGhlIHN0YWZmIGlzIGFsc28gYSB3YXkgdG8gZXNjYXBlIGEgZGFuZ2Vyb3VzIG9yIGVzY2FsYXRpbmcgc2l0dWF0aW9uLiBLZWVwIGluIG1pbmQgdGhhdCBvbmx5IGEgZmFpcmx5IGhpZ2gtbGV2ZWwgc3BlbGxjYXN0ZXIgY2FuIHJlY2hhcmdlIHRoZSBzdGFmZiwgdGhvdWdoIGZvciBzb21lIGNhbXBhaWducywgYSBsaW1pdGVkIHJlc291cmNlIGxpa2UgdGhpcyBpcyBleGFjdGx5IHdoYXTigJlzIG5lZWRlZC4gPGJyIC8+PGJyIC8+PGI+PGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9Ik1hZ2ljV29uZHJvdXNEaXNwbGF5LmFzcHg/RmluYWxOYW1lPVdlbGwgb2YgTWFueSBXb3JsZHMiPjxpPldlbGwgb2YgTWFueSBXb3JsZHM8L2k+PC9hPjwvYj46IFBhcnRpY3VsYXJseSB1c2VmdWwgZm9yIHNhbmRib3gtc3R5bGUgY2FtcGFpZ25zLCB0aGlzIHBvcnRhYmxlIGdhdGV3YXkgYWxsb3dzIG5lYXJseSBsaW1pdGxlc3MgdHJhdmVsLiBIb3dldmVyLCBpdOKAmXMgaW1wb3J0YW50IHRvIGtlZXAgaW4gbWluZCB0aGF0IGEgPGk+d2VsbCBvZiBtYW55IHdvcmxkczwvaT4gY2FuIGJlIGNsb3NlZCBvciBtb3ZlZCBvbmx5IGZyb20gdGhlIHNpZGUgb2YgaXRzIG9yaWdpbiwgbm90IGZyb20gdGhlIHJlYWxtIGludG8gd2hpY2ggaXQgb3BlbnMuIFRoYXQgbWVhbnMgdGhhdCBpZiB0aGUgUENzIHJlbHkgb24gdGhlIHdlbGwgZm9yIHRoZWlyIHJldHVybiB0cmlwLCB0aGV5IHdpbGwgYmUgZm9yY2VkIHRvIGxlYXZlIGl0IG9wZW4gYW5kIGhvcGUgdGhhdCBubyBkYW5nZXJvdXMgZGVuaXplbnMgc2xpcCB0aHJvdWdoIHRoZSBnYXRlIChvciB3b3JzZSwgY2xvc2UgdGhlIHdlbGwgYW5kIHRha2UgaXQgYXdheSkgYmVmb3JlIHRoZXkgY2FuIHJldHVybi4gQWx0ZXJuYXRlbHksIHRoZSBmaXJzdCBzdGFnZSBvZiBhIHF1ZXN0IG1pZ2h0IHJlcXVpcmUgdGhlIFBDcyB0byBuYXZpZ2F0ZSBhIGhvc3RpbGUgcmVnaW9uIHRvIHJlYWNoIGEgd2VsbOKAmXMgbGF1bmNoaW5nIHBvaW50LiA8YnIgLz48YnIgLz48Yj5EZXNwZXJhdGUgTWVhc3VyZXM8L2I+OiBTZXZlcmFsIG90aGVyIGl0ZW1zIGZhY2lsaXRhdGUgcGxhbmFyIHRyYXZlbCBidXQgaW4gZXh0cmFvcmRpbmFyaWx5IGRhbmdlcm91cyBhbmQgdW5wcmVkaWN0YWJsZSB3YXlzLiBFdmVuIHNvLCBjaXJjdW1zdGFuY2VzIG1pZ2h0IGxlYXZlIHRoZSBQQ3Mgbm8gY2hvaWNlIGJ1dCB0byBwbGFjZSBhIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJNYWdpY1dvbmRyb3VzRGlzcGxheS5hc3B4P0ZpbmFsTmFtZT1CYWcgb2YgSG9sZGluZ1R5cGUgSSI+PGk+YmFnIG9mIGhvbGRpbmc8L2k+PC9hPiBpbnNpZGUgYSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iTWFnaWNXb25kcm91c0Rpc3BsYXkuYXNweD9GaW5hbE5hbWU9UG9ydGFibGUgSG9sZSI+PGk+cG9ydGFibGUgaG9sZTwvaT48L2E+IG9yIGRlc3Ryb3kgYSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iTWFnaWNBcnRpZmFjdHNEaXNwbGF5LmFzcHg/SXRlbU5hbWU9U3RhZmYgb2YgUG93ZXIiPjxpPnN0YWZmIG9mIHBvd2VyPC9pPjwvYT4gaW4gdGhlIGhvcGVzIG9mIGdvaW5nIHNvbWV3aGVyZeKAlCBhbnl3aGVyZeKAlGVsc2UuZGRk7PA7+AQj5nDI7z4dOhf5QmMgfzYLSnikVewhl5tcnk4=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=2477">Planar Adventures</a></u> / <u><a href="Rules.aspx?ID=2498">Building a Planar Campaign</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=2504">Presenting the Planes</a></h1><b>Source</b> <a href="http://paizo.com/products/btpya1am" target="_blank" class="external-link"><i>Planar Adventures pg. 83</i></a><br />There’s a significant reason that most campaigns take place on an earthlike world: it’s predictable. Gravity works as expected, there are 24 hours in a day, seasons exist, and weather patterns make sense. That changes rapidly the moment the PCs start jumping to other planes of existence, and conflict between the players’ expectations and each planar reality is often more jarring for you than for them, due to potential challenges managing and presenting those differences in compelling ways. The ways in which you can overcome these difficulties vary as much as the planes themselves, but the basics fall into three broad concepts.<br /><h1 class="title"><a href="Rules.aspx?ID=2505">Not Just Another Dungeon</a></h1><b>Source</b> <a href="http://paizo.com/products/btpya1am" target="_blank" class="external-link"><i>Planar Adventures pg. 83</i></a><br />Wherever the PCs go, there will be creatures, dangerous sites, and places to congregate—the dungeons, NPCs, and settlements that are central to nearly every adventure. The temptation might be to just reskin these features to match the plane’s flavor, but that superficiality is insufficient; the plane should be an integral part of the setting and the players’ experiences. That includes everything from the textures of surfaces to the planar traits that rewrite reality to the ways in which the plane’s cultures (or other inhabitants) adapt to meet these odd standards.<br /><br /> This is especially true in the Outer Planes, where powerful alignment traits can shape environments and many inhabitants have gods for neighbors.<br /><br /> As an example, filling a dungeon that is located in Hell with <a style="text-decoration:underline" href="MonsterFamilies.aspx?ItemName=Devil">devils</a> is a disservice. Instead, consider what abilities are commonly available to local creatures (e.g., teleportation) and how those abilities might shape the denizens’ behaviors in this infernal citadel. If the site is constructed from evocative materials, with walls made from ever-burning bones or floors composed of tombstones, don’t stop at asking why it’s that way—think about what effect those choices have on the intended inhabitants and the intruding PCs. If there’s a fiend-operated market nearby, consider acceptable currency, how the traditional marketplace interactions might differ from those of the PCs’ home world, what’s being sold, and who the expected customers are (outsiders have fairly limited needs, after all).<br /><h1 class="title"><a href="Rules.aspx?ID=2506">Normal Is Abnormal</a></h1><b>Source</b> <a href="http://paizo.com/products/btpya1am" target="_blank" class="external-link"><i>Planar Adventures pg. 84</i></a><br />The planes often subvert common cultural and physical expectations. Depending on the place, the PCs might have to navigate cities designed entirely for locals who can fly, swim, or spend extensive periods of time in gaseous form. Violent thoughts might physically manifest and harass the thinker, or raw chaos might reshape objects left unattended for too long. To locals, these occurrences might be part of their everyday lives, and this nonchalance can be as alien as the phenomena.<br /><br /> Traveling the planes exposes the PCs to jaw-dropping creatures and traditions, and there’s no reason their presence wouldn’t have a similar effect on the destination’s citizens. Depending on the location, native creatures might find the PCs’ appearances, behaviors, and bodies to be unsettling or appalling. Such inhabitants might demonstrate intentions entirely through pheromones and color displays, have superstitions about blinking eyes, see the world in a wider range of colors, or be unable to experience certain emotions. By contrast, cosmologically cosmopolitan regions might be familiar with travelers from the PCs’ home world, and some planar metropolises boast foreign districts where offworld creatures are more welcome. An introductory encounter set in such a space has the benefit of allowing the PCs to start in a less jarring place and work their way into more bizarre regions at their own pace.<br /><br /> Making the abnormal normal comes with an important warning: be very careful about rewriting the laws of reality. It might seem like a grand idea to assume that physics, down to the atomic level, operates differently on another plane, but that would mean even a 20th-level wizard’s body could discorporate in an instant. For most groups, aim for a middle ground of unsettlingly odd— an exciting destination that doesn’t entirely upend the game’s mechanics. Like running an intense investigation or a horror campaign, striking the right balance for a planar adventure might involve a conversation with your players to understand everyone’s boundaries and expectations.<br /><h1 class="title"><a href="Rules.aspx?ID=2507">Traveling the Planes</a></h1><b>Source</b> <a href="http://paizo.com/products/btpya1am" target="_blank" class="external-link"><i>Planar Adventures pg. 84</i></a><br />A manageable planar adventure thrives on direction— especially as the PCs and players start to travel the planes for the first time. The more familiar the players become with all forms of planar exploration and the wider their circle of planar contacts becomes, the more flexibility you can provide.<br /><br /> Second to a compelling story, the best tool you have for steering the action is the difficulty of traveling from one plane to another. Most adventuring groups lack the means to move between planes independently until around 9th to 13th level, so they’re otherwise reliant on extant portals that the you introduce and control, favors from outsiders, and rare magic items. PCs in a planar campaign might receive one or more such tools as treasure above and beyond their expected wealth by level, with the understanding that these are plot-critical rewards that enable future adventures. The following is an overview of well-known tools that the PCs might acquire. <br /><br /><b><a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Amulet of the Planes"><i>Amulet of the Planes</i></a></b>: No item is as unambiguously effective for planar travel as this amulet, which allows an entire group to journey together to a wide range of destinations. <br /><br /><b><a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Cubic Gate"><i>Cubic Gate</i></a></b>: With only six possible destinations, a cubic gate is an ideal tool for planar campaigns of limited scope. <br /><br /><b><a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Flying Skiff"><i>Flying Skiff</i></a></b>: Few options are as luxurious and expensive as a <i>flying skiff</i>; entire campaigns might be built around this device. The PCs might serve as crew aboard a <i>flying skiff</i> and travel to sundry destinations under their employers’ commands, only to find themselves inheriting the ship when misfortune befalls the previous owner. <br /><br /><b><a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Figurine of Wondrous PowerObsidian Steed"><i>Obsidian Steed</i></a></b>: This <i>figurine of wondrous power</i> is an excellent escape plan—as long as players account for the fact that it can carry only a single creature. The item’s tendency to deposit good-aligned riders in unpleasant places could also be the basis for a time-critical rescue mission. <br /><br /><b><a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Planar Keystone"><i>Planar Keystones</i></a></b>: These items make for a low-cost method to allow travel to and from specific planes. Since their destinations are limited and it takes time to activate them, <i>planar keystones</i> have no real use in combat. But as a method of transporting a group of PCs to or from a plane at any experience level, <i>planar keystones</i> are one of your best options. <br /><br /><b><a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Robe of Stars"><i>Robe of Stars</i></a></b>: A <i>robe of stars</i> allows only one creature to travel. However, because the robe physically transports the wearer to the Astral Plane, they’re neither protected by nor limited by the silver cord afforded by the <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=astral projection"><i>astral projection</i></a> spell, allowing limitless travel from there to any number of demiplanes and Outer Planes. <br /><br /><b><a style="text-decoration:underline" href="MagicStavesDisplay.aspx?ItemName=Staff of the Planes"><i>Staff of the Planes</i></a></b>: When fully charged, this staff can transport a group to another plane and back or transport the group while protecting up to five of its members from dangerous planar traits. In an emergency, the staff is also a way to escape a dangerous or escalating situation. Keep in mind that only a fairly high-level spellcaster can recharge the staff, though for some campaigns, a limited resource like this is exactly what’s needed. <br /><br /><b><a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Well of Many Worlds"><i>Well of Many Worlds</i></a></b>: Particularly useful for sandbox-style campaigns, this portable gateway allows nearly limitless travel. However, it’s important to keep in mind that a <i>well of many worlds</i> can be closed or moved only from the side of its origin, not from the realm into which it opens. That means that if the PCs rely on the well for their return trip, they will be forced to leave it open and hope that no dangerous denizens slip through the gate (or worse, close the well and take it away) before they can return. Alternately, the first stage of a quest might require the PCs to navigate a hostile region to reach a well’s launching point. <br /><br /><b>Desperate Measures</b>: Several other items facilitate planar travel but in extraordinarily dangerous and unpredictable ways. Even so, circumstances might leave the PCs no choice but to place a <a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Bag of HoldingType I"><i>bag of holding</i></a> inside a <a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Portable Hole"><i>portable hole</i></a> or destroy a <a style="text-decoration:underline" href="MagicArtifactsDisplay.aspx?ItemName=Staff of Power"><i>staff of power</i></a> in the hopes of going somewhere— anywhere—else.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

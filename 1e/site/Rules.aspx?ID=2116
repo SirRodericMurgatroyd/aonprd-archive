@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Item-Bound and Possessing Haunts - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Item-Bound and Possessing Haunts" /><meta name="description" content="Some haunts are tied to special objects or creatures. Such haunts take normal damage from positive energy, and follow the normal reset rules for haunts of their type. &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=Dispel evil&quot;>&lt;i>Dispel evil&lt;/i>&lt;/a> can eject a haunting presence if the spell is cast quickly; the caster must succeed at a caster level check with a DC equal to 10 + the haunt’s CR + 1 for each month that the creature or object has been possessed.&lt;br />&lt;br /> Bound haunts possess items when created, and gain mobility at the cost of having their tragic fates tied to physical objects that are more easily destroyed. These haunts spontaneously manifest at scenes of great terror, as the psychic residue of tragic events seeps into items tied to the events. Once bound to an item, an item-bound haunt uses all of the normal rules for haunts, with the radius of its effects centered on the haunted object. Some effects may have special triggers based on the item’s nature, such as haunted instruments being played or weapons being used. The haunting presence adds 5 to the break DC for its possessed item, and doubles the item’s hardness and hit points.&lt;br />&lt;br /> Malevolent spirits may similarly haunt creatures rather than items, following the subjects wherever they go and causing strange occurrences and poltergeist-like activity around the subject in revenge for a perceived trespass or involvement in the tragic events that created the haunt. While they sometimes seem beneficial to their hosts at first, such haunts inevitably seek their hosts’ destruction. Individuals possessed by such haunts must always take a standard action to retrieve stored items, unless it would normally take longer. In addition, any item the host drops lands 10 feet away in a random direction. A possessing haunt uses all normal rules for haunts, with the radius of its effects centered on the haunted subject, who takes a –2 penalty on all saving throws against the haunt’s effects. Subject to the GM’s discretion, haunted creatures may suffer tormenting dreams that cause 1 point of drain each day to an ability score appropriate for the haunt." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=2116" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWKFTx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTY3NCI+T2NjdWx0IFJ1bGVzPC9hPjwvdT4gLyA8dT48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTIwODQiPlJ1bm5pbmcgYW4gT2NjdWx0IEdhbWU8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjEwOCI+T2NjdWx0IExvY2F0aW9uczwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0yMTE0Ij5OZXcgSGF1bnQgUnVsZXM8L2E+PC91PjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjExNiI+SXRlbS1Cb3VuZCBhbmQgUG9zc2Vzc2luZyBIYXVudHM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTllZ3U/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLU9jY3VsdC1BZHZlbnR1cmVzIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPk9jY3VsdCBBZHZlbnR1cmVzIHBnLiAyMjg8L2k+PC9hPjxiciAvPlNvbWUgaGF1bnRzIGFyZSB0aWVkIHRvIHNwZWNpYWwgb2JqZWN0cyBvciBjcmVhdHVyZXMuIFN1Y2ggaGF1bnRzIHRha2Ugbm9ybWFsIGRhbWFnZSBmcm9tIHBvc2l0aXZlIGVuZXJneSwgYW5kIGZvbGxvdyB0aGUgbm9ybWFsIHJlc2V0IHJ1bGVzIGZvciBoYXVudHMgb2YgdGhlaXIgdHlwZS4gPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPURpc3BlbCBldmlsIj48aT5EaXNwZWwgZXZpbDwvaT48L2E+IGNhbiBlamVjdCBhIGhhdW50aW5nIHByZXNlbmNlIGlmIHRoZSBzcGVsbCBpcyBjYXN0IHF1aWNrbHk7IHRoZSBjYXN0ZXIgbXVzdCBzdWNjZWVkIGF0IGEgY2FzdGVyIGxldmVsIGNoZWNrIHdpdGggYSBEQyBlcXVhbCB0byAxMCArIHRoZSBoYXVudOKAmXMgQ1IgKyAxIGZvciBlYWNoIG1vbnRoIHRoYXQgdGhlIGNyZWF0dXJlIG9yIG9iamVjdCBoYXMgYmVlbiBwb3NzZXNzZWQuPGJyIC8+PGJyIC8+IEJvdW5kIGhhdW50cyBwb3NzZXNzIGl0ZW1zIHdoZW4gY3JlYXRlZCwgYW5kIGdhaW4gbW9iaWxpdHkgYXQgdGhlIGNvc3Qgb2YgaGF2aW5nIHRoZWlyIHRyYWdpYyBmYXRlcyB0aWVkIHRvIHBoeXNpY2FsIG9iamVjdHMgdGhhdCBhcmUgbW9yZSBlYXNpbHkgZGVzdHJveWVkLiBUaGVzZSBoYXVudHMgc3BvbnRhbmVvdXNseSBtYW5pZmVzdCBhdCBzY2VuZXMgb2YgZ3JlYXQgdGVycm9yLCBhcyB0aGUgcHN5Y2hpYyByZXNpZHVlIG9mIHRyYWdpYyBldmVudHMgc2VlcHMgaW50byBpdGVtcyB0aWVkIHRvIHRoZSBldmVudHMuIE9uY2UgYm91bmQgdG8gYW4gaXRlbSwgYW4gaXRlbS1ib3VuZCBoYXVudCB1c2VzIGFsbCBvZiB0aGUgbm9ybWFsIHJ1bGVzIGZvciBoYXVudHMsIHdpdGggdGhlIHJhZGl1cyBvZiBpdHMgZWZmZWN0cyBjZW50ZXJlZCBvbiB0aGUgaGF1bnRlZCBvYmplY3QuIFNvbWUgZWZmZWN0cyBtYXkgaGF2ZSBzcGVjaWFsIHRyaWdnZXJzIGJhc2VkIG9uIHRoZSBpdGVt4oCZcyBuYXR1cmUsIHN1Y2ggYXMgaGF1bnRlZCBpbnN0cnVtZW50cyBiZWluZyBwbGF5ZWQgb3Igd2VhcG9ucyBiZWluZyB1c2VkLiBUaGUgaGF1bnRpbmcgcHJlc2VuY2UgYWRkcyA1IHRvIHRoZSBicmVhayBEQyBmb3IgaXRzIHBvc3Nlc3NlZCBpdGVtLCBhbmQgZG91YmxlcyB0aGUgaXRlbeKAmXMgaGFyZG5lc3MgYW5kIGhpdCBwb2ludHMuPGJyIC8+PGJyIC8+IE1hbGV2b2xlbnQgc3Bpcml0cyBtYXkgc2ltaWxhcmx5IGhhdW50IGNyZWF0dXJlcyByYXRoZXIgdGhhbiBpdGVtcywgZm9sbG93aW5nIHRoZSBzdWJqZWN0cyB3aGVyZXZlciB0aGV5IGdvIGFuZCBjYXVzaW5nIHN0cmFuZ2Ugb2NjdXJyZW5jZXMgYW5kIHBvbHRlcmdlaXN0LWxpa2UgYWN0aXZpdHkgYXJvdW5kIHRoZSBzdWJqZWN0IGluIHJldmVuZ2UgZm9yIGEgcGVyY2VpdmVkIHRyZXNwYXNzIG9yIGludm9sdmVtZW50IGluIHRoZSB0cmFnaWMgZXZlbnRzIHRoYXQgY3JlYXRlZCB0aGUgaGF1bnQuIFdoaWxlIHRoZXkgc29tZXRpbWVzIHNlZW0gYmVuZWZpY2lhbCB0byB0aGVpciBob3N0cyBhdCBmaXJzdCwgc3VjaCBoYXVudHMgaW5ldml0YWJseSBzZWVrIHRoZWlyIGhvc3Rz4oCZIGRlc3RydWN0aW9uLiBJbmRpdmlkdWFscyBwb3NzZXNzZWQgYnkgc3VjaCBoYXVudHMgbXVzdCBhbHdheXMgdGFrZSBhIHN0YW5kYXJkIGFjdGlvbiB0byByZXRyaWV2ZSBzdG9yZWQgaXRlbXMsIHVubGVzcyBpdCB3b3VsZCBub3JtYWxseSB0YWtlIGxvbmdlci4gSW4gYWRkaXRpb24sIGFueSBpdGVtIHRoZSBob3N0IGRyb3BzIGxhbmRzIDEwIGZlZXQgYXdheSBpbiBhIHJhbmRvbSBkaXJlY3Rpb24uIEEgcG9zc2Vzc2luZyBoYXVudCB1c2VzIGFsbCBub3JtYWwgcnVsZXMgZm9yIGhhdW50cywgd2l0aCB0aGUgcmFkaXVzIG9mIGl0cyBlZmZlY3RzIGNlbnRlcmVkIG9uIHRoZSBoYXVudGVkIHN1YmplY3QsIHdobyB0YWtlcyBhIOKAkzIgcGVuYWx0eSBvbiBhbGwgc2F2aW5nIHRocm93cyBhZ2FpbnN0IHRoZSBoYXVudOKAmXMgZWZmZWN0cy4gU3ViamVjdCB0byB0aGUgR03igJlzIGRpc2NyZXRpb24sIGhhdW50ZWQgY3JlYXR1cmVzIG1heSBzdWZmZXIgdG9ybWVudGluZyBkcmVhbXMgdGhhdCBjYXVzZSAxIHBvaW50IG9mIGRyYWluIGVhY2ggZGF5IHRvIGFuIGFiaWxpdHkgc2NvcmUgYXBwcm9wcmlhdGUgZm9yIHRoZSBoYXVudC5kZGQDpzdmtVUbhStW1b4/pSqEt4LXUhEZHT1VD5wSckRzPQ==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1674">Occult Rules</a></u> / <u><a href="Rules.aspx?ID=2084">Running an Occult Game</a></u> / <u><a href="Rules.aspx?ID=2108">Occult Locations</a></u> / <u><a href="Rules.aspx?ID=2114">New Haunt Rules</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=2116">Item-Bound and Possessing Haunts</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9egu?Pathfinder-Roleplaying-Game-Occult-Adventures" target="_blank" class="external-link"><i>Occult Adventures pg. 228</i></a><br />Some haunts are tied to special objects or creatures. Such haunts take normal damage from positive energy, and follow the normal reset rules for haunts of their type. <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=Dispel evil"><i>Dispel evil</i></a> can eject a haunting presence if the spell is cast quickly; the caster must succeed at a caster level check with a DC equal to 10 + the haunt’s CR + 1 for each month that the creature or object has been possessed.<br /><br /> Bound haunts possess items when created, and gain mobility at the cost of having their tragic fates tied to physical objects that are more easily destroyed. These haunts spontaneously manifest at scenes of great terror, as the psychic residue of tragic events seeps into items tied to the events. Once bound to an item, an item-bound haunt uses all of the normal rules for haunts, with the radius of its effects centered on the haunted object. Some effects may have special triggers based on the item’s nature, such as haunted instruments being played or weapons being used. The haunting presence adds 5 to the break DC for its possessed item, and doubles the item’s hardness and hit points.<br /><br /> Malevolent spirits may similarly haunt creatures rather than items, following the subjects wherever they go and causing strange occurrences and poltergeist-like activity around the subject in revenge for a perceived trespass or involvement in the tragic events that created the haunt. While they sometimes seem beneficial to their hosts at first, such haunts inevitably seek their hosts’ destruction. Individuals possessed by such haunts must always take a standard action to retrieve stored items, unless it would normally take longer. In addition, any item the host drops lands 10 feet away in a random direction. A possessing haunt uses all normal rules for haunts, with the radius of its effects centered on the haunted subject, who takes a –2 penalty on all saving throws against the haunt’s effects. Subject to the GM’s discretion, haunted creatures may suffer tormenting dreams that cause 1 point of drain each day to an ability score appropriate for the haunt.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,278 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Bluff - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Bluff" /><meta name="description" content="The Bluff skill is an extremely versatile, though sometimes misunderstood, social skill. Unlike Diplomacy and Intimidate, which can directly push their target toward a course of action, Bluff feeds the target misinformation. A skilled user of the Bluff skill needs to understand how the target’s mind works, in order to deliver just the right misinformation to achieve the desired results. The disadvantage is that such manipulation is less predictable and more difficult to pull off, but the advantage is that the target is not aware that he is being manipulated, whereas even the most successful Diplomacy or Intimidate attempt leaves the target realizing who has convinced him to take action. This section includes clarifications and details on several different ways to use Bluff—and on several things that don’t work." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=2248" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXOeDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjI0NyI+U2tpbGxzIGluIENvbmZsaWN0PC9hPjwvdT48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTIyNDgiPkJsdWZmPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5ajZwP1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1VbHRpbWF0ZS1JbnRyaWd1ZQ0KIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlVsdGltYXRlIEludHJpZ3VlIHBnLiAxODI8L2k+PC9hPjxiciAvPlRoZSBCbHVmZiBza2lsbCBpcyBhbiBleHRyZW1lbHkgdmVyc2F0aWxlLCB0aG91Z2ggc29tZXRpbWVzIG1pc3VuZGVyc3Rvb2QsIHNvY2lhbCBza2lsbC4gVW5saWtlIERpcGxvbWFjeSBhbmQgSW50aW1pZGF0ZSwgd2hpY2ggY2FuIGRpcmVjdGx5IHB1c2ggdGhlaXIgdGFyZ2V0IHRvd2FyZCBhIGNvdXJzZSBvZiBhY3Rpb24sIEJsdWZmIGZlZWRzIHRoZSB0YXJnZXQgbWlzaW5mb3JtYXRpb24uIEEgc2tpbGxlZCB1c2VyIG9mIHRoZSBCbHVmZiBza2lsbCBuZWVkcyB0byB1bmRlcnN0YW5kIGhvdyB0aGUgdGFyZ2V04oCZcyBtaW5kIHdvcmtzLCBpbiBvcmRlciB0byBkZWxpdmVyIGp1c3QgdGhlIHJpZ2h0IG1pc2luZm9ybWF0aW9uIHRvIGFjaGlldmUgdGhlIGRlc2lyZWQgcmVzdWx0cy4gVGhlIGRpc2FkdmFudGFnZSBpcyB0aGF0IHN1Y2ggbWFuaXB1bGF0aW9uIGlzIGxlc3MgcHJlZGljdGFibGUgYW5kIG1vcmUgZGlmZmljdWx0IHRvIHB1bGwgb2ZmLCBidXQgdGhlIGFkdmFudGFnZSBpcyB0aGF0IHRoZSB0YXJnZXQgaXMgbm90IGF3YXJlIHRoYXQgaGUgaXMgYmVpbmcgbWFuaXB1bGF0ZWQsIHdoZXJlYXMgZXZlbiB0aGUgbW9zdCBzdWNjZXNzZnVsIERpcGxvbWFjeSBvciBJbnRpbWlkYXRlIGF0dGVtcHQgbGVhdmVzIHRoZSB0YXJnZXQgcmVhbGl6aW5nIHdobyBoYXMgY29udmluY2VkIGhpbSB0byB0YWtlIGFjdGlvbi4gVGhpcyBzZWN0aW9uIGluY2x1ZGVzIGNsYXJpZmljYXRpb25zIGFuZCBkZXRhaWxzIG9uIHNldmVyYWwgZGlmZmVyZW50IHdheXMgdG8gdXNlIEJsdWZm4oCUYW5kIG9uIHNldmVyYWwgdGhpbmdzIHRoYXQgZG9u4oCZdCB3b3JrLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjI0OSI+THlpbmc8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTlqNnA/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVVsdGltYXRlLUludHJpZ3VlDQoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+VWx0aW1hdGUgSW50cmlndWUgcGcuIDE4MjwvaT48L2E+PGJyIC8+RGVjZWl2aW5nIHBlb3BsZSBpcyB0aGUgbW9zdCBwcm9taW5lbnQgdXNlIG9mIHRoZSBCbHVmZiBza2lsbCwgbWFraW5nIGl0IG9uZSBvZiB0aGUgdHJpY2tpZXN0IHNraWxscyB0byBhZGp1ZGljYXRlLiA8YnIgLz48YnIgLz48Yj5CbHVmZiBEb2VzbuKAmXQgRGVmaW5lIGEgUmVzcG9uc2U8L2I+OiBFdmVuIHRoZSBtb3N0IHN1Y2Nlc3NmdWwgbGllIHRvbGQgdXNpbmcgQmx1ZmYgZG9lc27igJl0IGRldGVybWluZSB0aGUgY291cnNlIG9mIGFjdGlvbiB0aGUgZGVjZWl2ZWQgcGVyc29uIHRha2Vz4oCUaXQganVzdCBwcmltZXMgdGhlIHRhcmdldCB3aXRoIG1pc2luZm9ybWF0aW9uLiBUaGlzIG1lYW5zIGF0dGVtcHRzIHRvIHRyaWNrIGEgY3JlYXR1cmUgaW50byBhIGNvdXJzZSBvZiBhY3Rpb24gbWlnaHQgbmVlZCB0byBhbHNvIGluY2x1ZGUgRGlwbG9tYWN5IG9yIEludGltaWRhdGUgYWZ0ZXIgdGhlIEJsdWZmIGNoZWNrLiBGb3IgZXhhbXBsZSwgc3VwcG9zZSB0aGVyZSB3YXMgYSBndWFyZCB3aXRoIHRoZSBmb2xsb3dpbmcgb3JkZXJzIGZyb20gdGhlIGd1YXJkIGNhcHRhaW46IOKAnERvbuKAmXQgbGV0IGFueW9uZSBpbnRvIHRoZSByZXN0cmljdGVkIGFyZWEgd2l0aG91dCBjbGVhcmFuY2UgcGFwZXJzLCBldmVuIGlmIGl0IHNlZW1zIHRvIGJlIG1lIG9yIHNvbWVvbmUgb2YgaGlnaGVyIHJhbmsu4oCdIEFmdGVyIHRoaXMsIGEgc25lYWt5IHJvZ3VlIGF0dGVtcHRzIHRoZSBmb2xsb3dpbmcgcnVzZTog4oCcSSBhbSB0aGUga2luZ+KAmXMgZ2VuZXJhbCBvbiBhIG1pc3Npb24gb2YgdXRtb3N0IGltcG9ydGFuY2UgZm9yIG5hdGlvbmFsIHNlY3VyaXR5LiBJIG5lZWQgeW91IHRvIGxldCBtZSBpbiBub3csIG9yIHlvdeKAmXJlIGZpcmVkIeKAnSBBc3N1bWluZyB0aGUgcm9ndWUgc3VjY2VlZHMgYXQgaGVyIEJsdWZmIGNoZWNrLCB0aGUgZ3VhcmQgbm93IGJlbGlldmVzIGhlciB0byBiZSB0aGUgZ2VuZXJhbCwgYnV0IHRoaXMgZG9lc27igJl0IG1lYW4gaGUgd2lsbCBsZXQgaGVyIHRocm91Z2guIEhpcyBvcmRlcnMgc3RpbGwgcmVxdWlyZSBoaW0gdG8ga2VlcCBldmVyeW9uZSBvdXQgd2l0aG91dCBwYXBlcnMuIFRoZSBsYXN0IHBhcnQgb2YgdGhlIHJvZ3Vl4oCZcyBkZW1hbmQgaXMgYW4gYXR0ZW1wdCB0byBJbnRpbWlkYXRlIHRoZSBndWFyZCwgYW5kIHRoZSBzdWNjZXNzZnVsIEJsdWZmIGNoZWNrIHdhcyBhIG5lY2Vzc2FyeSBwcmVyZXF1aXNpdGUgdG8gZXZlbiBhdHRlbXB0IHRoZSBJbnRpbWlkYXRlIGNoZWNrLiA8YnIgLz48YnIgLz48Yj5DaXJjdW1zdGFuY2VzPC9iPjogV2hlbiB1c2luZyBCbHVmZiB0byB0ZWxsIGEgbGllLCB0aGUgPGk+Q29yZSBSdWxlYm9vazwvaT4gdGFibGUgb24gcG9zc2libGUgY2lyY3Vtc3RhbmNlIG1vZGlmaWVycyB0YWtlcyBpbnRvIGFjY291bnQgc2V2ZXJhbCBsZXZlbHMgb2YgcGxhdXNpYmlsaXR5LCB0YXJnZXRzIHdobyB3YW50IHRvIGJlbGlldmUgb3IgYXJlIGltcGFpcmVkLCBhbmQgcG9zc2Vzc2lvbiBvZiBjb252aW5jaW5nIHByb29mLCBidXQgdGhlcmUgYXJlIGFsc28gcGxlbnR5IG9mIG90aGVyIGNpcmN1bXN0YW5jZXMgdGhhdCBtaWdodCBhZmZlY3QgdGhlIHJlc3VsdCBvZiBhIEJsdWZmIGNoZWNrLiBGb3IgaW5zdGFuY2UsIG1hbnkgcGVvcGxlIHN0cm9uZ2x5IGRvbuKAmXQgd2FudCB0byBiZWxpZXZlIGEgYmx1ZmYgdGhhdCB3b3VsZCBsZWFkIHRvIGNvZ25pdGl2ZSBkaXNzb25hbmNlLCBzdWNoIGFzIGF0dGVtcHRpbmcgdG8gY29udmluY2UgYSB0cnVlIGJlbGlldmVyIHRoYXQgdGhlaXIgcmVsaWdpb24gaXMgZmFrZSwgYW5kIHN1Y2ggYSBsaWUgaW1wb3NlcyBhIOKAkzUgcGVuYWx0eSBvbiB0aGUgYXR0ZW1wdCAodGhlIG9wcG9zaXRlIG9mIGEgdGFyZ2V0IHdobyB3YW50cyB0byBiZWxpZXZlIHRoZSBmYWxzZWhvb2QpLiBPbiB0aGUgb3RoZXIgaGFuZCwgYSB0YXJnZXQgd2hvIGlzIGFmcmFpZCB0aGF0IHRoZSBkZWNlaXQgaXMgYWN0dWFsbHkgY29ycmVjdCBtaWdodCBncmFudCBhICsyIGJvbnVzIG9yIG1vcmUgb24gdGhlIHNraWxsIGNoZWNrLCBkZXBlbmRpbmcgb24gdGhlIGxldmVsIG9mIGFueGlldHkgYWJvdXQgdGhlIGZhYnJpY2F0aW9uLiBGb3IgaW5zdGFuY2UsIGEgYmlnb3RlZCBhc3Nhc3NpbiB3aG8gaXMgYWZyYWlkIHRoYXQgaGFsZi1vcmNzIGFyZSBjYW5uaWJhbHMgbWlnaHQgYmUgbW9yZSBsaWtlbHkgdG8gYmVsaWV2ZSBhIGhhbGYtb3Jj4oCZcyBibHVmZiB0aGF0IHNoZSBhdGUgdGhlIHRhcmdldCBoZSB3YXMgc3VwcG9zZWQgdG8ga2lsbC48YnIgLz48YnIgLz4gVGhlcmUgYXJlIGEgdmFyaWV0eSBvZiBvdGhlciBjaXJjdW1zdGFuY2VzLCBhbGwgb2Ygd2hpY2ggbWlnaHQgYWx0ZXIgdGhlIG9kZHMgaW4gZGlmZmVyZW50IGRpcmVjdGlvbnMuIEEgY2hhcmFjdGVyIHdpdGggYSB3aWRlc3ByZWFkIHJlcHV0YXRpb24gb2YgYmVpbmcgYSBjb21wdWxzaXZlIGxpYXIgbWlnaHQgdGFrZSBhIGxhcmdlIHBlbmFsdHkgb24gaGlzIHNraWxsIGNoZWNrLCBidXQgYSBjaGFyYWN0ZXIgd2l0aCBhIHJlcHV0YXRpb24gZm9yIGFsd2F5cyB0ZWxsaW5nIHRoZSB0cnV0aCwgc3VjaCBhcyBhIHBhbGFkaW4sIHdvdWxkIGdhaW4gYSBsYXJnZSBib251cyBvbiBoZXIgc2tpbGwgY2hlY2suIFNpbWlsYXJseSwgYSBob3N0aWxlIGNyZWF0dXJlIGlzIG11Y2ggbGVzcyBsaWtlbHkgdG8gYmVsaWV2ZSBhIGRlY2VwdGlvbiwgd2hlcmVhcyBhIGhlbHBmdWwgY3JlYXR1cmUgaXMgbXVjaCBtb3JlIGxpa2VseSB0byBiZWxpZXZlIG9uZS4gPGJyIC8+PGJyIC8+PGI+VHJpY2tpbmcgU29tZW9uZTwvYj46IEJsdWZmIGNhbiBiZSB1c2VkIHRvIGNsZXZlcmx5IHRyaXAgYSB0YXJnZXQgdXAgYW5kIGdldCBoaW0gdG8gcmV2ZWFsIHNvbWV0aGluZyBvciBtYWtlIGEgbWlzdGFrZS4gSW4gdGhlc2UgY2FzZXMsIGhlIHJlYWxpemVzIGhpcyBtaXN0YWtlIHNvb24gYWZ0ZXIsIGJ1dCBieSB0aGVuIGl0IGlzIHRvbyBsYXRlLCBhbmQgdGhlIGZhbHNlaG9vZCBoYXMgZG9uZSBpdHMgZGFtYWdlLiBUaGlzIGlzIHNpbWlsYXIgdG8gdXNpbmcgQmx1ZmYgdG8gZmVpbnQgb3IgY3JlYXRlIGEgZGlzdHJhY3Rpb24sIGJ1dCBoYXMgYnJvYWRlciBhcHBsaWNhdGlvbnMgaW4gc29jaWFsIHNpdHVhdGlvbnMuIEZvciBpbnN0YW5jZSwgc3VwcG9zZSBhIHN3YXNoYnVja2xlciBzdXNwZWN0ZWQgdGhhdCBhbiBhc3Nhc3NpbiB3b3JrcyBmb3IgdGhlIHF1ZWVuLiBUaGUgc3dhc2hidWNrbGVyIG1pZ2h0IGJlIGFibGUgdG8gdHJpY2sgdGhlIGFzc2Fzc2luIGludG8gcmV2ZWFsaW5nIG1vcmUgaW5mb3JtYXRpb24gYnkgcHJldGVuZGluZyB0byBiZSBhIGZlbGxvdyBhZ2VudCBvZiB0aGUgcXVlZW4gaW4gYW4gYXR0ZW1wdCB0byBnYXVnZSB0aGUgYXNzYXNzaW7igJlzIHJlc3BvbnNlLiBPZiBjb3Vyc2UsIGlmIHRoZSBhc3Nhc3NpbiBkb2VzbuKAmXQgd29yayBmb3IgdGhlIHF1ZWVuIGFuZCBzZWVzIHRocm91Z2ggdGhlIHJ1c2UsIGhlIG1pZ2h0IGF0dGVtcHQgaGlzIG93biBCbHVmZiBjaGVjayB0byBwcmV0ZW5kIHRoYXQgaGUgd29ya3MgZm9yIHRoZSBxdWVlbiBhbmQgZmVsbCBmb3IgdGhlIHRyaWNrLCB0aHVzIGNhdXNpbmcgdGhlIHN3YXNoYnVja2xlciB0byBpbnZlc3RpZ2F0ZSB0aGUgaW5ub2NlbnQgcXVlZW4uIDxiciAvPjxiciAvPjxiPkNvbnNwaXJhdG9ycyBhbmQgdGhlIFNwb2tlc3BlcnNvbjwvYj46IFNvbWV0aW1lcywgYSBncm91cCBvZiBpbmRpdmlkdWFscyBoYXMgYSBzaW5nbGUgc3Bva2VzcGVyc29uIHRlbGwgYSBjb252aW5jaW5nIGxpZSB3aGlsZSB0aGUgb3RoZXJzIGp1c3QgcHJheSB0aGF0IHRoZSB0YXJnZXQgZG9lc27igJl0IG5vdGljZSB0aGVtIGNodWNrbGluZyBpbiB0aGUgYmFja2dyb3VuZCB3aXRoIHRoZWlyIGluYWJpbGl0eSB0byBwdWxsIG9mZiBhIHN1Y2Nlc3NmdWwgYmx1ZmYuIFRob3VnaCB0aGlzIHRhY3RpYyBtaWdodCBzdWNjZWVkIGFnYWluc3QgYSBjb21wbGFjZW50IHRhcmdldCwgYSBjb21wZXRlbnQgdGFyZ2V0IGNvZ25pemFudCBvZiB0aGUgcG9zc2liaWxpdHkgb2YgYmVpbmcgZGVjZWl2ZWQgc2hvdWxkIGF0dGVtcHQgYSBTZW5zZSBNb3RpdmUgY2hlY2sgb3Bwb3NlZCBieSB0aGUgQmx1ZmYgY2hlY2sgb2YgYXQgbGVhc3QgYSBmZXcgb2YgdGhlIG90aGVyIGluZGl2aWR1YWxzLCBwZXJoYXBzIGRpcmVjdGluZyBzcGVjaWZpYyBmb2xsb3ctdXAgcXVlc3Rpb25zIHRoZWlyIHdheSwgb3IgZXZlbiBqdXN0IHRyeSB0byBnZXQgYSBodW5jaCBhYm91dCB0aGUgb3RoZXJzLiA8YnIgLz48YnIgLz48Yj5QbGF1c2liaWxpdHk8L2I+OiBUaGUgPGk+Q29yZSBSdWxlYm9vazwvaT4gbWVudGlvbnMgdGhhdCBzb21lIGxpZXMgYXJlIGltcGxhdXNpYmxlIGVub3VnaCB0aGF0IG5vIG1hdHRlciBob3cgaGlnaCBhIGNoYXJhY3RlcuKAmXMgQmx1ZmYgY2hlY2ssIGEgUEMgY2Fu4oCZdCBjb252aW5jZSBhIHRhcmdldCB0aGF0IHRoZXkgYXJlIHRydWUuIEhvd2V2ZXIsIHRoZSBzYW1lIHBhZ2UgYWxzbyBwcmVzZW50cyBhIHRhYmxlIHRoYXQgc2F5cyB0aGF0IOKAnGltcG9zc2libGXigJ0gbGllcyBpbXBhcnQgYSDigJMyMCBwZW5hbHR5IG9uIHRoZSBza2lsbCBjaGVjay4gVGhpcyB0YWJsZeKAmXMgZW50cnkgbWlnaHQgYWN0dWFsbHkgYmUgYmV0dGVyIGRlc2NyaWJlZCBhcyDigJxwYXJ0aWN1bGFybHkgaW1wbGF1c2libGUu4oCdIEZvciBleGFtcGxlLCBhbiBvbGRlciBodW1hbiB3b21hbiB0ZWxsaW5nIGEgdmVyeSBzaW1pbGFyLWxvb2tpbmcgaHVtYW4gZ2lybCB0aGF0IHNoZSBpcyBoZXJzZWxmIGZyb20gdGhlIGZ1dHVyZSBtaWdodCB0YWtlIHRoZSDigJMyMCBwZW5hbHR5LCB3aGVyZWFzIGEgMTAteWVhci1vbGQgaGFsZi1lbGYgdGVsbGluZyBhIDQwLXllYXItb2xkIG9yYyB0aGUgc2FtZSBsaWUgd291bGQgYXV0b21hdGljYWxseSBmYWlsIHRoZSBCbHVmZiBjaGVjay4gPGJyIC8+PGJyIC8+PGI+RnJlcXVlbmN5IG9mIEJsdWZmIENoZWNrczwvYj46IFdoZW4gYSBQQyBpcyBhdHRlbXB0aW5nIHRvIGNvbiBzb21lb25lIGZvciBhbiBleHRlbmRlZCBwZXJpb2Qgb2YgdGltZSByYXRoZXIgdGhhbiB0ZWxsaW5nIGp1c3Qgb25lIGxpZSwgaG93IG9mdGVuIHNob3VsZCB0aGUgR00gY2FsbCBmb3IgbmV3IEJsdWZmIGNoZWNrcz8gVGhpcyBpcyBpbXBvcnRhbnQsIHNpbmNlIGV2ZXJ5IG5ldyBCbHVmZiBjaGVjayBpcyBhbiBvcHBvcnR1bml0eSBmb3IgdGhlIG9wcG9zaXRpb24gdG8gYXR0ZW1wdCBuZXcgU2Vuc2UgTW90aXZlIGNoZWNrcyBhbmQgdW5jb3ZlciB0aGUgbGllLiBUaGUgZnJlcXVlbmN5IG9mIGNoZWNrcyBjYW4gYmUgaGlnaGx5IHZhcmlhYmxlLCBhbmQgdGhlIEdNIGlzIHRoZSB1bHRpbWF0ZSBhcmJpdGVyLCBidXQgc29tZSBndWlkZWxpbmVzIGNhbiBiZSBoZWxwZnVsLiBSZXF1aXJpbmcgYSBuZXcgY2hlY2sgZm9yIGV2ZXJ5IGluZGl2aWR1YWwgc3RhdGVtZW50IHRoYXQgaXMgYSBsaWUgd291bGQgYm9nIGRvd24gdGhlIGdhbWUuIEluIGdlbmVyYWwsIG9uZSBCbHVmZiBjaGVjayBwZXIgbmV3IHRvcGljIG1ha2VzIHNlbnNlLiBJZiBhIG5ldyBzdGF0ZW1lbnQgaGFzIGRpZmZlcmVudCBjaXJjdW1zdGFuY2VzIChwYXJ0aWN1bGFybHkgaWYgaXQgaXMgbGVzcyBiZWxpZXZhYmxlIHRoYW4gdGhlIHByZXZpb3VzIG9uZXMpLCBpdCBjYWxscyBmb3IgYSBuZXcgQmx1ZmYgY2hlY2suPGJyIC8+PGJyIC8+IEZvciBleGFtcGxlLCBhIGNoYXJhY3RlciBtaWdodCBjbGFpbSB0byBoYXZlIGJlZW4gdG8gYW4gYW5jaWVudCBkdW5nZW9uLiBJZiBoaXMgQmx1ZmYgY2hlY2sgc3VjY2VlZHMsIHRoZSBvcHBvc2l0aW9uIHRha2VzIGl0IGZvciBncmFudGVkIHRoYXQgdGhlIGNoYXJhY3RlciB3ZW50IHRoZXJlLCBhbmQgYmFzaWMgZGV0YWlscyBzdWNoIGFzIHdoZW4gdGhlIGNoYXJhY3RlciB3ZW50IG9yIGhvdyBzaGUgZ290IHRoZXJlIGRvbuKAmXQgcmVxdWlyZSBhIG5ldyBjaGVjay4gSG93ZXZlciwgaWYgc2hlIHNheXMgc2hlIGZvdW5kIGEgZmFtb3VzLCBsb25nLWxvc3QgYXJ0aWZhY3Qgd2l0aGluIHRoZSBkdW5nZW9uIG9yIHRyYXZlbGVkIHRvIHRoZSBkdW5nZW9uIG9uIHRoZSBiYWNrIG9mIGEgcm9jLCBzaGUgd2lsbCBuZWVkIHRvIG1ha2UgYSBuZXcgY2hlY2sgZm9yIHRoZSBuZXcgdG9waWMgb3IgZ3JlYXRlciBleGFnZ2VyYXRpb24uIE1haW50YWluaW5nIGEgZmFjYWRlIG9uY2UgYSBsaWUgaGFzIGJlZW4gZXN0YWJsaXNoZWQgdXN1YWxseSBkb2VzbuKAmXQgcmVxdWlyZSBhIG5ldyBjaGVjay4gSWYgYSBjaGFyYWN0ZXIgaXMgcHJldGVuZGluZyB0byBiZSBhIHRheCBpbnNwZWN0b3IgYW5kIGhhcyBzdWNjZWVkZWQgYXQgdGhlIGluaXRpYWwgYXR0ZW1wdCB0byBCbHVmZiwgaXQgaXNu4oCZdCBuZWNlc3NhcnkgdG8gbWFrZSBoaW0gcm9sbCBhIEJsdWZmIGNoZWNrIGV2ZXJ5IHRpbWUgaGUgc2F5cyBhbnl0aGluZyB0aGF0IGlzIHRydWUgZm9yIGEgdGF4IGluc3BlY3RvciBidXQgYSBsaWUgZm9yIHRoZSByZWFsIGNoYXJhY3Rlci4gPGJyIC8+PGJyIC8+PGI+WW914oCZcmUgTm90IEx5aW5nLCBZb3XigJlyZSBKdXN0IFdyb25nPC9iPjogU29tZXRpbWVzIGEgY2hhcmFjdGVyIGlzIGEgY29udmluY2luZyBlbm91Z2ggbGlhciB0aGF0IHRhcmdldHMgY2Fu4oCZdCB0ZWxsIHRoZSBjaGFyYWN0ZXIgaXMgbHlpbmcsIGV2ZW4gd2hlbiB0aGUgdGFyZ2V0cyBwb3NzZXNzIGluY29udHJvdmVydGlibGUgcHJvb2YgdGhhdCB3aGF0IHRoZSBjaGFyYWN0ZXIgaXMgc2F5aW5nIGlzbuKAmXQgdHJ1ZSwgb3IgdGhlIGxpZSBpcyBvdGhlcndpc2UgdG9vIHVuYmVsaWV2YWJsZSB0byBiZSBwb3NzaWJsZS4gSW4gdGhpcyBjYXNlLCBvbmUgd2F5IHRvIHJlc29sdmUgdGhlIHNpdHVhdGlvbiBpcyBmb3IgdGhlIGJsdWZmaW5nIGNoYXJhY3RlciB0byB0YWtlIGEg4oCTMjAgcGVuYWx0eSBvbiB0aGUgc2tpbGwgY2hlY2ssIGFuZCBpZiBzaGUgYmVhdHMgdGhlIHRhcmdldOKAmXMgU2Vuc2UgTW90aXZlLCB0aGVuIHRoZSB0YXJnZXQgYmVsaWV2ZXMgdGhhdCB0aGUgYmx1ZmZpbmcgY2hhcmFjdGVyIGlzbuKAmXQgbHlpbmcsIGJ1dCBpcyBzaW1wbHkgbWlzdGFrZW4uIFRoaXMgY291bGQgYWxzbyBiZSB0aGUgcmVzdWx0IG9mIG90aGVyIHNpdHVhdGlvbnMgaW4gd2hpY2ggdGhlIHRhcmdldCBvZiB0aGUgQmx1ZmYgYXR0ZW1wdCBoYXMgc3Ryb25nIHJlYXNvbnMgdG8gYmVsaWV2ZSB0aGF0IHRoZSBmYWxzZWhvb2QsIGRlc3BpdGUgYmVpbmcgcGxhdXNpYmxlLCBpc27igJl0IGZhY3R1YWxseSBjb3JyZWN0LiBFdmVuIHRoaXMgcmVzdWx0IGNhbiBiZSB1c2VmdWwgdG8gdGhlIGJsdWZmaW5nIGNoYXJhY3RlciwgYXMgaXQgZG9lc27igJl0IG1hcmsgaGVyIGFzIGEgbGlhciwgYW5kIGl0IGFsbG93cyBoZXIgdG8gZ2F0aGVyIGluZm9ybWF0aW9uIGFib3V0IHdoYXQgaGVyIHRhcmdldCBrbm93cyBhbmQgZXhwZWN0cy4gPGJyIC8+PGJyIC8+PGI+VHJ1ZSBMaWVzIGFuZCBJbXBsYXVzaWJsZSBUcnV0aHM8L2I+OiBCbHVmZiBpcyB0aGUgc2tpbGwgdGhhdCBjb252aW5jZXMgc29tZW9uZSB0aGF0IHNvbWV0aGluZyBpcyB0cnVlLiBIb3dldmVyLCB0aGVyZSBhcmUgYSBmZXcgcG90ZW50aWFsIGNhc2VzIHdoZW4gdGhlIHNpdHVhdGlvbiBpc27igJl0IGFzIHN0cmFpZ2h0Zm9yd2FyZCBhcyBhIGJsdWZmaW5nIGNoYXJhY3RlciB0ZWxsaW5nIGEgbGllIHRvIGEgdGFyZ2V0LiBGb3IgaW5zdGFuY2UsIHN1cHBvc2UgdGhhdCB0aGUgYmx1ZmZpbmcgY2hhcmFjdGVyIG1ha2VzIHVwIGEgYmVsaWV2YWJsZSBsaWUgdG8gdGVsbCB0aGUgdGFyZ2V0LCBhbmQgdGhlIGxpZSB0dXJucyBvdXQgdG8gYmUgdHJ1ZSwgdW5iZWtub3duIHRvIHRoZSBibHVmZmluZyBjaGFyYWN0ZXIuIElmIHRoZSBCbHVmZiBjaGVjayBzdWNjZWVkZWQsIHRoZSB0YXJnZXQgaXMgY29udmluY2VkLCBhbmQgbWlnaHQgbGF0ZXIgdmVyaWZ5IHRoZSB0cnV0aCBhbmQgdHJ1c3QgdGhlIGJsdWZmaW5nIGNoYXJhY3RlciBtb3JlLiBIb3dldmVyLCB3aGF0IGlmIHRoZSBibHVmZmluZyBjaGFyYWN0ZXIgZmFpbHM/IEluIHRoaXMgY2FzZSwgdGhlIHRhcmdldCBjYW4gdGVsbCB0aGF0IHRoZSBibHVmZmluZyBjaGFyYWN0ZXIgaXMgbHlpbmcsIGJ1dCB0aGF0IGRvZXNu4oCZdCBuZWNlc3NhcmlseSBtZWFuIHRoYXQgdGhlIHRhcmdldCBpcyBmb3JjZWQgdG8gY29uY2x1ZGUgdGhhdCB0aGUgaW5mb3JtYXRpb24gaXMgZmFsc2UuIEZvciBpbnN0YW5jZSwgc3VwcG9zZSBhIHBvcHVsYXIga2luZyBoYXMgZmFsbGVuIGludG8gYSBtYWdpY2FsLCB1bmJyZWFrYWJsZSBzbGVlcC4gQSBjaGFybGF0YW4sIG5vdGljaW5nIHRoZSBraW5n4oCZcyBsYWNrIG9mIHB1YmxpYyBhcHBlYXJhbmNlcywgbWFrZXMgdXAgYSBzdG9yeSBhYm91dCB0aGUga2luZyBiZWluZyBwbGFjZWQgdW5kZXIgYSBzbGVlcGluZyBjdXJzZSBhbmQgc3ByZWFkcyBpdCBhcm91bmQgdGhlIHRhdmVybiwgYnV0IGhpcyBCbHVmZiBjaGVjayBpcyB0ZXJyaWJsZSwgYW5kIGV2ZXJ5b25lIGNhbiB0ZWxsIGhl4oCZcyBtYWtpbmcgaXQgdXAuIElmIG9uZSBvZiB0aGUga2luZ+KAmXMgYWR2aXNvcnMgaXMgcHJlc2VudCBpbiB0aGUgdGF2ZXJuLCB0aGlzIGRvZXNu4oCZdCBtZWFuIHRoYXQgdGhlIGFkdmlzb3Igbm93IHRoaW5rcyB0aGUga2luZyBpc27igJl0IGluIGEgY29tYTsgaXQganVzdCBtZWFucyB0aGF0IHNoZSBjYW4gdGVsbCB0aGUgY2hhcmxhdGFuIGRvZXNu4oCZdCBiZWxpZXZlIGhpcyBvd24gc3RvcnkuIFRoZSByZXZlcnNlIHNpZGUgb2YgdHJ1ZSBsaWVzIGlzIGltcGxhdXNpYmxlIHRydXRocy4gVGhlc2UgYXJlIHNpdHVhdGlvbnMgaW4gd2hpY2ggc29tZW9uZSBpcyB0ZWxsaW5nIHRoZSB0cnV0aCAoZWl0aGVyIHNheWluZyBzb21ldGhpbmcgdGhhdCBpcyBhY3R1YWxseSB0cnVlLCBvciBzcHJlYWRpbmcgYSBsaWUgdGhhdCB0aGV5IGJlbGlldmUgdG8gYmUgdHJ1ZSksIGJ1dCB0aGF0IHRydXRoIGlzIGV4dHJlbWVseSBpbXBsYXVzaWJsZSB0byB0aGUgbGlzdGVuZXIuIFRob3VnaCB0aGUgYmx1ZmZpbmcgY2hhcmFjdGVyIGlzbuKAmXQgbHlpbmcsIHRoZSBzYW1lIHNraWxsIHNldCB0aGF0IG1ha2VzIGFuIGV4Y2VsbGVudCBhbmQgY29udmluY2luZyBsaWFyIGNvdWxkIHBvdGVudGlhbGx5IGhlbHAgY2hhcmFjdGVycyBhdHRlbXB0aW5nIHRvIHNwcmVhZCBhbiBpbXBsYXVzaWJsZSB0cnV0aC4gSW4gdGhlc2UgY2FzZXMsIGV2ZW4gaWYgdGhlIHRhcmdldCBzdWNjZWVkcyBhdCB0aGUgU2Vuc2UgTW90aXZlIGNoZWNrLCBoZSBjYW4gdGVsbCB0aGF0IHRoZSBibHVmZmluZyBjaGFyYWN0ZXIgdHJ1bHkgYmVsaWV2ZXMgd2hhdCBzaGUgaXMgc2F5aW5nLCBhbmQgaGUgbWlnaHQgc2ltcGx5IGNvbmNsdWRlIHRoYXQgc2hlIGlzbuKAmXQgbHlpbmcsIGJ1dCBzaW1wbHkgbWlzdGFrZW4uIFRoZSB0YXJnZXQgbWlnaHQgbGF0ZXIgYmUgc3dheWVkIGlmIHByZXNlbnRlZCB3aXRoIGV2aWRlbmNlIG9yIHRocm91Z2ggYSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iUnVsZXMuYXNweD9OYW1lPVZlcmJhbCBEdWVsJkNhdGVnb3J5PU1hc3RlcmluZyBJbnRyaWd1ZSI+dmVyYmFsIGR1ZWw8L2E+LiBJZiBhIGJsdWZmaW5nIGNoYXJhY3RlciBzdWNjZXNzZnVsbHkgY29udmluY2VzIGEgdGFyZ2V0IG9mIGEgbGllIGFuZCB0aGUgdGFyZ2V0IGF0dGVtcHRzIHRvIHNwcmVhZCB0aGF0IGluZm9ybWF0aW9uLCB0aGlzIGxlYWRzIHRvIGEgY2xhc3NpYyBleGFtcGxlIG9mIGFuIGltcGxhdXNpYmxlIHRydXRoLiA8YnIgLz48YnIgLz48Yj5BZnRlcm1hdGg8L2I+OiBXaGlsZSBtb3N0IG9mIHRoZSBCbHVmZiBydWxlcyBmb2N1cyBvbiB0aGUgc2NlbmUgYmV0d2VlbiB0aGUgYmx1ZmZpbmcgY2hhcmFjdGVyIGFuZCB0aGUgdGFyZ2V0LCBpdCBpcyBpbXBvcnRhbnQgdG8gY29uc2lkZXIgd2hhdCBoYXBwZW5zIGFmdGVyd2FyZOKAlCBlc3BlY2lhbGx5IGluIGFuIGludHJpZ3VlLWJhc2VkIGNhbXBhaWduLiBUaG91Z2ggdHJ1ZSBtYXN0ZXJzIG9mIGRlY2VwdGlvbiBtaWdodCBiZSBhYmxlIHRvIHB1bGwgb2ZmIGEgYmx1ZmYgc3VjaCB0aGF0IG5vIG9uZSBpcyBldmVyIHRoZSB3aXNlciwgaW4gdGhlIGNhc2Ugb2YgbW9zdCBzdWNjZXNzZnVsIGJsdWZmcywgdGhlIHRhcmdldHMgZXZlbnR1YWxseSBkaXNjb3ZlciBuZXcgaW5mb3JtYXRpb24gdGhhdCBhbGxvd3MgdGhlbSB0byByZWFsaXplIHRoZSB0cnV0aCBvZiB0aGUgbWF0dGVyLiBJbiB0aGlzIGNhc2UsIHRoZWlyIGF0dGl0dWRlIHRvd2FyZCB0aGUgYmx1ZmZpbmcgY2hhcmFjdGVyIGdlbmVyYWxseSBkZWNyZWFzZXMgYnkgb25lIHN0ZXAgKG9yIHNpbXBseSBiZWNvbWVzIHVuZnJpZW5kbHkpLCBkZXBlbmRpbmcgb24gdGhlIHByZXZpb3VzIGF0dGl0dWRlIGFuZCB0aGUgc2V2ZXJpdHkgb2YgdGhlIGJsdWZmIOKAmXMgY29uc2VxdWVuY2VzLiBGdXJ0aGVybW9yZSwgaWYgdGhlIGJsdWZmaW5nIGNoYXJhY3RlciBhdHRlbXB0cyB0byBsaWUgdG8gc3VjaCBhIHRhcmdldCBhZ2FpbiwgaGVyIEJsdWZmIGNoZWNrIHRha2VzIGEgc2ltaWxhciBwZW5hbHR5IGFzIGlmIHNoZSBoYWQgZmFpbGVkIHRvIGRlY2VpdmUgdGhlIHRhcmdldCAoZWl0aGVyIGEg4oCTMTAgcGVuYWx0eSwgb3IgdGhlIHNraWxsIGNoZWNrIG1pZ2h0IGJlIGltcG9zc2libGUsIGF0IHRoZSBHTeKAmXMgZGlzY3JldGlvbikuIDxiciAvPjxiciAvPjxiPkxpZXMgdXBvbiBMaWVzPC9iPjogVGhlIGFmdGVybWF0aCBvZiBhIEJsdWZmIGJlY29tZXMgZXZlbiBtb3JlIGNvbXBsaWNhdGVkIGlmIHNvbWVvbmUgZWxzZSBhdHRlbXB0cyB0byBtYWtlIGEgY29udHJhZGljdG9yeSBsaWUsIGVpdGhlciBpbiB0aGUgc2FtZSBzY2VuZSBhcyB0aGUgb3JpZ2luYWwgcHJldmFyaWNhdGlvbiBvciBhZnRlcndhcmRzLiBJZiB0aGUgYmx1ZmZpbmcgY2hhcmFjdGVycyBhcmUgcHJlc2VudCB0b2dldGhlciwgaXQgbWlnaHQgYmUgYSBnb29kIHRpbWUgdG8gaGF2ZSB0aGVtIGVudGVyIGEgdmVyYmFsIGR1ZWwsIHdpdGggdGhlIHRhcmdldCBhcyB0aGUgYXVkaWVuY2UuIEhvd2V2ZXIsIHRoaXMgaXNu4oCZdCBwb3NzaWJsZSB3aGVuIHRoZSBzZWNvbmQgQmx1ZmYgYXR0ZW1wdCBoYXBwZW5zIGFmdGVyIHRoZSBmaXJzdCBkZWNlaXZpbmcgY2hhcmFjdGVyIGlzIGdvbmUgYnV0IGJlZm9yZSB0aGUgdGFyZ2V0IGRpc2NvdmVycyB0aGUgcnVzZS4gSW4gdGhpcyBjYXNlLCB0aGUgc2Vjb25kIGJsdWZmaW5nIGNoYXJhY3RlciBoYXMgYW4gYWR2YW50YWdlLiBTaGUgbWlnaHQgYmUgYWJsZSB0byBzaG93IHByb29mIHRoYXQgdGhlIGZpcnN0IGNoYXJhY3RlciB3YXMgbHlpbmcgaW4gb3JkZXIgdG8gYnVpbGQgdXAgdGhlIGNyZWRpYmlsaXR5IG9mIGhlciBvd24gbGllLiBJZiB0aGUgc2Vjb25kIGJsdWZmaW5nIGNoYXJhY3RlciBiZWF0cyB0aGUgdGFyZ2V04oCZcyBTZW5zZSBNb3RpdmUsIGJ1dCBkb2VzIG5vdCBkZWJ1bmsgdGhlIG9yaWdpbmFsIGxpZSBvciBiZWF0IHRoZSBmaXJzdCBibHVmZmluZyBjaGFyYWN0ZXLigJlzIG9yaWdpbmFsIEJsdWZmIGNoZWNrLCB0aGVuIHRoZSB0YXJnZXQgd2lsbCBsaWtlbHkgYmUgY29uZnVzZWQgYW5kIHVubGlrZWx5IHRvIGFjdCBvbiBlaXRoZXIgcGllY2Ugb2YgaW5mb3JtYXRpb24uIE9yLCB0aGUgdGFyZ2V0IG1pZ2h0IGNvbmNsdWRlIHRoYXQgdGhlIHNlY29uZCBibHVmZmVyIGJlbGlldmVzIHdoYXQgc2hlIHNhaWQgYnV0IGlzIG1pc2luZm9ybWVkLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjI1MCI+T3RoZXIgVXNlcyBvZiBCbHVmZjwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWo2cD9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtVWx0aW1hdGUtSW50cmlndWUNCiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5VbHRpbWF0ZSBJbnRyaWd1ZSBwZy4gMTg0PC9pPjwvYT48YnIgLz5JbiBhZGRpdGlvbiB0byBiZWluZyB1c2VkIGZvciBseWluZywgdGhlIEJsdWZmIHNraWxsIGhhcyBzZXZlcmFsIG90aGVyIHVzZXMgZGVmaW5lZCBpbiB0aGUgcnVsZXMuIDxiciAvPjxiciAvPjxiPkNyZWF0aW5nIGEgRGl2ZXJzaW9uPC9iPjogWW91IGNhbiBhdHRlbXB0IGEgQmx1ZmYgY2hlY2sgdG8gY3JlYXRlIGEgZGl2ZXJzaW9uIHRvIGFsbG93IHlvdSB0byB1c2UgU3RlYWx0aCwgZXZlbiBhIG1pc2RpcmVjdGlvbiBhcyBzaW1wbGUgYXMgc2F5aW5nLCDigJxXaGF04oCZcyB0aGF0IGJlaGluZCB5b3U/4oCdIEluIHRoZSA8aT5Db3JlIFJ1bGVib29rPC9pPiwgdGhpcyB1c2FnZSBpcyBvbmx5IG1lbnRpb25lZCBvZmYtaGFuZGVkbHkgaW4gdGhlIFN0ZWFsdGggc2tpbGwgZGVzY3JpcHRpb24sIHdpdGggbm8gcmVmZXJlbmNlIHRvIGl0cyBhY3Rpb24gdHlwZS4gQ3JlYXRpbmcgYSBkaXN0cmFjdGlvbiBpcyBhIHN0YW5kYXJkIGFjdGlvbi4gPGJyIC8+PGJyIC8+PGI+U2VjcmV0IE1lc3NhZ2VzIGFuZCBJbnRyaWd1ZTwvYj46IERvbuKAmXQgdW5kZXJlc3RpbWF0ZSB0aGUgYmVuZWZpdCBvZiB1c2luZyBCbHVmZiB0byBzZW5kIG1lc3NhZ2VzIHRocm91Z2ggaW5udWVuZG8uIFNpbmNlIHRoZSBEQyB0byBzZW5kIGEgbWVzc2FnZSBpcyBzdGF0aWMgKDE1IG9yIDIwIGRlcGVuZGluZyBvbiB0aGUgbWVzc2FnZeKAmXMgY29tcGxleGl0eSksIHlvdSBjYW4gcXVpY2tseSByZWFjaCB0aGUgcG9pbnQgdGhhdCB0aGUgbWVzc2FnZSBpdHNlbGYgaXMgcmVsaWFibGUsIGFuZCB0aHVzIHRoZSBvbmx5IHJpc2sgaXMgYmVpbmcgaW50ZXJjZXB0ZWQsIHdoaWNoIHdvdWxkIGhhdmUgaGFwcGVuZWQgYW55d2F5IGlmIHlvdSBkaWRu4oCZdCBtYWtlIHRoZSBhdHRlbXB0LiA8YnIgLz48YnIgLz48Yj5TdXJwcmlzZTwvYj46IE5vdCBldmVyeSBzdXJwcmlzZSByb3VuZCBiZWdpbnMgd2l0aCBhbiBhbWJ1c2ggZnJvbSB1bnNlZW4gYXNzYWlsYW50cy4gSWYgYSBjaGFyYWN0ZXIgb3Igc2V2ZXJhbCBjaGFyYWN0ZXJzIHVuZXhwZWN0ZWRseSBhdHRhY2sgaW4gdGhlIG1pZHN0IG9mIGEgY29udmVyc2F0aW9uIG9yIG90aGVyIG5vcm1hbCBhY3Rpdml0eSwgdGhlaXIgdmljdGltcyBtaWdodCBiZSBzdXJwcmlzZWQuIFRvIGRldGVybWluZSBpZiBhIHZpY3RpbSBpcyBzdXJwcmlzZWQsIGhlIHNob3VsZCBhdHRlbXB0IGEgU2Vuc2UgTW90aXZlIGNoZWNrIG9wcG9zZWQgYnkgdGhlIGFzc2FpbGFudOKAmXMgQmx1ZmYgY2hlY2sgcmF0aGVyIHRoYW4gYSBQZXJjZXB0aW9uIG9wcG9zZWQgYnkgdGhlIGFzc2FpbGFudOKAmXMgU3RlYWx0aCBjaGVjay4gVGhpcyBpcyBhbHNvIGEgZ29vZCB3YXkgdG8gYWRqdWRpY2F0ZSBzZXZlcmFsIGFiaWxpdGllcywgaW5jbHVkaW5nIHNldmVyYWwgdmlnaWxhbnRlIHRhbGVudHMgdGhhdCB0cmlnZ2VyIHdoZW4gdGhlIHRhcmdldCB0aGlua3MgdGhlIHZpZ2lsYW50ZSBpcyBhbiBhbGx5LiA8YnIgLz48YnIgLz48Yj5NYWludGFpbmluZyBhIERpc2d1aXNlPC9iPjogV2hlbiBtYWludGFpbmluZyBhIGRpc2d1aXNlLCB0aGUgQmx1ZmYgc2tpbGwgaXNu4oCZdCBuZWNlc3NhcnkgdG8gY29ycmVjdGx5IHBvcnRyYXkgdGhpbmdzIHN1Y2ggYXMgbWFubmVyaXNtcyBvciBmYWNpYWwgZXhwcmVzc2lvbnMsIGJ1dCBpdCB3aWxsIGFsbW9zdCBjZXJ0YWlubHkgY29tZSB1cCB3aGVuIHRoZSBkaXNndWlzZWQgY2hhcmFjdGVyIG1ha2VzIHN0YXRlbWVudHMgaW4gaGlzIGFzc3VtZWQgcGVyc29uYSBhcyBoZSB0YWxrcyBhYm91dCBldmVudHMgaGUgZGlkbuKAmXQgYWN0dWFsbHkgZXhwZXJpZW5jZS4gT2YgY291cnNlLCBhIHdlbGwtcHJlcGFyZWQgY2hhcmFjdGVyIGhhcyB0aG9yb3VnaGx5IHJlc2VhcmNoZWQgaGlzIGRpc2d1aXNlLCBzbyBoZSBpcyB1bmxpa2VseSB0byB0YWtlIGFueSBwZW5hbHRpZXMgdG8gaGlzIEJsdWZmIGF0dGVtcHRzLmRkZB5C+sLieQ8cxBGMwFeDwouP0exiISGHisdXZQL/i5GP" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=2247">Skills in Conflict</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=2248">Bluff</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9j6p?Pathfinder-Roleplaying-Game-Ultimate-Intrigue
+" target="_blank" class="external-link"><i>Ultimate Intrigue pg. 182</i></a><br />The Bluff skill is an extremely versatile, though sometimes misunderstood, social skill. Unlike Diplomacy and Intimidate, which can directly push their target toward a course of action, Bluff feeds the target misinformation. A skilled user of the Bluff skill needs to understand how the target’s mind works, in order to deliver just the right misinformation to achieve the desired results. The disadvantage is that such manipulation is less predictable and more difficult to pull off, but the advantage is that the target is not aware that he is being manipulated, whereas even the most successful Diplomacy or Intimidate attempt leaves the target realizing who has convinced him to take action. This section includes clarifications and details on several different ways to use Bluff—and on several things that don’t work.<br /><h1 class="title"><a href="Rules.aspx?ID=2249">Lying</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9j6p?Pathfinder-Roleplaying-Game-Ultimate-Intrigue
+" target="_blank" class="external-link"><i>Ultimate Intrigue pg. 182</i></a><br />Deceiving people is the most prominent use of the Bluff skill, making it one of the trickiest skills to adjudicate. <br /><br /><b>Bluff Doesn’t Define a Response</b>: Even the most successful lie told using Bluff doesn’t determine the course of action the deceived person takes—it just primes the target with misinformation. This means attempts to trick a creature into a course of action might need to also include Diplomacy or Intimidate after the Bluff check. For example, suppose there was a guard with the following orders from the guard captain: “Don’t let anyone into the restricted area without clearance papers, even if it seems to be me or someone of higher rank.” After this, a sneaky rogue attempts the following ruse: “I am the king’s general on a mission of utmost importance for national security. I need you to let me in now, or you’re fired!” Assuming the rogue succeeds at her Bluff check, the guard now believes her to be the general, but this doesn’t mean he will let her through. His orders still require him to keep everyone out without papers. The last part of the rogue’s demand is an attempt to Intimidate the guard, and the successful Bluff check was a necessary prerequisite to even attempt the Intimidate check. <br /><br /><b>Circumstances</b>: When using Bluff to tell a lie, the <i>Core Rulebook</i> table on possible circumstance modifiers takes into account several levels of plausibility, targets who want to believe or are impaired, and possession of convincing proof, but there are also plenty of other circumstances that might affect the result of a Bluff check. For instance, many people strongly don’t want to believe a bluff that would lead to cognitive dissonance, such as attempting to convince a true believer that their religion is fake, and such a lie imposes a –5 penalty on the attempt (the opposite of a target who wants to believe the falsehood). On the other hand, a target who is afraid that the deceit is actually correct might grant a +2 bonus or more on the skill check, depending on the level of anxiety about the fabrication. For instance, a bigoted assassin who is afraid that half-orcs are cannibals might be more likely to believe a half-orc’s bluff that she ate the target he was supposed to kill.<br /><br /> There are a variety of other circumstances, all of which might alter the odds in different directions. A character with a widespread reputation of being a compulsive liar might take a large penalty on his skill check, but a character with a reputation for always telling the truth, such as a paladin, would gain a large bonus on her skill check. Similarly, a hostile creature is much less likely to believe a deception, whereas a helpful creature is much more likely to believe one. <br /><br /><b>Tricking Someone</b>: Bluff can be used to cleverly trip a target up and get him to reveal something or make a mistake. In these cases, he realizes his mistake soon after, but by then it is too late, and the falsehood has done its damage. This is similar to using Bluff to feint or create a distraction, but has broader applications in social situations. For instance, suppose a swashbuckler suspected that an assassin works for the queen. The swashbuckler might be able to trick the assassin into revealing more information by pretending to be a fellow agent of the queen in an attempt to gauge the assassin’s response. Of course, if the assassin doesn’t work for the queen and sees through the ruse, he might attempt his own Bluff check to pretend that he works for the queen and fell for the trick, thus causing the swashbuckler to investigate the innocent queen. <br /><br /><b>Conspirators and the Spokesperson</b>: Sometimes, a group of individuals has a single spokesperson tell a convincing lie while the others just pray that the target doesn’t notice them chuckling in the background with their inability to pull off a successful bluff. Though this tactic might succeed against a complacent target, a competent target cognizant of the possibility of being deceived should attempt a Sense Motive check opposed by the Bluff check of at least a few of the other individuals, perhaps directing specific follow-up questions their way, or even just try to get a hunch about the others. <br /><br /><b>Plausibility</b>: The <i>Core Rulebook</i> mentions that some lies are implausible enough that no matter how high a character’s Bluff check, a PC can’t convince a target that they are true. However, the same page also presents a table that says that “impossible” lies impart a –20 penalty on the skill check. This table’s entry might actually be better described as “particularly implausible.” For example, an older human woman telling a very similar-looking human girl that she is herself from the future might take the –20 penalty, whereas a 10-year-old half-elf telling a 40-year-old orc the same lie would automatically fail the Bluff check. <br /><br /><b>Frequency of Bluff Checks</b>: When a PC is attempting to con someone for an extended period of time rather than telling just one lie, how often should the GM call for new Bluff checks? This is important, since every new Bluff check is an opportunity for the opposition to attempt new Sense Motive checks and uncover the lie. The frequency of checks can be highly variable, and the GM is the ultimate arbiter, but some guidelines can be helpful. Requiring a new check for every individual statement that is a lie would bog down the game. In general, one Bluff check per new topic makes sense. If a new statement has different circumstances (particularly if it is less believable than the previous ones), it calls for a new Bluff check.<br /><br /> For example, a character might claim to have been to an ancient dungeon. If his Bluff check succeeds, the opposition takes it for granted that the character went there, and basic details such as when the character went or how she got there don’t require a new check. However, if she says she found a famous, long-lost artifact within the dungeon or traveled to the dungeon on the back of a roc, she will need to make a new check for the new topic or greater exaggeration. Maintaining a facade once a lie has been established usually doesn’t require a new check. If a character is pretending to be a tax inspector and has succeeded at the initial attempt to Bluff, it isn’t necessary to make him roll a Bluff check every time he says anything that is true for a tax inspector but a lie for the real character. <br /><br /><b>You’re Not Lying, You’re Just Wrong</b>: Sometimes a character is a convincing enough liar that targets can’t tell the character is lying, even when the targets possess incontrovertible proof that what the character is saying isn’t true, or the lie is otherwise too unbelievable to be possible. In this case, one way to resolve the situation is for the bluffing character to take a –20 penalty on the skill check, and if she beats the target’s Sense Motive, then the target believes that the bluffing character isn’t lying, but is simply mistaken. This could also be the result of other situations in which the target of the Bluff attempt has strong reasons to believe that the falsehood, despite being plausible, isn’t factually correct. Even this result can be useful to the bluffing character, as it doesn’t mark her as a liar, and it allows her to gather information about what her target knows and expects. <br /><br /><b>True Lies and Implausible Truths</b>: Bluff is the skill that convinces someone that something is true. However, there are a few potential cases when the situation isn’t as straightforward as a bluffing character telling a lie to a target. For instance, suppose that the bluffing character makes up a believable lie to tell the target, and the lie turns out to be true, unbeknown to the bluffing character. If the Bluff check succeeded, the target is convinced, and might later verify the truth and trust the bluffing character more. However, what if the bluffing character fails? In this case, the target can tell that the bluffing character is lying, but that doesn’t necessarily mean that the target is forced to conclude that the information is false. For instance, suppose a popular king has fallen into a magical, unbreakable sleep. A charlatan, noticing the king’s lack of public appearances, makes up a story about the king being placed under a sleeping curse and spreads it around the tavern, but his Bluff check is terrible, and everyone can tell he’s making it up. If one of the king’s advisors is present in the tavern, this doesn’t mean that the advisor now thinks the king isn’t in a coma; it just means that she can tell the charlatan doesn’t believe his own story. The reverse side of true lies is implausible truths. These are situations in which someone is telling the truth (either saying something that is actually true, or spreading a lie that they believe to be true), but that truth is extremely implausible to the listener. Though the bluffing character isn’t lying, the same skill set that makes an excellent and convincing liar could potentially help characters attempting to spread an implausible truth. In these cases, even if the target succeeds at the Sense Motive check, he can tell that the bluffing character truly believes what she is saying, and he might simply conclude that she isn’t lying, but simply mistaken. The target might later be swayed if presented with evidence or through a <a style="text-decoration:underline" href="Rules.aspx?Name=Verbal Duel&Category=Mastering Intrigue">verbal duel</a>. If a bluffing character successfully convinces a target of a lie and the target attempts to spread that information, this leads to a classic example of an implausible truth. <br /><br /><b>Aftermath</b>: While most of the Bluff rules focus on the scene between the bluffing character and the target, it is important to consider what happens afterward— especially in an intrigue-based campaign. Though true masters of deception might be able to pull off a bluff such that no one is ever the wiser, in the case of most successful bluffs, the targets eventually discover new information that allows them to realize the truth of the matter. In this case, their attitude toward the bluffing character generally decreases by one step (or simply becomes unfriendly), depending on the previous attitude and the severity of the bluff ’s consequences. Furthermore, if the bluffing character attempts to lie to such a target again, her Bluff check takes a similar penalty as if she had failed to deceive the target (either a –10 penalty, or the skill check might be impossible, at the GM’s discretion). <br /><br /><b>Lies upon Lies</b>: The aftermath of a Bluff becomes even more complicated if someone else attempts to make a contradictory lie, either in the same scene as the original prevarication or afterwards. If the bluffing characters are present together, it might be a good time to have them enter a verbal duel, with the target as the audience. However, this isn’t possible when the second Bluff attempt happens after the first deceiving character is gone but before the target discovers the ruse. In this case, the second bluffing character has an advantage. She might be able to show proof that the first character was lying in order to build up the credibility of her own lie. If the second bluffing character beats the target’s Sense Motive, but does not debunk the original lie or beat the first bluffing character’s original Bluff check, then the target will likely be confused and unlikely to act on either piece of information. Or, the target might conclude that the second bluffer believes what she said but is misinformed.<br /><h1 class="title"><a href="Rules.aspx?ID=2250">Other Uses of Bluff</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9j6p?Pathfinder-Roleplaying-Game-Ultimate-Intrigue
+" target="_blank" class="external-link"><i>Ultimate Intrigue pg. 184</i></a><br />In addition to being used for lying, the Bluff skill has several other uses defined in the rules. <br /><br /><b>Creating a Diversion</b>: You can attempt a Bluff check to create a diversion to allow you to use Stealth, even a misdirection as simple as saying, “What’s that behind you?” In the <i>Core Rulebook</i>, this usage is only mentioned off-handedly in the Stealth skill description, with no reference to its action type. Creating a distraction is a standard action. <br /><br /><b>Secret Messages and Intrigue</b>: Don’t underestimate the benefit of using Bluff to send messages through innuendo. Since the DC to send a message is static (15 or 20 depending on the message’s complexity), you can quickly reach the point that the message itself is reliable, and thus the only risk is being intercepted, which would have happened anyway if you didn’t make the attempt. <br /><br /><b>Surprise</b>: Not every surprise round begins with an ambush from unseen assailants. If a character or several characters unexpectedly attack in the midst of a conversation or other normal activity, their victims might be surprised. To determine if a victim is surprised, he should attempt a Sense Motive check opposed by the assailant’s Bluff check rather than a Perception opposed by the assailant’s Stealth check. This is also a good way to adjudicate several abilities, including several vigilante talents that trigger when the target thinks the vigilante is an ally. <br /><br /><b>Maintaining a Disguise</b>: When maintaining a disguise, the Bluff skill isn’t necessary to correctly portray things such as mannerisms or facial expressions, but it will almost certainly come up when the disguised character makes statements in his assumed persona as he talks about events he didn’t actually experience. Of course, a well-prepared character has thoroughly researched his disguise, so he is unlikely to take any penalties to his Bluff attempts.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

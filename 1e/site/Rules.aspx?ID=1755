@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Athletics (Str; Armor Check Penalty) - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Athletics (Str; Armor Check Penalty)" /><meta name="description" content="You are skilled at deeds of physical prowess such as leaping, scaling walls, and swimming. Raw lifting ability uses a Strength check rather than an Athletics check. &lt;br />&lt;br />&lt;b>Functions&lt;/b>: Catch, climb, jump, swim. &lt;br />&lt;br />&lt;b>Core Skills&lt;/b>: Acrobatics ( jumping only), Climb, Swim." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=1755" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWhRjx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTcyNSI+UGF0aGZpbmRlciBVbmNoYWluZWQ8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTc0NSI+Q29uc29saWRhdGVkIFNraWxsczwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNzU1Ij5BdGhsZXRpY3MgKFN0cjsgQXJtb3IgQ2hlY2sgUGVuYWx0eSk8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTljMjU/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVBhdGhmaW5kZXItVW5jaGFpbmVkIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBhdGhmaW5kZXIgVW5jaGFpbmVkIHBnLiA1NjwvaT48L2E+PGJyIC8+WW91IGFyZSBza2lsbGVkIGF0IGRlZWRzIG9mIHBoeXNpY2FsIHByb3dlc3Mgc3VjaCBhcyBsZWFwaW5nLCBzY2FsaW5nIHdhbGxzLCBhbmQgc3dpbW1pbmcuIFJhdyBsaWZ0aW5nIGFiaWxpdHkgdXNlcyBhIFN0cmVuZ3RoIGNoZWNrIHJhdGhlciB0aGFuIGFuIEF0aGxldGljcyBjaGVjay4gPGJyIC8+PGJyIC8+PGI+RnVuY3Rpb25zPC9iPjogQ2F0Y2gsIGNsaW1iLCBqdW1wLCBzd2ltLiA8YnIgLz48YnIgLz48Yj5Db3JlIFNraWxsczwvYj46IEFjcm9iYXRpY3MgKCBqdW1waW5nIG9ubHkpLCBDbGltYiwgU3dpbS48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE3NTYiPkNhdGNoPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5YzI1P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1QYXRoZmluZGVyLVVuY2hhaW5lZCIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QYXRoZmluZGVyIFVuY2hhaW5lZCBwZy4gNTY8L2k+PC9hPjxiciAvPllvdSBjYW4gYXR0ZW1wdCBhbiBBdGhsZXRpY3MgY2hlY2sgdG8gY2F0Y2ggeW91cnNlbGYgd2hpbGUgZmFsbGluZyBhbG9uZyBhIHdhbGwgb3Igc2xvcGUuIFRoZSBEQyBpcyBlcXVhbCB0byB0aGUgd2FsbOKAmXMgY2xpbWIgREMgKyAyMCBvciB0aGUgc2xvcGXigJlzIGNsaW1iIERDICsgMTAgKHNlZSBDbGltYiwgYmVsb3cpLjxiciAvPjxiciAvPiBUbyBjYXRjaCBhbm90aGVyIGNoYXJhY3RlciB0aGF0IGZhbGxzIHdoaWxlIHdpdGhpbiB5b3VyIHJlYWNoLCB5b3UgbXVzdCBzdWNjZWVkIGF0IGEgbWVsZWUgdG91Y2ggYXR0YWNrICh0aGUgdGFyZ2V0IGNhbiBmb3JnbyBoZXIgRGV4dGVyaXR5IGJvbnVzIHRvIEFDKS4gSWYgeW91IGhpdCwgeW91IHRoZW4gYXR0ZW1wdCBhbiBBdGhsZXRpY3MgY2hlY2sgd2l0aCBhIERDIGVxdWFsIHRvIHRoZSB3YWxs4oCZcyBjbGltYiBEQyArIDEwLiBJZiB5b3Ugc3VjY2VlZCwgeW91IGNhdGNoIHRoZSBmYWxsaW5nIGNoYXJhY3RlciwgYnV0IGlmIGhlciB0b3RhbCB3ZWlnaHQgKHdpdGggZXF1aXBtZW50KSBleGNlZWRzIHlvdXIgaGVhdnkgbG9hZCBsaW1pdCwgeW91IGZhbGwuIElmIHlvdSBmYWlsIGJ5IDQgb3IgbGVzcywgeW91IGRvbuKAmXQgc3RvcCB0aGUgY2hhcmFjdGVy4oCZcyBmYWxsIGJ1dCBkb27igJl0IGxvc2UgeW91ciBncmlwLiBJZiB5b3UgZmFpbCBieSA1IG9yIG1vcmUsIHlvdSBmYWlsIHRvIHN0b3AgaGVyIGZhbGwgYW5kIHlvdSBiZWdpbiBmYWxsaW5nIGFzIHdlbGwuIDxiciAvPjxiciAvPjxiPkFjdGlvbjwvYj46IE5vbmUuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNzU3Ij5DbGltYjwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWMyNT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtUGF0aGZpbmRlci1VbmNoYWluZWQiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UGF0aGZpbmRlciBVbmNoYWluZWQgcGcuIDU2PC9pPjwvYT48YnIgLz5Vc2luZyBBdGhsZXRpY3MsIHlvdSBjYW4gYWR2YW5jZSB1cCwgZG93biwgb3IgYWNyb3NzIGEgc2xvcGUsIHdhbGwsIG9yIG90aGVyIHN0ZWVwIGluY2xpbmUgKG9yIGEgY2VpbGluZyBpZiBpdCBoYXMgaGFuZGhvbGRzKS4gWW91IG1vdmUgYXQgb25lLXF1YXJ0ZXIgeW91ciBzcGVlZCwgdGhvdWdoIHlvdSBjYW4gbW92ZSBhdCBoYWxmIHlvdXIgc3BlZWQgaWYgeW91IHRha2UgYSDigJM1IHBlbmFsdHkuIElmIHlvdSBmYWlsIHRoZSBjaGVjayBieSA0IG9yIGxlc3MsIHlvdSBtYWtlIG5vIHByb2dyZXNzLiBJZiB5b3UgZmFpbCBieSA1IG9yIG1vcmUsIHlvdSBmYWxsLiBBIHBlcmZlY3RseSBzbW9vdGggdmVydGljYWwgKG9yIGludmVydGVkKSBzdXJmYWNlIGNhbuKAmXQgYmUgY2xpbWJlZC48YnIgLz48YnIgLz4gWW91IG5lZWQgYm90aCBoYW5kcyBmcmVlIHRvIGNsaW1iLCBidXQgY2FuIGNsaW5nIHdpdGggb25lIGhhbmQgd2hpbGUgdXNpbmcgdGhlIG90aGVyIHRvIGNhc3QgYSBzcGVsbCBvciB0YWtlIHNvbWUgb3RoZXIgYWN0aW9uLiBZb3UgY2Fu4oCZdCB1c2UgYSBzaGllbGQgd2hpbGUgY2xpbWJpbmcuIFlvdSBsb3NlIHlvdXIgRGV4dGVyaXR5IGJvbnVzIHRvIEFDIHdoaWxlIGNsaW1iaW5nLiBJZiB5b3UgdGFrZSBkYW1hZ2Ugd2hpbGUgY2xpbWJpbmcsIHlvdSBtdXN0IHN1Y2NlZWQgYXQgYW4gQXRobGV0aWNzIGNoZWNrIGFnYWluc3QgdGhlIERDIG9mIHRoZSBzdXJmYWNlIG9yIGZhbGwuIDxiciAvPjxiciAvPiA8dGFibGUgY2xhc3M9ImlubmVyIj4gPHRyPjx0ZD48Yj5TdXJmYWNlIG9yIEFjdGl2aXR5PC9iPjwvdGQ+PHRkPjxiPkF0aGxldGljcyBEQzwvYj48L3RkPjwvdHI+IDx0cj48dGQ+U2xvcGUgdG9vIHN0ZWVwIHRvIHdhbGsgdXA8L3RkPjx0ZD4wPC90ZD48L3RyPiA8dHI+PHRkPktub3R0ZWQgcm9wZSB3aXRoIGEgd2FsbCB0byBicmFjZSBhZ2FpbnN0PC90ZD48dGQ+MDwvdGQ+PC90cj4gPHRyPjx0ZD5Lbm90dGVkIHJvcGUgb3Igcm9wZSBhZmZlY3RlZCBieSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9cm9wZSB0cmljayI+PGk+cm9wZSB0cmljazwvaT48L2E+PC90ZD48dGQ+NTwvdGQ+PC90cj4gPHRyPjx0ZD5Sb3BlIHdpdGggYSB3YWxsIHRvIGJyYWNlIGFnYWluc3Q8L3RkPjx0ZD41PC90ZD48L3RyPiA8dHI+PHRkPlN1cmZhY2Ugd2l0aCBsZWRnZXMgdG8gaG9sZCBvbiB0byBvciBzdGFuZCBvbjwvdGQ+PHRkPjEwPC90ZD48L3RyPiA8dHI+PHRkPlB1bGwgeW91cnNlbGYgdXAgd2hlbiBkYW5nbGluZzwvdGQ+PHRkPjE1PC90ZD48L3RyPiA8dHI+PHRkPlN1cmZhY2Ugd2l0aCBoYW5kaG9sZHMgYW5kIGZvb3Rob2xkczwvdGQ+PHRkPjE1PC90ZD48L3RyPiA8dHI+PHRkPlVua25vdHRlZCByb3BlPC90ZD48dGQ+MTU8L3RkPjwvdHI+IDx0cj48dGQ+VW5ldmVuIHN1cmZhY2Ugd2l0aCBoYW5kaG9sZHMgKGR1bmdlb24gd2FsbCk8L3RkPjx0ZD4yMDwvdGQ+PC90cj4gPHRyPjx0ZD5Sb3VnaCBzdXJmYWNlIChuYXR1cmFsIHJvY2sgb3IgYnJpY2sgd2FsbCk8L3RkPjx0ZD4yNTwvdGQ+PC90cj4gPHRyPjx0ZD5PdmVyaGFuZyBvciBjZWlsaW5nIHdpdGggaGFuZGhvbGRzIG9ubHk8L3RkPjx0ZD4zMDwvdGQ+PC90cj4gPC90YWJsZT4gPGJyIC8+PGJyIC8+IDxiPkNsaW1iaW5nIE1vZGlmaWVyczwvYj46IFRoZSBjaXJjdW1zdGFuY2VzIGxpc3RlZCBvbiB0aGUgdGFibGUgbW9kaWZ5IEF0aGxldGljcyBEQ3MuIFRoZXkgc3RhY2sgd2l0aCBlYWNoIG90aGVyLiA8YnIgLz48YnIgLz4gPHRhYmxlIGNsYXNzPSJpbm5lciI+IDx0cj48dGQ+PGI+Q2xpbWJpbmcgQ2lyY3Vtc3RhbmNlPC9iPjwvdGQ+PHRkPjxiPkF0aGxldGljcyBEQyBNb2RpZmllcjwvYj48L3RkPjwvdHI+IDx0cj48dGQ+QnJhY2luZyBhZ2FpbnN0IHR3byBvcHBvc2l0ZSB3YWxscyAoY2hpbW5leSk8L3RkPjx0ZD4tMTA8L3RkPjwvdHI+IDx0cj48dGQ+QnJhY2luZyBhZ2FpbnN0IHBlcnBlbmRpY3VsYXIgd2FsbHMgKGNvcm5lcik8L3RkPjx0ZD4tNTwvdGQ+PC90cj4gPHRyPjx0ZD5TdXJmYWNlIGlzIHNsaXBwZXJ5PC90ZD48dGQ+KzU8L3RkPjwvdHI+IDwvdGFibGU+IDxiciAvPjxiciAvPiA8Yj5BY3Rpb248L2I+OiBOb25lLiBFYWNoIG1vdmUgYWN0aW9uIHlvdSB0YWtlIHJlcXVpcmVzIGEgc2VwYXJhdGUgQXRobGV0aWNzIGNoZWNrLiA8YnIgLz48YnIgLz48Yj5NYWtpbmcgSGFuZGhvbGRzIGFuZCBGb290aG9sZHM8L2I+OiBZb3UgY2FuIHBvdW5kIHBpdG9ucyBpbnRvIGEgd2FsbCB0byBjaGFuZ2UgdGhlIHdhbGzigJlzIGJhc2UgREMgdG8gMTUuIFRoaXMgdGFrZXMgMSBtaW51dGUgcGVyIHBpdG9uLCBhbmQgb25lIHBpdG9uIGlzIG5lZWRlZCBwZXIgNSBmZWV0IG9mIGRpc3RhbmNlLiBZb3UgY2FuIGN1dCB5b3VyIG93biBoYW5kaG9sZHMgaW50byBhbiBpY2Ugd2FsbCBmb3IgdGhlIHNhbWUgcHVycG9zZSBpZiB5b3UgaGF2ZSBhIGhhbmRheGUgb3Igc2ltaWxhciBpbXBsZW1lbnQuIDxiciAvPjxiciAvPjxiPkNsaW1iIFNwZWVkczwvYj46IEEgY3JlYXR1cmUgd2l0aCBhIGNsaW1iIHNwZWVkIGdhaW5zIGEgKzggcmFjaWFsIGJvbnVzIG9uIEF0aGxldGljcyBjaGVja3MgdG8gY2xpbWIuIFNlZSB0aGUgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPUNsaW1iIj5DbGltYiBza2lsbCBwYWdlPC9hPiBmb3IgbW9yZSBpbmZvcm1hdGlvbiBvbiBjbGltYiBzcGVlZHMuIDxiciAvPjxiciAvPjxiPkhhdWxpbmc8L2I+OiBZb3UgY2FuIGhhdWwgYSBjaGFyYWN0ZXIgdXAgb3IgZG93biBvbiBhIHJvcGUgYnkgc2hlZXIgc3RyZW5ndGggc28gdGhhdCBjaGFyYWN0ZXIgZG9lc27igJl0IG5lZWQgdG8gYXR0ZW1wdCBBdGhsZXRpY3MgY2hlY2tzLiBZb3UgY2FuIGxpZnQgZG91YmxlIHlvdXIgbWF4aW11bSBsb2FkIGluIHRoaXMgbWFubmVyLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTc1OCI+SnVtcDwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWMyNT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtUGF0aGZpbmRlci1VbmNoYWluZWQiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UGF0aGZpbmRlciBVbmNoYWluZWQgcGcuIDU3PC9pPjwvYT48YnIgLz5Zb3UgY2FuIG1ha2UganVtcHMgdXNpbmcgQXRobGV0aWNzLiBUaGUgREMgaXMgZXF1YWwgdG8gdGhlIGRpc3RhbmNlIGNyb3NzZWQgKGluIGZlZXQpIGZvciBhIGxvbmcganVtcCBvciBmb3VyIHRpbWVzIHRoZSBoZWlnaHQgdG8gYmUgcmVhY2hlZCAoaW4gZmVldCkgZm9yIGEgaGlnaCBqdW1wLiBJZiB5b3UgZG9u4oCZdCBoYXZlIGEgcnVubmluZyBzdGFydCBvZiBhdCBsZWFzdCAxMCBmZWV0LCBkb3VibGUgdGhlIERDLiBJZiB5b3UgZmFpbCBhbiBBdGhsZXRpY3MgY2hlY2sgdG8ganVtcCBhY3Jvc3MgYSBob3Jpem9udGFsIGdhcCBieSA0IG9yIGxlc3MsIHlvdSBjYW4gYXR0ZW1wdCBhIERDIDIwIFJlZmxleCBzYXZlIHRvIGdyYWIgaG9sZCBvZiB0aGUgb3RoZXIgc2lkZS4gSWYgeW91IGZhaWwgYnkgNSBvciBtb3JlLCB5b3UgZmFsbCAob3IgbGFuZCBwcm9uZSBpZiB5b3Ugd2VyZSBhdHRlbXB0aW5nIGEgaGlnaCBqdW1wKS4gVGhlIERDIGZvciBhIGp1bXAgdXNlcyB0aGUgc2FtZSBtb2RpZmllcnMgYXMgdGhlIERDIG9mIGFuIEFjcm9iYXRpY3MgY2hlY2sgKHNlZSBwYWdlIDU0KSwgZGVwZW5kaW5nIG9uIHRoZSBzdXJmYWNlIGZyb20gd2hpY2ggeW914oCZcmUganVtcGluZy4gRm9yIGV4YW1wbGUsIHRoZSBEQyBmb3IgYSBqdW1wIHRoYXQgYmVnaW5zIG9uIGEgc2FuZHkgc3VyZmFjZSB3b3VsZCBpbmNyZWFzZSBieSAyLiBZb3UgY2Fu4oCZdCBleGNlZWQgeW91ciBtYXhpbXVtIG1vdmVtZW50IGZvciBhIHJvdW5kIGJ5IGp1bXBpbmcuIDxiciAvPjxiciAvPiA8dGFibGUgY2xhc3M9ImlubmVyIj4gPHRyPjx0ZD48Yj5Mb25nIEp1bXA8L2I+PC90ZD48dGQ+PGI+QXRobGV0aWNzIERDPC9iPjwvdGQ+PC90cj4gPHRyPjx0ZD41IGZlZXQ8L3RkPjx0ZD41PC90ZD48L3RyPiA8dHI+PHRkPjEwIGZlZXQ8L3RkPjx0ZD4xMDwvdGQ+PC90cj4gPHRyPjx0ZD4xNSBmZWV0PC90ZD48dGQ+MTU8L3RkPjwvdHI+IDx0cj48dGQ+R3JlYXRlciB0aGFuIDE1IGZlZXQ8L3RkPjx0ZD4rNSBwZXIgNSBmZWV0PC90ZD48L3RyPiA8L3RhYmxlPiA8YnIgLz48YnIgLz4gPHRhYmxlIGNsYXNzPSJpbm5lciI+IDx0cj48dGQ+PGI+SGlnaCBKdW1wPC9iPjwvdGQ+PHRkPjxiPkF0aGxldGljcyBEQzwvYj48L3RkPjwvdHI+IDx0cj48dGQ+MSBmb290PC90ZD48dGQ+NDwvdGQ+PC90cj4gPHRyPjx0ZD4yIGZlZXQ8L3RkPjx0ZD44PC90ZD48L3RyPiA8dHI+PHRkPjMgZmVldDwvdGQ+PHRkPjEyPC90ZD48L3RyPiA8dHI+PHRkPjQgZmVldDwvdGQ+PHRkPjE2PC90ZD48L3RyPiA8dHI+PHRkPkdyZWF0ZXIgdGhhbiA0IGZlZXQ8L3RkPjx0ZD4rNCBwZXIgZm9vdDwvdGQ+PC90cj4gPC90YWJsZT4gPGJyIC8+PGJyIC8+IDxiPkFjdGlvbjwvYj46IE5vbmUuIDxiciAvPjxiciAvPjxiPkFjcm9iYXRpY3M8L2I+OiBZb3UgY2FuIGF0dGVtcHQgdG8gdXNlIEFjcm9iYXRpY3MgaW5zdGVhZCBvZiBBdGhsZXRpY3MgdG8ganVtcCwgYXQgYSDigJM1IHBlbmFsdHkuIDxiciAvPjxiciAvPjxiPlNwZWVkIEJvbnVzPC9iPjogSWYgeW91ciBiYXNlIGxhbmQgc3BlZWQgaXMgNDAgZmVldCBvciBtb3JlLCB5b3UgZ2FpbiBhICs0IHJhY2lhbCBib251cyBvbiBBdGhsZXRpY3MgY2hlY2tzIHRvIGp1bXAgZm9yIGV2ZXJ5IDEwIGZlZXQgYnkgd2hpY2ggeW91ciBiYXNlIGxhbmQgc3BlZWQgZXhjZWVkcyAzMCBmZWV0LiBMaWtld2lzZSwgeW91IHRha2UgYSDigJM0IHJhY2lhbCBwZW5hbHR5IGZvciBldmVyeSAxMCBmZWV0IHlvdXIgc3BlZWQgaXMgYmVsb3cgMzAgZmVldC48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE3NTkiPlN3aW08L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTljMjU/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVBhdGhmaW5kZXItVW5jaGFpbmVkIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBhdGhmaW5kZXIgVW5jaGFpbmVkIHBnLiA1NzwvaT48L2E+PGJyIC8+QSBzdWNjZXNzZnVsIEF0aGxldGljcyBjaGVjayB3aGlsZSB5b3XigJlyZSBpbiB0aGUgd2F0ZXIgYWxsb3dzIHlvdSB0byBzd2ltIGF0IGVpdGhlciBoYWxmIHlvdXIgc3BlZWQgYXMgYSBmdWxsLXJvdW5kIGFjdGlvbiBvciBvbmUtcXVhcnRlciB5b3VyIHNwZWVkIGFzIGEgbW92ZSBhY3Rpb24uIElmIHlvdSBmYWlsIGJ5IDQgb3IgbGVzcywgeW91IG1ha2Ugbm8gcHJvZ3Jlc3MuIElmIHlvdSBmYWlsIGJ5IDUgb3IgbW9yZSwgeW91IGdvIHVuZGVyd2F0ZXIuIEF0dGVtcHQgb25lIEF0aGxldGljcyBjaGVjayB0byBzd2ltIGVhY2ggcm91bmQuIDxiciAvPjxiciAvPiA8dGFibGUgY2xhc3M9ImlubmVyIj4gPHRyPjx0ZD48Yj5XYXRlcjwvYj48L3RkPjx0ZD48Yj5BdGhsZXRpY3MgREM8L2I+PC90ZD48L3RyPiA8dHI+PHRkPkNhbG0gd2F0ZXI8L3RkPjx0ZD4xMDwvdGQ+PC90cj4gPHRyPjx0ZD5Sb3VnaCB3YXRlcjwvdGQ+PHRkPjE1PC90ZD48L3RyPiA8dHI+PHRkPlN0b3JteSB3YXRlcjwvdGQ+PHRkPjIwKjwvdGQ+PC90cj4gPC90YWJsZT4gKiBZb3UgY2Fu4oCZdCB0YWtlIDEwIG9uIGFuIEF0aGxldGljcyBjaGVjayB0byBzd2ltIGluIHN0b3JteSB3YXRlci4gPGJyIC8+PGJyIC8+IDxiPkFjdGlvbjwvYj46IE1vdmUgYWN0aW9uIGF0IG9uZS1xdWFydGVyIHlvdXIgc3BlZWQgb3IgZnVsbC1yb3VuZCBhY3Rpb24gYXQgaGFsZiB5b3VyIHNwZWVkLiA8YnIgLz48YnIgLz48Yj5Ib2xkaW5nIFlvdXIgQnJlYXRoPC9iPjogV2hlbiB5b3XigJlyZSB1bmRlcndhdGVyLCB5b3UgY2FuIGhvbGQgeW91ciBicmVhdGggZm9yIGEgbnVtYmVyIG9mIHJvdW5kcyBlcXVhbCB0byB0d2ljZSB5b3VyIENvbnN0aXR1dGlvbiBzY29yZS4gSWYgeW91IHRha2UgYSBzdGFuZGFyZCBvciBmdWxsLXJvdW5kIGFjdGlvbiwgcmVkdWNlIHRoZSBkdXJhdGlvbiB5b3UgY2FuIGNvbnRpbnVlIHRvIGhvbGQgeW91ciBicmVhdGggYnkgMSByb3VuZC4gQWZ0ZXIgeW91IHJ1biBvdXQgb2Ygcm91bmRzLCB5b3UgbXVzdCBzdWNjZWVkIGF0IGEgREMgMTAgQ29uc3RpdHV0aW9uIGNoZWNrIGVhY2ggcm91bmQgb3IgYmVnaW4gdG8gZHJvd24uIEVhY2ggcm91bmQsIHRoZSBEQyB0byByZXNpc3QgZHJvd25pbmcgaW5jcmVhc2VzIGJ5IDEuIFNlZSB0aGUgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlJ1bGVzLmFzcHg/TmFtZT1Ecm93bmluZyZDYXRlZ29yeT1XYXRlciBEYW5nZXJzIj5Ecm93bmluZzwvYT4gcnVsZXMgZnJvbSB0aGUgPGk+Q29yZSBSdWxlYm9vazwvaT4uIDxiciAvPjxiciAvPjxiPkV4dGVuZGVkIFN3aW1taW5nPC9iPjogRWFjaCBob3VyIHlvdSBzd2ltLCB5b3UgbXVzdCBzdWNjZWVkIGF0IGEgREMgMjAgU3dpbSBjaGVjayBvciB0YWtlIDFkNiBwb2ludHMgb2Ygbm9ubGV0aGFsIGRhbWFnZS4gPGJyIC8+PGJyIC8+PGI+U3dpbSBTcGVlZHM8L2I+OiBBIGNyZWF0dXJlIHdpdGggYSBzd2ltIHNwZWVkIGdhaW5zIGEgKzggcmFjaWFsIGJvbnVzIG9uIEF0aGxldGljcyBjaGVja3MgdG8gc3dpbS4gU2VlIHRoZSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9U3dpbSI+U3dpbTwvYT4gc2tpbGwgZnJvbSB0aGUgPGk+Q29yZSBSdWxlYm9vazwvaT4gZm9yIG1vcmUgaW5mb3JtYXRpb24gb24gc3dpbSBzcGVlZHMuZGRk4Qe96aX8UgKZ4rVz9ZZ7pJBAmQFFuZybJ9ZLNk4r/ho=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1725">Pathfinder Unchained</a></u> / <u><a href="Rules.aspx?ID=1745">Consolidated Skills</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=1755">Athletics (Str; Armor Check Penalty)</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 56</i></a><br />You are skilled at deeds of physical prowess such as leaping, scaling walls, and swimming. Raw lifting ability uses a Strength check rather than an Athletics check. <br /><br /><b>Functions</b>: Catch, climb, jump, swim. <br /><br /><b>Core Skills</b>: Acrobatics ( jumping only), Climb, Swim.<br /><h1 class="title"><a href="Rules.aspx?ID=1756">Catch</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 56</i></a><br />You can attempt an Athletics check to catch yourself while falling along a wall or slope. The DC is equal to the wall’s climb DC + 20 or the slope’s climb DC + 10 (see Climb, below).<br /><br /> To catch another character that falls while within your reach, you must succeed at a melee touch attack (the target can forgo her Dexterity bonus to AC). If you hit, you then attempt an Athletics check with a DC equal to the wall’s climb DC + 10. If you succeed, you catch the falling character, but if her total weight (with equipment) exceeds your heavy load limit, you fall. If you fail by 4 or less, you don’t stop the character’s fall but don’t lose your grip. If you fail by 5 or more, you fail to stop her fall and you begin falling as well. <br /><br /><b>Action</b>: None.<br /><h1 class="title"><a href="Rules.aspx?ID=1757">Climb</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 56</i></a><br />Using Athletics, you can advance up, down, or across a slope, wall, or other steep incline (or a ceiling if it has handholds). You move at one-quarter your speed, though you can move at half your speed if you take a –5 penalty. If you fail the check by 4 or less, you make no progress. If you fail by 5 or more, you fall. A perfectly smooth vertical (or inverted) surface can’t be climbed.<br /><br /> You need both hands free to climb, but can cling with one hand while using the other to cast a spell or take some other action. You can’t use a shield while climbing. You lose your Dexterity bonus to AC while climbing. If you take damage while climbing, you must succeed at an Athletics check against the DC of the surface or fall. <br /><br /> <table class="inner"> <tr><td><b>Surface or Activity</b></td><td><b>Athletics DC</b></td></tr> <tr><td>Slope too steep to walk up</td><td>0</td></tr> <tr><td>Knotted rope with a wall to brace against</td><td>0</td></tr> <tr><td>Knotted rope or rope affected by <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=rope trick"><i>rope trick</i></a></td><td>5</td></tr> <tr><td>Rope with a wall to brace against</td><td>5</td></tr> <tr><td>Surface with ledges to hold on to or stand on</td><td>10</td></tr> <tr><td>Pull yourself up when dangling</td><td>15</td></tr> <tr><td>Surface with handholds and footholds</td><td>15</td></tr> <tr><td>Unknotted rope</td><td>15</td></tr> <tr><td>Uneven surface with handholds (dungeon wall)</td><td>20</td></tr> <tr><td>Rough surface (natural rock or brick wall)</td><td>25</td></tr> <tr><td>Overhang or ceiling with handholds only</td><td>30</td></tr> </table> <br /><br /> <b>Climbing Modifiers</b>: The circumstances listed on the table modify Athletics DCs. They stack with each other. <br /><br /> <table class="inner"> <tr><td><b>Climbing Circumstance</b></td><td><b>Athletics DC Modifier</b></td></tr> <tr><td>Bracing against two opposite walls (chimney)</td><td>-10</td></tr> <tr><td>Bracing against perpendicular walls (corner)</td><td>-5</td></tr> <tr><td>Surface is slippery</td><td>+5</td></tr> </table> <br /><br /> <b>Action</b>: None. Each move action you take requires a separate Athletics check. <br /><br /><b>Making Handholds and Footholds</b>: You can pound pitons into a wall to change the wall’s base DC to 15. This takes 1 minute per piton, and one piton is needed per 5 feet of distance. You can cut your own handholds into an ice wall for the same purpose if you have a handaxe or similar implement. <br /><br /><b>Climb Speeds</b>: A creature with a climb speed gains a +8 racial bonus on Athletics checks to climb. See the <a style="text-decoration:underline" href="Skills.aspx?ItemName=Climb">Climb skill page</a> for more information on climb speeds. <br /><br /><b>Hauling</b>: You can haul a character up or down on a rope by sheer strength so that character doesn’t need to attempt Athletics checks. You can lift double your maximum load in this manner.<br /><h1 class="title"><a href="Rules.aspx?ID=1758">Jump</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 57</i></a><br />You can make jumps using Athletics. The DC is equal to the distance crossed (in feet) for a long jump or four times the height to be reached (in feet) for a high jump. If you don’t have a running start of at least 10 feet, double the DC. If you fail an Athletics check to jump across a horizontal gap by 4 or less, you can attempt a DC 20 Reflex save to grab hold of the other side. If you fail by 5 or more, you fall (or land prone if you were attempting a high jump). The DC for a jump uses the same modifiers as the DC of an Acrobatics check (see page 54), depending on the surface from which you’re jumping. For example, the DC for a jump that begins on a sandy surface would increase by 2. You can’t exceed your maximum movement for a round by jumping. <br /><br /> <table class="inner"> <tr><td><b>Long Jump</b></td><td><b>Athletics DC</b></td></tr> <tr><td>5 feet</td><td>5</td></tr> <tr><td>10 feet</td><td>10</td></tr> <tr><td>15 feet</td><td>15</td></tr> <tr><td>Greater than 15 feet</td><td>+5 per 5 feet</td></tr> </table> <br /><br /> <table class="inner"> <tr><td><b>High Jump</b></td><td><b>Athletics DC</b></td></tr> <tr><td>1 foot</td><td>4</td></tr> <tr><td>2 feet</td><td>8</td></tr> <tr><td>3 feet</td><td>12</td></tr> <tr><td>4 feet</td><td>16</td></tr> <tr><td>Greater than 4 feet</td><td>+4 per foot</td></tr> </table> <br /><br /> <b>Action</b>: None. <br /><br /><b>Acrobatics</b>: You can attempt to use Acrobatics instead of Athletics to jump, at a –5 penalty. <br /><br /><b>Speed Bonus</b>: If your base land speed is 40 feet or more, you gain a +4 racial bonus on Athletics checks to jump for every 10 feet by which your base land speed exceeds 30 feet. Likewise, you take a –4 racial penalty for every 10 feet your speed is below 30 feet.<br /><h1 class="title"><a href="Rules.aspx?ID=1759">Swim</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 57</i></a><br />A successful Athletics check while you’re in the water allows you to swim at either half your speed as a full-round action or one-quarter your speed as a move action. If you fail by 4 or less, you make no progress. If you fail by 5 or more, you go underwater. Attempt one Athletics check to swim each round. <br /><br /> <table class="inner"> <tr><td><b>Water</b></td><td><b>Athletics DC</b></td></tr> <tr><td>Calm water</td><td>10</td></tr> <tr><td>Rough water</td><td>15</td></tr> <tr><td>Stormy water</td><td>20*</td></tr> </table> * You can’t take 10 on an Athletics check to swim in stormy water. <br /><br /> <b>Action</b>: Move action at one-quarter your speed or full-round action at half your speed. <br /><br /><b>Holding Your Breath</b>: When you’re underwater, you can hold your breath for a number of rounds equal to twice your Constitution score. If you take a standard or full-round action, reduce the duration you can continue to hold your breath by 1 round. After you run out of rounds, you must succeed at a DC 10 Constitution check each round or begin to drown. Each round, the DC to resist drowning increases by 1. See the <a style="text-decoration:underline" href="Rules.aspx?Name=Drowning&Category=Water Dangers">Drowning</a> rules from the <i>Core Rulebook</i>. <br /><br /><b>Extended Swimming</b>: Each hour you swim, you must succeed at a DC 20 Swim check or take 1d6 points of nonlethal damage. <br /><br /><b>Swim Speeds</b>: A creature with a swim speed gains a +8 racial bonus on Athletics checks to swim. See the <a style="text-decoration:underline" href="Skills.aspx?ItemName=Swim">Swim</a> skill from the <i>Core Rulebook</i> for more information on swim speeds.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,279 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Relics - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Relics" /><meta name="description" content="This article introduces relics: magic items that grow in power the more they are used in the pursuit of a specific cause. Each relic was once a typical magic item that played a central role in a massively important event, increasing dramatically in potency as it drew power from its shaping of fate. Relics occupy a space somewhere between normal magic items and artifacts. Unlike most magic items, relics can’t be crafted. Unlike artifacts, however, they can be destroyed normally. Eventually, these extra-powerful items are misplaced, forgotten, or ignored, and their power wanes as a result—though it is not entirely lost.&lt;br />&lt;br /> When PCs find a relic, it has only the first set of base abilities listed in its stat block; to unlock a relic’s full powers, its bearer must reawaken its latent energy.&lt;br />&lt;br /> PCs playing in the War for the Crown Adventure Path have the opportunity to discover two relics in each of the first four adventures (each of which is detailed in the following pages), and they can gradually increase the power of their relics by using them to perform bold deeds that help return Taldor to the resplendence of its heyday." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=2523" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWJRDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NzgiPkl0ZW1zPC9hPjwvdT48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTI1MjMiPlJlbGljczwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OXZuMD9QYXRoZmluZGVyLUFkdmVudHVyZS1QYXRoLTEyOC1Tb25nYmlyZC1TY2lvbi1TYWJvdGV1cg0KIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBhdGhmaW5kZXIgIzEyODogU29uZ2JpcmQsIFNjaW9uLCBTYWJvdGV1ciBwZy4gNzc8L2k+PC9hPjxiciAvPlRoaXMgYXJ0aWNsZSBpbnRyb2R1Y2VzIHJlbGljczogbWFnaWMgaXRlbXMgdGhhdCBncm93IGluIHBvd2VyIHRoZSBtb3JlIHRoZXkgYXJlIHVzZWQgaW4gdGhlIHB1cnN1aXQgb2YgYSBzcGVjaWZpYyBjYXVzZS4gRWFjaCByZWxpYyB3YXMgb25jZSBhIHR5cGljYWwgbWFnaWMgaXRlbSB0aGF0IHBsYXllZCBhIGNlbnRyYWwgcm9sZSBpbiBhIG1hc3NpdmVseSBpbXBvcnRhbnQgZXZlbnQsIGluY3JlYXNpbmcgZHJhbWF0aWNhbGx5IGluIHBvdGVuY3kgYXMgaXQgZHJldyBwb3dlciBmcm9tIGl0cyBzaGFwaW5nIG9mIGZhdGUuIFJlbGljcyBvY2N1cHkgYSBzcGFjZSBzb21ld2hlcmUgYmV0d2VlbiBub3JtYWwgbWFnaWMgaXRlbXMgYW5kIGFydGlmYWN0cy4gVW5saWtlIG1vc3QgbWFnaWMgaXRlbXMsIHJlbGljcyBjYW7igJl0IGJlIGNyYWZ0ZWQuIFVubGlrZSBhcnRpZmFjdHMsIGhvd2V2ZXIsIHRoZXkgY2FuIGJlIGRlc3Ryb3llZCBub3JtYWxseS4gRXZlbnR1YWxseSwgdGhlc2UgZXh0cmEtcG93ZXJmdWwgaXRlbXMgYXJlIG1pc3BsYWNlZCwgZm9yZ290dGVuLCBvciBpZ25vcmVkLCBhbmQgdGhlaXIgcG93ZXIgd2FuZXMgYXMgYSByZXN1bHTigJR0aG91Z2ggaXQgaXMgbm90IGVudGlyZWx5IGxvc3QuPGJyIC8+PGJyIC8+IFdoZW4gUENzIGZpbmQgYSByZWxpYywgaXQgaGFzIG9ubHkgdGhlIGZpcnN0IHNldCBvZiBiYXNlIGFiaWxpdGllcyBsaXN0ZWQgaW4gaXRzIHN0YXQgYmxvY2s7IHRvIHVubG9jayBhIHJlbGlj4oCZcyBmdWxsIHBvd2VycywgaXRzIGJlYXJlciBtdXN0IHJlYXdha2VuIGl0cyBsYXRlbnQgZW5lcmd5LjxiciAvPjxiciAvPiBQQ3MgcGxheWluZyBpbiB0aGUgV2FyIGZvciB0aGUgQ3Jvd24gQWR2ZW50dXJlIFBhdGggaGF2ZSB0aGUgb3Bwb3J0dW5pdHkgdG8gZGlzY292ZXIgdHdvIHJlbGljcyBpbiBlYWNoIG9mIHRoZSBmaXJzdCBmb3VyIGFkdmVudHVyZXMgKGVhY2ggb2Ygd2hpY2ggaXMgZGV0YWlsZWQgaW4gdGhlIGZvbGxvd2luZyBwYWdlcyksIGFuZCB0aGV5IGNhbiBncmFkdWFsbHkgaW5jcmVhc2UgdGhlIHBvd2VyIG9mIHRoZWlyIHJlbGljcyBieSB1c2luZyB0aGVtIHRvIHBlcmZvcm0gYm9sZCBkZWVkcyB0aGF0IGhlbHAgcmV0dXJuIFRhbGRvciB0byB0aGUgcmVzcGxlbmRlbmNlIG9mIGl0cyBoZXlkYXkuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0yNTI0Ij5Ucml1bXBoczwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OXZuMD9QYXRoZmluZGVyLUFkdmVudHVyZS1QYXRoLTEyOC1Tb25nYmlyZC1TY2lvbi1TYWJvdGV1cg0KIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBhdGhmaW5kZXIgIzEyODogU29uZ2JpcmQsIFNjaW9uLCBTYWJvdGV1ciBwZy4gNzc8L2k+PC9hPjxiciAvPkFzIHNoZSBhZHZlbnR1cmVzLCB0aGUgd2llbGRlciBvZiBhIHJlbGljIG1pZ2h0IGFjaGlldmUgZ3JlYXQgZGVlZHMsIGNhbGxlZCB0cml1bXBocywgdGllZCB0byB0aGUgaXRlbeKAmXMgYXNzb2NpYXRlZCBjYXVzZSwgd2hpY2ggc2hlIGNhbiBhcHBseSB0byB0aGUgcmVsaWMgdG8gaW5jcmVhc2UgaXRzIHBvd2VyLiBFYWNoIHZvbHVtZSBvZiB0aGUgV2FyIGZvciB0aGUgQ3Jvd24gQWR2ZW50dXJlIFBhdGggaW5kaWNhdGVzIHdoaWNoIGRlZWRzIHF1YWxpZnkgYXMgYSB0cml1bXBoIGZvciB0aGUgcmVsaWNzIG9mIG9sZCBUYWxkb3IuIEVhY2ggUEMgaW52b2x2ZWQgaW4gYWNoaWV2aW5nIGEgdHJpdW1waCBjYW4gYXBwbHkgdGhhdCB0cml1bXBoIHRvIHVwIHRvIG9uZSBvZiBoZXIgY2FycmllZCByZWxpY3MsIHVubG9ja2luZyB0aGUgbmV4dCBzZXQgb2YgYWJpbGl0aWVzIGZvciB0aGF0IGl0ZW0uPGJyIC8+PGJyIC8+IEFuIGluZGl2aWR1YWwgcmVsaWMgY2FuIGF0dGFpbiBvbmx5IHRoZSB0cml1bXBocyBmb3Igd2hpY2ggaXQgaXMgcHJlc2VudCwgc28gaWYgdGhlIFBDcyBhY2hpZXZlZCB0d28gdHJpdW1waHMgYmVmb3JlIGZpbmRpbmcgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlJlbGljcy5hc3B4P0l0ZW1OYW1lPUtvcmlhbmHigJlzIEJsYWRlIj5Lb3JpYW5h4oCZcyBCbGFkZTwvYT4sIHRoZSBzd29yZCB3b3VsZG7igJl0IGdhaW4gdGhlIGJlbmVmaXRzIGxpc3RlZCB1bmRlciBGaXJzdCBUcml1bXBoIHVudGlsIHRoZSBQQ3PigJkgdGhpcmQgdHJpdW1waC4gVG8gYmUgcHJlc2VudCBmb3IgYSB0cml1bXBoLCBhIHJlbGljIG5lZWRzIHRvIGJlIHdvcm4sIGhlbGQsIG9yIGNhcnJpZWQgKGFzIG9wcG9zZWQgdG8gYmVpbmcgc3RvcmVkIGluIGEgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9Ik1hZ2ljV29uZHJvdXNEaXNwbGF5LmFzcHg/RmluYWxOYW1lPUJhZyBvZiBIb2xkaW5nVHlwZSBJIj5iYWcgb2YgaG9sZGluZzwvYT4sIGZvciBpbnN0YW5jZSksIGFuZCB0aGUgUEMgY2FycnlpbmcgaXQgbXVzdCBoYXZlIGJlZW4gaW52b2x2ZWQgaW4gdGhlIHRyaXVtcGggaW4gc29tZSB3YXkuIFNvbWUgdHJpdW1waHMgaW1wcm92ZSBvbiBleGlzdGluZyBhYmlsaXRpZXMsIHN1Y2ggYXMgZ3JhbnRpbmcgbW9yZSB1c2VzIG9mIGFuIGFiaWxpdHkgcGVyIGRheSBvciBpbmNyZWFzaW5nIGEgcmVsaWPigJlzIGVuaGFuY2VtZW50IGJvbnVzIGZyb20gKzEgdG8gKzIuIEFsbCBvdGhlciB0cml1bXBoIGFiaWxpdGllcyBhcmUgY3VtdWxhdGl2ZSB3aXRoIHRoZSBpdGVt4oCZcyBiYXNlIGFiaWxpdGllcyBhbmQgd2l0aCBlYWNoIG90aGVyLiBGb3IgZXhhbXBsZSwgYSByZWxpYyB0aGF0IGhhcyBhdHRhaW5lZCB0d28gdHJpdW1waHMgZ3JhbnRzIGJvdGggaXRzIGZpcnN0LXRyaXVtcGggYW5kIHNlY29uZC10cml1bXBoIGFiaWxpdGllcyBhbG9uZyB3aXRoIGl0cyBiYXNlIGFiaWxpdGllcy48YnIgLz48YnIgLz4gPGI+SW5jcmVhc2luZyBEQ3M8L2I+OiBTb21lIGVmZmVjdHMgaGF2ZSBEQ3MgdGhhdCBpbmNyZWFzZSBhcyB0aGUgcmVsaWMgYXR0YWlucyBtb3JlIHRyaXVtcGhzOyB0aGVzZSBhcmUgaW5kaWNhdGVkIGJ5IGEgbm90ZSBzdWNoIGFzIOKAnERDID0gMTUgKyAxIHBlciBhZGRpdGlvbmFsIHRyaXVtcGggYXR0YWluZWQu4oCdIEFuIGVmZmVjdCB3aXRoIHN1Y2ggYSBEQyBjb3VudHMgbmVpdGhlciB0aGUgdHJpdW1waCB0aGF0IHRoZSBlZmZlY3QgY2FtZSBmcm9tIG5vciBhbnkgcHJldmlvdXMgdHJpdW1waHMuIEZvciBleGFtcGxlLCBpZiBhIHJlbGlj4oCZcyBmaXJzdCB0cml1bXBoIGdyYW50ZWQgYW4gZWZmZWN0IHdpdGggYSBEQyBvZiAxNSArIDEgcGVyIGFkZGl0aW9uYWwgdHJpdW1waCBhdHRhaW5lZCwgdGhhdCBEQyB3b3VsZCBiZSAxNS4gV2hlbiB0aGF0IHJlbGljIGF0dGFpbmVkIGEgc2Vjb25kIHRyaXVtcGgsIHRoZSBEQyB3b3VsZCBpbmNyZWFzZSB0byAxNi48YnIgLz48YnIgLz4gPGI+RmFkaW5nIEdsb3J5PC9iPjogV2hlbiB0aGUgUENzIGRpc2NvdmVyIGEgcmVsaWMsIHRoZSBwb3dlciBvZiB0aGUgaXRlbSBoYXMgZmFkZWQgc2lnbmlmaWNhbnRseSBzaW5jZSBpdCBoYXMgZ29uZSBtYW55IHllYXJzIHdpdGhvdXQgYmVpbmcgdXNlZCBmb3IgaXRzIGNhdXNlLiBJbiBtb3N0IGNhbXBhaWducywgaXTigJlzIHVubGlrZWx5IHRoYXQgZW5vdWdoIHRpbWUgd2lsbCBwYXNzIGZvciB0aGUgZGlzY292ZXJlZCByZWxpY+KAmXMgcG93ZXIgdG8gZmFkZSBhZ2Fpbi4gSG93ZXZlciwgaWYgeWVhcnMgcGFzcyB3aXRob3V0IGEgcmVsaWMgYmVpbmcgdXNlZCBmb3IgaXRzIGNhdXNlLCBpdHMgdHJpdW1waCBhYmlsaXRpZXMgYmVnaW4gdG8gZ28gZG9ybWFudCwgc3RhcnRpbmcgYXQgdGhlIGhpZ2hlc3QgbGV2ZWwgYW5kIGRlc2NlbmRpbmcgZnJvbSB0aGVyZS4gVGhpcyBjYW4gdmFyeSBieSBpdGVtIGFuZCBpcyB1bHRpbWF0ZWx5IGRldGVybWluZWQgYnkgdGhlIEdNLCBidXQgYSBnb29kIGJlbmNobWFyayBpcyBvbmUgdHJpdW1waCBlbnRyeSBsb3N0IHBlciAxZDQgeWVhcnMuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0yNTI1Ij5SZWxpY3MgSW4gWW91ciBPd24gQ2FtcGFpZ248L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTl2bjA/UGF0aGZpbmRlci1BZHZlbnR1cmUtUGF0aC0xMjgtU29uZ2JpcmQtU2Npb24tU2Fib3RldXINCiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QYXRoZmluZGVyICMxMjg6IFNvbmdiaXJkLCBTY2lvbiwgU2Fib3RldXIgcGcuIDc3PC9pPjwvYT48YnIgLz5UbyBpbXBsZW1lbnQgcmVsaWNzIGluIHlvdXIgb3duIGdhbWUsIHlvdSBjYW4gdXNlIHRoZSBUYWxkYW4gaXRlbXMgcHJlc2VudGVkIGhlcmUsIGFkanVzdGluZyB0aGVpciB0aGVtZXMgYW5kIGRldGFpbHMgYXMgbmVjZXNzYXJ5LiBBbHRlcm5hdGl2ZWx5LCB5b3UgY2FuIGFkYXB0IDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJSdWxlcy5hc3B4P05hbWU9U2NhbGluZyBJdGVtcyZDYXRlZ29yeT1QYXRoZmluZGVyIFVuY2hhaW5lZCI+c2NhbGluZyBpdGVtcyBmcm9tIFBhdGhmaW5kZXIgUlBHIFBhdGhmaW5kZXIgVW5jaGFpbmVkPC9hPiBvciBjcmVhdGUgeW91ciBvd24gaXRlbXMgdG8gc3VpdCB5b3VyIG5lZWRzLjxiciAvPjxiciAvPiBZb3XigJlsbCBhbHNvIG5lZWQgdG8gc2V0IHVwIHBvdGVudGlhbCB0cml1bXBocyB0aGUgUENzIGNhbiBhY2hpZXZlIHRvIHVubG9jayB0aGUgcmVsaWNz4oCZIGFiaWxpdGllcy4gVGhlc2UgdHJpdW1waHMgc2hvdWxkIGhhcHBlbiBldmVyeSAyIHRvIDMgY2hhcmFjdGVyIGxldmVscy4gQSB0cml1bXBoIHNob3VsZCBhbHdheXMgYmUgbGlua2VkIHRvIHRoZSBhY2hpZXZlbWVudCBvZiBhIG1ham9yIGdvYWwgd2l0aGluIHRoZSBjYW1wYWlnbuKAmXMgc3RvcnlsaW5lLiBJbmNsdWRlIGxlc3MgZnJlcXVlbnQgdHJpdW1waCBldmVudHMgaWYgdGhlIFBDcyBhcmUgaGlnaGx5IGxpa2VseSB0byBzdWNjZWVkIGF0IGFsbCBvZiB0aGVtLiBJZiB0aGVyZeKAmXMgYSBoaWdoIGNoYW5jZSB0aGUgUENzIHdpbGwgZmFpbCB0byBhY2hpZXZlIGEgcGFydGljdWxhciB0cml1bXBoLCB5b3UgbWlnaHQgaW5jbHVkZSBhbm90aGVyIHRyaXVtcGggZXZlbnQgZmFpcmx5IHNvb24gYWZ0ZXIuIFlvdSBjYW4gYWx3YXlzIGFsdGVyIGZ1dHVyZSB0cml1bXBoIGV2ZW50cyBpZiBpdGVtcyBhcmUgbG9va2luZyBsaWtlIHRoZXnigJlsbCBvdXRwYWNlIHRoZSByYXRlIG9mIG9uZSB0cml1bXBoIGV2ZXJ5IDIgbGV2ZWxzLiBUaGUgdGhlbWUgb2YgdGhlIHJlbGljcyB5b3UgaW5jbHVkZSBzaG91bGQgbWF0Y2ggdGhlIHRoZW1lcyBvZiB0aGUgY2FtcGFpZ24uIFRoaXMgZG9lc27igJl0IG1lYW4gdGhlaXIgbWVjaGFuaWNzIGFuZCBwb3dlcnMgbmVlZCB0byBjb3JyZXNwb25kIGV4YWN0bHksIGJ1dCB0aGUgbW9yZSBoaXN0b3J5IGFuZCBmbGF2b3IsIHRoZSBiZXR0ZXIuPGJyIC8+PGJyIC8+IFJlbGljcyB3b3JrIGJlc3QgaW4gYSBjYW1wYWlnbiB0aGF0IGhhcyBjbGVhciBnb2FscyBhbmQgbWFqb3IgZXZlbnRzLiBUaGVzZSBtaWdodCBiZSBnb2FscyB0aGF0IHlvdeKAmXZlIGJ1aWx0IGludG8gdGhlIGdhbWUsIGJ1dCBpdOKAmXMgYWxzbyBoaWdobHkgc2F0aXNmeWluZyBmb3IgcGxheWVycyB0byBkZWZpbmUgdGhlaXIgb3duIGdvYWxzLiBJZiB5b3UgbWFrZSByZWxpY3MgdGhhdCBhcmUgZGVzaWduZWQgZm9yIGEgcHVycG9zZSB0aGF0IG1hdGNoZXMgdGhlIHB1cnBvc2VzIG9mIG9uZSBvZiB0aGUgY2hhcmFjdGVycywgeW914oCZbGwgc2V0IHVwIGEgc3Ryb25nZXIgYm9uZCBhbmQgdW5pdHkgb2YgcHVycG9zZSBmb3IgdGhhdCBjaGFyYWN0ZXItcmVsaWMgcGFpci48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTI1MjYiPkFkYXB0aW5nIFNjYWxpbmcgSXRlbXM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTl2bjA/UGF0aGZpbmRlci1BZHZlbnR1cmUtUGF0aC0xMjgtU29uZ2JpcmQtU2Npb24tU2Fib3RldXINCiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QYXRoZmluZGVyICMxMjg6IFNvbmdiaXJkLCBTY2lvbiwgU2Fib3RldXIgcGcuIDc4PC9pPjwvYT48YnIgLz5SZWxpY3Mgd29yayBtdWNoIGxpa2UgdGhlIHNjYWxpbmcgaXRlbXMgaW50cm9kdWNlZCBpbiA8aT5QYXRoZmluZGVyIFVuY2hhaW5lZDwvaT4sIHdpdGggdGhlIGV4Y2VwdGlvbnMgdGhhdCB0aGV5IGRvbuKAmXQgY29zdCBhIHNoYXJlIG9mIHlvdXIgdHJlYXN1cmUgYW5kIHRoZXkgc2NhbGUgdXAgZHVlIHRvIHN0b3J5IGV2ZW50cyByYXRoZXIgdGhhbiBhdCBjZXJ0YWluIGxldmVscy4gVGhpcyBtYWtlcyBpdCBlYXN5IHRvIGFkYXB0IHRoZSBzY2FsaW5nIGl0ZW1zIGZyb20gdGhhdCBib29rIHRvIHVzZSBhcyByZWxpY3MsIGVpdGhlciB0byByZXBsYWNlIG9uZXMgbGlzdGVkIGhlcmUgdGhhdCBkb27igJl0IHN1aXQgeW91ciBncm91cCBpbiBXYXIgZm9yIHRoZSBDcm93biBvciB0byB1c2UgaW4gYSBkaWZmZXJlbnQgY2FtcGFpZ24uIERvaW5nIHNvIHJlcXVpcmVzIHRoZSBmb2xsb3dpbmcgYWRqdXN0bWVudHMsIGluIGFkZGl0aW9uIHRvIGFkZGluZyB0aGVtYXRpYyBiYWNrZ3JvdW5kIGVsZW1lbnRzIHRvIHRoZSBpdGVtcyB0byB0aWUgdGhlbSB0byB0aGUgdHJpdW1waHMgb2YgeW91ciBnYW1lLjxiciAvPjxiciAvPiA8Yj5SZW1vdmUgQ29zdCwgUHJpY2UsIGFuZCBTY2FsaW5nIENhdGVnb3J5PC9iPjogQmVjYXVzZSByZWxpY3MgY2Fu4oCZdCBiZSBjcmFmdGVkIGFuZCBhcmVu4oCZdCB0eXBpY2FsbHkgYm91Z2h0IG9yIHNvbGQsIHRoZXkgZG9u4oCZdCBoYXZlIGNvc3Qgb3IgcHJpY2UgZW50cmllcy4gU2ltaWxhcmx5LCB0aGUgc2NhbGluZyBwcm9ncmVzc2lvbiAoYmF1YmxlLCBwcml6ZSwgb3Igd29uZGVyKSBpcyBub3QgdXN1YWxseSByZWxldmFudCBmb3IgcmVsaWNzLiBIb3dldmVyLCB5b3UgbWlnaHQgd2FudCB0byByZXN0cmljdCB5b3Vyc2VsZiB0byBvbmx5IHByaXplcyBhbmQgd29uZGVycyB3aGVuIGNvbnZlcnRpbmcgc2NhbGluZyBpdGVtcywgc2luY2UgYmF1YmxlcyBhcmVu4oCZdCBhcyBpbXByZXNzaXZlIGFzIHJlbGljcyBzaG91bGQgYmUuPGJyIC8+PGJyIC8+IDxiPkRldGVybWluZSBNaW5pbXVtIFBDIExldmVsPC9iPjogU2luY2UgdGhlIGFiaWxpdGllcyBvZiBhIHJlbGljIGFyZW7igJl0IGV4cGxpY2l0bHkgdGllZCB0byBjaGFyYWN0ZXIgbGV2ZWxzLCBpdOKAmXMgaW1wb3J0YW50IHRvIGxpbWl0IFBDc+KAmSBhY2Nlc3MgdG8gcmVsaWNzIHRoYXQgd291bGQgYmUgdG9vIHBvd2VyZnVsIGZvciB0aGVpciBsZXZlbC4gSW4gZ2VuZXJhbCwgUENzIHNob3VsZCBub3QgZ2FpbiBhY2Nlc3MgdG8gYSByZWxpYyB1bnRpbCB0aGVpciBjaGFyYWN0ZXIgbGV2ZWwgaXMgYXQgbW9zdCAyIGxldmVscyBsb3dlciB0aGFuIHRoZSBsb3dlc3QtbGV2ZWwgYWJpbGl0eSBvZiB0aGUgc2NhbGluZyBpdGVtIG9uIHdoaWNoIHRoYXQgcmVsaWMgaXMgYmFzZWQuPGJyIC8+PGJyIC8+IDxiPkNvbWJpbmUgTG93ZXItTGV2ZWwgU2NhbGluZyBBYmlsaXRpZXM8L2I+OiBEZXRlcm1pbmUgd2hhdCBsZXZlbCB0aGUgUENzIHdpbGwgbGlrZWx5IGJlIHdoZW4gdGhleSBhdHRhaW4gdGhlIHJlbGljLiBJZiB0aGlzIGlzIGhpZ2hlciB0aGFuIG9uZSBvciBtb3JlIG9mIHRoZSBpdGVt4oCZcyBzY2FsaW5nIGxldmVscywgY29tYmluZSBhbGwgdGhvc2UgbGV2ZWxz4oCZIGFiaWxpdGllcyBpbnRvIHRoZSBiYXNlIGFiaWxpdGllcyBvZiB0aGUgaXRlbS48YnIgLz48YnIgLz4gPGI+VHVybiBVbmxvY2thYmxlIEFiaWxpdGllcyBpbnRvIFRyaXVtcGggQWJpbGl0aWVzPC9iPjogQW55IHJlbWFpbmluZyB1bmxvY2thYmxlIGFiaWxpdGllcyBjYW4gYmUgdW5sb2NrZWQgYnkgYXR0YWluaW5nIHRyaXVtcGhzIHJhdGhlciB0aGFuIHJlYWNoaW5nIGEgY2VydGFpbiBsZXZlbC4gTG9vayBhdCB5b3VyIHBsYW5zIGZvciB3aGF0IGV2ZW50cyB3aWxsIGNvdW50IGFzIHRyaXVtcGhzLCBiZWNhdXNlIHlvdSBtaWdodCBuZWVkIHRvIGNvbWJpbmUgbXVsdGlwbGUgdW5sb2NrYWJsZSBhYmlsaXRpZXMgaW50byBvbmUuIFRoaXMgY2FuIGhhcHBlbiBpZiB0aGVyZeKAmXMgYSBsb25nIGxldmVsIGdhcCBiZXR3ZWVuIHRyaXVtcGhzIGFuZCB5b3UgbmVlZCB0byBtYWtlIGVhY2ggb25lIHN0cm9uZ2VyIHRvIGNhdGNoIHVwIHdpdGggdGhlIFBDc+KAmSBleHBlY3RlZCBsZXZlbC5kZGTU2RpyH6eUXlUb1MpTZg1myNzBOMjL/NVJpr5Xq3HRYg==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=78">Items</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=2523">Relics</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9vn0?Pathfinder-Adventure-Path-128-Songbird-Scion-Saboteur
+" target="_blank" class="external-link"><i>Pathfinder #128: Songbird, Scion, Saboteur pg. 77</i></a><br />This article introduces relics: magic items that grow in power the more they are used in the pursuit of a specific cause. Each relic was once a typical magic item that played a central role in a massively important event, increasing dramatically in potency as it drew power from its shaping of fate. Relics occupy a space somewhere between normal magic items and artifacts. Unlike most magic items, relics can’t be crafted. Unlike artifacts, however, they can be destroyed normally. Eventually, these extra-powerful items are misplaced, forgotten, or ignored, and their power wanes as a result—though it is not entirely lost.<br /><br /> When PCs find a relic, it has only the first set of base abilities listed in its stat block; to unlock a relic’s full powers, its bearer must reawaken its latent energy.<br /><br /> PCs playing in the War for the Crown Adventure Path have the opportunity to discover two relics in each of the first four adventures (each of which is detailed in the following pages), and they can gradually increase the power of their relics by using them to perform bold deeds that help return Taldor to the resplendence of its heyday.<br /><h1 class="title"><a href="Rules.aspx?ID=2524">Triumphs</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9vn0?Pathfinder-Adventure-Path-128-Songbird-Scion-Saboteur
+" target="_blank" class="external-link"><i>Pathfinder #128: Songbird, Scion, Saboteur pg. 77</i></a><br />As she adventures, the wielder of a relic might achieve great deeds, called triumphs, tied to the item’s associated cause, which she can apply to the relic to increase its power. Each volume of the War for the Crown Adventure Path indicates which deeds qualify as a triumph for the relics of old Taldor. Each PC involved in achieving a triumph can apply that triumph to up to one of her carried relics, unlocking the next set of abilities for that item.<br /><br /> An individual relic can attain only the triumphs for which it is present, so if the PCs achieved two triumphs before finding <a style="text-decoration:underline" href="Relics.aspx?ItemName=Koriana’s Blade">Koriana’s Blade</a>, the sword wouldn’t gain the benefits listed under First Triumph until the PCs’ third triumph. To be present for a triumph, a relic needs to be worn, held, or carried (as opposed to being stored in a <a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Bag of HoldingType I">bag of holding</a>, for instance), and the PC carrying it must have been involved in the triumph in some way. Some triumphs improve on existing abilities, such as granting more uses of an ability per day or increasing a relic’s enhancement bonus from +1 to +2. All other triumph abilities are cumulative with the item’s base abilities and with each other. For example, a relic that has attained two triumphs grants both its first-triumph and second-triumph abilities along with its base abilities.<br /><br /> <b>Increasing DCs</b>: Some effects have DCs that increase as the relic attains more triumphs; these are indicated by a note such as “DC = 15 + 1 per additional triumph attained.” An effect with such a DC counts neither the triumph that the effect came from nor any previous triumphs. For example, if a relic’s first triumph granted an effect with a DC of 15 + 1 per additional triumph attained, that DC would be 15. When that relic attained a second triumph, the DC would increase to 16.<br /><br /> <b>Fading Glory</b>: When the PCs discover a relic, the power of the item has faded significantly since it has gone many years without being used for its cause. In most campaigns, it’s unlikely that enough time will pass for the discovered relic’s power to fade again. However, if years pass without a relic being used for its cause, its triumph abilities begin to go dormant, starting at the highest level and descending from there. This can vary by item and is ultimately determined by the GM, but a good benchmark is one triumph entry lost per 1d4 years.<br /><h1 class="title"><a href="Rules.aspx?ID=2525">Relics In Your Own Campaign</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9vn0?Pathfinder-Adventure-Path-128-Songbird-Scion-Saboteur
+" target="_blank" class="external-link"><i>Pathfinder #128: Songbird, Scion, Saboteur pg. 77</i></a><br />To implement relics in your own game, you can use the Taldan items presented here, adjusting their themes and details as necessary. Alternatively, you can adapt <a style="text-decoration:underline" href="Rules.aspx?Name=Scaling Items&Category=Pathfinder Unchained">scaling items from Pathfinder RPG Pathfinder Unchained</a> or create your own items to suit your needs.<br /><br /> You’ll also need to set up potential triumphs the PCs can achieve to unlock the relics’ abilities. These triumphs should happen every 2 to 3 character levels. A triumph should always be linked to the achievement of a major goal within the campaign’s storyline. Include less frequent triumph events if the PCs are highly likely to succeed at all of them. If there’s a high chance the PCs will fail to achieve a particular triumph, you might include another triumph event fairly soon after. You can always alter future triumph events if items are looking like they’ll outpace the rate of one triumph every 2 levels. The theme of the relics you include should match the themes of the campaign. This doesn’t mean their mechanics and powers need to correspond exactly, but the more history and flavor, the better.<br /><br /> Relics work best in a campaign that has clear goals and major events. These might be goals that you’ve built into the game, but it’s also highly satisfying for players to define their own goals. If you make relics that are designed for a purpose that matches the purposes of one of the characters, you’ll set up a stronger bond and unity of purpose for that character-relic pair.<br /><h1 class="title"><a href="Rules.aspx?ID=2526">Adapting Scaling Items</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9vn0?Pathfinder-Adventure-Path-128-Songbird-Scion-Saboteur
+" target="_blank" class="external-link"><i>Pathfinder #128: Songbird, Scion, Saboteur pg. 78</i></a><br />Relics work much like the scaling items introduced in <i>Pathfinder Unchained</i>, with the exceptions that they don’t cost a share of your treasure and they scale up due to story events rather than at certain levels. This makes it easy to adapt the scaling items from that book to use as relics, either to replace ones listed here that don’t suit your group in War for the Crown or to use in a different campaign. Doing so requires the following adjustments, in addition to adding thematic background elements to the items to tie them to the triumphs of your game.<br /><br /> <b>Remove Cost, Price, and Scaling Category</b>: Because relics can’t be crafted and aren’t typically bought or sold, they don’t have cost or price entries. Similarly, the scaling progression (bauble, prize, or wonder) is not usually relevant for relics. However, you might want to restrict yourself to only prizes and wonders when converting scaling items, since baubles aren’t as impressive as relics should be.<br /><br /> <b>Determine Minimum PC Level</b>: Since the abilities of a relic aren’t explicitly tied to character levels, it’s important to limit PCs’ access to relics that would be too powerful for their level. In general, PCs should not gain access to a relic until their character level is at most 2 levels lower than the lowest-level ability of the scaling item on which that relic is based.<br /><br /> <b>Combine Lower-Level Scaling Abilities</b>: Determine what level the PCs will likely be when they attain the relic. If this is higher than one or more of the item’s scaling levels, combine all those levels’ abilities into the base abilities of the item.<br /><br /> <b>Turn Unlockable Abilities into Triumph Abilities</b>: Any remaining unlockable abilities can be unlocked by attaining triumphs rather than reaching a certain level. Look at your plans for what events will count as triumphs, because you might need to combine multiple unlockable abilities into one. This can happen if there’s a long level gap between triumphs and you need to make each one stronger to catch up with the PCs’ expected level.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

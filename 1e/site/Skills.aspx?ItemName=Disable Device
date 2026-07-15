@@ -1,0 +1,284 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Skills - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    
+    <meta name="keywords" content="Archives, Nethys, Pathfinder, Official, PRD, PFSRD, Skills" /><meta name="description" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Skills.aspx?ItemName=Disable+Device" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNTY3NDMxODU3D2QWAmYPZBYCAgMPZBYCAgEPZBYIAgEPDxYCHgRUZXh0Bb8LPGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9QWNyb2JhdGljcyI+QWNyb2JhdGljczwvYT4gfCA8YSBocmVmPSJTa2lsbHMuYXNweD9JdGVtTmFtZT1BcHByYWlzZSI+QXBwcmFpc2U8L2E+IHwgPGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9Qmx1ZmYiPkJsdWZmPC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPUNsaW1iIj5DbGltYjwvYT4gfCA8YSBocmVmPSJTa2lsbHMuYXNweD9JdGVtTmFtZT1DcmFmdCI+Q3JhZnQ8L2E+IHwgPGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9RGlwbG9tYWN5Ij5EaXBsb21hY3k8L2E+IHwgPGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9RGlzYWJsZSBEZXZpY2UiPkRpc2FibGUgRGV2aWNlPC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPURpc2d1aXNlIj5EaXNndWlzZTwvYT4gfCA8YSBocmVmPSJTa2lsbHMuYXNweD9JdGVtTmFtZT1Fc2NhcGUgQXJ0aXN0Ij5Fc2NhcGUgQXJ0aXN0PC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPUZseSI+Rmx5PC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPUhhbmRsZSBBbmltYWwiPkhhbmRsZSBBbmltYWw8L2E+IHwgPGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9SGVhbCI+SGVhbDwvYT4gfCA8YSBocmVmPSJTa2lsbHMuYXNweD9JdGVtTmFtZT1JbnRpbWlkYXRlIj5JbnRpbWlkYXRlPC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPUtub3dsZWRnZSI+S25vd2xlZGdlPC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPUxpbmd1aXN0aWNzIj5MaW5ndWlzdGljczwvYT4gfCA8YSBocmVmPSJTa2lsbHMuYXNweD9JdGVtTmFtZT1QZXJjZXB0aW9uIj5QZXJjZXB0aW9uPC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPVBlcmZvcm0iPlBlcmZvcm08L2E+IHwgPGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9UHJvZmVzc2lvbiI+UHJvZmVzc2lvbjwvYT4gfCA8YSBocmVmPSJTa2lsbHMuYXNweD9JdGVtTmFtZT1SaWRlIj5SaWRlPC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPVNlbnNlIE1vdGl2ZSI+U2Vuc2UgTW90aXZlPC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPVNsZWlnaHQgb2YgSGFuZCI+U2xlaWdodCBvZiBIYW5kPC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPVNwZWxsY3JhZnQiPlNwZWxsY3JhZnQ8L2E+IHwgPGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9U3RlYWx0aCI+U3RlYWx0aDwvYT4gfCA8YSBocmVmPSJTa2lsbHMuYXNweD9JdGVtTmFtZT1TdXJ2aXZhbCI+U3Vydml2YWw8L2E+IHwgPGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9U3dpbSI+U3dpbTwvYT4gfCA8YSBocmVmPSJTa2lsbHMuYXNweD9JdGVtTmFtZT1Vc2UgTWFnaWMgRGV2aWNlIj5Vc2UgTWFnaWMgRGV2aWNlPC9hPmRkAgUPDxYCHwAF8QE8aDEgY2xhc3M9InRpdGxlIj5Ta2lsbHM8L2gxPlNraWxscyByZXByZXNlbnQgc29tZSBvZiB0aGUgbW9zdCBiYXNpYyBhbmQgeWV0IG1vc3QgZnVuZGFtZW50YWwgYWJpbGl0aWVzIHlvdXIgY2hhcmFjdGVyIHBvc3Nlc3Nlcy4gQXMgeW91ciBjaGFyYWN0ZXIgYWR2YW5jZXMgaW4gbGV2ZWwsIGhlIGNhbiBnYWluIG5ldyBza2lsbHMgYW5kIGltcHJvdmUgaGlzIGV4aXN0aW5nIHNraWxscyBkcmFtYXRpY2FsbHkuPGJyIC8+ZGQCBw88KwAJAQAPFgQeCERhdGFLZXlzFgAeC18hSXRlbUNvdW50AgFkFgJmD2QWAgIBDw8WAh8ABbo6PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9RGlzYWJsZSBEZXZpY2UiPkRpc2FibGUgRGV2aWNlPC9hPiAoRGV4OyBBcm1vciBDaGVjayBQZW5hbHR5OyBUcmFpbmVkIE9ubHkpPC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4OHlqIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBSUEcgQ29yZSBSdWxlYm9vayBwZy4gOTQ8L2k+PC9hPjxiciAvPllvdSBhcmUgc2tpbGxlZCBhdCBkaXNhcm1pbmcgdHJhcHMgYW5kIG9wZW5pbmcgbG9ja3MuIEluIGFkZGl0aW9uLCB0aGlzIHNraWxsIGxldHMgeW91IHNhYm90YWdlIHNpbXBsZSBtZWNoYW5pY2FsIGRldmljZXMsIHN1Y2ggYXMgY2F0YXB1bHRzLCB3YWdvbiB3aGVlbHMsIGFuZCBkb29ycy48YnIgLz48YnIgLz48Yj5DaGVjazwvYj46IFdoZW4gZGlzYXJtaW5nIGEgdHJhcCBvciBvdGhlciBkZXZpY2UsIHRoZSBEaXNhYmxlIERldmljZSBjaGVjayBpcyBtYWRlIHNlY3JldGx5LCBzbyB0aGF0IHlvdSBkb27igJl0IG5lY2Vzc2FyaWx5IGtub3cgd2hldGhlciB5b3XigJl2ZSBzdWNjZWVkZWQuIDxiciAvPjxiciAvPiBUaGUgREMgZGVwZW5kcyBvbiBob3cgdHJpY2t5IHRoZSBkZXZpY2UgaXMuIElmIHRoZSBjaGVjayBzdWNjZWVkcywgeW91IGRpc2FibGUgdGhlIGRldmljZS4gSWYgaXQgZmFpbHMgYnkgNCBvciBsZXNzLCB5b3UgaGF2ZSBmYWlsZWQgYnV0IGNhbiB0cnkgYWdhaW4uIElmIHlvdSBmYWlsIGJ5IDUgb3IgbW9yZSwgc29tZXRoaW5nIGdvZXMgd3JvbmcuIElmIHRoZSBkZXZpY2UgaXMgYSB0cmFwLCB5b3UgdHJpZ2dlciBpdC4gSWYgeW914oCZcmUgYXR0ZW1wdGluZyBzb21lIHNvcnQgb2Ygc2Fib3RhZ2UsIHlvdSB0aGluayB0aGUgZGV2aWNlIGlzIGRpc2FibGVkLCBidXQgaXQgc3RpbGwgd29ya3Mgbm9ybWFsbHkuIDxiciAvPjxiciAvPiBZb3UgYWxzbyBjYW4gcmlnIHNpbXBsZSBkZXZpY2VzIHN1Y2ggYXMgc2FkZGxlcyBvciB3YWdvbiB3aGVlbHMgdG8gd29yayBub3JtYWxseSBmb3IgYSB3aGlsZSBhbmQgdGhlbiBmYWlsIG9yIGZhbGwgb2ZmIHNvbWUgdGltZSBsYXRlciAodXN1YWxseSBhZnRlciAxZDQgcm91bmRzIG9yIG1pbnV0ZXMgb2YgdXNlKS4gPGJyIC8+PGJyIC8+IDx0YWJsZSBjbGFzcz0iaW5uZXIiPiA8dHI+PHRkPjxiPkRldmljZTwvYj48L3RkPjx0ZD48Yj5UaW1lPC9iPjwvdGQ+PHRkPjxiPkRpc2FibGUgRGV2aWNlIERDKjwvYj48L3RkPjx0ZD48Yj5FeGFtcGxlPC9iPjwvdGQ+PC90cj4gPHRyPjx0ZD5TaW1wbGU8L3RkPjx0ZD4xIHJvdW5kPC90ZD48dGQ+MTA8L3RkPjx0ZD5KYW0gYSBsb2NrPC90ZD48L3RyPiA8dHI+PHRkPlRyaWNreTwvdGQ+PHRkPjFkNCByb3VuZHM8L3RkPjx0ZD4xNTwvdGQ+PHRkPlNhYm90YWdlIGEgd2Fnb24gd2hlZWw8L3RkPjwvdHI+IDx0cj48dGQ+RGlmZmljdWx0PC90ZD48dGQ+MmQ0IHJvdW5kczwvdGQ+PHRkPjIwPC90ZD48dGQ+RGlzYXJtIGEgdHJhcCwgcmVzZXQgYSB0cmFwPC90ZD48L3RyPiA8dHI+PHRkPkV4dHJlbWU8L3RkPjx0ZD4yZDQgcm91bmRzPC90ZD48dGQ+MjU8L3RkPjx0ZD5EaXNhcm0gYSBjb21wbGV4IHRyYXAsIGNsZXZlcmx5IHNhYm90YWdlIGEgY2xvY2t3b3JrIGRldmljZTwvdGQ+PC90cj48L3RhYmxlPiA8c3VwPiogSWYgeW91IGF0dGVtcHQgdG8gbGVhdmUgYmVoaW5kIG5vIHRyYWNlIG9mIHlvdXIgdGFtcGVyaW5nLCBhZGQgNSB0byB0aGUgREMuPC9zdXA+IDxiciAvPjxiciAvPjx0YWJsZSBjbGFzcz0iaW5uZXIiPiA8dHI+PHRkPjxiPkxvY2sgUXVhbGl0eTwvYj48L3RkPjx0ZD48Yj5EaXNhYmxlIERldmljZSBEQzwvYj48L3RkPjwvdHI+IDx0cj48dGQ+U2ltcGxlPC90ZD48dGQ+MjA8L3RkPjwvdHI+IDx0cj48dGQ+QXZlcmFnZTwvdGQ+PHRkPjI1PC90ZD48L3RyPiA8dHI+PHRkPkdvb2Q8L3RkPjx0ZD4zMDwvdGQ+PC90cj4gPHRyPjx0ZD5TdXBlcmlvcjwvdGQ+PHRkPjQwPC90ZD48L3RyPjwvdGFibGU+PGJyIC8+IDxpPk9wZW4gTG9ja3M8L2k+OiBUaGUgREMgZm9yIG9wZW5pbmcgYSBsb2NrIGRlcGVuZHMgb24gaXRzIHF1YWxpdHkuIElmIHlvdSBkbyBub3QgaGF2ZSBhIHNldCBvZiB0aGlldmVz4oCZIHRvb2xzLCB0aGVzZSBEQ3MgaW5jcmVhc2UgYnkgMTAuPGJyIC8+PGJyIC8+ICA8Yj5BY3Rpb248L2I+OiBUaGUgYW1vdW50IG9mIHRpbWUgbmVlZGVkIHRvIG1ha2UgYSBEaXNhYmxlIERldmljZSBjaGVjayBkZXBlbmRzIG9uIHRoZSB0YXNrLCBhcyBub3RlZCBhYm92ZS4gRGlzYWJsaW5nIGEgc2ltcGxlIGRldmljZSB0YWtlcyAxIHJvdW5kIGFuZCBpcyBhIGZ1bGwtcm91bmQgYWN0aW9uLiBBIHRyaWNreSBvciBkaWZmaWN1bHQgZGV2aWNlIHJlcXVpcmVzIDFkNCBvciAyZDQgcm91bmRzLiBBdHRlbXB0aW5nIHRvIG9wZW4gYSBsb2NrIGlzIGEgZnVsbC1yb3VuZCBhY3Rpb24uPGJyIC8+PGJyIC8+ICA8Yj5UcnkgQWdhaW48L2I+OiBWYXJpZXMuIFlvdSBjYW4gcmV0cnkgY2hlY2tzIG1hZGUgdG8gZGlzYWJsZSB0cmFwcyBpZiB5b3UgbWlzcyB0aGUgY2hlY2sgYnkgNCBvciBsZXNzLiBZb3UgY2FuIHJldHJ5IGNoZWNrcyBtYWRlIHRvIG9wZW4gbG9ja3MuPGJyIC8+PGJyIC8+ICA8Yj5TcGVjaWFsPC9iPjogSWYgeW91IGhhdmUgdGhlIERlZnQgSGFuZHMgZmVhdCwgeW91IGdldCBhIGJvbnVzIG9uIERpc2FibGUgRGV2aWNlIGNoZWNrcyAoc2VlIEZlYXRzKS4gPGJyIC8+PGJyIC8+IEEgcm9ndWUgd2hvIGJlYXRzIGEgdHJhcOKAmXMgREMgYnkgMTAgb3IgbW9yZSBjYW4gc3R1ZHkgdGhlIHRyYXAsIGZpZ3VyZSBvdXQgaG93IGl0IHdvcmtzLCBhbmQgYnlwYXNzIGl0IHdpdGhvdXQgZGlzYXJtaW5nIGl0LiBBIHJvZ3VlIGNhbiByaWcgYSB0cmFwIHNvIGhlciBhbGxpZXMgY2FuIGJ5cGFzcyBpdCBhcyB3ZWxsLiAgPGJyIC8+PGJyIC8+PGI+UmVzdHJpY3Rpb248L2I+OiBDaGFyYWN0ZXJzIHdpdGggdGhlIHRyYXBmaW5kaW5nIGFiaWxpdHkgKGxpa2Ugcm9ndWVzKSBjYW4gZGlzYXJtIG1hZ2ljIHRyYXBzLiBBIG1hZ2ljIHRyYXAgZ2VuZXJhbGx5IGhhcyBhIERDIG9mIDI1ICsgdGhlIGxldmVsIG9mIHRoZSBzcGVsbCB1c2VkIHRvIGNyZWF0ZSBpdC4gIDxiciAvPjxiciAvPlRoZSBzcGVsbHMgPGk+ZmlyZSB0cmFwPC9pPiwgPGk+Z2x5cGggb2Ygd2FyZGluZzwvaT4sIDxpPnN5bWJvbDwvaT4sIGFuZCA8aT50ZWxlcG9ydGF0aW9uIGNpcmNsZTwvaT4gYWxzbyBjcmVhdGUgdHJhcHMgdGhhdCBhIHJvZ3VlIGNhbiBkaXNhcm0gd2l0aCBhIHN1Y2Nlc3NmdWwgRGlzYWJsZSBEZXZpY2UgY2hlY2suIDxpPlNwaWtlIGdyb3d0aDwvaT4gYW5kIDxpPnNwaWtlIHN0b25lczwvaT4sIGhvd2V2ZXIsIGNyZWF0ZSBtYWdpYyBoYXphcmRzIGFnYWluc3Qgd2hpY2ggRGlzYWJsZSBEZXZpY2UgY2hlY2tzIGRvIG5vdCBzdWNjZWVkLiBTZWUgdGhlIGluZGl2aWR1YWwgc3BlbGwgZGVzY3JpcHRpb25zIGZvciBkZXRhaWxzLjxoMiBjbGFzcz0idGl0bGUiPlRlY2hub2xvZ3k8L2gyPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OTVkMj9QYXRoZmluZGVyLUNhbXBhaWduLVNldHRpbmctVGVjaG5vbG9neS1HdWlkZSIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5UZWNobm9sb2d5IEd1aWRlIHBnLiA1PC9pPjwvYT48YnIgLz5XaXRoIHRoZSBUZWNobm9sb2dpc3QgZmVhdCwgeW91IGNhbiB1c2UgRGlzYWJsZSBEZXZpY2UgdG8gYXJtIG9yIGRpc2FybSBoaWdoLXRlY2ggZXhwbG9zaXZlcyBvciBkaXNhYmxlIGVsZWN0cm9uaWMgdHJpZ2dlcnMgb3IgbG9ja3MuIFRoZSBUZWNobm9sb2dpc3QgZmVhdCBpcyBub3QgcmVxdWlyZWQgdG8gZGlzYWJsZSBhIGhpZ2gtdGVjaCB0cmFwIG9yIG9iamVjdCwgYnV0IHN1Y2ggdHJhcHMgYW5kIG9iamVjdHMgb2Z0ZW4gaGF2ZSBzaWduaWZpY2FudGx5IGhpZ2hlciBEQ3MgdG8gZGlzYWJsZSB0aGFuIGxvdy10ZWNoIHZlcnNpb25zIG9mIGEgc2ltaWxhciBkZXZpY2Ugd291bGQgaGF2ZS4gPGJyIC8+PGJyIC8+IDxpPkFybSBFeHBsb3NpdmU8L2k+OiBJZiB5b3UgcG9zc2VzcyBhIGRldG9uYXRvciwgeW91IGNhbiBhcm0gYW4gZXhwbG9zaXZlIHdlYXBvbiBhcyBhIHRyYXAuIENvbm5lY3RpbmcgYSBkZXRvbmF0b3IgdG8gYW4gZXhwbG9zaXZlIHJlcXVpcmVzIGEgc3VjY2Vzc2Z1bCBEQyAxMCBEaXNhYmxlIERldmljZSBjaGVjay4gRmFpbHVyZSBtZWFucyB0aGF0IHRoZSBhdHRlbXB0IGZhaWxzLCBidXQgeW91IGNhbiBhdHRlbXB0IHRvIGFybSB0aGUgZXhwbG9zaXZlIGFnYWluLiBGYWlsdXJlIGJ5IDUgb3IgbW9yZSBtZWFucyB0aGUgZXhwbG9zaXZlIGlzIHRyaWdnZXJlZCBhcyB0aGUgZGV0b25hdG9yIGlzIGluc3RhbGxlZC4gWW91IGNhbiBhdHRlbXB0IHRvIG1ha2UgYW4gZXhwbG9zaXZlIGRpZmZpY3VsdCB0byBkaXNhcm0uIFRvIGRvIHNvLCBjaG9vc2UgYSB0YXJnZXQgZGlzYXJtIERDIG9mIDE1IG9yIGhpZ2hlciwgd2l0aCBhIERDIGluY3JlbWVudCBvZiA1LiBUaGlzIGJlY29tZXMgeW91ciB0YXJnZXQgREMgdG8gc2V0IHRoZSBleHBsb3NpdmUgYXMgd2VsbCBhcyB0aGUgREMgdG8gZGlzYXJtIHRoZSBleHBsb3NpdmUuIDxiciAvPjxiciAvPiA8aT5EaXNhYmxlIEVsZWN0cm9uaWMgTG9jayBvciBUcmlnZ2VyPC9pPjogRGlzYWJsaW5nIGFuIGVsZWN0cm9uaWMgbG9jayBvbiBhIGRvb3Igb3IgYW4gZWxlY3Ryb25pYyB0cmlnZ2VyIGZvciBhIHRyYXAgKG5vdCB0aGUgdHJhcCBpdHNlbGYpIGlzIGVhc2llciBpZiB5b3UgdXNlIGFuIGUtcGlja+KAlHdpdGhvdXQgYW4gZS1waWNrLCB5b3UgdGFrZSBhIC01IHBlbmFsdHkgb24gc3VjaCBjaGVja3MuIDxiciAvPjxiciAvPiA8aT5EaXNhcm0gRXhwbG9zaXZlPC9pPjogRGlzYXJtaW5nIGFuIGV4cGxvc2l2ZSByZXF1aXJlcyB0aGUgY2hhcmFjdGVyIHRvIHN1Y2NlZWQgYXQgYSBEaXNhYmxlIERldmljZSBjaGVjayBhcyBpZiBkaXNhcm1pbmcgYSB0cmFwLiBUaGUgREMgaXMgdXN1YWxseSAxMCwgdW5sZXNzIHRoZSBwZXJzb24gd2hvIHNldCB0aGUgZXhwbG9zaXZlIHN1Y2Nlc3NmdWxseSBkaWQgc28gd2l0aCBhIGhpZ2hlciBkaXNhcm0gREMuIEEgZmFpbHVyZSB0byBkaXNhcm0gYW4gZXhwbG9zaXZlIGJ5IDUgb3IgbW9yZSBpbW1lZGlhdGVseSB0cmlnZ2VycyB0aGUgZXhwbG9zaXZlLiA8YnIgLz48YnIgLz4gPGI+U3BlY2lhbDwvYj46IEEgY2hhcmFjdGVyIGNhbiB0YWtlIDEwIHdoZW4gdXNpbmcgRGlzYWJsZSBEZXZpY2UgdG8gYXJtIG9yIGRpc2FybSBleHBsb3NpdmVzLCBidXQgY2Fubm90IHRha2UgMjAuIDxiciAvPjxiciAvPiA8Yj5UaW1lPC9iPjogQXJtaW5nIGFuIGV4cGxvc2l2ZSBkZXZpY2UgdGFrZXMgMSBtaW51dGUgb3IgbW9yZSwgZGVwZW5kaW5nIG9uIHRoZSBzY29wZSBvZiB0aGUgam9iLiBEaXNhcm1pbmcgYW4gZXhwbG9zaXZlIGlzIHRyZWF0ZWQgYXMgaWYgdGhlIGV4cGxvc2l2ZSB3ZXJlIGEgY29tcGxleCB0cmFwLCBhbmQgdGFrZXMgMmQ0IHJvdW5kcyB0byBhdHRlbXB0LjxoMiBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlNraWxsVW5sb2Nrcy5hc3B4Ij48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sTi5naWYiIHRpdGxlPSJUaGUgc2tpbGwgdW5sb2NrcyBhbmQgU2lnbmF0dXJlIFNraWxsIGZlYXQgYXJlIG9ubHkgYXZhaWxhYmxlIHRocm91Z2ggdGhlIHJvZ3VlJ3MgZWRnZSBjbGFzcyBhYmlsaXR5IiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBVbmNoYWluZWQgLSBTa2lsbCBVbmxvY2s8L2E+PC9oMj48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTljMjU/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVBhdGhmaW5kZXItVW5jaGFpbmVkIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBhdGhmaW5kZXIgVW5jaGFpbmVkIHBnLiA4MzwvaT48L2E+PGJyIC8+V2l0aCBzdWZmaWNpZW50IHJhbmtzIGluIERpc2FibGUgRGV2aWNlLCB5b3UgZWFybiB0aGUgZm9sbG93aW5nLjxiciAvPjxiciAvPjxiPjUgUmFua3M8L2I+OiBSZWR1Y2UgdGhlIHRpbWUgcmVxdWlyZWQgdG8gZGlzYXJtIGEgdHJhcCBvciBvcGVuIGEgbG9jayBieSB0YWtpbmcgYSDigJM1IHBlbmFsdHkgb24geW91ciBEaXNhYmxlIERldmljZSBjaGVjayBmb3IgZWFjaCBzdGVwIGJ5IHdoaWNoIHlvdSByZWR1Y2UgdGhlIHRpbWUgcmVxdWlyZWQ6IDJkNCByb3VuZHMsIDFkNCByb3VuZHMsIDEgcm91bmQsIGEgc3RhbmRhcmQgYWN0aW9uLCBhIG1vdmUgYWN0aW9uLCBhIHN3aWZ0IGFjdGlvbi48YnIgLz48YnIgLz48Yj4xMCBSYW5rczwvYj46IFlvdSBjYW4gZGlzYXJtIG1hZ2ljYWwgdHJhcHMgYXQgYSDigJMxMCBwZW5hbHR5IGV2ZW4gaWYgeW91IGxhY2sgdGhlIHRyYXBmaW5kaW5nIGFiaWxpdHkuIElmIHlvdSBwb3NzZXNzIHRoZSB0cmFwZmluZGluZyBhYmlsaXR5LCB3aGVuIGF0dGVtcHRpbmcgdG8gZGlzYWJsZSBtYWdpYyB0cmFwcywgeW91IG5ldmVyIHRyaWdnZXIgdGhlbSwgZXZlbiBpZiB5b3UgcGVyZm9ybSB0aGUgdHJpZ2dlciBhY3Rpb24gKHN1Y2ggYXMgbG9va2luZyBhdCBhIDxpPnN5bWJvbDwvaT4pLiBJZiB5b3UgZmFpbCB0aGUgY2hlY2ssIHlvdSBjYW4gc3RpbGwgdHJpZ2dlciB0aGUgdHJhcCwgYW5kIHlvdSBjYW7igJl0IHVzZSB0aGlzIGFiaWxpdHkgdG8gYnlwYXNzIGl0LjxiciAvPjxiciAvPjxiPjE1IFJhbmtzPC9iPjogV2hlbiBhdHRhY2tlZCBieSBhIHRyYXAsIHlvdSBjYW4gYXR0ZW1wdCBhIERpc2FibGUgRGV2aWNlIGNoZWNrIGFzIGFuIGltbWVkaWF0ZSBhY3Rpb24gKGFkZGluZyB5b3VyIHRyYXAgc2Vuc2UgYm9udXMsIGlmIGFueSkgb3Bwb3NlZCBieSB0aGUgdHJhcOKAmXMgYXR0YWNrIHJvbGwgb3IgaXRzIHNhdmUgREMuIElmIHlvdSBzdWNjZWVkLCB5b3UgdGFrZSBoYWxmIGRhbWFnZSAob3Igbm8gZGFtYWdlIGlmIHlvdSBleGNlZWQgdGhlIERDIGJ5IGF0IGxlYXN0IDEwKS48YnIgLz48YnIgLz48Yj4yMCBSYW5rczwvYj46IFlvdSBoYWx2ZSB0aGUgcGVuYWx0aWVzIGZvciBwZXJmb3JtaW5nIGEgcXVpY2sgZGlzYXJtIGFzIGRlc2NyaWJlZCBpbiB0aGUgNSBSYW5rcyBlbnRyeS4gSWYgeW91IHBvc3Nlc3MgdGhlIHRyYXBmaW5kaW5nIGFiaWxpdHkgYW5kIGFjY2VwdCBhIOKAkzIwIHBlbmFsdHkgd2hpbGUgdXNpbmcgdGhlIGFiaWxpdHkgdW5sb2NrZWQgYXQgMTUgcmFua3MsIGFsbCBuZWFyYnkgYWxsaWVzIGdhaW4gdGhlIGJlbmVmIGl0LCBhbmQgeW91IGRpc2FibGUgdGhlIHRyYXAgYXMgYW4gaW1tZWRpYXRlIGFjdGlvbiBiZWZvcmUgaXQgY2FuIHRyaWdnZXIgaWYgeW91IGV4Y2VlZCB0aGUgREMgYnkgYXQgbGVhc3QgMTAuPGJyIC8+PGJyIC8+ZGQCCQ8PZDwrAAYBABAWAWYWARYCHg5QYXJhbWV0ZXJWYWx1ZQUORGlzYWJsZSBEZXZpY2UWAQIEZGSX0EkD4vxnw72+Uy92Q7Vmkj/HD81SJ2hn69zIX88nsA==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="54EBCB5A" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <h2 style="text-align: center"><span id="MainContent_FullSkillList"><a href="Skills.aspx?ItemName=Acrobatics">Acrobatics</a> | <a href="Skills.aspx?ItemName=Appraise">Appraise</a> | <a href="Skills.aspx?ItemName=Bluff">Bluff</a> | <a href="Skills.aspx?ItemName=Climb">Climb</a> | <a href="Skills.aspx?ItemName=Craft">Craft</a> | <a href="Skills.aspx?ItemName=Diplomacy">Diplomacy</a> | <a href="Skills.aspx?ItemName=Disable Device">Disable Device</a> | <a href="Skills.aspx?ItemName=Disguise">Disguise</a> | <a href="Skills.aspx?ItemName=Escape Artist">Escape Artist</a> | <a href="Skills.aspx?ItemName=Fly">Fly</a> | <a href="Skills.aspx?ItemName=Handle Animal">Handle Animal</a> | <a href="Skills.aspx?ItemName=Heal">Heal</a> | <a href="Skills.aspx?ItemName=Intimidate">Intimidate</a> | <a href="Skills.aspx?ItemName=Knowledge">Knowledge</a> | <a href="Skills.aspx?ItemName=Linguistics">Linguistics</a> | <a href="Skills.aspx?ItemName=Perception">Perception</a> | <a href="Skills.aspx?ItemName=Perform">Perform</a> | <a href="Skills.aspx?ItemName=Profession">Profession</a> | <a href="Skills.aspx?ItemName=Ride">Ride</a> | <a href="Skills.aspx?ItemName=Sense Motive">Sense Motive</a> | <a href="Skills.aspx?ItemName=Sleight of Hand">Sleight of Hand</a> | <a href="Skills.aspx?ItemName=Spellcraft">Spellcraft</a> | <a href="Skills.aspx?ItemName=Stealth">Stealth</a> | <a href="Skills.aspx?ItemName=Survival">Survival</a> | <a href="Skills.aspx?ItemName=Swim">Swim</a> | <a href="Skills.aspx?ItemName=Use Magic Device">Use Magic Device</a></span></h2><hr />
+    <h2 style="text-align: center"><span id="MainContent_MainClassLabel"></span></h2>
+    <span id="MainContent_SectionHeader"><h1 class="title">Skills</h1>Skills represent some of the most basic and yet most fundamental abilities your character possesses. As your character advances in level, he can gain new skills and improve his existing skills dramatically.<br /></span>
+    <hr />
+
+    <table id="MainContent_DataListTalentsAll" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+            <span id="MainContent_DataListTalentsAll_LabelName_0"><h1 class="title"><a href="Skills.aspx?ItemName=Disable Device">Disable Device</a> (Dex; Armor Check Penalty; Trained Only)</h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 94</i></a><br />You are skilled at disarming traps and opening locks. In addition, this skill lets you sabotage simple mechanical devices, such as catapults, wagon wheels, and doors.<br /><br /><b>Check</b>: When disarming a trap or other device, the Disable Device check is made secretly, so that you don’t necessarily know whether you’ve succeeded. <br /><br /> The DC depends on how tricky the device is. If the check succeeds, you disable the device. If it fails by 4 or less, you have failed but can try again. If you fail by 5 or more, something goes wrong. If the device is a trap, you trigger it. If you’re attempting some sort of sabotage, you think the device is disabled, but it still works normally. <br /><br /> You also can rig simple devices such as saddles or wagon wheels to work normally for a while and then fail or fall off some time later (usually after 1d4 rounds or minutes of use). <br /><br /> <table class="inner"> <tr><td><b>Device</b></td><td><b>Time</b></td><td><b>Disable Device DC*</b></td><td><b>Example</b></td></tr> <tr><td>Simple</td><td>1 round</td><td>10</td><td>Jam a lock</td></tr> <tr><td>Tricky</td><td>1d4 rounds</td><td>15</td><td>Sabotage a wagon wheel</td></tr> <tr><td>Difficult</td><td>2d4 rounds</td><td>20</td><td>Disarm a trap, reset a trap</td></tr> <tr><td>Extreme</td><td>2d4 rounds</td><td>25</td><td>Disarm a complex trap, cleverly sabotage a clockwork device</td></tr></table> <sup>* If you attempt to leave behind no trace of your tampering, add 5 to the DC.</sup> <br /><br /><table class="inner"> <tr><td><b>Lock Quality</b></td><td><b>Disable Device DC</b></td></tr> <tr><td>Simple</td><td>20</td></tr> <tr><td>Average</td><td>25</td></tr> <tr><td>Good</td><td>30</td></tr> <tr><td>Superior</td><td>40</td></tr></table><br /> <i>Open Locks</i>: The DC for opening a lock depends on its quality. If you do not have a set of thieves’ tools, these DCs increase by 10.<br /><br />  <b>Action</b>: The amount of time needed to make a Disable Device check depends on the task, as noted above. Disabling a simple device takes 1 round and is a full-round action. A tricky or difficult device requires 1d4 or 2d4 rounds. Attempting to open a lock is a full-round action.<br /><br />  <b>Try Again</b>: Varies. You can retry checks made to disable traps if you miss the check by 4 or less. You can retry checks made to open locks.<br /><br />  <b>Special</b>: If you have the Deft Hands feat, you get a bonus on Disable Device checks (see Feats). <br /><br /> A rogue who beats a trap’s DC by 10 or more can study the trap, figure out how it works, and bypass it without disarming it. A rogue can rig a trap so her allies can bypass it as well.  <br /><br /><b>Restriction</b>: Characters with the trapfinding ability (like rogues) can disarm magic traps. A magic trap generally has a DC of 25 + the level of the spell used to create it.  <br /><br />The spells <i>fire trap</i>, <i>glyph of warding</i>, <i>symbol</i>, and <i>teleportation circle</i> also create traps that a rogue can disarm with a successful Disable Device check. <i>Spike growth</i> and <i>spike stones</i>, however, create magic hazards against which Disable Device checks do not succeed. See the individual spell descriptions for details.<h2 class="title">Technology</h2><b>Source</b> <a href="http://paizo.com/products/btpy95d2?Pathfinder-Campaign-Setting-Technology-Guide" target="_blank" class="external-link"><i>Technology Guide pg. 5</i></a><br />With the Technologist feat, you can use Disable Device to arm or disarm high-tech explosives or disable electronic triggers or locks. The Technologist feat is not required to disable a high-tech trap or object, but such traps and objects often have significantly higher DCs to disable than low-tech versions of a similar device would have. <br /><br /> <i>Arm Explosive</i>: If you possess a detonator, you can arm an explosive weapon as a trap. Connecting a detonator to an explosive requires a successful DC 10 Disable Device check. Failure means that the attempt fails, but you can attempt to arm the explosive again. Failure by 5 or more means the explosive is triggered as the detonator is installed. You can attempt to make an explosive difficult to disarm. To do so, choose a target disarm DC of 15 or higher, with a DC increment of 5. This becomes your target DC to set the explosive as well as the DC to disarm the explosive. <br /><br /> <i>Disable Electronic Lock or Trigger</i>: Disabling an electronic lock on a door or an electronic trigger for a trap (not the trap itself) is easier if you use an e-pick—without an e-pick, you take a -5 penalty on such checks. <br /><br /> <i>Disarm Explosive</i>: Disarming an explosive requires the character to succeed at a Disable Device check as if disarming a trap. The DC is usually 10, unless the person who set the explosive successfully did so with a higher disarm DC. A failure to disarm an explosive by 5 or more immediately triggers the explosive. <br /><br /> <b>Special</b>: A character can take 10 when using Disable Device to arm or disarm explosives, but cannot take 20. <br /><br /> <b>Time</b>: Arming an explosive device takes 1 minute or more, depending on the scope of the job. Disarming an explosive is treated as if the explosive were a complex trap, and takes 2d4 rounds to attempt.<h2 class="title"><a href="SkillUnlocks.aspx"><img src="images\PathfinderSocietySymbolN.gif" title="The skill unlocks and Signature Skill feat are only available through the rogue's edge class ability" style="margin:3px 3px 0px 3px;"> Unchained - Skill Unlock</a></h2><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 83</i></a><br />With sufficient ranks in Disable Device, you earn the following.<br /><br /><b>5 Ranks</b>: Reduce the time required to disarm a trap or open a lock by taking a –5 penalty on your Disable Device check for each step by which you reduce the time required: 2d4 rounds, 1d4 rounds, 1 round, a standard action, a move action, a swift action.<br /><br /><b>10 Ranks</b>: You can disarm magical traps at a –10 penalty even if you lack the trapfinding ability. If you possess the trapfinding ability, when attempting to disable magic traps, you never trigger them, even if you perform the trigger action (such as looking at a <i>symbol</i>). If you fail the check, you can still trigger the trap, and you can’t use this ability to bypass it.<br /><br /><b>15 Ranks</b>: When attacked by a trap, you can attempt a Disable Device check as an immediate action (adding your trap sense bonus, if any) opposed by the trap’s attack roll or its save DC. If you succeed, you take half damage (or no damage if you exceed the DC by at least 10).<br /><br /><b>20 Ranks</b>: You halve the penalties for performing a quick disarm as described in the 5 Ranks entry. If you possess the trapfinding ability and accept a –20 penalty while using the ability unlocked at 15 ranks, all nearby allies gain the benef it, and you disable the trap as an immediate action before it can trigger if you exceed the DC by at least 10.<br /><br /></span>
+        </td>
+	</tr>
+</table>
+
+    
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

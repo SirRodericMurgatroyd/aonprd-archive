@@ -1,0 +1,313 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Cultist - NPCs - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    
+    <meta name="keywords" content="Archives, Nethys, Pathfinder, Official, PRD, PFSRD, NPC, Cultist" /><meta name="description" content="The cultist is a smiling friend to all in her community, so few suspect she leads a second life dedicated to ushering in the apocalypse. The cultist spins falsehoods to conceal her true motives, presenting herself as a pious woman of the church, a research assistant for a sage, or the demure wife of the mayor or a local merchant—any role where she can be known but does not wield power, and is therefore not suspected of having any ambition. She uses her magic to spy on townsfolk, punish her enemies and those who would thwart her plans, direct suspicion away from her onto a scapegoat, and sow confusion and panic among the townsfolk so she can manipulate them more easily. If discovered using magic, she pretends to be less successful at it than she truly is and asks the witnesses not to tell her superiors of it, as they would disapprove and punish her for it.&lt;br />&lt;br />Whether she serves demons, the god of destruction, or strange beings from the outer darkness, the cultist eagerly anticipates the ruin of the world. Much of her work involves placing secret marks around her village, sacrificing animals, burning strange herbs, and uttering guttural chants, all of which help power the apocalypse ritual taught to her by her dark masters. The culmination of these acts almost certainly requires human sacrifice—whether a direct act with a knife or a subtle massacre such as a burning building—and perhaps a celestial conjunction between stars and planets invisible to the naked eye.&lt;br />&lt;br />The cultist may believe the masters of the apocalypse will reward her with power or divinity when the time comes, or will grant her a quick and merciful death. She may wish to see the world burn for some slight against her by a rival or lover, or simply because the secret madness within her throbs at the idea of such wanton destruction.&lt;br />&lt;br />Her minions in town include secret alliances with enforcers (adepts 5), ruffians (commoners 7), or even a traitor (commoner 10). The members of this conspiracy may not know each other’s identities, or may believe that someone other than the cultist is in charge." />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./NPCDisplay.aspx?ItemName=Cultist" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjUwNzk2ODgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPPCsACQEADxYEHghEYXRhS2V5cxYAHgtfIUl0ZW1Db3VudAIBZBYCZg9kFgICAQ8PFgIeBFRleHQFxio8aDEgY2xhc3M9InRpdGxlIj5DdWx0aXN0PC9oMT48aDIgY2xhc3M9InRpdGxlIj5DdWx0aXN0IENSIDg8L2gyPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OHYzYT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtTlBDLUNvZGV4DQoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+TlBDIENvZGV4IHBnLiAyNDk8L2k+PC9hPjxiciAvPjxiPlhQPC9iPiA0LDgwMDxiciAvPkh1bWFuIGFkZXB0IDEwPGJyIC8+Q0UgTWVkaXVtIGh1bWFub2lkIChodW1hbik8YnIgLz48Yj5Jbml0PC9iPiArNzsgPGI+U2Vuc2VzPC9iPiBQZXJjZXB0aW9uICszPGgzIGNsYXNzPSJmcmFtaW5nIj5EZWZlbnNlPC9oMz48Yj5BQzwvYj4gMTksIHRvdWNoIDEzLCBmbGF0LWZvb3RlZCAxNiAoKzQgYXJtb3IsICszIERleCwgKzIgbmF0dXJhbCk8YnIgLz48Yj5ocDwvYj4gNDUgKDEwZDYrMTApPGJyIC8+PGI+Rm9ydDwvYj4gKzUsIDxiPlJlZjwvYj4gKzYsIDxiPldpbGw8L2I+ICsxMjxoMyBjbGFzcz0iZnJhbWluZyI+T2ZmZW5zZTwvaDM+PGI+U3BlZWQ8L2I+IDMwIGZ0LiwgZmx5IDYwIGZ0LiAoZ29vZCk8YnIgLz48Yj5NZWxlZTwvYj4gbXdrIHNpbHZlciBkYWdnZXIgKzUgKDFkNOKAkzEvMTnigJMyMCk8YnIgLz48Yj5SYW5nZWQ8L2I+ICBtd2sgc2lsdmVyIGRhZ2dlciArOSAoMWQ04oCTMS8xOeKAkzIwKTxiciAvPjxiPkFkZXB0IFNwZWxscyBQcmVwYXJlZCA8L2I+KENMIDEwdGg7IGNvbmNlbnRyYXRpb24gKzEzKTxiciAvPjNyZOKAlDxpPmJlc3RvdyBjdXJzZSA8L2k+KERDIDE2KSwgPGk+Y3VyZSBzZXJpb3VzIHdvdW5kczwvaT48YnIgLz4ybmTigJQ8aT5pbnZpc2liaWxpdHk8L2k+LCA8aT5taXJyb3IgaW1hZ2U8L2k+LCA8aT53ZWIgPC9pPihEQyAxNSk8YnIgLz4xc3TigJQ8aT5jb21tYW5kIDwvaT4oREMgMTQpLCA8aT5jdXJlIGxpZ2h0IHdvdW5kczwvaT4sIDxpPm9ic2N1cmluZyBtaXN0PC9pPiwgPGk+cHJvdGVjdGlvbiBmcm9tIGxhdzwvaT48YnIgLz4wIChhdCB3aWxsKeKAlDxpPmRldGVjdCBtYWdpYzwvaT4sIDxpPmxpZ2h0PC9pPiwgPGk+cmVhZCBtYWdpYzwvaT48aDMgY2xhc3M9ImZyYW1pbmciPlRhY3RpY3M8L2gzPjxiPkJlZm9yZSBDb21iYXQgPC9iPlRoZSBhZGVwdCBkcmlua3MgaGVyIDxpPnBvdGlvbnMgb2YgYmFya3NraW48L2k+LCA8aT5jYXTigJlzIGdyYWNlPC9pPiwgPGk+Zmx5PC9pPiwgYW5kIDxpPm1hZ2UgYXJtb3I8L2k+LCB0aGVuIHJpc2VzIHVwIG91dCBvZiByZWFjaCBvZiBlbmVteSBtZWxlZSB3ZWFwb25zLjxiciAvPjxiPkR1cmluZyBDb21iYXQgPC9iPlRoZSBhZGVwdCBodXJscyA8aT5maXJlYmFsbHMgPC9pPmFuZCA8aT5saWdodG5pbmcgYm9sdHMgPC9pPmZyb20gdGhlIGFpciwgdGhlbiByZXR1cm5zIHRvIHRoZSBncm91bmQgdG8gZGlzcGVuc2UgaGVyIHRvdWNoIHNwZWxscyBhbmQgdXNlIGhlciA8aT53YW5kIG9mIGJ1cm5pbmcgaGFuZHM8L2k+LjxiciAvPjxiPkJhc2UgU3RhdGlzdGljcyA8L2I+V2l0aG91dCA8aT5iYXJrc2tpbjwvaT4sIDxpPmNhdOKAmXMgZ3JhY2U8L2k+LCA8aT5mbHk8L2k+LCBhbmQgPGk+bWFnZSBhcm1vcjwvaT4sIHRoZSBhZGVwdOKAmXMgc3RhdGlzdGljcyBhcmUgPGI+SW5pdCA8L2I+KzU7IDxiPkFDIDwvYj4xMSwgdG91Y2ggMTEsIGZsYXQtZm9vdGVkIDEwOyA8Yj5SZWYgPC9iPis0OyA8Yj5TcGVlZCA8L2I+MzAgZnQuOyA8Yj5SYW5nZWQgPC9iPm13ayBzaWx2ZXIgZGFnZ2VyICs3ICgxZDTigJMxLzE54oCTMjApOyA8Yj5EZXggPC9iPjEyOyA8Yj5DTUQgPC9iPjE1OyA8Yj5Ta2lsbHMgPC9iPkZseSArMS48aDMgY2xhc3M9ImZyYW1pbmciPlN0YXRpc3RpY3M8L2gzPjxiPlN0cjwvYj4gOCwgPGI+RGV4PC9iPiAxNiwgPGI+Q29uPC9iPiAxMCwgPGI+SW50PC9iPiA5LCA8Yj5XaXM8L2I+IDE2LCA8Yj5DaGE8L2I+IDEyPGJyIC8+PGI+QmFzZSBBdGs8L2I+ICs1OyA8Yj5DTUI8L2I+ICs0OyA8Yj5DTUQ8L2I+IDE3PGJyIC8+PGI+RmVhdHM8L2I+IDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUNvbWJhdCBDYXN0aW5nIj5Db21iYXQgQ2FzdGluZzwvYT4sIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUdyZWF0IEZvcnRpdHVkZSI+R3JlYXQgRm9ydGl0dWRlPC9hPiwgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IkZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9SW1wcm92ZWQgSW5pdGlhdGl2ZSI+SW1wcm92ZWQgSW5pdGlhdGl2ZTwvYT4sIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUlyb24gV2lsbCI+SXJvbiBXaWxsPC9hPiwgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IkZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9U2tpbGwgRm9jdXMiPlNraWxsIEZvY3VzIChCbHVmZik8L2E+LCA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1Ub3VnaG5lc3MiPlRvdWdobmVzczwvYT48YnIgLz48Yj5Ta2lsbHM8L2I+IEFwcHJhaXNlICsyLCBCbHVmZiArMTcsIEZseSArNywgS25vd2xlZGdlIChhcmNhbmEpICs2LCBLbm93bGVkZ2UgKHBsYW5lcykgKzksIEtub3dsZWRnZSAocmVsaWdpb24pICs1LCBMaW5ndWlzdGljcyArMCwgU3BlbGxjcmFmdCArNzxiciAvPjxiPkxhbmd1YWdlczwvYj4gQ29tbW9uLCBBa2xvPGJyIC8+PGI+U1E8L2I+IHN1bW1vbiBmYW1pbGlhciAocmF2ZW4sIHNwZWFrcyBBa2xvKTxiciAvPjxiPkNvbWJhdCBHZWFyPC9iPiAgPGk+bmVja2xhY2Ugb2YgZmlyZWJhbGxzIDwvaT4odHlwZSBJViksIDxpPnBvdGlvbiBvZiBiYXJrc2tpbjwvaT4sIDxpPnBvdGlvbiBvZiBjYXTigJlzIGdyYWNlPC9pPiwgPGk+cG90aW9uIG9mIGZseTwvaT4sIDxpPnBvdGlvbiBvZiBtYWdlIGFybW9yPC9pPiwgPGk+c2Nyb2xscyBvZiBsaWdodG5pbmcgYm9sdCA8L2k+KDIsIENMIDh0aCksIDxpPndhbmQgb2YgYnVybmluZyBoYW5kcyA8L2k+KENMIDV0aCwgMTYgY2hhcmdlcyksIDxpPndhbmQgb2YgY3VyZSBsaWdodCB3b3VuZHMgPC9pPigzMSBjaGFyZ2VzKSwgOyA8Yj5PdGhlciBHZWFyPC9iPiBtYXN0ZXJ3b3JrIHNpbHZlciBkYWdnZXIsIHNjcm9sbCBjYXNlLCBzaWx2ZXIgdW5ob2x5IHN5bWJvbCwgMzcgZ3A8YnIgLz48YnIgLz5UaGUgY3VsdGlzdCBpcyBhIHNtaWxpbmcgZnJpZW5kIHRvIGFsbCBpbiBoZXIgY29tbXVuaXR5LCBzbyBmZXcgc3VzcGVjdCBzaGUgbGVhZHMgYSBzZWNvbmQgbGlmZSBkZWRpY2F0ZWQgdG8gdXNoZXJpbmcgaW4gdGhlIGFwb2NhbHlwc2UuIFRoZSBjdWx0aXN0IHNwaW5zIGZhbHNlaG9vZHMgdG8gY29uY2VhbCBoZXIgdHJ1ZSBtb3RpdmVzLCBwcmVzZW50aW5nIGhlcnNlbGYgYXMgYSBwaW91cyB3b21hbiBvZiB0aGUgY2h1cmNoLCBhIHJlc2VhcmNoIGFzc2lzdGFudCBmb3IgYSBzYWdlLCBvciB0aGUgZGVtdXJlIHdpZmUgb2YgdGhlIG1heW9yIG9yIGEgbG9jYWwgbWVyY2hhbnTigJRhbnkgcm9sZSB3aGVyZSBzaGUgY2FuIGJlIGtub3duIGJ1dCBkb2VzIG5vdCB3aWVsZCBwb3dlciwgYW5kIGlzIHRoZXJlZm9yZSBub3Qgc3VzcGVjdGVkIG9mIGhhdmluZyBhbnkgYW1iaXRpb24uIFNoZSB1c2VzIGhlciBtYWdpYyB0byBzcHkgb24gdG93bnNmb2xrLCBwdW5pc2ggaGVyIGVuZW1pZXMgYW5kIHRob3NlIHdobyB3b3VsZCB0aHdhcnQgaGVyIHBsYW5zLCBkaXJlY3Qgc3VzcGljaW9uIGF3YXkgZnJvbSBoZXIgb250byBhIHNjYXBlZ29hdCwgYW5kIHNvdyBjb25mdXNpb24gYW5kIHBhbmljIGFtb25nIHRoZSB0b3duc2ZvbGsgc28gc2hlIGNhbiBtYW5pcHVsYXRlIHRoZW0gbW9yZSBlYXNpbHkuIElmIGRpc2NvdmVyZWQgdXNpbmcgbWFnaWMsIHNoZSBwcmV0ZW5kcyB0byBiZSBsZXNzIHN1Y2Nlc3NmdWwgYXQgaXQgdGhhbiBzaGUgdHJ1bHkgaXMgYW5kIGFza3MgdGhlIHdpdG5lc3NlcyBub3QgdG8gdGVsbCBoZXIgc3VwZXJpb3JzIG9mIGl0LCBhcyB0aGV5IHdvdWxkIGRpc2FwcHJvdmUgYW5kIHB1bmlzaCBoZXIgZm9yIGl0LjxiciAvPjxiciAvPldoZXRoZXIgc2hlIHNlcnZlcyBkZW1vbnMsIHRoZSBnb2Qgb2YgZGVzdHJ1Y3Rpb24sIG9yIHN0cmFuZ2UgYmVpbmdzIGZyb20gdGhlIG91dGVyIGRhcmtuZXNzLCB0aGUgY3VsdGlzdCBlYWdlcmx5IGFudGljaXBhdGVzIHRoZSBydWluIG9mIHRoZSB3b3JsZC4gTXVjaCBvZiBoZXIgd29yayBpbnZvbHZlcyBwbGFjaW5nIHNlY3JldCBtYXJrcyBhcm91bmQgaGVyIHZpbGxhZ2UsIHNhY3JpZmljaW5nIGFuaW1hbHMsIGJ1cm5pbmcgc3RyYW5nZSBoZXJicywgYW5kIHV0dGVyaW5nIGd1dHR1cmFsIGNoYW50cywgYWxsIG9mIHdoaWNoIGhlbHAgcG93ZXIgdGhlIGFwb2NhbHlwc2Ugcml0dWFsIHRhdWdodCB0byBoZXIgYnkgaGVyIGRhcmsgbWFzdGVycy4gVGhlIGN1bG1pbmF0aW9uIG9mIHRoZXNlIGFjdHMgYWxtb3N0IGNlcnRhaW5seSByZXF1aXJlcyBodW1hbiBzYWNyaWZpY2XigJR3aGV0aGVyIGEgZGlyZWN0IGFjdCB3aXRoIGEga25pZmUgb3IgYSBzdWJ0bGUgbWFzc2FjcmUgc3VjaCBhcyBhIGJ1cm5pbmcgYnVpbGRpbmfigJRhbmQgcGVyaGFwcyBhIGNlbGVzdGlhbCBjb25qdW5jdGlvbiBiZXR3ZWVuIHN0YXJzIGFuZCBwbGFuZXRzIGludmlzaWJsZSB0byB0aGUgbmFrZWQgZXllLjxiciAvPjxiciAvPlRoZSBjdWx0aXN0IG1heSBiZWxpZXZlIHRoZSBtYXN0ZXJzIG9mIHRoZSBhcG9jYWx5cHNlIHdpbGwgcmV3YXJkIGhlciB3aXRoIHBvd2VyIG9yIGRpdmluaXR5IHdoZW4gdGhlIHRpbWUgY29tZXMsIG9yIHdpbGwgZ3JhbnQgaGVyIGEgcXVpY2sgYW5kIG1lcmNpZnVsIGRlYXRoLiBTaGUgbWF5IHdpc2ggdG8gc2VlIHRoZSB3b3JsZCBidXJuIGZvciBzb21lIHNsaWdodCBhZ2FpbnN0IGhlciBieSBhIHJpdmFsIG9yIGxvdmVyLCBvciBzaW1wbHkgYmVjYXVzZSB0aGUgc2VjcmV0IG1hZG5lc3Mgd2l0aGluIGhlciB0aHJvYnMgYXQgdGhlIGlkZWEgb2Ygc3VjaCB3YW50b24gZGVzdHJ1Y3Rpb24uPGJyIC8+PGJyIC8+SGVyIG1pbmlvbnMgaW4gdG93biBpbmNsdWRlIHNlY3JldCBhbGxpYW5jZXMgd2l0aCBlbmZvcmNlcnMgKGFkZXB0cyA1KSwgcnVmZmlhbnMgKGNvbW1vbmVycyA3KSwgb3IgZXZlbiBhIHRyYWl0b3IgKGNvbW1vbmVyIDEwKS4gVGhlIG1lbWJlcnMgb2YgdGhpcyBjb25zcGlyYWN5IG1heSBub3Qga25vdyBlYWNoIG90aGVy4oCZcyBpZGVudGl0aWVzLCBvciBtYXkgYmVsaWV2ZSB0aGF0IHNvbWVvbmUgb3RoZXIgdGhhbiB0aGUgY3VsdGlzdCBpcyBpbiBjaGFyZ2UuZGQCAw8PZDwrAAYBABAWAWYWARYCHg5QYXJhbWV0ZXJWYWx1ZQUHQ3VsdGlzdBYBAgRkZOdsyzD0donMTMoHalz2kFAwHFMoWjeonRMiLPGtMQFe" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="265B8FA8" />
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <h2 style="text-align: center"><a href="NPCs.aspx?SubGroup=All"><b>All</b></a>
+    </h2>
+    <h2 style="text-align: center"><a href="NPCs.aspx?SubGroup=Alchemist"><b>Alchemist</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Antipaladin"><b>Antipaladin</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Arcanist"><b>Arcanist</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Barbarian"><b>Barbarian</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Bard"><b>Bard</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Bloodrager"><b>Bloodrager</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Brawler"><b>Brawler</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Cavalier"><b>Cavalier</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Cleric"><b>Cleric</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Druid"><b>Druid</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Fighter"><b>Fighter</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Gunslinger"><b>Gunslinger</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Hunter"><b>Hunter</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Inquisitor"><b>Inquisitor</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Investigator"><b>Investigator</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Magus"><b>Magus</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Monk"><b>Monk</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Ninja"><b>Ninja</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Oracle"><b>Oracle</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Paladin"><b>Paladin</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Ranger"><b>Ranger</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Rogue"><b>Rogue</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Samurai"><b>Samurai</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Shaman"><b>Shaman</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Skald"><b>Skald</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Slayer"><b>Slayer</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Sorcerer"><b>Sorcerer</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Summoner"><b>Summoner</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Swashbuckler"><b>Swashbuckler</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Warpriest"><b>Warpriest</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Witch"><b>Witch</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Wizard"><b>Wizard</b></a></h2>
+    <h2 style="text-align: center"><a href="NPCs.aspx?SubGroup=Adept"><b>Adept</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Aristocrat"><b>Aristocrat</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Commoner"><b>Commoner</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Expert"><b>Expert</b></a> | 
+                                   <a href="NPCs.aspx?SubGroup=Warrior"><b>Warrior</b></a></h2><hr />
+    <table id="MainContent_DataListNPCs" cellspacing="0">
+	<tr>
+		<td>
+            <span id="MainContent_DataListNPCs_Label1_0"><h1 class="title">Cultist</h1><h2 class="title">Cultist CR 8</h2><b>Source</b> <a href="http://paizo.com/products/btpy8v3a?Pathfinder-Roleplaying-Game-NPC-Codex
+" target="_blank" class="external-link"><i>NPC Codex pg. 249</i></a><br /><b>XP</b> 4,800<br />Human adept 10<br />CE Medium humanoid (human)<br /><b>Init</b> +7; <b>Senses</b> Perception +3<h3 class="framing">Defense</h3><b>AC</b> 19, touch 13, flat-footed 16 (+4 armor, +3 Dex, +2 natural)<br /><b>hp</b> 45 (10d6+10)<br /><b>Fort</b> +5, <b>Ref</b> +6, <b>Will</b> +12<h3 class="framing">Offense</h3><b>Speed</b> 30 ft., fly 60 ft. (good)<br /><b>Melee</b> mwk silver dagger +5 (1d4–1/19–20)<br /><b>Ranged</b>  mwk silver dagger +9 (1d4–1/19–20)<br /><b>Adept Spells Prepared </b>(CL 10th; concentration +13)<br />3rd—<i>bestow curse </i>(DC 16), <i>cure serious wounds</i><br />2nd—<i>invisibility</i>, <i>mirror image</i>, <i>web </i>(DC 15)<br />1st—<i>command </i>(DC 14), <i>cure light wounds</i>, <i>obscuring mist</i>, <i>protection from law</i><br />0 (at will)—<i>detect magic</i>, <i>light</i>, <i>read magic</i><h3 class="framing">Tactics</h3><b>Before Combat </b>The adept drinks her <i>potions of barkskin</i>, <i>cat’s grace</i>, <i>fly</i>, and <i>mage armor</i>, then rises up out of reach of enemy melee weapons.<br /><b>During Combat </b>The adept hurls <i>fireballs </i>and <i>lightning bolts </i>from the air, then returns to the ground to dispense her touch spells and use her <i>wand of burning hands</i>.<br /><b>Base Statistics </b>Without <i>barkskin</i>, <i>cat’s grace</i>, <i>fly</i>, and <i>mage armor</i>, the adept’s statistics are <b>Init </b>+5; <b>AC </b>11, touch 11, flat-footed 10; <b>Ref </b>+4; <b>Speed </b>30 ft.; <b>Ranged </b>mwk silver dagger +7 (1d4–1/19–20); <b>Dex </b>12; <b>CMD </b>15; <b>Skills </b>Fly +1.<h3 class="framing">Statistics</h3><b>Str</b> 8, <b>Dex</b> 16, <b>Con</b> 10, <b>Int</b> 9, <b>Wis</b> 16, <b>Cha</b> 12<br /><b>Base Atk</b> +5; <b>CMB</b> +4; <b>CMD</b> 17<br /><b>Feats</b> <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Combat Casting">Combat Casting</a>, <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Great Fortitude">Great Fortitude</a>, <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Improved Initiative">Improved Initiative</a>, <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Iron Will">Iron Will</a>, <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Skill Focus">Skill Focus (Bluff)</a>, <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Toughness">Toughness</a><br /><b>Skills</b> Appraise +2, Bluff +17, Fly +7, Knowledge (arcana) +6, Knowledge (planes) +9, Knowledge (religion) +5, Linguistics +0, Spellcraft +7<br /><b>Languages</b> Common, Aklo<br /><b>SQ</b> summon familiar (raven, speaks Aklo)<br /><b>Combat Gear</b>  <i>necklace of fireballs </i>(type IV), <i>potion of barkskin</i>, <i>potion of cat’s grace</i>, <i>potion of fly</i>, <i>potion of mage armor</i>, <i>scrolls of lightning bolt </i>(2, CL 8th), <i>wand of burning hands </i>(CL 5th, 16 charges), <i>wand of cure light wounds </i>(31 charges), ; <b>Other Gear</b> masterwork silver dagger, scroll case, silver unholy symbol, 37 gp<br /><br />The cultist is a smiling friend to all in her community, so few suspect she leads a second life dedicated to ushering in the apocalypse. The cultist spins falsehoods to conceal her true motives, presenting herself as a pious woman of the church, a research assistant for a sage, or the demure wife of the mayor or a local merchant—any role where she can be known but does not wield power, and is therefore not suspected of having any ambition. She uses her magic to spy on townsfolk, punish her enemies and those who would thwart her plans, direct suspicion away from her onto a scapegoat, and sow confusion and panic among the townsfolk so she can manipulate them more easily. If discovered using magic, she pretends to be less successful at it than she truly is and asks the witnesses not to tell her superiors of it, as they would disapprove and punish her for it.<br /><br />Whether she serves demons, the god of destruction, or strange beings from the outer darkness, the cultist eagerly anticipates the ruin of the world. Much of her work involves placing secret marks around her village, sacrificing animals, burning strange herbs, and uttering guttural chants, all of which help power the apocalypse ritual taught to her by her dark masters. The culmination of these acts almost certainly requires human sacrifice—whether a direct act with a knife or a subtle massacre such as a burning building—and perhaps a celestial conjunction between stars and planets invisible to the naked eye.<br /><br />The cultist may believe the masters of the apocalypse will reward her with power or divinity when the time comes, or will grant her a quick and merciful death. She may wish to see the world burn for some slight against her by a rival or lover, or simply because the secret madness within her throbs at the idea of such wanton destruction.<br /><br />Her minions in town include secret alliances with enforcers (adepts 5), ruffians (commoners 7), or even a traitor (commoner 10). The members of this conspiracy may not know each other’s identities, or may believe that someone other than the cultist is in charge.</span>
+        </td>
+	</tr>
+</table>
+    
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

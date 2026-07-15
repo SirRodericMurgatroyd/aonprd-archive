@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Spellcraft (Int; Trained Only) - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Spellcraft (Int; Trained Only)" /><meta name="description" content="You know how spells and magic items work, and have picked up numerous bits of magical lore. Regardless of whether you’re a spellcaster, you can use magic items even if you wouldn’t normally be able to. &lt;br />&lt;br />&lt;b>Functions&lt;/b>: Activate magic items (that you would normally be unable to use), craft magic items, identify magic, identify monsters (constructs, dragons, and magical beasts), learn or borrow spells (from spellbooks and scrolls), recall knowledge (about arcana). &lt;br />&lt;br />&lt;b>Core Skills&lt;/b>: Knowledge (arcana), Spellcraft, Use Magic Device. &lt;br />&lt;br />&lt;b>Specialist Wizards&lt;/b>: If you’re a specialist wizard, you gain a +2 bonus on Spellcraft checks to identify, learn, and prepare spells from your chosen school. However, you take a –5 penalty on similar checks concerning spells from your opposition schools." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=1799" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWqODx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTcyNSI+UGF0aGZpbmRlciBVbmNoYWluZWQ8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTc0NSI+Q29uc29saWRhdGVkIFNraWxsczwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNzk5Ij5TcGVsbGNyYWZ0IChJbnQ7IFRyYWluZWQgT25seSk8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTljMjU/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVBhdGhmaW5kZXItVW5jaGFpbmVkIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBhdGhmaW5kZXIgVW5jaGFpbmVkIHBnLiA2NDwvaT48L2E+PGJyIC8+WW91IGtub3cgaG93IHNwZWxscyBhbmQgbWFnaWMgaXRlbXMgd29yaywgYW5kIGhhdmUgcGlja2VkIHVwIG51bWVyb3VzIGJpdHMgb2YgbWFnaWNhbCBsb3JlLiBSZWdhcmRsZXNzIG9mIHdoZXRoZXIgeW914oCZcmUgYSBzcGVsbGNhc3RlciwgeW91IGNhbiB1c2UgbWFnaWMgaXRlbXMgZXZlbiBpZiB5b3Ugd291bGRu4oCZdCBub3JtYWxseSBiZSBhYmxlIHRvLiA8YnIgLz48YnIgLz48Yj5GdW5jdGlvbnM8L2I+OiBBY3RpdmF0ZSBtYWdpYyBpdGVtcyAodGhhdCB5b3Ugd291bGQgbm9ybWFsbHkgYmUgdW5hYmxlIHRvIHVzZSksIGNyYWZ0IG1hZ2ljIGl0ZW1zLCBpZGVudGlmeSBtYWdpYywgaWRlbnRpZnkgbW9uc3RlcnMgKGNvbnN0cnVjdHMsIGRyYWdvbnMsIGFuZCBtYWdpY2FsIGJlYXN0cyksIGxlYXJuIG9yIGJvcnJvdyBzcGVsbHMgKGZyb20gc3BlbGxib29rcyBhbmQgc2Nyb2xscyksIHJlY2FsbCBrbm93bGVkZ2UgKGFib3V0IGFyY2FuYSkuIDxiciAvPjxiciAvPjxiPkNvcmUgU2tpbGxzPC9iPjogS25vd2xlZGdlIChhcmNhbmEpLCBTcGVsbGNyYWZ0LCBVc2UgTWFnaWMgRGV2aWNlLiA8YnIgLz48YnIgLz48Yj5TcGVjaWFsaXN0IFdpemFyZHM8L2I+OiBJZiB5b3XigJlyZSBhIHNwZWNpYWxpc3Qgd2l6YXJkLCB5b3UgZ2FpbiBhICsyIGJvbnVzIG9uIFNwZWxsY3JhZnQgY2hlY2tzIHRvIGlkZW50aWZ5LCBsZWFybiwgYW5kIHByZXBhcmUgc3BlbGxzIGZyb20geW91ciBjaG9zZW4gc2Nob29sLiBIb3dldmVyLCB5b3UgdGFrZSBhIOKAkzUgcGVuYWx0eSBvbiBzaW1pbGFyIGNoZWNrcyBjb25jZXJuaW5nIHNwZWxscyBmcm9tIHlvdXIgb3Bwb3NpdGlvbiBzY2hvb2xzLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTgwMCI+QWN0aXZhdGUgTWFnaWMgSXRlbXM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTljMjU/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVBhdGhmaW5kZXItVW5jaGFpbmVkIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBhdGhmaW5kZXIgVW5jaGFpbmVkIHBnLiA2NDwvaT48L2E+PGJyIC8+VGhpcyB1c2Ugb2YgU3BlbGxjcmFmdCBmdW5jdGlvbnMgYXMgdGhlIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTa2lsbHMuYXNweD9JdGVtTmFtZT1Vc2UgTWFnaWMgRGV2aWNlIj5Vc2UgTWFnaWMgRGV2aWNlIGNvcmUgc2tpbGw8L2E+LCBidXQgdXNlcyBJbnRlbGxpZ2VuY2UgaW5zdGVhZCBvZiBDaGFyaXNtYS4gPGJyIC8+PGJyIC8+PGI+QWN0aW9uPC9iPjogTm9uZS4gPGJyIC8+PGJyIC8+PGI+VHJ5IEFnYWluPC9iPjogWWVzLCBidXQgaWYgeW91IGV2ZXIgcm9sbCBhIG5hdHVyYWwgMSB3aGlsZSBhdHRlbXB0aW5nIHRvIGFjdGl2YXRlIGFuIGl0ZW0gYW5kIHlvdSBmYWlsLCB5b3UgY2Fu4oCZdCB0cnkgdG8gYWN0aXZhdGUgdGhhdCBpdGVtIGFnYWluIGZvciAyNCBob3Vycy48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE4MDEiPkNyYWZ0IE1hZ2ljIEl0ZW1zPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5YzI1P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1QYXRoZmluZGVyLVVuY2hhaW5lZCIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QYXRoZmluZGVyIFVuY2hhaW5lZCBwZy4gNjQ8L2k+PC9hPjxiciAvPllvdSBtdXN0IGF0dGVtcHQgYSBTcGVsbGNyYWZ0IGNoZWNrIGFzIHBhcnQgb2YgdGhlIHByb2Nlc3Mgb2YgY3JhZnRpbmcgYSBtYWdpYyBpdGVtLiBUaGUgREMgdmFyaWVzIGJ5IHRoZSBpdGVtLiA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iUnVsZXMuYXNweD9OYW1lPU1hZ2ljJTIwSXRlbSUyMENyZWF0aW9uJkNhdGVnb3J5PU1hZ2ljJTIwSXRlbXMiPlNlZSB0aGUgZnVsbCBydWxlcyBvbiBjcmVhdGluZyBtYWdpYyBpdGVtczwvYT4uIDxiciAvPjxiciAvPjxiPkFjdGlvbjwvYj46IE5vbmUuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xODAyIj5JZGVudGlmeSBNYWdpYzwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWMyNT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtUGF0aGZpbmRlci1VbmNoYWluZWQiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UGF0aGZpbmRlciBVbmNoYWluZWQgcGcuIDY0PC9pPjwvYT48YnIgLz5CeSBzdWNjZWVkaW5nIGF0IGEgU3BlbGxjcmFmdCBjaGVjaywgeW91IGNhbiBkZXRlcm1pbmUgc3BlY2lmaWMgdHlwZXMgb2Ygc3BlbGxzIGFzIHRoZXnigJlyZSBiZWluZyBjYXN0IG9yIHdoaWxlIHRoZXkgYXJlIGluIGVmZmVjdC4gWW91IGNhbiBhbHNvIHBpbnBvaW50IG1hZ2ljYWwgYXVyYXMgaW4gdGhpcyBtYW5uZXIsIG9yIGRlY2lwaGVyIHRoZSBtYWdpY2FsIHdyaXRpbmcgb24gc2Nyb2xscyB3aXRob3V0IGNhc3RpbmcgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPXJlYWQgbWFnaWMiPjxpPnJlYWQgbWFnaWM8L2k+PC9hPi4gPGJyIC8+PGJyIC8+IDx0YWJsZSBjbGFzcz0iaW5uZXIiPiA8dHI+PHRkPjxiPlRhc2s8L2I+PC90ZD48dGQ+PGI+U3BlbGxjcmFmdCBEQzwvYj48L3RkPjwvdHI+IDx0cj48dGQ+SWRlbnRpZnkgYXVyYXMgd2hpbGUgdXNpbmcgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPWRldGVjdCBtYWdpYyI+PGk+ZGV0ZWN0IG1hZ2ljPC9pPjwvYT48L3RkPjx0ZD4xNSArIHNwZWxsIGxldmVsPC90ZD48L3RyPiA8dHI+PHRkPklkZW50aWZ5IHByb3BlcnRpZXMgb2YgYSBtYWdpYyBpdGVtIHVzaW5nIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1kZXRlY3QgbWFnaWMiPjxpPmRldGVjdCBtYWdpYzwvaT48L2E+PC90ZD48dGQ+MTUgKyBpdGVtJ3MgY2FzdGVyIGxldmVsPC90ZD48L3RyPiA8dHI+PHRkPklkZW50aWZ5IGEgc3BlbGwgYXMgaXQgaXMgYmVpbmcgY2FzdDwvdGQ+PHRkPjE1ICsgc3BlbGwgbGV2ZWw8L3RkPjwvdHI+IDx0cj48dGQ+RGVjaXBoZXIgYSBzY3JvbGwgd2l0aG91dCB1c2luZyA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9cmVhZCBtYWdpYyI+PGk+cmVhZCBtYWdpYzwvaT48L2E+PC90ZD48dGQ+MjAgKyBzcGVsbCBsZXZlbDwvdGQ+PC90cj4gPHRyPjx0ZD5JZGVudGlmeSBhIHNwZWxsIGVmZmVjdCB0aGF0IGlzIGluIHBsYWNlPC90ZD48dGQ+MjAgKyBzcGVsbCBsZXZlbDwvdGQ+PC90cj4gPHRyPjx0ZD5JZGVudGlmeSBhIHNwZWxsIHRoYXQganVzdCB0YXJnZXRlZCB5b3U8L3RkPjx0ZD4yNSArIHNwZWxsIGxldmVsPC90ZD48L3RyPiA8L3RhYmxlPiA8YnIgLz48YnIgLz48Yj5BY3Rpb248L2I+OiBOb25lLCBpbiBtb3N0IGNhc2VzLiBEZWNpcGhlcmluZyBhIHNjcm9sbCBpcyBhIGZ1bGwtcm91bmQgYWN0aW9uLCBhbmQgYXR0ZW1wdGluZyB0byBpZGVudGlmeSB0aGUgcHJvcGVydGllcyBvZiBhIG1hZ2ljIGl0ZW0gdGFrZXMgMyByb3VuZHMgcGVyIGl0ZW0uIDxiciAvPjxiciAvPjxiPlRyeSBBZ2FpbjwvYj46IFlvdSBjYW4gcmV0cnkgY2hlY2tzIHRvIGlkZW50aWZ5IGEgc3BlbGwuIFdoZW4gdXNpbmcgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPWRldGVjdCBtYWdpYyI+PGk+ZGV0ZWN0IG1hZ2ljPC9pPjwvYT4gYW5kIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1pZGVudGlmeSI+PGk+aWRlbnRpZnk8L2k+PC9hPiB0byBsZWFybiB0aGUgcHJvcGVydGllcyBvZiBtYWdpYyBpdGVtcywgeW91IGNhbiBtYWtlIG9ubHkgb25lIGF0dGVtcHQgcGVyIGl0ZW0gcGVyIGRheS4gPGJyIC8+PGJyIC8+PGI+UGVyY2VwdGlvbiBQZW5hbHRpZXM8L2I+OiBBdHRlbXB0aW5nIHRvIGlkZW50aWZ5IGEgc3BlbGwgYXMgaXTigJlzIGJlaW5nIGNhc3QgaW5jdXJzIHRoZSBzYW1lIHBlbmFsdGllcyBhcyBhIFBlcmNlcHRpb24gY2hlY2sgZHVlIHRvIGRpc3RhbmNlLCBwb29yIGNvbmRpdGlvbnMsIGFuZCBvdGhlciBmYWN0b3JzLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTgwMyI+SWRlbnRpZnkgTW9uc3RlcnM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTljMjU/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVBhdGhmaW5kZXItVW5jaGFpbmVkIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBhdGhmaW5kZXIgVW5jaGFpbmVkIHBnLiA2NTwvaT48L2E+PGJyIC8+U3BlbGxjcmFmdCBjYW4gYmUgdXNlZCB0byBpZGVudGlmeSBtb25zdGVycyBvZiB0aGUgY29uc3RydWN0LCBkcmFnb24sIGFuZCBtYWdpY2FsIGJlYXN0IHR5cGVzLiBTZWUgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlJ1bGVzLmFzcHg/TmFtZT1Ta2lsbCBEZXNjcmlwdGlvbnMmQ2F0ZWdvcnk9Q29uc29saWRhdGVkIFNraWxscyI+TW9uc3RlciBJZGVudGlmaWNhdGlvbjwvYT4uPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xODA0Ij5MZWFybiBvciBCb3Jyb3cgU3BlbGxzPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5YzI1P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1QYXRoZmluZGVyLVVuY2hhaW5lZCIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QYXRoZmluZGVyIFVuY2hhaW5lZCBwZy4gNjU8L2k+PC9hPjxiciAvPlRvIGFkZCBuZXcgc3BlbGxzIHRvIHlvdXIgc3BlbGxib29rLCBvciB0byBwcmVwYXJlIGEgc3BlbGwgb3V0IG9mIHNvbWVvbmUgZWxzZeKAmXMgc3BlbGxib29rLCB5b3UgbXVzdCBzdWNjZWVkIGF0IGEgU3BlbGxjcmFmdCBjaGVjay4gPGJyIC8+PGJyIC8+IDx0YWJsZSBjbGFzcz0iaW5uZXIiPiA8dHI+PHRkPjxiPlRhc2s8L2I+PC90ZD48dGQ+PGI+U3BlbGxjcmFmdCBEQzwvYj48L3RkPjwvdHI+IDx0cj48dGQ+TGVhcm4gYSBzcGVsbCBmcm9tIGEgc3BlbGxib29rIG9yIHNjcm9sbDwvdGQ+PHRkPjE1ICsgc3BlbGwgbGV2ZWw8L3RkPjwvdHI+PHRyPjx0ZD5QcmVwYXJlIGEgc3BlbGwgZnJvbSBhIGJvcnJvd2VkIHNwZWxsYm9vazwvdGQ+PHRkPjE1ICsgc3BlbGwgbGV2ZWw8L3RkPjwvdHI+IDwvdGFibGU+IDxiciAvPjxiciAvPjxiPkFjdGlvbjwvYj46IExlYXJuaW5nIGEgc3BlbGwgdGFrZXMgMSBob3VyIHBlciBsZXZlbCBvZiB0aGUgc3BlbGwgKG9yIDMwIG1pbnV0ZXMgZm9yIGEgMC1sZXZlbCBzcGVsbCkuIFByZXBhcmluZyBhIGJvcnJvd2VkIHNwZWxsIGlzIGEgcGFydCBvZiBzcGVsbCBwcmVwYXJhdGlvbiBhbmQgZG9lc27igJl0IGFkZCBhbnkgZXh0cmEgdGltZS4gPGJyIC8+PGJyIC8+PGI+VHJ5IEFnYWluPC9iPjogSWYgeW91IGZhaWwgdG8gbGVhcm4gYSBzcGVsbCBmcm9tIGEgc3BlbGxib29rLCB5b3UgY2FuIHRyeSBhZ2FpbiBhZnRlciAxIHdlZWsuIElmIHlvdSBmYWlsIHRvIHByZXBhcmUgYSBzcGVsbCBmcm9tIGEgYm9ycm93ZWQgc3BlbGxib29rLCB5b3UgY2Fu4oCZdCB0cnkgYWdhaW4gdW50aWwgdGhlIG5leHQgZGF5LjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTgwNSI+UmVjYWxsIEtub3dsZWRnZTwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWMyNT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtUGF0aGZpbmRlci1VbmNoYWluZWQiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UGF0aGZpbmRlciBVbmNoYWluZWQgcGcuIDY1PC9pPjwvYT48YnIgLz5TcGVsbGNyYWZ0IGNhbiBiZSB1c2VkIHRvIHJlY2FsbCBrbm93bGVkZ2Ugb24gdGhlIHN1YmplY3RzIG9mIGFuY2llbnQgbXlzdGVyaWVzLCBhcmNhbmUgc3ltYm9scywgYW5kIG1hZ2ljIHRyYWRpdGlvbnMuIFNlZSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iUnVsZXMuYXNweD9OYW1lPVNraWxsIERlc2NyaXB0aW9ucyZDYXRlZ29yeT1Db25zb2xpZGF0ZWQgU2tpbGxzIj5SZWNhbGwgS25vd2xlZGdlPC9hPiBmb3IgZGV0YWlscy4gVXNlIHRoZSBmb2xsb3dpbmcgRENzIGZvciBjZXJ0YWluIHRhc2tzLiA8YnIgLz48YnIgLz4gPHRhYmxlIGNsYXNzPSJpbm5lciI+IDx0cj48dGQ+PGI+VGFzazwvYj48L3RkPjx0ZD48Yj5TcGVsbGNyYWZ0IERDPC9iPjwvdGQ+PC90cj4gPHRyPjx0ZD5JZGVudGlmeSBzcGVsbHMgdGhhdCB1c2UgYSBzcGVjaWZpYyBtYXRlcmlhbCBjb21wb25lbnQ8L3RkPjx0ZD4yMDwvdGQ+PC90cj4gPHRyPjx0ZD5JZGVudGlmeSBtYXRlcmlhbHMgbWFudWZhY3R1cmVkIGJ5IG1hZ2ljPC90ZD48dGQ+MjAgKyBzcGVsbCBsZXZlbDwvdGQ+PC90cj4gPC90YWJsZT5kZGSMZ3KH5xsMuT5bNfeq82F7bF77X1NjZS9m85QS1Cn1Vw==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1725">Pathfinder Unchained</a></u> / <u><a href="Rules.aspx?ID=1745">Consolidated Skills</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=1799">Spellcraft (Int; Trained Only)</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 64</i></a><br />You know how spells and magic items work, and have picked up numerous bits of magical lore. Regardless of whether you’re a spellcaster, you can use magic items even if you wouldn’t normally be able to. <br /><br /><b>Functions</b>: Activate magic items (that you would normally be unable to use), craft magic items, identify magic, identify monsters (constructs, dragons, and magical beasts), learn or borrow spells (from spellbooks and scrolls), recall knowledge (about arcana). <br /><br /><b>Core Skills</b>: Knowledge (arcana), Spellcraft, Use Magic Device. <br /><br /><b>Specialist Wizards</b>: If you’re a specialist wizard, you gain a +2 bonus on Spellcraft checks to identify, learn, and prepare spells from your chosen school. However, you take a –5 penalty on similar checks concerning spells from your opposition schools.<br /><h1 class="title"><a href="Rules.aspx?ID=1800">Activate Magic Items</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 64</i></a><br />This use of Spellcraft functions as the <a style="text-decoration:underline" href="Skills.aspx?ItemName=Use Magic Device">Use Magic Device core skill</a>, but uses Intelligence instead of Charisma. <br /><br /><b>Action</b>: None. <br /><br /><b>Try Again</b>: Yes, but if you ever roll a natural 1 while attempting to activate an item and you fail, you can’t try to activate that item again for 24 hours.<br /><h1 class="title"><a href="Rules.aspx?ID=1801">Craft Magic Items</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 64</i></a><br />You must attempt a Spellcraft check as part of the process of crafting a magic item. The DC varies by the item. <a style="text-decoration:underline" href="Rules.aspx?Name=Magic%20Item%20Creation&Category=Magic%20Items">See the full rules on creating magic items</a>. <br /><br /><b>Action</b>: None.<br /><h1 class="title"><a href="Rules.aspx?ID=1802">Identify Magic</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 64</i></a><br />By succeeding at a Spellcraft check, you can determine specific types of spells as they’re being cast or while they are in effect. You can also pinpoint magical auras in this manner, or decipher the magical writing on scrolls without casting <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=read magic"><i>read magic</i></a>. <br /><br /> <table class="inner"> <tr><td><b>Task</b></td><td><b>Spellcraft DC</b></td></tr> <tr><td>Identify auras while using <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=detect magic"><i>detect magic</i></a></td><td>15 + spell level</td></tr> <tr><td>Identify properties of a magic item using <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=detect magic"><i>detect magic</i></a></td><td>15 + item's caster level</td></tr> <tr><td>Identify a spell as it is being cast</td><td>15 + spell level</td></tr> <tr><td>Decipher a scroll without using <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=read magic"><i>read magic</i></a></td><td>20 + spell level</td></tr> <tr><td>Identify a spell effect that is in place</td><td>20 + spell level</td></tr> <tr><td>Identify a spell that just targeted you</td><td>25 + spell level</td></tr> </table> <br /><br /><b>Action</b>: None, in most cases. Deciphering a scroll is a full-round action, and attempting to identify the properties of a magic item takes 3 rounds per item. <br /><br /><b>Try Again</b>: You can retry checks to identify a spell. When using <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=detect magic"><i>detect magic</i></a> and <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=identify"><i>identify</i></a> to learn the properties of magic items, you can make only one attempt per item per day. <br /><br /><b>Perception Penalties</b>: Attempting to identify a spell as it’s being cast incurs the same penalties as a Perception check due to distance, poor conditions, and other factors.<br /><h1 class="title"><a href="Rules.aspx?ID=1803">Identify Monsters</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 65</i></a><br />Spellcraft can be used to identify monsters of the construct, dragon, and magical beast types. See <a style="text-decoration:underline" href="Rules.aspx?Name=Skill Descriptions&Category=Consolidated Skills">Monster Identification</a>.<br /><h1 class="title"><a href="Rules.aspx?ID=1804">Learn or Borrow Spells</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 65</i></a><br />To add new spells to your spellbook, or to prepare a spell out of someone else’s spellbook, you must succeed at a Spellcraft check. <br /><br /> <table class="inner"> <tr><td><b>Task</b></td><td><b>Spellcraft DC</b></td></tr> <tr><td>Learn a spell from a spellbook or scroll</td><td>15 + spell level</td></tr><tr><td>Prepare a spell from a borrowed spellbook</td><td>15 + spell level</td></tr> </table> <br /><br /><b>Action</b>: Learning a spell takes 1 hour per level of the spell (or 30 minutes for a 0-level spell). Preparing a borrowed spell is a part of spell preparation and doesn’t add any extra time. <br /><br /><b>Try Again</b>: If you fail to learn a spell from a spellbook, you can try again after 1 week. If you fail to prepare a spell from a borrowed spellbook, you can’t try again until the next day.<br /><h1 class="title"><a href="Rules.aspx?ID=1805">Recall Knowledge</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 65</i></a><br />Spellcraft can be used to recall knowledge on the subjects of ancient mysteries, arcane symbols, and magic traditions. See <a style="text-decoration:underline" href="Rules.aspx?Name=Skill Descriptions&Category=Consolidated Skills">Recall Knowledge</a> for details. Use the following DCs for certain tasks. <br /><br /> <table class="inner"> <tr><td><b>Task</b></td><td><b>Spellcraft DC</b></td></tr> <tr><td>Identify spells that use a specific material component</td><td>20</td></tr> <tr><td>Identify materials manufactured by magic</td><td>20 + spell level</td></tr> </table></span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

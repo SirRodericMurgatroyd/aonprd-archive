@@ -1,0 +1,270 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Base Classes - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Base Classes" /><meta name="description" content="The following secondary class features are based on features of the classes found in the &lt;i>Advanced Player’s Guide&lt;/i>, &lt;i>Ultimate Combat&lt;/i>, and &lt;i>Ultimate Magic&lt;/i>." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=1865" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWvcTx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTcyNSI+UGF0aGZpbmRlciBVbmNoYWluZWQ8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTg1MiI+VmFyaWFudCBNdWx0aWNsYXNzaW5nPC9hPjwvdT48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE4NjUiPkJhc2UgQ2xhc3NlczwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWMyNT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtUGF0aGZpbmRlci1VbmNoYWluZWQiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UGF0aGZpbmRlciBVbmNoYWluZWQgcGcuIDkwPC9pPjwvYT48YnIgLz5UaGUgZm9sbG93aW5nIHNlY29uZGFyeSBjbGFzcyBmZWF0dXJlcyBhcmUgYmFzZWQgb24gZmVhdHVyZXMgb2YgdGhlIGNsYXNzZXMgZm91bmQgaW4gdGhlIDxpPkFkdmFuY2VkIFBsYXllcuKAmXMgR3VpZGU8L2k+LCA8aT5VbHRpbWF0ZSBDb21iYXQ8L2k+LCBhbmQgPGk+VWx0aW1hdGUgTWFnaWM8L2k+LjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTg2NiI+QWxjaGVtaXN0PC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5YzI1P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1QYXRoZmluZGVyLVVuY2hhaW5lZCIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QYXRoZmluZGVyIFVuY2hhaW5lZCBwZy4gOTA8L2k+PC9hPjxiciAvPkEgY2hhcmFjdGVyIHdobyBjaG9vc2VzIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1BbGNoZW1pc3QiPmFsY2hlbWlzdDwvYT4gYXMgaGlzIHNlY29uZGFyeSBjbGFzcyBnYWlucyB0aGUgZm9sbG93aW5nIHNlY29uZGFyeSBjbGFzcyBmZWF0dXJlcy4gPGJyIC8+PGJyIC8+PGI+QWxjaGVteTwvYj46IEF0IDNyZCBsZXZlbCwgaGUgYWRkcyBoaXMgY2hhcmFjdGVyIGxldmVsIGFzIGEgY29tcGV0ZW5jZSBib251cyBvbiBhbGwgQ3JhZnQgKGFsY2hlbXkpIGNoZWNrcyBhbmQgY2FuIHVzZSBDcmFmdCAoYWxjaGVteSkgdG8gaWRlbnRpZnkgcG90aW9ucy4gPGJyIC8+PGJyIC8+PGI+Qm9tYnM8L2I+OiBBdCA3dGggbGV2ZWwsIGhlIGdhaW5zIHRoZSBhYmlsaXR5IHRvIGNyZWF0ZSBhIG51bWJlciBvZiBib21icyBwZXIgZGF5IGVxdWFsIHRvIGhpcyBJbnRlbGxpZ2VuY2UgbW9kaWZpZXIgKyAxLzIgaGlzIGNoYXJhY3RlciBsZXZlbC4gVGhlIGJvbWJzIGRlYWwgZGFtYWdlIGFzIGFuIGFsY2hlbWlzdCBvZiBoaXMgY2hhcmFjdGVyIGxldmVsLCBidXQgc2luY2UgaGUgZG9lc27igJl0IGhhdmUgdGhlIGFsY2hlbWlzdOKAmXMgdGhyb3cgYW55dGhpbmcgY2xhc3MgZmVhdHVyZSwgaGUgZG9lc27igJl0IGFkZCBoaXMgSW50ZWxsaWdlbmNlIG1vZGlmaWVyIHRvIHRoZSBkYW1hZ2UuIDxiciAvPjxiciAvPjxiPk11dGFnZW48L2I+OiBBdCAxMXRoIGxldmVsLCBoZSBnYWlucyB0aGUgbXV0YWdlbiBjbGFzcyBmZWF0dXJlLCB3aXRoIGEgZHVyYXRpb24gZXF1YWwgdG8gMTAgbWludXRlcyBwZXIgY2hhcmFjdGVyIGxldmVsLiBIZSBjb3VudHMgYXMgYW4gYWxjaGVtaXN0IGZvciB0aGUgcHVycG9zZXMgb2YgZHJpbmtpbmcgYSBtdXRhZ2VuLiA8YnIgLz48YnIgLz48Yj5Td2lmdCBQb2lzb25pbmc8L2I+OiBBdCAxNXRoIGxldmVsLCBoZSBnYWlucyB0aGUgcG9pc29uIHVzZSBhbmQgc3dpZnQgcG9pc29uaW5nIGFiaWxpdGllcy4gPGJyIC8+PGJyIC8+PGI+UG9pc29uIEltbXVuaXR5PC9iPjogQXQgMTl0aCBsZXZlbCwgaGUgYmVjb21lcyBpbW11bmUgdG8gcG9pc29uLjxiciAvPjxoMiBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTg2NyI+Q2F2YWxpZXI8L2E+PC9oMj48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTljMjU/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVBhdGhmaW5kZXItVW5jaGFpbmVkIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBhdGhmaW5kZXIgVW5jaGFpbmVkIHBnLiA5MDwvaT48L2E+PGJyIC8+QSBjaGFyYWN0ZXIgd2hvIGNob29zZXMgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUNhdmFsaWVyIj5jYXZhbGllcjwvYT4gYXMgaGlzIHNlY29uZGFyeSBjbGFzcyBnYWlucyB0aGUgZm9sbG93aW5nIHNlY29uZGFyeSBjbGFzcyBmZWF0dXJlcy4gPGJyIC8+PGJyIC8+PGI+T3JkZXI8L2I+OiBBdCAxc3QgbGV2ZWwsIGhlIGNob29zZXMgYW4gPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IkNhdmFsaWVyT3JkZXJzLmFzcHgiPm9yZGVyPC9hPi4gSGUgbXVzdCBmb2xsb3cgdGhlIGVkaWN0cyBvZiBoaXMgb3JkZXIuIDxiciAvPjxiciAvPjxiPkNoYWxsZW5nZTwvYj46IEF0IDNyZCBsZXZlbCwgaGUgZ2FpbnMgdGhlIGFiaWxpdHkgdG8gaXNzdWUgYSBjaGFsbGVuZ2UgYXMgYSBjYXZhbGllciBvZiBoaXMgY2hhcmFjdGVyIGxldmVsIOKAkyAyIG9uY2UgcGVyIGRheS4gSGUgYWRkcyB0aGUgYXBwcm9wcmlhdGUgb3JkZXIgYWRqdXN0bWVudCB0byBoaXMgY2hhbGxlbmdlIGJhc2VkIG9uIHRoZSBvcmRlciBoZSBzZWxlY3RlZC4gPGJyIC8+PGJyIC8+PGI+T3JkZXIgQWJpbGl0eTwvYj46IEF0IDd0aCBsZXZlbCwgaGUgZ2FpbnMgdGhlIDJuZC1sZXZlbCBhYmlsaXR5IG9mIGhpcyBjaG9zZW4gb3JkZXIsIHRyZWF0aW5nIGhpcyBjaGFyYWN0ZXIgbGV2ZWwgYXMgaGlzIGVmZmVjdGl2ZSBjYXZhbGllciBsZXZlbC4gPGJyIC8+PGJyIC8+PGI+VGFjdGljaWFuPC9iPjogQXQgMTF0aCBsZXZlbCwgaGUgZ2FpbnMgdGhlIHRhY3RpY2lhbiBjbGFzcyBmZWF0dXJlLCB0cmVhdGluZyBoaXMgY2hhcmFjdGVyIGxldmVsIGFzIGhpcyBlZmZlY3RpdmUgY2F2YWxpZXIgbGV2ZWwuIDxiciAvPjxiciAvPjxiPkdyZWF0ZXIgT3JkZXIgQWJpbGl0eTwvYj46IEF0IDE1dGggbGV2ZWwsIGhlIGdhaW5zIHRoZSA4dGgtbGV2ZWwgYWJpbGl0eSBvZiBoaXMgY2hvc2VuIG9yZGVyLCB0cmVhdGluZyBoaXMgY2hhcmFjdGVyIGxldmVsIGFzIGhpcyBlZmZlY3RpdmUgY2F2YWxpZXIgbGV2ZWwuIDxiciAvPjxiciAvPjxiPkdyZWF0ZXIgVGFjdGljaWFuPC9iPjogQXQgMTl0aCBsZXZlbCwgaGUgZ2FpbnMgdGhlIGdyZWF0ZXIgdGFjdGljaWFuIGNsYXNzIGZlYXR1cmUsIHRyZWF0aW5nIGhpcyBjaGFyYWN0ZXIgbGV2ZWwgYXMgaGlzIGVmZmVjdGl2ZSBjYXZhbGllciBsZXZlbC48YnIgLz48aDIgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE4NjgiPkd1bnNsaW5nZXI8L2E+PC9oMj48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTljMjU/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVBhdGhmaW5kZXItVW5jaGFpbmVkIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBhdGhmaW5kZXIgVW5jaGFpbmVkIHBnLiA5MDwvaT48L2E+PGJyIC8+QSBjaGFyYWN0ZXIgd2hvIGNob29zZXMgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUd1bnNsaW5nZXIiPmd1bnNsaW5nZXI8L2E+IGFzIGhlciBzZWNvbmRhcnkgY2xhc3MgZ2FpbnMgdGhlIGZvbGxvd2luZyBzZWNvbmRhcnkgY2xhc3MgZmVhdHVyZXMuIDxiciAvPjxiciAvPjxiPkZpcmVhcm0gUHJvZmljaWVuY3k8L2I+OiBBdCAzcmQgbGV2ZWwsIHNoZSBnYWlucyBwcm9maWNpZW5jeSBpbiBhbGwgZmlyZWFybXMuIDxiciAvPjxiciAvPjxiPkd1bnNtaXRoPC9iPjogQXQgN3RoIGxldmVsLCBzaGUgZ2FpbnMgdGhlIGd1bnNtaXRoIGNsYXNzIGZlYXR1cmUuIDxiciAvPjxiciAvPjxiPkRlZWQ8L2I+OiBBdCAxMXRoIGxldmVsLCBzaGUgZ2FpbnMgdGhlIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUFtYXRldXIgR3Vuc2xpbmdlciI+QW1hdGV1ciBHdW5zbGluZ2VyPC9hPiBmZWF0LiA8YnIgLz48YnIgLz48Yj5JbXByb3ZlZCBEZWVkPC9iPjogQXQgMTV0aCBsZXZlbCwgc2hlIGdhaW5zIGEgM3JkLWxldmVsIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJHdW5zbGluZ2VyRGVlZHMuYXNweCI+Z3Vuc2xpbmdlciBkZWVkPC9hPiBvZiBoZXIgY2hvaWNlLiA8YnIgLz48YnIgLz48Yj5HcmVhdGVyIERlZWQ8L2I+OiBBdCAxOXRoIGxldmVsLCBzaGUgZ2FpbnMgYSA3dGgtbGV2ZWwgZ3Vuc2xpbmdlciBkZWVkIG9mIGhlciBjaG9pY2UuPGJyIC8+PGgyIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xODY5Ij5JbnF1aXNpdG9yPC9hPjwvaDI+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5YzI1P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1QYXRoZmluZGVyLVVuY2hhaW5lZCIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QYXRoZmluZGVyIFVuY2hhaW5lZCBwZy4gOTA8L2k+PC9hPjxiciAvPkEgY2hhcmFjdGVyIHdobyBjaG9vc2VzIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1JbnF1aXNpdG9yIj5pbnF1aXNpdG9yPC9hPiBhcyBoZXIgc2Vjb25kYXJ5IGNsYXNzIGdhaW5zIHRoZSBmb2xsb3dpbmcgc2Vjb25kYXJ5IGNsYXNzIGZlYXR1cmVzLiA8YnIgLz48YnIgLz48Yj5EZWl0eTwvYj46IEF0IDFzdCBsZXZlbCwgc2hlIG11c3Qgc2VsZWN0IGEgZGVpdHkgd2l0aGluIG9uZSBhbGlnbm1lbnQgc3RlcCBvZiBoZXIgYWxpZ25tZW50LiBTaGUgZ2FpbnMgdGhlIGlucXVpc2l0b3LigJlzIGNvZGUgb2YgY29uZHVjdCBhbmQgcmVzdHJpY3Rpb24gb24gY2FzdGluZyBzcGVsbHMgb2Ygb3Bwb3NlZCBhbGlnbm1lbnRzLiA8YnIgLz48YnIgLz48Yj5TdGVybiBHYXplPC9iPjogQXQgM3JkIGxldmVsLCBzaGUgZ2FpbnMgdGhlIHN0ZXJuIGdhemUgY2xhc3MgZmVhdHVyZSwgdHJlYXRpbmcgaGVyIGNoYXJhY3RlciBsZXZlbCBhcyBoZXIgZWZmZWN0aXZlIGlucXVpc2l0b3IgbGV2ZWwuIDxiciAvPjxiciAvPjxiPkp1ZGdtZW50PC9iPjogQXQgN3RoIGxldmVsLCBvbmNlIHBlciBkYXksIHNoZSBjYW4gdXNlIHRoZSBqdWRnbWVudCBjbGFzcyBmZWF0dXJlIGFzIGFuIGlucXVpc2l0b3Igb2YgaGVyIGNoYXJhY3RlciBsZXZlbCDigJMgMy4gPGJyIC8+PGJyIC8+PGI+U29sbyBUYWN0aWNzPC9iPjogQXQgMTF0aCBsZXZlbCwgc2hlIGdhaW5zIHRoZSBzb2xvIHRhY3RpY3MgY2xhc3MgZmVhdHVyZS4gPGJyIC8+PGJyIC8+PGI+QWRkaXRpb25hbCBKdWRnbWVudDwvYj46IEF0IDE1dGggbGV2ZWwsIHNoZSBjYW4gdXNlIHRoZSBqdWRnbWVudCBjbGFzcyBmZWF0dXJlIHR3aWNlIHBlciBkYXkuIDxiciAvPjxiciAvPjxiPlNlY29uZCBKdWRnbWVudDwvYj46IEF0IDE5dGggbGV2ZWwsIHNoZSBnYWlucyB0aGUgc2Vjb25kIGp1ZGdtZW50IGFiaWxpdHkuPGJyIC8+PGgyIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xODcwIj5NYWd1czwvYT48L2gyPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWMyNT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtUGF0aGZpbmRlci1VbmNoYWluZWQiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UGF0aGZpbmRlciBVbmNoYWluZWQgcGcuIDkwPC9pPjwvYT48YnIgLz5BIGNoYXJhY3RlciB3aG8gY2hvb3NlcyA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9TWFndXMiPm1hZ3VzPC9hPiBhcyBoaXMgc2Vjb25kYXJ5IGNsYXNzIGdhaW5zIHRoZSBmb2xsb3dpbmcgc2Vjb25kYXJ5IGNsYXNzIGZlYXR1cmVzLiA8YnIgLz48YnIgLz48Yj5BcmNhbmUgUG9vbDwvYj46IEF0IDNyZCBsZXZlbCwgaGUgZ2FpbnMgdGhlIGFyY2FuZSBwb29sIGNsYXNzIGZlYXR1cmUgYXMgYSBtYWd1cyBvZiBoaXMgY2hhcmFjdGVyIGxldmVsIOKAkyAyLiA8YnIgLz48YnIgLz48Yj5NYWd1cyBBcmNhbmE8L2I+OiBBdCA3dGggbGV2ZWwsIGhlIGdhaW5zIG9uZSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iTWFndXNBcmNhbmEuYXNweCI+bWFndXMgYXJjYW5hPC9hPi4gSGUgdHJlYXRzIGhpcyBjaGFyYWN0ZXIgbGV2ZWwgYXMgaGlzIGVmZmVjdGl2ZSBtYWd1cyBsZXZlbCB3aGVuIGRldGVybWluaW5nIHdoZXRoZXIgb3Igbm90IGhlIGNhbiBzZWxlY3QgYW4gYXJjYW5hLiA8YnIgLz48YnIgLz48Yj5TcGVsbHN0cmlrZTwvYj46IEF0IDExdGggbGV2ZWwsIGhlIGdhaW5zIHRoZSBzcGVsbHN0cmlrZSBjbGFzcyBmZWF0dXJlLCBidXQgaGUgY2FuIHVzZSBpdCBvbmx5IHdpdGggc3BlbGxzIHRoYXQgYXJlIG9uIHRoZSBtYWd1cyBzcGVsbCBsaXN0LCBldmVuIHRob3VnaCBoZSBjYW4gY2FzdCB0aGVtIHVzaW5nIGFub3RoZXIgY2xhc3PigJlzIHNwZWxsIHNsb3RzLiA8YnIgLz48YnIgLz48Yj5JbXByb3ZlZCBBcmNhbmE8L2I+OiBBdCAxNXRoIGxldmVsLCBoZSBnYWlucyBvbmUgYWRkaXRpb25hbCBtYWd1cyBhcmNhbmEuIDxiciAvPjxiciAvPjxiPkdyZWF0ZXIgQXJjYW5hPC9iPjogQXQgMTl0aCBsZXZlbCwgaGUgZ2FpbnMgb25lIGFkZGl0aW9uYWwgbWFndXMgYXJjYW5hLjxiciAvPjxoMiBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTg3MSI+T3JhY2xlPC9hPjwvaDI+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5YzI1P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1QYXRoZmluZGVyLVVuY2hhaW5lZCIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QYXRoZmluZGVyIFVuY2hhaW5lZCBwZy4gOTE8L2k+PC9hPjxiciAvPkEgY2hhcmFjdGVyIHdobyBjaG9vc2VzIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1PcmFjbGUiPm9yYWNsZTwvYT4gYXMgaGVyIHNlY29uZGFyeSBjbGFzcyBnYWlucyB0aGUgZm9sbG93aW5nIHNlY29uZGFyeSBjbGFzcyBmZWF0dXJlcy4gPGJyIC8+PGJyIC8+PGI+TXlzdGVyeTwvYj46IEF0IDFzdCBsZXZlbCwgc2hlIG11c3Qgc2VsZWN0IGEgbXlzdGVyeS4gU2hlIG5ldmVyIHF1YWxpZmllcyBmb3IgdGhlIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUV4dHJhIFJldmVsYXRpb24iPkV4dHJhIFJldmVsYXRpb248L2E+IGZlYXQuIDxiciAvPjxiciAvPjxiPkN1cnNlPC9iPjogQXQgMXN0IGxldmVsLCBzaGUgbXVzdCBzZWxlY3QgYSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iT3JhY2xlQ3Vyc2VzLmFzcHgiPmN1cnNlPC9hPi4gU2hlIGdhaW5zIGFsbCBlZmZlY3RzIG9mIHRoZSBjdXJzZSwgdHJlYXRpbmcgaGVyIGVmZmVjdGl2ZSBvcmFjbGUgbGV2ZWwgYXMgZXF1YWwgdG8gMS8yIGhlciBjaGFyYWN0ZXIgbGV2ZWwuIDxiciAvPjxiciAvPjxiPlJldmVsYXRpb248L2I+OiBBdCAzcmQgbGV2ZWwsIHNoZSBnYWlucyBvbmUgb2YgdGhlIGZvbGxvd2luZyByZXZlbGF0aW9ucyBmcm9tIHRoZSBsaXN0IG9mIHRob3NlIGF2YWlsYWJsZSB0byBoZXIgbXlzdGVyeSBhcyBhbiBvcmFjbGUgb2YgaGVyIGNoYXJhY3RlciBsZXZlbCDigJMgNiAobWluaW11bSAxKS4gU2hlIG11c3QgaGF2ZSBhbiBlZmZlY3RpdmUgb3JhY2xlIGxldmVsIGhpZ2ggZW5vdWdoIHRvIHNlbGVjdCB0aGUgcmV2ZWxhdGlvbi4gPGJyIC8+PGJyIC8+PGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9Ik15c3RlcnlEaXNwbGF5LmFzcHg/SXRlbU5hbWU9QmF0dGxlIj48aT5CYXR0bGU8L2k+PC9hPjogQmF0dGxlY3J5LCBiYXR0bGVmaWVsZCBjbGFyaXR5LCBjb21iYXQgaGVhbGVyLCBpcm9uIHNraW4sIHJlc2lsaWVuY3ksIHNraWxsIGF0IGFybXMsIHN1cnByaXNpbmcgY2hhcmdlLCB3YXIgc2lnaHQuIDxiciAvPjxiciAvPjxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJNeXN0ZXJ5RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUJvbmVzIj48aT5Cb25lczwvaT48L2E+OiBBcm1vciBvZiBib25lcywgYmxlZWRpbmcgd291bmRzLCBkZWF0aOKAmXMgdG91Y2gsIG5lYXIgZGVhdGgsIHJhaXNlIHRoZSBkZWFkLCByZXNpc3QgbGlmZSwgc291bCBzaXBob24sIHNwaXJpdCB3YWxrLCB1bmRlYWQgc2Vydml0dWRlLCB2b2ljZSBvZiB0aGUgZ3JhdmUuIDxiciAvPjxiciAvPjxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJNeXN0ZXJ5RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUZsYW1lIj48aT5GbGFtZTwvaT48L2E+OiBCdXJuaW5nIG1hZ2ljLCBmaXJlIGJyZWF0aCwgZm9ybSBvZiBmbGFtZSwgZ2F6ZSBvZiBmbGFtZXMsIGhlYXQgYXVyYSwgbW9sdGVuIHNraW4sIHRvdWNoIG9mIGZsYW1lLCB3aW5ncyBvZiBmaXJlLiA8YnIgLz48YnIgLz48YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iTXlzdGVyeURpc3BsYXkuYXNweD9JdGVtTmFtZT1IZWF2ZW5zIj48aT5IZWF2ZW5zPC9pPjwvYT46IENvYXQgb2YgbWFueSBzdGFycywgZHdlbGxlciBpbiBkYXJrbmVzcywgZ3VpZGluZyBzdGFyLCBpbnRlcnN0ZWxsYXIgdm9pZCwgbHVyZSBvZiB0aGUgaGVhdmVucywgbWFudGxlIG9mIG1vb25saWdodCwgc3ByYXkgb2Ygc2hvb3Rpbmcgc3RhcnMsIHN0YXIgY2hhcnQuIDxiciAvPjxiciAvPjxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJNeXN0ZXJ5RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUxpZmUiPjxpPkxpZmU8L2k+PC9hPjogQ2hhbm5lbCwgZGVsYXkgYWZmbGljdGlvbiwgZW5lcmd5IGJvZHksIGVuaGFuY2VkIGN1cmVzLCBoZWFsaW5nIGhhbmRzLCBsaWZlIGxpbmssIGxpZmVzZW5zZSwgc2FmZSBjdXJpbmcsIHNwaXJpdCBib29zdC4gPGJyIC8+PGJyIC8+PGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9Ik15c3RlcnlEaXNwbGF5LmFzcHg/SXRlbU5hbWU9TG9yZSI+PGk+TG9yZTwvaT48L2E+OiBBcmNhbmUgYXJjaGl2aXN0LCBhdXRvbWF0aWMgd3JpdGluZywgYnJhaW4gZHJhaW4sIG1lbnRhbCBhY3VpdHksIHNwb250YW5lb3VzIHN5bWJvbG9neSwgdGhpbmsgb24gaXQsIHdoaXJsd2luZCBsZXNzb24uIDxiciAvPjxiciAvPjxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJNeXN0ZXJ5RGlzcGxheS5hc3B4P0l0ZW1OYW1lPU5hdHVyZSI+PGk+TmF0dXJlPC9pPjwvYT46IEVyb3Npb24gdG91Y2gsIGxpZmUgbGVhY2gsIG5hdHVyYWwgZGl2aW5hdGlvbiwgc3BlYWsgd2l0aCBhbmltYWxzLCBzcGlyaXQgb2YgbmF0dXJlLCB0cmFuc2NlbmRlbnRhbCBib25kLCB1bmRvIGFydGlmaWNlLiA8YnIgLz48YnIgLz48YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iTXlzdGVyeURpc3BsYXkuYXNweD9JdGVtTmFtZT1TdG9uZSI+PGk+U3RvbmU8L2k+PC9hPjogQWNpZCBza2luLCBjbG9iYmVyaW5nIHN0cmlrZSwgY3J5c3RhbCBzaWdodCwgZWFydGggZ2xpZGUsIG1pZ2h0eSBwZWJibGUsIHJvY2sgdGhyb3dpbmcsIHNoYXJkIGV4cGxvc2lvbiwgc3RlZWxicmVha2VyIHNraW4sIHRvdWNoIG9mIGFjaWQuIDxiciAvPjxiciAvPjxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJNeXN0ZXJ5RGlzcGxheS5hc3B4P0l0ZW1OYW1lPVdhdmVzIj48aT5XYXZlczwvaT48L2E+OiBCbGl6emFyZCwgZmx1aWQgbmF0dXJlLCBmbHVpZCB0cmF2ZWwsIGZyZWV6aW5nIHNwZWxscywgaWNlIGFybW9yLCBpY3kgc2tpbiwgcHVuaXRpdmUgdHJhbnNmb3JtYXRpb24sIHdhdGVyIGZvcm0sIHdhdGVyIHNpZ2h0LCB3aW50cnkgdG91Y2guIDxiciAvPjxiciAvPjxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJNeXN0ZXJ5RGlzcGxheS5hc3B4P0l0ZW1OYW1lPVdpbmQiPjxpPldpbmQ8L2k+PC9hPjogQWlyIGJhcnJpZXIsIGdhc2VvdXMgZm9ybSwgaW52aXNpYmlsaXR5LCBsaWdodG5pbmcgYnJlYXRoLCBzcGFyayBza2luLCB0aHVuZGVyYnVyc3QsIHRvdWNoIG9mIGVsZWN0cmljaXR5LCB2b3J0ZXggc3BlbGxzLCB3aW5kIHNpZ2h0LCB3aW5ncyBvZiBhaXIuIDxiciAvPjxiciAvPjxiPk9yaXNvbjwvYj46IEF0IDd0aCBsZXZlbCwgaWYgc2hlIGhhcyBhIENoYXJpc21hIHNjb3JlIG9mIDEwIG9yIGhpZ2hlciwgc2hlIGNob29zZXMgYW4gb3JhY2xlIG9yaXNvbiB0byBjYXN0IGFzIGEgc3BlbGwtbGlrZSBhYmlsaXR5IGF0IHdpbGwuIFNoZSB1c2VzIGhlciBjaGFyYWN0ZXIgbGV2ZWwgYXMgdGhlIGNhc3RlciBsZXZlbCBhbmQgQ2hhcmlzbWEgYXMgdGhlIG9yaXNvbuKAmXMga2V5IGFiaWxpdHkgc2NvcmUuIDxiciAvPjxiciAvPjxiPkN1cnNlIEZvY3VzPC9iPjogQXQgMTF0aCBsZXZlbCwgc2hlIGFkZHMgNSB0byBoZXIgZWZmZWN0aXZlIG9yYWNsZSBsZXZlbCBmb3IgdGhlIHB1cnBvc2VzIG9mIGRldGVybWluaW5nIGhlciBjdXJzZeKAmXMgZWZmZWN0cy4gPGJyIC8+PGJyIC8+PGI+SW1wcm92ZWQgUmV2ZWxhdGlvbjwvYj46IEF0IDE1dGggbGV2ZWwsIHNoZSBnYWlucyBvbmUgYWRkaXRpb25hbCByZXZlbGF0aW9uLiA8YnIgLz48YnIgLz48Yj5HcmVhdGVyIFJldmVsYXRpb248L2I+OiBBdCAxOXRoIGxldmVsLCBzaGUgZ2FpbnMgb25lIGFkZGl0aW9uYWwgcmV2ZWxhdGlvbi48YnIgLz48aDIgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE4NzIiPlN1bW1vbmVyPC9hPjwvaDI+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5YzI1P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1QYXRoZmluZGVyLVVuY2hhaW5lZCIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QYXRoZmluZGVyIFVuY2hhaW5lZCBwZy4gOTE8L2k+PC9hPjxiciAvPkEgY2hhcmFjdGVyIHdobyBjaG9vc2VzIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1TdW1tb25lciI+c3VtbW9uZXI8L2E+IGFzIGhpcyBzZWNvbmRhcnkgY2xhc3MgZ2FpbnMgdGhlIGZvbGxvd2luZyBzZWNvbmRhcnkgY2xhc3MgZmVhdHVyZXMuIDxiciAvPjxiciAvPjxiPlN1bW1vbiBNb25zdGVyPC9iPjogQXQgM3JkIGxldmVsLCBoZSBnYWlucyB0aGUgc3VtbW9uZXLigJlzIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1zdW1tb24gbW9uc3RlciAxIj48aT5zdW1tb24gbW9uc3RlcjwvaT48L2E+IHNwZWxsLWxpa2UgYWJpbGl0eSBhcyBhIHN1bW1vbmVyIG9mIGhpcyBjaGFyYWN0ZXIgbGV2ZWwg4oCTIDIuIEhlIGNhbiB1c2UgdGhpcyBhYmlsaXR5IG9uY2UgcGVyIGRheTsgdGhlIGNhc3RpbmcgdGltZSBpcyAxIGZ1bGwgcm91bmQsIGFuZCB0aGUgZHVyYXRpb24gaXMgMSByb3VuZCBwZXIgZWZmZWN0aXZlIHN1bW1vbmVyIGxldmVsLiA8YnIgLz48YnIgLz48Yj5FaWRvbG9uPC9iPjogQXQgN3RoIGxldmVsLCBoZSBnYWlucyB0aGUgYWJpbGl0eSB0byBzdW1tb24gYW4gZWlkb2xvbiwgdXNpbmcgdGhlIHN0YXRpc3RpY3Mgb2YgYW4gZWlkb2xvbiBmb3IgYSBzdW1tb25lciBvZiBoaXMgY2hhcmFjdGVyIGxldmVsIOKAkyA0LCBleGNlcHQgd2l0aCBoYWxmIGFzIG1hbnkgZXZvbHV0aW9uIHBvaW50cy4gVGhpcyBlaWRvbG9uIGNhbiBvbmx5IGJlIHN1bW1vbmVkIHVzaW5nIGhpcyA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9c3VtbW9uIG1vbnN0ZXIgMSI+PGk+c3VtbW9uIG1vbnN0ZXI8L2k+PC9hPiBzcGVsbC1saWtlIGFiaWxpdHkuIDxiciAvPjxiciAvPjxiPkFkZGl0aW9uYWwgU3VtbW9uczwvYj46IEF0IDExdGggbGV2ZWwsIGhlIGNhbiB1c2UgaGlzIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1zdW1tb24gbW9uc3RlciAxIj48aT5zdW1tb24gbW9uc3RlcjwvaT48L2E+IHNwZWxsLWxpa2UgYWJpbGl0eSB0aHJlZSB0aW1lcyBwZXIgZGF5LiA8YnIgLz48YnIgLz48Yj5TaGllbGQgQWxseTwvYj46IEF0IDE1dGggbGV2ZWwsIGhlIGdhaW5zIHRoZSBzaGllbGQgYWxseSBjbGFzcyBmZWF0dXJlLiA8YnIgLz48YnIgLz48Yj5Bc3BlY3Q8L2I+OiBBdCAxOXRoIGxldmVsLCBoZSBnYWlucyB0aGUgYXNwZWN0IGNsYXNzIGZlYXR1cmUsIGV4Y2VwdCBoZSBjYW4gZGl2ZXJ0IG9ubHkgMSBldm9sdXRpb24gcG9pbnQgZnJvbSBoaXMgZWlkb2xvbiB0byBoaW1zZWxmLjxiciAvPjxoMiBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTg3MyI+V2l0Y2g8L2E+PC9oMj48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTljMjU/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVBhdGhmaW5kZXItVW5jaGFpbmVkIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBhdGhmaW5kZXIgVW5jaGFpbmVkIHBnLiA5MTwvaT48L2E+PGJyIC8+QSBjaGFyYWN0ZXIgd2hvIGNob29zZXMgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVdpdGNoIj53aXRjaDwvYT4gYXMgaGVyIHNlY29uZGFyeSBjbGFzcyBnYWlucyB0aGUgZm9sbG93aW5nIHNlY29uZGFyeSBjbGFzcyBmZWF0dXJlcy4gPGJyIC8+PGJyIC8+PGI+UGF0cm9uPC9iPjogQXQgMXN0IGxldmVsLCBzaGUgY2hvb3NlcyBhIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJXaXRjaFBhdHJvbnMuYXNweCI+cGF0cm9uPC9hPi4gU2hlIG5ldmVyIHF1YWxpZmllcyBmb3IgdGhlIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUV4dHJhIEhleCI+RXh0cmEgSGV4PC9hPiBmZWF0LiA8YnIgLz48YnIgLz48Yj5XaXRjaOKAmXMgRmFtaWxpYXI8L2I+OiBBdCAzcmQgbGV2ZWwsIHNoZSBnYWlucyBhIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1GYW1pbGlhciI+ZmFtaWxpYXI8L2E+LCB0cmVhdGluZyBoZXIgY2hhcmFjdGVyIGxldmVsIGFzIGhlciBlZmZlY3RpdmUgd2l0Y2ggbGV2ZWwuIDxiciAvPjxiciAvPjxiPkhleDwvYj46IEF0IDd0aCBsZXZlbCwgc2hlIGdhaW5zIGEgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IldpdGNoSGV4ZXMuYXNweCI+aGV4PC9hPiBvZiBoZXIgY2hvaWNlIGFzIGEgMXN0LWxldmVsIHdpdGNoLiBJZiBzaGUgY2hvb3NlcyB0aGUgc2x1bWJlciBoZXgsIGl0IGNhbiBhZmZlY3Qgb25seSBjcmVhdHVyZXMgd2l0aCBIaXQgRGljZSBsZXNzIHRoYW4gb3IgZXF1YWwgdG8gaGVyIGNoYXJhY3RlciBsZXZlbC4gPGJyIC8+PGJyIC8+PGI+Q2FudHJpcDwvYj46IEF0IDExdGggbGV2ZWwsIGlmIHNoZSBoYXMgYW4gSW50ZWxsaWdlbmNlIHNjb3JlIG9mIDEwIG9yIGhpZ2hlciwgc2hlIGNob29zZXMgYSB3aXRjaCBjYW50cmlwIGFuZCBjYW4gY2FzdCB0aGF0IGNhbnRyaXAgYXMgYSBzcGVsbC1saWtlIGFiaWxpdHkgYXQgd2lsbC4gU2hlIHVzZXMgaGVyIGNoYXJhY3RlciBsZXZlbCBhcyB0aGUgY2FzdGVyIGxldmVsIGFuZCBJbnRlbGxpZ2VuY2UgYXMgdGhlIGNhbnRyaXDigJlzIGtleSBhYmlsaXR5IHNjb3JlLiA8YnIgLz48YnIgLz48Yj5JbXByb3ZlZCBIZXg8L2I+OiBBdCAxNXRoIGxldmVsLCBzaGUgZ2FpbnMgYSBzZWNvbmQgaGV4IGFzIGEgMXN0LWxldmVsIHdpdGNoLCBhbmQgaGVyIGZpcnN0IGhleCBhZHZhbmNlcyBhcyBpZiBzaGUgd2VyZSBhbiA4dGgtbGV2ZWwgd2l0Y2guIDxiciAvPjxiciAvPjxiPk1ham9yIEhleDwvYj46IEF0IDE5dGggbGV2ZWwsIHNoZSBnYWlucyBhIG1ham9yIGhleCBhcyBhIDEwdGgtbGV2ZWwgd2l0Y2guIFNoZSBjYW5ub3QgZ2FpbiB0aGUgaWNlIHRvbWIgaGV4LmRkZCe/UBbPjOJXSoZmNvTpJ20Feuo/EGTuhlXDh+d+nn6D" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1725">Pathfinder Unchained</a></u> / <u><a href="Rules.aspx?ID=1852">Variant Multiclassing</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=1865">Base Classes</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 90</i></a><br />The following secondary class features are based on features of the classes found in the <i>Advanced Player’s Guide</i>, <i>Ultimate Combat</i>, and <i>Ultimate Magic</i>.<br /><h1 class="title"><a href="Rules.aspx?ID=1866">Alchemist</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 90</i></a><br />A character who chooses <a style="text-decoration:underline" href="ClassDisplay.aspx?ItemName=Alchemist">alchemist</a> as his secondary class gains the following secondary class features. <br /><br /><b>Alchemy</b>: At 3rd level, he adds his character level as a competence bonus on all Craft (alchemy) checks and can use Craft (alchemy) to identify potions. <br /><br /><b>Bombs</b>: At 7th level, he gains the ability to create a number of bombs per day equal to his Intelligence modifier + 1/2 his character level. The bombs deal damage as an alchemist of his character level, but since he doesn’t have the alchemist’s throw anything class feature, he doesn’t add his Intelligence modifier to the damage. <br /><br /><b>Mutagen</b>: At 11th level, he gains the mutagen class feature, with a duration equal to 10 minutes per character level. He counts as an alchemist for the purposes of drinking a mutagen. <br /><br /><b>Swift Poisoning</b>: At 15th level, he gains the poison use and swift poisoning abilities. <br /><br /><b>Poison Immunity</b>: At 19th level, he becomes immune to poison.<br /><h2 class="title"><a href="Rules.aspx?ID=1867">Cavalier</a></h2><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 90</i></a><br />A character who chooses <a style="text-decoration:underline" href="ClassDisplay.aspx?ItemName=Cavalier">cavalier</a> as his secondary class gains the following secondary class features. <br /><br /><b>Order</b>: At 1st level, he chooses an <a style="text-decoration:underline" href="CavalierOrders.aspx">order</a>. He must follow the edicts of his order. <br /><br /><b>Challenge</b>: At 3rd level, he gains the ability to issue a challenge as a cavalier of his character level – 2 once per day. He adds the appropriate order adjustment to his challenge based on the order he selected. <br /><br /><b>Order Ability</b>: At 7th level, he gains the 2nd-level ability of his chosen order, treating his character level as his effective cavalier level. <br /><br /><b>Tactician</b>: At 11th level, he gains the tactician class feature, treating his character level as his effective cavalier level. <br /><br /><b>Greater Order Ability</b>: At 15th level, he gains the 8th-level ability of his chosen order, treating his character level as his effective cavalier level. <br /><br /><b>Greater Tactician</b>: At 19th level, he gains the greater tactician class feature, treating his character level as his effective cavalier level.<br /><h2 class="title"><a href="Rules.aspx?ID=1868">Gunslinger</a></h2><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 90</i></a><br />A character who chooses <a style="text-decoration:underline" href="ClassDisplay.aspx?ItemName=Gunslinger">gunslinger</a> as her secondary class gains the following secondary class features. <br /><br /><b>Firearm Proficiency</b>: At 3rd level, she gains proficiency in all firearms. <br /><br /><b>Gunsmith</b>: At 7th level, she gains the gunsmith class feature. <br /><br /><b>Deed</b>: At 11th level, she gains the <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Amateur Gunslinger">Amateur Gunslinger</a> feat. <br /><br /><b>Improved Deed</b>: At 15th level, she gains a 3rd-level <a style="text-decoration:underline" href="GunslingerDeeds.aspx">gunslinger deed</a> of her choice. <br /><br /><b>Greater Deed</b>: At 19th level, she gains a 7th-level gunslinger deed of her choice.<br /><h2 class="title"><a href="Rules.aspx?ID=1869">Inquisitor</a></h2><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 90</i></a><br />A character who chooses <a style="text-decoration:underline" href="ClassDisplay.aspx?ItemName=Inquisitor">inquisitor</a> as her secondary class gains the following secondary class features. <br /><br /><b>Deity</b>: At 1st level, she must select a deity within one alignment step of her alignment. She gains the inquisitor’s code of conduct and restriction on casting spells of opposed alignments. <br /><br /><b>Stern Gaze</b>: At 3rd level, she gains the stern gaze class feature, treating her character level as her effective inquisitor level. <br /><br /><b>Judgment</b>: At 7th level, once per day, she can use the judgment class feature as an inquisitor of her character level – 3. <br /><br /><b>Solo Tactics</b>: At 11th level, she gains the solo tactics class feature. <br /><br /><b>Additional Judgment</b>: At 15th level, she can use the judgment class feature twice per day. <br /><br /><b>Second Judgment</b>: At 19th level, she gains the second judgment ability.<br /><h2 class="title"><a href="Rules.aspx?ID=1870">Magus</a></h2><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 90</i></a><br />A character who chooses <a style="text-decoration:underline" href="ClassDisplay.aspx?ItemName=Magus">magus</a> as his secondary class gains the following secondary class features. <br /><br /><b>Arcane Pool</b>: At 3rd level, he gains the arcane pool class feature as a magus of his character level – 2. <br /><br /><b>Magus Arcana</b>: At 7th level, he gains one <a style="text-decoration:underline" href="MagusArcana.aspx">magus arcana</a>. He treats his character level as his effective magus level when determining whether or not he can select an arcana. <br /><br /><b>Spellstrike</b>: At 11th level, he gains the spellstrike class feature, but he can use it only with spells that are on the magus spell list, even though he can cast them using another class’s spell slots. <br /><br /><b>Improved Arcana</b>: At 15th level, he gains one additional magus arcana. <br /><br /><b>Greater Arcana</b>: At 19th level, he gains one additional magus arcana.<br /><h2 class="title"><a href="Rules.aspx?ID=1871">Oracle</a></h2><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 91</i></a><br />A character who chooses <a style="text-decoration:underline" href="ClassDisplay.aspx?ItemName=Oracle">oracle</a> as her secondary class gains the following secondary class features. <br /><br /><b>Mystery</b>: At 1st level, she must select a mystery. She never qualifies for the <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Extra Revelation">Extra Revelation</a> feat. <br /><br /><b>Curse</b>: At 1st level, she must select a <a style="text-decoration:underline" href="OracleCurses.aspx">curse</a>. She gains all effects of the curse, treating her effective oracle level as equal to 1/2 her character level. <br /><br /><b>Revelation</b>: At 3rd level, she gains one of the following revelations from the list of those available to her mystery as an oracle of her character level – 6 (minimum 1). She must have an effective oracle level high enough to select the revelation. <br /><br /><a style="text-decoration:underline" href="MysteryDisplay.aspx?ItemName=Battle"><i>Battle</i></a>: Battlecry, battlefield clarity, combat healer, iron skin, resiliency, skill at arms, surprising charge, war sight. <br /><br /><a style="text-decoration:underline" href="MysteryDisplay.aspx?ItemName=Bones"><i>Bones</i></a>: Armor of bones, bleeding wounds, death’s touch, near death, raise the dead, resist life, soul siphon, spirit walk, undead servitude, voice of the grave. <br /><br /><a style="text-decoration:underline" href="MysteryDisplay.aspx?ItemName=Flame"><i>Flame</i></a>: Burning magic, fire breath, form of flame, gaze of flames, heat aura, molten skin, touch of flame, wings of fire. <br /><br /><a style="text-decoration:underline" href="MysteryDisplay.aspx?ItemName=Heavens"><i>Heavens</i></a>: Coat of many stars, dweller in darkness, guiding star, interstellar void, lure of the heavens, mantle of moonlight, spray of shooting stars, star chart. <br /><br /><a style="text-decoration:underline" href="MysteryDisplay.aspx?ItemName=Life"><i>Life</i></a>: Channel, delay affliction, energy body, enhanced cures, healing hands, life link, lifesense, safe curing, spirit boost. <br /><br /><a style="text-decoration:underline" href="MysteryDisplay.aspx?ItemName=Lore"><i>Lore</i></a>: Arcane archivist, automatic writing, brain drain, mental acuity, spontaneous symbology, think on it, whirlwind lesson. <br /><br /><a style="text-decoration:underline" href="MysteryDisplay.aspx?ItemName=Nature"><i>Nature</i></a>: Erosion touch, life leach, natural divination, speak with animals, spirit of nature, transcendental bond, undo artifice. <br /><br /><a style="text-decoration:underline" href="MysteryDisplay.aspx?ItemName=Stone"><i>Stone</i></a>: Acid skin, clobbering strike, crystal sight, earth glide, mighty pebble, rock throwing, shard explosion, steelbreaker skin, touch of acid. <br /><br /><a style="text-decoration:underline" href="MysteryDisplay.aspx?ItemName=Waves"><i>Waves</i></a>: Blizzard, fluid nature, fluid travel, freezing spells, ice armor, icy skin, punitive transformation, water form, water sight, wintry touch. <br /><br /><a style="text-decoration:underline" href="MysteryDisplay.aspx?ItemName=Wind"><i>Wind</i></a>: Air barrier, gaseous form, invisibility, lightning breath, spark skin, thunderburst, touch of electricity, vortex spells, wind sight, wings of air. <br /><br /><b>Orison</b>: At 7th level, if she has a Charisma score of 10 or higher, she chooses an oracle orison to cast as a spell-like ability at will. She uses her character level as the caster level and Charisma as the orison’s key ability score. <br /><br /><b>Curse Focus</b>: At 11th level, she adds 5 to her effective oracle level for the purposes of determining her curse’s effects. <br /><br /><b>Improved Revelation</b>: At 15th level, she gains one additional revelation. <br /><br /><b>Greater Revelation</b>: At 19th level, she gains one additional revelation.<br /><h2 class="title"><a href="Rules.aspx?ID=1872">Summoner</a></h2><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 91</i></a><br />A character who chooses <a style="text-decoration:underline" href="ClassDisplay.aspx?ItemName=Summoner">summoner</a> as his secondary class gains the following secondary class features. <br /><br /><b>Summon Monster</b>: At 3rd level, he gains the summoner’s <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=summon monster 1"><i>summon monster</i></a> spell-like ability as a summoner of his character level – 2. He can use this ability once per day; the casting time is 1 full round, and the duration is 1 round per effective summoner level. <br /><br /><b>Eidolon</b>: At 7th level, he gains the ability to summon an eidolon, using the statistics of an eidolon for a summoner of his character level – 4, except with half as many evolution points. This eidolon can only be summoned using his <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=summon monster 1"><i>summon monster</i></a> spell-like ability. <br /><br /><b>Additional Summons</b>: At 11th level, he can use his <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=summon monster 1"><i>summon monster</i></a> spell-like ability three times per day. <br /><br /><b>Shield Ally</b>: At 15th level, he gains the shield ally class feature. <br /><br /><b>Aspect</b>: At 19th level, he gains the aspect class feature, except he can divert only 1 evolution point from his eidolon to himself.<br /><h2 class="title"><a href="Rules.aspx?ID=1873">Witch</a></h2><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 91</i></a><br />A character who chooses <a style="text-decoration:underline" href="ClassDisplay.aspx?ItemName=Witch">witch</a> as her secondary class gains the following secondary class features. <br /><br /><b>Patron</b>: At 1st level, she chooses a <a style="text-decoration:underline" href="WitchPatrons.aspx">patron</a>. She never qualifies for the <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Extra Hex">Extra Hex</a> feat. <br /><br /><b>Witch’s Familiar</b>: At 3rd level, she gains a <a style="text-decoration:underline" href="ClassDisplay.aspx?ItemName=Familiar">familiar</a>, treating her character level as her effective witch level. <br /><br /><b>Hex</b>: At 7th level, she gains a <a style="text-decoration:underline" href="WitchHexes.aspx">hex</a> of her choice as a 1st-level witch. If she chooses the slumber hex, it can affect only creatures with Hit Dice less than or equal to her character level. <br /><br /><b>Cantrip</b>: At 11th level, if she has an Intelligence score of 10 or higher, she chooses a witch cantrip and can cast that cantrip as a spell-like ability at will. She uses her character level as the caster level and Intelligence as the cantrip’s key ability score. <br /><br /><b>Improved Hex</b>: At 15th level, she gains a second hex as a 1st-level witch, and her first hex advances as if she were an 8th-level witch. <br /><br /><b>Major Hex</b>: At 19th level, she gains a major hex as a 10th-level witch. She cannot gain the ice tomb hex.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

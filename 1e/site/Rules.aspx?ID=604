@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Alignment - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Alignment" /><meta name="description" content="Alignment is easily one of the most debated topics in roleplaying, and straddles the line between descriptive element and rules element. How it is treated varies wildly; for some GMs it’s merely a two-letter description, while for others it’s a web of permissions and restrictions. Sorting out how this system works is important; it determines how players portray their characters, and how you as GM adjudicate certain aspects of the game.&lt;br />&lt;br /> Alignment exists primarily to define and summarize the moral and ethical tendencies of characters in a game, for both PCs and NPCs, and finds its roots in the fantasy literature that inspires most roleplaying games. Many characters in such stories easily fall into the camps of good or evil, but others straddle the line and seem good in one instance and evil in the next. Additionally, the relationship and outlook of these characters toward matters of law, justice, freedom, and anarchy further divides them. Just as one character might ignore society’s rules in order to do what he knows is right, another might work great evil by manipulating laws to his own ends. Alignment is summarized on page 166 of the Core Rulebook, but the interpretations are endless, and ultimately lie with you as the GM at a mechanical standpoint, and with your players in how they define their characters’ morality. Some gamers favor strict alignments and black-and-white judgments, while others prefer a gritty, “realistic” game in which morality is relative, and well-intentioned “good” characters are capable of terrible atrocities.&lt;br />&lt;br /> Many of the debates spawned by alignment arise as the system moves beyond mere description to taking on a role that affects the game’s rules. While no real-world humans can say they’re entirely good or law-abiding, there exist creatures in the Pathfinder Roleplaying Game that are fundamentally good, evil, lawful, or chaotic, and some magic depends on judging a character by its alignment. Because game effects are associated with an ultimately subjective system, you should make sure your players understand your interpretation of alignment ahead of time. The following are a few ways you might handle alignment in your game or use it to help players develop their characters." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=604" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWHVDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDU0Ij5HYW1lTWFzdGVyeSBHdWlkZTwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD01NzQiPlBsYXllciBDaGFyYWN0ZXJzPC9hPjwvdT4gLyA8dT48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTU5MCI+VGhlIExpZmUgb2YgYSBQYXJ0eTwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD02MDQiPkFsaWdubWVudDwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDY4PC9pPjwvYT48YnIgLz5BbGlnbm1lbnQgaXMgZWFzaWx5IG9uZSBvZiB0aGUgbW9zdCBkZWJhdGVkIHRvcGljcyBpbiByb2xlcGxheWluZywgYW5kIHN0cmFkZGxlcyB0aGUgbGluZSBiZXR3ZWVuIGRlc2NyaXB0aXZlIGVsZW1lbnQgYW5kIHJ1bGVzIGVsZW1lbnQuIEhvdyBpdCBpcyB0cmVhdGVkIHZhcmllcyB3aWxkbHk7IGZvciBzb21lIEdNcyBpdOKAmXMgbWVyZWx5IGEgdHdvLWxldHRlciBkZXNjcmlwdGlvbiwgd2hpbGUgZm9yIG90aGVycyBpdOKAmXMgYSB3ZWIgb2YgcGVybWlzc2lvbnMgYW5kIHJlc3RyaWN0aW9ucy4gU29ydGluZyBvdXQgaG93IHRoaXMgc3lzdGVtIHdvcmtzIGlzIGltcG9ydGFudDsgaXQgZGV0ZXJtaW5lcyBob3cgcGxheWVycyBwb3J0cmF5IHRoZWlyIGNoYXJhY3RlcnMsIGFuZCBob3cgeW91IGFzIEdNIGFkanVkaWNhdGUgY2VydGFpbiBhc3BlY3RzIG9mIHRoZSBnYW1lLjxiciAvPjxiciAvPiBBbGlnbm1lbnQgZXhpc3RzIHByaW1hcmlseSB0byBkZWZpbmUgYW5kIHN1bW1hcml6ZSB0aGUgbW9yYWwgYW5kIGV0aGljYWwgdGVuZGVuY2llcyBvZiBjaGFyYWN0ZXJzIGluIGEgZ2FtZSwgZm9yIGJvdGggUENzIGFuZCBOUENzLCBhbmQgZmluZHMgaXRzIHJvb3RzIGluIHRoZSBmYW50YXN5IGxpdGVyYXR1cmUgdGhhdCBpbnNwaXJlcyBtb3N0IHJvbGVwbGF5aW5nIGdhbWVzLiBNYW55IGNoYXJhY3RlcnMgaW4gc3VjaCBzdG9yaWVzIGVhc2lseSBmYWxsIGludG8gdGhlIGNhbXBzIG9mIGdvb2Qgb3IgZXZpbCwgYnV0IG90aGVycyBzdHJhZGRsZSB0aGUgbGluZSBhbmQgc2VlbSBnb29kIGluIG9uZSBpbnN0YW5jZSBhbmQgZXZpbCBpbiB0aGUgbmV4dC4gQWRkaXRpb25hbGx5LCB0aGUgcmVsYXRpb25zaGlwIGFuZCBvdXRsb29rIG9mIHRoZXNlIGNoYXJhY3RlcnMgdG93YXJkIG1hdHRlcnMgb2YgbGF3LCBqdXN0aWNlLCBmcmVlZG9tLCBhbmQgYW5hcmNoeSBmdXJ0aGVyIGRpdmlkZXMgdGhlbS4gSnVzdCBhcyBvbmUgY2hhcmFjdGVyIG1pZ2h0IGlnbm9yZSBzb2NpZXR54oCZcyBydWxlcyBpbiBvcmRlciB0byBkbyB3aGF0IGhlIGtub3dzIGlzIHJpZ2h0LCBhbm90aGVyIG1pZ2h0IHdvcmsgZ3JlYXQgZXZpbCBieSBtYW5pcHVsYXRpbmcgbGF3cyB0byBoaXMgb3duIGVuZHMuIEFsaWdubWVudCBpcyBzdW1tYXJpemVkIG9uIHBhZ2UgMTY2IG9mIHRoZSBDb3JlIFJ1bGVib29rLCBidXQgdGhlIGludGVycHJldGF0aW9ucyBhcmUgZW5kbGVzcywgYW5kIHVsdGltYXRlbHkgbGllIHdpdGggeW91IGFzIHRoZSBHTSBhdCBhIG1lY2hhbmljYWwgc3RhbmRwb2ludCwgYW5kIHdpdGggeW91ciBwbGF5ZXJzIGluIGhvdyB0aGV5IGRlZmluZSB0aGVpciBjaGFyYWN0ZXJz4oCZIG1vcmFsaXR5LiBTb21lIGdhbWVycyBmYXZvciBzdHJpY3QgYWxpZ25tZW50cyBhbmQgYmxhY2stYW5kLXdoaXRlIGp1ZGdtZW50cywgd2hpbGUgb3RoZXJzIHByZWZlciBhIGdyaXR0eSwg4oCccmVhbGlzdGlj4oCdIGdhbWUgaW4gd2hpY2ggbW9yYWxpdHkgaXMgcmVsYXRpdmUsIGFuZCB3ZWxsLWludGVudGlvbmVkIOKAnGdvb2TigJ0gY2hhcmFjdGVycyBhcmUgY2FwYWJsZSBvZiB0ZXJyaWJsZSBhdHJvY2l0aWVzLjxiciAvPjxiciAvPiBNYW55IG9mIHRoZSBkZWJhdGVzIHNwYXduZWQgYnkgYWxpZ25tZW50IGFyaXNlIGFzIHRoZSBzeXN0ZW0gbW92ZXMgYmV5b25kIG1lcmUgZGVzY3JpcHRpb24gdG8gdGFraW5nIG9uIGEgcm9sZSB0aGF0IGFmZmVjdHMgdGhlIGdhbWXigJlzIHJ1bGVzLiBXaGlsZSBubyByZWFsLXdvcmxkIGh1bWFucyBjYW4gc2F5IHRoZXnigJlyZSBlbnRpcmVseSBnb29kIG9yIGxhdy1hYmlkaW5nLCB0aGVyZSBleGlzdCBjcmVhdHVyZXMgaW4gdGhlIFBhdGhmaW5kZXIgUm9sZXBsYXlpbmcgR2FtZSB0aGF0IGFyZSBmdW5kYW1lbnRhbGx5IGdvb2QsIGV2aWwsIGxhd2Z1bCwgb3IgY2hhb3RpYywgYW5kIHNvbWUgbWFnaWMgZGVwZW5kcyBvbiBqdWRnaW5nIGEgY2hhcmFjdGVyIGJ5IGl0cyBhbGlnbm1lbnQuIEJlY2F1c2UgZ2FtZSBlZmZlY3RzIGFyZSBhc3NvY2lhdGVkIHdpdGggYW4gdWx0aW1hdGVseSBzdWJqZWN0aXZlIHN5c3RlbSwgeW91IHNob3VsZCBtYWtlIHN1cmUgeW91ciBwbGF5ZXJzIHVuZGVyc3RhbmQgeW91ciBpbnRlcnByZXRhdGlvbiBvZiBhbGlnbm1lbnQgYWhlYWQgb2YgdGltZS4gVGhlIGZvbGxvd2luZyBhcmUgYSBmZXcgd2F5cyB5b3UgbWlnaHQgaGFuZGxlIGFsaWdubWVudCBpbiB5b3VyIGdhbWUgb3IgdXNlIGl0IHRvIGhlbHAgcGxheWVycyBkZXZlbG9wIHRoZWlyIGNoYXJhY3RlcnMuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD02MDUiPlByZWRlc3RpbmF0aW9uPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gNjg8L2k+PC9hPjxiciAvPlRoZSBzaW1wbGVzdCB3YXkgdG8gdmlldyBhbGlnbm1lbnQgaXMgYXMgbmluZSBsaXRlcmFsIHBlcnNvbmFsaXRpZXMuIElmIGEgY2hhcmFjdGVyIGlzIGxhd2Z1bCBnb29kLCBoZSBhbHdheXMgb2JleXMgdGhlIGxhdyBhbmQgYWx3YXlzIGRvZXMgdGhlIOKAnHJpZ2h04oCdIHRoaW5nLCB3aGlsZSBhIGNoYW90aWMgZXZpbCBjaGFyYWN0ZXIgYWx3YXlzIHNoaXJrcyB0aGUgbGF3IGFuZCBhY3RzIG1hbGljaW91c2x5LiBUaGlzIGlzIGEgc3lzdGVtIG9mIGFic29sdXRlcywgd2hlcmUgZnJlZSB3aWxsIGFuZCBjb250ZXh0IG1lYW4gbGl0dGxlLCBldmVyeXRoaW5nIGlzIHByZS1vcmRhaW5lZCwgYW5kIGV2ZXJ5IGNyZWF0dXJlIGhhcyBhIHBhdGguIFBsYXllcnMgd2hvIHZpZXcgYWxpZ25tZW50IGFzIHByZWRlc3RpbmF0aW9uIG1pZ2h0IHdlYXIgYWxpZ25tZW50cyBsaWtlIHN0cmFpdGphY2tldHMsIGJ1dCBhdCB0aGUgc2FtZSB0aW1lLCB0aGV5IGFsd2F5cyBrbm93IGhvdyB0byByb2xlcGxheSB0aGVpciBjaGFyYWN0ZXLigJlzIHJlYWN0aW9uIHRvIHNpdHVhdGlvbnMuIFRoaXMgcHJvdmVzIGJvdGggaGVscGZ1bCBhbmQgY29tZm9ydGluZyB0byBtYW55IHBsYXllcnMgbmV3IHRvIG9yIGlsbCBhdCBlYXNlIHdpdGggcm9sZXBsYXlpbmcuIFRoaXMgYXBwcm9hY2ggYWxzbyByZW5kZXJzIGFsaWdubWVudC1iYXNlZCBydWxlcyBlYXN5IHRvIGFyYml0cmF0ZSwgdHVybmluZyBldmVyeSBtYXR0ZXIgb2YgZGV0ZXJtaW5pbmcgYWxpZ25tZW50IGludG8gYSBzaW1wbGUgeWVzLW5vIHF1ZXN0aW9uLiBQcm9ibGVtcyB3aXRoIHRoaXMgbWV0aG9kIHRlbmQgdG8gYXJpc2Ugd2hlbiBhIGdhbWUgdmVudHVyZXMgaW50byBza2V0Y2hpZXIgbW9yYWwgYW5kIGV0aGljYWwgc2l0dWF0aW9ucy4gQSBwbGF5ZXIgbWlnaHQgYmVjb21lIHVuY29tZm9ydGFibGUgd2hlbiBoaXMgbGF3ZnVsIGdvb2QgY2hhcmFjdGVyIGZlZWxzIGZvcmNlZCB0byBvYmV5IHRoZSBsYXdzIG9mIGFuIGV2aWwgc29jaWV0eSwgb3IgbWlnaHQgaGF2ZSB0cm91YmxlIGluIGEgY2FtcGFpZ24gdGhhdCByZXF1aXJlcyBoaW0gdG8gd29yayB3aXRoIHRob3NlIHdob3NlIGFsaWdubWVudHMgZGlmZmVyIGZyb20gaGlzIG93bi48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTYwNiI+RnJlZSBXaWxsbDwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDY4PC9pPjwvYT48YnIgLz5NYW55IHBsYXllcnMgdGVuZCB0byBmb2N1cyBtb3JlIG9uIGNyZWF0aW5nIGNoYXJhY3RlcnMgd2l0aCBjb25zaXN0ZW50LCBzcGVjaWZpYyBwZXJzb25hbGl0aWVzIHJhdGhlciB0aGFuIGFsaWdubWVudHMuIFRoZXNlIHBsYXllcnMgZW52aXNpb24gdGhlaXIgaGVyb2Vz4oCZIGJhY2tncm91bmRzLCBwZXJzb25hbGl0eSB0cmFpdHMsIGF0dGl0dWRlcywgYW5kIGdvYWxzLCBhbmQgb25seSB0aGVuIGNob29zZSBhbiBhbGlnbm1lbnQgdGhhdCBiZXN0IHJlZmxlY3RzIHRoZXNlIGZhY2V0cy4gQSBjaGFyYWN0ZXLigJlzIGFsaWdubWVudCB0aGVuIGJlY29tZXMgYSB3YXkgb2YgY2F0ZWdvcml6aW5nIGhpcyBwZXJzb25hbGl0eSwgcmF0aGVyIHRoYW4gZGVmaW5pbmcgaGltIGFuZCBjaGFubmVsaW5nIGhpcyBhY3Rpb25zLiBBcyBsb25nIGFzIHRoZSBwbGF5ZXIgdW5kZXJzdGFuZHMgdGhlIGltcGFjdCBvZiBoaXMgY2hvaWNlIG9uIGdhbWVwbGF5LCB0aGlzIGFwcHJvYWNoIHdvcmtzIHNtb290aGx5LiBGb3IgZXhhbXBsZSwgYSBwbGF5ZXIgd2hvIGNob29zZXMgdGhlIGNoYW90aWMgbmV1dHJhbCBhbGlnbm1lbnQgbmVlZHMgdG8gdW5kZXJzdGFuZCB0aGF0IGNlcnRhaW4gZWxlbWVudHMgd2l0aGluIHRoZSBnYW1lIHdvcmxkIHdpbGwganVkZ2UgaGltIGJhc2VkIG9uIHRoaXMgZGVjaXNpb24gKGFzIHdpdGggYW55IG90aGVyIGFsaWdubWVudCkuIFNvbWUgdGVtcGxlcyBtaWdodCBkZW55IGhpbSBoZWFsaW5nIGJlY2F1c2UgdGhlIGJpZ2dlc3QgdGhyZWF0IGluIHRoZSByZWdpb24gaXMgY2hhb3RpYyBtb25zdGVycywgdmlld2luZyBoZXIgYWxpZ25tZW50IGFzIGdyb3VuZHMgZm9yIHN1c3BpY2lvbi4gVGhpcyBtZXRob2QgaXMgYWxzbyBwcm9ibGVtYXRpYyB3aGVuIGl0IGJlY29tZXMgdG9vIGdlbmVyYWwuIEFjY2VwdGluZyBhbGlnbm1lbnQgYXMgYSBicm9hZCBjYXRlZ29yeSBjYW4gcmVuZGVyIGl0IGFsbW9zdCBtZWFuaW5nbGVzcyBhbmQgbWFrZSBpdCBkaWZmaWN1bHQgZm9yIHlvdSBhcyB0aGUgR00gdG8ganVkZ2Ugd2hldGhlciBhIGNoYXJhY3RlciBpcyBhY3Rpbmcgb3V0c2lkZSBvZiBoZXIgYWxpZ25tZW50IGFuZCBhcmJpdHJhdGUgYW55IGdhbWUgZWZmZWN0cyBhc3NvY2lhdGVkIHdpdGggZG9pbmcgc28uPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD02MDciPkRlZmluaW5nIERlZWRzPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gNjg8L2k+PC9hPjxiciAvPkFub3RoZXIgd2F5IHRvIHNlZSBhbGlnbm1lbnQgaXMgYXMgYSBzZXJpZXMgb2YgY29uY2VudHJpYyByaW5ncy4gSW4gdGhlIGNlbnRlciByaW5nIGFyZSBhbGwgdGhlIGJlaGF2aW9ycyB0aGF0IGFyZSBvYnZpb3VzbHkgYWNjZXB0YWJsZSBhY2NvcmRpbmcgdG8gYSBjaGFyYWN0ZXLigJlzIGFsaWdubWVudC4gQXJvdW5kIHRoYXQgaXMgYSBtaWRkbGUgY2lyY2xlIHRoYXQgY292ZXJzIHRoZSBncmF5IGFyZWFz4oCUYWN0aW9ucyB0aGF0IG1pZ2h0IGJlIGFsbG93ZWQgdW5kZXIgY2VydGFpbiBjaXJjdW1zdGFuY2VzIG9yIGFyZSB1bmNsZWFyLiBPbiB0aGUgb3V0c2lkZSBpcyB0aGUgZm9yYmlkZGVuIGFyZWEgb2YgZXh0cmVtZSBhY3Rpb25zIHRoYXQgb2J2aW91c2x5IHZpb2xhdGUgdGhlIGFsaWdubWVudC4gVGFraW5nIHByaXNvbmVycyBvZmZlcnMgZXhhbXBsZXMgb2YgYWxsIHRocmVlIGNpcmNsZXMuIEFjY2VwdGluZyBhbiBvcHBvbmVudOKAmXMgaG9ub3JhYmxlIHN1cnJlbmRlciBpcyBjbGVhcmx5IGdvb2QuIFRvcnR1cmluZyB0aGF0IHByaXNvbmVyIGZvciBpbmZvcm1hdGlvbiBtaWdodCBiZSBpbiB0aGUgZm9yYmlkZGVuIGFyZWEgZm9yIGEgZ2l2ZW4gZ29vZCBjaGFyYWN0ZXIuIEJ1dCB3aGF0IGFib3V0IHRocmVhdGVuaW5nIHRvcnR1cmUsIGlmIHRoZSBQQyBkb2VzbuKAmXQgaW50ZW5kIHRvIGNhcnJ5IG91dCB0aGUgdGhyZWF0PyBUaGF0IGZhbGxzIGludG8gdGhlIG1pZGRsZSBjaXJjbGUuIFRha2luZyB0aGlzIHJvdXRlIG1lYW5zIHBsYXllcnMgbXVzdCByZW1lbWJlciB0aGVpciBjaGFyYWN0ZXJz4oCZIGFsaWdubWVudCBhbmQgYWN0IGFjY29yZGluZ2x5LiBBdCB0aGUgc2FtZSB0aW1lLCB3aGlsZSB0aGlzIHJvdXRlIGdvZXMgZmFyIHRvd2FyZCBzdWdnZXN0aW5nIGhvdyBjaGFyYWN0ZXJzIG1pZ2h0IGFjdCBpbiBzcGVjaWZpYyBzaXR1YXRpb25zLCBkZWJhdGVzIG1pZ2h0IGFyaXNlIHdoZW4gZ3JvdXAgbWVtYmVycyBkb27igJl0IHNlZSBleWUtdG8tZXllIGFib3V0IHdoaWNoIGFjdHMgYXJlIHBlcm1pc3NpYmxlLiBBZGRpdGlvbmFsbHksIHNvbWUgY2hhcmFjdGVycyBtaWdodCBoYXZlIHZhcnlpbmcgYWNjZXNzIHRvIHRoZSBncmF5IGFyZWFzIG9mIHRoZWlyIGFsaWdubWVudCwgYW5kIEdNcyBzaG91bGQgZGlzY3VzcyB3aGVyZSB0aGlzIGxpbmUgZXhpc3RzIGZvciBjaGFyYWN0ZXJzIHdobyBmYWNlIHJlcGVyY3Vzc2lvbnMgZm9yIGRldmlhdGluZyBmcm9tIHRoZWlyIG1vcmFsIGNvZGUuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD02MDgiPkNoYW5naW5nIEFsaWdubWVudDwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDY5PC9pPjwvYT48YnIgLz5XaGlsZSBhbGlnbm1lbnQgaXMgb2Z0ZW4gYSBzdGF0aWMgdHJhaXQsIG9wdGlvbnMgYW5kIGVmZmVjdHMgZXhpc3QgdGhhdCBtaWdodCBjYXVzZSBpdCB0byBjaGFuZ2UsIGFuZCBwbGF5ZXJzIG1pZ2h0IHNlZWsgdG8gY2hhbmdlIHRoZWlyIFBDc+KAmSBhbGlnbm1lbnRzIGZvciBhIHZhcmlldHkgb2YgcmVhc29ucy48YnIgLz48YnIgLz4gPGI+Vm9sdW50YXJpbHk8L2I+OiBBc2lkZSBmcm9tIG1lcmVseSBoYXZpbmcgbWlzdW5kZXJzdG9vZCB3aGF0IGEgc3BlY2lmaWMgYWxpZ25tZW50IG1lYW5zLCBQQ3MgbWlnaHQgc2VlayB0byBjaGFuZ2UgdGhlaXIgYWxpZ25tZW50IGluIGxpZ2h0IG9mIGdhbWUgZXZlbnRzIG9yIHRvIHF1YWxpZnkgZm9yIHNvbWUgYWxpZ25tZW50LXJlbGF0ZWQgZ29hbC4gSG93IHRoaXMgY2hhbmdlIHRha2VzIHNoYXBlIHNob3VsZCBiZSBkZXRlcm1pbmVkIGJ5IHRoZSBwbGF5ZXIgYW5kIEdNLiBPZnRlbiwgc29tZSBxdWVzdCwgdHJhdW1hLCByZWhhYmlsaXRhdGlvbiwgb3Igb3RoZXIgbGlmZS1jaGFuZ2luZyBldmVudCB0cmlnZ2VycyB0aGUgYWxpZ25tZW50IGNoYW5nZS4gUGxheWVycyBzaG91bGQgYmUgc3VyZSBvZiB0aGVpciBkZWNpc2lvbiwgYXMgY2hhbmdpbmcgYWxpZ25tZW50IHNob3VsZCBiZSB0aGUgcmVzdWx0IG9mIGFuIGV4dHJhb3JkaW5hcnkgZWZmb3J0LCBub3QgYSB3aGltLCBhbmQgYSBQQyB3aXRoIGEgc2hpZnRpbmcgcGVyc29uYWxpdHkgcmlza3MgbG9zaW5nIGRlZmluaXRpb24gYXMgYSBjaGFyYWN0ZXIgYW5kIG1pZ2h0IGJlZ2luIHRvIHNlZW0gbGlrZSBoZeKAmXMgdHJ5aW5nIHRvIGV4cGxvaXQgdGhlIHJ1bGVzLjxiciAvPjxiciAvPiA8Yj5JbnZvbHVudGFyaWx5PC9iPjogQWxsIG1hbm5lciBvZiBldmVudHMgbWlnaHQgbGVhZCBhIGNoYXJhY3RlciB0byBoYXZlIGFuIGludm9sdW50YXJ5IGFsaWdubWVudCBzaGlmdC4gU29tZSBhcmUgdHJ1bHkgaW52b2x1bnRhcnksIGFzIHNvbWUgZm9yY2Ugb3ZlcnJpZGVzIG9yIGNvcnJ1cHRzIHRoZSBQQ+KAmXMgcGVyc29uYWxpdHkuIFRoZSBHTSBzaG91bGQgd29yayB3aXRoIHRoZSBwbGF5ZXIgaW4gc3VjaCBjYXNlcywgcGVyaGFwcyBtYWtpbmcgYW4gdW5uYXR1cmFsbHkgY29tcHJvbWlzZWQgUEMgYSBjb25mZWRlcmF0ZSBpbiBhbiBvbmdvaW5nIHN0b3J5LiBTdGVwcGluZyBvdXQgb2YgdGhlIG5vcm0gYW5kIHBsYXlpbmcgaGVyIG93biBjaGFyYWN0ZXIgaW4gYSBjb250cmFkaWN0b3J5IGZhc2hpb24gY2FuIGJlIGZ1biBmb3IgYSBwbGF5ZXIgYW5kIGRlbGlnaHRmdWxseSB1bm5lcnZpbmcgZm9yIHRoZSByZXN0IG9mIGEgZ3JvdXAuPGJyIC8+PGJyIC8+IENoYXJhY3RlcnMgYWxzbyByaXNrIGhhdmluZyB0aGVpciBhbGlnbm1lbnQgY2hhbmdlZCBpZiB0aGV5IGNvbnRpbnVhbGx5IGFjdCBpbiBhY2NvcmRhbmNlIHdpdGggYW4gYWxpZ25tZW50IG90aGVyIHRoYW4gdGhlIG9uZSB0aGV5IGNob3NlLiBGb3IgbWFueSBjaGFyYWN0ZXJzLCB0aGlzIG1hdHRlcnMgbGl0dGxlLCBidXQgaW4gdGhlIGNhc2Ugb2YgY2hhcmFjdGVycyBib3VuZCB0byBhIHNwZWNpZmljIGFsaWdubWVudCBmb3IgcnVsZXMtcmVsYXRlZCBwdXJwb3NlcywgYW4gYWxpZ25tZW50IGNoYW5nZSBtaWdodCBtZWFuIGhhdmluZyB0byByZWltYWdpbmUgdGhlaXIgZW50aXJlIGNoYXJhY3Rlci4gSW5zdGVhZCBvZiBzcHJpbmdpbmcgdGhpcyBvbiBhIHBsYXllciwgbWFrZSBpdCBjbGVhciB3aGVuIGFuIGFjdGlvbiByaXNrcyB2aW9sYXRpbmcgYW4gYWxpZ25tZW50LXJlbGF0ZWQgcmVxdWlyZW1lbnQuIFNvbWV0aW1lcyB0aGlzIHdpbGwgYmUgc2VlbiBhcyB0aGUgdm9pY2Ugb2YgdGhlIGNoYXJhY3RlcuKAmXMgY29uc2NpZW5jZSwgYW5kIGFsbG93IHRoZSBwbGF5ZXIgdG8gcmVmcmFpbiBmcm9tIHRoZSBhY3Rpb24gb3Igc3VpdGFibHkganVzdGlmeSBpdCB0byB0aGVtc2VsdmVzIChhbmQgeW91KSB0byBicmluZyBpdCBpbnRvIGFjY29yZGFuY2Ugd2l0aCB0aGVpciB2YWx1ZXMuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD02MDkiPkV2aWwgQ2hhcmFjdGVyczwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDY5PC9pPjwvYT48YnIgLz5NYW55IEdNcyByZWZ1c2UgdG8gYWxsb3cgcGxheWVycyB0byBjcmVhdGUgY2hhcmFjdGVycyB3aXRoIGV2aWwgYWxpZ25tZW50cywgYXMgaXMgdGhlaXIgcHJlcm9nYXRpdmUgaWYgdGhleSBmZWVsIHN1Y2ggYSBjaGFyYWN0ZXIgbWlnaHQgZGlzcnVwdCB0aGUgZ2FtZSBvciBoaW5kZXIgdGhlIHN0b3J5LiBPY2Nhc2lvbmFsbHksIHRob3VnaCwgeW91ciBwbGF5ZXJzIG1pZ2h0IGhhdmUgaW50cmlndWluZyBpZGVhcyBmb3IgYW50aWhlcm9pYyBjaGFyYWN0ZXJzLCBvciB5b3UgbWlnaHQgaGF2ZSBhIGdyZWF0IGlkZWEgdGhhdCByZXF1aXJlcyBldmlsIGNoYXJhY3RlcnMgdG8gcGxheSBvdXQuPGJyIC8+PGJyIC8+IEV2aWwgY2hhcmFjdGVycyBwcmVzZW50IG1vcmUgdGhhbiBqdXN0IGFuIGV4Y3VzZSB0byBlbmdhZ2UgaW4gb2ZmZW5zaXZlIGJlaGF2aW9yIG9yIHBsYXkgaG9taWNpZGFsIG1hbmlhY3M7IHJhdGhlciwgdGhleSBhbGxvdyBwbGF5ZXJzIHRvIG1pbWljIHNvbWUgb2YgdGhlIGNsYXNzaWMgY2FkcyBhbmQgYW50aWhlcm9lcyBvZiBsZWdlbmRzIGFuZCBmYW50YXN5IGxpdGVyYXR1cmUuIEp1c3QgbGlrZSBnb29kIGNoYXJhY3RlcnMsIGV2aWwgY2hhcmFjdGVycyBoYXZlIGdvYWxzIGFuZCBkZXNpcmVzIGFuZCB1bmRlcnN0YW5kIHRoZSBjb25zZXF1ZW5jZXMgb2YgdGhlaXIgYWN0aW9ucy4gVGhvc2Ugd2hvIGRvIHdoYXRldmVyIHRoZXkgd2FudCB3aXRob3V0IGNvbnNpZGVyYXRpb24gZm9yIHRoZSByZXN0IG9mIHRoZSBwYXJ0eSByaXNrIHVuZGVzaXJhYmxlIHJlcGVyY3Vzc2lvbnMuIEFkdmVudHVyZXJzIHdobyByb3V0aW5lbHkgc3RlYWwgZnJvbSB0aGVpciBjb21wYW5pb25zIG9yIGJldHJheSB0aGVpciBjb21wYXRyaW90cyBhcmUgbGlrZWx5IHRvIGZpbmQgdGhlbXNlbHZlcyBhYmFuZG9uZWQgb3Igc2xhaW4uIEJ1dCBldmlsIGNoYXJhY3RlcnMgd2hvIGFyZSBtb3JlIHRoYW4ganVzdCBwc3ljaG9wYXRocyBjYW4gcHJvdmUgdG8gYmUgdmFsdWFibGUgbWVtYmVycyBvZiBhIGdyb3VwIHNob3VsZCB0aGVpciBnb2FscyBwYXJhbGxlbCB0aG9zZSBvZiBhIHBhcnR5LiBUYWxrIHdpdGggeW91ciBwbGF5ZXJzIGFuZCBkaXNjdXNzIHdoYXQgbWFrZXMgdGhlaXIgY2hhcmFjdGVycyBldmlsLCB0aGVpciBnb2FscywgYW5kIGhvdyBhbGx5aW5nIHdpdGggb3RoZXIgYWR2ZW50dXJlcnMgbWlnaHQgYWlkIHRob3NlIGdvYWxzLiBBdCB0aGUgc2FtZSB0aW1lLCBwbGF5ZXJzIG9mIGdvb2QgY2hhcmFjdGVycyBzaG91bGQgdGhpbmsgYWJvdXQgd2h5IHRoZXkgbWlnaHQgdHJhdmVsIHdpdGggc3VjaCBuZeKAmWVyLWRvLXdlbGxzIChwZXJoYXBzIG91dCBvZiBkZXNwZXJhdGlvbiwgcmVzcG9uc2liaWxpdHksIG9yIHRoZSBob3BlIG9mIHJlaGFiaWxpdGF0aW9uKS5kZGShJZBjy+LdHwW0duCqrWPVga4F+/VFYbfyww6sgtEI1g==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=454">GameMastery Guide</a></u> / <u><a href="Rules.aspx?ID=574">Player Characters</a></u> / <u><a href="Rules.aspx?ID=590">The Life of a Party</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=604">Alignment</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 68</i></a><br />Alignment is easily one of the most debated topics in roleplaying, and straddles the line between descriptive element and rules element. How it is treated varies wildly; for some GMs it’s merely a two-letter description, while for others it’s a web of permissions and restrictions. Sorting out how this system works is important; it determines how players portray their characters, and how you as GM adjudicate certain aspects of the game.<br /><br /> Alignment exists primarily to define and summarize the moral and ethical tendencies of characters in a game, for both PCs and NPCs, and finds its roots in the fantasy literature that inspires most roleplaying games. Many characters in such stories easily fall into the camps of good or evil, but others straddle the line and seem good in one instance and evil in the next. Additionally, the relationship and outlook of these characters toward matters of law, justice, freedom, and anarchy further divides them. Just as one character might ignore society’s rules in order to do what he knows is right, another might work great evil by manipulating laws to his own ends. Alignment is summarized on page 166 of the Core Rulebook, but the interpretations are endless, and ultimately lie with you as the GM at a mechanical standpoint, and with your players in how they define their characters’ morality. Some gamers favor strict alignments and black-and-white judgments, while others prefer a gritty, “realistic” game in which morality is relative, and well-intentioned “good” characters are capable of terrible atrocities.<br /><br /> Many of the debates spawned by alignment arise as the system moves beyond mere description to taking on a role that affects the game’s rules. While no real-world humans can say they’re entirely good or law-abiding, there exist creatures in the Pathfinder Roleplaying Game that are fundamentally good, evil, lawful, or chaotic, and some magic depends on judging a character by its alignment. Because game effects are associated with an ultimately subjective system, you should make sure your players understand your interpretation of alignment ahead of time. The following are a few ways you might handle alignment in your game or use it to help players develop their characters.<br /><h1 class="title"><a href="Rules.aspx?ID=605">Predestination</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 68</i></a><br />The simplest way to view alignment is as nine literal personalities. If a character is lawful good, he always obeys the law and always does the “right” thing, while a chaotic evil character always shirks the law and acts maliciously. This is a system of absolutes, where free will and context mean little, everything is pre-ordained, and every creature has a path. Players who view alignment as predestination might wear alignments like straitjackets, but at the same time, they always know how to roleplay their character’s reaction to situations. This proves both helpful and comforting to many players new to or ill at ease with roleplaying. This approach also renders alignment-based rules easy to arbitrate, turning every matter of determining alignment into a simple yes-no question. Problems with this method tend to arise when a game ventures into sketchier moral and ethical situations. A player might become uncomfortable when his lawful good character feels forced to obey the laws of an evil society, or might have trouble in a campaign that requires him to work with those whose alignments differ from his own.<br /><h1 class="title"><a href="Rules.aspx?ID=606">Free Willl</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 68</i></a><br />Many players tend to focus more on creating characters with consistent, specific personalities rather than alignments. These players envision their heroes’ backgrounds, personality traits, attitudes, and goals, and only then choose an alignment that best reflects these facets. A character’s alignment then becomes a way of categorizing his personality, rather than defining him and channeling his actions. As long as the player understands the impact of his choice on gameplay, this approach works smoothly. For example, a player who chooses the chaotic neutral alignment needs to understand that certain elements within the game world will judge him based on this decision (as with any other alignment). Some temples might deny him healing because the biggest threat in the region is chaotic monsters, viewing her alignment as grounds for suspicion. This method is also problematic when it becomes too general. Accepting alignment as a broad category can render it almost meaningless and make it difficult for you as the GM to judge whether a character is acting outside of her alignment and arbitrate any game effects associated with doing so.<br /><h1 class="title"><a href="Rules.aspx?ID=607">Defining Deeds</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 68</i></a><br />Another way to see alignment is as a series of concentric rings. In the center ring are all the behaviors that are obviously acceptable according to a character’s alignment. Around that is a middle circle that covers the gray areas—actions that might be allowed under certain circumstances or are unclear. On the outside is the forbidden area of extreme actions that obviously violate the alignment. Taking prisoners offers examples of all three circles. Accepting an opponent’s honorable surrender is clearly good. Torturing that prisoner for information might be in the forbidden area for a given good character. But what about threatening torture, if the PC doesn’t intend to carry out the threat? That falls into the middle circle. Taking this route means players must remember their characters’ alignment and act accordingly. At the same time, while this route goes far toward suggesting how characters might act in specific situations, debates might arise when group members don’t see eye-to-eye about which acts are permissible. Additionally, some characters might have varying access to the gray areas of their alignment, and GMs should discuss where this line exists for characters who face repercussions for deviating from their moral code.<br /><h1 class="title"><a href="Rules.aspx?ID=608">Changing Alignment</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 69</i></a><br />While alignment is often a static trait, options and effects exist that might cause it to change, and players might seek to change their PCs’ alignments for a variety of reasons.<br /><br /> <b>Voluntarily</b>: Aside from merely having misunderstood what a specific alignment means, PCs might seek to change their alignment in light of game events or to qualify for some alignment-related goal. How this change takes shape should be determined by the player and GM. Often, some quest, trauma, rehabilitation, or other life-changing event triggers the alignment change. Players should be sure of their decision, as changing alignment should be the result of an extraordinary effort, not a whim, and a PC with a shifting personality risks losing definition as a character and might begin to seem like he’s trying to exploit the rules.<br /><br /> <b>Involuntarily</b>: All manner of events might lead a character to have an involuntary alignment shift. Some are truly involuntary, as some force overrides or corrupts the PC’s personality. The GM should work with the player in such cases, perhaps making an unnaturally compromised PC a confederate in an ongoing story. Stepping out of the norm and playing her own character in a contradictory fashion can be fun for a player and delightfully unnerving for the rest of a group.<br /><br /> Characters also risk having their alignment changed if they continually act in accordance with an alignment other than the one they chose. For many characters, this matters little, but in the case of characters bound to a specific alignment for rules-related purposes, an alignment change might mean having to reimagine their entire character. Instead of springing this on a player, make it clear when an action risks violating an alignment-related requirement. Sometimes this will be seen as the voice of the character’s conscience, and allow the player to refrain from the action or suitably justify it to themselves (and you) to bring it into accordance with their values.<br /><h1 class="title"><a href="Rules.aspx?ID=609">Evil Characters</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 69</i></a><br />Many GMs refuse to allow players to create characters with evil alignments, as is their prerogative if they feel such a character might disrupt the game or hinder the story. Occasionally, though, your players might have intriguing ideas for antiheroic characters, or you might have a great idea that requires evil characters to play out.<br /><br /> Evil characters present more than just an excuse to engage in offensive behavior or play homicidal maniacs; rather, they allow players to mimic some of the classic cads and antiheroes of legends and fantasy literature. Just like good characters, evil characters have goals and desires and understand the consequences of their actions. Those who do whatever they want without consideration for the rest of the party risk undesirable repercussions. Adventurers who routinely steal from their companions or betray their compatriots are likely to find themselves abandoned or slain. But evil characters who are more than just psychopaths can prove to be valuable members of a group should their goals parallel those of a party. Talk with your players and discuss what makes their characters evil, their goals, and how allying with other adventurers might aid those goals. At the same time, players of good characters should think about why they might travel with such ne’er-do-wells (perhaps out of desperation, responsibility, or the hope of rehabilitation).</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,321 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Feats - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, Feat, Ability Mastery, Compulsion Mastery, Concealment Mastery, Curative Mastery, Curse Mastery, Dispel Mastery, Energy Mastery, Flight Mastery, Force Shield Mastery, Illusion Mastery, Implement Mastery, Racial Item Mastery, Resistance Mastery, Restoration Mastery, Symbolic Mastery, Telekinetic Mastery, Teleportation Mastery, Vision Mastery, Weapon Evoker Mastery" /><meta name="description" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Feats.aspx?Category=Item+Mastery" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDY4MzUzMjE1D2QWAmYPZBYCAgMPZBYCAgEPZBYKAgEPDxYCHgRUZXh0BYcRPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT0iPkdlbmVyYWw8L2E+IHwgPGEgaHJlZj0iQ29tYmF0U3RhbWluYS5hc3B4Ij5Db21iYXQgU3RhbWluYTwvYT48YnIgLz48YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PUFjaGlldmVtZW50Ij5BY2hpZXZlbWVudDwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PUFsaWdubWVudCI+QWxpZ25tZW50PC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9QXJtb3IgTWFzdGVyeSI+QXJtb3IgTWFzdGVyeTwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PUFybW9yIFN0eWxlIj5Bcm1vciBTdHlsZTwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PUJldHJheWFsIj5CZXRyYXlhbDwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PUJsb29kIEhleCI+Qmxvb2QgSGV4PC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9Q2FsbGVkIFNob3QiPkNhbGxlZCBTaG90PC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9Q29tYmF0Ij5Db21iYXQ8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1Db21iaW5hdGlvbiI+Q29tYmluYXRpb248L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1Db25kdWl0Ij5Db25kdWl0PC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9Q292ZW4iPkNvdmVuPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9Q3JpdGljYWwiPkNyaXRpY2FsPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9RGFtbmF0aW9uIj5EYW1uYXRpb248L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1Fc290ZXJpYyI+RXNvdGVyaWM8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1GYWN0aW9uIj5GYWN0aW9uPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9RmFtaWxpYXIiPkZhbWlsaWFyPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9R2F0aGxhaW4gQ291cnQgVGl0bGUiPkdhdGhsYWluIENvdXJ0IFRpdGxlPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9R3JpdCI+R3JpdDwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PUhlcm8gUG9pbnQiPkhlcm8gUG9pbnQ8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1JdGVtIENyZWF0aW9uIj5JdGVtIENyZWF0aW9uPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9SXRlbSBNYXN0ZXJ5Ij5JdGVtIE1hc3Rlcnk8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1NZWRpdGF0aW9uIj5NZWRpdGF0aW9uPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9TWV0YW1hZ2ljIj5NZXRhbWFnaWM8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1Nb25zdGVyIj5Nb25zdGVyPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9T3JpZ2luIj5PcmlnaW48L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1QYW5hY2hlIj5QYW5hY2hlPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9UGVyZm9ybWFuY2UiPlBlcmZvcm1hbmNlPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9U2hpZWxkIE1hc3RlcnkiPlNoaWVsZCBNYXN0ZXJ5PC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9U2hpZWxkIFN0eWxlIj5TaGllbGQgU3R5bGU8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1TdGFyZSI+U3RhcmU8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1TdG9yeSI+U3Rvcnk8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1TdHlsZSI+U3R5bGU8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1UYXJnZXRpbmciPlRhcmdldGluZzwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PVRlYW13b3JrIj5UZWFtd29yazwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PVRyaWNrIj5UcmljazwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PVdlYXBvbiBNYXN0ZXJ5Ij5XZWFwb24gTWFzdGVyeTwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PVdvcmRzIG9mIFBvd2VyIj5Xb3JkcyBvZiBQb3dlcjwvYT5kZAIDDw8WAh8ABZkMPGgyPjxoMSBjbGFzcz0idGl0bGUiPkl0ZW0gTWFzdGVyeSBGZWF0czwvaDE+PC9oMj48Yj5EZXNjcmlwdGlvbiA8L2I+IDxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWhkeT9QYXRoZmluZGVyLVBsYXllci1Db21wYW5pb24tV2VhcG9uLU1hc3RlcnMtSGFuZGJvb2sNCiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5XZWFwb24gTWFzdGVyJ3MgSGFuZGJvb2sgcGcuIDI2PC9pPjwvYT48YnIgLz5Vc2luZyBhbiBpdGVtIG1hc3RlcnkgZmVhdCBpcyBhIHN0YW5kYXJkIGFjdGlvbiB0aGF0IGRvZXNu4oCZdCBwcm92b2tlIGF0dGFja3Mgb2Ygb3Bwb3J0dW5pdHksIHNpbWlsYXIgdG8gYWN0aXZhdGluZyBhIGNvbW1hbmQgd29yZCBpdGVtLCB0aG91Z2ggeW91IGRvIG5vdCBuZWVkIHRvIHNwZWFrIHRvIHVzZSB0aGUgZmVhdC4gQ3JlYXRpbmcgdGhlc2UgZWZmZWN0cyByZXF1aXJlcyB5b3UgdG8gYXNzYXVsdCB0aGUgZXhpc3RpbmcgbWFnaWMgb2YgdGhlIGl0ZW0gdGhyb3VnaCB5b3VyIGZvcmNlIG9mIHdpbGwgYW5kIGNoYW5uZWwgdGhlIGl0ZW3igJlzIGluaGVyZW50IG1hZ2ljIHRocm91Z2ggeW91ciBvd24gYm9keTsgdGhpcyBhY3QgaXMgdGh1cyBnb3Zlcm5lZCBieSB0aGUgdXNlcuKAmXMgZm9ydGl0dWRlLiBBbGwgZWZmZWN0cyBjcmVhdGVkIGJ5IGl0ZW0gbWFzdGVyeSBmZWF0cyBhY3QgYXMgc3BlbGwtbGlrZSBhYmlsaXRpZXMgYW5kIHVzZSB5b3VyIGJhc2UgYXR0YWNrIGJvbnVzIGFzIHRoZSBjYXN0ZXIgbGV2ZWwuIEFueSBzcGVsbC1saWtlIGFiaWxpdHnigJlzIHNhdmUgREMgaXMgZXF1YWwgdG8gMTAgKyB0aGUgc3BlbGwgbGV2ZWwgKyB5b3VyIENvbnN0aXR1dGlvbiBtb2RpZmllci4gSWYgYSBzcGVsbC1saWtlIGFiaWxpdHkgY2FsbHMgZm9yIGEgY2FsY3VsYXRpb24gdXNpbmcgeW91ciBJbnRlbGxpZ2VuY2UsIFdpc2RvbSwgb3IgQ2hhcmlzbWEgYm9udXMgb3IgbW9kaWZpZXIsIHVzZSB5b3VyIENvbnN0aXR1dGlvbiBib251cyBvciBtb2RpZmllciBpbnN0ZWFkLjxiciAvPjxiciAvPiBNYWdpYyBpdGVtIG1hc3RlcnkgaXMgc3RyZXNzZnVsIGZvciB0aGUgaXRlbSBhcyB3ZWxsIGFzIHRoZSB1c2VyIGFuZCBjYW7igJl0IGJlIHBlcmZvcm1lZCBvbiBpdGVtcyB0aGF0IGNhbiBiZSB1c2VkIG9ubHkgYSBsaW1pdGVkIG51bWJlciBvZiB0aW1lcyBvciB0aGF0IG11c3QgYmUgcmVjaGFyZ2VkIChzdWNoIGFzIGVsaXhpcnMsIHBvdGlvbnMsIHNjcm9sbHMsIHN0YWZmcywgYW5kIHdhbmRzKS1pdCByZXF1aXJlcyBpdGVtcyB3aXRoIGNvbnN0YW50IGVmZmVjdHMgb3IgZGFpbHkgdXNlcy4gTWFnaWMgaXRlbSBtYXN0ZXJ5IGRvZXNu4oCZdCBhZmZlY3QgYW4gaXRlbeKAmXMgbm9ybWFsIHByb3BlcnRpZXMgb3IgZGVwbGV0ZSBhbnkgb2YgaXRzIGRhaWx5IHVzZXMuPGJyIC8+PGJyIC8+IFRoZSBmb2xsb3dpbmcgbWFnaWMgaXRlbSBtYXN0ZXJ5IGZlYXRzIGFyZSBhdmFpbGFibGUgdG8gYW55IGNoYXJhY3RlciB3aG8gcXVhbGlmaWVzLjxiciAvPjxiciAvPmRkAgUPDxYCHwAF0wE8ZGl2IHN0eWxlPSJmb250LXNpemU6MTJweCI+PGk+KmNvbWJhdCBmZWF0PC9pPjxiciAvPjxpPjxzdXA+4oqkPC9zdXA+YXJtb3IgbWFzdGVyeSBmZWF0PC9pPjxiciAvPjxpPjxzdXA+4oqk4oqkPC9zdXA+c2hpZWxkIG1hc3RlcnkgZmVhdDwvaT48YnIgLz48aT48c3VwPuKKpOKKpOKKpDwvc3VwPndlYXBvbiBtYXN0ZXJ5IGZlYXQ8L2k+PGJyIC8+PGJyIC8+PC9kaXY+ZGQCBw88KwARAwAPFgQeC18hRGF0YUJvdW5kZx4LXyFJdGVtQ291bnQCE2QBEBYAFgAWAAwUKwAAFgJmD2QWKAIBD2QWBmYPZBYCZg8PFgQfAAX3ATxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2xOLmdpZiIgdGl0bGU9IldoZW4gcXVhbGlmeWluZyBmb3IgYW5kIGNhbGN1bGF0aW5nIHRoZSBiZW5lZml0cyBvZiBhbiBpdGVtIG1hc3RlcnkgZmVhdCwgYSBQQyB1c2VzIHRoZSBiYXNlIEZvcnRpdHVkZSBzYXZlIGJvbnVzIGZyb20gb25seSBvbmUgb2YgaGlzIGNsYXNzZXMuIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBBYmlsaXR5IE1hc3RlcnkeC05hdmlnYXRlVXJsBSlGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUFiaWxpdHkgTWFzdGVyeWRkAgEPDxYCHwAFPlVzZSBNYWdpYyBEZXZpY2UgMyByYW5rcywgYmFzZSBGb3J0aXR1ZGUgc2F2aW5nIHRocm93IGJvbnVzICs0ZGQCAg8PFgIfAAVmR2FpbiBhbiBlbmhhbmNlbWVudCBib251cyB0byBhbiBhYmlsaXR5IHNjb3JlIHdpdGggYSBzdWl0IG9mIG1hZ2ljIGFybW9yIG9yIHRyYW5zbXV0YXRpb24tY3JhZnRlZCBpdGVtZGQCAg9kFgZmD2QWAmYPDxYEHwAF+gE8aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sTi5naWYiIHRpdGxlPSJXaGVuIHF1YWxpZnlpbmcgZm9yIGFuZCBjYWxjdWxhdGluZyB0aGUgYmVuZWZpdHMgb2YgYW4gaXRlbSBtYXN0ZXJ5IGZlYXQsIGEgUEMgdXNlcyB0aGUgYmFzZSBGb3J0aXR1ZGUgc2F2ZSBib251cyBmcm9tIG9ubHkgb25lIG9mIGhpcyBjbGFzc2VzLiIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gQ29tcHVsc2lvbiBNYXN0ZXJ5HwMFLEZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9Q29tcHVsc2lvbiBNYXN0ZXJ5ZGQCAQ8PFgIfAAU2VXNlIE1hZ2ljIERldmljZSAzIHJhbmtzLCBiYXNlIEZvcnRpdHVkZSBzYXZlIGJvbnVzICs2ZGQCAg8PFgIfAAU3Q2FzdCA8aT5zdWdnZXN0aW9uPC9pPiB3aXRoIGFuIGVuY2hhbnRtZW50LWNyYWZ0ZWQgaXRlbWRkAgMPZBYGZg9kFgJmDw8WBB8ABfsBPGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbE4uZ2lmIiB0aXRsZT0iV2hlbiBxdWFsaWZ5aW5nIGZvciBhbmQgY2FsY3VsYXRpbmcgdGhlIGJlbmVmaXRzIG9mIGFuIGl0ZW0gbWFzdGVyeSBmZWF0LCBhIFBDIHVzZXMgdGhlIGJhc2UgRm9ydGl0dWRlIHNhdmUgYm9udXMgZnJvbSBvbmx5IG9uZSBvZiBoaXMgY2xhc3Nlcy4iIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IENvbmNlYWxtZW50IE1hc3RlcnkfAwUtRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1Db25jZWFsbWVudCBNYXN0ZXJ5ZGQCAQ8PFgIfAAVPU3RlYWx0aCAzIHJhbmtzLCBVc2UgTWFnaWMgRGV2aWNlIDMgcmFua3MsIGJhc2UgRm9ydGl0dWRlIHNhdmluZyB0aHJvdyBib251cyArM2RkAgIPDxYCHwAFNkNhc3QgPGk+aW52aXNpYmlsaXR5PC9pPiB3aXRoIGFuIGlsbHVzaW9uLWNyYWZ0ZWQgaXRlbWRkAgQPZBYGZg9kFgJmDw8WBB8ABfgBPGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbE4uZ2lmIiB0aXRsZT0iV2hlbiBxdWFsaWZ5aW5nIGZvciBhbmQgY2FsY3VsYXRpbmcgdGhlIGJlbmVmaXRzIG9mIGFuIGl0ZW0gbWFzdGVyeSBmZWF0LCBhIFBDIHVzZXMgdGhlIGJhc2UgRm9ydGl0dWRlIHNhdmUgYm9udXMgZnJvbSBvbmx5IG9uZSBvZiBoaXMgY2xhc3Nlcy4iIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IEN1cmF0aXZlIE1hc3RlcnkfAwUqRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1DdXJhdGl2ZSBNYXN0ZXJ5ZGQCAQ8PFgIfAAUwVXNlIE1hZ2ljIERldmljZSAxIHJhbmssIGJhc2UgRm9ydGl0dWRlIGJvbnVzICsyZGQCAg8PFgIfAAU0Q2FzdCBoZWFsaW5nIHNwZWxscyB3aXRoIGEgY29uanVyYXRpb24tY3JhZnRlZCBpdGVtIGRkAgUPZBYGZg9kFgJmDw8WBB8ABfUBPGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbE4uZ2lmIiB0aXRsZT0iV2hlbiBxdWFsaWZ5aW5nIGZvciBhbmQgY2FsY3VsYXRpbmcgdGhlIGJlbmVmaXRzIG9mIGFuIGl0ZW0gbWFzdGVyeSBmZWF0LCBhIFBDIHVzZXMgdGhlIGJhc2UgRm9ydGl0dWRlIHNhdmUgYm9udXMgZnJvbSBvbmx5IG9uZSBvZiBoaXMgY2xhc3Nlcy4iIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IEN1cnNlIE1hc3RlcnkfAwUnRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1DdXJzZSBNYXN0ZXJ5ZGQCAQ8PFgIfAAU2VXNlIE1hZ2ljIERldmljZSAzIHJhbmtzLCBiYXNlIEZvcnRpdHVkZSBzYXZlIGJvbnVzICs2ZGQCAg8PFgIfAAU3Q2FzdCA8aT5iZXN0b3cgY3Vyc2U8L2k+IHdpdGggYSBuZWNyb21hbmN5LWNyYWZ0ZWQgaXRlbWRkAgYPZBYGZg9kFgJmDw8WBB8ABfYBPGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbE4uZ2lmIiB0aXRsZT0iV2hlbiBxdWFsaWZ5aW5nIGZvciBhbmQgY2FsY3VsYXRpbmcgdGhlIGJlbmVmaXRzIG9mIGFuIGl0ZW0gbWFzdGVyeSBmZWF0LCBhIFBDIHVzZXMgdGhlIGJhc2UgRm9ydGl0dWRlIHNhdmUgYm9udXMgZnJvbSBvbmx5IG9uZSBvZiBoaXMgY2xhc3Nlcy4iIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IERpc3BlbCBNYXN0ZXJ5HwMFKEZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9RGlzcGVsIE1hc3RlcnlkZAIBDw8WAh8ABTZVc2UgTWFnaWMgRGV2aWNlIDMgcmFua3MsIGJhc2UgRm9ydGl0dWRlIHNhdmUgYm9udXMgKzZkZAICDw8WAh8ABThDYXN0IDxpPmRpc3BlbCBtYWdpYzwvaT4gd2l0aCBhbiBhYmp1cmF0aW9uLWNyYWZ0ZWQgaXRlbWRkAgcPZBYGZg9kFgJmDw8WBB8ABfYBPGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbE4uZ2lmIiB0aXRsZT0iV2hlbiBxdWFsaWZ5aW5nIGZvciBhbmQgY2FsY3VsYXRpbmcgdGhlIGJlbmVmaXRzIG9mIGFuIGl0ZW0gbWFzdGVyeSBmZWF0LCBhIFBDIHVzZXMgdGhlIGJhc2UgRm9ydGl0dWRlIHNhdmUgYm9udXMgZnJvbSBvbmx5IG9uZSBvZiBoaXMgY2xhc3Nlcy4iIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IEVuZXJneSBNYXN0ZXJ5HwMFKEZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9RW5lcmd5IE1hc3RlcnlkZAIBDw8WAh8ABTVVc2UgTWFnaWMgRGV2aWNlIDEgcmFuaywgYmFzZSBGb3J0aXR1ZGUgc2F2ZSBib251cyArNGRkAgIPDxYCHwAFUUNhc3QgPGk+YnVybmluZyBoYW5kczwvaT4gb3IgPGk+bGlnaHRuaW5nIGJvbHQ8L2k+IHdpdGggYW4gZXZvY2F0aW9uLWNyYWZ0ZWQgaXRlbWRkAggPZBYGZg9kFgJmDw8WBB8ABfYBPGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbE4uZ2lmIiB0aXRsZT0iV2hlbiBxdWFsaWZ5aW5nIGZvciBhbmQgY2FsY3VsYXRpbmcgdGhlIGJlbmVmaXRzIG9mIGFuIGl0ZW0gbWFzdGVyeSBmZWF0LCBhIFBDIHVzZXMgdGhlIGJhc2UgRm9ydGl0dWRlIHNhdmUgYm9udXMgZnJvbSBvbmx5IG9uZSBvZiBoaXMgY2xhc3Nlcy4iIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IEZsaWdodCBNYXN0ZXJ5HwMFKEZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9RmxpZ2h0IE1hc3RlcnlkZAIBDw8WAh8ABTZVc2UgTWFnaWMgRGV2aWNlIDMgcmFua3MsIGJhc2UgRm9ydGl0dWRlIHNhdmUgYm9udXMgKzZkZAICDw8WAh8ABTFDYXN0IDxpPmZseTwvaT4gd2l0aCBhIHRyYW5zbXV0YXRpb24tY3JhZnRlZCBpdGVtZGQCCQ9kFgZmD2QWAmYPDxYEHwAF/AE8aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sTi5naWYiIHRpdGxlPSJXaGVuIHF1YWxpZnlpbmcgZm9yIGFuZCBjYWxjdWxhdGluZyB0aGUgYmVuZWZpdHMgb2YgYW4gaXRlbSBtYXN0ZXJ5IGZlYXQsIGEgUEMgdXNlcyB0aGUgYmFzZSBGb3J0aXR1ZGUgc2F2ZSBib251cyBmcm9tIG9ubHkgb25lIG9mIGhpcyBjbGFzc2VzLiIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gRm9yY2UgU2hpZWxkIE1hc3RlcnkfAwUuRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1Gb3JjZSBTaGllbGQgTWFzdGVyeWRkAgEPDxYCHwAFPlVzZSBNYWdpYyBEZXZpY2UgMyByYW5rcywgYmFzZSBGb3J0aXR1ZGUgc2F2aW5nIHRocm93IGJvbnVzICszZGQCAg8PFgIfAAUyQ2FzdCA8aT5zaGllbGQ8L2k+IHdpdGggYW4gYWJqdXJhdGlvbi1jcmFmdGVkIGl0ZW1kZAIKD2QWBmYPZBYCZg8PFgQfAAX4ATxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2xOLmdpZiIgdGl0bGU9IldoZW4gcXVhbGlmeWluZyBmb3IgYW5kIGNhbGN1bGF0aW5nIHRoZSBiZW5lZml0cyBvZiBhbiBpdGVtIG1hc3RlcnkgZmVhdCwgYSBQQyB1c2VzIHRoZSBiYXNlIEZvcnRpdHVkZSBzYXZlIGJvbnVzIGZyb20gb25seSBvbmUgb2YgaGlzIGNsYXNzZXMuIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBJbGx1c2lvbiBNYXN0ZXJ5HwMFKkZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9SWxsdXNpb24gTWFzdGVyeWRkAgEPDxYCHwAFNlVzZSBNYWdpYyBEZXZpY2UgMiByYW5rcywgYmFzZSBGb3J0aXR1ZGUgc2F2ZSBib251cyArNGRkAgIPDxYCHwAFNUNhc3QgPGk+bWlub3IgaW1hZ2U8L2k+IHdpdGggYW4gaWxsdXNpb24tY3JhZnRlZCBpdGVtZGQCCw9kFgZmD2QWAmYPDxYEHwAF+QE8aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sTi5naWYiIHRpdGxlPSJXaGVuIHF1YWxpZnlpbmcgZm9yIGFuZCBjYWxjdWxhdGluZyB0aGUgYmVuZWZpdHMgb2YgYW4gaXRlbSBtYXN0ZXJ5IGZlYXQsIGEgUEMgdXNlcyB0aGUgYmFzZSBGb3J0aXR1ZGUgc2F2ZSBib251cyBmcm9tIG9ubHkgb25lIG9mIGhpcyBjbGFzc2VzLiIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gSW1wbGVtZW50IE1hc3RlcnkfAwUrRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1JbXBsZW1lbnQgTWFzdGVyeWRkAgEPDxYCHwAFTkltcGxlbWVudHM8c3VwPk9BPC9zdXA+IGNsYXNzIGZlYXR1cmUsIG1lbnRhbCBmb2N1czxzdXA+T0E8L3N1cD4gY2xhc3MgZmVhdHVyZWRkAgIPDxYCHwAFV1RyZWF0IHlvdXIgaW1wbGVtZW50cyBhcyBtYWdpYyBpdGVtcyBvZiB0aGVpciBhc3NvY2lhdGVkIHNjaG9vbCBmb3IgSXRlbSBNYXN0ZXJ5IGZlYXRzLmRkAgwPZBYGZg9kFgJmDw8WBB8ABfsBPGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbE4uZ2lmIiB0aXRsZT0iV2hlbiBxdWFsaWZ5aW5nIGZvciBhbmQgY2FsY3VsYXRpbmcgdGhlIGJlbmVmaXRzIG9mIGFuIGl0ZW0gbWFzdGVyeSBmZWF0LCBhIFBDIHVzZXMgdGhlIGJhc2UgRm9ydGl0dWRlIHNhdmUgYm9udXMgZnJvbSBvbmx5IG9uZSBvZiBoaXMgY2xhc3Nlcy4iIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IFJhY2lhbCBJdGVtIE1hc3RlcnkfAwUtRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1SYWNpYWwgSXRlbSBNYXN0ZXJ5ZGQCAQ8PFgIfAAU+VXNlIE1hZ2ljIERldmljZSA2IHJhbmtzLCBiYXNlIEZvcnRpdHVkZSBzYXZpbmcgdGhyb3cgYm9udXMgKzNkZAICDw8WAh8ABT5Vc2UgYSBtYWdpYyBpdGVtIHRvIHJlY2hhcmdlIHlvdXIgcmFjaWFsIHNwZWxsLWxpa2UgYWJpbGl0aWVzLmRkAg0PZBYGZg9kFgJmDw8WBB8ABfoBPGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbE4uZ2lmIiB0aXRsZT0iV2hlbiBxdWFsaWZ5aW5nIGZvciBhbmQgY2FsY3VsYXRpbmcgdGhlIGJlbmVmaXRzIG9mIGFuIGl0ZW0gbWFzdGVyeSBmZWF0LCBhIFBDIHVzZXMgdGhlIGJhc2UgRm9ydGl0dWRlIHNhdmUgYm9udXMgZnJvbSBvbmx5IG9uZSBvZiBoaXMgY2xhc3Nlcy4iIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IFJlc2lzdGFuY2UgTWFzdGVyeR8DBSxGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPVJlc2lzdGFuY2UgTWFzdGVyeWRkAgEPDxYCHwAFPlVzZSBNYWdpYyBEZXZpY2UgMyByYW5rcywgYmFzZSBGb3J0aXR1ZGUgc2F2aW5nIHRocm93IGJvbnVzICszZGQCAg8PFgIfAAVrR2FpbiBhIHJlc2lzdGFuY2UgYm9udXMgdG8gc2F2ZXMgb3IgZW5lcmd5IHJlc2lzdGFuY2Ugd2l0aCBhIHN1aXQgb2YgbWFnaWMgYXJtb3Igb3IgYWJqdXJhdGlvbi1jcmFmdGVkIGl0ZW1kZAIOD2QWBmYPZBYCZg8PFgQfAAX7ATxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2xOLmdpZiIgdGl0bGU9IldoZW4gcXVhbGlmeWluZyBmb3IgYW5kIGNhbGN1bGF0aW5nIHRoZSBiZW5lZml0cyBvZiBhbiBpdGVtIG1hc3RlcnkgZmVhdCwgYSBQQyB1c2VzIHRoZSBiYXNlIEZvcnRpdHVkZSBzYXZlIGJvbnVzIGZyb20gb25seSBvbmUgb2YgaGlzIGNsYXNzZXMuIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBSZXN0b3JhdGlvbiBNYXN0ZXJ5HwMFLUZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9UmVzdG9yYXRpb24gTWFzdGVyeWRkAgEPDxYCHwAFTEhlYWwgNSByYW5rcywgVXNlIE1hZ2ljIERldmljZSA1IHJhbmtzLCBiYXNlIEZvcnRpdHVkZSBzYXZpbmcgdGhyb3cgYm9udXMgKzNkZAICDw8WAh8ABUhDYXN0IDxpPmxlc3NlciByZXN0b3JhdGlvbjwvaT4gd2l0aCBhIGNvbmp1cmF0aW9uIChoZWFsaW5nKS1jcmFmdGVkIGl0ZW1kZAIPD2QWBmYPZBYCZg8PFgQfAAX4ATxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2xOLmdpZiIgdGl0bGU9IldoZW4gcXVhbGlmeWluZyBmb3IgYW5kIGNhbGN1bGF0aW5nIHRoZSBiZW5lZml0cyBvZiBhbiBpdGVtIG1hc3RlcnkgZmVhdCwgYSBQQyB1c2VzIHRoZSBiYXNlIEZvcnRpdHVkZSBzYXZlIGJvbnVzIGZyb20gb25seSBvbmUgb2YgaGlzIGNsYXNzZXMuIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBTeW1ib2xpYyBNYXN0ZXJ5HwMFKkZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9U3ltYm9saWMgTWFzdGVyeWRkAgEPDxYCHwAFP1VzZSBNYWdpYyBEZXZpY2UgNCByYW5rcywgYmFzZSBGb3J0aXR1ZGUgc2F2aW5nIHRocm93IGJvbnVzICsyLmRkAgIPDxYCHwAFL0xhdW5jaCBkZXN0cnVjdGl2ZSBibGFzdHMgZnJvbSB5b3VyIGhvbHkgc3ltYm9sZGQCEA9kFgZmD2QWAmYPDxYEHwAF/AE8aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sTi5naWYiIHRpdGxlPSJXaGVuIHF1YWxpZnlpbmcgZm9yIGFuZCBjYWxjdWxhdGluZyB0aGUgYmVuZWZpdHMgb2YgYW4gaXRlbSBtYXN0ZXJ5IGZlYXQsIGEgUEMgdXNlcyB0aGUgYmFzZSBGb3J0aXR1ZGUgc2F2ZSBib251cyBmcm9tIG9ubHkgb25lIG9mIGhpcyBjbGFzc2VzLiIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gVGVsZWtpbmV0aWMgTWFzdGVyeSofAwUtRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1UZWxla2luZXRpYyBNYXN0ZXJ5ZGQCAQ8PFgIfAAU2VXNlIE1hZ2ljIERldmljZSA1IHJhbmtzLCBiYXNlIEZvcnRpdHVkZSBzYXZlIGJvbnVzICs3ZGQCAg8PFgIfAAU5Q2FzdCA8aT50ZWxla2luZXNpczwvaT4gd2l0aCBhIHRyYW5zbXV0YXRpb24tY3JhZnRlZCBpdGVtZGQCEQ9kFgZmD2QWAmYPDxYEHwAF/QE8aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sTi5naWYiIHRpdGxlPSJXaGVuIHF1YWxpZnlpbmcgZm9yIGFuZCBjYWxjdWxhdGluZyB0aGUgYmVuZWZpdHMgb2YgYW4gaXRlbSBtYXN0ZXJ5IGZlYXQsIGEgUEMgdXNlcyB0aGUgYmFzZSBGb3J0aXR1ZGUgc2F2ZSBib251cyBmcm9tIG9ubHkgb25lIG9mIGhpcyBjbGFzc2VzLiIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gVGVsZXBvcnRhdGlvbiBNYXN0ZXJ5HwMFL0ZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9VGVsZXBvcnRhdGlvbiBNYXN0ZXJ5ZGQCAQ8PFgIfAAU2VXNlIE1hZ2ljIERldmljZSA0IHJhbmtzLCBiYXNlIEZvcnRpdHVkZSBzYXZlIGJvbnVzICs2ZGQCAg8PFgIfAAU6Q2FzdCA8aT5kaW1lbnNpb24gZG9vcjwvaT4gd2l0aCBhIGNvbmp1cmF0aW9uLWNyYWZ0ZWQgaXRlbWRkAhIPZBYGZg9kFgJmDw8WBB8ABfYBPGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbE4uZ2lmIiB0aXRsZT0iV2hlbiBxdWFsaWZ5aW5nIGZvciBhbmQgY2FsY3VsYXRpbmcgdGhlIGJlbmVmaXRzIG9mIGFuIGl0ZW0gbWFzdGVyeSBmZWF0LCBhIFBDIHVzZXMgdGhlIGJhc2UgRm9ydGl0dWRlIHNhdmUgYm9udXMgZnJvbSBvbmx5IG9uZSBvZiBoaXMgY2xhc3Nlcy4iIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IFZpc2lvbiBNYXN0ZXJ5HwMFKEZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9VmlzaW9uIE1hc3RlcnlkZAIBDw8WAh8ABTZVc2UgTWFnaWMgRGV2aWNlIDIgcmFua3MsIGJhc2UgRm9ydGl0dWRlIHNhdmUgYm9udXMgKzRkZAICDw8WAh8ABVBDYXN0IDxpPmRhcmt2aXNpb248L2k+IG9yIDxpPnNlZSBpbnZpc2liaWxpdHk8L2k+IHdpdGggYSBkaXZpbmF0aW9uLWNyYWZ0ZWQgaXRlbWRkAhMPZBYGZg9kFgJmDw8WBB8ABf0BPGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbE4uZ2lmIiB0aXRsZT0iV2hlbiBxdWFsaWZ5aW5nIGZvciBhbmQgY2FsY3VsYXRpbmcgdGhlIGJlbmVmaXRzIG9mIGFuIGl0ZW0gbWFzdGVyeSBmZWF0LCBhIFBDIHVzZXMgdGhlIGJhc2UgRm9ydGl0dWRlIHNhdmUgYm9udXMgZnJvbSBvbmx5IG9uZSBvZiBoaXMgY2xhc3Nlcy4iIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IFdlYXBvbiBFdm9rZXIgTWFzdGVyeR8DBS9GZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPVdlYXBvbiBFdm9rZXIgTWFzdGVyeWRkAgEPDxYCHwAFPlVzZSBNYWdpYyBEZXZpY2UgMiByYW5rcywgYmFzZSBGb3J0aXR1ZGUgc2F2aW5nIHRocm93IGJvbnVzICszZGQCAg8PFgIfAAU8QW1wbGlmeSB0aGUgcG93ZXIgb2YgYSBtYWdpYyB3ZWFwb24gdGhhdCBkZWFscyBlbmVyZ3kgZGFtYWdlZGQCFA8PFgIeB1Zpc2libGVoZGQCCQ8PZDwrAAYAZBgBBRtjdGwwMCRNYWluQ29udGVudCRHcmlkVmlldzYPPCsADAMGFQEGSXRlbUlkBxQrABMUKwABAvoTFCsAAQLMEhQrAAEC+xMUKwABAsEUFCsAAQLNEhQrAAECzhIUKwABAs8SFCsAAQLQEhQrAAEC/BMUKwABAtESFCsAAQL9ExQrAAEC/hMUKwABAv8TFCsAAQKAFBQrAAECgRQUKwABAtISFCsAAQLTEhQrAAEC1BIUKwABAoIUCAIBZLU9medxhK6POWZ7BtLyQkn5asUIEO5AihNPpWG96wyE" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="59D2DE08" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <h2 style="text-align: center"><span id="MainContent_AllFeatLabel"><a href="Feats.aspx?Category=">General</a> | <a href="CombatStamina.aspx">Combat Stamina</a><br /><a href="Feats.aspx?Category=Achievement">Achievement</a> | <a href="Feats.aspx?Category=Alignment">Alignment</a> | <a href="Feats.aspx?Category=Armor Mastery">Armor Mastery</a> | <a href="Feats.aspx?Category=Armor Style">Armor Style</a> | <a href="Feats.aspx?Category=Betrayal">Betrayal</a> | <a href="Feats.aspx?Category=Blood Hex">Blood Hex</a> | <a href="Feats.aspx?Category=Called Shot">Called Shot</a> | <a href="Feats.aspx?Category=Combat">Combat</a> | <a href="Feats.aspx?Category=Combination">Combination</a> | <a href="Feats.aspx?Category=Conduit">Conduit</a> | <a href="Feats.aspx?Category=Coven">Coven</a> | <a href="Feats.aspx?Category=Critical">Critical</a> | <a href="Feats.aspx?Category=Damnation">Damnation</a> | <a href="Feats.aspx?Category=Esoteric">Esoteric</a> | <a href="Feats.aspx?Category=Faction">Faction</a> | <a href="Feats.aspx?Category=Familiar">Familiar</a> | <a href="Feats.aspx?Category=Gathlain Court Title">Gathlain Court Title</a> | <a href="Feats.aspx?Category=Grit">Grit</a> | <a href="Feats.aspx?Category=Hero Point">Hero Point</a> | <a href="Feats.aspx?Category=Item Creation">Item Creation</a> | <a href="Feats.aspx?Category=Item Mastery">Item Mastery</a> | <a href="Feats.aspx?Category=Meditation">Meditation</a> | <a href="Feats.aspx?Category=Metamagic">Metamagic</a> | <a href="Feats.aspx?Category=Monster">Monster</a> | <a href="Feats.aspx?Category=Origin">Origin</a> | <a href="Feats.aspx?Category=Panache">Panache</a> | <a href="Feats.aspx?Category=Performance">Performance</a> | <a href="Feats.aspx?Category=Shield Mastery">Shield Mastery</a> | <a href="Feats.aspx?Category=Shield Style">Shield Style</a> | <a href="Feats.aspx?Category=Stare">Stare</a> | <a href="Feats.aspx?Category=Story">Story</a> | <a href="Feats.aspx?Category=Style">Style</a> | <a href="Feats.aspx?Category=Targeting">Targeting</a> | <a href="Feats.aspx?Category=Teamwork">Teamwork</a> | <a href="Feats.aspx?Category=Trick">Trick</a> | <a href="Feats.aspx?Category=Weapon Mastery">Weapon Mastery</a> | <a href="Feats.aspx?Category=Words of Power">Words of Power</a></span></h2>
+    <span id="MainContent_FeatLabel"><h2><h1 class="title">Item Mastery Feats</h1></h2><b>Description </b> <b>Source</b> <a href="http://paizo.com/products/btpy9hdy?Pathfinder-Player-Companion-Weapon-Masters-Handbook
+" target="_blank" class="external-link"><i>Weapon Master's Handbook pg. 26</i></a><br />Using an item mastery feat is a standard action that doesn’t provoke attacks of opportunity, similar to activating a command word item, though you do not need to speak to use the feat. Creating these effects requires you to assault the existing magic of the item through your force of will and channel the item’s inherent magic through your own body; this act is thus governed by the user’s fortitude. All effects created by item mastery feats act as spell-like abilities and use your base attack bonus as the caster level. Any spell-like ability’s save DC is equal to 10 + the spell level + your Constitution modifier. If a spell-like ability calls for a calculation using your Intelligence, Wisdom, or Charisma bonus or modifier, use your Constitution bonus or modifier instead.<br /><br /> Magic item mastery is stressful for the item as well as the user and can’t be performed on items that can be used only a limited number of times or that must be recharged (such as elixirs, potions, scrolls, staffs, and wands)-it requires items with constant effects or daily uses. Magic item mastery doesn’t affect an item’s normal properties or deplete any of its daily uses.<br /><br /> The following magic item mastery feats are available to any character who qualifies.<br /><br /></span>
+    <span id="MainContent_FeatLabel2"><div style="font-size:12px"><i>*combat feat</i><br /><i><sup>⊤</sup>armor mastery feat</i><br /><i><sup>⊤⊤</sup>shield mastery feat</i><br /><i><sup>⊤⊤⊤</sup>weapon mastery feat</i><br /><br /></div></span>
+    <div>
+	<table cellspacing="0" cellpadding="3" rules="cols" id="MainContent_GridView6" style="color:Black;background-color:White;border-color:#999999;border-width:1px;border-style:Solid;border-collapse:collapse;">
+		<tr style="color:White;background-color:Black;font-weight:bold;">
+			<th scope="col">Name</th><th scope="col">Prerequisite</th><th scope="col">Description</th>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Ability Mastery"><img src="images\PathfinderSocietySymbolN.gif" title="When qualifying for and calculating the benefits of an item mastery feat, a PC uses the base Fortitude save bonus from only one of his classes." style="margin:3px 3px 0px 3px;"> Ability Mastery</a></td><td>Use Magic Device 3 ranks, base Fortitude saving throw bonus +4</td><td>Gain an enhancement bonus to an ability score with a suit of magic armor or transmutation-crafted item</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Compulsion Mastery"><img src="images\PathfinderSocietySymbolN.gif" title="When qualifying for and calculating the benefits of an item mastery feat, a PC uses the base Fortitude save bonus from only one of his classes." style="margin:3px 3px 0px 3px;"> Compulsion Mastery</a></td><td>Use Magic Device 3 ranks, base Fortitude save bonus +6</td><td>Cast <i>suggestion</i> with an enchantment-crafted item</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Concealment Mastery"><img src="images\PathfinderSocietySymbolN.gif" title="When qualifying for and calculating the benefits of an item mastery feat, a PC uses the base Fortitude save bonus from only one of his classes." style="margin:3px 3px 0px 3px;"> Concealment Mastery</a></td><td>Stealth 3 ranks, Use Magic Device 3 ranks, base Fortitude saving throw bonus +3</td><td>Cast <i>invisibility</i> with an illusion-crafted item</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Curative Mastery"><img src="images\PathfinderSocietySymbolN.gif" title="When qualifying for and calculating the benefits of an item mastery feat, a PC uses the base Fortitude save bonus from only one of his classes." style="margin:3px 3px 0px 3px;"> Curative Mastery</a></td><td>Use Magic Device 1 rank, base Fortitude bonus +2</td><td>Cast healing spells with a conjuration-crafted item </td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Curse Mastery"><img src="images\PathfinderSocietySymbolN.gif" title="When qualifying for and calculating the benefits of an item mastery feat, a PC uses the base Fortitude save bonus from only one of his classes." style="margin:3px 3px 0px 3px;"> Curse Mastery</a></td><td>Use Magic Device 3 ranks, base Fortitude save bonus +6</td><td>Cast <i>bestow curse</i> with a necromancy-crafted item</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Dispel Mastery"><img src="images\PathfinderSocietySymbolN.gif" title="When qualifying for and calculating the benefits of an item mastery feat, a PC uses the base Fortitude save bonus from only one of his classes." style="margin:3px 3px 0px 3px;"> Dispel Mastery</a></td><td>Use Magic Device 3 ranks, base Fortitude save bonus +6</td><td>Cast <i>dispel magic</i> with an abjuration-crafted item</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Energy Mastery"><img src="images\PathfinderSocietySymbolN.gif" title="When qualifying for and calculating the benefits of an item mastery feat, a PC uses the base Fortitude save bonus from only one of his classes." style="margin:3px 3px 0px 3px;"> Energy Mastery</a></td><td>Use Magic Device 1 rank, base Fortitude save bonus +4</td><td>Cast <i>burning hands</i> or <i>lightning bolt</i> with an evocation-crafted item</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Flight Mastery"><img src="images\PathfinderSocietySymbolN.gif" title="When qualifying for and calculating the benefits of an item mastery feat, a PC uses the base Fortitude save bonus from only one of his classes." style="margin:3px 3px 0px 3px;"> Flight Mastery</a></td><td>Use Magic Device 3 ranks, base Fortitude save bonus +6</td><td>Cast <i>fly</i> with a transmutation-crafted item</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Force Shield Mastery"><img src="images\PathfinderSocietySymbolN.gif" title="When qualifying for and calculating the benefits of an item mastery feat, a PC uses the base Fortitude save bonus from only one of his classes." style="margin:3px 3px 0px 3px;"> Force Shield Mastery</a></td><td>Use Magic Device 3 ranks, base Fortitude saving throw bonus +3</td><td>Cast <i>shield</i> with an abjuration-crafted item</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Illusion Mastery"><img src="images\PathfinderSocietySymbolN.gif" title="When qualifying for and calculating the benefits of an item mastery feat, a PC uses the base Fortitude save bonus from only one of his classes." style="margin:3px 3px 0px 3px;"> Illusion Mastery</a></td><td>Use Magic Device 2 ranks, base Fortitude save bonus +4</td><td>Cast <i>minor image</i> with an illusion-crafted item</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Implement Mastery"><img src="images\PathfinderSocietySymbolN.gif" title="When qualifying for and calculating the benefits of an item mastery feat, a PC uses the base Fortitude save bonus from only one of his classes." style="margin:3px 3px 0px 3px;"> Implement Mastery</a></td><td>Implements<sup>OA</sup> class feature, mental focus<sup>OA</sup> class feature</td><td>Treat your implements as magic items of their associated school for Item Mastery feats.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Racial Item Mastery"><img src="images\PathfinderSocietySymbolN.gif" title="When qualifying for and calculating the benefits of an item mastery feat, a PC uses the base Fortitude save bonus from only one of his classes." style="margin:3px 3px 0px 3px;"> Racial Item Mastery</a></td><td>Use Magic Device 6 ranks, base Fortitude saving throw bonus +3</td><td>Use a magic item to recharge your racial spell-like abilities.</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Resistance Mastery"><img src="images\PathfinderSocietySymbolN.gif" title="When qualifying for and calculating the benefits of an item mastery feat, a PC uses the base Fortitude save bonus from only one of his classes." style="margin:3px 3px 0px 3px;"> Resistance Mastery</a></td><td>Use Magic Device 3 ranks, base Fortitude saving throw bonus +3</td><td>Gain a resistance bonus to saves or energy resistance with a suit of magic armor or abjuration-crafted item</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Restoration Mastery"><img src="images\PathfinderSocietySymbolN.gif" title="When qualifying for and calculating the benefits of an item mastery feat, a PC uses the base Fortitude save bonus from only one of his classes." style="margin:3px 3px 0px 3px;"> Restoration Mastery</a></td><td>Heal 5 ranks, Use Magic Device 5 ranks, base Fortitude saving throw bonus +3</td><td>Cast <i>lesser restoration</i> with a conjuration (healing)-crafted item</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Symbolic Mastery"><img src="images\PathfinderSocietySymbolN.gif" title="When qualifying for and calculating the benefits of an item mastery feat, a PC uses the base Fortitude save bonus from only one of his classes." style="margin:3px 3px 0px 3px;"> Symbolic Mastery</a></td><td>Use Magic Device 4 ranks, base Fortitude saving throw bonus +2.</td><td>Launch destructive blasts from your holy symbol</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Telekinetic Mastery"><img src="images\PathfinderSocietySymbolN.gif" title="When qualifying for and calculating the benefits of an item mastery feat, a PC uses the base Fortitude save bonus from only one of his classes." style="margin:3px 3px 0px 3px;"> Telekinetic Mastery*</a></td><td>Use Magic Device 5 ranks, base Fortitude save bonus +7</td><td>Cast <i>telekinesis</i> with a transmutation-crafted item</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Teleportation Mastery"><img src="images\PathfinderSocietySymbolN.gif" title="When qualifying for and calculating the benefits of an item mastery feat, a PC uses the base Fortitude save bonus from only one of his classes." style="margin:3px 3px 0px 3px;"> Teleportation Mastery</a></td><td>Use Magic Device 4 ranks, base Fortitude save bonus +6</td><td>Cast <i>dimension door</i> with a conjuration-crafted item</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Vision Mastery"><img src="images\PathfinderSocietySymbolN.gif" title="When qualifying for and calculating the benefits of an item mastery feat, a PC uses the base Fortitude save bonus from only one of his classes." style="margin:3px 3px 0px 3px;"> Vision Mastery</a></td><td>Use Magic Device 2 ranks, base Fortitude save bonus +4</td><td>Cast <i>darkvision</i> or <i>see invisibility</i> with a divination-crafted item</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Weapon Evoker Mastery"><img src="images\PathfinderSocietySymbolN.gif" title="When qualifying for and calculating the benefits of an item mastery feat, a PC uses the base Fortitude save bonus from only one of his classes." style="margin:3px 3px 0px 3px;"> Weapon Evoker Mastery</a></td><td>Use Magic Device 2 ranks, base Fortitude saving throw bonus +3</td><td>Amplify the power of a magic weapon that deals energy damage</td>
+		</tr>
+	</table>
+</div><br />
+   
+    
+    
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

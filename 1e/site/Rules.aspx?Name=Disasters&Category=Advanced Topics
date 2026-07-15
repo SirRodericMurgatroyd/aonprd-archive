@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Disasters - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Disasters" /><meta name="description" content="Natural disasters go far beyond any mere environmental hazard, leaving death and devastation in their wake. Supernatural disasters can be even more disruptive, with the potential to forever scar a world. A disaster is much more like an adventure than an encounter, and does not have a specific Challenge Rating. Rather, each portion of the disaster should be treated as a separate encounter designed with a CR appropriate to the PCs.&lt;br />&lt;br /> Presented below are rules for handling the effects of three different types of disasters, both natural and supernatural. Some disasters happen quickly, like earthquakes and tsunamis, while others progress through several stages, like forest fires, volcanoes, and undead uprisings. Adjust the pacing of the adventure to fit the disaster, allowing the events to unfold over mere minutes or over several days as your needs require." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=878" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWNXTx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDU0Ij5HYW1lTWFzdGVyeSBHdWlkZTwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD04NzAiPkFkdmFuY2VkIFRvcGljczwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD04NzgiPkRpc2FzdGVyczwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDIzNDwvaT48L2E+PGJyIC8+TmF0dXJhbCBkaXNhc3RlcnMgZ28gZmFyIGJleW9uZCBhbnkgbWVyZSBlbnZpcm9ubWVudGFsIGhhemFyZCwgbGVhdmluZyBkZWF0aCBhbmQgZGV2YXN0YXRpb24gaW4gdGhlaXIgd2FrZS4gU3VwZXJuYXR1cmFsIGRpc2FzdGVycyBjYW4gYmUgZXZlbiBtb3JlIGRpc3J1cHRpdmUsIHdpdGggdGhlIHBvdGVudGlhbCB0byBmb3JldmVyIHNjYXIgYSB3b3JsZC4gQSBkaXNhc3RlciBpcyBtdWNoIG1vcmUgbGlrZSBhbiBhZHZlbnR1cmUgdGhhbiBhbiBlbmNvdW50ZXIsIGFuZCBkb2VzIG5vdCBoYXZlIGEgc3BlY2lmaWMgQ2hhbGxlbmdlIFJhdGluZy4gUmF0aGVyLCBlYWNoIHBvcnRpb24gb2YgdGhlIGRpc2FzdGVyIHNob3VsZCBiZSB0cmVhdGVkIGFzIGEgc2VwYXJhdGUgZW5jb3VudGVyIGRlc2lnbmVkIHdpdGggYSBDUiBhcHByb3ByaWF0ZSB0byB0aGUgUENzLjxiciAvPjxiciAvPiBQcmVzZW50ZWQgYmVsb3cgYXJlIHJ1bGVzIGZvciBoYW5kbGluZyB0aGUgZWZmZWN0cyBvZiB0aHJlZSBkaWZmZXJlbnQgdHlwZXMgb2YgZGlzYXN0ZXJzLCBib3RoIG5hdHVyYWwgYW5kIHN1cGVybmF0dXJhbC4gU29tZSBkaXNhc3RlcnMgaGFwcGVuIHF1aWNrbHksIGxpa2UgZWFydGhxdWFrZXMgYW5kIHRzdW5hbWlzLCB3aGlsZSBvdGhlcnMgcHJvZ3Jlc3MgdGhyb3VnaCBzZXZlcmFsIHN0YWdlcywgbGlrZSBmb3Jlc3QgZmlyZXMsIHZvbGNhbm9lcywgYW5kIHVuZGVhZCB1cHJpc2luZ3MuIEFkanVzdCB0aGUgcGFjaW5nIG9mIHRoZSBhZHZlbnR1cmUgdG8gZml0IHRoZSBkaXNhc3RlciwgYWxsb3dpbmcgdGhlIGV2ZW50cyB0byB1bmZvbGQgb3ZlciBtZXJlIG1pbnV0ZXMgb3Igb3ZlciBzZXZlcmFsIGRheXMgYXMgeW91ciBuZWVkcyByZXF1aXJlLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9ODc5Ij5Wb2xjYW5vZXM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiAyMzQ8L2k+PC9hPjxiciAvPldoZW4gdGhlIHdvcmxk4oCZcyBjcnVzdCBydXB0dXJlcyBhbmQgZXhwZWxzIGl0cyBtb2x0ZW4gaGVhcnQsIG9uZSBvZiB0aGUgbW9zdCBkcmFtYXRpYyBuYXR1cmFsIGRpc2FzdGVycyByZXN1bHRzOiBhIHZvbGNhbm8uIFZvbGNhbmljIGVydXB0aW9ucyBvZmZlciBhIHdpZGUgcmFuZ2Ugb2Ygb3B0aW9ucyBmb3IgdGhlIEdNLCBpbmNsdWRpbmcgbGF2YSwgbGF2YSBib21icywgcG9pc29ub3VzIGdhc2VzLCBhbmQgcHlyb2NsYXN0aWMgZmxvd3MuIEdNcyBtaWdodCBhbHNvIGNvbnNpZGVyIHByZXNhZ2luZyBhIGRyYW1hdGljIHZvbGNhbmljIGVydXB0aW9uIHdpdGggZXhpc3RpbmcgaGF6YXJkcywgbGlrZSBhdmFsYW5jaGVzIGFuZCBtaW5vciBlYXJ0aHF1YWtlcy48YnIgLz48aDIgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTg4MCI+TGF2YTwvYT48L2gyPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDIzNDwvaT48L2E+PGJyIC8+TGF2YSBmbG93cyBhcmUgdXN1YWxseSBhc3NvY2lhdGVkIHdpdGggbm9uZXhwbG9zaXZlIGVydXB0aW9ucywgYW5kIGNhbiBiZSBhIHBlcm1hbmVudCBmaXh0dXJlIG9mIGFjdGl2ZSB2b2xjYW5vZXMuIE1vc3QgbGF2YSBmbG93cyBhcmUgcXVpdGUgc2xvdywgbW92aW5nIGF0IDE1IGZlZXQgcGVyIHJvdW5kLiBIb3R0ZXIgZmxvd3MgbW92ZSBmYXN0ZXIsIGFjaGlldmluZyBzcGVlZHMgdXAgdG8gNjAgZmVldCBwZXIgcm91bmQuIExhdmEgaW4gYSBjaGFubmVsIHN1Y2ggYXMgYSBsYXZhIHR1YmUgaXMgZXNwZWNpYWxseSBkYW5nZXJvdXMsIG1vdmluZyBhcyBmYXN0IGFzIDEyMCBmZWV0IHBlciByb3VuZCAoYSBDUiA2IGhhemFyZCkuIENyZWF0dXJlcyBvdmVycnVuIGJ5IGEgbGF2YSBmbG93IG11c3QgbWFrZSBhIERDIDIwIFJlZmxleCBzYXZlIG9yIGJlIGVuZ3VsZmVkIGluIHRoZSBsYXZhLiBTdWNjZXNzIGluZGljYXRlcyB0aGF0IHRoZXkgYXJlIGluIGNvbnRhY3Qgd2l0aCB0aGUgbGF2YSBidXQgbm90IGltbWVyc2VkLjxiciAvPjxoMiBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9ODgxIj5MYXZhIEJvbWJzIChDUiAyIG9yIDgpPC9hPjwvaDI+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gMjM0PC9pPjwvYT48YnIgLz5CbG9icyBvZiBtb2x0ZW4gcm9jayBtYXkgYmUgaHVybGVkIHNldmVyYWwgbWlsZXMgZnJvbSBhbiBlcnVwdGluZyB2b2xjYW5vLCBjb29saW5nIGludG8gc29saWQgcm9jayBiZWZvcmUgdGhleSBsYW5kLiBBIHR5cGljYWwgbGF2YSBib21iIHN0cmlrZXMgYSBwb2ludCBkZXNpZ25hdGVkIGJ5IHRoZSBHTSBhbmQgZXhwbG9kZXMgaW4gYSAzMC1mb290IHJhZGl1cy4gQWxsIGNyZWF0dXJlcyBpbiB0aGUgYXJlYSBtdXN0IG1ha2UgYSBEQyAxNSBSZWZsZXggc2F2ZSBvciB0YWtlIDRkNiBwb2ludHMgb2YgZGFtYWdlLiBDcmVhdHVyZXMgdW5kZXIgY292ZXIgb3IgY2FwYWJsZSBvZiBjb3ZlcmluZyB0aGVtc2VsdmVzIChsaWtlIHdpdGggYSBzaGllbGQpIGdhaW4gYSArMiBib251cyBvbiB0aGlzIHNhdmUuIFBhcnRpY3VsYXJseSBsYXJnZSBsYXZhIGJvbWJzIG1pZ2h0IHNvbWV0aW1lcyBvY2N1ciwgZGVhbGluZyAxMmQ2IHBvaW50cyBvZiBkYW1hZ2UuIE5vcm1hbCBsYXZhIGJvbWJzIGhhdmUgYSBDUiBvZiAyLCBsYXJnZSBsYXZhIGJvbWJzIGhhdmUgYSBDUiBvZiA1LjxiciAvPjxoMiBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9ODgyIj5Qb2lzb25vdXMgR2FzZSAoQ1IgNSk8L2E+PC9oMj48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiAyMzQ8L2k+PC9hPjxiciAvPk9uZSBvZiB0aGUgbW9yZSBpbnNpZGlvdXMgdGhyZWF0cyBvZiBhIHZvbGNhbm8gaXMgdG94aWMgZ2FzLCBvZnRlbiBlc2NhcGluZyBub3RpY2UgYW1pZCB0aGUgZmlyZSBhbmQgZGVzdHJ1Y3Rpb24uIEEgd2lkZSB2YXJpZXR5IG9mIHBvaXNvbm91cyB2YXBvcnMgY2FuIHJlc3VsdCBmcm9tIGEgdm9sY2FuaWMgZXJ1cHRpb24sIHNvbWUgdmlzaWJsZSwgc29tZSB1bnNlZW4uIFBvaXNvbm91cyBnYXMgY2F1c2VzIDFkNiBwb2ludHMgb2YgQ29uc3RpdHV0aW9uIGRhbWFnZSBwZXIgcm91bmQgaWYgaW5oYWxlZCAoRm9ydGl0dWRlIERDIDE1IG5lZ2F0ZXMsIHRoZSBEQyBpbmNyZWFzZXMgYnkgMSBwZXIgcHJldmlvdXMgc2F2ZSksIGFuZCB2aXNpYmxlIGdhc2VzIGFsc28gZnVuY3Rpb24gYXMgaGVhdnkgc21va2UuIFBvaXNvbm91cyBnYXMgY2xvdWRzIGZsb3cgdG93YXJkIGxvdyBncm91bmQsIGFuZCBhcmUgdHlwaWNhbGx5IDUwIGZlZXQgaGlnaC4gR2FsZS1mb3JjZSB3aW5kcyBjYW4gZGl2ZXJ0IGdhcyBjbG91ZHMsIGFzIGNhbiBoaWdoIGJhcnJpZXJz4oCUcHJvdmlkZWQgdGhlIGdhcyBoYXMgc29tZXdoZXJlIGVsc2UgdG8gZ28uPGJyIC8+PGgyIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD04ODMiPlB5cm9jbGFzdGljIEZsb3dzIChDUiAxMCk8L2E+PC9oMj48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiAyMzQ8L2k+PC9hPjxiciAvPlNvbWUgdm9sY2FuaWMgZXJ1cHRpb25zIGNyZWF0ZSBhIGRldmFzdGF0aW5nIHdhdmUgb2YgYnVybmluZyBhc2gsIGhvdCBnYXNlcywgYW5kIHZvbGNhbmljIGRlYnJpcyBjYWxsZWQgYSBweXJvY2xhc3RpYyBmbG93IHRoYXQgY2FuIHRyYXZlbCBmb3IgbWlsZXMuIFRyZWF0IGEgcHlyb2NsYXN0aWMgZmxvdyBhcyBhbiBhdmFsYW5jaGUgKFBhdGhmaW5kZXIgUlBHIENvcmUgUnVsZWJvb2sgNDI5KSB0cmF2ZWxpbmcgYXQgNTAwIGZlZXQgcGVyIHJvdW5kLCBjb21iaW5lZCB3aXRoIHRoZSBlZmZlY3RzIG9mIHBvaXNvbm91cyBnYXMgbGlzdGVkIGFib3ZlLiBDb250YWN0IHdpdGggdGhlIHNlYXJpbmctaG90IGRlYnJpcyBvZiB0aGUgZmxvdyBjYXVzZXMgMmQ2IHBvaW50cyBvZiBmaXJlIGRhbWFnZSBwZXIgcm91bmQsIHdoaWxlIGFueSBjcmVhdHVyZSBidXJpZWQgaW4gdGhlIGZsb3cgc3VmZmVycyAxMGQ2IHBvaW50cyBvZiBkYW1hZ2UgcGVyIHJvdW5kLiBPbmx5IHJlYWxpdHktd2FycGluZyBtYWdpYyBsaWtlIG1pcmFjbGUgb3Igd2lzaCBjYW4gdHVybiBhc2lkZSBvciBpbXBlZGUgYSBweXJvY2xhc3RpYyBmbG93LjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9ODg0Ij5Uc3VuYW1pczwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDIzNDwvaT48L2E+PGJyIC8+VHN1bmFtaXMsIHNvbWV0aW1lcyByZWZlcnJlZCB0byBhcyB0aWRhbCB3YXZlcywgYXJlIGNydXNoaW5nIHdhdmVzIG9mIHdhdGVyIGNhdXNlZCBieSB1bmRlcndhdGVyIGVhcnRocXVha2VzLCB2b2xjYW5pYyBleHBsb3Npb25zLCBsYW5kc2xpZGVzLCBvciBldmVuIGFzdGVyb2lkIGltcGFjdHMuIFRzdW5hbWlzIGFyZSBhbG1vc3QgdW5kZXRlY3RhYmxlIHVudGlsIHRoZXkgcmVhY2ggc2hhbGxvdyB3YXRlciwgYXQgd2hpY2ggcG9pbnQgdGhlIG1hc3Mgb2Ygd2F0ZXIgYnVpbGRzIHVwIGludG8gYSBncmVhdCB3YXZlLjxiciAvPjxiciAvPiBEZXBlbmRpbmcgb24gdGhlIHNpemUgb2YgdGhlIHRzdW5hbWkgYW5kIHRoZSBzbG9wZSBvZiB0aGUgc2hvcmUsIHRoZSB3YXZlIGNhbiB0cmF2ZWwgYW55d2hlcmUgZnJvbSBodW5kcmVkcyBvZiB5YXJkcyB0byBtb3JlIHRoYW4gYSBtaWxlIGlubGFuZCwgbGVhdmluZyBkZXN0cnVjdGlvbiBpbiBpdHMgd2FrZS4gVGhlIHdhdGVyIHRoZW4gZHJhaW5zIGJhY2ssIGRyYWdnaW5nIGFsbCBtYW5uZXIgb2YgZGVicmlzIGFuZCBjcmVhdHVyZXMgZmFyIG91dCB0byBzZWEuPGJyIC8+PGJyIC8+IFRoZSBleGFjdCBkYW1hZ2UgY2F1c2VkIGJ5IGEgdHN1bmFtaSBpcyBzdWJqZWN0IHRvIHRoZSBHTSdzIGRpc2NyZXRpb24sIGJ1dCBhIHR5cGljYWwgdHN1bmFtaSBvYmxpdGVyYXRlcyBvciBkaXNwbGFjZXMgYWxsIHRlbXBvcmFyeSBhbmQgcG9vcmx5IGJ1aWx0IHN0cnVjdHVyZXMgaW4gaXRzIHBhdGgsIGRlc3Ryb3lzIGFib3V0IDI1JSBvZiB3ZWxsLWJ1aWx0IGJ1aWxkaW5ncyAoYW5kIGNhdXNlcyBzaWduaWZpY2FudCBkYW1hZ2UgdG8gdGhvc2UgdGhhdCBzdXJ2aXZlKSwgYW5kIGxlYXZlcyBzZXJpb3VzIGZvcnRpZmljYXRpb25zIG9ubHkgbGlnaHRseSBkYW1hZ2VkLiBBcyBtdWNoIGFzIGEgcXVhcnRlciBvZiB0aGUgcG9wdWxhdGlvbiBsaXZpbmcgaW4gdGhlIGFyZWEgKGluY2x1ZGluZyBhbmltYWxzIGFuZCBtb25zdGVycykgcGVyaXNoZXMgaW4gdGhlIGRpc2FzdGVyLCBlaXRoZXIgc3dlcHQgb3V0IHRvIHNlYSwgZHJvd25lZCBvbiBzaG9yZSwgb3IgYnVyaWVkIHVuZGVyIHJ1YmJsZS48YnIgLz48YnIgLz4gQSBjcmVhdHVyZSBjYW4gYXZvaWQgYmVpbmcgcHVsbGVkIG91dCB0byBzZWEgd2l0aCBhIERDIDI1IFN3aW0gY2hlY2s7IG90aGVyd2lzZSBpdCBpcyBwdWxsZWQgNmQ2IHggMTAgZmVldCBhd2F5IGZyb20gc2hvcmUuIFdhdGVycyBhZnRlciBhIHRzdW5hbWkgYXJlIGFsd2F5cyB0cmVhdGVkIGFzIHJvdWdoIG9yIHN0b3JteSwgYmFycmluZyBtYWdpY2FsIGluZmx1ZW5jZS4gQSBjcmVhdHVyZSBjYXVnaHQgaW4gYSBjb2xsYXBzaW5nIGJ1aWxkaW5nIHRha2VzIDZkNiBwb2ludHMgb2YgZGFtYWdlIChEQyAxNSBSZWZsZXggc2F2ZSBmb3IgaGFsZiApLCBvciBoYWxmIHRoYXQgYW1vdW50IGlmIHRoZSBidWlsZGluZyBpcyBwYXJ0aWN1bGFybHkgc21hbGwuIFRoZXJlIGlzIGEgNTAlIGNoYW5jZSB0aGF0IHRoZSBjcmVhdHVyZSBpcyBidXJpZWQgKGFzIGZvciBhIGNhdmUtaW4pLCBvciB0aGUgdHN1bmFtaSBtYXkgdGVhciB0aGUgYnVpbGRpbmcgYXBhcnQsIGZyZWVpbmcgdGhlIGNyZWF0dXJlIGZyb20gdGhlIHJ1YmJsZS48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTg4NSI+VW5kZWFkIFVwcmlzaW5nPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gMjM1PC9pPjwvYT48YnIgLz5XaGV0aGVyIGZyb20gYW4gYW5jaWVudCBjdXJzZSBvciBmZWxsIG5lY3JvbWFuY3ksIG9uZSBvZiB0aGUgbW9zdCB0ZXJyaWZ5aW5nIG9mIGFsbCBzdXBlcm5hdHVyYWwgZGlzYXN0ZXJzIGlzIHRoZSB1bmRlYWQgdXByaXNpbmfigJR0aGUgZGVhZCBlbWVyZ2luZyBmcm9tIHRoZWlyIGdyYXZlcyB0byBjbGFpbSB0aGUgbGl2aW5nLiBUaGlzIGRpc2FzdGVyIGNhbiBzdHJpa2UgYW55IGFyZWEgd2hlcmUgdGhlIGRlYWQgaGF2ZSBiZWVuIGxhaWQgdG8gcmVzdCwgbm90IGp1c3QgdG93bnMgYW5kIGNpdGllcy4gTW9yZSB0aGFuIG9uZSBibG9vZC1zb2FrZWQgYmF0dGxlZmllbGQgaGFzIGdpdmVuIHJpc2UgdG8gYSBsZWdpb24gb2YgZGVzaWNjYXRlZCB1bmRlYWQgd2FycmlvcnMuPGJyIC8+PGJyIC8+IFVuZGVhZCB1cHJpc2luZ3Mgb2NjdXIgaW4gd2F2ZXMsIHdpdGggdGhlIHRpbWluZyB2YXJ5aW5nIGFjY29yZGluZyB0byB0aGUgdW5kZXJseWluZyBmb3JjZXMgYXQgcGxheS4gVGhlIGV2ZW50cyBtYXkgaGFwcGVuIG92ZXIgdGhlIGNvdXJzZSBvZiBvbmx5IGEgZmV3IGRheXMsIGRldmFzdGF0aW5nIGEgY2l0eSwgb3IgYmUgc3ByZWFkIG91dCBvdmVyIHdlZWtzIGFzIHRoZSB0ZXJyaWZpZWQgcG9wdWxhY2UgY293ZXJzIGJlaGluZCBsb2NrZWQgZG9vcnMgYW5kIHN0cnVnZ2xlcyB0byBzdXJ2aXZlLiBEdXJpbmcgdGhlIGRheSwgbGlmZSBvZnRlbiByZXR1cm5zIHRvIHNvbWUgc2VtYmxhbmNlIG9mIG5vcm1hbGN5LCBhcyB0aGUgbGlnaHQgb2YgZGF5IGJyaWVmbHkgc3VwcHJlc3NlcyB0aGUgcG93ZXIgb2YgdGhlIHVuZGVhZC48YnIgLz48aDIgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTg4NiI+VGhlIFVucXVpZXQgRGVhZDwvYT48L2gyPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDIzNTwvaT48L2E+PGJyIC8+T24gdGhlIGZpcnN0IG5pZ2h0cyBvZiBhbiB1bmRlYWQgdXByaXNpbmcsIHRoZSBib2RpZXMgb2YgdGhlIHJlY2VudGx5IGRlYWQgcmlzZSBhcyB6b21iaWVzLiBUaG9zZSBpbnRlcnJlZCBpbiBjb25zZWNyYXRlZCBncm91bmQgcmVtYWluIGF0IHJlc3QsIGJ1dCBib2RpZXMgbGVmdCB1bmJ1cmllZCBvciBpbiBtYXNzIGdyYXZlcyBsdXJjaCBvdXQgaW50byB0aGUgc3RyZWV0cywgd3JlYWtpbmcgaGF2b2MuIEF0IGZpcnN0LCBvbmx5IGEgZmV3IGNvcnBzZXMgYXJlIGFibGUgdG8gZnJlZSB0aGVtc2VsdmVzIGZyb20gdGhlaXIgY29mZmlucyBhbmQgdG9tYnMsIGJ1dCBlYWNoIG5pZ2h0LCBtb3JlIGJvZGllcyByZXR1cm4gdG8gd2FsayB0aGUgbGFuZCBvZiB0aGUgbGl2aW5nLiBXaGVuIGRhd24gYnJlYWtzLCB0aGUgZGVhZCBzZWVrIHNhZmV0eSBpbiB0aGVpciBncmF2ZXMgb3Igb3RoZXIgaGlkZGVuIHBsYWNlcy4gQW55IGNhdWdodCBpbiB0aGUgZGF5bGlnaHQgZmxhaWwgYWJvdXQgY29uZnVzZWQsIGFzIHBlciB0aGUgY29uZGl0aW9uIHVudGlsIHRoZXkgYXJlIGRlc3Ryb3llZCBvciBtYW5hZ2UgdG8gc3RhZ2dlciBpbnRvIHNoZWx0ZXIuIEF0IHRoZSBHTeKAmXMgZGlzY3JldGlvbiwgbm9uLWh1bWFub2lkIGNvcnBzZXMgbWF5IHJpc2UgYXMgdW5kZWFkIG9uIHN1YnNlcXVlbnQgbmlnaHRzLjxiciAvPjxoMiBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9ODg3Ij5Ta2VsZXRhbCBBd2FrZW5pbmc8L2E+PC9oMj48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiAyMzU8L2k+PC9hPjxiciAvPkFzIHRoZSB1cHJpc2luZyBwcm9ncmVzc2VzLCBvbGRlciBhbmQgb2xkZXIgY29ycHNlcyBqb2luIHRoZSBzaGFtYmxpbmcgcmFua3Mgb2YgdGhlIHVuZGVhZC4gU2tlbGV0b25zIHdlYXJpbmcgdHJhY2VzIG9mIGxvbmctcm90dGVkIGZ1bmVyYWwgZ2FyYiBjbGF3IHRoZWlyIHdheSBvdXQgb2YgZ3JhdmV5YXJkcyBhbmQgY3J5cHRzLCBhbmQgYWN0IHdpdGggYSBtYWxldm9sZW5jZSBhbmQgb3JnYW5pemF0aW9uIHJhcmVseSBlbmNvdW50ZXJlZCBhbW9uZyB0aGVpciBpbGsuIFRoZSB1bmRlYWQgcmVtYWluIG1pbmRsZXNzLCBidXQgdGhlIG1hZ2ljYWwgcG93ZXIgYmVoaW5kIHRoZSBpbmN1cnNpb24gZ2l2ZXMgdGhlbSB0aGUgZWZmaWNpZW5jeSBhbmQgdGFjdGljYWwgYWN1bWVuIG9mIGEgbGl2aW5nIGFybXkuIFRoZSBza2VsZXRvbnMgc2VlayBvdXQgd2VhcG9ucyBhbmQgYXJtb3IgdG8gZ2lyZCB0aGVtc2VsdmVzIGZvciBiYXR0bGUuIEVsaXRlIHNrZWxldGFsIGNoYW1waW9ucyBsZWFkIHRoZSB0cm9vcHMsIHdpZWxkaW5nIG1hZ2ljIGl0ZW1zIHNjYXZlbmdlZCBmcm9tIGFiYW5kb25lZCBncmF2ZXMuIEV2ZW50dWFsbHksIGdob3VscyBhbmQgd2lnaHRzIHByb3dsIHRoZSBzdHJlZXRzIGFmdGVyIGRhcmsgYXMgd2VsbCwgYWxvbmcgd2l0aCBvdGhlciBsZXNzZXIsIGZyZWUtd2lsbGVkIHVuZGVhZC48YnIgLz48aDIgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTg4OCI+TG9zdCBTb3VsczwvYT48L2gyPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDIzNTwvaT48L2E+PGJyIC8+QXMgdGhlIHVwcmlzaW5nIGdhdGhlcnMgc3RyZW5ndGgsIHRoZSB1bnF1aWV0IHNvdWxzIG9mIGJvZGllcyBsb25nIHNpbmNlIHR1cm5lZCB0byBkdXN0IGF3YWtlbiBhcyB3ZWxsLiBHaG9zdHMsIHNoYWRvd3MsIHdyYWl0aHMsIGFuZCBldmVuIHNwZWN0cmVzIGFyaXNlIHRvIHByZXkgdXBvbiB0aGUgbGl2aW5nLiBBIGhhbmRmdWwgb2YgdGhlIGdob3N0cyBtaWdodCBiZSBmcmVlIGZyb20gdGhlIG1hbGV2b2xlbnQgaW5mbHVlbmNlIG9mIHRoZSB1cHJpc2luZywgYW5kIGVudGVycHJpc2luZyBQQ3MgbWF5IGJlIGFibGUgdG8gZ2xlYW4gdmFsdWFibGUgaW50ZWxsaWdlbmNlIGZyb20gdGhlc2UgdHJvdWJsZWQgc3Bpcml0cy48YnIgLz48YnIgLz4gVGhlIGluZnVzaW9uIG9mIG5lZ2F0aXZlIGVuZXJneSBzdHJlbmd0aGVucyB0aGUgdW5kZWFkIHdpdGhpbiB0aGUgYXJlYSBvZiB0aGUgaW5jdXJzaW9uLCBwcm92aWRpbmcgdGhlIGJlbmVmaXRzIG9mIGEgZGVzZWNyYXRlIHNwZWxsLiBBcmVhcyB0aGF0IHdlcmUgb25jZSBjb25zZWNyYXRlZCBhcmUgbm93IHRyZWF0ZWQgYXMgbm9ybWFsIGdyb3VuZCwgYW5kIG1heSB3ZWxsIHByb3ZpZGUgbmV3IHNvdXJjZXMgb2YgY29ycHNlcyBmb3IgdGhlIHVuZGVhZCBhcm1pZXMsIGJ1dCBoYWxsb3dlZCBncm91bmQgcmVtYWlucyBpbnZpb2xhdGUuPGJyIC8+PGJyIC8+IEFzIHRoZSB1bmRlYWQgZ3JvdyBzdHJvbmdlciwgdGhlIGdyb3dpbmcgZmxvb2Qgb2YgbmVnYXRpdmUgZW5lcmd5IGJyaW5ncyB0aGUgU2hhZG93IFBsYW5lIGNsb3NlciwgbGVhdmluZyBjb2xvcnMgbXV0ZWQgb3IgZ3JheSBleGNlcHQgZHVyaW5nIHRoZSBicmlnaHRlc3QgaG91cnMgb2YgZGF5bGlnaHQuIEV2ZW4gdGhvc2UgdW5kZWFkIG1vc3QgdnVsbmVyYWJsZSB0byBsaWdodCBjYW4gbW92ZSBhYm91dCB3aXRoIGltcHVuaXR5IGZyb20gbGF0ZSBhZnRlcm5vb24gdG8gbWlkLW1vcm5pbmcuPGJyIC8+PGgyIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD04ODkiPk5lY3JvcG9saXM8L2E+PC9oMj48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiAyMzU8L2k+PC9hPjxiciAvPklmIHRoZSBmbG93IG9mIG5lZ2F0aXZlIGVuZXJneSBpcyBub3QgcmV2ZXJzZWQsIGRhcmtuZXNzIGZpbmFsbHkgY2xhaW1zIHRoZSBhcmVhLCBjbG9ha2luZyBpdCBpbiBwZXJwZXR1YWwgc2hhZG93LiBUaGUgZW50aXJlIGFyZWEgb2YgdGhlIHVuZGVhZCB1cHJpc2luZyBmdW5jdGlvbnMgYXMgaWYgdW5kZXIgdGhlIGVmZmVjdHMgb2YgYW4gPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPXVuaGFsbG93Ij48aT51bmhhbGxvdzwvaT48L2E+IHNwZWxsICh3aXRoIG5vIGFkZGl0aW9uYWwgc3BlbGwgZWZmZWN0IHRpZWQgdG8gaXQpLiBIYWxsb3dlZCBncm91bmQgcmVtYWlucyBhIHJhcmUgc2FuY3R1YXJ5LCBidXQgb25seSB1bnRpbCBkZXN0cm95ZWQgYnkgdGhlIG1hbGV2b2xlbnQgZm9yY2VzIHdpdGhvdXQuPGJyIC8+PGJyIC8+IEhlcm9lcyB3aG8gcGVyaXNoZWQgaW4gdGhlIGJhdHRsZSBhZ2FpbnN0IHRoZSB1cHJpc2luZyByZXR1cm4gYXMgZmVhcnNvbWUgdW5kZWFkIGdlbmVyYWxzLiBUaGUgZmV3IGxpdmluZyBzdXJ2aXZvcnMgYXJlIGVuc2xhdmVkIGFzIHRocmFsbHMuIFRoZSBhcmVhIGJlY29tZXMgYSBjaXR5IG9mIHRoZSBkZWFkLCBvciBjb25zdHJ1Y3Rpb24gYmVnaW5zIGlmIG5vIHN1Y2ggY2l0eSBleGlzdGVkIG9yIHN1cnZpdmVkLiBGcmVlLXdpbGxlZCB1bmRlYWQgZmxvY2sgdG8gdGhpcyBuZXcgc2FuY3R1YXJ5LCBhbmQgb25seSB0aGUgZ3JlYXRlc3Qgb2YgaGVyb2VzIGNhbiByZXR1cm4gdGhpcyBub3ctYmxpZ2h0ZWQgYXJlYSB0byB0aGUgd29ybGQgb2YgdGhlIGxpdmluZy5kZGSRunKVctQWEr6auAgdhVralBlgnF5Mf5WV8zJJ07UqMg==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=454">GameMastery Guide</a></u> / <u><a href="Rules.aspx?ID=870">Advanced Topics</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=878">Disasters</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 234</i></a><br />Natural disasters go far beyond any mere environmental hazard, leaving death and devastation in their wake. Supernatural disasters can be even more disruptive, with the potential to forever scar a world. A disaster is much more like an adventure than an encounter, and does not have a specific Challenge Rating. Rather, each portion of the disaster should be treated as a separate encounter designed with a CR appropriate to the PCs.<br /><br /> Presented below are rules for handling the effects of three different types of disasters, both natural and supernatural. Some disasters happen quickly, like earthquakes and tsunamis, while others progress through several stages, like forest fires, volcanoes, and undead uprisings. Adjust the pacing of the adventure to fit the disaster, allowing the events to unfold over mere minutes or over several days as your needs require.<br /><h1 class="title"><a href="Rules.aspx?ID=879">Volcanoes</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 234</i></a><br />When the world’s crust ruptures and expels its molten heart, one of the most dramatic natural disasters results: a volcano. Volcanic eruptions offer a wide range of options for the GM, including lava, lava bombs, poisonous gases, and pyroclastic flows. GMs might also consider presaging a dramatic volcanic eruption with existing hazards, like avalanches and minor earthquakes.<br /><h2 class="title"><a href="Rules.aspx?ID=880">Lava</a></h2><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 234</i></a><br />Lava flows are usually associated with nonexplosive eruptions, and can be a permanent fixture of active volcanoes. Most lava flows are quite slow, moving at 15 feet per round. Hotter flows move faster, achieving speeds up to 60 feet per round. Lava in a channel such as a lava tube is especially dangerous, moving as fast as 120 feet per round (a CR 6 hazard). Creatures overrun by a lava flow must make a DC 20 Reflex save or be engulfed in the lava. Success indicates that they are in contact with the lava but not immersed.<br /><h2 class="title"><a href="Rules.aspx?ID=881">Lava Bombs (CR 2 or 8)</a></h2><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 234</i></a><br />Blobs of molten rock may be hurled several miles from an erupting volcano, cooling into solid rock before they land. A typical lava bomb strikes a point designated by the GM and explodes in a 30-foot radius. All creatures in the area must make a DC 15 Reflex save or take 4d6 points of damage. Creatures under cover or capable of covering themselves (like with a shield) gain a +2 bonus on this save. Particularly large lava bombs might sometimes occur, dealing 12d6 points of damage. Normal lava bombs have a CR of 2, large lava bombs have a CR of 5.<br /><h2 class="title"><a href="Rules.aspx?ID=882">Poisonous Gase (CR 5)</a></h2><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 234</i></a><br />One of the more insidious threats of a volcano is toxic gas, often escaping notice amid the fire and destruction. A wide variety of poisonous vapors can result from a volcanic eruption, some visible, some unseen. Poisonous gas causes 1d6 points of Constitution damage per round if inhaled (Fortitude DC 15 negates, the DC increases by 1 per previous save), and visible gases also function as heavy smoke. Poisonous gas clouds flow toward low ground, and are typically 50 feet high. Gale-force winds can divert gas clouds, as can high barriers—provided the gas has somewhere else to go.<br /><h2 class="title"><a href="Rules.aspx?ID=883">Pyroclastic Flows (CR 10)</a></h2><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 234</i></a><br />Some volcanic eruptions create a devastating wave of burning ash, hot gases, and volcanic debris called a pyroclastic flow that can travel for miles. Treat a pyroclastic flow as an avalanche (Pathfinder RPG Core Rulebook 429) traveling at 500 feet per round, combined with the effects of poisonous gas listed above. Contact with the searing-hot debris of the flow causes 2d6 points of fire damage per round, while any creature buried in the flow suffers 10d6 points of damage per round. Only reality-warping magic like miracle or wish can turn aside or impede a pyroclastic flow.<br /><h1 class="title"><a href="Rules.aspx?ID=884">Tsunamis</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 234</i></a><br />Tsunamis, sometimes referred to as tidal waves, are crushing waves of water caused by underwater earthquakes, volcanic explosions, landslides, or even asteroid impacts. Tsunamis are almost undetectable until they reach shallow water, at which point the mass of water builds up into a great wave.<br /><br /> Depending on the size of the tsunami and the slope of the shore, the wave can travel anywhere from hundreds of yards to more than a mile inland, leaving destruction in its wake. The water then drains back, dragging all manner of debris and creatures far out to sea.<br /><br /> The exact damage caused by a tsunami is subject to the GM's discretion, but a typical tsunami obliterates or displaces all temporary and poorly built structures in its path, destroys about 25% of well-built buildings (and causes significant damage to those that survive), and leaves serious fortifications only lightly damaged. As much as a quarter of the population living in the area (including animals and monsters) perishes in the disaster, either swept out to sea, drowned on shore, or buried under rubble.<br /><br /> A creature can avoid being pulled out to sea with a DC 25 Swim check; otherwise it is pulled 6d6 x 10 feet away from shore. Waters after a tsunami are always treated as rough or stormy, barring magical influence. A creature caught in a collapsing building takes 6d6 points of damage (DC 15 Reflex save for half ), or half that amount if the building is particularly small. There is a 50% chance that the creature is buried (as for a cave-in), or the tsunami may tear the building apart, freeing the creature from the rubble.<br /><h1 class="title"><a href="Rules.aspx?ID=885">Undead Uprising</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 235</i></a><br />Whether from an ancient curse or fell necromancy, one of the most terrifying of all supernatural disasters is the undead uprising—the dead emerging from their graves to claim the living. This disaster can strike any area where the dead have been laid to rest, not just towns and cities. More than one blood-soaked battlefield has given rise to a legion of desiccated undead warriors.<br /><br /> Undead uprisings occur in waves, with the timing varying according to the underlying forces at play. The events may happen over the course of only a few days, devastating a city, or be spread out over weeks as the terrified populace cowers behind locked doors and struggles to survive. During the day, life often returns to some semblance of normalcy, as the light of day briefly suppresses the power of the undead.<br /><h2 class="title"><a href="Rules.aspx?ID=886">The Unquiet Dead</a></h2><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 235</i></a><br />On the first nights of an undead uprising, the bodies of the recently dead rise as zombies. Those interred in consecrated ground remain at rest, but bodies left unburied or in mass graves lurch out into the streets, wreaking havoc. At first, only a few corpses are able to free themselves from their coffins and tombs, but each night, more bodies return to walk the land of the living. When dawn breaks, the dead seek safety in their graves or other hidden places. Any caught in the daylight flail about confused, as per the condition until they are destroyed or manage to stagger into shelter. At the GM’s discretion, non-humanoid corpses may rise as undead on subsequent nights.<br /><h2 class="title"><a href="Rules.aspx?ID=887">Skeletal Awakening</a></h2><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 235</i></a><br />As the uprising progresses, older and older corpses join the shambling ranks of the undead. Skeletons wearing traces of long-rotted funeral garb claw their way out of graveyards and crypts, and act with a malevolence and organization rarely encountered among their ilk. The undead remain mindless, but the magical power behind the incursion gives them the efficiency and tactical acumen of a living army. The skeletons seek out weapons and armor to gird themselves for battle. Elite skeletal champions lead the troops, wielding magic items scavenged from abandoned graves. Eventually, ghouls and wights prowl the streets after dark as well, along with other lesser, free-willed undead.<br /><h2 class="title"><a href="Rules.aspx?ID=888">Lost Souls</a></h2><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 235</i></a><br />As the uprising gathers strength, the unquiet souls of bodies long since turned to dust awaken as well. Ghosts, shadows, wraiths, and even spectres arise to prey upon the living. A handful of the ghosts might be free from the malevolent influence of the uprising, and enterprising PCs may be able to glean valuable intelligence from these troubled spirits.<br /><br /> The infusion of negative energy strengthens the undead within the area of the incursion, providing the benefits of a desecrate spell. Areas that were once consecrated are now treated as normal ground, and may well provide new sources of corpses for the undead armies, but hallowed ground remains inviolate.<br /><br /> As the undead grow stronger, the growing flood of negative energy brings the Shadow Plane closer, leaving colors muted or gray except during the brightest hours of daylight. Even those undead most vulnerable to light can move about with impunity from late afternoon to mid-morning.<br /><h2 class="title"><a href="Rules.aspx?ID=889">Necropolis</a></h2><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 235</i></a><br />If the flow of negative energy is not reversed, darkness finally claims the area, cloaking it in perpetual shadow. The entire area of the undead uprising functions as if under the effects of an <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=unhallow"><i>unhallow</i></a> spell (with no additional spell effect tied to it). Hallowed ground remains a rare sanctuary, but only until destroyed by the malevolent forces without.<br /><br /> Heroes who perished in the battle against the uprising return as fearsome undead generals. The few living survivors are enslaved as thralls. The area becomes a city of the dead, or construction begins if no such city existed or survived. Free-willed undead flock to this new sanctuary, and only the greatest of heroes can return this now-blighted area to the world of the living.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

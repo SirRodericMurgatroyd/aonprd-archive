@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Implementing Esoteric Components - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Implementing Esoteric Components" /><meta name="description" content="There’s more than one way to introduce esoteric components to a game. Three variants are detailed below." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=1942" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWuNTx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTcyNSI+UGF0aGZpbmRlciBVbmNoYWluZWQ8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTk0MCI+RXNvdGVyaWMgTWF0ZXJpYWwgQ29tcG9uZW50czwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xOTQyIj5JbXBsZW1lbnRpbmcgRXNvdGVyaWMgQ29tcG9uZW50czwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWMyNT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtUGF0aGZpbmRlci1VbmNoYWluZWQiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UGF0aGZpbmRlciBVbmNoYWluZWQgcGcuIDE1MTwvaT48L2E+PGJyIC8+VGhlcmXigJlzIG1vcmUgdGhhbiBvbmUgd2F5IHRvIGludHJvZHVjZSBlc290ZXJpYyBjb21wb25lbnRzIHRvIGEgZ2FtZS4gVGhyZWUgdmFyaWFudHMgYXJlIGRldGFpbGVkIGJlbG93LjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTk0MyI+T3B0aW9uYWwgQ29tcG9uZW50czwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWMyNT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtUGF0aGZpbmRlci1VbmNoYWluZWQiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UGF0aGZpbmRlciBVbmNoYWluZWQgcGcuIDE1MTwvaT48L2E+PGJyIC8+VGhlIGVzb3RlcmljIG1hdGVyaWFsIGNvbXBvbmVudHMgc3lzdGVtIGNhbiBiZSBhZGRlZCBkaXJlY3RseSBvbiB0b3Agb2YgdGhlIG5vcm1hbCBzcGVsbGNhc3Rpbmcgc3lzdGVtLiBTcGVsbHMgZG9u4oCZdCBuZWVkIGVzb3RlcmljIGNvbXBvbmVudHMgdG8gYmUgY2FzdCwgYW5kIG5vcm1hbCBtYXRlcmlhbCBjb21wb25lbnRzIGZ1bmN0aW9uIGFzIG5vcm1hbC4gRXhwZW5kaW5nIGVzb3RlcmljIG1hdGVyaWFsIGNvbXBvbmVudHMgd29ydGggdGhlIGxpc3RlZCB2YWx1ZXMgYWxsb3dzIHRoZSBjYXN0ZXIgdG8gcmVwbGFjZSBub3JtYWwgbWF0ZXJpYWwgY29tcG9uZW50cyBzaGUgbGFja3MgKGJ1dCBub3QgdG8gcmVwbGFjZSBleHBlbnNpdmUgbWF0ZXJpYWwgY29tcG9uZW50cykuIEl04oCZcyBmYXIgbW9yZSB1c2VmdWwgaW4gdGhpcyBzeXN0ZW0gdG8gcGF5IGRvdWJsZSB0aGUgYW1vdW50IG9mIGVzb3RlcmljIGNvbXBvbmVudHMgdG8gZ2FpbiB0aGUgZ3JlYXRlciBjb21wb25lbnQgZWZmZWN0LiBBIDZ0aC1sZXZlbCB3aXphcmQgY2FzdGluZyBmaXJlYmFsbCBjYW4gZG8gc28gdXNpbmcgYSBub3JtYWwgc3BlbGwgY29tcG9uZW50IHBvdWNoLiBJZiBoZeKAmXMgbWlzc2luZyBoaXMgcG91Y2gsIGhlIGNhbiBleHBlbmQgMTggZ3Agd29ydGggb2YgZW50cm9waWMgcmVzaW4gdG8gY2FzdCB0aGUgc3BlbGwgYW55d2F5LiBIZSBjb3VsZCBleHBlbmQgMzYgZ3Agd29ydGggKHdpdGggb3Igd2l0aG91dCBhIHNwZWxsIGNvbXBvbmVudCBwb3VjaCkgdG8gbWFrZSB0aGUgc3BlbGwgbW9yZSBwb3dlcmZ1bCB3aXRoIGl0cyBncmVhdGVyIGNvbXBvbmVudCBlZmZlY3QuPGJyIC8+PGJyIC8+IEFkZGluZyBlc290ZXJpYyBtYXRlcmlhbCBjb21wb25lbnRzIGFzIGFuIG9wdGlvbiBtYWtlcyBzcGVsbGNhc3RlcnMgY29uc2lkZXJhYmx5IG1vcmUgcG93ZXJmdWwuIFdoZW4gdXNlZCB0aGlzIHdheSwgZXNvdGVyaWMgY29tcG9uZW50cyBhcmUgZXNzZW50aWFsbHkgYW4gYWRkaXRpb25hbCB0eXBlIG9mIHRyZWFzdXJlLiBVc2UgZXNvdGVyaWMgY29tcG9uZW50cyBhcyB0cmVhc3VyZSBvbmx5IHJhcmVseSwgYW5kIGNvbnNpZGVyIGlnbm9yaW5nIHRoZSBydWxlcyB0aGF0IGFsbG93IHNjcm91bmdpbmcgZm9yIGNvbXBvbmVudHMuIEVzb3RlcmljIGNvbXBvbmVudHMgbWlnaHQgbm90IGJlIHZlcnkgd2VsbCBrbm93biBpbiB0aGUgd29ybGQsIGFuZCBhcmVu4oCZdCByZWFkaWx5IGF2YWlsYWJsZSB0byBwdXJjaGFzZS48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE5NDQiPk1hbmRhdG9yeSBDb21wb25lbnRzPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5YzI1P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1QYXRoZmluZGVyLVVuY2hhaW5lZCIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QYXRoZmluZGVyIFVuY2hhaW5lZCBwZy4gMTUxPC9pPjwvYT48YnIgLz5JZiBlc290ZXJpYyBjb21wb25lbnRzIGFyZSBtYW5kYXRvcnksIGNhc3RpbmcgYW55IHNwZWxsIHRoYXQgcmVxdWlyZXMgYSBtYXRlcmlhbCBjb21wb25lbnQgcmVxdWlyZXMgZXhwZW5kaW5nIHRoZSBwcm9wZXIgYW1vdW50IG9mIGVzb3RlcmljIG1hdGVyaWFsIGNvbXBvbmVudHMgaW5zdGVhZC4gQSA2dGgtbGV2ZWwgd2l6YXJkIGNhc3RpbmcgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPWZpcmViYWxsIj48aT5maXJlYmFsbDwvaT48L2E+IG11c3QgZXhwZW5kIDE4IGdwIHdvcnRoIG9mIGVudHJvcGljIHJlc2luLCBhbmQgY2FuIGV4cGVuZCAzNiBncCB3b3J0aCB0byBtYWtlIHRoZSBzcGVsbCBtb3JlIHBvd2VyZnVsIHdpdGggaXRzIGdyZWF0ZXIgY29tcG9uZW50IGVmZmVjdC4gSWYgaGUgZG9lc27igJl0IGhhdmUgZW5vdWdoIGNvbXBvbmVudHMsIGhlIGNhbuKAmXQgY2FzdCB0aGUgc3BlbGwuIEhvd2V2ZXIsIGlmIGhlIGhhZCAxNSBncCB3b3J0aCBvZiBlbnRyb3BpYyByZXNpbiwgaGUgY291bGQgY2FzdCB0aGUgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPWZpcmViYWxsIj48aT5maXJlYmFsbDwvaT48L2E+IGF0IGNhc3RlciBsZXZlbCA1dGguIEEgc3BlbGwgdGhhdCBkb2VzbuKAmXQgcmVxdWlyZSBtYXRlcmlhbCBjb21wb25lbnRzIGNhbiBiZSBjYXN0IG5vcm1hbGx5LCBidXQgdGhlIGNhc3RlciBjYW4gY2hvb3NlIHRvIGV4cGVuZCBlc290ZXJpYyBjb21wb25lbnRzIGZvciB0aGUgZ3JlYXRlciBjb21wb25lbnQgZWZmZWN0LjxiciAvPjxiciAvPiBVbmRlciB0aGlzIHN5c3RlbSwgYSBzcGVsbCBjb21wb25lbnQgcG91Y2ggaW5jbHVkZXMgMSBncCB3b3J0aCBvZiBlYWNoIGNvbW1vbiBjb21wb25lbnQsIHBsdXMgYW4gYWRkaXRpb25hbCAxIGdwIHdvcnRoIG9mIGEgY29tbW9uIHR5cGUgb2YgdGhlIGJ1eWVy4oCZcyBjaG9pY2UuIFJlcXVpcmluZyBlc290ZXJpYyBjb21wb25lbnRzIHNpZ25pZmljYW50bHkgaW1wYWN0cyBhIHNwZWxsY2FzdGVy4oCZcyB0cmVhc3VyZSBhY3F1aXNpdGlvbiwgc28gdGhlIG1hbmRhdG9yeSBjb21wb25lbnRzIHZhcmlhbnQgc2hvdWxkIGJlIHVzZWQgd2l0aCBjYXV0aW9uLCBlc3BlY2lhbGx5IGlmIHRoZSBjYW1wYWlnbiBhbHJlYWR5IHVzZXMgdmFyaWFudHMgdGhhdCBtYWtlIHNwZWxsY2FzdGluZyBsZXNzIHBvd2VyZnVsIChzdWNoIGFzIGxpbWl0ZWQgbWFnaWM7IHNlZSBwYWdlIDE0NikuIEluY2x1ZGUgZXNvdGVyaWMgY29tcG9uZW50cyBpbiBtb3N0IHRyZWFzdXJlIGhvYXJkcyBhbmQgaW4gTlBDIHNwZWxsY2FzdGVyc+KAmSBnZWFyLjxiciAvPjxiciAvPjxoMyBjbGFzcz0iZnJhbWluZyI+TG93ZXJpbmcgWW91ciBDYXN0ZXIgTGV2ZWw8L2gzPiBBIHNwZWxsY2FzdGVyIHVzaW5nIGVzb3RlcmljIG1hdGVyaWFsIGNvbXBvbmVudHMgY2FuIHZvbHVudGFyaWx5IGNhc3QgYSBzcGVsbCBhcyB0aG91Z2ggc2hlIGhhZCBhIGxvd2VyIGNhc3RlciBsZXZlbC4gVGhpcyBtZWFucyBpZiBzaGUgZG9lc27igJl0IGhhdmUgZW5vdWdoIGNvbXBvbmVudHPigJRvciB3b3VsZCBsaWtlIHRvIHNhdmUgc29tZSBtb25leeKAlHNoZSBjYW4gc3RpbGwgY2FzdCBhIGxlc3MgZWZmZWN0aXZlIHZlcnNpb24gb2YgdGhlIHNwZWxsLiBTaGUgY2Fu4oCZdCBsb3dlciBoZXIgY2FzdGVyIGxldmVsIHRvIGJlIGxvd2VyIHRoYW4gdGhlIGxldmVsIGF0IHdoaWNoIHNoZSBjb3VsZCBjYXN0IHRoZSBzcGVsbC4gPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlJ1bGVzLmFzcHg/TmFtZT1Fc290ZXJpYyBNYXRlcmlhbCBDb21wb25lbnRzJkNhdGVnb3J5PVBhdGhmaW5kZXIgVW5jaGFpbmVkIj5UYWJsZSA04oCTNzogRXNvdGVyaWMgTWF0ZXJpYWwgQ29tcG9uZW50IENvc3Q8L2E+IHNob3dzIHRoaXMgdmFsdWUgZm9yIGNsZXJpY3MsIGRydWlkcywgYW5kIHdpemFyZHMsIGJ1dCBhIHNwZWxsY2FzdGVyIHdpdGggYSBzbG93ZXIgcHJvZ3Jlc3Npb24gaGFzIHRoZSBzYW1lIGxpbWl0YXRpb24uIEEgYmFyZCBjb3VsZG7igJl0IGNhc3QgYSAzcmQtbGV2ZWwgc3BlbGwgYXQgYSBjYXN0ZXIgbGV2ZWwgbG93ZXIgdGhhbiA3dGgsIGZvciBleGFtcGxlLjxiciAvPjxiciAvPiBGb3Igc3BlbGxzIHRoYXQgZG9u4oCZdCBjb250aW51ZSB0byBpbmNyZWFzZSBpbiBwb3dlciBhZnRlciBhIGNlcnRhaW4gY2FzdGVyIGxldmVsLCBpdOKAmXMgdXN1YWxseSBiZXN0IGZvciB0aGUgc3BlbGxjYXN0ZXIgdG8gY2FzdCB0aGF0IHNwZWxsIGFzIHRob3VnaCBzaGUgd2VyZSBhIGxvd2VyIGNhc3RlciBsZXZlbCB0byByZWR1Y2UgdGhlIGNvc3Qgb2YgaGVyIGVzb3RlcmljIGNvbXBvbmVudHMuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xOTQ1Ij5XaXRoIExpbWl0ZWQgTWFnaWM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTljMjU/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVBhdGhmaW5kZXItVW5jaGFpbmVkIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBhdGhmaW5kZXIgVW5jaGFpbmVkIHBnLiAxNTI8L2k+PC9hPjxiciAvPkluIGEgZ2FtZSB0aGF0IHVzZXMgdGhlIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJSdWxlcy5hc3B4P05hbWU9TGltaXRlZCBNYWdpYyZDYXRnZW9yeT1TcGVsbCBBbHRlcmF0aW9ucyI+bGltaXRlZCBtYWdpYyB2YXJpYW50PC9hPiwgeW91IGNhbiBhZGQgZXNvdGVyaWMgY29tcG9uZW50cyB0byB0YWtlIHNvbWUgb2YgdGhlIHN0aW5nIG91dCBvZiB0aGUgd2Vha2VuZWQgc3BlbGxjYXN0aW5nLiBJdOKAmXMgYmVzdCB0byBpbmNsdWRlIHRoZSBjb21wb25lbnRzIGFzIGRlc2NyaWJlZCBpbiB0aGUgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlJ1bGVzLmFzcHg/TmFtZT1PcHRpb25hbCBDb21wb25lbnRzJkNhdGVnb3J5PUltcGxlbWVudGluZyBFc290ZXJpYyBDb21wb25lbnRzIj5vcHRpb25hbCBjb21wb25lbnRzIHZhcmlhbnQ8L2E+LCByYXRoZXIgdGhhbiBzYWRkbGluZyBzcGVsbGNhc3RlcnMgd2l0aCBib3RoIHdlYWtlbmVkIHNwZWxsY2FzdGluZyBhbmQgZGVjcmVhc2VkIHRyZWFzdXJlLjxiciAvPjxiciAvPiBMaW1pdGVkIG1hZ2ljIHVzZXMgYSBmaXhlZCBjYXN0ZXIgbGV2ZWwsIHdoaWNoIGFjdHMgYXMgdGhlIGJhc2VsaW5lIGZvciBjYXN0aW5nIGEgc3BlbGwgdXNpbmcgZXNvdGVyaWMgY29tcG9uZW50cyBvciBnYWluaW5nIHRoZSBncmVhdGVyIGNvbXBvbmVudCBiZW5lZiBpdHMuIFdoZW4gdXNlZCB0b2dldGhlciwgdGhlIGVzb3RlcmljIGNvbXBvbmVudHMgYW5kIGxpbWl0ZWQgbWFnaWMgc3lzdGVtcyBhbHNvIGFsbG93IGFub3RoZXIgb3B0aW9uOiBleHBlbmRpbmcgZXNvdGVyaWMgY29tcG9uZW50cyB0byBnYWluIHRoZSBiZW5lZml0cyBvZiBhIGhpZ2hlciBDTCBvciBzYXZlIERDLiBUaGUgc3BlY2lmIGljIGxpbWl0ZWQgbWFnaWMgYmVuZWYgaXQgaXMgbGlzdGVkIHVuZGVyIGVhY2ggY29tcG9uZW50IGRlc2NyaXB0aW9uLiBUaGUgY2FzdGVyIG11c3QgZXhwZW5kIGNvbXBvbmVudHMgd2hvc2UgdmFsdWUgaXMgZXF1YWwgdG8gdHdpY2UgdGhlIGVzb3RlcmljIGNvbXBvbmVudCBjb3N0IGZvciBoaXMgY2FzdGVyIGxldmVsIChyYXRoZXIgdGhhbiB0aGUgc3BlbGzigJlzIG1pbmltdW0gY2FzdGVyIGxldmVsKSB0byBnYWluIHRoZSBsaW1pdGVkIG1hZ2ljIGJlbmVmaXQuIEZvciBleGFtcGxlLCBhIDZ0aC1sZXZlbCB3aXphcmQgY2FzdGluZyA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9ZmlyZWJhbGwiPjxpPmZpcmViYWxsPC9pPjwvYT4gY291bGQgZ2FpbiB0aGUgbGltaXRlZCBtYWdpYyBiZW5lZiBpdCBieSBleHBlbmRpbmcgMzYgZ3Agd29ydGggb2YgZW50cm9waWMgcmVzaW4uPGJyIC8+PGJyIC8+IEFzIHdpdGggZ3JlYXRlciBjb21wb25lbnQgZWZmZWN0cywgZXhwZW5kaW5nIG11bHRpcGxlIHR5cGVzIG9mIGVzb3RlcmljIGNvbXBvbmVudHMgY2FuIGFwcGx5IG90aGVyIGxpbWl0ZWQgbWFnaWMgZWZmZWN0cywgYnV0IHJlcXVpcmVzIGEgU3BlbGxjcmFmdCBjaGVjay4gVGhpcyBvcHRpb24gaXMgZGVsaWJlcmF0ZWx5IG1vcmUgZXhwZW5zaXZlIHRvIGRpc2NvdXJhZ2UgY2FzdGVycyBmcm9tIHVzaW5nIGl0IHRvbyByb3V0aW5lbHkuPGJyIC8+PGJyIC8+IEEgc3BlbGxjYXN0ZXIgY2FuIGNob29zZSB0byBhcHBseSBlaXRoZXIgZ3JlYXRlciBjb21wb25lbnQgZWZmZWN0cyBvciBsaW1pdGVkIG1hZ2ljIGVmZmVjdHPigJRidXQgbm90IGJvdGjigJRvbiB0aGUgc2FtZSBjYXN0aW5nIG9mIGEgc3BlbGwuZGRkvzUYNKGb4akLQ5Q6U+Lgbg/ureyBAc0GwGgYEFkIsFA=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1725">Pathfinder Unchained</a></u> / <u><a href="Rules.aspx?ID=1940">Esoteric Material Components</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=1942">Implementing Esoteric Components</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 151</i></a><br />There’s more than one way to introduce esoteric components to a game. Three variants are detailed below.<br /><h1 class="title"><a href="Rules.aspx?ID=1943">Optional Components</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 151</i></a><br />The esoteric material components system can be added directly on top of the normal spellcasting system. Spells don’t need esoteric components to be cast, and normal material components function as normal. Expending esoteric material components worth the listed values allows the caster to replace normal material components she lacks (but not to replace expensive material components). It’s far more useful in this system to pay double the amount of esoteric components to gain the greater component effect. A 6th-level wizard casting fireball can do so using a normal spell component pouch. If he’s missing his pouch, he can expend 18 gp worth of entropic resin to cast the spell anyway. He could expend 36 gp worth (with or without a spell component pouch) to make the spell more powerful with its greater component effect.<br /><br /> Adding esoteric material components as an option makes spellcasters considerably more powerful. When used this way, esoteric components are essentially an additional type of treasure. Use esoteric components as treasure only rarely, and consider ignoring the rules that allow scrounging for components. Esoteric components might not be very well known in the world, and aren’t readily available to purchase.<br /><h1 class="title"><a href="Rules.aspx?ID=1944">Mandatory Components</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 151</i></a><br />If esoteric components are mandatory, casting any spell that requires a material component requires expending the proper amount of esoteric material components instead. A 6th-level wizard casting <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=fireball"><i>fireball</i></a> must expend 18 gp worth of entropic resin, and can expend 36 gp worth to make the spell more powerful with its greater component effect. If he doesn’t have enough components, he can’t cast the spell. However, if he had 15 gp worth of entropic resin, he could cast the <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=fireball"><i>fireball</i></a> at caster level 5th. A spell that doesn’t require material components can be cast normally, but the caster can choose to expend esoteric components for the greater component effect.<br /><br /> Under this system, a spell component pouch includes 1 gp worth of each common component, plus an additional 1 gp worth of a common type of the buyer’s choice. Requiring esoteric components significantly impacts a spellcaster’s treasure acquisition, so the mandatory components variant should be used with caution, especially if the campaign already uses variants that make spellcasting less powerful (such as limited magic; see page 146). Include esoteric components in most treasure hoards and in NPC spellcasters’ gear.<br /><br /><h3 class="framing">Lowering Your Caster Level</h3> A spellcaster using esoteric material components can voluntarily cast a spell as though she had a lower caster level. This means if she doesn’t have enough components—or would like to save some money—she can still cast a less effective version of the spell. She can’t lower her caster level to be lower than the level at which she could cast the spell. <a style="text-decoration:underline" href="Rules.aspx?Name=Esoteric Material Components&Category=Pathfinder Unchained">Table 4–7: Esoteric Material Component Cost</a> shows this value for clerics, druids, and wizards, but a spellcaster with a slower progression has the same limitation. A bard couldn’t cast a 3rd-level spell at a caster level lower than 7th, for example.<br /><br /> For spells that don’t continue to increase in power after a certain caster level, it’s usually best for the spellcaster to cast that spell as though she were a lower caster level to reduce the cost of her esoteric components.<br /><h1 class="title"><a href="Rules.aspx?ID=1945">With Limited Magic</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 152</i></a><br />In a game that uses the <a style="text-decoration:underline" href="Rules.aspx?Name=Limited Magic&Catgeory=Spell Alterations">limited magic variant</a>, you can add esoteric components to take some of the sting out of the weakened spellcasting. It’s best to include the components as described in the <a style="text-decoration:underline" href="Rules.aspx?Name=Optional Components&Category=Implementing Esoteric Components">optional components variant</a>, rather than saddling spellcasters with both weakened spellcasting and decreased treasure.<br /><br /> Limited magic uses a fixed caster level, which acts as the baseline for casting a spell using esoteric components or gaining the greater component benef its. When used together, the esoteric components and limited magic systems also allow another option: expending esoteric components to gain the benefits of a higher CL or save DC. The specif ic limited magic benef it is listed under each component description. The caster must expend components whose value is equal to twice the esoteric component cost for his caster level (rather than the spell’s minimum caster level) to gain the limited magic benefit. For example, a 6th-level wizard casting <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=fireball"><i>fireball</i></a> could gain the limited magic benef it by expending 36 gp worth of entropic resin.<br /><br /> As with greater component effects, expending multiple types of esoteric components can apply other limited magic effects, but requires a Spellcraft check. This option is deliberately more expensive to discourage casters from using it too routinely.<br /><br /> A spellcaster can choose to apply either greater component effects or limited magic effects—but not both—on the same casting of a spell.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

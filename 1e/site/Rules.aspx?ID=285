@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Challenge Rating of a Trap - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Challenge Rating of a Trap" /><meta name="description" content="To calculate the Challenge Rating of a trap, add all the CR modifiers (see Table 13–3 or Table 13–4) to the base CR for the trap type.&lt;br />&lt;br /> &lt;b>Mechanical Trap&lt;/b>: The base CR for a mechanical trap is 0. If your final CR is 0 or lower, add features until you get a CR of 1 or higher.&lt;br />&lt;br /> &lt;b>Magic Trap&lt;/b>: For a spell trap or magic device trap, the base CR is 1. The highest-level spell used modifies the CR (see Table 13–4).&lt;br />&lt;br /> &lt;b>Average Damage&lt;/b>: If a trap (mechanical or magical) does hit point damage, calculate the average damage for a successful hit and round that value to the nearest multiple of 10. If the trap is designed to hit more than one target, multiply this value by 2. If the trap is designed to deal damage over a number of rounds, multiply this value by the number of rounds the trap will be active (or the average number of rounds, if the duration is variable). Use this value to adjust the Challenge Rating of the trap, as indicated on Table 13–3. Damage from poison does not count toward this value, but extra damage from pit spikes and multiple attacks does.&lt;br />&lt;br /> For a magic trap, only one modifier applies to the CR— either the level of the highest-level spell used in the trap, or the average damage figure, whichever is larger.&lt;br />&lt;br /> &lt;b>Multiple Traps&lt;/b>: If a trap is really two or more connected traps that affect approximately the same area, determine the CR of each one separately.&lt;br />&lt;br /> &lt;i>Multiple Dependent Traps&lt;/i>: If one trap depends on the success of the other (that is, you can avoid the second trap by not falling victim to the first), characters earn XP for both traps by defeating the first one, regardless if the second one is also sprung.&lt;br />&lt;br /> &lt;i>Multiple Independent Traps&lt;/i>: If two or more traps act independently (they do not depend on one another to activate), characters only earn XP for traps that they defeat." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=285" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWQEjx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDgiPkVudmlyb25tZW50PC9hPjwvdT4gLyA8dT48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTI3MyI+VHJhcHM8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9Mjg0Ij5EZXNpZ25pbmcgYSBUcmFwPC9hPjwvdT48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTI4NSI+Q2hhbGxlbmdlIFJhdGluZyBvZiBhIFRyYXA8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4OHlqIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBSUEcgQ29yZSBSdWxlYm9vayBwZy4gNDIzPC9pPjwvYT48YnIgLz5UbyBjYWxjdWxhdGUgdGhlIENoYWxsZW5nZSBSYXRpbmcgb2YgYSB0cmFwLCBhZGQgYWxsIHRoZSBDUiBtb2RpZmllcnMgKHNlZSBUYWJsZSAxM+KAkzMgb3IgVGFibGUgMTPigJM0KSB0byB0aGUgYmFzZSBDUiBmb3IgdGhlIHRyYXAgdHlwZS48YnIgLz48YnIgLz4gPGI+TWVjaGFuaWNhbCBUcmFwPC9iPjogVGhlIGJhc2UgQ1IgZm9yIGEgbWVjaGFuaWNhbCB0cmFwIGlzIDAuIElmIHlvdXIgZmluYWwgQ1IgaXMgMCBvciBsb3dlciwgYWRkIGZlYXR1cmVzIHVudGlsIHlvdSBnZXQgYSBDUiBvZiAxIG9yIGhpZ2hlci48YnIgLz48YnIgLz4gPGI+TWFnaWMgVHJhcDwvYj46IEZvciBhIHNwZWxsIHRyYXAgb3IgbWFnaWMgZGV2aWNlIHRyYXAsIHRoZSBiYXNlIENSIGlzIDEuIFRoZSBoaWdoZXN0LWxldmVsIHNwZWxsIHVzZWQgbW9kaWZpZXMgdGhlIENSIChzZWUgVGFibGUgMTPigJM0KS48YnIgLz48YnIgLz4gPGI+QXZlcmFnZSBEYW1hZ2U8L2I+OiBJZiBhIHRyYXAgKG1lY2hhbmljYWwgb3IgbWFnaWNhbCkgZG9lcyBoaXQgcG9pbnQgZGFtYWdlLCBjYWxjdWxhdGUgdGhlIGF2ZXJhZ2UgZGFtYWdlIGZvciBhIHN1Y2Nlc3NmdWwgaGl0IGFuZCByb3VuZCB0aGF0IHZhbHVlIHRvIHRoZSBuZWFyZXN0IG11bHRpcGxlIG9mIDEwLiBJZiB0aGUgdHJhcCBpcyBkZXNpZ25lZCB0byBoaXQgbW9yZSB0aGFuIG9uZSB0YXJnZXQsIG11bHRpcGx5IHRoaXMgdmFsdWUgYnkgMi4gSWYgdGhlIHRyYXAgaXMgZGVzaWduZWQgdG8gZGVhbCBkYW1hZ2Ugb3ZlciBhIG51bWJlciBvZiByb3VuZHMsIG11bHRpcGx5IHRoaXMgdmFsdWUgYnkgdGhlIG51bWJlciBvZiByb3VuZHMgdGhlIHRyYXAgd2lsbCBiZSBhY3RpdmUgKG9yIHRoZSBhdmVyYWdlIG51bWJlciBvZiByb3VuZHMsIGlmIHRoZSBkdXJhdGlvbiBpcyB2YXJpYWJsZSkuIFVzZSB0aGlzIHZhbHVlIHRvIGFkanVzdCB0aGUgQ2hhbGxlbmdlIFJhdGluZyBvZiB0aGUgdHJhcCwgYXMgaW5kaWNhdGVkIG9uIFRhYmxlIDEz4oCTMy4gRGFtYWdlIGZyb20gcG9pc29uIGRvZXMgbm90IGNvdW50IHRvd2FyZCB0aGlzIHZhbHVlLCBidXQgZXh0cmEgZGFtYWdlIGZyb20gcGl0IHNwaWtlcyBhbmQgbXVsdGlwbGUgYXR0YWNrcyBkb2VzLjxiciAvPjxiciAvPiBGb3IgYSBtYWdpYyB0cmFwLCBvbmx5IG9uZSBtb2RpZmllciBhcHBsaWVzIHRvIHRoZSBDUuKAlCBlaXRoZXIgdGhlIGxldmVsIG9mIHRoZSBoaWdoZXN0LWxldmVsIHNwZWxsIHVzZWQgaW4gdGhlIHRyYXAsIG9yIHRoZSBhdmVyYWdlIGRhbWFnZSBmaWd1cmUsIHdoaWNoZXZlciBpcyBsYXJnZXIuPGJyIC8+PGJyIC8+IDxiPk11bHRpcGxlIFRyYXBzPC9iPjogSWYgYSB0cmFwIGlzIHJlYWxseSB0d28gb3IgbW9yZSBjb25uZWN0ZWQgdHJhcHMgdGhhdCBhZmZlY3QgYXBwcm94aW1hdGVseSB0aGUgc2FtZSBhcmVhLCBkZXRlcm1pbmUgdGhlIENSIG9mIGVhY2ggb25lIHNlcGFyYXRlbHkuPGJyIC8+PGJyIC8+IDxpPk11bHRpcGxlIERlcGVuZGVudCBUcmFwczwvaT46IElmIG9uZSB0cmFwIGRlcGVuZHMgb24gdGhlIHN1Y2Nlc3Mgb2YgdGhlIG90aGVyICh0aGF0IGlzLCB5b3UgY2FuIGF2b2lkIHRoZSBzZWNvbmQgdHJhcCBieSBub3QgZmFsbGluZyB2aWN0aW0gdG8gdGhlIGZpcnN0KSwgY2hhcmFjdGVycyBlYXJuIFhQIGZvciBib3RoIHRyYXBzIGJ5IGRlZmVhdGluZyB0aGUgZmlyc3Qgb25lLCByZWdhcmRsZXNzIGlmIHRoZSBzZWNvbmQgb25lIGlzIGFsc28gc3BydW5nLjxiciAvPjxiciAvPiA8aT5NdWx0aXBsZSBJbmRlcGVuZGVudCBUcmFwczwvaT46IElmIHR3byBvciBtb3JlIHRyYXBzIGFjdCBpbmRlcGVuZGVudGx5ICh0aGV5IGRvIG5vdCBkZXBlbmQgb24gb25lIGFub3RoZXIgdG8gYWN0aXZhdGUpLCBjaGFyYWN0ZXJzIG9ubHkgZWFybiBYUCBmb3IgdHJhcHMgdGhhdCB0aGV5IGRlZmVhdC5kZGQFiIUJG2AwvhWWzjJQPMWQoDkW2Tuk3yUW0GmoTFJ0JQ==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=48">Environment</a></u> / <u><a href="Rules.aspx?ID=273">Traps</a></u> / <u><a href="Rules.aspx?ID=284">Designing a Trap</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=285">Challenge Rating of a Trap</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 423</i></a><br />To calculate the Challenge Rating of a trap, add all the CR modifiers (see Table 13–3 or Table 13–4) to the base CR for the trap type.<br /><br /> <b>Mechanical Trap</b>: The base CR for a mechanical trap is 0. If your final CR is 0 or lower, add features until you get a CR of 1 or higher.<br /><br /> <b>Magic Trap</b>: For a spell trap or magic device trap, the base CR is 1. The highest-level spell used modifies the CR (see Table 13–4).<br /><br /> <b>Average Damage</b>: If a trap (mechanical or magical) does hit point damage, calculate the average damage for a successful hit and round that value to the nearest multiple of 10. If the trap is designed to hit more than one target, multiply this value by 2. If the trap is designed to deal damage over a number of rounds, multiply this value by the number of rounds the trap will be active (or the average number of rounds, if the duration is variable). Use this value to adjust the Challenge Rating of the trap, as indicated on Table 13–3. Damage from poison does not count toward this value, but extra damage from pit spikes and multiple attacks does.<br /><br /> For a magic trap, only one modifier applies to the CR— either the level of the highest-level spell used in the trap, or the average damage figure, whichever is larger.<br /><br /> <b>Multiple Traps</b>: If a trap is really two or more connected traps that affect approximately the same area, determine the CR of each one separately.<br /><br /> <i>Multiple Dependent Traps</i>: If one trap depends on the success of the other (that is, you can avoid the second trap by not falling victim to the first), characters earn XP for both traps by defeating the first one, regardless if the second one is also sprung.<br /><br /> <i>Multiple Independent Traps</i>: If two or more traps act independently (they do not depend on one another to activate), characters only earn XP for traps that they defeat.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

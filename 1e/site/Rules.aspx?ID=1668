@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Building a Mythic Creature - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Building a Mythic Creature" /><meta name="description" content="In addition to using a mythic simple template, there are two ways to create a new mythic monster. The first is to take an existing monster, give it the mythic subtype, and add abilities as described in that subtype. The second method is to create an entirely new monster with the mythic subtype and incorporate additional abilities into the final monster. Both methods are described beginning on page 225." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=1668" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXFODx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTYwOCI+TXl0aGljIFJ1bGVzPC9hPjwvdT4gLyA8dT48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE2NjIiPk15dGhpYyBNb25zdGVyczwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNjY2Ij5NeXRoaWMgTW9uc3RlciBBZHZhbmNlbWVudDwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNjY4Ij5CdWlsZGluZyBhIE15dGhpYyBDcmVhdHVyZTwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OHl3ZT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtTXl0aGljLUFkdmVudHVyZXMiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+TXl0aGljIEFkdmVudHVyZXMgcGcuIDIyNDwvaT48L2E+PGJyIC8+SW4gYWRkaXRpb24gdG8gdXNpbmcgYSBteXRoaWMgc2ltcGxlIHRlbXBsYXRlLCB0aGVyZSBhcmUgdHdvIHdheXMgdG8gY3JlYXRlIGEgbmV3IG15dGhpYyBtb25zdGVyLiBUaGUgZmlyc3QgaXMgdG8gdGFrZSBhbiBleGlzdGluZyBtb25zdGVyLCBnaXZlIGl0IHRoZSBteXRoaWMgc3VidHlwZSwgYW5kIGFkZCBhYmlsaXRpZXMgYXMgZGVzY3JpYmVkIGluIHRoYXQgc3VidHlwZS4gVGhlIHNlY29uZCBtZXRob2QgaXMgdG8gY3JlYXRlIGFuIGVudGlyZWx5IG5ldyBtb25zdGVyIHdpdGggdGhlIG15dGhpYyBzdWJ0eXBlIGFuZCBpbmNvcnBvcmF0ZSBhZGRpdGlvbmFsIGFiaWxpdGllcyBpbnRvIHRoZSBmaW5hbCBtb25zdGVyLiBCb3RoIG1ldGhvZHMgYXJlIGRlc2NyaWJlZCBiZWdpbm5pbmcgb24gcGFnZSAyMjUuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNjY5Ij5Nb2RpZnkgYW4gRXhpc3RpbmcgTW9uc3RlcjwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OHl3ZT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtTXl0aGljLUFkdmVudHVyZXMiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+TXl0aGljIEFkdmVudHVyZXMgcGcuIDIyNTwvaT48L2E+PGJyIC8+TWFraW5nIGEgbXl0aGljIG1vbnN0ZXIgb3V0IG9mIGFuIG9yZGluYXJ5IG1vbnN0ZXIgaXMgZmFpcmx5IHN0cmFpZ2h0Zm9yd2FyZOKAlGp1c3QgZm9sbG93IHRoZXNlIHN0ZXBzLiA8YnIgLz48YnIgLz48Yj5TdGVwIDHigJREZXRlcm1pbmUgaXRzIG15dGhpYyByYW5rIChNUik8L2I+LiBEaXZpZGUgeW91ciBtb25zdGVy4oCZcyBDUiBieSAyIHRvIGdldCBpdHMgYXBwcm94aW1hdGUgbXl0aGljIHJhbmsuIElmIHRoZSByZXN1bHQgaXMgbm90IGEgd2hvbGUgbnVtYmVyLCBpdCBqdXN0IG1lYW5zIHlvdSBoYXZlIHNvbWUgZmxleGliaWxpdHkgaW4gY2hvb3NpbmcgdGhlIE1SLiBGb3IgZXhhbXBsZSwgaWYgeW91ciBtb25zdGVyIGlzIGEgQ1IgNyBjaGltZXJhLCBoYWxmIG9mIDcgaXMgMy41LCB3aGljaCBtZWFucyB5b3UgY2FuIHRyeSBpdCBhdCBNUiAzIG9yIE1SIDQuIEl04oCZcyBlYXNpZXIgdG8gc3RhcnQgd2l0aCBhIGxvd2VyIE1S4oCUeW91IGNhbiBhbHdheXMgaW5jcmVhc2UgdGhlIE1SIGxhdGVyIGlmIHlvdSBuZWVkIHRoZSBtb25zdGVyIHRvIGJlIGEgbGl0dGxlIG1vcmUgcG93ZXJmdWwuIDxiciAvPjxiciAvPjxiPlN0ZXAgMuKAlEFkZCB0aGUgbXl0aGljIHN1YnR5cGU8L2I+LiBUaGUgbXl0aGljIHN1YnR5cGUgaXMgZGVzY3JpYmVkIG9uIHBhZ2UgMjI2LiBUaGUgbW9kaWZpY2F0aW9ucyB0byB0aGUgY3JlYXR1cmXigJlzIGFiaWxpdHkgc2NvcmVzLCBoaXQgcG9pbnRzLCBhbmQgb3RoZXIgZ2FtZSBzdGF0aXN0aWNzIGRlcGVuZCBvbiB5b3VyIG1vbnN0ZXLigJlzIE1SLiA8YnIgLz48YnIgLz48Yj5TdGVwIDPigJRBZGQgYWRkaXRpb25hbCBteXRoaWMgYWJpbGl0aWVzPC9iPi4gQXMgZGVzY3JpYmVkIGluIHRoZSBteXRoaWMgc3VidHlwZSwgdGhlIG1vbnN0ZXIgZ2FpbnMgYSBudW1iZXIgb2YgbXl0aGljIGFiaWxpdGllcyBlcXVhbCB0byBpdHMgTVIgKyAxLiA8YnIgLz48YnIgLz48Yj5TdGVwIDTigJRFdmFsdWF0ZSB0aGUgbW9uc3RlciBhdCBpdHMgZmluYWwgQ1I8L2I+LiBZb3VyIG1vbnN0ZXLigJlzIGZpbmFsIENSIGlzIGl0cyBpbml0aWFsIENSICsgMS8yIGl0cyBNUiAocm91bmQgZG93bjsgbWluaW11bSAxKS4gVXNlIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJSdWxlcy5hc3B4P05hbWU9RXZhbHVhdGluZyBNb25zdGVyIFN0YXRpc3RpY3MmQ2F0ZWdvcnk9TXl0aGljIE1vbnN0ZXIgQWR2YW5jZW1lbnQiPlRhYmxlIDbigJM4OiBNb25zdGVyIFN0YXRpc3RpY3MgYnkgQ1I8L2E+IHRvIGV2YWx1YXRlIHdoZXRoZXIgdGhlIG1vbnN0ZXLigJlzIGFiaWxpdGllcyBhcmUgYXBwcm9wcmlhdGVseSBjaGFsbGVuZ2luZyBmb3IgaXRzIGZpbmFsIENSLiBJZiBhIGNyZWF0dXJl4oCZcyBteXRoaWMgYWJpbGl0aWVzIGNvbXBsZW1lbnQgaXRzIG5vbi1teXRoaWMgYWJpbGl0aWVzIHBhcnRpY3VsYXJseSB3ZWxsLCB0aGF0IG15dGhpYyBjcmVhdHVyZSBtYXkgYmUgdG9vIHBvd2VyZnVsIGZvciBpdHMgZmluYWwgQ1IuIElmIGEgY3JlYXR1cmXigJlzIG15dGhpYyBhYmlsaXRpZXMgZG9u4oCZdCBpbnRlcmFjdCB3aXRoIGl0cyBub24tbXl0aGljIGFiaWxpdGllcywgdGhhdCBjcmVhdHVyZSBtYXkgYmUgdG9vIHdlYWsgZm9yIGl0cyBmaW5hbCBDUi4gSWYgZWl0aGVyIG9mIHRoZXNlIHNpdHVhdGlvbnMgb2NjdXIsIG1ha2UgYWRqdXN0bWVudHMgdG8gdGhlIGNyZWF0dXJlIHNvIGl0IGJldHRlciBmaXRzIHRoZSBpbnRlbmRlZCBDUi48YnIgLz48YnIgLz4gSWYgdGhlIGNyZWF0dXJlIGlzIHRvbyB3ZWFrIGFuZCB5b3Ugcm91bmRlZCB0aGUgY3JlYXR1cmXigJlzIE1SIGRvd24gaW4gU3RlcCAxLCB5b3UgY2FuIHJvdW5kIHVwIGluc3RlYWQgKGFkanVzdGluZyB0aGUgbW9kaWZpZXJzIGZyb20gdGhlIG15dGhpYyBzdWJ0eXBlKS4gSWYgdGhlIGNyZWF0dXJlIGlzIHRvbyBzdHJvbmcgYW5kIHlvdSByb3VuZGVkIHRoZSBjcmVhdHVyZeKAmXMgTVIgdXAgaW4gU3RlcCAxLCB5b3UgY2FuIHJvdW5kIGRvd24gaW5zdGVhZCAoYWRqdXN0aW5nIHRoZSBtb2RpZmllcnMgZnJvbSB0aGUgbXl0aGljIHN1YnR5cGUpLjxiciAvPjxiciAvPiBPbmNlIHRoZSBjcmVhdHVyZeKAmXMgYWJpbGl0aWVzIGFuZCBzdGF0aXN0aWNzIGZpdCBpdHMgQ1IsIHlvdeKAmXJlIGRvbmUuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNjcwIj5DcmVhdGUgYSBOZXcgTW9uc3RlcjwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OHl3ZT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtTXl0aGljLUFkdmVudHVyZXMiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+TXl0aGljIEFkdmVudHVyZXMgcGcuIDIyNTwvaT48L2E+PGJyIC8+Q3JlYXRpbmcgYSBuZXcgbXl0aGljIG1vbnN0ZXIgaXMgZXNwZWNpYWxseSBjaGFsbGVuZ2luZyBiZWNhdXNlIHlvdeKAmXJlIGJhc2ljYWxseSBjcmVhdGluZyBhIG1vbnN0ZXIgd2l0aCB0d28gQ1Jz4oCUIGFuIGluaXRpYWwgQ1IsIHdoaWNoIGRldGVybWluZXMgaXRzIGFwcHJvcHJpYXRlIG15dGhpYyByYW5rIGFuZCB0aHVzIGhvdyBtYW55IG15dGhpYyBhYmlsaXRpZXMgaXQgZ2V0cywgYW5kIGl0cyBmaW5hbCBDUiwgd2hpY2ggZGV0ZXJtaW5lcyBhcHByb3ByaWF0ZSB2YWx1ZXMgZm9yIGl0cyBBQywgaGl0IHBvaW50cywgZGFtYWdlIHBlciByb3VuZCwgYW5kIHNvIG9uLiBUaG91Z2ggaXTigJlzIHBvc3NpYmxlIHRvIGNyZWF0ZSB0aGUgbW9uc3RlciBhbGwgYXQgb25jZSB3aXRoIGEgcGFydGljdWxhciBDUiBhbmQgTVIgaW4gbWluZCwgaXTigJlzIGdlbmVyYWxseSBlYXNpZXIgdG8gYnVpbGQgaXQgaW4gc2V2ZXJhbCBzdGVwcyAoc29tZSBvZiB3aGljaCBhcmUgdmVyeSBzaW1pbGFyIHRvIHRoZSBzdGVwcyBmb3IgbW9kaWZ5aW5nIGFuIGV4aXN0aW5nIG1vbnN0ZXIpLiA8YnIgLz48YnIgLz48Yj5TdGVwIDHigJRFc3RpbWF0ZSBpdHMgZmluYWwgQ1I8L2I+LiBLbm93aW5nIHRoZSBpbnRlbmRlZCBDUiBvZiB5b3VyIG5ldyBtb25zdGVyIGlzIGNyaXRpY2FsLiBUaGlzIHRhcmdldCBoZWxwcyBkZXRlcm1pbmUgdGhlIHN0YXJ0aW5nIHBvd2VyIGxldmVsIGZvciB5b3VyIG1vbnN0ZXIgaW4gdGhlIGxhdGVyIHN0ZXBzLCBhbmQgbWVhbnMgeW91IHdvbuKAmXQgaGF2ZSB0byByZWNvbmZpZ3VyZSB5b3VyIG1vbnN0ZXIgaWYgaXTigJlzIHRvbyB3ZWFrIG9yIHRvbyBwb3dlcmZ1bC4gRm9yIGV4YW1wbGUsIHlvdSBtaWdodCB3YW50IGEgQ1IgNyBteXRoaWMgbW9uc3RlciB0byBjaGFsbGVuZ2UgYSA1dGgtbGV2ZWwgbXl0aGljIHBhcnR5LiA8YnIgLz48YnIgLz48Yj5TdGVwIDLigJREZXRlcm1pbmUgaXRzIG15dGhpYyByYW5rIChNUik8L2I+LiBEaXZpZGUgeW91ciBmaW5hbCBDUiBieSAyLjUgdG8gZ2V0IHRoZSBhcHByb3hpbWF0ZSBteXRoaWMgcmFuayBvZiB5b3VyIG1vbnN0ZXIuIElmIHRoZSByZXN1bHQgaXMgbm90IGEgd2hvbGUgbnVtYmVyLCBpdCBqdXN0IG1lYW5zIHlvdSBoYXZlIHNvbWUgZmxleGliaWxpdHkgaW4gY2hvb3NpbmcgdGhlIE1SLiBGb3IgZXhhbXBsZSwgaWYgeW91ciBmaW5hbCBDUiBpcyA3LCBkaXZpZGluZyB0aGF0IGJ5IDIuNSBpcyAyLjgsIHNvIHlvdXIgbW9uc3RlciBjb3VsZCBiZSAybmQgcmFuayBvciAzcmQgcmFuay4gSXTigJlzIGdlbmVyYWxseSBlYXNpZXIgdG8gc3RhcnQgd2l0aCBhIGxvd2VyIE1S4oCUeW91IGNhbiBhbHdheXMgaW5jcmVhc2UgdGhlIE1SIGxhdGVyIGlmIHlvdSBuZWVkIHRoZSBtb25zdGVyIHRvIGJlIGEgbGl0dGxlIG1vcmUgcG93ZXJmdWwuIDxiciAvPjxiciAvPjxiPlN0ZXAgM+KAlERldGVybWluZSBpdHMgaW5pdGlhbCBDUjwvYj4uIFN1YnRyYWN0IGhhbGYgdGhlIE1SIGZyb20gdGhlIGZpbmFsIENSIHRvIGdldCB0aGUgaW5pdGlhbCBDUi4gSWYgdGhlIGZpbmFsIENSIGlzIDcgYW5kIHRoZSBNUiBpcyAyLCBoYWxmIG9mIDIgaXMgMSwgc28gdGhlIGluaXRpYWwgQ1IgaXMgNyDigJMgMSA9IDYuIDxiciAvPjxiciAvPjxiPlN0ZXAgNOKAlEJ1aWxkIGEgbmV3IG1vbnN0ZXIgZm9yIHRoYXQgaW5pdGlhbCBDUjwvYj4uIFRoaXMgaXMgaWRlbnRpY2FsIHRvIHRoZSBwcm9jZXNzIGZvciBjcmVhdGluZyBhIG5vbi1teXRoaWMgbW9uc3Rlci4gRm9sbG93IHRoZSBndWlkZWxpbmVzIGluIHRoZSBQYXRoZmluZGVyIFJQRyBCZXN0aWFyeSwgY3JlYXRpbmcgYSBjcmVhdHVyZSBiYWxhbmNlZCBmb3IgaXRzIENSLCBvciBzdGFydGluZyB3aXRoIGEgYmFzZSBjcmVhdHVyZSBrbm93biB0byBiZSBhcHByb3ByaWF0ZSBmb3IgaXRzIENSIGFuZCBhbHRlcmluZyB0aGF0IG1vbnN0ZXIgdG8gc3VpdCB5b3VyIHB1cnBvc2VzLiBUaGUgbmV4dCB0aHJlZSBzdGVwcyBtYWtlIHRoZSBjcmVhdHVyZSBteXRoaWMuIDxiciAvPjxiciAvPjxiPlN0ZXAgNeKAlEFkZCB0aGUgbXl0aGljIHN1YnR5cGU8L2I+LiBUaGUgbXl0aGljIHN1YnR5cGUgaXMgZGVzY3JpYmVkIG9uIHBhZ2UgMjI2LiBUaGUgbW9kaWZpY2F0aW9ucyB0byB0aGUgY3JlYXR1cmXigJlzIGFiaWxpdHkgc2NvcmVzLCBoaXQgcG9pbnRzLCBhbmQgc28gb24gZGVwZW5kIG9uIGl0cyBNUi4gPGJyIC8+PGJyIC8+PGI+U3RlcCA24oCUQWRkIGFkZGl0aW9uYWwgbXl0aGljIGFiaWxpdGllczwvYj4uIEFzIGRlc2NyaWJlZCBpbiB0aGUgbXl0aGljIHN1YnR5cGUsIHRoZSBtb25zdGVyIGdhaW5zIGEgbnVtYmVyIG9mIG15dGhpYyBhYmlsaXRpZXMgZXF1YWwgdG8gaXRzIE1SICsgMS4gPGJyIC8+PGJyIC8+PGI+U3RlcCA34oCURXZhbHVhdGUgdGhlIG1vbnN0ZXIgYXQgaXRzIGZpbmFsIENSPC9iPi4gWW91ciBtb25zdGVy4oCZcyBmaW5hbCBDUiBpcyBpdHMgaW5pdGlhbCBDUiArIDEvMiBpdHMgTVIgKHdoaWNoIHNob3VsZCBiZSBjbG9zZSB0byB5b3VyIGVzdGltYXRlIGZyb20gU3RlcCAxKS4gSWYgaGFsZiB0aGUgTVIgaXNu4oCZdCBhbiBldmVuIG51bWJlciwgcm91bmQgZG93biB0byBnZXQgdGhlIG1vbnN0ZXLigJlzIGZpbmFsIENSLiBVc2UgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlJ1bGVzLmFzcHg/TmFtZT1FdmFsdWF0aW5nIE1vbnN0ZXIgU3RhdGlzdGljcyZDYXRlZ29yeT1NeXRoaWMgTW9uc3RlciBBZHZhbmNlbWVudCI+VGFibGUgNuKAkzg6IE1vbnN0ZXIgU3RhdGlzdGljcyBieSBDUjwvYT4gdG8gZXZhbHVhdGUgd2hldGhlciB0aGUgbW9uc3RlcuKAmXMgYWJpbGl0aWVzIGFyZSBhcHByb3ByaWF0ZWx5IGNoYWxsZW5naW5nIGZvciBpdHMgZmluYWwgQ1IuIElmIGEgY3JlYXR1cmXigJlzIG15dGhpYyBhYmlsaXRpZXMgY29tcGxlbWVudCBpdHMgbm9uLW15dGhpYyBhYmlsaXRpZXMgcGFydGljdWxhcmx5IHdlbGwsIHRoYXQgbXl0aGljIGNyZWF0dXJlIG1heSBiZSB0b28gcG93ZXJmdWwgZm9yIGl0cyBmaW5hbCBDUi4gSWYgYSBjcmVhdHVyZeKAmXMgbXl0aGljIGFiaWxpdGllcyBkb27igJl0IGludGVyYWN0IHdpdGggaXRzIG5vbi1teXRoaWMgYWJpbGl0aWVzLCB0aGF0IGNyZWF0dXJlIG1heSBiZSB0b28gd2VhayBmb3IgaXRzIGZpbmFsIENSLiBJZiBlaXRoZXIgb2YgdGhlc2Ugc2l0dWF0aW9ucyBvY2N1ciwgbWFrZSBhZGp1c3RtZW50cyB0byB0aGUgbW9uc3RlciBzbyBpdCBiZXR0ZXIgZml0cyB0aGUgaW50ZW5kZWQgQ1IuPGJyIC8+PGJyIC8+IElmIHRoZSBtb25zdGVyIGlzIHRvbyB3ZWFrIGFuZCB0aGUgTVIgZnJvbSBTdGVwIDIgaXNu4oCZdCBhIHdob2xlIG51bWJlciwgaW5jcmVhc2UgdGhlIG1vbnN0ZXLigJlzIE1SIGJ5IDEgKGFkanVzdGluZyB0aGUgbW9kaWZpZXJzIGZyb20gdGhlIG15dGhpYyBzdWJ0eXBlKS4gSWYgdGhlIG1vbnN0ZXIgaXMgdG9vIHN0cm9uZyBhbmQgeW91IGhhdmUgdG8gcm91bmQgZG93biB0byBnZXQgaXRzIGZpbmFsIENSLCBjb21wYXJlIHRoZSBtb25zdGVyIHRvIHRoZSBzdGF0aXN0aWNzIGZvciB0aGUgbmV4dCBoaWdoZXN0IENSLiBPbmNlIHRoZSBtb25zdGVy4oCZcyBhYmlsaXRpZXMgYW5kIHN0YXRpc3RpY3MgZml0IGl0cyBDUiwgeW914oCZcmUgZG9uZS5kZGRX8MAHXORleLOR/+TANI6ZD2aKW2WfLt1n26PTvf047Q==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1608">Mythic Rules</a></u> / <u><a href="Rules.aspx?ID=1662">Mythic Monsters</a></u> / <u><a href="Rules.aspx?ID=1666">Mythic Monster Advancement</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=1668">Building a Mythic Creature</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8ywe?Pathfinder-Roleplaying-Game-Mythic-Adventures" target="_blank" class="external-link"><i>Mythic Adventures pg. 224</i></a><br />In addition to using a mythic simple template, there are two ways to create a new mythic monster. The first is to take an existing monster, give it the mythic subtype, and add abilities as described in that subtype. The second method is to create an entirely new monster with the mythic subtype and incorporate additional abilities into the final monster. Both methods are described beginning on page 225.<br /><h1 class="title"><a href="Rules.aspx?ID=1669">Modify an Existing Monster</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8ywe?Pathfinder-Roleplaying-Game-Mythic-Adventures" target="_blank" class="external-link"><i>Mythic Adventures pg. 225</i></a><br />Making a mythic monster out of an ordinary monster is fairly straightforward—just follow these steps. <br /><br /><b>Step 1—Determine its mythic rank (MR)</b>. Divide your monster’s CR by 2 to get its approximate mythic rank. If the result is not a whole number, it just means you have some flexibility in choosing the MR. For example, if your monster is a CR 7 chimera, half of 7 is 3.5, which means you can try it at MR 3 or MR 4. It’s easier to start with a lower MR—you can always increase the MR later if you need the monster to be a little more powerful. <br /><br /><b>Step 2—Add the mythic subtype</b>. The mythic subtype is described on page 226. The modifications to the creature’s ability scores, hit points, and other game statistics depend on your monster’s MR. <br /><br /><b>Step 3—Add additional mythic abilities</b>. As described in the mythic subtype, the monster gains a number of mythic abilities equal to its MR + 1. <br /><br /><b>Step 4—Evaluate the monster at its final CR</b>. Your monster’s final CR is its initial CR + 1/2 its MR (round down; minimum 1). Use <a style="text-decoration:underline" href="Rules.aspx?Name=Evaluating Monster Statistics&Category=Mythic Monster Advancement">Table 6–8: Monster Statistics by CR</a> to evaluate whether the monster’s abilities are appropriately challenging for its final CR. If a creature’s mythic abilities complement its non-mythic abilities particularly well, that mythic creature may be too powerful for its final CR. If a creature’s mythic abilities don’t interact with its non-mythic abilities, that creature may be too weak for its final CR. If either of these situations occur, make adjustments to the creature so it better fits the intended CR.<br /><br /> If the creature is too weak and you rounded the creature’s MR down in Step 1, you can round up instead (adjusting the modifiers from the mythic subtype). If the creature is too strong and you rounded the creature’s MR up in Step 1, you can round down instead (adjusting the modifiers from the mythic subtype).<br /><br /> Once the creature’s abilities and statistics fit its CR, you’re done.<br /><h1 class="title"><a href="Rules.aspx?ID=1670">Create a New Monster</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8ywe?Pathfinder-Roleplaying-Game-Mythic-Adventures" target="_blank" class="external-link"><i>Mythic Adventures pg. 225</i></a><br />Creating a new mythic monster is especially challenging because you’re basically creating a monster with two CRs— an initial CR, which determines its appropriate mythic rank and thus how many mythic abilities it gets, and its final CR, which determines appropriate values for its AC, hit points, damage per round, and so on. Though it’s possible to create the monster all at once with a particular CR and MR in mind, it’s generally easier to build it in several steps (some of which are very similar to the steps for modifying an existing monster). <br /><br /><b>Step 1—Estimate its final CR</b>. Knowing the intended CR of your new monster is critical. This target helps determine the starting power level for your monster in the later steps, and means you won’t have to reconfigure your monster if it’s too weak or too powerful. For example, you might want a CR 7 mythic monster to challenge a 5th-level mythic party. <br /><br /><b>Step 2—Determine its mythic rank (MR)</b>. Divide your final CR by 2.5 to get the approximate mythic rank of your monster. If the result is not a whole number, it just means you have some flexibility in choosing the MR. For example, if your final CR is 7, dividing that by 2.5 is 2.8, so your monster could be 2nd rank or 3rd rank. It’s generally easier to start with a lower MR—you can always increase the MR later if you need the monster to be a little more powerful. <br /><br /><b>Step 3—Determine its initial CR</b>. Subtract half the MR from the final CR to get the initial CR. If the final CR is 7 and the MR is 2, half of 2 is 1, so the initial CR is 7 – 1 = 6. <br /><br /><b>Step 4—Build a new monster for that initial CR</b>. This is identical to the process for creating a non-mythic monster. Follow the guidelines in the Pathfinder RPG Bestiary, creating a creature balanced for its CR, or starting with a base creature known to be appropriate for its CR and altering that monster to suit your purposes. The next three steps make the creature mythic. <br /><br /><b>Step 5—Add the mythic subtype</b>. The mythic subtype is described on page 226. The modifications to the creature’s ability scores, hit points, and so on depend on its MR. <br /><br /><b>Step 6—Add additional mythic abilities</b>. As described in the mythic subtype, the monster gains a number of mythic abilities equal to its MR + 1. <br /><br /><b>Step 7—Evaluate the monster at its final CR</b>. Your monster’s final CR is its initial CR + 1/2 its MR (which should be close to your estimate from Step 1). If half the MR isn’t an even number, round down to get the monster’s final CR. Use <a style="text-decoration:underline" href="Rules.aspx?Name=Evaluating Monster Statistics&Category=Mythic Monster Advancement">Table 6–8: Monster Statistics by CR</a> to evaluate whether the monster’s abilities are appropriately challenging for its final CR. If a creature’s mythic abilities complement its non-mythic abilities particularly well, that mythic creature may be too powerful for its final CR. If a creature’s mythic abilities don’t interact with its non-mythic abilities, that creature may be too weak for its final CR. If either of these situations occur, make adjustments to the monster so it better fits the intended CR.<br /><br /> If the monster is too weak and the MR from Step 2 isn’t a whole number, increase the monster’s MR by 1 (adjusting the modifiers from the mythic subtype). If the monster is too strong and you have to round down to get its final CR, compare the monster to the statistics for the next highest CR. Once the monster’s abilities and statistics fit its CR, you’re done.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

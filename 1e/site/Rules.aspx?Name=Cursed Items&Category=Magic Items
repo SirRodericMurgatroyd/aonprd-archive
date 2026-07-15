@@ -1,0 +1,270 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Cursed Items - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Cursed Items" /><meta name="description" content="Cursed items are magic items with some sort of potentially negative impact. Occasionally they mix bad with good, forcing characters to make difficult choices. Cursed items are almost never made intentionally. Instead they are the result of rushed work, inexperienced crafters, or a lack of proper components. While many of these items still have functions, they either do not work as intended or come with serious drawbacks. When a magic item creation skill check fails by 5 or more, roll on Table 15–27 to determine the type of curse possessed by the item.&lt;br />&lt;br /> &lt;b>Identifying Cursed Items&lt;/b>: Cursed items are identified like any other magic item with one exception: unless the check made to identify the item exceeds the DC by 10 or more, the curse is not detected. If the check is not made by 10 or more, but still succeeds, all that is revealed is the magic item’s original intent. If the item is known to be cursed, the nature of the curse can be determined using the standard DC to identify the item.&lt;br />&lt;br /> &lt;b>Removing Cursed Items&lt;/b>: While some cursed items can be simply discarded, others force a compulsion upon the user to keep the item, no matter the costs. Others reappear even if discarded or are impossible to throw away. These items can only be discarded after the character or item is targeted by a &lt;i>remove curse&lt;/i> or similar magic. The DC of the caster level check to undo the curse is equal to 10 + the item’s caster level. If the spell is successful, the item can be discarded on the following round, but the curse reasserts itself if the item is used again." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=396" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAW+aTx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NjUiPkl0ZW1zPC9hPjwvdT4gLyA8dT48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTM2NSI+TWFnaWMgSXRlbXM8L2E+PC91PjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9Mzk2Ij5DdXJzZWQgSXRlbXM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4OHlqIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBSUEcgQ29yZSBSdWxlYm9vayBwZy4gNTM2PC9pPjwvYT48YnIgLz5DdXJzZWQgaXRlbXMgYXJlIG1hZ2ljIGl0ZW1zIHdpdGggc29tZSBzb3J0IG9mIHBvdGVudGlhbGx5IG5lZ2F0aXZlIGltcGFjdC4gT2NjYXNpb25hbGx5IHRoZXkgbWl4IGJhZCB3aXRoIGdvb2QsIGZvcmNpbmcgY2hhcmFjdGVycyB0byBtYWtlIGRpZmZpY3VsdCBjaG9pY2VzLiBDdXJzZWQgaXRlbXMgYXJlIGFsbW9zdCBuZXZlciBtYWRlIGludGVudGlvbmFsbHkuIEluc3RlYWQgdGhleSBhcmUgdGhlIHJlc3VsdCBvZiBydXNoZWQgd29yaywgaW5leHBlcmllbmNlZCBjcmFmdGVycywgb3IgYSBsYWNrIG9mIHByb3BlciBjb21wb25lbnRzLiBXaGlsZSBtYW55IG9mIHRoZXNlIGl0ZW1zIHN0aWxsIGhhdmUgZnVuY3Rpb25zLCB0aGV5IGVpdGhlciBkbyBub3Qgd29yayBhcyBpbnRlbmRlZCBvciBjb21lIHdpdGggc2VyaW91cyBkcmF3YmFja3MuIFdoZW4gYSBtYWdpYyBpdGVtIGNyZWF0aW9uIHNraWxsIGNoZWNrIGZhaWxzIGJ5IDUgb3IgbW9yZSwgcm9sbCBvbiBUYWJsZSAxNeKAkzI3IHRvIGRldGVybWluZSB0aGUgdHlwZSBvZiBjdXJzZSBwb3NzZXNzZWQgYnkgdGhlIGl0ZW0uPGJyIC8+PGJyIC8+IDxiPklkZW50aWZ5aW5nIEN1cnNlZCBJdGVtczwvYj46IEN1cnNlZCBpdGVtcyBhcmUgaWRlbnRpZmllZCBsaWtlIGFueSBvdGhlciBtYWdpYyBpdGVtIHdpdGggb25lIGV4Y2VwdGlvbjogdW5sZXNzIHRoZSBjaGVjayBtYWRlIHRvIGlkZW50aWZ5IHRoZSBpdGVtIGV4Y2VlZHMgdGhlIERDIGJ5IDEwIG9yIG1vcmUsIHRoZSBjdXJzZSBpcyBub3QgZGV0ZWN0ZWQuIElmIHRoZSBjaGVjayBpcyBub3QgbWFkZSBieSAxMCBvciBtb3JlLCBidXQgc3RpbGwgc3VjY2VlZHMsIGFsbCB0aGF0IGlzIHJldmVhbGVkIGlzIHRoZSBtYWdpYyBpdGVt4oCZcyBvcmlnaW5hbCBpbnRlbnQuIElmIHRoZSBpdGVtIGlzIGtub3duIHRvIGJlIGN1cnNlZCwgdGhlIG5hdHVyZSBvZiB0aGUgY3Vyc2UgY2FuIGJlIGRldGVybWluZWQgdXNpbmcgdGhlIHN0YW5kYXJkIERDIHRvIGlkZW50aWZ5IHRoZSBpdGVtLjxiciAvPjxiciAvPiA8Yj5SZW1vdmluZyBDdXJzZWQgSXRlbXM8L2I+OiBXaGlsZSBzb21lIGN1cnNlZCBpdGVtcyBjYW4gYmUgc2ltcGx5IGRpc2NhcmRlZCwgb3RoZXJzIGZvcmNlIGEgY29tcHVsc2lvbiB1cG9uIHRoZSB1c2VyIHRvIGtlZXAgdGhlIGl0ZW0sIG5vIG1hdHRlciB0aGUgY29zdHMuIE90aGVycyByZWFwcGVhciBldmVuIGlmIGRpc2NhcmRlZCBvciBhcmUgaW1wb3NzaWJsZSB0byB0aHJvdyBhd2F5LiBUaGVzZSBpdGVtcyBjYW4gb25seSBiZSBkaXNjYXJkZWQgYWZ0ZXIgdGhlIGNoYXJhY3RlciBvciBpdGVtIGlzIHRhcmdldGVkIGJ5IGEgPGk+cmVtb3ZlIGN1cnNlPC9pPiBvciBzaW1pbGFyIG1hZ2ljLiBUaGUgREMgb2YgdGhlIGNhc3RlciBsZXZlbCBjaGVjayB0byB1bmRvIHRoZSBjdXJzZSBpcyBlcXVhbCB0byAxMCArIHRoZSBpdGVt4oCZcyBjYXN0ZXIgbGV2ZWwuIElmIHRoZSBzcGVsbCBpcyBzdWNjZXNzZnVsLCB0aGUgaXRlbSBjYW4gYmUgZGlzY2FyZGVkIG9uIHRoZSBmb2xsb3dpbmcgcm91bmQsIGJ1dCB0aGUgY3Vyc2UgcmVhc3NlcnRzIGl0c2VsZiBpZiB0aGUgaXRlbSBpcyB1c2VkIGFnYWluLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9Mzk3Ij5Db21tb24gQ3Vyc2VkIEl0ZW0gRWZmZWN0czwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweTg4eWoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UFJQRyBDb3JlIFJ1bGVib29rIHBnLiA1MzY8L2k+PC9hPjxiciAvPlRoZSBmb2xsb3dpbmcgYXJlIHNvbWUgb2YgdGhlIG1vc3QgY29tbW9uIGN1cnNlZCBpdGVtIGVmZmVjdHMuIEdNcyBzaG91bGQgZmVlbCBmcmVlIHRvIGludmVudCBuZXcgY3Vyc2VkIGl0ZW0gZWZmZWN0cyB0byBmaXQgc3BlY2lmaWMgaXRlbXMuPGJyIC8+PGJyIC8+PGgyPlRhYmxlIDE1LTI3OiBDb21tb24gSXRlbSBDdXJzZXM8L2gyPiA8dGFibGUgY2xhc3M9ImlubmVyIj4gPHRyPjx0ZD48Yj5kJTwvYj48L3RkPjx0ZD48Yj5DdXJzZTwvYj48L3RkPjwvdHI+PHRyPjx0ZD4wMS0xNTwvdGQ+PHRkPkRlbHVzaW9uPC90ZD48L3RyPjx0cj48dGQ+MTYtMzU8L3RkPjx0ZD5PcHBvc2l0ZSBlZmZlY3Qgb3IgdGFyZ2V0PC90ZD48L3RyPjx0cj48dGQ+MzYtNDU8L3RkPjx0ZD5JbnRlcm1pdHRlbnQgZnVuY3Rpb25pbmc8L3RkPjwvdHI+PHRyPjx0ZD40Ni02MDwvdGQ+PHRkPlJlcXVpcmVtZW50PC90ZD48L3RyPjx0cj48dGQ+NjEtNzU8L3RkPjx0ZD5EcmF3YmFjazwvdGQ+PC90cj48dHI+PHRkPjc2LTkwPC90ZD48dGQ+Q29tcGxldGVseSBkaWZmZXJlbnQgZWZmZWN0PC90ZD48L3RyPjx0cj48dGQ+OTEtMTAwPC90ZD48dGQ+U3Vic3RpdHV0ZSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iTWFnaWNDdXJzZWQuYXNweCI+c3BlY2lmaWMgY3Vyc2VkIGl0ZW08L2E+PC90ZD48L3RyPjwvdGFibGU+IDxiciAvPjxiciAvPiA8Yj5EZWx1c2lvbjwvYj46IFRoZSB1c2VyIGJlbGlldmVzIHRoZSBpdGVtIGlzIHdoYXQgaXQgYXBwZWFycyB0byBiZSwgeWV0IGl0IGFjdHVhbGx5IGhhcyBubyBtYWdpY2FsIHBvd2VyIG90aGVyIHRoYW4gdG8gZGVjZWl2ZS4gVGhlIHVzZXIgaXMgbWVudGFsbHkgZm9vbGVkIGludG8gdGhpbmtpbmcgdGhlIGl0ZW0gaXMgZnVuY3Rpb25pbmcgYW5kIGNhbm5vdCBiZSBjb252aW5jZWQgb3RoZXJ3aXNlIHdpdGhvdXQgdGhlIGNhc3Rpbmcgb2YgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPXJlbW92ZSBjdXJzZSI+PGk+cmVtb3ZlIGN1cnNlPC9pPjwvYT4uPGJyIC8+PGJyIC8+IDxiPk9wcG9zaXRlIEVmZmVjdCBvciBUYXJnZXQ8L2I+OiBUaGVzZSBjdXJzZWQgaXRlbXMgbWFsZnVuY3Rpb24sIHNvIHRoYXQgZWl0aGVyIHRoZXkgZG8gdGhlIG9wcG9zaXRlIG9mIHdoYXQgdGhlIGNyZWF0b3IgaW50ZW5kZWQsIG9yIHRoZXkgdGFyZ2V0IHRoZSB1c2VyIGluc3RlYWQgb2Ygc29tZW9uZSBlbHNlLiBUaGUgaW50ZXJlc3RpbmcgcG9pbnQgdG8ga2VlcCBpbiBtaW5kIGhlcmUgaXMgdGhhdCB0aGVzZSBpdGVtcyBhcmVu4oCZdCBhbHdheXMgYmFkIHRvIGhhdmUuIE9wcG9zaXRlLWVmZmVjdCBpdGVtcyBpbmNsdWRlIHdlYXBvbnMgdGhhdCBpbXBvc2UgcGVuYWx0aWVzIG9uIGF0dGFjayBhbmQgZGFtYWdlIHJvbGxzIHJhdGhlciB0aGFuIGJvbnVzZXMuIEp1c3QgYXMgYSBjaGFyYWN0ZXIgc2hvdWxkbuKAmXQgbmVjZXNzYXJpbHkgaW1tZWRpYXRlbHkga25vdyB3aGF0IHRoZSBlbmhhbmNlbWVudCBib251cyBvZiBhIG5vbmN1cnNlZCBtYWdpYyBpdGVtIGlzLCBzaGUgc2hvdWxkbuKAmXQgaW1tZWRpYXRlbHkga25vdyB0aGF0IGEgd2VhcG9uIGlzIGN1cnNlZC4gT25jZSBzaGUga25vd3MsIGhvd2V2ZXIsIHRoZSBpdGVtIGNhbiBiZSBkaXNjYXJkZWQgdW5sZXNzIHNvbWUgc29ydCBvZiBjb21wdWxzaW9uIGlzIHBsYWNlZCB1cG9uIGl0IHRoYXQgY29tcGVscyB0aGUgd2llbGRlciB0byBrZWVwIGFuZCB1c2UgaXQuIEluIHN1Y2ggY2FzZXMsIGEgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPXJlbW92ZSBjdXJzZSI+PGk+cmVtb3ZlIGN1cnNlPC9pPjwvYT4gc3BlbGwgaXMgZ2VuZXJhbGx5IG5lZWRlZCB0byBnZXQgcmlkIG9mIHRoZSBpdGVtLjxiciAvPjxiciAvPiA8Yj5JbnRlcm1pdHRlbnQgRnVuY3Rpb25pbmc8L2I+OiBUaGUgdGhyZWUgdmFyaWV0aWVzIG9mIGludGVybWl0dGVudCBmdW5jdGlvbmluZyBpdGVtcyBhbGwgZnVuY3Rpb24gcGVyZmVjdGx5IGFzIGludGVuZGVk4oCUYXQgbGVhc3Qgc29tZSBvZiB0aGUgdGltZS4gVGhlIHRocmVlIHZhcmlldGllcyBhcmUgdW5yZWxpYWJsZSwgZGVwZW5kZW50LCBhbmQgdW5jb250cm9sbGVkIGl0ZW1zLjxiciAvPjxiciAvPiA8aT5VbnJlbGlhYmxlPC9pPjogRWFjaCB0aW1lIHRoZSBpdGVtIGlzIGFjdGl2YXRlZCwgdGhlcmUgaXMgYSA1JSBjaGFuY2UgKDAx4oCTMDUgb24gZCUpIHRoYXQgaXQgZG9lcyBub3QgZnVuY3Rpb24uPGJyIC8+PGJyIC8+IDxpPkRlcGVuZGVudDwvaT46IFRoZSBpdGVtIG9ubHkgZnVuY3Rpb25zIGluIGNlcnRhaW4gc2l0dWF0aW9ucy4gVG8gZGV0ZXJtaW5lIHRoZSBzaXR1YXRpb24sIHNlbGVjdCBvciByb2xsIG9uIHRoZSBmb2xsb3dpbmcgdGFibGUuIDx0YWJsZSBjbGFzcz0iaW5uZXIiPjx0cj48dGQ+PGI+ZCU8L2I+PC90ZD48dGQ+PGI+U2l0dWF0aW9uPC9iPjwvdGQ+PC90cj48dHI+PHRkPjAxLTAzPC90ZD48dGQ+VGVtcGVyYXR1cmUgYmVsb3cgZnJlZXppbmc8L3RkPjwvdHI+PHRyPjx0ZD4wNC0wNjwvdGQ+PHRkPlRlbXBlcmF0dXJlIGFib3ZlIGZyZWV6aW5nPC90ZD48L3RyPjx0cj48dGQ+MDctMTA8L3RkPjx0ZD5EdXJpbmcgdGhlIGRheTwvdGQ+PC90cj48dHI+PHRkPjExLTE1PC90ZD48dGQ+RHVyaW5nIHRoZSBuaWdodDwvdGQ+PC90cj48dHI+PHRkPjE2LTIwPC90ZD48dGQ+SW4gZGlyZWN0IHN1bmxpZ2h0PC90ZD48L3RyPjx0cj48dGQ+MjEtMjU8L3RkPjx0ZD5PdXQgb2YgZGlyZWN0IHN1bmxpZ2h0PC90ZD48L3RyPjx0cj48dGQ+MjYtMzQ8L3RkPjx0ZD5VbmRlcndhdGVyPC90ZD48L3RyPjx0cj48dGQ+MzUtMzc8L3RkPjx0ZD5PdXQgb2Ygd2F0ZXI8L3RkPjwvdHI+PHRyPjx0ZD4zOC00NTwvdGQ+PHRkPlVuZGVyZ3JvdW5kPC90ZD48L3RyPjx0cj48dGQ+NDYtNTU8L3RkPjx0ZD5BYm92ZWdyb3VuZDwvdGQ+PC90cj48dHI+PHRkPjU2LTYwPC90ZD48dGQ+V2l0aGluIDEwIGZlZXQgb2YgYSByYW5kb20gY3JlYXR1cmUgdHlwZTwvdGQ+PC90cj48dHI+PHRkPjYxLTY0PC90ZD48dGQ+V2l0aGluIDEwIGZlZXQgb2YgYSByYW5kb20gcmFjZSBvciBraW5kIG9mIGNyZWF0dXJlPC90ZD48L3RyPjx0cj48dGQ+NjUtNzI8L3RkPjx0ZD5XaXRoaW4gMTAgZmVldCBvZiBhbiBhcmNhbmUgc3BlbGxjYXN0ZXI8L3RkPjwvdHI+PHRyPjx0ZD43My04MDwvdGQ+PHRkPldpdGhpbiAxMCBmZWV0IG9mIGEgZGl2aW5lIHNwZWxsY2FzdGVyPC90ZD48L3RyPjx0cj48dGQ+ODEtODU8L3RkPjx0ZD5JbiB0aGUgaGFuZHMgb2YgYSBub25zcGVsbGNhc3RlcjwvdGQ+PC90cj48dHI+PHRkPjg2LTkwPC90ZD48dGQ+SW4gdGhlIGhhbmRzIG9mIGEgc3BlbGxjYXN0ZXI8L3RkPjwvdHI+PHRyPjx0ZD45MS05NTwvdGQ+PHRkPkluIHRoZSBoYW5kcyBvZiBhIGNyZWF0dXJlIG9mIGEgcGFydGljdWxhciBhbGlnbm1lbnQ8L3RkPjwvdHI+PHRyPjx0ZD45NjwvdGQ+PHRkPkluIHRoZSBoYW5kcyBvZiBhIGNyZWF0dXJlIG9mIGEgcGFydGljdWxhciBnZW5kZXI8L3RkPjwvdHI+PHRyPjx0ZD45Ny05OTwvdGQ+PHRkPk9uIGhvbHkgZGF5cyBvciBkdXJpbmcgcGFydGljdWxhciBhc3Ryb2xvZ2ljYWwgZXZlbnRzPC90ZD48L3RyPjx0cj48dGQ+MTAwPC90ZD48dGQ+TW9yZSB0aGFuIDEwMCBtaWxlcyBmcm9tIGEgcGFydGljdWxhciBzaXRlPC90ZD48L3RyPjwvdGFibGU+PGJyIC8+PGJyIC8+IDxpPlVuY29udHJvbGxlZDwvaT46IEFuIHVuY29udHJvbGxlZCBpdGVtIG9jY2FzaW9uYWxseSBhY3RpdmF0ZXMgYXQgcmFuZG9tIHRpbWVzLiBSb2xsIGQlIGV2ZXJ5IGRheS4gT24gYSByZXN1bHQgb2YgMDHigJMwNSB0aGUgaXRlbSBhY3RpdmF0ZXMgYXQgc29tZSByYW5kb20gcG9pbnQgZHVyaW5nIHRoYXQgZGF5LjxiciAvPjxiciAvPiA8Yj5SZXF1aXJlbWVudDwvYj46IFNvbWUgaXRlbXMgaGF2ZSBzdHJpbmdlbnQgcmVxdWlyZW1lbnRzIHRoYXQgbXVzdCBiZSBtZXQgZm9yIHRoZW0gdG8gYmUgdXNhYmxlLiBUbyBrZWVwIGFuIGl0ZW0gd2l0aCB0aGlzIGtpbmQgb2YgY3Vyc2UgZnVuY3Rpb25pbmcsIG9uZSBvciBtb3JlIG9mIHRoZSBmb2xsb3dpbmcgY29uZGl0aW9ucyBtdXN0IGJlIG1ldC4gPHVsPjxsaT5DaGFyYWN0ZXIgbXVzdCBlYXQgdHdpY2UgYXMgbXVjaCBhcyBub3JtYWwuIDwvbGk+PGxpPkNoYXJhY3RlciBtdXN0IHNsZWVwIHR3aWNlIGFzIG11Y2ggYXMgbm9ybWFsLiA8L2xpPjxsaT5DaGFyYWN0ZXIgbXVzdCB1bmRlcmdvIGEgc3BlY2lmaWMgcXVlc3QgKG9uZSB0aW1lIG9ubHksIGFuZCB0aGUgaXRlbSBmdW5jdGlvbnMgbm9ybWFsbHkgdGhlcmVhZnRlcikuIDwvbGk+PGxpPkNoYXJhY3RlciBtdXN0IHNhY3JpZmljZSAoZGVzdHJveSkgMTAwIGdwIGluIHZhbHVhYmxlcyBwZXIgZGF5LiA8L2xpPjxsaT5DaGFyYWN0ZXIgbXVzdCBzYWNyaWZpY2UgKGRlc3Ryb3kpIDIsMDAwIGdwIHdvcnRoIG9mIG1hZ2ljIGl0ZW1zIGVhY2ggd2Vlay4gPC9saT48bGk+Q2hhcmFjdGVyIG11c3Qgc3dlYXIgZmVhbHR5IHRvIGEgcGFydGljdWxhciBub2JsZSBvciB0byBoaXMgZW50aXJlIGZhbWlseS4gPC9saT48bGk+Q2hhcmFjdGVyIG11c3QgZGlzY2FyZCBhbGwgb3RoZXIgbWFnaWMgaXRlbXMuIDwvbGk+PGxpPkNoYXJhY3RlciBtdXN0IHdvcnNoaXAgYSBwYXJ0aWN1bGFyIGRlaXR5LiA8L2xpPjxsaT5DaGFyYWN0ZXIgbXVzdCBjaGFuZ2UgaGVyIG5hbWUgdG8gYSBzcGVjaWZpYyBuYW1lLiBUaGUgaXRlbSBvbmx5IHdvcmtzIGZvciBjaGFyYWN0ZXJzIG9mIHRoYXQgbmFtZS4gPC9saT48bGk+Q2hhcmFjdGVyIG11c3QgYWRkIGEgc3BlY2lmaWMgY2xhc3MgYXQgdGhlIG5leHQgb3Bwb3J0dW5pdHkgaWYgbm90IG9mIHRoYXQgY2xhc3MgYWxyZWFkeS4gPC9saT48bGk+Q2hhcmFjdGVyIG11c3QgaGF2ZSBhIG1pbmltdW0gbnVtYmVyIG9mIHJhbmtzIGluIGEgcGFydGljdWxhciBza2lsbC4gPC9saT48bGk+Q2hhcmFjdGVyIG11c3Qgc2FjcmlmaWNlIHNvbWUgcGFydCBvZiBoZXIgbGlmZSBlbmVyZ3kgKDIgcG9pbnRzIG9mIENvbnN0aXR1dGlvbikgb25lIHRpbWUuIElmIHRoZSBjaGFyYWN0ZXIgZ2V0cyB0aGUgQ29uc3RpdHV0aW9uIHBvaW50cyBiYWNrIChzdWNoIGFzIGZyb20gYSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9cmVzdG9yYXRpb24iPjxpPnJlc3RvcmF0aW9uPC9pPjwvYT4gc3BlbGwpLCB0aGUgaXRlbSBjZWFzZXMgZnVuY3Rpb25pbmcuIChUaGUgaXRlbSBkb2VzIG5vdCBjZWFzZSBmdW5jdGlvbmluZyBpZiB0aGUgY2hhcmFjdGVyIHJlY2VpdmVzIGEgQ29uc3RpdHV0aW9uIGluY3JlYXNlIGNhdXNlZCBieSBsZXZlbCBnYWluLCBhIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT13aXNoIj48aT53aXNoPC9pPjwvYT4sIG9yIHRoZSB1c2Ugb2YgYSBtYWdpYyBpdGVtLikgPC9saT48bGk+SXRlbSBtdXN0IGJlIGNsZWFuc2VkIHdpdGggaG9seSB3YXRlciBlYWNoIGRheS4gPC9saT48bGk+SXRlbSBtdXN0IGJlIHVzZWQgdG8ga2lsbCBhIGxpdmluZyBjcmVhdHVyZSBlYWNoIGRheS4gPC9saT48bGk+SXRlbSBtdXN0IGJlIGJhdGhlZCBpbiB2b2xjYW5pYyBsYXZhIG9uY2UgcGVyIG1vbnRoLiA8L2xpPjxsaT5JdGVtIG11c3QgYmUgdXNlZCBhdCBsZWFzdCBvbmNlIGEgZGF5LCBvciBpdCB3b27igJl0IGZ1bmN0aW9uIGFnYWluIGZvciBpdHMgY3VycmVudCBwb3NzZXNzb3IuIDwvbGk+PGxpPkl0ZW0gbXVzdCBkcmF3IGJsb29kIHdoZW4gd2llbGRlZCAod2VhcG9ucyBvbmx5KS4gSXQgY2Fu4oCZdCBiZSBwdXQgYXdheSBvciBleGNoYW5nZWQgZm9yIGFub3RoZXIgd2VhcG9uIHVudGlsIGl0IGhhcyBzY29yZWQgYSBoaXQuIDwvbGk+PGxpPkl0ZW0gbXVzdCBoYXZlIGEgcGFydGljdWxhciBzcGVsbCBjYXN0IHVwb24gaXQgZWFjaCBkYXkgKHN1Y2ggYXMgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPWJsZXNzIj48aT5ibGVzczwvaT48L2E+LCA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9YXRvbmVtZW50Ij48aT5hdG9uZW1lbnQ8L2k+PC9hPiwgb3IgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPWFuaW1hdGUgb2JqZWN0cyI+PGk+YW5pbWF0ZSBvYmplY3RzPC9pPjwvYT4pLjwvbGk+PC91bD4gUmVxdWlyZW1lbnRzIGFyZSBzbyBkZXBlbmRlbnQgdXBvbiBzdWl0YWJpbGl0eSB0byB0aGUgaXRlbSB0aGF0IHRoZXkgc2hvdWxkIG5ldmVyIGJlIGRldGVybWluZWQgcmFuZG9tbHkuIEFuIGludGVsbGlnZW50IGl0ZW0gd2l0aCBhIHJlcXVpcmVtZW50IG9mdGVuIGltcG9zZXMgaXRzIHJlcXVpcmVtZW50IHRocm91Z2ggaXRzIHBlcnNvbmFsaXR5LiBJZiB0aGUgcmVxdWlyZW1lbnQgaXMgbm90IG1ldCwgdGhlIGl0ZW0gY2Vhc2VzIHRvIGZ1bmN0aW9uLiBJZiBpdCBpcyBtZXQsIHVzdWFsbHkgdGhlIGl0ZW0gZnVuY3Rpb25zIGZvciBvbmUgZGF5IGJlZm9yZSB0aGUgcmVxdWlyZW1lbnQgbXVzdCBiZSBtZXQgYWdhaW4gKGFsdGhvdWdoIHNvbWUgcmVxdWlyZW1lbnRzIGFyZSBvbmUgdGltZSBvbmx5LCBvdGhlcnMgbW9udGhseSwgYW5kIHN0aWxsIG90aGVycyBjb250aW51b3VzKS48YnIgLz48YnIgLz4gPGI+RHJhd2JhY2s8L2I+OiBJdGVtcyB3aXRoIGRyYXdiYWNrcyBhcmUgdXN1YWxseSBzdGlsbCBiZW5lZmljaWFsIHRvIHRoZSBwb3NzZXNzb3IgYnV0IGNhcnJ5IHNvbWUgbmVnYXRpdmUgYXNwZWN0LiBBbHRob3VnaCBzb21ldGltZXMgZHJhd2JhY2tzIG9jY3VyIG9ubHkgd2hlbiB0aGUgaXRlbSBpcyB1c2VkIChvciBoZWxkLCBpbiB0aGUgY2FzZSBvZiBzb21lIHdlYXBvbnMpLCB1c3VhbGx5IHRoZSBkcmF3YmFjayByZW1haW5zIHdpdGggdGhlIGNoYXJhY3RlciBmb3IgYXMgbG9uZyBhcyBzaGUgaGFzIHRoZSBpdGVtLiBVbmxlc3Mgb3RoZXJ3aXNlIGluZGljYXRlZCwgZHJhd2JhY2tzIHJlbWFpbiBpbiBlZmZlY3QgYXMgbG9uZyBhcyB0aGUgaXRlbSBpcyBwb3NzZXNzZWQuIFRoZSBEQyB0byBzYXZlIGFnYWluc3QgYW55IG9mIHRoZXNlIGVmZmVjdHMgaXMgdXN1YWxseSBlcXVhbCB0byAxMCArIHRoZSBpdGVt4oCZcyBjYXN0ZXIgbGV2ZWwuIDxiciAvPjxiciAvPiA8dGFibGUgY2xhc3M9ImlubmVyIj4gPHRyPjx0ZD48Yj5kJTwvYj48L3RkPjx0ZD48Yj5EcmF3YmFjazwvYj48L3RkPjwvdHI+PHRyPjx0ZD4wMS0wNDwvdGQ+PHRkPkNoYXJhY3RlcuKAmXMgaGFpciBncm93cyAxIGluY2ggbG9uZ2VyIGV2ZXJ5IGhvdXIuPC90ZD48L3RyPjx0cj48dGQ+MDUtMDk8L3RkPjx0ZD5DaGFyYWN0ZXIgZWl0aGVyIHNocmlua3MgNiBpbmNoZXMgKDAx4oCTNTAgb24gZCUpIG9yIGdyb3dzIHRoYXQgbXVjaCB0YWxsZXIgKDUx4oCTMTAwKS4gT25seSBoYXBwZW5zIG9uY2UuPC90ZD48L3RyPjx0cj48dGQ+MTDigJMxMzwvdGQ+PHRkPlRlbXBlcmF0dXJlIGFyb3VuZCBpdGVtIGlzIDEwwrAgRiBjb29sZXIgdGhhbiBub3JtYWwuPC90ZD48L3RyPjx0cj48dGQ+MTTigJMxNzwvdGQ+PHRkPlRlbXBlcmF0dXJlIGFyb3VuZCBpdGVtIGlzIDEwwrAgRiB3YXJtZXIgdGhhbiBub3JtYWwuPC90ZD48L3RyPjx0cj48dGQ+MTjigJMyMTwvdGQ+PHRkPkNoYXJhY3RlcuKAmXMgaGFpciBjb2xvciBjaGFuZ2VzLjwvdGQ+PC90cj48dHI+PHRkPjIy4oCTMjU8L3RkPjx0ZD5DaGFyYWN0ZXLigJlzIHNraW4gY29sb3IgY2hhbmdlcy48L3RkPjwvdHI+PHRyPjx0ZD4yNuKAkzI5PC90ZD48dGQ+Q2hhcmFjdGVyIG5vdyBiZWFycyBzb21lIGlkZW50aWZ5aW5nIG1hcmsgKHRhdHRvbywgd2VpcmQgZ2xvdywgb3IgdGhlIGxpa2UpLjwvdGQ+PC90cj48dHI+PHRkPjMw4oCTMzI8L3RkPjx0ZD5DaGFyYWN0ZXLigJlzIGdlbmRlciBjaGFuZ2VzLjwvdGQ+PC90cj48dHI+PHRkPjMz4oCTMzQ8L3RkPjx0ZD5DaGFyYWN0ZXLigJlzIHJhY2Ugb3Iga2luZCBjaGFuZ2VzLjwvdGQ+PC90cj48dHI+PHRkPjM1PC90ZD48dGQ+Q2hhcmFjdGVyIGlzIGFmZmxpY3RlZCB3aXRoIGEgcmFuZG9tIGRpc2Vhc2UgdGhhdCBjYW5ub3QgYmUgY3VyZWQuPC90ZD48L3RyPjx0cj48dGQ+MzbigJMzOTwvdGQ+PHRkPkl0ZW0gY29udGludWFsbHkgZW1pdHMgYSBkaXN0dXJiaW5nIHNvdW5kIChtb2FuaW5nLCB3ZWVwaW5nLCBzY3JlYW1pbmcsIGN1cnNpbmcsIGluc3VsdHMpLjwvdGQ+PC90cj48dHI+PHRkPjQwPC90ZD48dGQ+SXRlbSBsb29rcyByaWRpY3Vsb3VzIChnYXJpc2hseSBjb2xvcmVkLCBzaWxseSBzaGFwZSwgZ2xvd3MgYnJpZ2h0IHBpbmspLjwvdGQ+PC90cj48dHI+PHRkPjQx4oCTNDU8L3RkPjx0ZD5DaGFyYWN0ZXIgYmVjb21lcyBzZWxmaXNobHkgcG9zc2Vzc2l2ZS48L3RkPjwvdHI+PHRyPjx0ZD40NuKAkzQ5PC90ZD48dGQ+Q2hhcmFjdGVyIGJlY29tZXMgcGFyYW5vaWQgYWJvdXQgbG9zaW5nIHRoZSBpdGVtIGFuZCBhZnJhaWQgb2YgZGFtYWdlIG9jY3VycmluZyB0byBpdC48L3RkPjwvdHI+PHRyPjx0ZD41MOKAkzUxPC90ZD48dGQ+Q2hhcmFjdGVy4oCZcyBhbGlnbm1lbnQgY2hhbmdlcy48L3RkPjwvdHI+PHRyPjx0ZD41MuKAkzU0PC90ZD48dGQ+Q2hhcmFjdGVyIG11c3QgYXR0YWNrIG5lYXJlc3QgY3JlYXR1cmUgKDUlIGNoYW5jZSBbMDHigJMwNSBvbiBkJV0gZWFjaCBkYXkpLjwvdGQ+PC90cj48dHI+PHRkPjU14oCTNTc8L3RkPjx0ZD5DaGFyYWN0ZXIgaXMgc3R1bm5lZCBmb3IgMWQ0IHJvdW5kcyBvbmNlIGl0ZW0gZnVuY3Rpb24gaXMgZmluaXNoZWQgKG9yIHJhbmRvbWx5LCAxL2RheSkuPC90ZD48L3RyPjx0cj48dGQ+NTjigJM2MDwvdGQ+PHRkPkNoYXJhY3RlcuKAmXMgdmlzaW9uIGlzIGJsdXJyeSAo4oCTMiBwZW5hbHR5IG9uIGF0dGFjayByb2xscywgc2F2ZXMsIGFuZCBza2lsbCBjaGVja3MgcmVxdWlyaW5nIHZpc2lvbikuPC90ZD48L3RyPjx0cj48dGQ+NjHigJM2NDwvdGQ+PHRkPkNoYXJhY3RlciBnYWlucyBvbmUgbmVnYXRpdmUgbGV2ZWwuPC90ZD48L3RyPjx0cj48dGQ+NjU8L3RkPjx0ZD5DaGFyYWN0ZXIgZ2FpbnMgdHdvIG5lZ2F0aXZlIGxldmVscy48L3RkPjwvdHI+PHRyPjx0ZD42NuKAkzcwPC90ZD48dGQ+Q2hhcmFjdGVyIG11c3QgbWFrZSBhIFdpbGwgc2F2ZSBlYWNoIGRheSBvciB0YWtlIDEgcG9pbnQgb2YgSW50ZWxsaWdlbmNlIGRhbWFnZS48L3RkPjwvdHI+PHRyPjx0ZD43MeKAkzc1PC90ZD48dGQ+Q2hhcmFjdGVyIG11c3QgbWFrZSBhIFdpbGwgc2F2ZSBlYWNoIGRheSBvciB0YWtlIDEgcG9pbnQgb2YgV2lzZG9tIGRhbWFnZS48L3RkPjwvdHI+PHRyPjx0ZD43NuKAkzgwPC90ZD48dGQ+Q2hhcmFjdGVyIG11c3QgbWFrZSBhIFdpbGwgc2F2ZSBlYWNoIGRheSBvciB0YWtlIDEgcG9pbnQgb2YgQ2hhcmlzbWEgZGFtYWdlLjwvdGQ+PC90cj48dHI+PHRkPjgx4oCTODU8L3RkPjx0ZD5DaGFyYWN0ZXIgbXVzdCBtYWtlIGEgRm9ydGl0dWRlIHNhdmUgZWFjaCBkYXkgb3IgdGFrZSAxIHBvaW50IG9mIENvbnN0aXR1dGlvbiBkYW1hZ2UuPC90ZD48L3RyPjx0cj48dGQ+ODbigJM5MDwvdGQ+PHRkPkNoYXJhY3RlciBtdXN0IG1ha2UgYSBGb3J0aXR1ZGUgc2F2ZSBlYWNoIGRheSBvciB0YWtlIDEgcG9pbnQgb2YgU3RyZW5ndGggZGFtYWdlLjwvdGQ+PC90cj48dHI+PHRkPjkx4oCTOTU8L3RkPjx0ZD5DaGFyYWN0ZXIgbXVzdCBtYWtlIGEgRm9ydGl0dWRlIHNhdmUgZWFjaCBkYXkgb3IgdGFrZSAxIHBvaW50IG9mIERleHRlcml0eSBkYW1hZ2UuPC90ZD48L3RyPjx0cj48dGQ+OTY8L3RkPjx0ZD5DaGFyYWN0ZXIgaXMgcG9seW1vcnBoZWQgaW50byBhIHNwZWNpZmljIGNyZWF0dXJlICg1JSBjaGFuY2UgWzAx4oCTMDUgb24gZCVdIGVhY2ggZGF5KS48L3RkPjwvdHI+PHRyPjx0ZD45NzwvdGQ+PHRkPkNoYXJhY3RlciBjYW5ub3QgY2FzdCBhcmNhbmUgc3BlbGxzLjwvdGQ+PC90cj48dHI+PHRkPjk4PC90ZD48dGQ+Q2hhcmFjdGVyIGNhbm5vdCBjYXN0IGRpdmluZSBzcGVsbHMuPC90ZD48L3RyPjx0cj48dGQ+OTk8L3RkPjx0ZD5DaGFyYWN0ZXIgY2Fubm90IGNhc3QgYW55IHNwZWxscy48L3RkPjwvdHI+PHRyPjx0ZD4xMDA8L3RkPjx0ZD5FaXRoZXIgcGljayBvbmUgb2YgdGhlIGFib3ZlIHRoYXTigJlzIGFwcHJvcHJpYXRlIG9yIGNyZWF0ZSBhIGRyYXdiYWNrIHNwZWNpZmljYWxseSBmb3IgdGhhdCBpdGVtLjwvdGQ+PC90cj48L3RhYmxlPiA8YnIgLz48YnIgLz48Yj5TcGVjaWZpYyBDdXJzZWQgSXRlbXM8L2I+OiBQZXJoYXBzIHRoZSBtb3N0IGRhbmdlcm91cyBhbmQgaW5zaWRpb3VzIG9mIGFsbCBjdXJzZWQgaXRlbXMgYXJlIHRob3NlIHdob3NlIGludGVuZGVkIGZ1bmN0aW9ucyBhcmUgY29tcGxldGVseSByZXBsYWNlZCBieSBhIGN1cnNlLiBZZXQgZXZlbiB0aGVzZSBpdGVtcyBjYW4gaGF2ZSB0aGVpciB1c2VzLCBwYXJ0aWN1bGFybHkgYXMgdHJhcHMgb3Igd2VhcG9ucy4gVGhlIGN1cnNlZCBpdGVtcyBsaXN0ZWQgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9Ik1hZ2ljQ3Vyc2VkLmFzcHgiPmhlcmU8L2E+IHByb3ZpZGVkIGFzIHNwZWNpZmljIGV4YW1wbGVzIG9mIGN1cnNlZCBpdGVtcy4gSW5zdGVhZCBvZiBwcmVyZXF1aXNpdGVzLCBlYWNoIGN1cnNlZCBpdGVtIGlzIGFzc29jaWF0ZWQgd2l0aCBvbmUgb3IgbW9yZSBvcmRpbmFyeSBtYWdpYyBpdGVtcyB3aG9zZSBjcmVhdGlvbiBtaWdodCByZXN1bHQgaW4gdGhlIGN1cnNlZCBpdGVtLiBDdXJzZWQgaXRlbXMgY2FuIGJlIHNvbGQsIGlmIHRoZSBjdXJzZSBpcyBub3Qga25vd24gdG8gdGhlIGJ1eWVyLCBhcyBpZiB0aGV5IHdlcmUgdGhlIGl0ZW0gdGhleSBhcHBlYXIgdG8gYmUuPGJyIC8+PGJyIC8+IEN1cnNlZCBzdWl0cyBvZiBhcm1vciBhbmQgd2VhcG9ucyBjYW4gY29tZSBpbiBtYW55IGZvcm1zLCBhbmQgdGhlIGV4YW1wbGVzIGxpc3RlZCBoZXJlIGFyZSBtZXJlbHkgdGhlIG1vc3QgY29tbW9uLiBGb3IgZXhhbXBsZSwgYSA8aT5jdXJzZWQg4oCTMiBzd29yZDwvaT4sIG1pZ2h0IGFwcGVhciBhcyBhIDxpPiszIHNob3J0c3dvcmQ8L2k+IG9yIGEgPGk+KzEgZGFnZ2VyPC9pPiwgd2l0aCBhIHNpbWlsYXIgbmVnYXRpdmUgaW5zdGVhZCBvZiB0aGUgbGlzdGVkIOKAkzIuZGRknxQZPC5OxZgkZdQPtV72ENjQxXherY91Iu+5adcNb+8=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=65">Items</a></u> / <u><a href="Rules.aspx?ID=365">Magic Items</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=396">Cursed Items</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 536</i></a><br />Cursed items are magic items with some sort of potentially negative impact. Occasionally they mix bad with good, forcing characters to make difficult choices. Cursed items are almost never made intentionally. Instead they are the result of rushed work, inexperienced crafters, or a lack of proper components. While many of these items still have functions, they either do not work as intended or come with serious drawbacks. When a magic item creation skill check fails by 5 or more, roll on Table 15–27 to determine the type of curse possessed by the item.<br /><br /> <b>Identifying Cursed Items</b>: Cursed items are identified like any other magic item with one exception: unless the check made to identify the item exceeds the DC by 10 or more, the curse is not detected. If the check is not made by 10 or more, but still succeeds, all that is revealed is the magic item’s original intent. If the item is known to be cursed, the nature of the curse can be determined using the standard DC to identify the item.<br /><br /> <b>Removing Cursed Items</b>: While some cursed items can be simply discarded, others force a compulsion upon the user to keep the item, no matter the costs. Others reappear even if discarded or are impossible to throw away. These items can only be discarded after the character or item is targeted by a <i>remove curse</i> or similar magic. The DC of the caster level check to undo the curse is equal to 10 + the item’s caster level. If the spell is successful, the item can be discarded on the following round, but the curse reasserts itself if the item is used again.<br /><h1 class="title"><a href="Rules.aspx?ID=397">Common Cursed Item Effects</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 536</i></a><br />The following are some of the most common cursed item effects. GMs should feel free to invent new cursed item effects to fit specific items.<br /><br /><h2>Table 15-27: Common Item Curses</h2> <table class="inner"> <tr><td><b>d%</b></td><td><b>Curse</b></td></tr><tr><td>01-15</td><td>Delusion</td></tr><tr><td>16-35</td><td>Opposite effect or target</td></tr><tr><td>36-45</td><td>Intermittent functioning</td></tr><tr><td>46-60</td><td>Requirement</td></tr><tr><td>61-75</td><td>Drawback</td></tr><tr><td>76-90</td><td>Completely different effect</td></tr><tr><td>91-100</td><td>Substitute <a style="text-decoration:underline" href="MagicCursed.aspx">specific cursed item</a></td></tr></table> <br /><br /> <b>Delusion</b>: The user believes the item is what it appears to be, yet it actually has no magical power other than to deceive. The user is mentally fooled into thinking the item is functioning and cannot be convinced otherwise without the casting of <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=remove curse"><i>remove curse</i></a>.<br /><br /> <b>Opposite Effect or Target</b>: These cursed items malfunction, so that either they do the opposite of what the creator intended, or they target the user instead of someone else. The interesting point to keep in mind here is that these items aren’t always bad to have. Opposite-effect items include weapons that impose penalties on attack and damage rolls rather than bonuses. Just as a character shouldn’t necessarily immediately know what the enhancement bonus of a noncursed magic item is, she shouldn’t immediately know that a weapon is cursed. Once she knows, however, the item can be discarded unless some sort of compulsion is placed upon it that compels the wielder to keep and use it. In such cases, a <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=remove curse"><i>remove curse</i></a> spell is generally needed to get rid of the item.<br /><br /> <b>Intermittent Functioning</b>: The three varieties of intermittent functioning items all function perfectly as intended—at least some of the time. The three varieties are unreliable, dependent, and uncontrolled items.<br /><br /> <i>Unreliable</i>: Each time the item is activated, there is a 5% chance (01–05 on d%) that it does not function.<br /><br /> <i>Dependent</i>: The item only functions in certain situations. To determine the situation, select or roll on the following table. <table class="inner"><tr><td><b>d%</b></td><td><b>Situation</b></td></tr><tr><td>01-03</td><td>Temperature below freezing</td></tr><tr><td>04-06</td><td>Temperature above freezing</td></tr><tr><td>07-10</td><td>During the day</td></tr><tr><td>11-15</td><td>During the night</td></tr><tr><td>16-20</td><td>In direct sunlight</td></tr><tr><td>21-25</td><td>Out of direct sunlight</td></tr><tr><td>26-34</td><td>Underwater</td></tr><tr><td>35-37</td><td>Out of water</td></tr><tr><td>38-45</td><td>Underground</td></tr><tr><td>46-55</td><td>Aboveground</td></tr><tr><td>56-60</td><td>Within 10 feet of a random creature type</td></tr><tr><td>61-64</td><td>Within 10 feet of a random race or kind of creature</td></tr><tr><td>65-72</td><td>Within 10 feet of an arcane spellcaster</td></tr><tr><td>73-80</td><td>Within 10 feet of a divine spellcaster</td></tr><tr><td>81-85</td><td>In the hands of a nonspellcaster</td></tr><tr><td>86-90</td><td>In the hands of a spellcaster</td></tr><tr><td>91-95</td><td>In the hands of a creature of a particular alignment</td></tr><tr><td>96</td><td>In the hands of a creature of a particular gender</td></tr><tr><td>97-99</td><td>On holy days or during particular astrological events</td></tr><tr><td>100</td><td>More than 100 miles from a particular site</td></tr></table><br /><br /> <i>Uncontrolled</i>: An uncontrolled item occasionally activates at random times. Roll d% every day. On a result of 01–05 the item activates at some random point during that day.<br /><br /> <b>Requirement</b>: Some items have stringent requirements that must be met for them to be usable. To keep an item with this kind of curse functioning, one or more of the following conditions must be met. <ul><li>Character must eat twice as much as normal. </li><li>Character must sleep twice as much as normal. </li><li>Character must undergo a specific quest (one time only, and the item functions normally thereafter). </li><li>Character must sacrifice (destroy) 100 gp in valuables per day. </li><li>Character must sacrifice (destroy) 2,000 gp worth of magic items each week. </li><li>Character must swear fealty to a particular noble or to his entire family. </li><li>Character must discard all other magic items. </li><li>Character must worship a particular deity. </li><li>Character must change her name to a specific name. The item only works for characters of that name. </li><li>Character must add a specific class at the next opportunity if not of that class already. </li><li>Character must have a minimum number of ranks in a particular skill. </li><li>Character must sacrifice some part of her life energy (2 points of Constitution) one time. If the character gets the Constitution points back (such as from a <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=restoration"><i>restoration</i></a> spell), the item ceases functioning. (The item does not cease functioning if the character receives a Constitution increase caused by level gain, a <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=wish"><i>wish</i></a>, or the use of a magic item.) </li><li>Item must be cleansed with holy water each day. </li><li>Item must be used to kill a living creature each day. </li><li>Item must be bathed in volcanic lava once per month. </li><li>Item must be used at least once a day, or it won’t function again for its current possessor. </li><li>Item must draw blood when wielded (weapons only). It can’t be put away or exchanged for another weapon until it has scored a hit. </li><li>Item must have a particular spell cast upon it each day (such as <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=bless"><i>bless</i></a>, <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=atonement"><i>atonement</i></a>, or <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=animate objects"><i>animate objects</i></a>).</li></ul> Requirements are so dependent upon suitability to the item that they should never be determined randomly. An intelligent item with a requirement often imposes its requirement through its personality. If the requirement is not met, the item ceases to function. If it is met, usually the item functions for one day before the requirement must be met again (although some requirements are one time only, others monthly, and still others continuous).<br /><br /> <b>Drawback</b>: Items with drawbacks are usually still beneficial to the possessor but carry some negative aspect. Although sometimes drawbacks occur only when the item is used (or held, in the case of some weapons), usually the drawback remains with the character for as long as she has the item. Unless otherwise indicated, drawbacks remain in effect as long as the item is possessed. The DC to save against any of these effects is usually equal to 10 + the item’s caster level. <br /><br /> <table class="inner"> <tr><td><b>d%</b></td><td><b>Drawback</b></td></tr><tr><td>01-04</td><td>Character’s hair grows 1 inch longer every hour.</td></tr><tr><td>05-09</td><td>Character either shrinks 6 inches (01–50 on d%) or grows that much taller (51–100). Only happens once.</td></tr><tr><td>10–13</td><td>Temperature around item is 10° F cooler than normal.</td></tr><tr><td>14–17</td><td>Temperature around item is 10° F warmer than normal.</td></tr><tr><td>18–21</td><td>Character’s hair color changes.</td></tr><tr><td>22–25</td><td>Character’s skin color changes.</td></tr><tr><td>26–29</td><td>Character now bears some identifying mark (tattoo, weird glow, or the like).</td></tr><tr><td>30–32</td><td>Character’s gender changes.</td></tr><tr><td>33–34</td><td>Character’s race or kind changes.</td></tr><tr><td>35</td><td>Character is afflicted with a random disease that cannot be cured.</td></tr><tr><td>36–39</td><td>Item continually emits a disturbing sound (moaning, weeping, screaming, cursing, insults).</td></tr><tr><td>40</td><td>Item looks ridiculous (garishly colored, silly shape, glows bright pink).</td></tr><tr><td>41–45</td><td>Character becomes selfishly possessive.</td></tr><tr><td>46–49</td><td>Character becomes paranoid about losing the item and afraid of damage occurring to it.</td></tr><tr><td>50–51</td><td>Character’s alignment changes.</td></tr><tr><td>52–54</td><td>Character must attack nearest creature (5% chance [01–05 on d%] each day).</td></tr><tr><td>55–57</td><td>Character is stunned for 1d4 rounds once item function is finished (or randomly, 1/day).</td></tr><tr><td>58–60</td><td>Character’s vision is blurry (–2 penalty on attack rolls, saves, and skill checks requiring vision).</td></tr><tr><td>61–64</td><td>Character gains one negative level.</td></tr><tr><td>65</td><td>Character gains two negative levels.</td></tr><tr><td>66–70</td><td>Character must make a Will save each day or take 1 point of Intelligence damage.</td></tr><tr><td>71–75</td><td>Character must make a Will save each day or take 1 point of Wisdom damage.</td></tr><tr><td>76–80</td><td>Character must make a Will save each day or take 1 point of Charisma damage.</td></tr><tr><td>81–85</td><td>Character must make a Fortitude save each day or take 1 point of Constitution damage.</td></tr><tr><td>86–90</td><td>Character must make a Fortitude save each day or take 1 point of Strength damage.</td></tr><tr><td>91–95</td><td>Character must make a Fortitude save each day or take 1 point of Dexterity damage.</td></tr><tr><td>96</td><td>Character is polymorphed into a specific creature (5% chance [01–05 on d%] each day).</td></tr><tr><td>97</td><td>Character cannot cast arcane spells.</td></tr><tr><td>98</td><td>Character cannot cast divine spells.</td></tr><tr><td>99</td><td>Character cannot cast any spells.</td></tr><tr><td>100</td><td>Either pick one of the above that’s appropriate or create a drawback specifically for that item.</td></tr></table> <br /><br /><b>Specific Cursed Items</b>: Perhaps the most dangerous and insidious of all cursed items are those whose intended functions are completely replaced by a curse. Yet even these items can have their uses, particularly as traps or weapons. The cursed items listed <a style="text-decoration:underline" href="MagicCursed.aspx">here</a> provided as specific examples of cursed items. Instead of prerequisites, each cursed item is associated with one or more ordinary magic items whose creation might result in the cursed item. Cursed items can be sold, if the curse is not known to the buyer, as if they were the item they appear to be.<br /><br /> Cursed suits of armor and weapons can come in many forms, and the examples listed here are merely the most common. For example, a <i>cursed –2 sword</i>, might appear as a <i>+3 shortsword</i> or a <i>+1 dagger</i>, with a similar negative instead of the listed –2.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

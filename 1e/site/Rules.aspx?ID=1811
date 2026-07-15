@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Survive in the Wild - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Survive in the Wild" /><meta name="description" content="You can keep yourself and others fed and safe in the wilderness. Use the following DCs for certain tasks. &lt;br />&lt;br /> &lt;table class=&quot;inner&quot;> &lt;tr>&lt;td>&lt;b>Task&lt;/b>&lt;/td>&lt;td>&lt;b>Survival DC&lt;/b>&lt;/td>&lt;/tr> &lt;tr>&lt;td>Get along in the wild&lt;/td>&lt;td>10&lt;/td>&lt;/tr> &lt;tr>&lt;td>Endure severe weather&lt;/td>&lt;td>15&lt;/td>&lt;/tr> &lt;tr>&lt;td>Avoid natural hazards, such as quicksand&lt;/td>&lt;td>15&lt;/td>&lt;/tr> &lt;tr>&lt;td>Keep from getting lost&lt;/td>&lt;td>15&lt;/td>&lt;/tr> &lt;tr>&lt;td>Predict the weather up to 24 hours in advance&lt;/td>&lt;td>15&lt;/td>&lt;/tr> &lt;/table>&lt;br />&lt;br /> When you get along in the wild, you can move up to half your overland speed while hunting and foraging without needing food and water supplies. You can provide food and water for one other character for every 2 points by which your check exceeds 10.&lt;br />&lt;br /> When you endure severe weather, you gain a +2 bonus on Fortitude saves against severe weather while moving at up to half your overland speed, or a +4 bonus if you remain stationary. You can grant this bonus to one other character for every 1 point by which your check exceeds 15.&lt;br />&lt;br /> When you predict the weather, you can predict the weather for one additional day in advance for every 5 points by which your check exceeds 15.&lt;br />&lt;br /> &lt;b>Action&lt;/b>: Varies. A single check could represent activity over the course of hours or a full day. &lt;br />&lt;br />&lt;b>Try Again&lt;/b>: You can attempt a Survival check only once every 24 hours to get along in the wild or endure severe weather. You can attempt a check to avoid getting lost or avoid natural hazards for each situation that calls for one, but you can’t retry a check to avoid getting lost in a specific situation or to avoid a specific natural hazard." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=1811" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXfEDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTcyNSI+UGF0aGZpbmRlciBVbmNoYWluZWQ8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTc0NSI+Q29uc29saWRhdGVkIFNraWxsczwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xODA4Ij5TdXJ2aXZhbCAoV2lzKTwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xODExIj5TdXJ2aXZlIGluIHRoZSBXaWxkPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5YzI1P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1QYXRoZmluZGVyLVVuY2hhaW5lZCIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QYXRoZmluZGVyIFVuY2hhaW5lZCBwZy4gNjY8L2k+PC9hPjxiciAvPllvdSBjYW4ga2VlcCB5b3Vyc2VsZiBhbmQgb3RoZXJzIGZlZCBhbmQgc2FmZSBpbiB0aGUgd2lsZGVybmVzcy4gVXNlIHRoZSBmb2xsb3dpbmcgRENzIGZvciBjZXJ0YWluIHRhc2tzLiA8YnIgLz48YnIgLz4gPHRhYmxlIGNsYXNzPSJpbm5lciI+IDx0cj48dGQ+PGI+VGFzazwvYj48L3RkPjx0ZD48Yj5TdXJ2aXZhbCBEQzwvYj48L3RkPjwvdHI+IDx0cj48dGQ+R2V0IGFsb25nIGluIHRoZSB3aWxkPC90ZD48dGQ+MTA8L3RkPjwvdHI+IDx0cj48dGQ+RW5kdXJlIHNldmVyZSB3ZWF0aGVyPC90ZD48dGQ+MTU8L3RkPjwvdHI+IDx0cj48dGQ+QXZvaWQgbmF0dXJhbCBoYXphcmRzLCBzdWNoIGFzIHF1aWNrc2FuZDwvdGQ+PHRkPjE1PC90ZD48L3RyPiA8dHI+PHRkPktlZXAgZnJvbSBnZXR0aW5nIGxvc3Q8L3RkPjx0ZD4xNTwvdGQ+PC90cj4gPHRyPjx0ZD5QcmVkaWN0IHRoZSB3ZWF0aGVyIHVwIHRvIDI0IGhvdXJzIGluIGFkdmFuY2U8L3RkPjx0ZD4xNTwvdGQ+PC90cj4gPC90YWJsZT48YnIgLz48YnIgLz4gV2hlbiB5b3UgZ2V0IGFsb25nIGluIHRoZSB3aWxkLCB5b3UgY2FuIG1vdmUgdXAgdG8gaGFsZiB5b3VyIG92ZXJsYW5kIHNwZWVkIHdoaWxlIGh1bnRpbmcgYW5kIGZvcmFnaW5nIHdpdGhvdXQgbmVlZGluZyBmb29kIGFuZCB3YXRlciBzdXBwbGllcy4gWW91IGNhbiBwcm92aWRlIGZvb2QgYW5kIHdhdGVyIGZvciBvbmUgb3RoZXIgY2hhcmFjdGVyIGZvciBldmVyeSAyIHBvaW50cyBieSB3aGljaCB5b3VyIGNoZWNrIGV4Y2VlZHMgMTAuPGJyIC8+PGJyIC8+IFdoZW4geW91IGVuZHVyZSBzZXZlcmUgd2VhdGhlciwgeW91IGdhaW4gYSArMiBib251cyBvbiBGb3J0aXR1ZGUgc2F2ZXMgYWdhaW5zdCBzZXZlcmUgd2VhdGhlciB3aGlsZSBtb3ZpbmcgYXQgdXAgdG8gaGFsZiB5b3VyIG92ZXJsYW5kIHNwZWVkLCBvciBhICs0IGJvbnVzIGlmIHlvdSByZW1haW4gc3RhdGlvbmFyeS4gWW91IGNhbiBncmFudCB0aGlzIGJvbnVzIHRvIG9uZSBvdGhlciBjaGFyYWN0ZXIgZm9yIGV2ZXJ5IDEgcG9pbnQgYnkgd2hpY2ggeW91ciBjaGVjayBleGNlZWRzIDE1LjxiciAvPjxiciAvPiBXaGVuIHlvdSBwcmVkaWN0IHRoZSB3ZWF0aGVyLCB5b3UgY2FuIHByZWRpY3QgdGhlIHdlYXRoZXIgZm9yIG9uZSBhZGRpdGlvbmFsIGRheSBpbiBhZHZhbmNlIGZvciBldmVyeSA1IHBvaW50cyBieSB3aGljaCB5b3VyIGNoZWNrIGV4Y2VlZHMgMTUuPGJyIC8+PGJyIC8+IDxiPkFjdGlvbjwvYj46IFZhcmllcy4gQSBzaW5nbGUgY2hlY2sgY291bGQgcmVwcmVzZW50IGFjdGl2aXR5IG92ZXIgdGhlIGNvdXJzZSBvZiBob3VycyBvciBhIGZ1bGwgZGF5LiA8YnIgLz48YnIgLz48Yj5UcnkgQWdhaW48L2I+OiBZb3UgY2FuIGF0dGVtcHQgYSBTdXJ2aXZhbCBjaGVjayBvbmx5IG9uY2UgZXZlcnkgMjQgaG91cnMgdG8gZ2V0IGFsb25nIGluIHRoZSB3aWxkIG9yIGVuZHVyZSBzZXZlcmUgd2VhdGhlci4gWW91IGNhbiBhdHRlbXB0IGEgY2hlY2sgdG8gYXZvaWQgZ2V0dGluZyBsb3N0IG9yIGF2b2lkIG5hdHVyYWwgaGF6YXJkcyBmb3IgZWFjaCBzaXR1YXRpb24gdGhhdCBjYWxscyBmb3Igb25lLCBidXQgeW91IGNhbuKAmXQgcmV0cnkgYSBjaGVjayB0byBhdm9pZCBnZXR0aW5nIGxvc3QgaW4gYSBzcGVjaWZpYyBzaXR1YXRpb24gb3IgdG8gYXZvaWQgYSBzcGVjaWZpYyBuYXR1cmFsIGhhemFyZC5kZGTXST5NVdyYS+UGQAe+Mkzffg8FPXwleBhH2tsG5patqA==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1725">Pathfinder Unchained</a></u> / <u><a href="Rules.aspx?ID=1745">Consolidated Skills</a></u> / <u><a href="Rules.aspx?ID=1808">Survival (Wis)</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=1811">Survive in the Wild</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 66</i></a><br />You can keep yourself and others fed and safe in the wilderness. Use the following DCs for certain tasks. <br /><br /> <table class="inner"> <tr><td><b>Task</b></td><td><b>Survival DC</b></td></tr> <tr><td>Get along in the wild</td><td>10</td></tr> <tr><td>Endure severe weather</td><td>15</td></tr> <tr><td>Avoid natural hazards, such as quicksand</td><td>15</td></tr> <tr><td>Keep from getting lost</td><td>15</td></tr> <tr><td>Predict the weather up to 24 hours in advance</td><td>15</td></tr> </table><br /><br /> When you get along in the wild, you can move up to half your overland speed while hunting and foraging without needing food and water supplies. You can provide food and water for one other character for every 2 points by which your check exceeds 10.<br /><br /> When you endure severe weather, you gain a +2 bonus on Fortitude saves against severe weather while moving at up to half your overland speed, or a +4 bonus if you remain stationary. You can grant this bonus to one other character for every 1 point by which your check exceeds 15.<br /><br /> When you predict the weather, you can predict the weather for one additional day in advance for every 5 points by which your check exceeds 15.<br /><br /> <b>Action</b>: Varies. A single check could represent activity over the course of hours or a full day. <br /><br /><b>Try Again</b>: You can attempt a Survival check only once every 24 hours to get along in the wild or endure severe weather. You can attempt a check to avoid getting lost or avoid natural hazards for each situation that calls for one, but you can’t retry a check to avoid getting lost in a specific situation or to avoid a specific natural hazard.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

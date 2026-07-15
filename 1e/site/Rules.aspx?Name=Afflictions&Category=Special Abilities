@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Afflictions - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Afflictions" /><meta name="description" content="From curses to poisons to diseases, there are a number of afflictions that can affect a creature. While each of these afflictions has a different effect, they all function using the same basic system. All afflictions grant a saving throw when they are contracted. If successful, the creature does not suffer from the affliction and does not need to make any further rolls. If the saving throw is Table must deal with its effects.&lt;br />&lt;br /> Afflictions require a creature to make a saving throw after a period of time to avoid taking certain penalties. With most afflictions, if a number of saving throws are made consecutively, the affliction is removed and no further saves are necessary. Some afflictions, usually supernatural ones, cannot be cured through saving throws alone and require the aid of powerful magic to remove.&lt;br />&lt;br /> Each affliction is presented as a short block of information to help you better adjudicate its results.&lt;br />&lt;br /> &lt;b>Name&lt;/b>: This is the name of the affliction.&lt;br />&lt;br /> &lt;b>Type&lt;/b>: This is the type of the affliction, such as curse, disease, or poison. It might also include the means by which it is contracted, such as contact, ingestion, inhalation, injury, spell, or trap.&lt;br />&lt;br /> &lt;b>Save&lt;/b>: This gives the type of save necessary to avoid contracting the affliction, as well as the DC of that save. Unless otherwise noted, this is also the save to avoid the affliction’s effects once it is contracted, as well as the DC of any caster level checks needed to end the affliction through magic, such as &lt;i>remove curse&lt;/i> or &lt;i>neutralize poison&lt;/i>.&lt;br />&lt;br /> &lt;b>Onset&lt;/b>: Some afflictions have a variable amount of time before they set in. Creatures that come in contact with an affliction with an onset time must make a saving throw immediately. Success means that the affliction is avoided and no further saving throws must be made. Failure means that the creature has contracted the affliction and must begin making additional saves after the onset period has elapsed. The affliction’s effect does not occur until after the onset period has elapsed and then only if further saving throws are failed.&lt;br />&lt;br /> &lt;b>Frequency&lt;/b>: This is how often the periodic saving throw must be attempted after the affliction has been contracted (after the onset time, if the affliction has any). While some afflictions last until they are cured, others end prematurely, even if the character is not cured through other means. If an affliction ends after a set amount of time, it will be noted in the frequency. For example, a disease with a frequency of “1/ day” lasts until cured, but a poison with a frequency of “1/ round for 6 rounds” ends after 6 rounds have passed.&lt;br />&lt;br /> Afflictions without a frequency occur only once, immediately upon contraction (or after the onset time if one is listed).&lt;br />&lt;br /> &lt;b>Effect&lt;/b>: This is the effect that the character suffers each time if he fails his saving throw against the affliction. Most afflictions cause ability damage or hit point damage. These effects are cumulative, but they can be cured normally. Other afflictions cause the creature to take penalties or other effects. These effects are sometimes cumulative, with the rest only affecting the creature if it failed its most recent save. Some afflictions have different effects after the first save is failed. These afflictions have an initial effect, which occurs when the first save is failed, and a secondary effect, when additional saves are failed, as noted in the text. Hit point and ability score damage caused by an affliction cannot be healed naturally while the affliction persists.&lt;br />&lt;br /> &lt;b>Cure&lt;/b>: This tells you how the affliction is cured. Commonly, this is a number of saving throws that must be made consecutively. Even if the affliction has a limited frequency, it might be cured prematurely if enough saving throws are made. Hit point damage and ability score damage is not removed when an affliction is cured. Such damage must be healed normally. Afflictions without a cure entry can only be cured through powerful spells, such as &lt;i>neutralize poison&lt;/i> and &lt;i>remove curse&lt;/i>. No matter how many saving throws are made, these afflictions continue to affect the target.&lt;br />&lt;br /> &lt;b>Example&lt;/b>: Valeros has been exposed to the red ache disease. He failed a DC 15 Fortitude save to avoid contracting it, so after the onset period of 1d3 days has passed, he must make another DC 15 Fortitude save to avoid taking 1d6 points of Strength damage. From this point onward, he must make a DC 15 Fortitude save each day (according to the disease’s frequency) to avoid further Strength damage. If, on two consecutive days, he makes his Fortitude saves, he is cured of the disease and any damage it caused begins to heal as normal." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=417" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWpUDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDQiPkNvbWJhdDwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD00MTQiPlNwZWNpYWwgQWJpbGl0aWVzPC9hPjwvdT48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTQxNyI+QWZmbGljdGlvbnM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4OHlqIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBSUEcgQ29yZSBSdWxlYm9vayBwZy4gNTU1PC9pPjwvYT48YnIgLz5Gcm9tIGN1cnNlcyB0byBwb2lzb25zIHRvIGRpc2Vhc2VzLCB0aGVyZSBhcmUgYSBudW1iZXIgb2YgYWZmbGljdGlvbnMgdGhhdCBjYW4gYWZmZWN0IGEgY3JlYXR1cmUuIFdoaWxlIGVhY2ggb2YgdGhlc2UgYWZmbGljdGlvbnMgaGFzIGEgZGlmZmVyZW50IGVmZmVjdCwgdGhleSBhbGwgZnVuY3Rpb24gdXNpbmcgdGhlIHNhbWUgYmFzaWMgc3lzdGVtLiBBbGwgYWZmbGljdGlvbnMgZ3JhbnQgYSBzYXZpbmcgdGhyb3cgd2hlbiB0aGV5IGFyZSBjb250cmFjdGVkLiBJZiBzdWNjZXNzZnVsLCB0aGUgY3JlYXR1cmUgZG9lcyBub3Qgc3VmZmVyIGZyb20gdGhlIGFmZmxpY3Rpb24gYW5kIGRvZXMgbm90IG5lZWQgdG8gbWFrZSBhbnkgZnVydGhlciByb2xscy4gSWYgdGhlIHNhdmluZyB0aHJvdyBpcyBUYWJsZSBtdXN0IGRlYWwgd2l0aCBpdHMgZWZmZWN0cy48YnIgLz48YnIgLz4gQWZmbGljdGlvbnMgcmVxdWlyZSBhIGNyZWF0dXJlIHRvIG1ha2UgYSBzYXZpbmcgdGhyb3cgYWZ0ZXIgYSBwZXJpb2Qgb2YgdGltZSB0byBhdm9pZCB0YWtpbmcgY2VydGFpbiBwZW5hbHRpZXMuIFdpdGggbW9zdCBhZmZsaWN0aW9ucywgaWYgYSBudW1iZXIgb2Ygc2F2aW5nIHRocm93cyBhcmUgbWFkZSBjb25zZWN1dGl2ZWx5LCB0aGUgYWZmbGljdGlvbiBpcyByZW1vdmVkIGFuZCBubyBmdXJ0aGVyIHNhdmVzIGFyZSBuZWNlc3NhcnkuIFNvbWUgYWZmbGljdGlvbnMsIHVzdWFsbHkgc3VwZXJuYXR1cmFsIG9uZXMsIGNhbm5vdCBiZSBjdXJlZCB0aHJvdWdoIHNhdmluZyB0aHJvd3MgYWxvbmUgYW5kIHJlcXVpcmUgdGhlIGFpZCBvZiBwb3dlcmZ1bCBtYWdpYyB0byByZW1vdmUuPGJyIC8+PGJyIC8+IEVhY2ggYWZmbGljdGlvbiBpcyBwcmVzZW50ZWQgYXMgYSBzaG9ydCBibG9jayBvZiBpbmZvcm1hdGlvbiB0byBoZWxwIHlvdSBiZXR0ZXIgYWRqdWRpY2F0ZSBpdHMgcmVzdWx0cy48YnIgLz48YnIgLz4gPGI+TmFtZTwvYj46IFRoaXMgaXMgdGhlIG5hbWUgb2YgdGhlIGFmZmxpY3Rpb24uPGJyIC8+PGJyIC8+IDxiPlR5cGU8L2I+OiBUaGlzIGlzIHRoZSB0eXBlIG9mIHRoZSBhZmZsaWN0aW9uLCBzdWNoIGFzIGN1cnNlLCBkaXNlYXNlLCBvciBwb2lzb24uIEl0IG1pZ2h0IGFsc28gaW5jbHVkZSB0aGUgbWVhbnMgYnkgd2hpY2ggaXQgaXMgY29udHJhY3RlZCwgc3VjaCBhcyBjb250YWN0LCBpbmdlc3Rpb24sIGluaGFsYXRpb24sIGluanVyeSwgc3BlbGwsIG9yIHRyYXAuPGJyIC8+PGJyIC8+IDxiPlNhdmU8L2I+OiBUaGlzIGdpdmVzIHRoZSB0eXBlIG9mIHNhdmUgbmVjZXNzYXJ5IHRvIGF2b2lkIGNvbnRyYWN0aW5nIHRoZSBhZmZsaWN0aW9uLCBhcyB3ZWxsIGFzIHRoZSBEQyBvZiB0aGF0IHNhdmUuIFVubGVzcyBvdGhlcndpc2Ugbm90ZWQsIHRoaXMgaXMgYWxzbyB0aGUgc2F2ZSB0byBhdm9pZCB0aGUgYWZmbGljdGlvbuKAmXMgZWZmZWN0cyBvbmNlIGl0IGlzIGNvbnRyYWN0ZWQsIGFzIHdlbGwgYXMgdGhlIERDIG9mIGFueSBjYXN0ZXIgbGV2ZWwgY2hlY2tzIG5lZWRlZCB0byBlbmQgdGhlIGFmZmxpY3Rpb24gdGhyb3VnaCBtYWdpYywgc3VjaCBhcyA8aT5yZW1vdmUgY3Vyc2U8L2k+IG9yIDxpPm5ldXRyYWxpemUgcG9pc29uPC9pPi48YnIgLz48YnIgLz4gPGI+T25zZXQ8L2I+OiBTb21lIGFmZmxpY3Rpb25zIGhhdmUgYSB2YXJpYWJsZSBhbW91bnQgb2YgdGltZSBiZWZvcmUgdGhleSBzZXQgaW4uIENyZWF0dXJlcyB0aGF0IGNvbWUgaW4gY29udGFjdCB3aXRoIGFuIGFmZmxpY3Rpb24gd2l0aCBhbiBvbnNldCB0aW1lIG11c3QgbWFrZSBhIHNhdmluZyB0aHJvdyBpbW1lZGlhdGVseS4gU3VjY2VzcyBtZWFucyB0aGF0IHRoZSBhZmZsaWN0aW9uIGlzIGF2b2lkZWQgYW5kIG5vIGZ1cnRoZXIgc2F2aW5nIHRocm93cyBtdXN0IGJlIG1hZGUuIEZhaWx1cmUgbWVhbnMgdGhhdCB0aGUgY3JlYXR1cmUgaGFzIGNvbnRyYWN0ZWQgdGhlIGFmZmxpY3Rpb24gYW5kIG11c3QgYmVnaW4gbWFraW5nIGFkZGl0aW9uYWwgc2F2ZXMgYWZ0ZXIgdGhlIG9uc2V0IHBlcmlvZCBoYXMgZWxhcHNlZC4gVGhlIGFmZmxpY3Rpb27igJlzIGVmZmVjdCBkb2VzIG5vdCBvY2N1ciB1bnRpbCBhZnRlciB0aGUgb25zZXQgcGVyaW9kIGhhcyBlbGFwc2VkIGFuZCB0aGVuIG9ubHkgaWYgZnVydGhlciBzYXZpbmcgdGhyb3dzIGFyZSBmYWlsZWQuPGJyIC8+PGJyIC8+IDxiPkZyZXF1ZW5jeTwvYj46IFRoaXMgaXMgaG93IG9mdGVuIHRoZSBwZXJpb2RpYyBzYXZpbmcgdGhyb3cgbXVzdCBiZSBhdHRlbXB0ZWQgYWZ0ZXIgdGhlIGFmZmxpY3Rpb24gaGFzIGJlZW4gY29udHJhY3RlZCAoYWZ0ZXIgdGhlIG9uc2V0IHRpbWUsIGlmIHRoZSBhZmZsaWN0aW9uIGhhcyBhbnkpLiBXaGlsZSBzb21lIGFmZmxpY3Rpb25zIGxhc3QgdW50aWwgdGhleSBhcmUgY3VyZWQsIG90aGVycyBlbmQgcHJlbWF0dXJlbHksIGV2ZW4gaWYgdGhlIGNoYXJhY3RlciBpcyBub3QgY3VyZWQgdGhyb3VnaCBvdGhlciBtZWFucy4gSWYgYW4gYWZmbGljdGlvbiBlbmRzIGFmdGVyIGEgc2V0IGFtb3VudCBvZiB0aW1lLCBpdCB3aWxsIGJlIG5vdGVkIGluIHRoZSBmcmVxdWVuY3kuIEZvciBleGFtcGxlLCBhIGRpc2Vhc2Ugd2l0aCBhIGZyZXF1ZW5jeSBvZiDigJwxLyBkYXnigJ0gbGFzdHMgdW50aWwgY3VyZWQsIGJ1dCBhIHBvaXNvbiB3aXRoIGEgZnJlcXVlbmN5IG9mIOKAnDEvIHJvdW5kIGZvciA2IHJvdW5kc+KAnSBlbmRzIGFmdGVyIDYgcm91bmRzIGhhdmUgcGFzc2VkLjxiciAvPjxiciAvPiBBZmZsaWN0aW9ucyB3aXRob3V0IGEgZnJlcXVlbmN5IG9jY3VyIG9ubHkgb25jZSwgaW1tZWRpYXRlbHkgdXBvbiBjb250cmFjdGlvbiAob3IgYWZ0ZXIgdGhlIG9uc2V0IHRpbWUgaWYgb25lIGlzIGxpc3RlZCkuPGJyIC8+PGJyIC8+IDxiPkVmZmVjdDwvYj46IFRoaXMgaXMgdGhlIGVmZmVjdCB0aGF0IHRoZSBjaGFyYWN0ZXIgc3VmZmVycyBlYWNoIHRpbWUgaWYgaGUgZmFpbHMgaGlzIHNhdmluZyB0aHJvdyBhZ2FpbnN0IHRoZSBhZmZsaWN0aW9uLiBNb3N0IGFmZmxpY3Rpb25zIGNhdXNlIGFiaWxpdHkgZGFtYWdlIG9yIGhpdCBwb2ludCBkYW1hZ2UuIFRoZXNlIGVmZmVjdHMgYXJlIGN1bXVsYXRpdmUsIGJ1dCB0aGV5IGNhbiBiZSBjdXJlZCBub3JtYWxseS4gT3RoZXIgYWZmbGljdGlvbnMgY2F1c2UgdGhlIGNyZWF0dXJlIHRvIHRha2UgcGVuYWx0aWVzIG9yIG90aGVyIGVmZmVjdHMuIFRoZXNlIGVmZmVjdHMgYXJlIHNvbWV0aW1lcyBjdW11bGF0aXZlLCB3aXRoIHRoZSByZXN0IG9ubHkgYWZmZWN0aW5nIHRoZSBjcmVhdHVyZSBpZiBpdCBmYWlsZWQgaXRzIG1vc3QgcmVjZW50IHNhdmUuIFNvbWUgYWZmbGljdGlvbnMgaGF2ZSBkaWZmZXJlbnQgZWZmZWN0cyBhZnRlciB0aGUgZmlyc3Qgc2F2ZSBpcyBmYWlsZWQuIFRoZXNlIGFmZmxpY3Rpb25zIGhhdmUgYW4gaW5pdGlhbCBlZmZlY3QsIHdoaWNoIG9jY3VycyB3aGVuIHRoZSBmaXJzdCBzYXZlIGlzIGZhaWxlZCwgYW5kIGEgc2Vjb25kYXJ5IGVmZmVjdCwgd2hlbiBhZGRpdGlvbmFsIHNhdmVzIGFyZSBmYWlsZWQsIGFzIG5vdGVkIGluIHRoZSB0ZXh0LiBIaXQgcG9pbnQgYW5kIGFiaWxpdHkgc2NvcmUgZGFtYWdlIGNhdXNlZCBieSBhbiBhZmZsaWN0aW9uIGNhbm5vdCBiZSBoZWFsZWQgbmF0dXJhbGx5IHdoaWxlIHRoZSBhZmZsaWN0aW9uIHBlcnNpc3RzLjxiciAvPjxiciAvPiA8Yj5DdXJlPC9iPjogVGhpcyB0ZWxscyB5b3UgaG93IHRoZSBhZmZsaWN0aW9uIGlzIGN1cmVkLiBDb21tb25seSwgdGhpcyBpcyBhIG51bWJlciBvZiBzYXZpbmcgdGhyb3dzIHRoYXQgbXVzdCBiZSBtYWRlIGNvbnNlY3V0aXZlbHkuIEV2ZW4gaWYgdGhlIGFmZmxpY3Rpb24gaGFzIGEgbGltaXRlZCBmcmVxdWVuY3ksIGl0IG1pZ2h0IGJlIGN1cmVkIHByZW1hdHVyZWx5IGlmIGVub3VnaCBzYXZpbmcgdGhyb3dzIGFyZSBtYWRlLiBIaXQgcG9pbnQgZGFtYWdlIGFuZCBhYmlsaXR5IHNjb3JlIGRhbWFnZSBpcyBub3QgcmVtb3ZlZCB3aGVuIGFuIGFmZmxpY3Rpb24gaXMgY3VyZWQuIFN1Y2ggZGFtYWdlIG11c3QgYmUgaGVhbGVkIG5vcm1hbGx5LiBBZmZsaWN0aW9ucyB3aXRob3V0IGEgY3VyZSBlbnRyeSBjYW4gb25seSBiZSBjdXJlZCB0aHJvdWdoIHBvd2VyZnVsIHNwZWxscywgc3VjaCBhcyA8aT5uZXV0cmFsaXplIHBvaXNvbjwvaT4gYW5kIDxpPnJlbW92ZSBjdXJzZTwvaT4uIE5vIG1hdHRlciBob3cgbWFueSBzYXZpbmcgdGhyb3dzIGFyZSBtYWRlLCB0aGVzZSBhZmZsaWN0aW9ucyBjb250aW51ZSB0byBhZmZlY3QgdGhlIHRhcmdldC48YnIgLz48YnIgLz4gPGI+RXhhbXBsZTwvYj46IFZhbGVyb3MgaGFzIGJlZW4gZXhwb3NlZCB0byB0aGUgcmVkIGFjaGUgZGlzZWFzZS4gSGUgZmFpbGVkIGEgREMgMTUgRm9ydGl0dWRlIHNhdmUgdG8gYXZvaWQgY29udHJhY3RpbmcgaXQsIHNvIGFmdGVyIHRoZSBvbnNldCBwZXJpb2Qgb2YgMWQzIGRheXMgaGFzIHBhc3NlZCwgaGUgbXVzdCBtYWtlIGFub3RoZXIgREMgMTUgRm9ydGl0dWRlIHNhdmUgdG8gYXZvaWQgdGFraW5nIDFkNiBwb2ludHMgb2YgU3RyZW5ndGggZGFtYWdlLiBGcm9tIHRoaXMgcG9pbnQgb253YXJkLCBoZSBtdXN0IG1ha2UgYSBEQyAxNSBGb3J0aXR1ZGUgc2F2ZSBlYWNoIGRheSAoYWNjb3JkaW5nIHRvIHRoZSBkaXNlYXNl4oCZcyBmcmVxdWVuY3kpIHRvIGF2b2lkIGZ1cnRoZXIgU3RyZW5ndGggZGFtYWdlLiBJZiwgb24gdHdvIGNvbnNlY3V0aXZlIGRheXMsIGhlIG1ha2VzIGhpcyBGb3J0aXR1ZGUgc2F2ZXMsIGhlIGlzIGN1cmVkIG9mIHRoZSBkaXNlYXNlIGFuZCBhbnkgZGFtYWdlIGl0IGNhdXNlZCBiZWdpbnMgdG8gaGVhbCBhcyBub3JtYWwuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD00MTgiPkN1cnNlczwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweTg4eWoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UFJQRyBDb3JlIFJ1bGVib29rIHBnLiA1NTY8L2k+PC9hPjxiciAvPkNhcmVsZXNzIHJvZ3VlcyBwbHVuZGVyaW5nIGEgdG9tYiwgZHJ1bmtlbiBoZXJvZXMgaW5zdWx0aW5nIGEgcG93ZXJmdWwgd2l6YXJkLCBhbmQgZm9vbGhhcmR5IGFkdmVudHVyZXJzIHdobyBwaWNrIHVwIGFuY2llbnQgc3dvcmRzIGFsbCBtaWdodCBzdWZmZXIgZnJvbSBjdXJzZXMuIFRoZXNlIG1hZ2ljIGFmZmxpY3Rpb25zIGNhbiBoYXZlIGEgd2lkZSB2YXJpZXR5IG9mIGVmZmVjdHMsIGZyb20gYSBzaW1wbGUgcGVuYWx0eSB0byBjZXJ0YWluIGNoZWNrcyB0byB0cmFuc2Zvcm1pbmcgdGhlIHZpY3RpbSBpbnRvIGEgdG9hZC4gU29tZSBldmVuIGNhdXNlIHRoZSBhZmZsaWN0ZWQgdG8gc2xvd2x5IHJvdCBhd2F5LCBsZWF2aW5nIG5vdGhpbmcgYmVoaW5kIGJ1dCBkdXN0LiBVbmxpa2Ugb3RoZXIgYWZmbGljdGlvbnMsIG1vc3QgY3Vyc2VzIGNhbm5vdCBiZSBjdXJlZCB0aHJvdWdoIGEgbnVtYmVyIG9mIHN1Y2Nlc3NmdWwgc2F2aW5nIHRocm93cy4gQ3Vyc2VzIGNhbiBiZSBjdXJlZCB0aHJvdWdoIG1hZ2ljLCBob3dldmVyLCB1c3VhbGx5IHZpYSBzcGVsbHMgc3VjaCBhcyA8aT5yZW1vdmUgY3Vyc2U8L2k+IGFuZCA8aT5icmVhayBlbmNoYW50bWVudDwvaT4uIFdoaWxlIHNvbWUgY3Vyc2VzIGNhdXNlIGEgcHJvZ3Jlc3NpdmUgZGV0ZXJpb3JhdGlvbiwgb3RoZXJzIGluZmxpY3QgYSBzdGF0aWMgcGVuYWx0eSBmcm9tIHRoZSBtb21lbnQgdGhleSBhcmUgY29udHJhY3RlZCwgbmVpdGhlciBmYWRpbmcgb3ZlciB0aW1lIG5vciBncm93aW5nIHdvcnNlLiBJbiBhZGRpdGlvbiwgdGhlcmUgYXJlIGEgbnVtYmVyIG9mIG1hZ2ljIGl0ZW1zIHRoYXQgYWN0IGxpa2UgY3Vyc2VzLiBTZWUgQ2hhcHRlciAxNSBmb3IgYSBkZXNjcmlwdGlvbiBvZiB0aGVzZSBjdXJzZWQgaXRlbXMuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD00MTkiPkRpc2Vhc2VzPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5ODh5aiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QUlBHIENvcmUgUnVsZWJvb2sgcGcuIDU1NzwvaT48L2E+PGJyIC8+RnJvbSBhIHdpZGVzcHJlYWQgcGxhZ3VlIHRvIHRoZSBiaXRlIG9mIGEgZGlyZSByYXQsIGRpc2Vhc2UgaXMgYSBzZXJpb3VzIHRocmVhdCB0byBjb21tb24gZm9sayBhbmQgYWR2ZW50dXJlcnMgYWxpa2UuIERpc2Vhc2VzIHJhcmVseSBoYXZlIGEgbGltaXRlZCBmcmVxdWVuY3ksIGJ1dCBtb3N0IGhhdmUgYSBsZW5ndGh5IG9uc2V0IHRpbWUuIFRoaXMgb25zZXQgdGltZSBjYW4gYWxzbyBiZSB2YXJpYWJsZS4gTW9zdCBkaXNlYXNlcyBjYW4gYmUgY3VyZWQgYnkgYSBudW1iZXIgb2YgY29uc2VjdXRpdmUgc2F2aW5nIHRocm93cyBvciBieSBzcGVsbHMgc3VjaCBhcyByZW1vdmUgZGlzZWFzZS48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTQyMCI+UG9pc29uPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5ODh5aiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QUlBHIENvcmUgUnVsZWJvb2sgcGcuIDU1NzwvaT48L2E+PGJyIC8+Tm8gb3RoZXIgYWZmbGljdGlvbiBpcyBzbyBwcmV2YWxlbnQgYXMgcG9pc29uLiBGcm9tIHRoZSBmYW5ncyBvZiBhIHZpcGVyIHRvIHRoZSBpY2hvci1zdGFpbmVkIGFzc2Fzc2luJ3MgYmxhZGUsIHBvaXNvbiBpcyBhIGNvbnN0YW50IHRocmVhdC4gUG9pc29ucyBjYW4gYmUgY3VyZWQgYnkgc3VjY2Vzc2Z1bCBzYXZpbmcgdGhyb3dzIGFuZCBzcGVsbHMgc3VjaCBhcyA8aT5uZXV0cmFsaXplIHBvaXNvbjwvaT4uPGJyIC8+PGJyIC8+IENvbnRhY3QgcG9pc29ucyBhcmUgY29udHJhY3RlZCB0aGUgbW9tZW50IHNvbWVvbmUgdG91Y2hlcyB0aGUgcG9pc29uIHdpdGggaGlzIGJhcmUgc2tpbi4gU3VjaCBwb2lzb25zIGNhbiBiZSB1c2VkIGFzIGluanVyeSBwb2lzb25zLiBDb250YWN0IHBvaXNvbnMgdXN1YWxseSBoYXZlIGFuIG9uc2V0IHRpbWUgb2YgMSBtaW51dGUgYW5kIGEgZnJlcXVlbmN5IG9mIDEgbWludXRlLiBJbmdlc3RlZCBwb2lzb25zIGFyZSBjb250cmFjdGVkIHdoZW4gYSBjcmVhdHVyZSBlYXRzIG9yIGRyaW5rcyB0aGUgcG9pc29uLiBJbmdlc3RlZCBwb2lzb25zIHVzdWFsbHkgaGF2ZSBhbiBvbnNldCB0aW1lIG9mIDEwIG1pbnV0ZXMgYW5kIGEgZnJlcXVlbmN5IG9mIDEgbWludXRlLiBJbmp1cnkgcG9pc29ucyBhcmUgcHJpbWFyaWx5IGNvbnRyYWN0ZWQgdGhyb3VnaCB0aGUgYXR0YWNrcyBvZiBjZXJ0YWluIGNyZWF0dXJlcyBhbmQgdGhyb3VnaCB3ZWFwb25zIGNvYXRlZCBpbiB0aGUgdG94aW4uIEluanVyeSBwb2lzb25zIGRvIG5vdCB1c3VhbGx5IGhhdmUgYW4gb25zZXQgdGltZSBhbmQgaGF2ZSBhIGZyZXF1ZW5jeSBvZiAxIHJvdW5kLiBJbmhhbGVkIHBvaXNvbnMgYXJlIGNvbnRyYWN0ZWQgdGhlIG1vbWVudCBhIGNyZWF0dXJlIGVudGVycyBhbiBhcmVhIGNvbnRhaW5pbmcgc3VjaCBwb2lzb25zLiBNb3N0IGluaGFsZWQgcG9pc29ucyBmaWxsIGEgdm9sdW1lIGVxdWFsIHRvIGEgMTAtZm9vdCBjdWJlIHBlciBkb3NlLiBDcmVhdHVyZXMgY2FuIGF0dGVtcHQgdG8gaG9sZCB0aGVpciBicmVhdGhzIHdoaWxlIGluc2lkZSB0byBhdm9pZCBpbmhhbGluZyB0aGUgdG94aW4uIENyZWF0dXJlcyBob2xkaW5nIHRoZWlyIGJyZWF0aHMgcmVjZWl2ZSBhIDUwJSBjaGFuY2Ugb2Ygbm90IGhhdmluZyB0byBtYWtlIGEgRm9ydGl0dWRlIHNhdmUgZWFjaCByb3VuZC4gU2VlIHRoZSBydWxlcyBmb3IgaG9sZGluZyB5b3VyIGJyZWF0aCBhbmQgc3VmZm9jYXRpb24gaW4gQ2hhcHRlciAxMy4gTm90ZSB0aGF0IGEgY2hhcmFjdGVyIHRoYXQgd291bGQgbm9ybWFsbHkgc3VmZm9jYXRlIHdoaWxlIGF0dGVtcHRpbmcgdG8gaG9sZCBpdHMgYnJlYXRoIGluc3RlYWQgYmVnaW5zIHRvIGJyZWF0aGUgbm9ybWFsbHkgYWdhaW4uPGJyIC8+PGJyIC8+IFVubGlrZSBvdGhlciBhZmZsaWN0aW9ucywgbXVsdGlwbGUgZG9zZXMgb2YgdGhlIHNhbWUgcG9pc29uIHN0YWNrLiBQb2lzb25zIGRlbGl2ZXJlZCBieSBpbmp1cnkgYW5kIGNvbnRhY3QgY2Fubm90IGluZmxpY3QgbW9yZSB0aGFuIG9uZSBkb3NlIG9mIHBvaXNvbiBhdCBhIHRpbWUsIGJ1dCBpbmhhbGVkIGFuZCBpbmdlc3RlZCBwb2lzb25zIGNhbiBpbmZsaWN0IG11bHRpcGxlIGRvc2VzIGF0IG9uY2UuIEVhY2ggYWRkaXRpb25hbCBkb3NlIGV4dGVuZHMgdGhlIHRvdGFsIGR1cmF0aW9uIG9mIHRoZSBwb2lzb24gKGFzIG5vdGVkIHVuZGVyIGZyZXF1ZW5jeSkgYnkgaGFsZiBpdHMgdG90YWwgZHVyYXRpb24uIEluIGFkZGl0aW9uLCBlYWNoIGRvc2Ugb2YgcG9pc29uIGluY3JlYXNlcyB0aGUgREMgdG8gcmVzaXN0IHRoZSBwb2lzb24gYnkgKzIuIFRoaXMgaW5jcmVhc2UgaXMgY3VtdWxhdGl2ZS4gTXVsdGlwbGUgZG9zZXMgZG8gbm90IGFsdGVyIHRoZSBjdXJlIGNvbmRpdGlvbnMgb2YgdGhlIHBvaXNvbiwgYW5kIG1lZXRpbmcgdGhlc2UgY29uZGl0aW9ucyBlbmRzIHRoZSBhZmZsaWN0aW9uIGZvciBhbGwgdGhlIGRvc2VzLiBGb3IgZXhhbXBsZSwgYSBjaGFyYWN0ZXIgaXMgYml0IHRocmVlIHRpbWVzIGluIHRoZSBzYW1lIHJvdW5kIGJ5IGEgdHJpbyBvZiBNZWRpdW0gbW9uc3Ryb3VzIHNwaWRlcnMsIGluamVjdGluZyBoaW0gd2l0aCB0aHJlZSBkb3NlcyBvZiBNZWRpdW0gc3BpZGVyIHZlbm9tLiBUaGUgdW5mb3J0dW5hdGUgY2hhcmFjdGVyIG11c3QgbWFrZSBhIERDIDE4IEZvcnRpdHVkZSBzYXZlIGZvciB0aGUgbmV4dCA4IHJvdW5kcy4gRm9ydHVuYXRlbHksIGp1c3Qgb25lIHN1Y2Nlc3NmdWwgc2F2ZSBjdXJlcyB0aGUgY2hhcmFjdGVyIG9mIGFsbCB0aHJlZSBkb3NlcyBvZiB0aGUgcG9pc29uLjxiciAvPjxiciAvPiBBcHBseWluZyBwb2lzb24gdG8gYSB3ZWFwb24gb3Igc2luZ2xlIHBpZWNlIG9mIGFtbXVuaXRpb24gaXMgYSBzdGFuZGFyZCBhY3Rpb24uIFdoZW5ldmVyIGEgY2hhcmFjdGVyIGFwcGxpZXMgb3IgcmVhZGllcyBhIHBvaXNvbiBmb3IgdXNlIHRoZXJlIGlzIGEgNSUgY2hhbmNlIHRoYXQgaGUgZXhwb3NlcyBoaW1zZWxmIHRvIHRoZSBwb2lzb24gYW5kIG11c3Qgc2F2ZSBhZ2FpbnN0IHRoZSBwb2lzb24gYXMgbm9ybWFsLiBUaGlzIGRvZXMgbm90IGNvbnN1bWUgdGhlIGRvc2Ugb2YgcG9pc29uLiBXaGVuZXZlciBhIGNoYXJhY3RlciBhdHRhY2tzIHdpdGggYSBwb2lzb25lZCB3ZWFwb24sIGlmIHRoZSBhdHRhY2sgcm9sbCByZXN1bHRzIGluIGEgbmF0dXJhbCAxLCBoZSBleHBvc2VzIGhpbXNlbGYgdG8gdGhlIHBvaXNvbi4gVGhlIHBvaXNvbiBpcyBjb25zdW1lZCB3aGVuIHRoZSB3ZWFwb24gc3RyaWtlcyBhIGNyZWF0dXJlIG9yIGlzIHRvdWNoZWQgYnkgdGhlIHdpZWxkZXIuIENoYXJhY3RlcnMgd2l0aCB0aGUgcG9pc29uIHVzZSBjbGFzcyBmZWF0dXJlIGRvIG5vdCByaXNrIGFjY2lkZW50YWxseSBwb2lzb25pbmcgdGhlbXNlbHZlcy48YnIgLz48YnIgLz4gUG9pc29ucyBjYW4gYmUgbWFkZSB1c2luZyBDcmFmdCAoYWxjaGVteSkuIFRoZSBEQyB0byBtYWtlIGEgcG9pc29uIGlzIGVxdWFsIHRvIGl0cyBGb3J0aXR1ZGUgc2F2ZSBEQy4gUm9sbGluZyBhIG5hdHVyYWwgMSBvbiBhIENyYWZ0IHNraWxsIGNoZWNrIHdoaWxlIG1ha2luZyBhIHBvaXNvbiBleHBvc2VzIHRoZSBjcmFmdGVyIHRvIHRoZSBwb2lzb24uIENyYWZ0ZXJzIHdpdGggdGhlIHBvaXNvbiB1c2UgY2xhc3MgZmVhdHVyZSBkbyBub3QgcmlzayBwb2lzb25pbmcgdGhlbXNlbHZlcyB3aGVuIHVzaW5nIENyYWZ0IHRvIG1ha2UgcG9pc29uLmRkZOzvAQ62T1Os1N2QaNlxunXYuXYEjISpv4YD3AvKU57n" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=44">Combat</a></u> / <u><a href="Rules.aspx?ID=414">Special Abilities</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=417">Afflictions</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 555</i></a><br />From curses to poisons to diseases, there are a number of afflictions that can affect a creature. While each of these afflictions has a different effect, they all function using the same basic system. All afflictions grant a saving throw when they are contracted. If successful, the creature does not suffer from the affliction and does not need to make any further rolls. If the saving throw is Table must deal with its effects.<br /><br /> Afflictions require a creature to make a saving throw after a period of time to avoid taking certain penalties. With most afflictions, if a number of saving throws are made consecutively, the affliction is removed and no further saves are necessary. Some afflictions, usually supernatural ones, cannot be cured through saving throws alone and require the aid of powerful magic to remove.<br /><br /> Each affliction is presented as a short block of information to help you better adjudicate its results.<br /><br /> <b>Name</b>: This is the name of the affliction.<br /><br /> <b>Type</b>: This is the type of the affliction, such as curse, disease, or poison. It might also include the means by which it is contracted, such as contact, ingestion, inhalation, injury, spell, or trap.<br /><br /> <b>Save</b>: This gives the type of save necessary to avoid contracting the affliction, as well as the DC of that save. Unless otherwise noted, this is also the save to avoid the affliction’s effects once it is contracted, as well as the DC of any caster level checks needed to end the affliction through magic, such as <i>remove curse</i> or <i>neutralize poison</i>.<br /><br /> <b>Onset</b>: Some afflictions have a variable amount of time before they set in. Creatures that come in contact with an affliction with an onset time must make a saving throw immediately. Success means that the affliction is avoided and no further saving throws must be made. Failure means that the creature has contracted the affliction and must begin making additional saves after the onset period has elapsed. The affliction’s effect does not occur until after the onset period has elapsed and then only if further saving throws are failed.<br /><br /> <b>Frequency</b>: This is how often the periodic saving throw must be attempted after the affliction has been contracted (after the onset time, if the affliction has any). While some afflictions last until they are cured, others end prematurely, even if the character is not cured through other means. If an affliction ends after a set amount of time, it will be noted in the frequency. For example, a disease with a frequency of “1/ day” lasts until cured, but a poison with a frequency of “1/ round for 6 rounds” ends after 6 rounds have passed.<br /><br /> Afflictions without a frequency occur only once, immediately upon contraction (or after the onset time if one is listed).<br /><br /> <b>Effect</b>: This is the effect that the character suffers each time if he fails his saving throw against the affliction. Most afflictions cause ability damage or hit point damage. These effects are cumulative, but they can be cured normally. Other afflictions cause the creature to take penalties or other effects. These effects are sometimes cumulative, with the rest only affecting the creature if it failed its most recent save. Some afflictions have different effects after the first save is failed. These afflictions have an initial effect, which occurs when the first save is failed, and a secondary effect, when additional saves are failed, as noted in the text. Hit point and ability score damage caused by an affliction cannot be healed naturally while the affliction persists.<br /><br /> <b>Cure</b>: This tells you how the affliction is cured. Commonly, this is a number of saving throws that must be made consecutively. Even if the affliction has a limited frequency, it might be cured prematurely if enough saving throws are made. Hit point damage and ability score damage is not removed when an affliction is cured. Such damage must be healed normally. Afflictions without a cure entry can only be cured through powerful spells, such as <i>neutralize poison</i> and <i>remove curse</i>. No matter how many saving throws are made, these afflictions continue to affect the target.<br /><br /> <b>Example</b>: Valeros has been exposed to the red ache disease. He failed a DC 15 Fortitude save to avoid contracting it, so after the onset period of 1d3 days has passed, he must make another DC 15 Fortitude save to avoid taking 1d6 points of Strength damage. From this point onward, he must make a DC 15 Fortitude save each day (according to the disease’s frequency) to avoid further Strength damage. If, on two consecutive days, he makes his Fortitude saves, he is cured of the disease and any damage it caused begins to heal as normal.<br /><h1 class="title"><a href="Rules.aspx?ID=418">Curses</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 556</i></a><br />Careless rogues plundering a tomb, drunken heroes insulting a powerful wizard, and foolhardy adventurers who pick up ancient swords all might suffer from curses. These magic afflictions can have a wide variety of effects, from a simple penalty to certain checks to transforming the victim into a toad. Some even cause the afflicted to slowly rot away, leaving nothing behind but dust. Unlike other afflictions, most curses cannot be cured through a number of successful saving throws. Curses can be cured through magic, however, usually via spells such as <i>remove curse</i> and <i>break enchantment</i>. While some curses cause a progressive deterioration, others inflict a static penalty from the moment they are contracted, neither fading over time nor growing worse. In addition, there are a number of magic items that act like curses. See Chapter 15 for a description of these cursed items.<br /><h1 class="title"><a href="Rules.aspx?ID=419">Diseases</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 557</i></a><br />From a widespread plague to the bite of a dire rat, disease is a serious threat to common folk and adventurers alike. Diseases rarely have a limited frequency, but most have a lengthy onset time. This onset time can also be variable. Most diseases can be cured by a number of consecutive saving throws or by spells such as remove disease.<br /><h1 class="title"><a href="Rules.aspx?ID=420">Poison</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 557</i></a><br />No other affliction is so prevalent as poison. From the fangs of a viper to the ichor-stained assassin's blade, poison is a constant threat. Poisons can be cured by successful saving throws and spells such as <i>neutralize poison</i>.<br /><br /> Contact poisons are contracted the moment someone touches the poison with his bare skin. Such poisons can be used as injury poisons. Contact poisons usually have an onset time of 1 minute and a frequency of 1 minute. Ingested poisons are contracted when a creature eats or drinks the poison. Ingested poisons usually have an onset time of 10 minutes and a frequency of 1 minute. Injury poisons are primarily contracted through the attacks of certain creatures and through weapons coated in the toxin. Injury poisons do not usually have an onset time and have a frequency of 1 round. Inhaled poisons are contracted the moment a creature enters an area containing such poisons. Most inhaled poisons fill a volume equal to a 10-foot cube per dose. Creatures can attempt to hold their breaths while inside to avoid inhaling the toxin. Creatures holding their breaths receive a 50% chance of not having to make a Fortitude save each round. See the rules for holding your breath and suffocation in Chapter 13. Note that a character that would normally suffocate while attempting to hold its breath instead begins to breathe normally again.<br /><br /> Unlike other afflictions, multiple doses of the same poison stack. Poisons delivered by injury and contact cannot inflict more than one dose of poison at a time, but inhaled and ingested poisons can inflict multiple doses at once. Each additional dose extends the total duration of the poison (as noted under frequency) by half its total duration. In addition, each dose of poison increases the DC to resist the poison by +2. This increase is cumulative. Multiple doses do not alter the cure conditions of the poison, and meeting these conditions ends the affliction for all the doses. For example, a character is bit three times in the same round by a trio of Medium monstrous spiders, injecting him with three doses of Medium spider venom. The unfortunate character must make a DC 18 Fortitude save for the next 8 rounds. Fortunately, just one successful save cures the character of all three doses of the poison.<br /><br /> Applying poison to a weapon or single piece of ammunition is a standard action. Whenever a character applies or readies a poison for use there is a 5% chance that he exposes himself to the poison and must save against the poison as normal. This does not consume the dose of poison. Whenever a character attacks with a poisoned weapon, if the attack roll results in a natural 1, he exposes himself to the poison. The poison is consumed when the weapon strikes a creature or is touched by the wielder. Characters with the poison use class feature do not risk accidentally poisoning themselves.<br /><br /> Poisons can be made using Craft (alchemy). The DC to make a poison is equal to its Fortitude save DC. Rolling a natural 1 on a Craft skill check while making a poison exposes the crafter to the poison. Crafters with the poison use class feature do not risk poisoning themselves when using Craft to make poison.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

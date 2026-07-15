@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Bonus Type - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Bonus Type" /><meta name="description" content="There are many types of bonuses in the game. It’s tempting to look at that list of bonuses, find “holes” in the spell list that don’t have spells for certain bonus types, and create a new spell that adds one of those unused bonus types to your favorite statistic or roll. Resist this temptation. Not all bonus types are equal within the game, and many bonus types are only meant for certain things. See Table 2–7: Bonus Types and Effects.&lt;br />&lt;br /> A dash entry (—) in the table indicates there are no common examples of items or spells that grant that kind of bonus. If you’re designing an item or spell and want to include a certain type of bonus to a particular ability or statistic, check Table 2–7 first; if the bonus type doesn’t say it can affect that ability or statistic, use one that does instead. One reason for this table is that some bonuses are better than others (deflection bonuses work against incorporeal creatures and when you are flat-footed, natural armor bonuses do not). A second reason is that allowing any kind of bonus on any roll or statistic makes it really easy to stack many small bonuses more cheaply than a larger bonus, which makes powerful magic items like a ring of protection +5 much less interesting. A third reason is that some of these combinations just don’t make sense, like a deflection bonus to Strength or a shield bonus on Knowledge checks. &lt;h2>Table 2-7: Bonus Types and Effects&lt;/h2>&lt;table class=&quot;inner&quot;>&lt;tr>&lt;td>&lt;b>Bonus Type&lt;/b>&lt;/td>&lt;td>&lt;b>Can Affect&lt;/b>&lt;/td>&lt;td>&lt;b>Sample Item&lt;/b>&lt;/td>&lt;td>&lt;b>Sample Spell&lt;/b>&lt;/td>&lt;/tr>&lt;tr>&lt;td>Alchemical&lt;/td>&lt;td>Ability scores, saves&lt;/td>&lt;td>Antitoxin&lt;/td>&lt;td>-&lt;/td>&lt;/tr>&lt;tr>&lt;td>Armor&lt;/td>&lt;td>AC&lt;/td>&lt;td>&lt;a style=&quot;text-decoration:underline&quot; href=&quot;MagicWondrousDisplay.aspx?FinalName=Bracers%20of%20Armor1&quot;>&lt;i>Bracers of armor&lt;/i>&lt;/a>&lt;/td>&lt;td>&lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=Mage armor&quot;>&lt;i>Mage armor&lt;/i>&lt;/a>&lt;/td>&lt;/tr>&lt;tr>&lt;td>Circumstance&lt;/td>&lt;td>Attacks, checks&lt;/td>&lt;td>&lt;a style=&quot;text-decoration:underline&quot; href=&quot;MagicWondrousDisplay.aspx?FinalName=Robe%20of%20Blending&quot;>&lt;i>Robe of blending&lt;/i>&lt;/a>&lt;/td>&lt;td>-&lt;/td>&lt;/tr>&lt;tr>&lt;td>Competence&lt;/td>&lt;td>Attacks, checks, saves&lt;/td>&lt;td>&lt;a style=&quot;text-decoration:underline&quot; href=&quot;MagicWondrousDisplay.aspx?FinalName=Boots%20of%20Elvenkind&quot;>&lt;i>Boots of elvenkind&lt;/i>&lt;/a>&lt;/td>&lt;td>&lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=Guidance&quot;>&lt;i>Guidance&lt;/i>&lt;/a>&lt;/td>&lt;/tr>&lt;tr>&lt;td>Deflection&lt;/td>&lt;td>AC&lt;/td>&lt;td>&lt;a style=&quot;text-decoration:underline&quot; href=&quot;MagicRingsDisplay.aspx?FinalName=Ring%20of%20Protection1&quot;>&lt;i>Ring of protection&lt;/i>&lt;/a>&lt;/td>&lt;td>-&lt;/td>&lt;/tr>&lt;tr>&lt;td>Dodge&lt;/td>&lt;td>AC&lt;/td>&lt;td>Never*&lt;/td>&lt;td>Never*&lt;/td>&lt;/tr>&lt;tr>&lt;td>Enhancement&lt;/td>&lt;td>Ability scores, AC, attacks, damage, speed&lt;/td>&lt;td>&lt;a style=&quot;text-decoration:underline&quot; href=&quot;MagicWondrousDisplay.aspx?FinalName=Belt%20of%20Giant%20Strength2&quot;>&lt;i>Belt of giant strength&lt;/i>&lt;/a>&lt;/td>&lt;td>&lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=Magic weapon&quot;>&lt;i>Magic weapon&lt;/i>&lt;/a>&lt;/td>&lt;/tr>&lt;tr>&lt;td>Inherent&lt;/td>&lt;td>Ability scores&lt;/td>&lt;td>&lt;a style=&quot;text-decoration:underline&quot; href=&quot;MagicWondrousDisplay.aspx?FinalName=Manual%20of%20Bodily%20Health1&quot;>&lt;i>Manual of bodily health&lt;/i>&lt;/a>&lt;/td>&lt;td>&lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=Wish&quot;>&lt;i>Wish&lt;/i>&lt;/a>&lt;/td>&lt;/tr>&lt;tr>&lt;td>Insight&lt;/td>&lt;td>AC, attacks, checks, saves&lt;/td>&lt;td>&lt;a style=&quot;text-decoration:underline&quot; href=&quot;MagicWondrousDisplay.aspx?FinalName=Ioun Stone Dusty%20Rose%20Prism&quot;>&lt;i>Dusty rose prism ioun stone&lt;/i>&lt;/a>&lt;/td>&lt;td>&lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=True strike&quot;>&lt;i>True strike&lt;/i>&lt;/a>&lt;/td>&lt;/tr>&lt;tr>&lt;td>Luck&lt;/td>&lt;td>AC, attacks, checks, damage, saves&lt;/td>&lt;td>&lt;a style=&quot;text-decoration:underline&quot; href=&quot;MagicWondrousDisplay.aspx?FinalName=Stone%20of%20Good%20Luck%20(Luckstone)&quot;>&lt;i>Stone of good luck&lt;/i>&lt;/a>&lt;/td>&lt;td>&lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=Divine favor&quot;>&lt;i>Divine favor&lt;/i>&lt;/a>&lt;/td>&lt;/tr>&lt;tr>&lt;td>Morale&lt;/td>&lt;td>Attacks, checks, damage, saves, Str, Con, Dex&lt;/td>&lt;td>&lt;a style=&quot;text-decoration:underline&quot; href=&quot;MagicWondrousDisplay.aspx?FinalName=Candle%20of%20Invocation&quot;>&lt;i>Candle of invocation&lt;/i>&lt;/a>&lt;/td>&lt;td>&lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=Bless&quot;>&lt;i>Bless&lt;/i>&lt;/a>&lt;/td>&lt;/tr>&lt;tr>&lt;td>Natural armor&lt;/td>&lt;td>AC&lt;/td>&lt;td>&lt;a style=&quot;text-decoration:underline&quot; href=&quot;MagicWondrousDisplay.aspx?FinalName=Amulet%20of%20Natural%20Armor1&quot;>&lt;i>Amulet of natural armor&lt;/i>&lt;/a>&lt;/td>&lt;td>&lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=Barkskin&quot;>&lt;i>Barkskin&lt;/i>&lt;/a>&lt;/td>&lt;/tr>&lt;tr>&lt;td>Profane&lt;/td>&lt;td>AC, checks, damage, DCs, saves&lt;/td>&lt;td>-&lt;/td>&lt;td>&lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=Desecrate&quot;>&lt;i>Desecrate&lt;/i>&lt;/a>&lt;/td>&lt;/tr>&lt;tr>&lt;td>Resistance&lt;/td>&lt;td>Saves&lt;/td>&lt;td>&lt;a style=&quot;text-decoration:underline&quot; href=&quot;MagicWondrousDisplay.aspx?FinalName=Cloak%20of%20Resistance1&quot;>&lt;i>Cloak of resistance&lt;/i>&lt;/a>&lt;/td>&lt;td>&lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=Mind blank&quot;>&lt;i>Mind blank&lt;/i>&lt;/a>&lt;/td>&lt;/tr>&lt;tr>&lt;td>Sacred&lt;/td>&lt;td>AC, checks, damage, DCs, saves&lt;/td>&lt;td>-&lt;/td>&lt;td>&lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=Consecrate&quot;>&lt;i>Consecrate&lt;/i>&lt;/a>&lt;/td>&lt;/tr>&lt;tr>&lt;td>Shield&lt;/td>&lt;td>AC&lt;/td>&lt;td>&lt;a style=&quot;text-decoration:underline&quot; href=&quot;MagicRingsDisplay.aspx?FinalName=Ring%20of%20Force%20Shield&quot;>&lt;i>Ring of force shield&lt;/i>&lt;/a>&lt;/td>&lt;td>&lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=Shield&quot;>&lt;i>Shield&lt;/i>&lt;/a>&lt;/td>&lt;/tr>&lt;tr>&lt;td>Size&lt;/td>&lt;td>Ability scores, attacks, AC&lt;/td>&lt;td>-&lt;/td>&lt;td>&lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=Enlarge person&quot;>&lt;i>Enlarge person&lt;/i>&lt;/a>&lt;/td>&lt;/tr>&lt;/table> * Spells and magic items should never grant dodge bonuses because dodge bonuses always stack, and it would be a simple matter achieving that AC using the armor, deflection, enhancement, and natural armor bonuses in the game.  " /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=999" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXkMTx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9OTM5Ij5NYXN0ZXJpbmcgTWFnaWM8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9OTgzIj5EZXNpZ25pbmcgU3BlbGxzPC9hPjwvdT48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTk5OSI+Qm9udXMgVHlwZTwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThrOHIiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+VWx0aW1hdGUgTWFnaWMgcGcuIDEzNDwvaT48L2E+PGJyIC8+VGhlcmUgYXJlIG1hbnkgdHlwZXMgb2YgYm9udXNlcyBpbiB0aGUgZ2FtZS4gSXTigJlzIHRlbXB0aW5nIHRvIGxvb2sgYXQgdGhhdCBsaXN0IG9mIGJvbnVzZXMsIGZpbmQg4oCcaG9sZXPigJ0gaW4gdGhlIHNwZWxsIGxpc3QgdGhhdCBkb27igJl0IGhhdmUgc3BlbGxzIGZvciBjZXJ0YWluIGJvbnVzIHR5cGVzLCBhbmQgY3JlYXRlIGEgbmV3IHNwZWxsIHRoYXQgYWRkcyBvbmUgb2YgdGhvc2UgdW51c2VkIGJvbnVzIHR5cGVzIHRvIHlvdXIgZmF2b3JpdGUgc3RhdGlzdGljIG9yIHJvbGwuIFJlc2lzdCB0aGlzIHRlbXB0YXRpb24uIE5vdCBhbGwgYm9udXMgdHlwZXMgYXJlIGVxdWFsIHdpdGhpbiB0aGUgZ2FtZSwgYW5kIG1hbnkgYm9udXMgdHlwZXMgYXJlIG9ubHkgbWVhbnQgZm9yIGNlcnRhaW4gdGhpbmdzLiBTZWUgVGFibGUgMuKAkzc6IEJvbnVzIFR5cGVzIGFuZCBFZmZlY3RzLjxiciAvPjxiciAvPiBBIGRhc2ggZW50cnkgKOKAlCkgaW4gdGhlIHRhYmxlIGluZGljYXRlcyB0aGVyZSBhcmUgbm8gY29tbW9uIGV4YW1wbGVzIG9mIGl0ZW1zIG9yIHNwZWxscyB0aGF0IGdyYW50IHRoYXQga2luZCBvZiBib251cy4gSWYgeW914oCZcmUgZGVzaWduaW5nIGFuIGl0ZW0gb3Igc3BlbGwgYW5kIHdhbnQgdG8gaW5jbHVkZSBhIGNlcnRhaW4gdHlwZSBvZiBib251cyB0byBhIHBhcnRpY3VsYXIgYWJpbGl0eSBvciBzdGF0aXN0aWMsIGNoZWNrIFRhYmxlIDLigJM3IGZpcnN0OyBpZiB0aGUgYm9udXMgdHlwZSBkb2VzbuKAmXQgc2F5IGl0IGNhbiBhZmZlY3QgdGhhdCBhYmlsaXR5IG9yIHN0YXRpc3RpYywgdXNlIG9uZSB0aGF0IGRvZXMgaW5zdGVhZC4gT25lIHJlYXNvbiBmb3IgdGhpcyB0YWJsZSBpcyB0aGF0IHNvbWUgYm9udXNlcyBhcmUgYmV0dGVyIHRoYW4gb3RoZXJzIChkZWZsZWN0aW9uIGJvbnVzZXMgd29yayBhZ2FpbnN0IGluY29ycG9yZWFsIGNyZWF0dXJlcyBhbmQgd2hlbiB5b3UgYXJlIGZsYXQtZm9vdGVkLCBuYXR1cmFsIGFybW9yIGJvbnVzZXMgZG8gbm90KS4gQSBzZWNvbmQgcmVhc29uIGlzIHRoYXQgYWxsb3dpbmcgYW55IGtpbmQgb2YgYm9udXMgb24gYW55IHJvbGwgb3Igc3RhdGlzdGljIG1ha2VzIGl0IHJlYWxseSBlYXN5IHRvIHN0YWNrIG1hbnkgc21hbGwgYm9udXNlcyBtb3JlIGNoZWFwbHkgdGhhbiBhIGxhcmdlciBib251cywgd2hpY2ggbWFrZXMgcG93ZXJmdWwgbWFnaWMgaXRlbXMgbGlrZSBhIHJpbmcgb2YgcHJvdGVjdGlvbiArNSBtdWNoIGxlc3MgaW50ZXJlc3RpbmcuIEEgdGhpcmQgcmVhc29uIGlzIHRoYXQgc29tZSBvZiB0aGVzZSBjb21iaW5hdGlvbnMganVzdCBkb27igJl0IG1ha2Ugc2Vuc2UsIGxpa2UgYSBkZWZsZWN0aW9uIGJvbnVzIHRvIFN0cmVuZ3RoIG9yIGEgc2hpZWxkIGJvbnVzIG9uIEtub3dsZWRnZSBjaGVja3MuIDxoMj5UYWJsZSAyLTc6IEJvbnVzIFR5cGVzIGFuZCBFZmZlY3RzPC9oMj48dGFibGUgY2xhc3M9ImlubmVyIj48dHI+PHRkPjxiPkJvbnVzIFR5cGU8L2I+PC90ZD48dGQ+PGI+Q2FuIEFmZmVjdDwvYj48L3RkPjx0ZD48Yj5TYW1wbGUgSXRlbTwvYj48L3RkPjx0ZD48Yj5TYW1wbGUgU3BlbGw8L2I+PC90ZD48L3RyPjx0cj48dGQ+QWxjaGVtaWNhbDwvdGQ+PHRkPkFiaWxpdHkgc2NvcmVzLCBzYXZlczwvdGQ+PHRkPkFudGl0b3hpbjwvdGQ+PHRkPi08L3RkPjwvdHI+PHRyPjx0ZD5Bcm1vcjwvdGQ+PHRkPkFDPC90ZD48dGQ+PGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9Ik1hZ2ljV29uZHJvdXNEaXNwbGF5LmFzcHg/RmluYWxOYW1lPUJyYWNlcnMlMjBvZiUyMEFybW9yMSI+PGk+QnJhY2VycyBvZiBhcm1vcjwvaT48L2E+PC90ZD48dGQ+PGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPU1hZ2UgYXJtb3IiPjxpPk1hZ2UgYXJtb3I8L2k+PC9hPjwvdGQ+PC90cj48dHI+PHRkPkNpcmN1bXN0YW5jZTwvdGQ+PHRkPkF0dGFja3MsIGNoZWNrczwvdGQ+PHRkPjxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJNYWdpY1dvbmRyb3VzRGlzcGxheS5hc3B4P0ZpbmFsTmFtZT1Sb2JlJTIwb2YlMjBCbGVuZGluZyI+PGk+Um9iZSBvZiBibGVuZGluZzwvaT48L2E+PC90ZD48dGQ+LTwvdGQ+PC90cj48dHI+PHRkPkNvbXBldGVuY2U8L3RkPjx0ZD5BdHRhY2tzLCBjaGVja3MsIHNhdmVzPC90ZD48dGQ+PGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9Ik1hZ2ljV29uZHJvdXNEaXNwbGF5LmFzcHg/RmluYWxOYW1lPUJvb3RzJTIwb2YlMjBFbHZlbmtpbmQiPjxpPkJvb3RzIG9mIGVsdmVua2luZDwvaT48L2E+PC90ZD48dGQ+PGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUd1aWRhbmNlIj48aT5HdWlkYW5jZTwvaT48L2E+PC90ZD48L3RyPjx0cj48dGQ+RGVmbGVjdGlvbjwvdGQ+PHRkPkFDPC90ZD48dGQ+PGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9Ik1hZ2ljUmluZ3NEaXNwbGF5LmFzcHg/RmluYWxOYW1lPVJpbmclMjBvZiUyMFByb3RlY3Rpb24xIj48aT5SaW5nIG9mIHByb3RlY3Rpb248L2k+PC9hPjwvdGQ+PHRkPi08L3RkPjwvdHI+PHRyPjx0ZD5Eb2RnZTwvdGQ+PHRkPkFDPC90ZD48dGQ+TmV2ZXIqPC90ZD48dGQ+TmV2ZXIqPC90ZD48L3RyPjx0cj48dGQ+RW5oYW5jZW1lbnQ8L3RkPjx0ZD5BYmlsaXR5IHNjb3JlcywgQUMsIGF0dGFja3MsIGRhbWFnZSwgc3BlZWQ8L3RkPjx0ZD48YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iTWFnaWNXb25kcm91c0Rpc3BsYXkuYXNweD9GaW5hbE5hbWU9QmVsdCUyMG9mJTIwR2lhbnQlMjBTdHJlbmd0aDIiPjxpPkJlbHQgb2YgZ2lhbnQgc3RyZW5ndGg8L2k+PC9hPjwvdGQ+PHRkPjxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1NYWdpYyB3ZWFwb24iPjxpPk1hZ2ljIHdlYXBvbjwvaT48L2E+PC90ZD48L3RyPjx0cj48dGQ+SW5oZXJlbnQ8L3RkPjx0ZD5BYmlsaXR5IHNjb3JlczwvdGQ+PHRkPjxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJNYWdpY1dvbmRyb3VzRGlzcGxheS5hc3B4P0ZpbmFsTmFtZT1NYW51YWwlMjBvZiUyMEJvZGlseSUyMEhlYWx0aDEiPjxpPk1hbnVhbCBvZiBib2RpbHkgaGVhbHRoPC9pPjwvYT48L3RkPjx0ZD48YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9V2lzaCI+PGk+V2lzaDwvaT48L2E+PC90ZD48L3RyPjx0cj48dGQ+SW5zaWdodDwvdGQ+PHRkPkFDLCBhdHRhY2tzLCBjaGVja3MsIHNhdmVzPC90ZD48dGQ+PGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9Ik1hZ2ljV29uZHJvdXNEaXNwbGF5LmFzcHg/RmluYWxOYW1lPUlvdW4gU3RvbmUgRHVzdHklMjBSb3NlJTIwUHJpc20iPjxpPkR1c3R5IHJvc2UgcHJpc20gaW91biBzdG9uZTwvaT48L2E+PC90ZD48dGQ+PGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVRydWUgc3RyaWtlIj48aT5UcnVlIHN0cmlrZTwvaT48L2E+PC90ZD48L3RyPjx0cj48dGQ+THVjazwvdGQ+PHRkPkFDLCBhdHRhY2tzLCBjaGVja3MsIGRhbWFnZSwgc2F2ZXM8L3RkPjx0ZD48YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iTWFnaWNXb25kcm91c0Rpc3BsYXkuYXNweD9GaW5hbE5hbWU9U3RvbmUlMjBvZiUyMEdvb2QlMjBMdWNrJTIwKEx1Y2tzdG9uZSkiPjxpPlN0b25lIG9mIGdvb2QgbHVjazwvaT48L2E+PC90ZD48dGQ+PGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPURpdmluZSBmYXZvciI+PGk+RGl2aW5lIGZhdm9yPC9pPjwvYT48L3RkPjwvdHI+PHRyPjx0ZD5Nb3JhbGU8L3RkPjx0ZD5BdHRhY2tzLCBjaGVja3MsIGRhbWFnZSwgc2F2ZXMsIFN0ciwgQ29uLCBEZXg8L3RkPjx0ZD48YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iTWFnaWNXb25kcm91c0Rpc3BsYXkuYXNweD9GaW5hbE5hbWU9Q2FuZGxlJTIwb2YlMjBJbnZvY2F0aW9uIj48aT5DYW5kbGUgb2YgaW52b2NhdGlvbjwvaT48L2E+PC90ZD48dGQ+PGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUJsZXNzIj48aT5CbGVzczwvaT48L2E+PC90ZD48L3RyPjx0cj48dGQ+TmF0dXJhbCBhcm1vcjwvdGQ+PHRkPkFDPC90ZD48dGQ+PGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9Ik1hZ2ljV29uZHJvdXNEaXNwbGF5LmFzcHg/RmluYWxOYW1lPUFtdWxldCUyMG9mJTIwTmF0dXJhbCUyMEFybW9yMSI+PGk+QW11bGV0IG9mIG5hdHVyYWwgYXJtb3I8L2k+PC9hPjwvdGQ+PHRkPjxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1CYXJrc2tpbiI+PGk+QmFya3NraW48L2k+PC9hPjwvdGQ+PC90cj48dHI+PHRkPlByb2ZhbmU8L3RkPjx0ZD5BQywgY2hlY2tzLCBkYW1hZ2UsIERDcywgc2F2ZXM8L3RkPjx0ZD4tPC90ZD48dGQ+PGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPURlc2VjcmF0ZSI+PGk+RGVzZWNyYXRlPC9pPjwvYT48L3RkPjwvdHI+PHRyPjx0ZD5SZXNpc3RhbmNlPC90ZD48dGQ+U2F2ZXM8L3RkPjx0ZD48YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iTWFnaWNXb25kcm91c0Rpc3BsYXkuYXNweD9GaW5hbE5hbWU9Q2xvYWslMjBvZiUyMFJlc2lzdGFuY2UxIj48aT5DbG9hayBvZiByZXNpc3RhbmNlPC9pPjwvYT48L3RkPjx0ZD48YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9TWluZCBibGFuayI+PGk+TWluZCBibGFuazwvaT48L2E+PC90ZD48L3RyPjx0cj48dGQ+U2FjcmVkPC90ZD48dGQ+QUMsIGNoZWNrcywgZGFtYWdlLCBEQ3MsIHNhdmVzPC90ZD48dGQ+LTwvdGQ+PHRkPjxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1Db25zZWNyYXRlIj48aT5Db25zZWNyYXRlPC9pPjwvYT48L3RkPjwvdHI+PHRyPjx0ZD5TaGllbGQ8L3RkPjx0ZD5BQzwvdGQ+PHRkPjxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJNYWdpY1JpbmdzRGlzcGxheS5hc3B4P0ZpbmFsTmFtZT1SaW5nJTIwb2YlMjBGb3JjZSUyMFNoaWVsZCI+PGk+UmluZyBvZiBmb3JjZSBzaGllbGQ8L2k+PC9hPjwvdGQ+PHRkPjxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1TaGllbGQiPjxpPlNoaWVsZDwvaT48L2E+PC90ZD48L3RyPjx0cj48dGQ+U2l6ZTwvdGQ+PHRkPkFiaWxpdHkgc2NvcmVzLCBhdHRhY2tzLCBBQzwvdGQ+PHRkPi08L3RkPjx0ZD48YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9RW5sYXJnZSBwZXJzb24iPjxpPkVubGFyZ2UgcGVyc29uPC9pPjwvYT48L3RkPjwvdHI+PC90YWJsZT4gKiBTcGVsbHMgYW5kIG1hZ2ljIGl0ZW1zIHNob3VsZCBuZXZlciBncmFudCBkb2RnZSBib251c2VzIGJlY2F1c2UgZG9kZ2UgYm9udXNlcyBhbHdheXMgc3RhY2ssIGFuZCBpdCB3b3VsZCBiZSBhIHNpbXBsZSBtYXR0ZXIgYWNoaWV2aW5nIHRoYXQgQUMgdXNpbmcgdGhlIGFybW9yLCBkZWZsZWN0aW9uLCBlbmhhbmNlbWVudCwgYW5kIG5hdHVyYWwgYXJtb3IgYm9udXNlcyBpbiB0aGUgZ2FtZS4gIGRkZBS9Nsqlv2c1rGxIrDaPUiXsWbutIRlcb3Bdx2gJ+t1R" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=939">Mastering Magic</a></u> / <u><a href="Rules.aspx?ID=983">Designing Spells</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=999">Bonus Type</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8k8r" target="_blank" class="external-link"><i>Ultimate Magic pg. 134</i></a><br />There are many types of bonuses in the game. It’s tempting to look at that list of bonuses, find “holes” in the spell list that don’t have spells for certain bonus types, and create a new spell that adds one of those unused bonus types to your favorite statistic or roll. Resist this temptation. Not all bonus types are equal within the game, and many bonus types are only meant for certain things. See Table 2–7: Bonus Types and Effects.<br /><br /> A dash entry (—) in the table indicates there are no common examples of items or spells that grant that kind of bonus. If you’re designing an item or spell and want to include a certain type of bonus to a particular ability or statistic, check Table 2–7 first; if the bonus type doesn’t say it can affect that ability or statistic, use one that does instead. One reason for this table is that some bonuses are better than others (deflection bonuses work against incorporeal creatures and when you are flat-footed, natural armor bonuses do not). A second reason is that allowing any kind of bonus on any roll or statistic makes it really easy to stack many small bonuses more cheaply than a larger bonus, which makes powerful magic items like a ring of protection +5 much less interesting. A third reason is that some of these combinations just don’t make sense, like a deflection bonus to Strength or a shield bonus on Knowledge checks. <h2>Table 2-7: Bonus Types and Effects</h2><table class="inner"><tr><td><b>Bonus Type</b></td><td><b>Can Affect</b></td><td><b>Sample Item</b></td><td><b>Sample Spell</b></td></tr><tr><td>Alchemical</td><td>Ability scores, saves</td><td>Antitoxin</td><td>-</td></tr><tr><td>Armor</td><td>AC</td><td><a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Bracers%20of%20Armor1"><i>Bracers of armor</i></a></td><td><a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=Mage armor"><i>Mage armor</i></a></td></tr><tr><td>Circumstance</td><td>Attacks, checks</td><td><a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Robe%20of%20Blending"><i>Robe of blending</i></a></td><td>-</td></tr><tr><td>Competence</td><td>Attacks, checks, saves</td><td><a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Boots%20of%20Elvenkind"><i>Boots of elvenkind</i></a></td><td><a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=Guidance"><i>Guidance</i></a></td></tr><tr><td>Deflection</td><td>AC</td><td><a style="text-decoration:underline" href="MagicRingsDisplay.aspx?FinalName=Ring%20of%20Protection1"><i>Ring of protection</i></a></td><td>-</td></tr><tr><td>Dodge</td><td>AC</td><td>Never*</td><td>Never*</td></tr><tr><td>Enhancement</td><td>Ability scores, AC, attacks, damage, speed</td><td><a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Belt%20of%20Giant%20Strength2"><i>Belt of giant strength</i></a></td><td><a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=Magic weapon"><i>Magic weapon</i></a></td></tr><tr><td>Inherent</td><td>Ability scores</td><td><a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Manual%20of%20Bodily%20Health1"><i>Manual of bodily health</i></a></td><td><a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=Wish"><i>Wish</i></a></td></tr><tr><td>Insight</td><td>AC, attacks, checks, saves</td><td><a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Ioun Stone Dusty%20Rose%20Prism"><i>Dusty rose prism ioun stone</i></a></td><td><a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=True strike"><i>True strike</i></a></td></tr><tr><td>Luck</td><td>AC, attacks, checks, damage, saves</td><td><a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Stone%20of%20Good%20Luck%20(Luckstone)"><i>Stone of good luck</i></a></td><td><a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=Divine favor"><i>Divine favor</i></a></td></tr><tr><td>Morale</td><td>Attacks, checks, damage, saves, Str, Con, Dex</td><td><a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Candle%20of%20Invocation"><i>Candle of invocation</i></a></td><td><a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=Bless"><i>Bless</i></a></td></tr><tr><td>Natural armor</td><td>AC</td><td><a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Amulet%20of%20Natural%20Armor1"><i>Amulet of natural armor</i></a></td><td><a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=Barkskin"><i>Barkskin</i></a></td></tr><tr><td>Profane</td><td>AC, checks, damage, DCs, saves</td><td>-</td><td><a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=Desecrate"><i>Desecrate</i></a></td></tr><tr><td>Resistance</td><td>Saves</td><td><a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Cloak%20of%20Resistance1"><i>Cloak of resistance</i></a></td><td><a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=Mind blank"><i>Mind blank</i></a></td></tr><tr><td>Sacred</td><td>AC, checks, damage, DCs, saves</td><td>-</td><td><a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=Consecrate"><i>Consecrate</i></a></td></tr><tr><td>Shield</td><td>AC</td><td><a style="text-decoration:underline" href="MagicRingsDisplay.aspx?FinalName=Ring%20of%20Force%20Shield"><i>Ring of force shield</i></a></td><td><a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=Shield"><i>Shield</i></a></td></tr><tr><td>Size</td><td>Ability scores, attacks, AC</td><td>-</td><td><a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=Enlarge person"><i>Enlarge person</i></a></td></tr></table> * Spells and magic items should never grant dodge bonuses because dodge bonuses always stack, and it would be a simple matter achieving that AC using the armor, deflection, enhancement, and natural armor bonuses in the game.  </span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

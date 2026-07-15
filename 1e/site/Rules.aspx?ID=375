@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Magic Item Descriptions - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Magic Item Descriptions" /><meta name="description" content="Each general type of magic item gets an overall description, followed by descriptions of specific items.&lt;br />&lt;br /> General descriptions include notes on activation, random generation, and other material. The AC, hardness, hit points, and break DC are given for typical examples of some magic items. The AC assumes that the item is unattended and includes a –5 penalty for the item’s effective Dexterity of 0. If a creature holds the item, use the creature’s Dexterity modifier in place of the –5 penalty.&lt;br />&lt;br /> Some individual items, notably those that just store spells, don’t get full-blown descriptions. Reference the spell’s description for details, modif ied by the form of the item (potion, scroll, wand, and so on). Assume that the spell is cast at the minimum level required to cast it. Items with full descriptions have their powers detailed, and each of the following topics is covered in notational form as part of its entry.&lt;br />&lt;br /> &lt;b>Aura&lt;/b>: Most of the time, a &lt;i>detect magic&lt;/i> spell reveals the school of magic associated with a magic item and the strength of the aura an item emits. This information (when applicable) is given at the beginning of the item’s notational entry. See the &lt;i>detect magic&lt;/i> spell description for details.&lt;br />&lt;br /> &lt;b>Caster Level (CL)&lt;/b>: The next item in a notational entry gives the caster level of the item, indicating its relative power. The caster level determines the item’s saving throw bonus, as well as range or other level-dependent aspects of the powers of the item (if variable). It also determines the level that must be contended with should the item come under the effect of a &lt;i>dispel magic&lt;/i> spell or similar situation.&lt;br />&lt;br /> For potions, scrolls, and wands, the creator can set the caster level of an item at any number high enough to cast the stored spell but not higher than her own caster level. For other magic items, the caster level is determined by the item itself.&lt;br />&lt;br /> &lt;b>Slot&lt;/b>: Most magic items can only be utilized if worn or wielded in their proper slots. If the item is stowed or placed elsewhere, it does not function. If the slot lists “none,” the item must be held or otherwise carried to function.&lt;br />&lt;br /> &lt;b>Price&lt;/b>: This is the cost, in gold pieces, to purchase the item, if it is available for sale. Generally speaking, magic items can be sold by PCs for half this value.&lt;br />&lt;br /> &lt;b>Weight&lt;/b>: This is the weight of an item. When a weight figure is not given, the item has no weight worth noting (for purposes of determining how much of a load a character can carry).&lt;br />&lt;br />&lt;b>Description&lt;/b>: This section of a magic item describes the item’s powers and abilities. Potions, scrolls, staves, and wands refer to various spells as part of their descriptions (see Chapter 10 for details on these spells).&lt;br />&lt;br /> &lt;b>Construction&lt;/b>: With the exception of artifacts, most magic items can be built by a spellcaster with the appropriate feats and prerequisites. This section describes those prerequisites.&lt;br />&lt;br /> &lt;b>Requirements&lt;/b>: Certain requirements must be met in order for a character to create a magic item. These include feats, spells, and miscellaneous requirements such as level, alignment, and race or kind.&lt;br />&lt;br /> A spell prerequisite may be provided by a character who has prepared the spell (or who knows the spell, in the case of a sorcerer or bard), or through the use of a spell completion or spell trigger magic item or a spell-like ability that produces the desired spell effect. For each day that passes in the creation process, the creator must expend one spell completion item or one charge from a spell trigger item if either of those objects is used to supply a prerequisite.&lt;br />&lt;br /> It is possible for more than one character to cooperate in the creation of an item, with each participant providing one or more of the prerequisites. In some cases, cooperation may even be necessary.&lt;br />&lt;br /> If two or more characters cooperate to create an item, they must agree among themselves who will be considered the creator for the purpose of determinations where the creator’s level must be known.&lt;br />&lt;br /> &lt;b>Cost&lt;/b>: This is the cost in gold pieces to create the item. Generally this cost is equal to half the price of an item, but additional material components might increase this number. The cost to create includes the costs derived from the base cost plus the costs of the components." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=375" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWjMjx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NjUiPkl0ZW1zPC9hPjwvdT4gLyA8dT48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTM2NSI+TWFnaWMgSXRlbXM8L2E+PC91PjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9Mzc1Ij5NYWdpYyBJdGVtIERlc2NyaXB0aW9uczwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweTg4eWoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UFJQRyBDb3JlIFJ1bGVib29rIHBnLiA0NjA8L2k+PC9hPjxiciAvPkVhY2ggZ2VuZXJhbCB0eXBlIG9mIG1hZ2ljIGl0ZW0gZ2V0cyBhbiBvdmVyYWxsIGRlc2NyaXB0aW9uLCBmb2xsb3dlZCBieSBkZXNjcmlwdGlvbnMgb2Ygc3BlY2lmaWMgaXRlbXMuPGJyIC8+PGJyIC8+IEdlbmVyYWwgZGVzY3JpcHRpb25zIGluY2x1ZGUgbm90ZXMgb24gYWN0aXZhdGlvbiwgcmFuZG9tIGdlbmVyYXRpb24sIGFuZCBvdGhlciBtYXRlcmlhbC4gVGhlIEFDLCBoYXJkbmVzcywgaGl0IHBvaW50cywgYW5kIGJyZWFrIERDIGFyZSBnaXZlbiBmb3IgdHlwaWNhbCBleGFtcGxlcyBvZiBzb21lIG1hZ2ljIGl0ZW1zLiBUaGUgQUMgYXNzdW1lcyB0aGF0IHRoZSBpdGVtIGlzIHVuYXR0ZW5kZWQgYW5kIGluY2x1ZGVzIGEg4oCTNSBwZW5hbHR5IGZvciB0aGUgaXRlbeKAmXMgZWZmZWN0aXZlIERleHRlcml0eSBvZiAwLiBJZiBhIGNyZWF0dXJlIGhvbGRzIHRoZSBpdGVtLCB1c2UgdGhlIGNyZWF0dXJl4oCZcyBEZXh0ZXJpdHkgbW9kaWZpZXIgaW4gcGxhY2Ugb2YgdGhlIOKAkzUgcGVuYWx0eS48YnIgLz48YnIgLz4gU29tZSBpbmRpdmlkdWFsIGl0ZW1zLCBub3RhYmx5IHRob3NlIHRoYXQganVzdCBzdG9yZSBzcGVsbHMsIGRvbuKAmXQgZ2V0IGZ1bGwtYmxvd24gZGVzY3JpcHRpb25zLiBSZWZlcmVuY2UgdGhlIHNwZWxs4oCZcyBkZXNjcmlwdGlvbiBmb3IgZGV0YWlscywgbW9kaWYgaWVkIGJ5IHRoZSBmb3JtIG9mIHRoZSBpdGVtIChwb3Rpb24sIHNjcm9sbCwgd2FuZCwgYW5kIHNvIG9uKS4gQXNzdW1lIHRoYXQgdGhlIHNwZWxsIGlzIGNhc3QgYXQgdGhlIG1pbmltdW0gbGV2ZWwgcmVxdWlyZWQgdG8gY2FzdCBpdC4gSXRlbXMgd2l0aCBmdWxsIGRlc2NyaXB0aW9ucyBoYXZlIHRoZWlyIHBvd2VycyBkZXRhaWxlZCwgYW5kIGVhY2ggb2YgdGhlIGZvbGxvd2luZyB0b3BpY3MgaXMgY292ZXJlZCBpbiBub3RhdGlvbmFsIGZvcm0gYXMgcGFydCBvZiBpdHMgZW50cnkuPGJyIC8+PGJyIC8+IDxiPkF1cmE8L2I+OiBNb3N0IG9mIHRoZSB0aW1lLCBhIDxpPmRldGVjdCBtYWdpYzwvaT4gc3BlbGwgcmV2ZWFscyB0aGUgc2Nob29sIG9mIG1hZ2ljIGFzc29jaWF0ZWQgd2l0aCBhIG1hZ2ljIGl0ZW0gYW5kIHRoZSBzdHJlbmd0aCBvZiB0aGUgYXVyYSBhbiBpdGVtIGVtaXRzLiBUaGlzIGluZm9ybWF0aW9uICh3aGVuIGFwcGxpY2FibGUpIGlzIGdpdmVuIGF0IHRoZSBiZWdpbm5pbmcgb2YgdGhlIGl0ZW3igJlzIG5vdGF0aW9uYWwgZW50cnkuIFNlZSB0aGUgPGk+ZGV0ZWN0IG1hZ2ljPC9pPiBzcGVsbCBkZXNjcmlwdGlvbiBmb3IgZGV0YWlscy48YnIgLz48YnIgLz4gPGI+Q2FzdGVyIExldmVsIChDTCk8L2I+OiBUaGUgbmV4dCBpdGVtIGluIGEgbm90YXRpb25hbCBlbnRyeSBnaXZlcyB0aGUgY2FzdGVyIGxldmVsIG9mIHRoZSBpdGVtLCBpbmRpY2F0aW5nIGl0cyByZWxhdGl2ZSBwb3dlci4gVGhlIGNhc3RlciBsZXZlbCBkZXRlcm1pbmVzIHRoZSBpdGVt4oCZcyBzYXZpbmcgdGhyb3cgYm9udXMsIGFzIHdlbGwgYXMgcmFuZ2Ugb3Igb3RoZXIgbGV2ZWwtZGVwZW5kZW50IGFzcGVjdHMgb2YgdGhlIHBvd2VycyBvZiB0aGUgaXRlbSAoaWYgdmFyaWFibGUpLiBJdCBhbHNvIGRldGVybWluZXMgdGhlIGxldmVsIHRoYXQgbXVzdCBiZSBjb250ZW5kZWQgd2l0aCBzaG91bGQgdGhlIGl0ZW0gY29tZSB1bmRlciB0aGUgZWZmZWN0IG9mIGEgPGk+ZGlzcGVsIG1hZ2ljPC9pPiBzcGVsbCBvciBzaW1pbGFyIHNpdHVhdGlvbi48YnIgLz48YnIgLz4gRm9yIHBvdGlvbnMsIHNjcm9sbHMsIGFuZCB3YW5kcywgdGhlIGNyZWF0b3IgY2FuIHNldCB0aGUgY2FzdGVyIGxldmVsIG9mIGFuIGl0ZW0gYXQgYW55IG51bWJlciBoaWdoIGVub3VnaCB0byBjYXN0IHRoZSBzdG9yZWQgc3BlbGwgYnV0IG5vdCBoaWdoZXIgdGhhbiBoZXIgb3duIGNhc3RlciBsZXZlbC4gRm9yIG90aGVyIG1hZ2ljIGl0ZW1zLCB0aGUgY2FzdGVyIGxldmVsIGlzIGRldGVybWluZWQgYnkgdGhlIGl0ZW0gaXRzZWxmLjxiciAvPjxiciAvPiA8Yj5TbG90PC9iPjogTW9zdCBtYWdpYyBpdGVtcyBjYW4gb25seSBiZSB1dGlsaXplZCBpZiB3b3JuIG9yIHdpZWxkZWQgaW4gdGhlaXIgcHJvcGVyIHNsb3RzLiBJZiB0aGUgaXRlbSBpcyBzdG93ZWQgb3IgcGxhY2VkIGVsc2V3aGVyZSwgaXQgZG9lcyBub3QgZnVuY3Rpb24uIElmIHRoZSBzbG90IGxpc3RzIOKAnG5vbmUs4oCdIHRoZSBpdGVtIG11c3QgYmUgaGVsZCBvciBvdGhlcndpc2UgY2FycmllZCB0byBmdW5jdGlvbi48YnIgLz48YnIgLz4gPGI+UHJpY2U8L2I+OiBUaGlzIGlzIHRoZSBjb3N0LCBpbiBnb2xkIHBpZWNlcywgdG8gcHVyY2hhc2UgdGhlIGl0ZW0sIGlmIGl0IGlzIGF2YWlsYWJsZSBmb3Igc2FsZS4gR2VuZXJhbGx5IHNwZWFraW5nLCBtYWdpYyBpdGVtcyBjYW4gYmUgc29sZCBieSBQQ3MgZm9yIGhhbGYgdGhpcyB2YWx1ZS48YnIgLz48YnIgLz4gPGI+V2VpZ2h0PC9iPjogVGhpcyBpcyB0aGUgd2VpZ2h0IG9mIGFuIGl0ZW0uIFdoZW4gYSB3ZWlnaHQgZmlndXJlIGlzIG5vdCBnaXZlbiwgdGhlIGl0ZW0gaGFzIG5vIHdlaWdodCB3b3J0aCBub3RpbmcgKGZvciBwdXJwb3NlcyBvZiBkZXRlcm1pbmluZyBob3cgbXVjaCBvZiBhIGxvYWQgYSBjaGFyYWN0ZXIgY2FuIGNhcnJ5KS48YnIgLz48YnIgLz48Yj5EZXNjcmlwdGlvbjwvYj46IFRoaXMgc2VjdGlvbiBvZiBhIG1hZ2ljIGl0ZW0gZGVzY3JpYmVzIHRoZSBpdGVt4oCZcyBwb3dlcnMgYW5kIGFiaWxpdGllcy4gUG90aW9ucywgc2Nyb2xscywgc3RhdmVzLCBhbmQgd2FuZHMgcmVmZXIgdG8gdmFyaW91cyBzcGVsbHMgYXMgcGFydCBvZiB0aGVpciBkZXNjcmlwdGlvbnMgKHNlZSBDaGFwdGVyIDEwIGZvciBkZXRhaWxzIG9uIHRoZXNlIHNwZWxscykuPGJyIC8+PGJyIC8+IDxiPkNvbnN0cnVjdGlvbjwvYj46IFdpdGggdGhlIGV4Y2VwdGlvbiBvZiBhcnRpZmFjdHMsIG1vc3QgbWFnaWMgaXRlbXMgY2FuIGJlIGJ1aWx0IGJ5IGEgc3BlbGxjYXN0ZXIgd2l0aCB0aGUgYXBwcm9wcmlhdGUgZmVhdHMgYW5kIHByZXJlcXVpc2l0ZXMuIFRoaXMgc2VjdGlvbiBkZXNjcmliZXMgdGhvc2UgcHJlcmVxdWlzaXRlcy48YnIgLz48YnIgLz4gPGI+UmVxdWlyZW1lbnRzPC9iPjogQ2VydGFpbiByZXF1aXJlbWVudHMgbXVzdCBiZSBtZXQgaW4gb3JkZXIgZm9yIGEgY2hhcmFjdGVyIHRvIGNyZWF0ZSBhIG1hZ2ljIGl0ZW0uIFRoZXNlIGluY2x1ZGUgZmVhdHMsIHNwZWxscywgYW5kIG1pc2NlbGxhbmVvdXMgcmVxdWlyZW1lbnRzIHN1Y2ggYXMgbGV2ZWwsIGFsaWdubWVudCwgYW5kIHJhY2Ugb3Iga2luZC48YnIgLz48YnIgLz4gQSBzcGVsbCBwcmVyZXF1aXNpdGUgbWF5IGJlIHByb3ZpZGVkIGJ5IGEgY2hhcmFjdGVyIHdobyBoYXMgcHJlcGFyZWQgdGhlIHNwZWxsIChvciB3aG8ga25vd3MgdGhlIHNwZWxsLCBpbiB0aGUgY2FzZSBvZiBhIHNvcmNlcmVyIG9yIGJhcmQpLCBvciB0aHJvdWdoIHRoZSB1c2Ugb2YgYSBzcGVsbCBjb21wbGV0aW9uIG9yIHNwZWxsIHRyaWdnZXIgbWFnaWMgaXRlbSBvciBhIHNwZWxsLWxpa2UgYWJpbGl0eSB0aGF0IHByb2R1Y2VzIHRoZSBkZXNpcmVkIHNwZWxsIGVmZmVjdC4gRm9yIGVhY2ggZGF5IHRoYXQgcGFzc2VzIGluIHRoZSBjcmVhdGlvbiBwcm9jZXNzLCB0aGUgY3JlYXRvciBtdXN0IGV4cGVuZCBvbmUgc3BlbGwgY29tcGxldGlvbiBpdGVtIG9yIG9uZSBjaGFyZ2UgZnJvbSBhIHNwZWxsIHRyaWdnZXIgaXRlbSBpZiBlaXRoZXIgb2YgdGhvc2Ugb2JqZWN0cyBpcyB1c2VkIHRvIHN1cHBseSBhIHByZXJlcXVpc2l0ZS48YnIgLz48YnIgLz4gSXQgaXMgcG9zc2libGUgZm9yIG1vcmUgdGhhbiBvbmUgY2hhcmFjdGVyIHRvIGNvb3BlcmF0ZSBpbiB0aGUgY3JlYXRpb24gb2YgYW4gaXRlbSwgd2l0aCBlYWNoIHBhcnRpY2lwYW50IHByb3ZpZGluZyBvbmUgb3IgbW9yZSBvZiB0aGUgcHJlcmVxdWlzaXRlcy4gSW4gc29tZSBjYXNlcywgY29vcGVyYXRpb24gbWF5IGV2ZW4gYmUgbmVjZXNzYXJ5LjxiciAvPjxiciAvPiBJZiB0d28gb3IgbW9yZSBjaGFyYWN0ZXJzIGNvb3BlcmF0ZSB0byBjcmVhdGUgYW4gaXRlbSwgdGhleSBtdXN0IGFncmVlIGFtb25nIHRoZW1zZWx2ZXMgd2hvIHdpbGwgYmUgY29uc2lkZXJlZCB0aGUgY3JlYXRvciBmb3IgdGhlIHB1cnBvc2Ugb2YgZGV0ZXJtaW5hdGlvbnMgd2hlcmUgdGhlIGNyZWF0b3LigJlzIGxldmVsIG11c3QgYmUga25vd24uPGJyIC8+PGJyIC8+IDxiPkNvc3Q8L2I+OiBUaGlzIGlzIHRoZSBjb3N0IGluIGdvbGQgcGllY2VzIHRvIGNyZWF0ZSB0aGUgaXRlbS4gR2VuZXJhbGx5IHRoaXMgY29zdCBpcyBlcXVhbCB0byBoYWxmIHRoZSBwcmljZSBvZiBhbiBpdGVtLCBidXQgYWRkaXRpb25hbCBtYXRlcmlhbCBjb21wb25lbnRzIG1pZ2h0IGluY3JlYXNlIHRoaXMgbnVtYmVyLiBUaGUgY29zdCB0byBjcmVhdGUgaW5jbHVkZXMgdGhlIGNvc3RzIGRlcml2ZWQgZnJvbSB0aGUgYmFzZSBjb3N0IHBsdXMgdGhlIGNvc3RzIG9mIHRoZSBjb21wb25lbnRzLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjUzNSI+RXh0cmFkaW1lbnNpb25hbCBTcGFjZXM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4OHlqIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBSUEcgQ29yZSBSdWxlYm9vayBwZy4gNTAxPC9pPjwvYT48YnIgLz5BIG51bWJlciBvZiBzcGVsbHMgYW5kIG1hZ2ljIGl0ZW1zIHV0aWxpemUgZXh0cmFkaW1lbnNpb25hbCBzcGFjZXMsIHN1Y2ggYXMgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPXJvcGUgdHJpY2siPjxpPnJvcGUgdHJpY2s8L2k+PC9hPiwgYSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iTWFnaWNXb25kcm91c0Rpc3BsYXkuYXNweD9GaW5hbE5hbWU9aHR0cHM6Ly93d3cuYW9ucHJkLmNvbS9NYWdpY1dvbmRyb3VzRGlzcGxheS5hc3B4P0ZpbmFsTmFtZT1CYWclMjBvZiUyMEhvbGRpbmdUeXBlJTIwSSI+PGk+YmFnIG9mIGhvbGRpbmc8L2k+PC9hPiwgYSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iTWFnaWNXb25kcm91c0Rpc3BsYXkuYXNweD9GaW5hbE5hbWU9SGFuZHklMjBIYXZlcnNhY2siPjxpPmhhbmR5IGhhdmVyc2FjazwvaT48L2E+LCBhbmQgYSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iTWFnaWNXb25kcm91c0Rpc3BsYXkuYXNweD9GaW5hbE5hbWU9UG9ydGFibGUlMjBIb2xlIj48aT5wb3J0YWJsZSBob2xlPC9pPjwvYT4uIFRoZXNlIHNwZWxscyBhbmQgbWFnaWMgaXRlbXMgY3JlYXRlIGEgdGlueSBwb2NrZXQgc3BhY2UgdGhhdCBkb2VzIG5vdCBleGlzdCBpbiBhbnkgZGltZW5zaW9uLiBTdWNoIGl0ZW1zIGRvIG5vdCBmdW5jdGlvbiwgaG93ZXZlciwgaW5zaWRlIGFub3RoZXIgZXh0cmFkaW1lbnNpb25hbCBzcGFjZS4gSWYgcGxhY2VkIGluc2lkZSBzdWNoIGEgc3BhY2UsIHRoZXkgY2Vhc2UgdG8gZnVuY3Rpb24gdW50aWwgcmVtb3ZlZCBmcm9tIHRoZSBleHRyYWRpbWVuc2lvbmFsIHNwYWNlLiBGb3IgZXhhbXBsZSwgaWYgYSA8aT5iYWcgb2YgaG9sZGluZzwvaT4gaXMgYnJvdWdodCBpbnRvIGEgPGk+cm9wZSB0cmljazwvaT4sIHRoZSBjb250ZW50cyBvZiB0aGUgPGk+YmFnIG9mIGhvbGRpbmc8L2k+IGJlY29tZSBpbmFjY2Vzc2libGUgdW50aWwgdGhlIDxpPmJhZyBvZiBob2xkaW5nPC9pPiBpcyB0YWtlbiBvdXRzaWRlIHRoZSByb3BlIHRyaWNrLiBUaGUgb25seSBleGNlcHRpb24gdG8gdGhpcyBpcyB3aGVuIGEgPGk+YmFnIG9mIGhvbGRpbmc8L2k+IGFuZCBhIDxpPnBvcnRhYmxlIGhvbGU8L2k+IGludGVyYWN0LCBmb3JtaW5nIGEgcmlmdCB0byB0aGUgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlJ1bGVzLmFzcHg/TmFtZT1Bc3RyYWwlMjBQbGFuZSZDYXRlZ29yeT1Fc290ZXJpYyUyMFBsYW5lcyI+QXN0cmFsIFBsYW5lPC9hPiwgYXMgbm90ZWQgaW4gdGhlaXIgZGVzY3JpcHRpb25zLmRkZFhpt3Elqj8YuQOdXbLR5ggavzgu7r+BknHOKncpZXt4" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=65">Items</a></u> / <u><a href="Rules.aspx?ID=365">Magic Items</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=375">Magic Item Descriptions</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 460</i></a><br />Each general type of magic item gets an overall description, followed by descriptions of specific items.<br /><br /> General descriptions include notes on activation, random generation, and other material. The AC, hardness, hit points, and break DC are given for typical examples of some magic items. The AC assumes that the item is unattended and includes a –5 penalty for the item’s effective Dexterity of 0. If a creature holds the item, use the creature’s Dexterity modifier in place of the –5 penalty.<br /><br /> Some individual items, notably those that just store spells, don’t get full-blown descriptions. Reference the spell’s description for details, modif ied by the form of the item (potion, scroll, wand, and so on). Assume that the spell is cast at the minimum level required to cast it. Items with full descriptions have their powers detailed, and each of the following topics is covered in notational form as part of its entry.<br /><br /> <b>Aura</b>: Most of the time, a <i>detect magic</i> spell reveals the school of magic associated with a magic item and the strength of the aura an item emits. This information (when applicable) is given at the beginning of the item’s notational entry. See the <i>detect magic</i> spell description for details.<br /><br /> <b>Caster Level (CL)</b>: The next item in a notational entry gives the caster level of the item, indicating its relative power. The caster level determines the item’s saving throw bonus, as well as range or other level-dependent aspects of the powers of the item (if variable). It also determines the level that must be contended with should the item come under the effect of a <i>dispel magic</i> spell or similar situation.<br /><br /> For potions, scrolls, and wands, the creator can set the caster level of an item at any number high enough to cast the stored spell but not higher than her own caster level. For other magic items, the caster level is determined by the item itself.<br /><br /> <b>Slot</b>: Most magic items can only be utilized if worn or wielded in their proper slots. If the item is stowed or placed elsewhere, it does not function. If the slot lists “none,” the item must be held or otherwise carried to function.<br /><br /> <b>Price</b>: This is the cost, in gold pieces, to purchase the item, if it is available for sale. Generally speaking, magic items can be sold by PCs for half this value.<br /><br /> <b>Weight</b>: This is the weight of an item. When a weight figure is not given, the item has no weight worth noting (for purposes of determining how much of a load a character can carry).<br /><br /><b>Description</b>: This section of a magic item describes the item’s powers and abilities. Potions, scrolls, staves, and wands refer to various spells as part of their descriptions (see Chapter 10 for details on these spells).<br /><br /> <b>Construction</b>: With the exception of artifacts, most magic items can be built by a spellcaster with the appropriate feats and prerequisites. This section describes those prerequisites.<br /><br /> <b>Requirements</b>: Certain requirements must be met in order for a character to create a magic item. These include feats, spells, and miscellaneous requirements such as level, alignment, and race or kind.<br /><br /> A spell prerequisite may be provided by a character who has prepared the spell (or who knows the spell, in the case of a sorcerer or bard), or through the use of a spell completion or spell trigger magic item or a spell-like ability that produces the desired spell effect. For each day that passes in the creation process, the creator must expend one spell completion item or one charge from a spell trigger item if either of those objects is used to supply a prerequisite.<br /><br /> It is possible for more than one character to cooperate in the creation of an item, with each participant providing one or more of the prerequisites. In some cases, cooperation may even be necessary.<br /><br /> If two or more characters cooperate to create an item, they must agree among themselves who will be considered the creator for the purpose of determinations where the creator’s level must be known.<br /><br /> <b>Cost</b>: This is the cost in gold pieces to create the item. Generally this cost is equal to half the price of an item, but additional material components might increase this number. The cost to create includes the costs derived from the base cost plus the costs of the components.<br /><h1 class="title"><a href="Rules.aspx?ID=2535">Extradimensional Spaces</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 501</i></a><br />A number of spells and magic items utilize extradimensional spaces, such as <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=rope trick"><i>rope trick</i></a>, a <a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Bag%20of%20HoldingType%20I"><i>bag of holding</i></a>, a <a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Handy%20Haversack"><i>handy haversack</i></a>, and a <a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Portable%20Hole"><i>portable hole</i></a>. These spells and magic items create a tiny pocket space that does not exist in any dimension. Such items do not function, however, inside another extradimensional space. If placed inside such a space, they cease to function until removed from the extradimensional space. For example, if a <i>bag of holding</i> is brought into a <i>rope trick</i>, the contents of the <i>bag of holding</i> become inaccessible until the <i>bag of holding</i> is taken outside the rope trick. The only exception to this is when a <i>bag of holding</i> and a <i>portable hole</i> interact, forming a rift to the <a style="text-decoration:underline" href="Rules.aspx?Name=Astral%20Plane&Category=Esoteric%20Planes">Astral Plane</a>, as noted in their descriptions.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

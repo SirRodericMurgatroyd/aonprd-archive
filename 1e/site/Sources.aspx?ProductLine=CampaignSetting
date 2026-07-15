@@ -1,0 +1,473 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Sources - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, Source, Book, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting, CampaignSetting" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Sources.aspx?ProductLine=CampaignSetting" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTQwMTYzMjM0Mw9kFgJmD2QWBAIBD2QWAgIHD2QWAgIBD2QWAmYPFgIeB2NvbnRlbnQFwRlBcmNoaXZlcywgTmV0aHlzLCBXaWtpLCBBcmNoaXZlcyBvZiBOZXRoeXMsIFBhdGhmaW5kZXIsIE9mZmljaWFsLCBBb04sIEFvTlBSRCwgUFJELCBQRlNSRCwgU291cmNlLCBCb29rLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nLCBDYW1wYWlnblNldHRpbmcsIENhbXBhaWduU2V0dGluZywgQ2FtcGFpZ25TZXR0aW5nZAIDD2QWAgIBD2QWBAIBDzwrABEDAA8WBB4LXyFEYXRhQm91bmRnHgtfIUl0ZW1Db3VudAJdZAEQFgFmFgE8KwAFAQAWAh4KSGVhZGVyVGV4dAUQQ2FtcGFpZ24gU2V0dGluZxYBAgQMFCsAABYCZg9kFrwBAgEPZBYEZg9kFgJmDw8WBB4EVGV4dAUaRHJ1bWEsIFByb2ZpdCBhbmQgUHJvcGhlY3keC05hdmlnYXRlVXJsBTlTb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9RHJ1bWEsIFByb2ZpdCBhbmQgUHJvcGhlY3lkZAIBDw8WAh8EBQg4LzEvMjAxOWRkAgIPZBYEZg9kFgJmDw8WBB8EBRVDb25jb3JkYW5jZSBvZiBSaXZhbHMfBQU0U291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPUNvbmNvcmRhbmNlIG9mIFJpdmFsc2RkAgEPDxYCHwQFCTQvMjQvMjAxOWRkAgMPZBYEZg9kFgJmDw8WBB8EBRJGYWl0aHMgb2YgR29sYXJpb24fBQUxU291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPUZhaXRocyBvZiBHb2xhcmlvbmRkAgEPDxYCHwQFCjEyLzEyLzIwMThkZAIED2QWBGYPZBYCZg8PFgQfBAUSQ29uc3RydWN0IEhhbmRib29rHwUFMVNvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1Db25zdHJ1Y3QgSGFuZGJvb2tkZAIBDw8WAh8EBQoxMS8xNC8yMDE4ZGQCBQ9kFgRmD2QWAmYPDxYEHwQFDkRpc3RhbnQgUmVhbG1zHwUFLVNvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1EaXN0YW50IFJlYWxtc2RkAgEPDxYCHwQFCTYvMTUvMjAxOGRkAgYPZBYEZg9kFgJmDw8WBB8EBRZOaWRhbCwgTGFuZCBvZiBTaGFkb3dzHwUFNVNvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1OaWRhbCwgTGFuZCBvZiBTaGFkb3dzZGQCAQ8PFgIfBAUJNC8xNS8yMDE4ZGQCBw9kFgRmD2QWAmYPDxYEHwQFEUlubmVyIFNlYSBUYXZlcm5zHwUFMFNvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1Jbm5lciBTZWEgVGF2ZXJuc2RkAgEPDxYCHwQFCTIvMjgvMjAxOGRkAggPZBYEZg9kFgJmDw8WBB8EBRhUYWxkb3IsIHRoZSBGaXJzdCBFbXBpcmUfBQU3U291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPVRhbGRvciwgdGhlIEZpcnN0IEVtcGlyZWRkAgEPDxYCHwQFCjEyLzEzLzIwMTdkZAIJD2QWBGYPZBYCZg8PFgQfBAUSQXF1YXRpYyBBZHZlbnR1cmVzHwUFMVNvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1BcXVhdGljIEFkdmVudHVyZXNkZAIBDw8WAh8EBQk2LzE0LzIwMTdkZAIKD2QWBGYPZBYCZg8PFgQfBAURTGFuZHMgb2YgQ29uZmxpY3QfBQUwU291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPUxhbmRzIG9mIENvbmZsaWN0ZGQCAQ8PFgIfBAUJMi8yMi8yMDE3ZGQCCw9kFgRmD2QWAmYPDxYEHwQFGVFhZGlyYSwgSmV3ZWwgb2YgdGhlIEVhc3QfBQU4U291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPVFhZGlyYSwgSmV3ZWwgb2YgdGhlIEVhc3RkZAIBDw8WAh8EBQkxLzI1LzIwMTdkZAIMD2QWBGYPZBYCZg8PFgQfBAUhVGhlIEZpcnN0IFdvcmxkLCBSZWFsbSBvZiB0aGUgRmV5HwUFQFNvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1UaGUgRmlyc3QgV29ybGQsIFJlYWxtIG9mIHRoZSBGZXlkZAIBDw8WAh8EBQoxMi8xNC8yMDE2ZGQCDQ9kFgRmD2QWAmYPDxYEHwQFDUhvcnJvciBSZWFsbXMfBQUsU291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPUhvcnJvciBSZWFsbXNkZAIBDw8WAh8EBQoxMS8yMS8yMDE2ZGQCDg9kFgRmD2QWAmYPDxYEHwQFEUlubmVyIFNlYSBUZW1wbGVzHwUFMFNvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1Jbm5lciBTZWEgVGVtcGxlc2RkAgEPDxYCHwQFCjEwLzE1LzIwMTZkZAIPD2QWBGYPZBYCZg8PFgQfBAUPUGxhbmVzIG9mIFBvd2VyHwUFLlNvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1QbGFuZXMgb2YgUG93ZXJkZAIBDw8WAh8EBQk5LzI4LzIwMTZkZAIQD2QWBGYPZBYCZg8PFgQfBAUWUGF0aCBvZiB0aGUgSGVsbGtuaWdodB8FBTVTb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9UGF0aCBvZiB0aGUgSGVsbGtuaWdodGRkAgEPDxYCHwQFCTYvMjcvMjAxNmRkAhEPZBYEZg9kFgJmDw8WBB8EBRJJbm5lciBTZWEgSW50cmlndWUfBQUxU291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPUlubmVyIFNlYSBJbnRyaWd1ZWRkAgEPDxYCHwQFCTUvMjcvMjAxNmRkAhIPZBYEZg9kFgJmDw8WBB8EBRBIZWF2ZW4gVW5sZWFzaGVkHwUFL1NvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1IZWF2ZW4gVW5sZWFzaGVkZGQCAQ8PFgIfBAUJNC8yNy8yMDE2ZGQCEw9kFgRmD2QWAmYPDxYEHwQFEElubmVyIFNlYSBGYWl0aHMfBQUvU291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPUlubmVyIFNlYSBGYWl0aHNkZAIBDw8WAh8EBQkzLzIzLzIwMTZkZAIUD2QWBGYPZBYCZg8PFgQfBAUTRGFya2xhbmRzIFJldmlzaXRlZB8FBTJTb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9RGFya2xhbmRzIFJldmlzaXRlZGRkAgEPDxYCHwQFCTIvMjQvMjAxNmRkAhUPZBYEZg9kFgJmDw8WBB8EBRxDaGVsaWF4LCB0aGUgSW5mZXJuYWwgRW1waXJlHwUFO1NvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1DaGVsaWF4LCB0aGUgSW5mZXJuYWwgRW1waXJlZGQCAQ8PFgIfBAUKMTIvMTYvMjAxNWRkAhYPZBYEZg9kFgJmDw8WBB8EBQ1PY2N1bHQgUmVhbG1zHwUFLFNvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1PY2N1bHQgUmVhbG1zZGQCAQ8PFgIfBAUKMTEvMTgvMjAxNWRkAhcPZBYEZg9kFgJmDw8WBB8EBQ5EaXN0YW50IFNob3Jlcx8FBS1Tb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9RGlzdGFudCBTaG9yZXNkZAIBDw8WAh8EBQoxMC8yMS8yMDE1ZGQCGA9kFgRmD2QWAmYPDxYEHwQFD0lubmVyIFNlYSBSYWNlcx8FBS5Tb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9SW5uZXIgU2VhIFJhY2VzZGQCAQ8PFgIfBAUJOS8zMC8yMDE1ZGQCGQ9kFgRmD2QWAmYPDxYEHwQFD09jY3VsdCBCZXN0aWFyeR8FBS5Tb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9T2NjdWx0IEJlc3RpYXJ5ZGQCAQ8PFgIfBAUJOC8yOS8yMDE1ZGQCGg9kFgRmD2QWAmYPDxYEHwQFDkhlbGwgVW5sZWFzaGVkHwUFLVNvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1IZWxsIFVubGVhc2hlZGRkAgEPDxYCHwQFCTcvMjkvMjAxNWRkAhsPZBYEZg9kFgJmDw8WBB8EBRdJbm5lciBTZWEgTW9uc3RlciBDb2RleB8FBTZTb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9SW5uZXIgU2VhIE1vbnN0ZXIgQ29kZXhkZAIBDw8WAh8EBQk2LzI5LzIwMTVkZAIcD2QWBGYPZBYCZg8PFgQfBAUeQW5kb3JhbiwgQmlydGhwbGFjZSBvZiBGcmVlZG9tHwUFPVNvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1BbmRvcmFuLCBCaXJ0aHBsYWNlIG9mIEZyZWVkb21kZAIBDw8WAh8EBQk1LzI5LzIwMTVkZAIdD2QWBGYPZBYCZg8PFgQfBAURVG9tYnMgb2YgR29sYXJpb24fBQUwU291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPVRvbWJzIG9mIEdvbGFyaW9uZGQCAQ8PFgIfBAUJMy8xNS8yMDE1ZGQCHg9kFgRmD2QWAmYPDxYEHwQFH0JlbGt6ZW4sIEhvbGQgb2YgdGhlIE9yYyBIb3JkZXMfBQU+U291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPUJlbGt6ZW4sIEhvbGQgb2YgdGhlIE9yYyBIb3JkZXNkZAIBDw8WAh8EBQkxLzE3LzIwMTVkZAIfD2QWBGYPZBYCZg8PFgQfBAUOTG9zdCBUcmVhc3VyZXMfBQUtU291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPUxvc3QgVHJlYXN1cmVzZGQCAQ8PFgIfBAUKMTIvMTcvMjAxNGRkAiAPZBYEZg9kFgJmDw8WBB8EBRZTaGlwcyBvZiB0aGUgSW5uZXIgU2VhHwUFNVNvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1TaGlwcyBvZiB0aGUgSW5uZXIgU2VhZGQCAQ8PFgIfBAUKMTAvMjIvMjAxNGRkAiEPZBYEZg9kFgJmDw8WBB8EBRBVbmRlYWQgVW5sZWFzaGVkHwUFL1NvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1VbmRlYWQgVW5sZWFzaGVkZGQCAQ8PFgIfBAUJOS8xMC8yMDE0ZGQCIg9kFgRmD2QWAmYPDxYEHwQFEFRlY2hub2xvZ3kgR3VpZGUfBQUvU291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPVRlY2hub2xvZ3kgR3VpZGVkZAIBDw8WAh8EBQk4LzE0LzIwMTRkZAIjD2QWBGYPZBYCZg8PFgQfBAUdTnVtZXJpYSwgTGFuZCBvZiBGYWxsZW4gU3RhcnMfBQU8U291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPU51bWVyaWEsIExhbmQgb2YgRmFsbGVuIFN0YXJzZGQCAQ8PFgIfBAUJNi8yNS8yMDE0ZGQCJA9kFgRmD2QWAmYPDxYEHwQFEE9jY3VsdCBNeXN0ZXJpZXMfBQUvU291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPU9jY3VsdCBNeXN0ZXJpZXNkZAIBDw8WAh8EBQk1LzI4LzIwMTRkZAIlD2QWBGYPZBYCZg8PFgQfBAUQSW5uZXIgU2VhIENvbWJhdB8FBS9Tb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9SW5uZXIgU2VhIENvbWJhdGRkAgEPDxYCHwQFCTQvMzAvMjAxNGRkAiYPZBYEZg9kFgJmDw8WBB8EBQ5Jbm5lciBTZWEgR29kcx8FBS1Tb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9SW5uZXIgU2VhIEdvZHNkZAIBDw8WAh8EBQk0LzMwLzIwMTRkZAInD2QWBGYPZBYCZg8PFgQfBAUfT3NpcmlvbiwgTGVnYWN5IG9mIHRoZSBQaGFyYW9ocx8FBT5Tb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9T3NpcmlvbiwgTGVnYWN5IG9mIHRoZSBQaGFyYW9oc2RkAgEPDxYCHwQFCDEvOS8yMDE0ZGQCKA9kFgRmD2QWAmYPDxYEHwQFE0lubmVyIFNlYSBOUEMgQ29kZXgfBQUyU291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPUlubmVyIFNlYSBOUEMgQ29kZXhkZAIBDw8WAh8EBQoxMi8xMS8yMDEzZGQCKQ9kFgRmD2QWAmYPDxYEHwQFFlRvd25zIG9mIHRoZSBJbm5lciBTZWEfBQU1U291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPVRvd25zIG9mIHRoZSBJbm5lciBTZWFkZAIBDw8WAh8EBQoxMC8yMS8yMDEzZGQCKg9kFgRmD2QWAmYPDxYEHwQFDU15dGhpYyBSZWFsbXMfBQUsU291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPU15dGhpYyBSZWFsbXNkZAIBDw8WAh8EBQk5LzI1LzIwMTNkZAIrD2QWBGYPZBYCZg8PFgQfBAUQRGVtb25zIFJldmlzaXRlZB8FBS9Tb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9RGVtb25zIFJldmlzaXRlZGRkAgEPDxYCHwQFCTgvMTkvMjAxM2RkAiwPZBYEZg9kFgJmDw8WBB8EBQ5UaGUgV29ybGR3b3VuZB8FBS1Tb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9VGhlIFdvcmxkd291bmRkZAIBDw8WAh8EBQk3LzExLzIwMTNkZAItD2QWBGYPZBYCZg8PFgQfBAUYQ2FzdGxlcyBvZiB0aGUgSW5uZXIgU2VhHwUFN1NvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1DYXN0bGVzIG9mIHRoZSBJbm5lciBTZWFkZAIBDw8WAh8EBQk2LzEzLzIwMTNkZAIuD2QWBGYPZBYCZg8PFgQfBAURRHJhZ29ucyBVbmxlYXNoZWQfBQUwU291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPURyYWdvbnMgVW5sZWFzaGVkZGQCAQ8PFgIfBAUJNi8xMy8yMDEzZGQCLw9kFgRmD2QWAmYPDxYEHwQFDUZleSBSZXZpc2l0ZWQfBQUsU291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPUZleSBSZXZpc2l0ZWRkZAIBDw8WAh8EBQk1LzE3LzIwMTNkZAIwD2QWBGYPZBYCZg8PFgQfBAUaQ2hyb25pY2xlIG9mIHRoZSBSaWdodGVvdXMfBQU5U291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPUNocm9uaWNsZSBvZiB0aGUgUmlnaHRlb3VzZGQCAQ8PFgIfBAUJNS8xNy8yMDEzZGQCMQ9kFgRmD2QWAmYPDxYEHwQFIElycmlzZW4gLSBMYW5kIG9mIEV0ZXJuYWwgV2ludGVyHwUFP1NvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1JcnJpc2VuIC0gTGFuZCBvZiBFdGVybmFsIFdpbnRlcmRkAgEPDxYCHwQFCTEvMjIvMjAxM2RkAjIPZBYEZg9kFgJmDw8WBB8EBRpNeXN0ZXJ5IE1vbnN0ZXJzIFJldmlzaXRlZB8FBTlTb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9TXlzdGVyeSBNb25zdGVycyBSZXZpc2l0ZWRkZAIBDw8WAh8EBQkxMi82LzIwMTJkZAIzD2QWBGYPZBYCZg8PFgQfBAUSSW5uZXIgU2VhIEJlc3RpYXJ5HwUFMVNvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1Jbm5lciBTZWEgQmVzdGlhcnlkZAIBDw8WAh8EBQoxMS8xNS8yMDEyZGQCNA9kFgRmD2QWAmYPDxYEHwQFFUFydGlmYWN0cyBhbmQgTGVnZW5kcx8FBTRTb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9QXJ0aWZhY3RzIGFuZCBMZWdlbmRzZGQCAQ8PFgIfBAUIOS8xLzIwMTJkZAI1D2QWBGYPZBYCZg8PFgQfBAURUGF0aHMgb2YgUHJlc3RpZ2UfBQUwU291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPVBhdGhzIG9mIFByZXN0aWdlZGQCAQ8PFgIfBAUIOC8xLzIwMTJkZAI2D2QWBGYPZBYCZg8PFgQfBAUbTWFnbmltYXIsIENpdHkgb2YgTW9udW1lbnRzHwUFOlNvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1NYWduaW1hciwgQ2l0eSBvZiBNb251bWVudHNkZAIBDw8WAh8EBQg3LzEvMjAxMmRkAjcPZBYEZg9kFgJmDw8WBB8EBQ1Mb3N0IEtpbmdkb21zHwUFLFNvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1Mb3N0IEtpbmdkb21zZGQCAQ8PFgIfBAUINi8xLzIwMTJkZAI4D2QWBGYPZBYCZg8PFgQfBAUQR2lhbnRzIFJldmlzaXRlZB8FBS9Tb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9R2lhbnRzIFJldmlzaXRlZGRkAgEPDxYCHwQFCDUvMS8yMDEyZGQCOQ9kFgRmD2QWAmYPDxYEHwQFFUlzbGVzIG9mIHRoZSBTaGFja2xlcx8FBTRTb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9SXNsZXMgb2YgdGhlIFNoYWNrbGVzZGQCAQ8PFgIfBAUINC8xLzIwMTJkZAI6D2QWBGYPZBYCZg8PFgQfBAUORGlzdGFudCBXb3JsZHMfBQUtU291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPURpc3RhbnQgV29ybGRzZGQCAQ8PFgIfBAUIMy8xLzIwMTJkZAI7D2QWBGYPZBYCZg8PFgQfBAUbTXl0aGljYWwgTW9uc3RlcnMgUmV2aXNpdGVkHwUFOlNvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1NeXRoaWNhbCBNb25zdGVycyBSZXZpc2l0ZWRkZAIBDw8WAh8EBQgyLzEvMjAxMmRkAjwPZBYEZg9kFgJmDw8WBB8EBRhEcmFnb24gRW1waXJlcyBHYXpldHRlZXIfBQU3U291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPURyYWdvbiBFbXBpcmVzIEdhemV0dGVlcmRkAgEPDxYCHwQFCDEvMS8yMDEyZGQCPQ9kFgRmD2QWAmYPDxYEHwQFOUJvb2sgb2YgdGhlIERhbW5lZCAtIFZvbHVtZSAzOiBIb3JzZW1lbiBvZiB0aGUgQXBvY2FseXBzZR8FBVhTb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9Qm9vayBvZiB0aGUgRGFtbmVkIC0gVm9sdW1lIDMgIEhvcnNlbWVuIG9mIHRoZSBBcG9jYWx5cHNlZGQCAQ8PFgIfBAUJMTIvMS8yMDExZGQCPg9kFgRmD2QWAmYPDxYEHwQFGkxhbmRzIG9mIHRoZSBMaW5ub3JtIEtpbmdzHwUFOVNvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1MYW5kcyBvZiB0aGUgTGlubm9ybSBLaW5nc2RkAgEPDxYCHwQFCTEwLzEvMjAxMWRkAj8PZBYEZg9kFgJmDw8WBB8EBR5QYXRoZmluZGVyIFNvY2lldHkgRmllbGQgR3VpZGUfBQU9U291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPVBhdGhmaW5kZXIgU29jaWV0eSBGaWVsZCBHdWlkZWRkAgEPDxYCHwQFCTcvMjcvMjAxMWRkAkAPZBYEZg9kFgJmDw8WBB8EBQ9Jbm5lciBTZWEgTWFnaWMfBQUuU291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPUlubmVyIFNlYSBNYWdpY2RkAgEPDxYCHwQFCTcvMjcvMjAxMWRkAkEPZBYEZg9kFgJmDw8WBB8EBRREdW5nZW9ucyBvZiBHb2xhcmlvbh8FBTNTb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9RHVuZ2VvbnMgb2YgR29sYXJpb25kZAIBDw8WAh8EBQg3LzYvMjAxMWRkAkIPZBYEZg9kFgJmDw8WBB8EBRBVbmRlYWQgUmV2aXNpdGVkHwUFL1NvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1VbmRlYWQgUmV2aXNpdGVkZGQCAQ8PFgIfBAUJNi8xMC8yMDExZGQCQw9kFgRmD2QWAmYPDxYEHwQFC1JpdmFsIEd1aWRlHwUFKlNvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1SaXZhbCBHdWlkZWRkAgEPDxYCHwQFCTUvMTAvMjAxMWRkAkQPZBYEZg9kFgJmDw8WBB8EBQxSdWxlIG9mIEZlYXIfBQUrU291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPVJ1bGUgb2YgRmVhcmRkAgEPDxYCHwQFCDQvMS8yMDExZGQCRQ9kFgRmD2QWAmYPDxYEHwQFFUlubmVyIFNlYSBXb3JsZCBHdWlkZR8FBTRTb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9SW5uZXIgU2VhIFdvcmxkIEd1aWRlZGQCAQ8PFgIfBAUIMy8xLzIwMTFkZAJGD2QWBGYPZBYCZg8PFgQfBAUXTG9zdCBDaXRpZXMgb2YgR29sYXJpb24fBQU2U291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPUxvc3QgQ2l0aWVzIG9mIEdvbGFyaW9uZGQCAQ8PFgIfBAUIMS8xLzIwMTFkZAJHD2QWBGYPZBYCZg8PFgQfBAUtQm9vayBvZiB0aGUgRGFtbmVkIC0gVm9sdW1lIDI6IExvcmRzIG9mIENoYW9zHwUFTFNvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1Cb29rIG9mIHRoZSBEYW1uZWQgLSBWb2x1bWUgMiAgTG9yZHMgb2YgQ2hhb3NkZAIBDw8WAh8EBQkxMi8xLzIwMTBkZAJID2QWBGYPZBYCZg8PFgQfBAUYTWlzZml0IE1vbnN0ZXJzIFJlZGVlbWVkHwUFN1NvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1NaXNmaXQgTW9uc3RlcnMgUmVkZWVtZWRkZAIBDw8WAh8EBQkxMC8xLzIwMTBkZAJJD2QWBGYPZBYCZg8PFgQfBAURQ2l0eSBvZiBTdHJhbmdlcnMfBQUwU291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPUNpdHkgb2YgU3RyYW5nZXJzZGQCAQ8PFgIfBAUJNi8zMC8yMDEwZGQCSg9kFgRmD2QWAmYPDxYEHwQFE0hlYXJ0IG9mIHRoZSBKdW5nbGUfBQUyU291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPUhlYXJ0IG9mIHRoZSBKdW5nbGVkZAIBDw8WAh8EBQg2LzEvMjAxMGRkAksPZBYEZg9kFgJmDw8WBB8EBQ1GYWN0aW9uIEd1aWRlHwUFLFNvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1GYWN0aW9uIEd1aWRlZGQCAQ8PFgIfBAUINS8xLzIwMTBkZAJMD2QWBGYPZBYCZg8PFgQfBAUbQ2xhc3NpYyBUcmVhc3VyZXMgUmV2aXNpdGVkHwUFOlNvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1DbGFzc2ljIFRyZWFzdXJlcyBSZXZpc2l0ZWRkZAIBDw8WAh8EBQg0LzEvMjAxMGRkAk0PZBYEZg9kFgJmDw8WBB8EBQlOUEMgR3VpZGUfBQUoU291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPU5QQyBHdWlkZWRkAgEPDxYCHwQFCDMvMS8yMDEwZGQCTg9kFgRmD2QWAmYPDxYEHwQFG0d1aWRlIHRvIHRoZSBSaXZlciBLaW5nZG9tcx8FBTpTb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9R3VpZGUgdG8gdGhlIFJpdmVyIEtpbmdkb21zZGQCAQ8PFgIfBAUIMi8xLzIwMTBkZAJPD2QWBGYPZBYCZg8PFgQfBAUZQ2xhc3NpYyBIb3Jyb3JzIFJldmlzaXRlZB8FBThTb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9Q2xhc3NpYyBIb3Jyb3JzIFJldmlzaXRlZGRkAgEPDxYCHwQFCDEvMS8yMDEwZGQCUA9kFgRmD2QWAmYPDxYEHwQFEkNpdGllcyBvZiBHb2xhcmlvbh8FBTFTb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9Q2l0aWVzIG9mIEdvbGFyaW9uZGQCAQ8PFgIfBAUJMTEvMS8yMDA5ZGQCUQ9kFgRmD2QWAmYPDxYEHwQFMkJvb2sgb2YgdGhlIERhbW5lZCAtIFZvbHVtZSAxOiBQcmluY2VzIG9mIERhcmtuZXNzHwUFUVNvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1Cb29rIG9mIHRoZSBEYW1uZWQgLSBWb2x1bWUgMSAgUHJpbmNlcyBvZiBEYXJrbmVzc2RkAgEPDxYCHwQFCTEwLzEvMjAwOWRkAlIPZBYEZg9kFgJmDw8WBB8EBRJTZWVrZXJzIG9mIFNlY3JldHMfBQUxU291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPVNlZWtlcnMgb2YgU2VjcmV0c2RkAgEPDxYCHwQFCTEwLzEvMjAwOWRkAlMPZBYEZg9kFgJmDw8WBB8EBRpEdW5nZW9uIERlbml6ZW5zIFJldmlzaXRlZB8FBTlTb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9RHVuZ2VvbiBEZW5pemVucyBSZXZpc2l0ZWRkZAIBDw8WAh8EBQg3LzEvMjAwOWRkAlQPZBYEZg9kFgJmDw8WBB8EBSxUaGUgR3JlYXQgQmV5b25kIC0gQSBHdWlkZSB0byB0aGUgTXVsdGl2ZXJzZR8FBUtTb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9VGhlIEdyZWF0IEJleW9uZCAtIEEgR3VpZGUgdG8gdGhlIE11bHRpdmVyc2VkZAIBDw8WAh8EBQg2LzEvMjAwOWRkAlUPZBYEZg9kFgJmDw8WBB8EBSJEYXJrIE1hcmtldHMgLSBBIEd1aWRlIHRvIEthdGFwZXNoHwUFQVNvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1EYXJrIE1hcmtldHMgLSBBIEd1aWRlIHRvIEthdGFwZXNoZGQCAQ8PFgIfBAUINC8xLzIwMDlkZAJWD2QWBGYPZBYCZg8PFgQfBAURRHJhZ29ucyBSZXZpc2l0ZWQfBQUwU291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPURyYWdvbnMgUmV2aXNpdGVkZGQCAQ8PFgIfBAUIMy8xLzIwMDlkZAJXD2QWBGYPZBYCZg8PFgQfBAUQR3VpZGUgdG8gQWJzYWxvbR8FBS9Tb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9R3VpZGUgdG8gQWJzYWxvbWRkAgEPDxYCHwQFCTEyLzEvMjAwOGRkAlgPZBYEZg9kFgJmDw8WBB8EBRJJbnRvIHRoZSBEYXJrbGFuZHMfBQUxU291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPUludG8gdGhlIERhcmtsYW5kc2RkAgEPDxYCHwQFCTExLzEvMjAwOGRkAlkPZBYEZg9kFgJmDw8WBB8EBQ5Hb2RzIGFuZCBNYWdpYx8FBS1Tb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9R29kcyBhbmQgTWFnaWNkZAIBDw8WAh8EBQkxMC8xLzIwMDhkZAJaD2QWBGYPZBYCZg8PFgQfBAUbUGF0aGZpbmRlciBDYW1wYWlnbiBTZXR0aW5nHwUFOlNvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1QYXRoZmluZGVyIENhbXBhaWduIFNldHRpbmdkZAIBDw8WAh8EBQg5LzEvMjAwOGRkAlsPZBYEZg9kFgJmDw8WBB8EBRZHdWlkZSB0byBEYXJrbW9vbiBWYWxlHwUFNVNvdXJjZURpc3BsYXkuYXNweD9GaXhlZFNvdXJjZT1HdWlkZSB0byBEYXJrbW9vbiBWYWxlZGQCAQ8PFgIfBAUIOC8xLzIwMDhkZAJcD2QWBGYPZBYCZg8PFgQfBAUaQ2xhc3NpYyBNb25zdGVycyBSZXZpc2l0ZWQfBQU5U291cmNlRGlzcGxheS5hc3B4P0ZpeGVkU291cmNlPUNsYXNzaWMgTW9uc3RlcnMgUmV2aXNpdGVkZGQCAQ8PFgIfBAUINy8xLzIwMDhkZAJdD2QWBGYPZBYCZg8PFgQfBAUQR3VpZGUgdG8gS29ydm9zYR8FBS9Tb3VyY2VEaXNwbGF5LmFzcHg/Rml4ZWRTb3VyY2U9R3VpZGUgdG8gS29ydm9zYWRkAgEPDxYCHwQFCDYvMS8yMDA4ZGQCXg8PFgIeB1Zpc2libGVoZGQCAw8PZDwrAAYBABAWAWYWARYCHg5QYXJhbWV0ZXJWYWx1ZQUPQ2FtcGFpZ25TZXR0aW5nFgECBGQYAQUhY3RsMDAkTWFpbkNvbnRlbnQkR3JpZFZpZXdTb3VyY2VzDzwrAAwDBhUBCFNvdXJjZUlkBxQrAF0UKwABAuEDFCsAAQLaAxQrAAECygMUKwABAscDFCsAAQK6AxQrAAECtgMUKwABArIDFCsAAQKsAxQrAAECjQMUKwABAoADFCsAAQL9AhQrAAEC+gIUKwABAvYCFCsAAQL3AhQrAAEC7wIUKwABAucCFCsAAQLjAhQrAAEC4AIUKwABAtwCFCsAAQLYAhQrAAEC0gIUKwABAs4CFCsAAQLIAhQrAAECxgIUKwABAsECFCsAAQK9AhQrAAECugIUKwABArcCFCsAAQKuAhQrAAECqQIUKwABAqYCFCsAAQKfAhQrAAECmgIUKwABApcCFCsAAQKRAhQrAAECjgIUKwABAocCFCsAAQKMAhQrAAEC/gEUKwABAvsBFCsAAQL3ARQrAAEC8wEUKwABAu0BFCsAAQLlARQrAAEC3gEUKwABAt8BFCsAAQLaARQrAAEC2wEUKwABAs4BFCsAAQLLARQrAAECyAEUKwABAsABFCsAAQKyARQrAAECsQEUKwABArABFCsAAQKvARQrAAECrgEUKwABAq0BFCsAAQKsARQrAAECqwEUKwABAqoBFCsAAQKpARQrAAEClAEUKwABApUBFCsAAQKOARQrAAECiAEUKwABAoUBFCsAAQKBARQrAAECfhQrAAECeBQrAAECdRQrAAECcBQrAAECZxQrAAECYhQrAAECXxQrAAECWxQrAAECWBQrAAECVRQrAAECUhQrAAECTRQrAAECSRQrAAECShQrAAECPxQrAAECOxQrAAECNhQrAAECMhQrAAECKhQrAAECJxQrAAECIxQrAAECIBQrAAECHBQrAAECGBQrAAECFQgCAWQqQJyNnha73YwT60oWkrm5ZS4GYH0Cq049jEHrlpmHxA==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="4C0E1C06" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <h2 style="text-align: center"><a href="Sources.aspx?ProductLine=AdventurePath"><b>Adventure Path</b></a> | 
+                                   <a href="Sources.aspx?ProductLine=CampaignSetting"><b>Campaign Setting</b></a> | 
+                                   <a href="Sources.aspx?ProductLine=Module"><b>Module</b></a> | 
+                                   <a href="Sources.aspx?ProductLine=PlayerCompanion"><b>Player Companion</b></a> | 
+                                   <a href="Sources.aspx?ProductLine=RPG"><b>RPG</b></a></h2>
+        <h2 style="text-align: center"><a href="Sources.aspx?ProductLine=Misc"><b>Miscellaneous</b></a></h2><hr />
+
+    <b>Note</b>: Selecting a specific Source shows all the items pulled from that source. Doing this requires checking all the various tables in the database, and may take a few minutes. Please be patient.<br /><br />
+    <div>
+	<table cellspacing="0" cellpadding="3" rules="cols" id="MainContent_GridViewSources" style="color:Black;background-color:White;border-color:#999999;border-width:1px;border-style:Solid;border-collapse:collapse;float:left;">
+		<tr style="color:White;background-color:Black;font-weight:bold;">
+			<th scope="col">Campaign Setting</th><th scope="col">Estimated Release Date</th>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Druma, Profit and Prophecy">Druma, Profit and Prophecy</a></td><td>8/1/2019</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Concordance of Rivals">Concordance of Rivals</a></td><td>4/24/2019</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Faiths of Golarion">Faiths of Golarion</a></td><td>12/12/2018</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Construct Handbook">Construct Handbook</a></td><td>11/14/2018</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Distant Realms">Distant Realms</a></td><td>6/15/2018</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Nidal, Land of Shadows">Nidal, Land of Shadows</a></td><td>4/15/2018</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Inner Sea Taverns">Inner Sea Taverns</a></td><td>2/28/2018</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Taldor, the First Empire">Taldor, the First Empire</a></td><td>12/13/2017</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Aquatic Adventures">Aquatic Adventures</a></td><td>6/14/2017</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Lands of Conflict">Lands of Conflict</a></td><td>2/22/2017</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Qadira, Jewel of the East">Qadira, Jewel of the East</a></td><td>1/25/2017</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=The First World, Realm of the Fey">The First World, Realm of the Fey</a></td><td>12/14/2016</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Horror Realms">Horror Realms</a></td><td>11/21/2016</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Inner Sea Temples">Inner Sea Temples</a></td><td>10/15/2016</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Planes of Power">Planes of Power</a></td><td>9/28/2016</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Path of the Hellknight">Path of the Hellknight</a></td><td>6/27/2016</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Inner Sea Intrigue">Inner Sea Intrigue</a></td><td>5/27/2016</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Heaven Unleashed">Heaven Unleashed</a></td><td>4/27/2016</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Inner Sea Faiths">Inner Sea Faiths</a></td><td>3/23/2016</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Darklands Revisited">Darklands Revisited</a></td><td>2/24/2016</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Cheliax, the Infernal Empire">Cheliax, the Infernal Empire</a></td><td>12/16/2015</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Occult Realms">Occult Realms</a></td><td>11/18/2015</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Distant Shores">Distant Shores</a></td><td>10/21/2015</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Inner Sea Races">Inner Sea Races</a></td><td>9/30/2015</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Occult Bestiary">Occult Bestiary</a></td><td>8/29/2015</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Hell Unleashed">Hell Unleashed</a></td><td>7/29/2015</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Inner Sea Monster Codex">Inner Sea Monster Codex</a></td><td>6/29/2015</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Andoran, Birthplace of Freedom">Andoran, Birthplace of Freedom</a></td><td>5/29/2015</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Tombs of Golarion">Tombs of Golarion</a></td><td>3/15/2015</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Belkzen, Hold of the Orc Hordes">Belkzen, Hold of the Orc Hordes</a></td><td>1/17/2015</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Lost Treasures">Lost Treasures</a></td><td>12/17/2014</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Ships of the Inner Sea">Ships of the Inner Sea</a></td><td>10/22/2014</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Undead Unleashed">Undead Unleashed</a></td><td>9/10/2014</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Technology Guide">Technology Guide</a></td><td>8/14/2014</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Numeria, Land of Fallen Stars">Numeria, Land of Fallen Stars</a></td><td>6/25/2014</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Occult Mysteries">Occult Mysteries</a></td><td>5/28/2014</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Inner Sea Combat">Inner Sea Combat</a></td><td>4/30/2014</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Inner Sea Gods">Inner Sea Gods</a></td><td>4/30/2014</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Osirion, Legacy of the Pharaohs">Osirion, Legacy of the Pharaohs</a></td><td>1/9/2014</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Inner Sea NPC Codex">Inner Sea NPC Codex</a></td><td>12/11/2013</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Towns of the Inner Sea">Towns of the Inner Sea</a></td><td>10/21/2013</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Mythic Realms">Mythic Realms</a></td><td>9/25/2013</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Demons Revisited">Demons Revisited</a></td><td>8/19/2013</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=The Worldwound">The Worldwound</a></td><td>7/11/2013</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Castles of the Inner Sea">Castles of the Inner Sea</a></td><td>6/13/2013</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Dragons Unleashed">Dragons Unleashed</a></td><td>6/13/2013</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Fey Revisited">Fey Revisited</a></td><td>5/17/2013</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Chronicle of the Righteous">Chronicle of the Righteous</a></td><td>5/17/2013</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Irrisen - Land of Eternal Winter">Irrisen - Land of Eternal Winter</a></td><td>1/22/2013</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Mystery Monsters Revisited">Mystery Monsters Revisited</a></td><td>12/6/2012</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Inner Sea Bestiary">Inner Sea Bestiary</a></td><td>11/15/2012</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Artifacts and Legends">Artifacts and Legends</a></td><td>9/1/2012</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Paths of Prestige">Paths of Prestige</a></td><td>8/1/2012</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Magnimar, City of Monuments">Magnimar, City of Monuments</a></td><td>7/1/2012</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Lost Kingdoms">Lost Kingdoms</a></td><td>6/1/2012</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Giants Revisited">Giants Revisited</a></td><td>5/1/2012</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Isles of the Shackles">Isles of the Shackles</a></td><td>4/1/2012</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Distant Worlds">Distant Worlds</a></td><td>3/1/2012</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Mythical Monsters Revisited">Mythical Monsters Revisited</a></td><td>2/1/2012</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Dragon Empires Gazetteer">Dragon Empires Gazetteer</a></td><td>1/1/2012</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Book of the Damned - Volume 3  Horsemen of the Apocalypse">Book of the Damned - Volume 3: Horsemen of the Apocalypse</a></td><td>12/1/2011</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Lands of the Linnorm Kings">Lands of the Linnorm Kings</a></td><td>10/1/2011</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Pathfinder Society Field Guide">Pathfinder Society Field Guide</a></td><td>7/27/2011</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Inner Sea Magic">Inner Sea Magic</a></td><td>7/27/2011</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Dungeons of Golarion">Dungeons of Golarion</a></td><td>7/6/2011</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Undead Revisited">Undead Revisited</a></td><td>6/10/2011</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Rival Guide">Rival Guide</a></td><td>5/10/2011</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Rule of Fear">Rule of Fear</a></td><td>4/1/2011</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Inner Sea World Guide">Inner Sea World Guide</a></td><td>3/1/2011</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Lost Cities of Golarion">Lost Cities of Golarion</a></td><td>1/1/2011</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Book of the Damned - Volume 2  Lords of Chaos">Book of the Damned - Volume 2: Lords of Chaos</a></td><td>12/1/2010</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Misfit Monsters Redeemed">Misfit Monsters Redeemed</a></td><td>10/1/2010</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=City of Strangers">City of Strangers</a></td><td>6/30/2010</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Heart of the Jungle">Heart of the Jungle</a></td><td>6/1/2010</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Faction Guide">Faction Guide</a></td><td>5/1/2010</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Classic Treasures Revisited">Classic Treasures Revisited</a></td><td>4/1/2010</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=NPC Guide">NPC Guide</a></td><td>3/1/2010</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Guide to the River Kingdoms">Guide to the River Kingdoms</a></td><td>2/1/2010</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Classic Horrors Revisited">Classic Horrors Revisited</a></td><td>1/1/2010</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Cities of Golarion">Cities of Golarion</a></td><td>11/1/2009</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Book of the Damned - Volume 1  Princes of Darkness">Book of the Damned - Volume 1: Princes of Darkness</a></td><td>10/1/2009</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Seekers of Secrets">Seekers of Secrets</a></td><td>10/1/2009</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Dungeon Denizens Revisited">Dungeon Denizens Revisited</a></td><td>7/1/2009</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=The Great Beyond - A Guide to the Multiverse">The Great Beyond - A Guide to the Multiverse</a></td><td>6/1/2009</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Dark Markets - A Guide to Katapesh">Dark Markets - A Guide to Katapesh</a></td><td>4/1/2009</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Dragons Revisited">Dragons Revisited</a></td><td>3/1/2009</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Guide to Absalom">Guide to Absalom</a></td><td>12/1/2008</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Into the Darklands">Into the Darklands</a></td><td>11/1/2008</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Gods and Magic">Gods and Magic</a></td><td>10/1/2008</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Pathfinder Campaign Setting">Pathfinder Campaign Setting</a></td><td>9/1/2008</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Guide to Darkmoon Vale">Guide to Darkmoon Vale</a></td><td>8/1/2008</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="SourceDisplay.aspx?FixedSource=Classic Monsters Revisited">Classic Monsters Revisited</a></td><td>7/1/2008</td>
+		</tr><tr>
+			<td><a href="SourceDisplay.aspx?FixedSource=Guide to Korvosa">Guide to Korvosa</a></td><td>6/1/2008</td>
+		</tr>
+	</table>
+</div>
+
+    
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

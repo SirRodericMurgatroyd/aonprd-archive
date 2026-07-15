@@ -1,0 +1,280 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Edicts - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Edicts" /><meta name="description" content="Edicts are the official pronouncements by your government about how you are running the kingdom that turn. For example, you may decide to have low or high taxes, to have more or fewer holidays, and how much effort to put into improving the kingdom’s infrastructure. Edicts fall into four types: Holiday, Improvement, Promotion, and Taxation.&lt;br />&lt;br /> In the Edict phase of the kingdom turn, you may set the Holiday, Promotion, and Taxation edict categories to whatever level you want, as well as decide how much of your allowed improvement from the Improvement edict you’ll use. For example, you may decide that this turn holidays are quarterly, promotions are aggressive, taxation is minimal, and you won’t build any improvements." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=1518" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXBOTx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTQ4OCI+S2luZ2RvbXMgYW5kIFdhcjwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNDg5Ij5LaW5nZG9tIEJ1aWxkaW5nPC9hPjwvdT48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE1MTgiPkVkaWN0czwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OHg2ND9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtVWx0aW1hdGUtQ2FtcGFpZ24NCiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5VbHRpbWF0ZSBDYW1wYWlnbiBwZy4gMjA4PC9pPjwvYT48YnIgLz5FZGljdHMgYXJlIHRoZSBvZmZpY2lhbCBwcm9ub3VuY2VtZW50cyBieSB5b3VyIGdvdmVybm1lbnQgYWJvdXQgaG93IHlvdSBhcmUgcnVubmluZyB0aGUga2luZ2RvbSB0aGF0IHR1cm4uIEZvciBleGFtcGxlLCB5b3UgbWF5IGRlY2lkZSB0byBoYXZlIGxvdyBvciBoaWdoIHRheGVzLCB0byBoYXZlIG1vcmUgb3IgZmV3ZXIgaG9saWRheXMsIGFuZCBob3cgbXVjaCBlZmZvcnQgdG8gcHV0IGludG8gaW1wcm92aW5nIHRoZSBraW5nZG9t4oCZcyBpbmZyYXN0cnVjdHVyZS4gRWRpY3RzIGZhbGwgaW50byBmb3VyIHR5cGVzOiBIb2xpZGF5LCBJbXByb3ZlbWVudCwgUHJvbW90aW9uLCBhbmQgVGF4YXRpb24uPGJyIC8+PGJyIC8+IEluIHRoZSBFZGljdCBwaGFzZSBvZiB0aGUga2luZ2RvbSB0dXJuLCB5b3UgbWF5IHNldCB0aGUgSG9saWRheSwgUHJvbW90aW9uLCBhbmQgVGF4YXRpb24gZWRpY3QgY2F0ZWdvcmllcyB0byB3aGF0ZXZlciBsZXZlbCB5b3Ugd2FudCwgYXMgd2VsbCBhcyBkZWNpZGUgaG93IG11Y2ggb2YgeW91ciBhbGxvd2VkIGltcHJvdmVtZW50IGZyb20gdGhlIEltcHJvdmVtZW50IGVkaWN0IHlvdeKAmWxsIHVzZS4gRm9yIGV4YW1wbGUsIHlvdSBtYXkgZGVjaWRlIHRoYXQgdGhpcyB0dXJuIGhvbGlkYXlzIGFyZSBxdWFydGVybHksIHByb21vdGlvbnMgYXJlIGFnZ3Jlc3NpdmUsIHRheGF0aW9uIGlzIG1pbmltYWwsIGFuZCB5b3Ugd29u4oCZdCBidWlsZCBhbnkgaW1wcm92ZW1lbnRzLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTUxOSI+SG9saWRheSBFZGljdHM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTh4NjQ/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVVsdGltYXRlLUNhbXBhaWduDQoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+VWx0aW1hdGUgQ2FtcGFpZ24gcGcuIDIwODwvaT48L2E+PGJyIC8+SG9saWRheXMgYXJlIGdlbmVyYWwgY2VsZWJyYXRpb25zIG9yIG9ic2VydmFuY2VzIHRoYXQgdGFrZSBwbGFjZSBhY3Jvc3MgdGhlIGtpbmdkb20uIFRoZSBCUCBleHBlbmRpdHVyZSBpbmNsdWRlcyBsb3N0IHJldmVudWUgZnJvbSBjaXRpemVucyBub3Qgd29ya2luZyBkdXJpbmcgdGhlIGhvbGlkYXlzLCBwcmVwYXJhdGlvbnMgYW5kIGxvZ2lzdGljYWwgYXJyYW5nZW1lbnRzIHRoYXQgb2NjdXIgeWVhci1yb3VuZCwgYW5kIHRoZSBjb3N0IG9mIHRoZSBhY3R1YWwgY2VsZWJyYXRpb25zICh0aGVzZSBhbm51YWwgY29zdHMgYXJlIGF2ZXJhZ2VkIG92ZXIgdGhlIHllYXIgYW5kIGluY2x1ZGVkIGluIHRoZSBsaXN0ZWQgQ29uc3VtcHRpb24gbW9kaWZpZXIgdGhhdCB5b3UgcGF5IGVhY2ggdHVybikuPGJyIC8+PGJyIC8+IFRoZSBudW1iZXIgb2YgaG9saWRheXMgcGVyIHllYXIgaXMgdGhlIG51bWJlciB5b3UgcHJvbWlzZSB0byB1cGhvbGQgYW5kIHRoZSBudW1iZXIgdGhhdCB0aGUgY29tbW9uIGZvbGsgZXhwZWN0IHRvIGVuam95IG92ZXIgdGhlIG5leHQgbW9udGhzLiBUaGUgTG95YWx0eSBhbmQgQ29uc3VtcHRpb24gbW9kaWZpZXJzIGNoYW5nZSBhcyBzb29uIGFzIHlvdSBjaGFuZ2UgdGhlIG51bWJlciBvZiBob2xpZGF5cyBwZXIgeWVhci4gVGhlIGxpc3RlZCBudW1iZXIgYXNzdW1lcyB0aGF0IHlvdSBhcmUgZnVsZmlsbGluZyB5b3VyIHByb21pc2XigJRpZiB5b3UgYW5ub3VuY2UgMTIgaG9saWRheXMgaW4gdGhlIGNvbWluZyB5ZWFyIGJ1dCBkb27igJl0IGFjdHVhbGx5IGhvbGQgYW5kIHBheSBmb3IgdGhlbSwgdGhlIEdNIHNob3VsZCBpbmNyZWFzZSB5b3VyIGtpbmdkb23igJlzIFVucmVzdCB0byByZWZsZWN0IHB1YmxpYyBkaXNhcHBvaW50bWVudCBhbmQgb3V0cmFnZS48YnIgLz48YnIgLz4gPGk+RXhhbXBsZTwvaT46IExvZ2FuIGlzIHRoZSBSdWxlciBvZiBhIGtpbmdkb20gd2l0aCBzb21lIExveWFsdHkgaXNzdWVzLiBIZSBpc3N1ZXMgYSBIb2xpZGF5IGVkaWN0IHRoYXQgdGhlcmUgd2lsbCBiZSAyNCBraW5nZG9tLXdpZGUgb2ZmaWNpYWwgaG9saWRheXMgaW4gdGhlIG5leHQgeWVhciAoTG95YWx0eSArNCwgQ29uc3VtcHRpb24gKzgpLiBJbiB0aGUgc2Vjb25kIHR1cm4sIGhlIHdvcnJpZXMgYWJvdXQgdGhlIGluY3JlYXNlZCBDb25zdW1wdGlvbuKAmXMgZWZmZWN0IG9uIHRoZSBUcmVhc3VyeSwgc28gaGUgaXNzdWVzIGEgbmV3IEhvbGlkYXkgZWRpY3QgZGVjcmVlaW5nIHRoYXQgdW50aWwgZnVydGhlciBub3RpY2UsIHRoZXJlIHdpbGwgYmUgbm8ga2luZ2RvbS13aWRlIGhvbGlkYXlzLiBIZSBsb3NlcyB0aGUgcHJldmlvdXMgKzQgTG95YWx0eSBib251cyBhbmQgaW5jdXJzIGEg4oCTMSBMb3lhbHR5IHBlbmFsdHkgZm9yIHRoZSBuZXcgSG9saWRheSBlZGljdCwgYnV0IG5vIGxvbmdlciBoYXMgdG8gcGF5IHRoZSA4IENvbnN1bXB0aW9uIGVhY2ggdHVybiBmb3IgaGlzIHByZXZpb3VzIGVkaWN0LiBJZiBoZSBmcmVxdWVudGx5IGNoYW5nZXMgSG9saWRheSBlZGljdHMgZnJvbSBoaWdoIHRvIGxvdyBsZXZlbHMsIHRoZSBHTSBtYXkgZGVjaWRlIHRoYXQgaGlzIGNpdGl6ZW5zIG5vIGxvbmdlciBiZWxpZXZlIHN1Y2ggcHJvbWlzZXMgYW5kIGhlIHdvbuKAmXQgZ2FpbiBhbnkgYmVuZWZpdHMgZnJvbSBoYXZpbmcgYSBoaWdoIGxldmVsIG9mIEhvbGlkYXkgZWRpY3QgdW50aWwgaGUgYmVjb21lcyBjb25zaXN0ZW50LjxiciAvPjxiciAvPjxoMj5UYWJsZSA0LTE6IEhvbGlkYXkgRWRpY3RzPC9oMj48dGFibGUgY2xhc3M9ImlubmVyIj48dHI+PHRkPjxiPlBlciBZZWFyPC9iPjwvdGQ+PHRkPjxiPkxveWFsdHk8L2I+PC90ZD48dGQ+PGI+Q29uc3VtcHRpb248L2I+PC90ZD48L3RyPjx0cj48dGQ+Tm9uZTwvdGQ+PHRkPi0xPC90ZD48dGQ+KzA8L3RkPjwvdHI+PHRyPjx0ZD4xPC90ZD48dGQ+KzE8L3RkPjx0ZD4rMTwvdGQ+PC90cj48dHI+PHRkPjY8L3RkPjx0ZD4rMjwvdGQ+PHRkPisyPC90ZD48L3RyPjx0cj48dGQ+MTI8L3RkPjx0ZD4rMzwvdGQ+PHRkPis0PC90ZD48L3RyPjx0cj48dGQ+MjQ8L3RkPjx0ZD4rNDwvdGQ+PHRkPis4PC90ZD48L3RyPjwvdGFibGU+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNTIwIj5JbXByb3ZlbWVudCBFZGljdHM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTh4NjQ/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVVsdGltYXRlLUNhbXBhaWduDQoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+VWx0aW1hdGUgQ2FtcGFpZ24gcGcuIDIwODwvaT48L2E+PGJyIC8+SW1wcm92ZW1lbnRzIGFyZSBwaHlzaWNhbCBpbXByb3ZlbWVudHMgeW91IGNhbiBtYWtlIHRvIHlvdXIga2luZ2RvbTogZm91bmRpbmcgbmV3IHNldHRsZW1lbnRzLCBhZGRpbmcgYnVpbGRpbmdzIHRvIGEgc2V0dGxlbWVudCwgYnVpbGRpbmcgcm9hZHMsIGNyZWF0aW5nIGZhY2lsaXRpZXMgc3VjaCBhcyBtaW5lcyB0byB0YXAgbmF0dXJhbCByZXNvdXJjZXMsIGFuZCBjbGFpbWluZyBtb3JlIGhleGVzIGZvciB5b3VyIGtpbmdkb20uIFlvdXIga2luZ2RvbeKAmXMgU2l6ZSBsaW1pdHMgaG93IG1hbnkgaW1wcm92ZW1lbnRzIHlvdSBjYW4gbWFrZSBlYWNoIHR1cm47IHNlZSBUYWJsZSA04oCTNDogSW1wcm92ZW1lbnQgRWRpY3RzIGJlbG93LiBZb3UgY2FuIG1ha2UgYWxsIG9mIHRoZSBpbXByb3ZlbWVudHMgbGlzdGVkIG9uIHRoZSBhcHByb3ByaWF0ZSByb3cgb2YgdGhlIHRhYmxlLiBGb3IgZXhhbXBsZSwgaWYgeW91ciBraW5nZG9t4oCZcyBTaXplIGlzIDUsIG9uIGVhY2ggdHVybiB5b3UgY2FuIGNyZWF0ZSAxIG5ldyBzZXR0bGVtZW50LCAxIG5ldyBidWlsZGluZywgMiB0ZXJyYWluIGltcHJvdmVtZW50cywgYW5kIGNsYWltIDEgbW9yZSBoZXguPGJyIC8+PGJyIC8+PGgyPlRhYmxlIDQtNDogSW1wcm92ZW1lbnQgRWRpY3RzPC9oMj48dGFibGUgY2xhc3M9ImlubmVyIj48dHI+PHRkPjxiPktpbmdkb20gU2l6ZTwvYj48L3RkPjx0ZD48Yj5OZXcgU2V0dGxlbWVudHM8c3VwPjE8L3N1cD48L2I+PC90ZD48dGQ+PGI+TmV3IEJ1aWxkaW5nczxzdXA+Mjwvc3VwPjwvYj48L3RkPjx0ZD48Yj5UZXJyYWluIEltcHJvdmVtZW50czwvYj48L3RkPjx0ZD48Yj5IZXggQ2xhaW1zPC9iPjwvdGQ+PC90cj48dHI+PHRkPjAxLTEwPC90ZD48dGQ+MTwvdGQ+PHRkPjE8L3RkPjx0ZD4yPC90ZD48dGQ+MTwvdGQ+PC90cj48dHI+PHRkPjExLTI1PC90ZD48dGQ+MTwvdGQ+PHRkPjI8L3RkPjx0ZD4zPC90ZD48dGQ+MjwvdGQ+PC90cj48dHI+PHRkPjI2LTUwPC90ZD48dGQ+MTwvdGQ+PHRkPjU8L3RkPjx0ZD41PC90ZD48dGQ+MzwvdGQ+PC90cj48dHI+PHRkPjUxLTEwMDwvdGQ+PHRkPjI8L3RkPjx0ZD4xMDwvdGQ+PHRkPjc8L3RkPjx0ZD40PC90ZD48L3RyPjx0cj48dGQ+MTAxLTIwMDwvdGQ+PHRkPjM8L3RkPjx0ZD4yMDwvdGQ+PHRkPjk8L3RkPjx0ZD44PC90ZD48L3RyPjx0cj48dGQ+MjAxKzwvdGQ+PHRkPjQ8L3RkPjx0ZD5ObyBsaW1pdDwvdGQ+PHRkPjEyPC90ZD48dGQ+MTI8L3RkPjwvdHI+PC90YWJsZT4xIEluc3RlYWQgb2YgY3JlYXRpbmcgYSBuZXcgc2V0dGxlbWVudCwgeW91ciBraW5nZG9tIG1heSBjcmVhdGUgYSBuZXcgYXJteSB1bml0IChzZWUgTWFzcyBDb21iYXQsIHN0YXJ0aW5nIG9uIHBhZ2UgMjM0KSwgZXhwYW5kIG9yIGVxdWlwIGFuIGV4aXN0aW5nIGFybXkgdW5pdCwgb3IgYnJpbmcgYW4gZXhpc3RpbmcgYXJteSB1bml0IGJhY2sgdG8gZnVsbCBzdHJlbmd0aC48YnIgLz4yIFVwZ3JhZGluZyBhIGJ1aWxkaW5nIChmb3IgZXhhbXBsZSwgZnJvbSBhIFNocmluZSB0byBhIFRlbXBsZSkgb3IgZGVzdHJveWluZyBhIGJ1aWxkaW5nIGNvdW50cyB0b3dhcmQgdGhpcyBsaW1pdC4gVGhlIGZpcnN0IEhvdXNlLCBNYW5zaW9uLCBOb2JsZSBWaWxsYSwgb3IgVGVuZW1lbnQgeW91ciBraW5nZG9tIGJ1aWxkcyBlYWNoIHR1cm4gZG9lcyBub3QgY291bnQgYWdhaW5zdCB0aGlzIG51bWJlci48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE1MjEiPlByb21vdGlvbiBFZGljdHM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTh4NjQ/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVVsdGltYXRlLUNhbXBhaWduDQoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+VWx0aW1hdGUgQ2FtcGFpZ24gcGcuIDIwOTwvaT48L2E+PGJyIC8+UHJvbW90aW9uIGVkaWN0cyBhcmUgZXZlbnRzIGFuZCBhY3Rpb25zIHRoZSBraW5nZG9tIHVzZXMgdG8gYXR0cmFjdCBuZXcgY2l0aXplbnMgYW5kIGluY3JlYXNlIHRoZSB3ZWxsLWJlaW5nIG9mIHRoZSBraW5nZG9tLCBzdWNoIGFzIHJlY3J1aXRtZW50IGNhbXBhaWducywgYWR2ZXJ0aXNlbWVudHMgYWJvdXQgc2VydmljZXMgYW5kIGdvb2RzLCBhbmQgcHJvcGFnYW5kYSB0byBpbXByb3ZlIHRoZSBwZXJjZXB0aW9uIG9mIHlvdXIga2luZ2RvbSBhdCBob21lIGFuZCBhYnJvYWQuIFByb21vdGlvbnMgaW5jcmVhc2UgQ29uc3VtcHRpb24sIGJ1dCBhbHNvIGluY3JlYXNlIFN0YWJpbGl0eS48YnIgLz48YnIgLz48aDI+VGFibGUgNC0yOiBQcm9tb3Rpb24gRWRpY3RzPC9oMj48dGFibGUgY2xhc3M9ImlubmVyIj48dHI+PHRkPjxiPlByb21vdGlvbiBMZXZlbDwvYj48L3RkPjx0ZD48Yj5TdGFiaWxpdHk8L2I+PC90ZD48dGQ+PGI+Q29uc3VtcHRpb248L2I+PC90ZD48L3RyPjx0cj48dGQ+Tm9uZTwvdGQ+PHRkPi0xPC90ZD48dGQ+KzA8L3RkPjwvdHI+PHRyPjx0ZD5Ub2tlbjwvdGQ+PHRkPisxPC90ZD48dGQ+KzE8L3RkPjwvdHI+PHRyPjx0ZD5TdGFuZGFyZDwvdGQ+PHRkPisyPC90ZD48dGQ+KzI8L3RkPjwvdHI+PHRyPjx0ZD5BZ2dyZXNzaXZlPC90ZD48dGQ+KzM8L3RkPjx0ZD4rNDwvdGQ+PC90cj48dHI+PHRkPkV4cGFuc2lvbmlzdDwvdGQ+PHRkPis0PC90ZD48dGQ+Kzg8L3RkPjwvdHI+PC90YWJsZT48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE1MjIiPlRheGF0aW9uIEVkaWN0czwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OHg2ND9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtVWx0aW1hdGUtQ2FtcGFpZ24NCiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5VbHRpbWF0ZSBDYW1wYWlnbiBwZy4gMjA5PC9pPjwvYT48YnIgLz5TZXR0aW5nIHRoZSB0YXggbGV2ZWwgZGV0ZXJtaW5lcyBob3cgbXVjaCByZXZlbnVlIHlvdSBjb2xsZWN0IGZyb20gdGF4ZXMgaW4gdGhlIEluY29tZSBwaGFzZS4gSGlnaGVyIHRheGVzIGluY3JlYXNlIHlvdXIga2luZ2RvbeKAmXMgRWNvbm9teSAobWFraW5nIGl0IGVhc2llciBmb3IgeW91IHRvIHN1Y2NlZWQgYXQgRWNvbm9teSBjaGVja3MgdG8gZ2VuZXJhdGUgcmV2ZW51ZSkgYnV0IG1ha2UgeW91ciBjaXRpemVucyB1bmhhcHB5IChyZWR1Y2luZyBMb3lhbHR5KS48YnIgLz48YnIgLz48aDI+VGFibGUgNC0zOiBUYXhhdGlvbiBFZGljdHM8L2gyPjx0YWJsZSBjbGFzcz0iaW5uZXIiPjx0cj48dGQ+PGI+VGF4IExldmVsPC9iPjwvdGQ+PHRkPjxiPkVjb25vbXk8L2I+PC90ZD48dGQ+PGI+TG95YWx0eTwvYj48L3RkPjwvdHI+PHRyPjx0ZD5Ob25lPC90ZD48dGQ+KzA8L3RkPjx0ZD4rMTwvdGQ+PC90cj48dHI+PHRkPkxpZ2h0PC90ZD48dGQ+KzE8L3RkPjx0ZD4tMTwvdGQ+PC90cj48dHI+PHRkPk5vcm1hbDwvdGQ+PHRkPisyPC90ZD48dGQ+LTI8L3RkPjwvdHI+PHRyPjx0ZD5IZWF2eTwvdGQ+PHRkPiszPC90ZD48dGQ+LTQ8L3RkPjwvdHI+PHRyPjx0ZD5PdmVyd2hlbG1pbmc8L3RkPjx0ZD4rNDwvdGQ+PHRkPi04PC90ZD48L3RyPjwvdGFibGU+ZGRkeI+yosj5jBrAggX094EsFPGCVAXOaxtuanmfpitAcjM=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1488">Kingdoms and War</a></u> / <u><a href="Rules.aspx?ID=1489">Kingdom Building</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=1518">Edicts</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 208</i></a><br />Edicts are the official pronouncements by your government about how you are running the kingdom that turn. For example, you may decide to have low or high taxes, to have more or fewer holidays, and how much effort to put into improving the kingdom’s infrastructure. Edicts fall into four types: Holiday, Improvement, Promotion, and Taxation.<br /><br /> In the Edict phase of the kingdom turn, you may set the Holiday, Promotion, and Taxation edict categories to whatever level you want, as well as decide how much of your allowed improvement from the Improvement edict you’ll use. For example, you may decide that this turn holidays are quarterly, promotions are aggressive, taxation is minimal, and you won’t build any improvements.<br /><h1 class="title"><a href="Rules.aspx?ID=1519">Holiday Edicts</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 208</i></a><br />Holidays are general celebrations or observances that take place across the kingdom. The BP expenditure includes lost revenue from citizens not working during the holidays, preparations and logistical arrangements that occur year-round, and the cost of the actual celebrations (these annual costs are averaged over the year and included in the listed Consumption modifier that you pay each turn).<br /><br /> The number of holidays per year is the number you promise to uphold and the number that the common folk expect to enjoy over the next months. The Loyalty and Consumption modifiers change as soon as you change the number of holidays per year. The listed number assumes that you are fulfilling your promise—if you announce 12 holidays in the coming year but don’t actually hold and pay for them, the GM should increase your kingdom’s Unrest to reflect public disappointment and outrage.<br /><br /> <i>Example</i>: Logan is the Ruler of a kingdom with some Loyalty issues. He issues a Holiday edict that there will be 24 kingdom-wide official holidays in the next year (Loyalty +4, Consumption +8). In the second turn, he worries about the increased Consumption’s effect on the Treasury, so he issues a new Holiday edict decreeing that until further notice, there will be no kingdom-wide holidays. He loses the previous +4 Loyalty bonus and incurs a –1 Loyalty penalty for the new Holiday edict, but no longer has to pay the 8 Consumption each turn for his previous edict. If he frequently changes Holiday edicts from high to low levels, the GM may decide that his citizens no longer believe such promises and he won’t gain any benefits from having a high level of Holiday edict until he becomes consistent.<br /><br /><h2>Table 4-1: Holiday Edicts</h2><table class="inner"><tr><td><b>Per Year</b></td><td><b>Loyalty</b></td><td><b>Consumption</b></td></tr><tr><td>None</td><td>-1</td><td>+0</td></tr><tr><td>1</td><td>+1</td><td>+1</td></tr><tr><td>6</td><td>+2</td><td>+2</td></tr><tr><td>12</td><td>+3</td><td>+4</td></tr><tr><td>24</td><td>+4</td><td>+8</td></tr></table><br /><h1 class="title"><a href="Rules.aspx?ID=1520">Improvement Edicts</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 208</i></a><br />Improvements are physical improvements you can make to your kingdom: founding new settlements, adding buildings to a settlement, building roads, creating facilities such as mines to tap natural resources, and claiming more hexes for your kingdom. Your kingdom’s Size limits how many improvements you can make each turn; see Table 4–4: Improvement Edicts below. You can make all of the improvements listed on the appropriate row of the table. For example, if your kingdom’s Size is 5, on each turn you can create 1 new settlement, 1 new building, 2 terrain improvements, and claim 1 more hex.<br /><br /><h2>Table 4-4: Improvement Edicts</h2><table class="inner"><tr><td><b>Kingdom Size</b></td><td><b>New Settlements<sup>1</sup></b></td><td><b>New Buildings<sup>2</sup></b></td><td><b>Terrain Improvements</b></td><td><b>Hex Claims</b></td></tr><tr><td>01-10</td><td>1</td><td>1</td><td>2</td><td>1</td></tr><tr><td>11-25</td><td>1</td><td>2</td><td>3</td><td>2</td></tr><tr><td>26-50</td><td>1</td><td>5</td><td>5</td><td>3</td></tr><tr><td>51-100</td><td>2</td><td>10</td><td>7</td><td>4</td></tr><tr><td>101-200</td><td>3</td><td>20</td><td>9</td><td>8</td></tr><tr><td>201+</td><td>4</td><td>No limit</td><td>12</td><td>12</td></tr></table>1 Instead of creating a new settlement, your kingdom may create a new army unit (see Mass Combat, starting on page 234), expand or equip an existing army unit, or bring an existing army unit back to full strength.<br />2 Upgrading a building (for example, from a Shrine to a Temple) or destroying a building counts toward this limit. The first House, Mansion, Noble Villa, or Tenement your kingdom builds each turn does not count against this number.<br /><h1 class="title"><a href="Rules.aspx?ID=1521">Promotion Edicts</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 209</i></a><br />Promotion edicts are events and actions the kingdom uses to attract new citizens and increase the well-being of the kingdom, such as recruitment campaigns, advertisements about services and goods, and propaganda to improve the perception of your kingdom at home and abroad. Promotions increase Consumption, but also increase Stability.<br /><br /><h2>Table 4-2: Promotion Edicts</h2><table class="inner"><tr><td><b>Promotion Level</b></td><td><b>Stability</b></td><td><b>Consumption</b></td></tr><tr><td>None</td><td>-1</td><td>+0</td></tr><tr><td>Token</td><td>+1</td><td>+1</td></tr><tr><td>Standard</td><td>+2</td><td>+2</td></tr><tr><td>Aggressive</td><td>+3</td><td>+4</td></tr><tr><td>Expansionist</td><td>+4</td><td>+8</td></tr></table><br /><h1 class="title"><a href="Rules.aspx?ID=1522">Taxation Edicts</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 209</i></a><br />Setting the tax level determines how much revenue you collect from taxes in the Income phase. Higher taxes increase your kingdom’s Economy (making it easier for you to succeed at Economy checks to generate revenue) but make your citizens unhappy (reducing Loyalty).<br /><br /><h2>Table 4-3: Taxation Edicts</h2><table class="inner"><tr><td><b>Tax Level</b></td><td><b>Economy</b></td><td><b>Loyalty</b></td></tr><tr><td>None</td><td>+0</td><td>+1</td></tr><tr><td>Light</td><td>+1</td><td>-1</td></tr><tr><td>Normal</td><td>+2</td><td>-2</td></tr><tr><td>Heavy</td><td>+3</td><td>-4</td></tr><tr><td>Overwhelming</td><td>+4</td><td>-8</td></tr></table></span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

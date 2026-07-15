@@ -1,0 +1,270 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Hazards - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Hazards" /><meta name="description" content="The adventuring world is filled with dangers beyond dragons and ravening fiends. Hazards are location-based threats that have much in common with traps, but are usually intrinsic to their area rather than constructed.&lt;br />&lt;br /> Hazards fall into three main categories: environmental, living, and magical. Environmental hazards include subterranean threats like cave-ins and wilderness dangers like forest fires. Living hazards are creatures that are generally too passive to be considered monsters, but are still a threat to unwary adventurers, such as dangerous molds, slimes, and fungi. Magical hazards are the most unpredictable, and can be the legacy of arcane experimentation, strange underground radiations, or ancient enchantments gone awry.&lt;br />&lt;br /> Hazards have challenge ratings like traps or monsters. A typical hazard triggers if a creature ventures near or into it, causing hit point damage, ability damage or drain, or some other harmful effect. Most can be detected by wary and knowledgeable PCs. Every hazard should have a means of escape or a way to eliminate the hazard, if not both." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=911" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXFajx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDU0Ij5HYW1lTWFzdGVyeSBHdWlkZTwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD04NzAiPkFkdmFuY2VkIFRvcGljczwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD05MTEiPkhhemFyZHM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiAyNDQ8L2k+PC9hPjxiciAvPlRoZSBhZHZlbnR1cmluZyB3b3JsZCBpcyBmaWxsZWQgd2l0aCBkYW5nZXJzIGJleW9uZCBkcmFnb25zIGFuZCByYXZlbmluZyBmaWVuZHMuIEhhemFyZHMgYXJlIGxvY2F0aW9uLWJhc2VkIHRocmVhdHMgdGhhdCBoYXZlIG11Y2ggaW4gY29tbW9uIHdpdGggdHJhcHMsIGJ1dCBhcmUgdXN1YWxseSBpbnRyaW5zaWMgdG8gdGhlaXIgYXJlYSByYXRoZXIgdGhhbiBjb25zdHJ1Y3RlZC48YnIgLz48YnIgLz4gSGF6YXJkcyBmYWxsIGludG8gdGhyZWUgbWFpbiBjYXRlZ29yaWVzOiBlbnZpcm9ubWVudGFsLCBsaXZpbmcsIGFuZCBtYWdpY2FsLiBFbnZpcm9ubWVudGFsIGhhemFyZHMgaW5jbHVkZSBzdWJ0ZXJyYW5lYW4gdGhyZWF0cyBsaWtlIGNhdmUtaW5zIGFuZCB3aWxkZXJuZXNzIGRhbmdlcnMgbGlrZSBmb3Jlc3QgZmlyZXMuIExpdmluZyBoYXphcmRzIGFyZSBjcmVhdHVyZXMgdGhhdCBhcmUgZ2VuZXJhbGx5IHRvbyBwYXNzaXZlIHRvIGJlIGNvbnNpZGVyZWQgbW9uc3RlcnMsIGJ1dCBhcmUgc3RpbGwgYSB0aHJlYXQgdG8gdW53YXJ5IGFkdmVudHVyZXJzLCBzdWNoIGFzIGRhbmdlcm91cyBtb2xkcywgc2xpbWVzLCBhbmQgZnVuZ2kuIE1hZ2ljYWwgaGF6YXJkcyBhcmUgdGhlIG1vc3QgdW5wcmVkaWN0YWJsZSwgYW5kIGNhbiBiZSB0aGUgbGVnYWN5IG9mIGFyY2FuZSBleHBlcmltZW50YXRpb24sIHN0cmFuZ2UgdW5kZXJncm91bmQgcmFkaWF0aW9ucywgb3IgYW5jaWVudCBlbmNoYW50bWVudHMgZ29uZSBhd3J5LjxiciAvPjxiciAvPiBIYXphcmRzIGhhdmUgY2hhbGxlbmdlIHJhdGluZ3MgbGlrZSB0cmFwcyBvciBtb25zdGVycy4gQSB0eXBpY2FsIGhhemFyZCB0cmlnZ2VycyBpZiBhIGNyZWF0dXJlIHZlbnR1cmVzIG5lYXIgb3IgaW50byBpdCwgY2F1c2luZyBoaXQgcG9pbnQgZGFtYWdlLCBhYmlsaXR5IGRhbWFnZSBvciBkcmFpbiwgb3Igc29tZSBvdGhlciBoYXJtZnVsIGVmZmVjdC4gTW9zdCBjYW4gYmUgZGV0ZWN0ZWQgYnkgd2FyeSBhbmQga25vd2xlZGdlYWJsZSBQQ3MuIEV2ZXJ5IGhhemFyZCBzaG91bGQgaGF2ZSBhIG1lYW5zIG9mIGVzY2FwZSBvciBhIHdheSB0byBlbGltaW5hdGUgdGhlIGhhemFyZCwgaWYgbm90IGJvdGguPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD05MTIiPlNhbXBsZSBIYXphcmRzPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gMjQ0PC9pPjwvYT48YnIgLz5QcmVzZW50ZWQgaGVyZSBhcmUgYSB2YXJpZXR5IG9mIHVudXN1YWwgaGF6YXJkcy48YnIgLz48aDIgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTkxMyI+QWNjdXJzZWQgUG9vbCAoQ1IgMyk8L2E+PC9oMj48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiAyNDQ8L2k+PC9hPjxiciAvPlRoZSBsaW5nZXJpbmcgZWZmZWN0cyBvZiBhbmNpZW50IGN1cnNlcyBvciBoYXJtZnVsIGVuZXJneSBsZWFjaGluZyBmcm9tIGEgc3VibWVyZ2VkIGN1cnNlZCBtYWdpY2FsIGl0ZW0gY2FuIHR1cm4gYSBzaW1wbGUgcG9vbCBvZiB3YXRlciBpbnRvIGEgZGFuZ2Vyb3VzIG1hZ2ljYWwgaGF6YXJkLiBBbiBhY2N1cnNlZCBwb29sIGx1cmVzIHBhc3NlcnNieSBpbnRvIGl0cyBkZXB0aHMgd2l0aCBhIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1zaWxlbnQgaW1hZ2UiPjxpPnNpbGVudCBpbWFnZTwvaT48L2E+IChEQyAxNiBXaWxsIHNhdmUgdG8gZGlzYmVsaWV2ZSkgb2YgZ2xpdHRlcmluZyB0cmVhc3VyZSBhdCB0aGUgYm90dG9tIG9mIGl0cyAxMC1mb290IGRlcHRoLiBBbnkgY3JlYXR1cmUgdGhhdCByZWFjaGVzIHRoZSB0cmVhc3VyZSB0cmlnZ2VycyB0aGUgY3Vyc2UuIEEgY3JlYXR1cmUgd2l0aGluIHRoZSBwb29sIG11c3QgbWFrZSBhIERDIDE2IFdpbGwgc2F2ZSBvciBiZSBhZmZlY3RlZCBieSB0aGUgY3Vyc2UsIHdoaWNoIHdhcnBzIGl0cyBwZXJjZXB0aW9uIG9mIHRoZSBwb29sLiBUaGUgd2F0ZXIgc2VlbXMgdG8gdGhpY2tlbiBpbnRvIHZpc2NvdXMgZ29vLCB3aGlsZSB0aGUgcG9vbCBhcHBlYXJzIHRvIGRpc3RvcnQgdG8gYSBkZXB0aCBvZiA0MCBmZWV0LiBTd2ltIGNoZWNrcyBpbiB0aGUgcG9vbCBzdWZmZXIgYSDigJMxMCBwZW5hbHR5IGFuZCBhcmUgYXQgaGFsZiBub3JtYWwgc3BlZWQgYXMgYSByZXN1bHQgb2YgdGhlc2UgZWZmZWN0cywgYW5kIHNwZWxsY2FzdGluZyB3aXRoaW4gdGhlIHBvb2wgcmVxdWlyZXMgYSBjb25jZW50cmF0aW9uIGNoZWNrIHdpdGggYSBEQyBvZiAxNSArIHRoZSBsZXZlbCBvZiB0aGUgc3BlbGwgYmVpbmcgY2FzdC4gQW4gYWNjdXJzZWQgcG9vbCByYWRpYXRlcyBzdHJvbmcgbWFnaWMsIGFuZCBpcyBkZXN0cm95ZWQgYnkgZGlzcGVsIG1hZ2ljIG9yIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1yZW1vdmUgY3Vyc2UiPjxpPnJlbW92ZSBjdXJzZTwvaT48L2E+IChjYXN0ZXIgbGV2ZWwgY2hlY2sgREMgMTUpLjxiciAvPjxoMiBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9OTE0Ij5CYWQgQWlyIChDUiAxIG9yIDQpPC9hPjwvaDI+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gMjQ0PC9pPjwvYT48YnIgLz5BbiBpbnZpc2libGUgaGF6YXJkLCBwb2NrZXRzIG9mIGxvdy1veHlnZW4gZ2FzIHByZXNlbnQgYSBkYW5nZXIgdG8gbWluZXJzIGFuZCBzcGVsdW5rZXJzIGFzIHdlbGwgYXMgY2F2ZXJuZGVsdmluZyBhZHZlbnR1cmVycy4gTm9uZmxhbW1hYmxlIGdhc2VzIHN1Y2ggYXMgY2FyYm9uIGRpb3hpZGUgb3Igbml0cm9nZW4gYXJlIENSIDEgYW5kIHJlcXVpcmUgYSBEQyAyNSBTdXJ2aXZhbCBjaGVjayB0byBub3RpY2UuIENyZWF0dXJlcyBicmVhdGhpbmcgdGhlIGFpciBtdXN0IG1ha2UgYSBGb3J0aXR1ZGUgc2F2ZSAoREMgMTUgKyAxIHBlciBwcmV2aW91cyBjaGVjaykgZWFjaCBob3VyIG9yIGJlY29tZSBmYXRpZ3VlZC4gQWZ0ZXIgYSBjcmVhdHVyZSBiZWNvbWVzIGZhdGlndWVkLCBzbG93IHN1ZmZvY2F0aW9uIHNldHMgaW4uIENyZWF0dXJlcyBob2xkaW5nIHRoZWlyIGJyZWF0aCBjYW4gYXZvaWQgdGhlc2UgZWZmZWN0cy48YnIgLz48YnIgLz4gRmxhbW1hYmxlIHZhcG9ycyBzdWNoIGFzIGNvYWwgZ2FzIGFyZSBtdWNoIG1vcmUgZGFuZ2Vyb3VzIChDUiA0KS4gVGhlIGdhc2VzIGRpc3BsYWNlIGJyZWF0aGFibGUgYWlyIGluIHRoZSBsdW5ncywgY2F1c2luZyBmYXRpZ3VlIGFzIGRlc2NyaWJlZCBhYm92ZS4gSW4gYWRkaXRpb24sIGFueSBvcGVuIGZsYW1lIG9yIHNwYXJrIGNhdXNlcyBhbiBleHBsb3Npb24gZm9yIDZkNiBwb2ludHMgb2YgZGFtYWdlIChSZWZsZXggc2F2ZSBEQyAxNSBmb3IgaGFsZiApIHRvIGFsbCBpbiB0aGUgY2F2ZXJuIG9yIHdpdGhpbiA1IGZlZXQgb2YgYW4gZW50cmFuY2UuIFRoZSBmaXJlIGJ1cm5zIGF3YXkgdGhlIG94eWdlbiBpbiB0aGUgYWlyLCBsZWF2aW5nIGl0IHVuYnJlYXRoYWJsZSBmb3IgMmQ0IG1pbnV0ZXMuIEFmdGVyIGFuIGV4cGxvc2lvbiwgZmxhbW1hYmxlIGdhcyB1c3VhbGx5IHRha2VzIHNldmVyYWwgZGF5cyB0byBidWlsZCB1cCB0byBkYW5nZXJvdXMgbGV2ZWxzIGFnYWluLjxiciAvPjxoMiBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9OTE1Ij5Ed2VvbWVyc2luayAoQ1IgNik8L2E+PC9oMj48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiAyNDQ8L2k+PC9hPjxiciAvPlpvbmVzIG9mIG1hZ2ljYWwgZW50cm9weSB0aGF0IGRpc3J1cHQgc3BlbGxzLCBkd2VvbWVyc2lua3MgYXJlIG9jY2FzaW9uYWxseSBmb3JtZWQgYXQgdGhlIHNpdGVzIG9mIGdyZWF0IG1hZ2ljYWwgZHVlbHMsIGJ5IHRoZSBkZXN0cnVjdGlvbiBvZiBwb3dlcmZ1bCBhcnRpZmFjdHMsIG9yIGJ5IHZvcnRpY2VzIG9mIGVsZHJpdGNoIGVuZXJneSBhdCB0aGUgZnJpbmdlcyBvZiBhbnRpbWFnaWMgem9uZXMuIFRoZXkgdmFyeSBpbiBzaXplIGZyb20gc21hbGwgYnViYmxlcyBvbmx5IGEgZmV3IGZlZXQgYWNyb3NzIHRvIGxhcmdlIGFyZWFzIHRoZSBzaXplIG9mIGEgdG93bi4gQSBzdWNjZXNzZnVsIERDIDIwIFNwZWxsY3JhZnQgY2hlY2sgZGV0ZWN0cyBhIHRpbmdsaW5nIGluIHRoZSBhaXIgdGhhdCBoZXJhbGRzIHRoZSBwcmVzZW5jZSBvZiBhIG5lYXJieSBkd2VvbWVyc2luay4gQW4gYWN0aXZlIHNwZWxsIGJyb3VnaHQgaW50byBhIGR3ZW9tZXJzaW5rIG1heSBiZSBkaXNwZWxsZWQsIGFuZCBhbnkgc3BlbGwgY2FzdCBpbnNpZGUgYSBkd2VvbWVyc2luayBpcyBzdWJqZWN0IHRvIGFuIGltbWVkaWF0ZSBjb3VudGVyc3BlbGwgKGJvdGggYXMgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPWRpc3BlbCBtYWdpYyI+PGk+ZGlzcGVsIG1hZ2ljPC9pPjwvYT4sIGNhc3RlciBsZXZlbCA4dGgpLiBUaGUgcmVzdWx0aW5nIHJlbGVhc2Ugb2YgbWFnaWNhbCBlbmVyZ3kgZGVhbHMgMWQ2IHBvaW50cyBvZiBkYW1hZ2UgcGVyIHNwZWxsIGxldmVsIGluIGEgNS1mb290IGJ1cnN0IGNlbnRlcmVkIG9uIHRoZSBiZWFyZXIgb2YgdGhlIHNwZWxsIGVudGVyaW5nIHRoZSBhcmVhIG9yIHRoZSBjYXN0ZXIgb2YgYSBuZXcgc3BlbGwgKFJlZmxleCBEQyAxNSBoYWxmICkuIElmIG11bHRpcGxlIG92ZXJsYXBwaW5nIGJ1cnN0cyBoaXQgdGhlIHNhbWUgdGFyZ2V0LCBvbmx5IHRoZSBtb3N0IGRhbWFnaW5nIGFwcGxpZXMuIE9uY2UgYSBzcGVsbCBlZmZlY3QgaGFzIHN1cnZpdmVkIGEgZGlzcGVsIGF0dGVtcHQsIGl0IGlzIG5vdCBhZmZlY3RlZCBhZ2FpbiB1bmxlc3MgaXQgbGVhdmVzIGFuZCByZWVudGVycyB0aGUgZHdlb21lcnNpbmsuIE1vcmUgcG93ZXJmdWwgZHdlb21lcnNpbmtzIGFyZSBldmVuIG1vcmUgZGlzcnVwdGl2ZS4gRWFjaCArMSBpbmNyZWFzZSBpbiBDUiBpbmNyZWFzZXMgdGhlIGNhc3RlciBsZXZlbCBvZiB0aGUgZGlzcGVsIGNoZWNrIGJ5IDIgYW5kIHRoZSBzYXZlIERDIGZvciB0aGUgZGFtYWdpbmcgYnVyc3QgYnkgMS48YnIgLz48aDIgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTkxNiI+RWFyIFNlZWtlcnMgKENSIDUpPC9hPjwvaDI+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gMjQ0PC9pPjwvYT48YnIgLz5FYXIgc2Vla2VycyBhcmUgdGlueSwgcGFsZS1jb2xvcmVkIHdvcm1zIHRoYXQgZHdlbGwgaW4gcm90dGluZyB3b29kIG9yIG90aGVyIG9yZ2FuaWMgZGV0cml0dXMuIFRoZXkgY2FuIGJlIG5vdGljZWQgd2l0aCBhIERDIDE1IFBlcmNlcHRpb24gY2hlY2suIE90aGVyd2lzZSwgYSBsaXZpbmcgY3JlYXR1cmUgcG9raW5nIGFib3V0IHRoZWlyIGxhaXIgaW5hZHZlcnRlbnRseSB0cmFuc2ZlcnMgb25lIG9yIG1vcmUgZWFyIHNlZWtlcnMgdG8gaXRzIGJvZHkuIFRoZSBzZWVrZXJzIHRoZW4gc2VhcmNoIG91dCBhIHdhcm0gbG9jYXRpb24gb24gdGhlIGNyZWF0dXJlLCBlc3BlY2lhbGx5IGZhdm9yaW5nIHRoZSBlYXIgY2FuYWwuIE9uY2UgdGhlcmUsIHRoZXkgbGF5IDJkOCBlZ2dzIGJlZm9yZSBkeWluZy4gVGhlIGVnZ3MgaGF0Y2ggNGQ2IGhvdXJzIGxhdGVyIGFuZCB0aGUgbGFydmFlIGRldm91ciB0aGUgc3Vycm91bmRpbmcgZmxlc2guIFVwb24gdGhlIGRlYXRoIG9mIHRoZWlyIGhvc3QsIHRoZSBuZXcgZWFyIHNlZWtlcnMgY3Jhd2wgb3V0IGFuZCBzZWVrIGEgbmV3IGhvc3QuIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1SZW1vdmUgZGlzZWFzZSI+PGk+UmVtb3ZlIGRpc2Vhc2U8L2k+PC9hPiBraWxscyBhbnkgZWFyIHNlZWtlcnMgb3IgdW5oYXRjaGVkIGVnZ3MgaW4gb3Igb24gYSBob3N0LiBTb21lIGVhciBzZWVrZXJzIGZhdm9yIGxpdmluZyBpbiBpbnRhY3Qgd29vZCwgb2Z0ZW4gaGlkaW5nIGluIGR1bmdlb24gZG9vcnMuIFRoZSBzbWFsbCBwaW5ob2xlcyBsZWZ0IGJ5IHRoaXMgdmFyaWV0eSBhcmUgcGFydGljdWxhcmx5IGhhcmQgdG8gc3BvdCAoUGVyY2VwdGlvbiBEQyAyMCkuIDxoMyBjbGFzcz0iZnJhbWluZyI+RWFyIFNlZWtlcnM8L2gzPiA8Yj5UeXBlPC9iPiBpbmZlc3RhdGlvbjsgPGI+U2F2ZTwvYj4gRm9ydGl0dWRlIERDIDE1PGJyIC8+IDxiPk9uc2V0PC9iPiA0ZDYgaG91cnM7IDxiPkZyZXF1ZW5jeTwvYj4gMS9ob3VyPGJyIC8+IDxiPkVmZmVjdDwvYj4gMWQ2IENvbiBkYW1hZ2U8YnIgLz48aDIgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTkxNyI+TWFnbmV0aXplZCBPcmUgKENSIDIpPC9hPjwvaDI+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gMjQ1PC9pPjwvYT48YnIgLz5UaGUgc3RyYW5nZSBlbmVyZ2llcyBvZiB0aGUgc3VidGVycmFuZWFuIHdvcmxkIGNhbiBjaGFyZ2Ugcm9ja3MgYW5kIHZlaW5zIG9mIG9yZSB3aXRoIHBvd2VyZnVsIG1hZ25ldGljIGZpZWxkcywgY3JlYXRpbmcgYSBoYXphcmQgZm9yIGFueW9uZSBjYXJyeWluZyBvciB3ZWFyaW5nIGZlcnJvdXMgbWV0YWxzLiBBbnkgc3RlZWwgb3IgaXJvbiBicm91Z2h0IHdpdGhpbiAyMCBmZWV0IG9mIHRoZSBvcmUgaXMgZHJhd24gdG93YXJkIGl0LiBNZWRpdW0tc2l6ZWQgY3JlYXR1cmVzIGNhcnJ5aW5nIDMwIG9yIG1vcmUgcG91bmRzIG9mIGZlcnJvdXMgbWV0YWwgYXJlIHB1bGxlZCB0b3dhcmQgdGhlIG9yZSBhcyBpZiBieSB0aGUgcHVsbCBzcGVjaWFsIGFiaWxpdHkgKDxpPlBhdGhmaW5kZXIgUlBHIEJlc3RpYXJ5PC9pPiAzMDMpLiBUaGUgb3JlIGhhcyBhbiBlZmZlY3RpdmUgQ01CIG9mICs3IGFuZCBDTUQgMTcuIFNtYWxsIGNyZWF0dXJlcyBhcmUgcHVsbGVkIGlmIHRoZXkgaGF2ZSAxNSBwb3VuZHMgb2YgbWV0YWwsIExhcmdlIGlmIHRoZXkgaGF2ZSBhdCBsZWFzdCA2MCBwb3VuZHMuIEZvciBjcmVhdHVyZXMgb2Ygb3RoZXIgc2l6ZXMsIG1vZGlmeSB0aGUgd2VpZ2h0IHJlcXVpcmVkIGFzIHBlciB0aGUgcnVsZXMgZm9yIGNhcnJ5aW5nIGNhcGFjaXR5LiBDcmVhdHVyZXMgd2VhcmluZyBtZXRhbGxpYyBhcm1vciBzdWZmZXIgYSBwZW5hbHR5IHRvIHRoZWlyIENNRCB0byByZXNpc3QgdGhlIHB1bGwgKOKAkzIgZm9yIG1lZGl1bSBhcm1vciwg4oCTNCBmb3IgaGVhdnkgYXJtb3IpLiBBZmZlY3RlZCBjcmVhdHVyZXMgYXJlIHB1bGxlZCB1cCB0byAyMCBmZWV0IGFuZCBzbGFtbWVkIGFnYWluc3QgdGhlIHJvY2sgZm9yIDJkNiBwb2ludHMgb2YgZGFtYWdlIGFuZCBnYWluIHRoZSBncmFwcGxlZCBjb25kaXRpb24uIENyZWF0dXJlcyBub3QgY2FycnlpbmcgbGFyZ2UgYW1vdW50cyBvZiBtZXRhbCBidXQgaG9sZGluZyBtZXRhbCBpdGVtcyBpbiB0aGVpciBoYW5kcyBhcmUgYWZmZWN0ZWQgYnkgYSBkaXNhcm0gbWFuZXV2ZXIgYXMgdGhlIGl0ZW1zIGFyZSByaXBwZWQgZnJlZS4gRnJlZWluZyBhIHN0dWNrIGl0ZW0gcmVxdWlyZXMgYSBzdWNjZXNzZnVsIGdyYXBwbGUgY2hlY2sgYWdhaW5zdCB0aGUgb3Jl4oCZcyBDTUQuPGJyIC8+PGgyIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD05MTgiPk1uZW1vbmljIENyeXN0YWxzIChDUiAzKTwvYT48L2gyPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDI0NTwvaT48L2E+PGJyIC8+TW5lbW9uaWMgY3J5c3RhbHMgYXJlIGxhcmdlICgy4oCTNCBmZWV0IHRhbGwpIGNsdXN0ZXJzIG9mIHZpb2xldCBxdWFydHogY3J5c3RhbHMgdGhhdCByYWRpYXRlIGEgc3Ryb25nIGFianVyYXRpb24gYXVyYS4gVGhleSBjYW4gYmUgaWRlbnRpZmllZCB3aXRoIGEgREMgMjUgS25vd2xlZGdlIChhcmNhbmEpIGNoZWNrLiBBdHR1bmVkIHRvIHRoZSB1bmlxdWUgZW5lcmdpZXMgb2Ygc3BlbGxjcmFmdCwgbW5lbW9uaWMgY3J5c3RhbHMgaGFydmVzdCBtYWdpY2FsIGVuZXJneSBmb3IgZ3Jvd3RoIGFuZCBkZWZlbnNlLiBUaGUgY3J5c3RhbHMgZHJhaW4gcHJlcGFyZWQgc3BlbGxzIGZyb20gc3BlbGxjYXN0ZXJzIHdpdGhpbiAzMCBmZWV0LCB3aG8gbXVzdCBtYWtlIERDIDIyIFdpbGwgc2F2ZXMgZWFjaCByb3VuZCB3aGlsZSBpbiB0aGUgY3J5c3RhbHPigJkgYXJlYS4gRmFpbHVyZSByZXN1bHRzIGluIHRoZSBsb3NzIG9mIG9uZSBwcmVwYXJlZCBzcGVsbCwgY2hvc2VuIHJhbmRvbWx5LiBTcG9udGFuZW91cyBzcGVsbGNhc3RlcnMgc3VjaCBhcyBzb3JjZXJlcnMgYXJlIHVuYWZmZWN0ZWQuPGJyIC8+PGJyIC8+IERhbWFnaW5nIG9yIGJyZWFraW5nIHRoZSBjcnlzdGFscyBjYXVzZXMgdGhlbSB0byByZWxlYXNlIHRoZWlyIGFic29yYmVkIHNwZWxscyBpbiBhIGJ1cnN0IG9mIG1lbnRhbCBlbmVyZ3kgdGhhdCBkb2VzIDFkNiBwb2ludHMgb2YgV2lzZG9tIGRhbWFnZSB0byBhbGwgY3JlYXR1cmVzIGluIGEgMTAtZm9vdCByYWRpdXMuIE1uZW1vbmljIGNyeXN0YWxzIGFyZSBleGNlZWRpbmdseSBmcmFnaWxlIChoYXJkbmVzcyAwLCAxIGhpdCBwb2ludCkuIEluIGFyZWFzIHRoaWNrIHdpdGggdGhlIGNyeXN0YWxzLCBjcmVhdHVyZXMgcGFzc2luZyB0aHJvdWdoIG11c3QgbWFrZSBEQyAxMCBBY3JvYmF0aWNzIGNoZWNrcyB0byBhdm9pZCBzdGVwcGluZyBvbiBvciBicnVzaGluZyBhZ2FpbnN0IHRoZSBjcnlzdGFscyBhbmQgYnJlYWtpbmcgdGhlbS48YnIgLz48aDIgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTkxOSI+UG9pc29uIE9hayAoQ1IgMSBvciAzKTwvYT48L2gyPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDI0NTwvaT48L2E+PGJyIC8+Q29udGFjdCB3aXRoIHBvaXNvbiBvYWsgKENSIDEpIGNhdXNlcyBhIHBhaW5mdWwgcmFzaCwgYW5kIHRoZSByZXN1bHRpbmcgaXRjaCBsZWF2ZXMgdGhlIGhhcGxlc3MgdmljdGltIHNpY2tlbmVkIHVudGlsIHRoZSBkYW1hZ2UgaXMgaGVhbGVkLiBGdWxsIGJvZHkgY29udGFjdCBvciBpbmhhbGluZyB0aGUgc21va2UgZnJvbSBidXJuaW5nIHBvaXNvbiBvYWsgaXMgcGFydGljdWxhcmx5IGRhbmdlcm91cywgYW5kIGNhbiBiZSBmYXRhbCAoQ1IgMykuIEEgREMgMTUgS25vd2xlZGdlIChuYXR1cmUpIGNoZWNrIHJldmVhbHMgdGhpcyBzZWVtaW5nbHkgaW5ub2N1b3VzIHBsYW50IGZvciB3aGF0IGl0IGlzLiBUaGlzIGhhemFyZCBjYW4gYWxzbyBiZSB1c2VkIGZvciBzaW1pbGFyIG5veGlvdXMgcGxhbnRzIHN1Y2ggYXMgcG9pc29uIGl2eSwgcG9pc29uIHN1bWFjLCBhbmQgc3RpbmdpbmcgbmV0dGxlcywgdGhlIGxhdHRlciBub3QgYmVpbmcgaGF6YXJkb3VzIHdoZW4gYnVybmVkLiA8aDMgY2xhc3M9ImZyYW1pbmciPlBvaXNvbiBPYWs8L2gzPiA8Yj5UeXBlPC9iPiBwb2lzb24sIGNvbnRhY3Q7IDxiPlNhdmU8L2I+IEZvcnRpdHVkZSBEQyAxMzxiciAvPiA8Yj5PbnNldDwvYj4gMSBob3VyPGJyIC8+IDxiPkVmZmVjdDwvYj4gMWQ0IERleCBkYW1hZ2UsIGNyZWF0dXJlIHNpY2tlbmVkIHVudGlsIGRhbWFnZSBpcyBoZWFsZWQ7IDxiPkN1cmU8L2I+IDEgc2F2ZSA8aDMgY2xhc3M9ImZyYW1pbmciPlBvaXNvbiBPYWs8L2gzPiA8Yj5UeXBlPC9iPiBwb2lzb24sIGNvbnRhY3Qgb3IgaW5oYWxlZDsgPGI+U2F2ZTwvYj4gRm9ydGl0dWRlIERDIDE2PGJyIC8+IDxiPk9uc2V0PC9iPiAxIGhvdXI7IDxiPkZyZXF1ZW5jeTwvYj4gMS9ob3VyPGJyIC8+IDxiPkluaXRpYWwgRWZmZWN0PC9iPiAyZDQgRGV4IGRhbWFnZSBhbmQgMWQ0IENvbiBkYW1hZ2UsIGNyZWF0dXJlIHNpY2tlbmVkIHVudGlsIGRhbWFnZSBpcyBoZWFsZWQ7IDxiPlNlY29uZGFyeSBFZmZlY3Q8L2I+IDEgQ29uIGRhbWFnZTsgPGI+Q3VyZTwvYj4gMSBzYXZlPGJyIC8+PGgyIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD05MjAiPlJvdCBHcnVicyAoQ1IgNCk8L2E+PC9oMj48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiAyNDU8L2k+PC9hPjxiciAvPlJvdCBncnVicyBhcmUgbmF1c2VhdGluZyBwYXJhc2l0ZXMgdGhhdCBmZWVkIG9uIGZsZXNoIGFuZCBuZXN0IGluIGNvcnBzZXMuIEdlbmVyYWxseSwgYSBoYW5kZnVsIG9mIHRoZSBncnVicyBpbmZlc3QgYSBzaW5nbGUgY29ycHNlIGF0IGEgdGltZSwgYW5kIGEgREMgMTUgUGVyY2VwdGlvbiBjaGVjayBpcyBlbm91Z2ggdG8gbm90aWNlIGFuZCBhdm9pZCB0aGUgZ3J1YnMuIE90aGVyd2lzZSwgMWQ2IGdydWJzIHN3aWZ0bHkgYnVyc3QgZnJvbSB0aGUgY2FyY2FzcyB0byBidXJyb3cgaW50byB0aGUgY3JlYXR1cmUsIHdoaWNoIGNhbiBhdHRlbXB0IGEgREMgMTUgUmVmbGV4IHNhdmUgdG8gYXZvaWQgdGhlIGdydWJzIChidXQgb25seSBpZiB0aGUgY3JlYXR1cmUgaXMgYXdhcmUgb2YgdGhlIGdydWJz4oCZIHByZXNlbmNlKS4gQW55IGFtb3VudCBvZiBkYW1hZ2UgcmVkdWN0aW9uIGlzIGVub3VnaCB0byBwcm92aWRlIGltbXVuaXR5IHRvIGluZmVzdGF0aW9uLjxiciAvPjxiciAvPiBPbmNlIHJvdCBncnVicyBoYXZlIGluZmVzdGVkIGEgbGl2aW5nIGJvZHksIHRoZXkgYnVycm93IHRvd2FyZCB0aGUgaG9zdOKAmXMgaGVhcnQsIGJyYWluLCBhbmQgb3RoZXIga2V5IGludGVybmFsIG9yZ2FucywgZXZlbnR1YWxseSBjYXVzaW5nIGRlYXRoLiBPbiB0aGUgZmlyc3Qgcm91bmQgb2YgaW5mZXN0YXRpb24sIGFwcGx5aW5nIGZsYW1lIHRvIHRoZSBwb2ludCBvZiBlbnRyeSBjYW4ga2lsbCB0aGUgZ3J1YnMgYW5kIHNhdmUgdGhlIGhvc3QsIGJ1dCB0aGlzIGluZmxpY3RzIDFkNiBwb2ludHMgb2YgZmlyZSBkYW1hZ2UgdG8gdGhlIHZpY3RpbS4gQ3V0dGluZyB0aGUgZ3J1YnMgb3V0IGFsc28gd29ya3MsIGJ1dCB0aGUgbG9uZ2VyIHRoZSBncnVicyByZW1haW4gaW4gYSBob3N0LCB0aGUgbW9yZSBkYW1hZ2UgdGhpcyBtZXRob2QgZG9lcy4gQ3V0dGluZyB0aGVtIG91dCByZXF1aXJlcyBhIHNsYXNoaW5nIHdlYXBvbiBhbmQgYSBEQyAyMCBIZWFsIGNoZWNrLCBhbmQgaW5mbGljdHMgMWQ2IHBvaW50cyBvZiBkYW1hZ2UgcGVyIHJvdW5kIHRoYXQgdGhlIGhvc3QgaGFzIGJlZW4gaW5mZXN0ZWQuIElmIHRoZSBIZWFsIGNoZWNrIGlzIHN1Y2Nlc3NmdWwsIG9uZSBncnViIGlzIHJlbW92ZWQuIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1SZW1vdmUgZGlzZWFzZSI+PGk+UmVtb3ZlIGRpc2Vhc2U8L2k+PC9hPiBraWxscyBhbnkgcm90IGdydWJzIGluIG9yIG9uIGEgaG9zdC4gPGgzIGNsYXNzPSJmcmFtaW5nIj5Sb3QgR3J1YnM8L2gzPiA8Yj5UeXBlPC9iPiBpbmZlc3RhdGlvbjsgPGI+U2F2ZTwvYj4gRm9ydGl0dWRlIERDIDE3PGJyIC8+IDxiPk9uc2V0PC9iPiBpbW1lZGlhdGU7IDxiPkZyZXF1ZW5jeTwvYj4gMS9yb3VuZDxiciAvPiA8Yj5FZmZlY3Q8L2I+IDFkMiBDb24gZGFtYWdlIHBlciBncnViPGJyIC8+PGgyIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD05MjEiPkluZmVzdGF0aW9uczwvYT48L2gyPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDI0NTwvaT48L2E+PGJyIC8+UGFyYXNpdGVzIHN1Y2ggYXMgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlJ1bGVzLmFzcHg/TmFtZT1FYXIgU2Vla2VycyAoQ1IgNSkmQ2F0ZWdvcnk9U2FtcGxlIEhhemFyZHMiPmVhciBzZWVrZXJzPC9hPiBvciA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iUnVsZXMuYXNweD9OYW1lPVJvdCBHcnVicyAoQ1IgNCkmQ2F0ZWdvcnk9U2FtcGxlIEhhemFyZHMiPnJvdCBncnViczwvYT4gY2F1c2UgaW5mZXN0YXRpb25zLCBhIHR5cGUgb2YgYWZmbGljdGlvbiBzaW1pbGFyIHRvIGRpc2Vhc2VzLiBJbmZlc3RhdGlvbnMgY2FuIG9ubHkgYmUgY3VyZWQgdGhyb3VnaCBzcGVjaWZpYyBtZWFuczsgbm8gbWF0dGVyIGhvdyBtYW55IHNhdmluZyB0aHJvd3MgYXJlIG1hZGUsIHRoZSBpbmZlc3RhdGlvbiBjb250aW51ZXMgdG8gYWZmbGljdCB0aGUgdGFyZ2V0LiBXaGlsZSBhIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1yZW1vdmUgZGlzZWFzZSI+PGk+cmVtb3ZlIGRpc2Vhc2U8L2k+PC9hPiBzcGVsbCAob3Igc2ltaWxhciBlZmZlY3QpIGluc3RhbnRseSBoYWx0cyBhbiBpbmZlc3RhdGlvbiwgaW1tdW5pdHkgdG8gZGlzZWFzZSBvZmZlcnMgbm8gcHJvdGVjdGlvbiwgYXMgdGhlIGluZmVzdGF0aW9uIGl0c2VsZiBpcyBjYXVzZWQgYnkgcGFyYXNpdGVzLiAgZGRksV8oPgNDnvAdlOHr+FPkEcNTHJ74o+bmti66+J6ZUqU=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=454">GameMastery Guide</a></u> / <u><a href="Rules.aspx?ID=870">Advanced Topics</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=911">Hazards</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 244</i></a><br />The adventuring world is filled with dangers beyond dragons and ravening fiends. Hazards are location-based threats that have much in common with traps, but are usually intrinsic to their area rather than constructed.<br /><br /> Hazards fall into three main categories: environmental, living, and magical. Environmental hazards include subterranean threats like cave-ins and wilderness dangers like forest fires. Living hazards are creatures that are generally too passive to be considered monsters, but are still a threat to unwary adventurers, such as dangerous molds, slimes, and fungi. Magical hazards are the most unpredictable, and can be the legacy of arcane experimentation, strange underground radiations, or ancient enchantments gone awry.<br /><br /> Hazards have challenge ratings like traps or monsters. A typical hazard triggers if a creature ventures near or into it, causing hit point damage, ability damage or drain, or some other harmful effect. Most can be detected by wary and knowledgeable PCs. Every hazard should have a means of escape or a way to eliminate the hazard, if not both.<br /><h1 class="title"><a href="Rules.aspx?ID=912">Sample Hazards</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 244</i></a><br />Presented here are a variety of unusual hazards.<br /><h2 class="title"><a href="Rules.aspx?ID=913">Accursed Pool (CR 3)</a></h2><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 244</i></a><br />The lingering effects of ancient curses or harmful energy leaching from a submerged cursed magical item can turn a simple pool of water into a dangerous magical hazard. An accursed pool lures passersby into its depths with a <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=silent image"><i>silent image</i></a> (DC 16 Will save to disbelieve) of glittering treasure at the bottom of its 10-foot depth. Any creature that reaches the treasure triggers the curse. A creature within the pool must make a DC 16 Will save or be affected by the curse, which warps its perception of the pool. The water seems to thicken into viscous goo, while the pool appears to distort to a depth of 40 feet. Swim checks in the pool suffer a –10 penalty and are at half normal speed as a result of these effects, and spellcasting within the pool requires a concentration check with a DC of 15 + the level of the spell being cast. An accursed pool radiates strong magic, and is destroyed by dispel magic or <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=remove curse"><i>remove curse</i></a> (caster level check DC 15).<br /><h2 class="title"><a href="Rules.aspx?ID=914">Bad Air (CR 1 or 4)</a></h2><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 244</i></a><br />An invisible hazard, pockets of low-oxygen gas present a danger to miners and spelunkers as well as caverndelving adventurers. Nonflammable gases such as carbon dioxide or nitrogen are CR 1 and require a DC 25 Survival check to notice. Creatures breathing the air must make a Fortitude save (DC 15 + 1 per previous check) each hour or become fatigued. After a creature becomes fatigued, slow suffocation sets in. Creatures holding their breath can avoid these effects.<br /><br /> Flammable vapors such as coal gas are much more dangerous (CR 4). The gases displace breathable air in the lungs, causing fatigue as described above. In addition, any open flame or spark causes an explosion for 6d6 points of damage (Reflex save DC 15 for half ) to all in the cavern or within 5 feet of an entrance. The fire burns away the oxygen in the air, leaving it unbreathable for 2d4 minutes. After an explosion, flammable gas usually takes several days to build up to dangerous levels again.<br /><h2 class="title"><a href="Rules.aspx?ID=915">Dweomersink (CR 6)</a></h2><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 244</i></a><br />Zones of magical entropy that disrupt spells, dweomersinks are occasionally formed at the sites of great magical duels, by the destruction of powerful artifacts, or by vortices of eldritch energy at the fringes of antimagic zones. They vary in size from small bubbles only a few feet across to large areas the size of a town. A successful DC 20 Spellcraft check detects a tingling in the air that heralds the presence of a nearby dweomersink. An active spell brought into a dweomersink may be dispelled, and any spell cast inside a dweomersink is subject to an immediate counterspell (both as <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=dispel magic"><i>dispel magic</i></a>, caster level 8th). The resulting release of magical energy deals 1d6 points of damage per spell level in a 5-foot burst centered on the bearer of the spell entering the area or the caster of a new spell (Reflex DC 15 half ). If multiple overlapping bursts hit the same target, only the most damaging applies. Once a spell effect has survived a dispel attempt, it is not affected again unless it leaves and reenters the dweomersink. More powerful dweomersinks are even more disruptive. Each +1 increase in CR increases the caster level of the dispel check by 2 and the save DC for the damaging burst by 1.<br /><h2 class="title"><a href="Rules.aspx?ID=916">Ear Seekers (CR 5)</a></h2><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 244</i></a><br />Ear seekers are tiny, pale-colored worms that dwell in rotting wood or other organic detritus. They can be noticed with a DC 15 Perception check. Otherwise, a living creature poking about their lair inadvertently transfers one or more ear seekers to its body. The seekers then search out a warm location on the creature, especially favoring the ear canal. Once there, they lay 2d8 eggs before dying. The eggs hatch 4d6 hours later and the larvae devour the surrounding flesh. Upon the death of their host, the new ear seekers crawl out and seek a new host. <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=Remove disease"><i>Remove disease</i></a> kills any ear seekers or unhatched eggs in or on a host. Some ear seekers favor living in intact wood, often hiding in dungeon doors. The small pinholes left by this variety are particularly hard to spot (Perception DC 20). <h3 class="framing">Ear Seekers</h3> <b>Type</b> infestation; <b>Save</b> Fortitude DC 15<br /> <b>Onset</b> 4d6 hours; <b>Frequency</b> 1/hour<br /> <b>Effect</b> 1d6 Con damage<br /><h2 class="title"><a href="Rules.aspx?ID=917">Magnetized Ore (CR 2)</a></h2><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 245</i></a><br />The strange energies of the subterranean world can charge rocks and veins of ore with powerful magnetic fields, creating a hazard for anyone carrying or wearing ferrous metals. Any steel or iron brought within 20 feet of the ore is drawn toward it. Medium-sized creatures carrying 30 or more pounds of ferrous metal are pulled toward the ore as if by the pull special ability (<i>Pathfinder RPG Bestiary</i> 303). The ore has an effective CMB of +7 and CMD 17. Small creatures are pulled if they have 15 pounds of metal, Large if they have at least 60 pounds. For creatures of other sizes, modify the weight required as per the rules for carrying capacity. Creatures wearing metallic armor suffer a penalty to their CMD to resist the pull (–2 for medium armor, –4 for heavy armor). Affected creatures are pulled up to 20 feet and slammed against the rock for 2d6 points of damage and gain the grappled condition. Creatures not carrying large amounts of metal but holding metal items in their hands are affected by a disarm maneuver as the items are ripped free. Freeing a stuck item requires a successful grapple check against the ore’s CMD.<br /><h2 class="title"><a href="Rules.aspx?ID=918">Mnemonic Crystals (CR 3)</a></h2><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 245</i></a><br />Mnemonic crystals are large (2–4 feet tall) clusters of violet quartz crystals that radiate a strong abjuration aura. They can be identified with a DC 25 Knowledge (arcana) check. Attuned to the unique energies of spellcraft, mnemonic crystals harvest magical energy for growth and defense. The crystals drain prepared spells from spellcasters within 30 feet, who must make DC 22 Will saves each round while in the crystals’ area. Failure results in the loss of one prepared spell, chosen randomly. Spontaneous spellcasters such as sorcerers are unaffected.<br /><br /> Damaging or breaking the crystals causes them to release their absorbed spells in a burst of mental energy that does 1d6 points of Wisdom damage to all creatures in a 10-foot radius. Mnemonic crystals are exceedingly fragile (hardness 0, 1 hit point). In areas thick with the crystals, creatures passing through must make DC 10 Acrobatics checks to avoid stepping on or brushing against the crystals and breaking them.<br /><h2 class="title"><a href="Rules.aspx?ID=919">Poison Oak (CR 1 or 3)</a></h2><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 245</i></a><br />Contact with poison oak (CR 1) causes a painful rash, and the resulting itch leaves the hapless victim sickened until the damage is healed. Full body contact or inhaling the smoke from burning poison oak is particularly dangerous, and can be fatal (CR 3). A DC 15 Knowledge (nature) check reveals this seemingly innocuous plant for what it is. This hazard can also be used for similar noxious plants such as poison ivy, poison sumac, and stinging nettles, the latter not being hazardous when burned. <h3 class="framing">Poison Oak</h3> <b>Type</b> poison, contact; <b>Save</b> Fortitude DC 13<br /> <b>Onset</b> 1 hour<br /> <b>Effect</b> 1d4 Dex damage, creature sickened until damage is healed; <b>Cure</b> 1 save <h3 class="framing">Poison Oak</h3> <b>Type</b> poison, contact or inhaled; <b>Save</b> Fortitude DC 16<br /> <b>Onset</b> 1 hour; <b>Frequency</b> 1/hour<br /> <b>Initial Effect</b> 2d4 Dex damage and 1d4 Con damage, creature sickened until damage is healed; <b>Secondary Effect</b> 1 Con damage; <b>Cure</b> 1 save<br /><h2 class="title"><a href="Rules.aspx?ID=920">Rot Grubs (CR 4)</a></h2><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 245</i></a><br />Rot grubs are nauseating parasites that feed on flesh and nest in corpses. Generally, a handful of the grubs infest a single corpse at a time, and a DC 15 Perception check is enough to notice and avoid the grubs. Otherwise, 1d6 grubs swiftly burst from the carcass to burrow into the creature, which can attempt a DC 15 Reflex save to avoid the grubs (but only if the creature is aware of the grubs’ presence). Any amount of damage reduction is enough to provide immunity to infestation.<br /><br /> Once rot grubs have infested a living body, they burrow toward the host’s heart, brain, and other key internal organs, eventually causing death. On the first round of infestation, applying flame to the point of entry can kill the grubs and save the host, but this inflicts 1d6 points of fire damage to the victim. Cutting the grubs out also works, but the longer the grubs remain in a host, the more damage this method does. Cutting them out requires a slashing weapon and a DC 20 Heal check, and inflicts 1d6 points of damage per round that the host has been infested. If the Heal check is successful, one grub is removed. <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=Remove disease"><i>Remove disease</i></a> kills any rot grubs in or on a host. <h3 class="framing">Rot Grubs</h3> <b>Type</b> infestation; <b>Save</b> Fortitude DC 17<br /> <b>Onset</b> immediate; <b>Frequency</b> 1/round<br /> <b>Effect</b> 1d2 Con damage per grub<br /><h2 class="title"><a href="Rules.aspx?ID=921">Infestations</a></h2><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 245</i></a><br />Parasites such as <a style="text-decoration:underline" href="Rules.aspx?Name=Ear Seekers (CR 5)&Category=Sample Hazards">ear seekers</a> or <a style="text-decoration:underline" href="Rules.aspx?Name=Rot Grubs (CR 4)&Category=Sample Hazards">rot grubs</a> cause infestations, a type of affliction similar to diseases. Infestations can only be cured through specific means; no matter how many saving throws are made, the infestation continues to afflict the target. While a <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=remove disease"><i>remove disease</i></a> spell (or similar effect) instantly halts an infestation, immunity to disease offers no protection, as the infestation itself is caused by parasites.  </span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

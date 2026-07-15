@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Haunts - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Haunts" /><meta name="description" content="The distinction between a trap and an undead creature blurs when you introduce a haunt—a hazardous region created by unquiet spirits that react violently to the presence of the living. The exact conditions that cause a haunt to manifest vary from case to case—but haunts always arise from a source of terrific mental or physical anguish endured by living, tormented creatures. A single, source of suffering can create multiple haunts, or multiple sources could consolidate into a single haunt. The relative power of the source has little bearing on the strength of the resulting haunt—it’s the magnitude of the suffering or despair that created the haunt that decides its power. Often, undead inhabit regions infested with haunts—it’s even possible for a person who dies to rise as a ghost (or other undead) and trigger the creation of numerous haunts. A haunt infuses a specific area, and often multiple haunted areas exist within a single structure. The classic haunted house isn’t a single haunt, but usually a dozen or more haunted areas spread throughout the structure." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=907" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXXVzx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDU0Ij5HYW1lTWFzdGVyeSBHdWlkZTwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD04NzAiPkFkdmFuY2VkIFRvcGljczwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD05MDciPkhhdW50czwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDI0MjwvaT48L2E+PGJyIC8+VGhlIGRpc3RpbmN0aW9uIGJldHdlZW4gYSB0cmFwIGFuZCBhbiB1bmRlYWQgY3JlYXR1cmUgYmx1cnMgd2hlbiB5b3UgaW50cm9kdWNlIGEgaGF1bnTigJRhIGhhemFyZG91cyByZWdpb24gY3JlYXRlZCBieSB1bnF1aWV0IHNwaXJpdHMgdGhhdCByZWFjdCB2aW9sZW50bHkgdG8gdGhlIHByZXNlbmNlIG9mIHRoZSBsaXZpbmcuIFRoZSBleGFjdCBjb25kaXRpb25zIHRoYXQgY2F1c2UgYSBoYXVudCB0byBtYW5pZmVzdCB2YXJ5IGZyb20gY2FzZSB0byBjYXNl4oCUYnV0IGhhdW50cyBhbHdheXMgYXJpc2UgZnJvbSBhIHNvdXJjZSBvZiB0ZXJyaWZpYyBtZW50YWwgb3IgcGh5c2ljYWwgYW5ndWlzaCBlbmR1cmVkIGJ5IGxpdmluZywgdG9ybWVudGVkIGNyZWF0dXJlcy4gQSBzaW5nbGUsIHNvdXJjZSBvZiBzdWZmZXJpbmcgY2FuIGNyZWF0ZSBtdWx0aXBsZSBoYXVudHMsIG9yIG11bHRpcGxlIHNvdXJjZXMgY291bGQgY29uc29saWRhdGUgaW50byBhIHNpbmdsZSBoYXVudC4gVGhlIHJlbGF0aXZlIHBvd2VyIG9mIHRoZSBzb3VyY2UgaGFzIGxpdHRsZSBiZWFyaW5nIG9uIHRoZSBzdHJlbmd0aCBvZiB0aGUgcmVzdWx0aW5nIGhhdW504oCUaXTigJlzIHRoZSBtYWduaXR1ZGUgb2YgdGhlIHN1ZmZlcmluZyBvciBkZXNwYWlyIHRoYXQgY3JlYXRlZCB0aGUgaGF1bnQgdGhhdCBkZWNpZGVzIGl0cyBwb3dlci4gT2Z0ZW4sIHVuZGVhZCBpbmhhYml0IHJlZ2lvbnMgaW5mZXN0ZWQgd2l0aCBoYXVudHPigJRpdOKAmXMgZXZlbiBwb3NzaWJsZSBmb3IgYSBwZXJzb24gd2hvIGRpZXMgdG8gcmlzZSBhcyBhIGdob3N0IChvciBvdGhlciB1bmRlYWQpIGFuZCB0cmlnZ2VyIHRoZSBjcmVhdGlvbiBvZiBudW1lcm91cyBoYXVudHMuIEEgaGF1bnQgaW5mdXNlcyBhIHNwZWNpZmljIGFyZWEsIGFuZCBvZnRlbiBtdWx0aXBsZSBoYXVudGVkIGFyZWFzIGV4aXN0IHdpdGhpbiBhIHNpbmdsZSBzdHJ1Y3R1cmUuIFRoZSBjbGFzc2ljIGhhdW50ZWQgaG91c2UgaXNu4oCZdCBhIHNpbmdsZSBoYXVudCwgYnV0IHVzdWFsbHkgYSBkb3plbiBvciBtb3JlIGhhdW50ZWQgYXJlYXMgc3ByZWFkIHRocm91Z2hvdXQgdGhlIHN0cnVjdHVyZS48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTkwOCI+SGF1bnQgUnVsZXM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiAyNDI8L2k+PC9hPjxiciAvPkFsdGhvdWdoIGhhdW50cyBmdW5jdGlvbiBsaWtlIHRyYXBzLCB0aGV5IGFyZSBkaWZmaWN1bHQgdG8gZGV0ZWN0IHNpbmNlIHRoZXkgY2Fubm90IGJlIGVhc2lseSBvYnNlcnZlZCB1bnRpbCB0aGUgcm91bmQgaW4gd2hpY2ggdGhleSBtYW5pZmVzdC4gPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPURldGVjdCB1bmRlYWQiPjxpPkRldGVjdCB1bmRlYWQ8L2k+PC9hPiBvciA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9ZGV0ZWN0IGFsaWdubWVudCI+PGk+ZGV0ZWN0IGFsaWdubWVudDwvaT48L2E+IHNwZWxscyBvZiB0aGUgYXBwcm9wcmlhdGUgdHlwZSBhbGxvdyBhbiBvYnNlcnZlciBhIGNoYW5jZSB0byBub3RpY2UgYSBoYXVudCBldmVuIGJlZm9yZSBpdCBtYW5pZmVzdHMgKGFsbG93aW5nIHRoYXQgY2hhcmFjdGVyIHRoZSBhcHByb3ByaWF0ZSBjaGVjayB0byBub3RpY2UgdGhlIGhhdW50LCBidXQgYXQgYSDigJM0IHBlbmFsdHkpLjxiciAvPjxiciAvPiBBIGhhdW50IGNhbiBpbmZ1c2UgYSBtYXhpbXVtIGFyZWEgd2l0aCBhIDUtZm9vdCByYWRpdXMgcGVyIHBvaW50IG9mIENSIHBvc3Nlc3NlZCBieSB0aGUgaGF1bnQsIGJ1dCB0aGUgYWN0dWFsIGFyZWEgaXMgdXN1YWxseSBsaW1pdGVkIGJ5IHRoZSBzaXplIG9mIHRoZSByb29tIGluIHdoaWNoIHRoZSBoYXVudCBpcyBsb2NhdGVkLjxiciAvPjxiciAvPiBXaGVuIGEgaGF1bnQgaXMgdHJpZ2dlcmVkLCBpdHMgZWZmZWN0cyBtYW5pZmVzdCBhdCBpbml0aWF0aXZlIHJhbmsgMTAgaW4gYSBzdXJwcmlzZSByb3VuZC4gQWxsIGNoYXJhY3RlcnMgaW4gdGhlIGhhdW504oCZcyBwcm94aW1pdHkgY2FuIGF0dGVtcHQgdG8gbm90aWNlIHRoZSBoYXVudCBhdCB0aGUgc3RhcnQgb2YgdGhpcyBzdXJwcmlzZSByb3VuZCBieSBtYWtpbmcgYSBub3RpY2UgY2hlY2spLiBBbGwgaGF1bnRzIGRldGVjdCBsaWZlIHNvdXJjZXMgYW5kIHRyaWdnZXIgYXMgYSByZXN1bHQgb2YgdGhlIGFwcHJvYWNoIG9mIG9yIGNvbnRhY3Qgd2l0aCBsaXZpbmcgY3JlYXR1cmVzLCBidXQgc29tZSBoYXVudHMgY2FuIGJlIHRyaWNrZWQgYnkgZWZmZWN0cyBsaWtlIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1oaWRlIGZyb20gdW5kZWFkIj48aT5oaWRlIGZyb20gdW5kZWFkPC9pPjwvYT4gb3IgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPWludmlzaWJpbGl0eSI+PGk+aW52aXNpYmlsaXR5PC9pPjwvYT4uPGJyIC8+PGJyIC8+IE9uIHRoZSBzdXJwcmlzZSByb3VuZCBpbiB3aGljaCBhIGhhdW50IG1hbmlmZXN0cywgcG9zaXRpdmUgZW5lcmd5IGFwcGxpZWQgdG8gdGhlIGhhdW50ICh2aWEgY2hhbm5lbGVkIGVuZXJneSwgY3VyZSBzcGVsbHMsIGFuZCB0aGUgbGlrZSkgY2FuIGRhbWFnZSB0aGUgaGF1bnTigJlzIGhpdCBwb2ludHMgKGEgaGF1bnQgbmV2ZXIgZ2FpbnMgYSBXaWxsIHNhdmUgdG8gbGVzc2VuIHRoZSBkYW1hZ2UgZG9uZSBieSBzdWNoIGVmZmVjdHMsIGFuZCBhdHRhY2tzIHRoYXQgcmVxdWlyZSBhIHN1Y2Nlc3NmdWwgYXR0YWNrIHJvbGwgdG8gd29yayBtdXN0IHN0cmlrZSBBQyAxMCBpbiBvcmRlciB0byBhZmZlY3QgdGhlIGhhdW50IGFuZCBub3QgbWVyZWx5IHRoZSBwaHlzaWNhbCBzdHJ1Y3R1cmUgaXQgaW5oYWJpdHMpLiBVbmxlc3MgdGhlIGhhdW50IGhhcyBhbiB1bnVzdWFsIHdlYWtuZXNzLCBubyBvdGhlciBmb3JtIG9mIGF0dGFjayBjYW4gcmVkdWNlIGl0cyBoaXQgcG9pbnRzLiBJZiB0aGUgaGF1bnQgaXMgcmVkdWNlZCB0byAwIGhpdCBwb2ludHMgYnkgcG9zaXRpdmUgZW5lcmd5LCBpdCBpcyBuZXV0cmFsaXplZOKAlCBpZiB0aGlzIG9jY3VycyBiZWZvcmUgdGhlIGhhdW50IHRha2VzIGl0cyBhY3Rpb24gYXQgaW5pdGlhdGl2ZSByYW5rIDEwLCBpdHMgZWZmZWN0IGRvZXMgbm90IG9jY3VyLjxiciAvPjxiciAvPiBBIGhhdW50IGNhbiBoYXZlIHZpcnR1YWxseSBhbnkgZWZmZWN0IGlkZW50aWNhbCB0byBhbiBleGlzdGluZyBzcGVsbCBlZmZlY3QsIGJ1dCBvZnRlbiB3aXRoIGRpZmZlcmVudOKAlGFuZCBkaXN0aW5jdGx5IG1vcmUgZnJpZ2h0ZW5pbmcgb3IgdW5uZXJ2aW5n4oCUc2Vuc29yeSBvciBwaHlzaWNhbCBmZWF0dXJlcyB0aGFuIHRoYXQgc3BlbGwgZWZmZWN0IG5vcm1hbGx5IGhhcy4gKEEgaGF1bnQgdGhhdCBoYXMgYW4gZWZmZWN0IG5vdCBpZGVudGljYWwgdG8gYW4gZXhpc3Rpbmcgc3BlbGwgaXMgY2VydGFpbmx5IHBvc3NpYmxlLCBidXQgdGhpcyByZXF1aXJlcyBkZXNpZ25pbmcgYSBuZXcgc3BlbGwgZWZmZWN0LikgQSBoYXVudCBtaWdodCBjYXVzZSBhIHJvb20gdG8gZXhwbG9kZSBpbnRvIGZsYW1lcyAoZHVwbGljYXRpbmcgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPWZpcmViYWxsIj48aT5maXJlYmFsbDwvaT48L2E+IG9yIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1maXJlIHN0b3JtIj48aT5maXJlIHN0b3JtPC9pPjwvYT4pLCBpbmZ1c2UgYSBjaGFtYmVyIHdpdGggZmVhciAoZHVwbGljYXRpbmcgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPWNhdXNlIGZlYXIiPjxpPmNhdXNlIGZlYXI8L2k+PC9hPiwgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPXNjYXJlIj48aT5zY2FyZTwvaT48L2E+LCBvciA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9ZmVhciI+PGk+ZmVhcjwvaT48L2E+KSwgb3IgdHJ5IHRvIGZyaWdodGVuIGEgdGFyZ2V0IHRvIGRlYXRoIChkdXBsaWNhdGluZyA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9cGhhbnRhc21hbCBraWxsZXIiPjxpPnBoYW50YXNtYWwga2lsbGVyPC9pPjwvYT4gb3IgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPXNsYXkgbGl2aW5nIj48aT5zbGF5IGxpdmluZzwvaT48L2E+KS4gSG93IHRoZSBoYXVudOKAmXMgZWZmZWN0cyBtYW5pZmVzdCBhcmUgbGVmdCB0byB5b3UgdG8gZGV0ZXJtaW5lLjxiciAvPjxiciAvPiBBIG5ldXRyYWxpemVkIGhhdW50IGlzIG5vdCBkZXN0cm95ZWQsIGFuZCBjYW4gbWFuaWZlc3QgYWdhaW4gYWZ0ZXIgYSBwZXJpb2Qgb2YgdGltZeKAlHRvIGRlc3Ryb3kgYSBoYXVudCwgYSBzcGVjaWZpYyBhY3Rpb24gbXVzdCBiZSB0YWtlbiBpbiB0aGUgcmVnaW9uIHRvIGVuZCB0aGUgZWZmZWN0IGZvcmV2ZXIgKHN1Y2ggYXMgYnVybmluZyBhIGhhdW50ZWQgaG91c2UgdG8gdGhlIGdyb3VuZCBvciBidXJ5aW5nIHRoZSBib25lcyBvZiB0aGUgc2xhdmVzIHdobyBkaWVkIG9uIHRoZSBzaXRlIHRvIGNyZWF0ZSB0aGUgaGF1bnQpLiBUaGlzIHNwZWNpZmljIGFjdCBpcyBkaWZmZXJlbnQgZm9yIGV2ZXJ5IGhhdW50IChhbHRob3VnaCBhIG51bWJlciBvZiBuZWFyYnkgaGF1bnRzIG9mdGVuIHNoYXJlIHRoZSBzYW1lIGRlc3RydWN0aW9uIGFjdCkuPGJyIC8+PGJyIC8+IFNvbWUgaGF1bnRzIGFyZSBwZXJzaXN0ZW50LCBhbmQgdGhlaXIgaW1tZWRpYXRlIGVmZmVjdHMgY29udGludWUgYmV5b25kIHRoZSBzdXJwcmlzZSByb3VuZCBpbnRvIGFjdHVhbCBmdWxsIHJvdW5kcy4gUGVyc2lzdGVudCBoYXVudHMgY29udGludWUgdG8gdHJpZ2dlciB0aGVpciBoYXVudCBlZmZlY3RzIG9uY2UgcGVyIHJvdW5kIG9uIHRoZWlyIGluaXRpYXRpdmUgcmFuayB1bnRpbCBkZXN0cm95ZWQgb3IgdGhleSBubyBsb25nZXIgaGF2ZSBhIHRhcmdldC48YnIgLz48YnIgLz4gQWxsIHByaW1hcnkgZWZmZWN0cyBjcmVhdGVkIGJ5IGEgaGF1bnQgYXJlIG1pbmQtYWZmZWN0aW5nIGZlYXIgZWZmZWN0cywgZXZlbiB0aG9zZSB0aGF0IGFjdHVhbGx5IHByb2R1Y2UgcGh5c2ljYWwgZWZmZWN0cy4gSW1tdW5pdHkgdG8gZmVhciBncmFudHMgaW1tdW5pdHkgdG8gYSBoYXVudOKAmXMgZGlyZWN0IGVmZmVjdHMsIGJ1dCBub3QgdG8gc2Vjb25kYXJ5IGVmZmVjdHMgdGhhdCBhcmlzZSBhcyBhIHJlc3VsdCBvZiB0aGUgaGF1bnTigJlzIGF0dGFjay48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTkwOSI+RWxlbWVudHMgb2YgYSBIYXVudDwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDI0MzwvaT48L2E+PGJyIC8+SGF1bnRzIGFyZSBwcmVzZW50ZWQgaW4gdGhlIGZvbGxvd2luZyBmb3JtYXQuPGJyIC8+PGJyIC8+IDxiPkhhdW50IE5hbWU8L2I+OiBUaGUgaGF1bnTigJlzIG5hbWUgaXMgZm9sbG93ZWQgYnkgaXRzIENSLjxiciAvPjxiciAvPiA8Yj5YUDwvYj46IFRoaXMgaXMgdGhlIGFtb3VudCBvZiBYUCB0byBhd2FyZCB0aGUgUENzIGZvciBzdXJ2aXZpbmcgdGhlIGhhdW50LCBhcyBkZXRlcm1pbmVkIGJ5IGl0cyBDUi48YnIgLz48YnIgLz4gPGI+QWxpZ25tZW50IGFuZCBBcmVhPC9iPjogVGhpcyBsaW5lIGdpdmVzIHRoZSBoYXVudOKAmXMgYWxpZ25tZW50IGFuZCB0aGUgZGltZW5zaW9ucyBvZiB0aGUgYXJlYSBpdCBpbmZ1c2VzICh1cCB0byA1IGZlZXQgcGVyIENSKS4gSWYgYSBoYXVudCBpcyBwZXJzaXN0ZW50LCB0aGlzIGlzIG5vdGVkIGhlcmUgYXMgd2VsbC48YnIgLz48YnIgLz4gPGI+Q2FzdGVyIExldmVsPC9iPjogVGhpcyBpcyB0aGUgaGF1bnTigJlzIGVmZmVjdGl2ZSBjYXN0ZXIgbGV2ZWwgZm9yIHRoZSBwdXJwb3NlcyBvZiBkaXNwZWxsaW5nIGFueSBvbmdvaW5nIGVmZmVjdHMgd2l0aCBkaXNwZWwgbWFnaWMsIGFuZCBmb3IgZGV0ZXJtaW5pbmcgdGhlIHJlc3VsdHMgb2Ygc3BlbGwgZWZmZWN0cyBpdCBjcmVhdGVzLjxiciAvPjxiciAvPiA8Yj5Ob3RpY2U8L2I+OiBUaGlzIGluZGljYXRlcyB0aGUgc2tpbGwgY2hlY2sgYW5kIERDIHJlcXVpcmVkIHRvIG5vdGljZSB0aGUgaGF1bnQgaW4gdGhlIHN1cnByaXNlIHJvdW5kIGJlZm9yZSBpdCBtYW5pZmVzdHMuIFRoZSBzZW5zb3J5IGlucHV0IGZvciB3aGF0IGEgc3VjY2Vzc2Z1bCBjaGVjayBub3RpY2Vz4oCUIHN1Y2ggYXMgYSBmYWludCBnaG9zdGx5IHdhaWxpbmcsIGEgc21lbGwgb2YgYnVybmluZyBmbGVzaCwgb3IgZnJlc2ggYmxvb2Qgb296aW5nIGZyb20gdGhlIHdhbGxz4oCUaXMgbGlzdGVkIGluIHBhcmVudGhlc2VzIGFmdGVyIHRoZSBEQy48YnIgLz48YnIgLz4gPGI+aHA8L2I+OiBUaGlzIGxpc3RzIHRoZSBoYXVudOKAmXMgZWZmZWN0aXZlIGhpdCBwb2ludHMgZm9yIHRoZSBwdXJwb3NlcyBvZiByZXNvbHZpbmcgcG9zaXRpdmUgZW5lcmd5IGRhbWFnZS4gQSBoYXVudOKAmXMgaGl0IHBvaW50cyBhcmUgZXF1YWwgdG8gdHdpY2UgaXRzIENSLCBleGNlcHQgaW4gdGhlIGNhc2Ugb2YgYSBwZXJzaXN0ZW50IGhhdW50LCBpbiB3aGljaCBjYXNlIGl0cyBoaXQgcG9pbnRzIGFyZSBlcXVhbCB0byBpdHMgQ1Igw5cgNC41IChyb3VuZCBmcmFjdGlvbnMgZG93bikuPGJyIC8+PGJyIC8+IDxiPldlYWtuZXNzPC9iPjogQW55IHdlYWtuZXNzZXMgdGhlIGhhdW50IG1pZ2h0IGhhdmUsIHN1Y2ggYXMgZm9yIGhhdW50cyB0aGF0IGNhbiBiZSB0cmlja2VkIGJ5IGVmZmVjdHMgbGlrZSBoaWRlIGZyb20gdW5kZWFkIG9yIGNhbiBiZSBkYW1hZ2VkIGJ5IGVmZmVjdHMgb3RoZXIgdGhhbiBwb3NpdGl2ZSBlbmVyZ3ksIGFyZSBsaXN0ZWQgaGVyZS48YnIgLz48YnIgLz4gPGI+VHJpZ2dlcjwvYj46IFRoZSBjb25kaXRpb25zIHRoYXQgY2FuIGNhdXNlIHRoZSBoYXVudCB0byBtYW5pZmVzdCBhcmUgZ2l2ZW4gaGVyZS4gUHJveGltaXR5LXRyaWdnZXJlZCBoYXVudHMgb2NjdXIgYXMgc29vbiBhcyBhIGNyZWF0dXJlIGVudGVycyB0aGUgaGF1bnTigJlzIGFyZWEuIEEgaGF1bnQgdHJpZ2dlcmVkIGJ5IHRvdWNoIGRvZXMgbm90IGFjdGl2YXRlIHVudGlsIGEgbGl2aW5nIGNyZWF0dXJlIHRvdWNoZXMgYSBzcGVjaWZpYyBvYmplY3Qgb3IgbG9jYXRpb24gaW4gaXRzIGFyZWEsIGJ1dCBpdCBjYW4gc2Vuc2UgKGFuZCB0aHVzIHRhcmdldCB3aXRoIGl0cyBlZmZlY3RzKSBhbnkgY3JlYXR1cmUgaW4gaXRzIGFyZWEuPGJyIC8+PGJyIC8+IDxiPlJlc2V0PC9iPjogVGhpcyBpcyB0aGUgYW1vdW50IG9mIHRpbWUgdGhhdCBtdXN0IHBhc3MgYmVmb3JlIGEgaGF1bnQgY2FuIGF0dGVtcHQgdG8gcmVzZXQuIFVudGlsIGl0IGlzIGRlc3Ryb3llZCwgYSBoYXVudCBjYW4gcmVzZXQgYWZ0ZXIgdGhpcyBwZXJpb2QgYnkgc3VjY2VlZGluZyBvbiBhIERDIDEwIGNhc3RlciBsZXZlbCBjaGVja+KAlGZhaWx1cmUgaW5kaWNhdGVzIHRoZSBoYXVudCBtdXN0IHdhaXQgdGhhdCBhbW91bnQgb2YgdGltZSBhZ2FpbiBiZWZvcmUgbWFraW5nIGFub3RoZXIgYXR0ZW1wdCB0byByZXNldC48YnIgLz48YnIgLz4gPGI+RWZmZWN0PC9iPjogVGhpcyBkZXRhaWxzIHRoZSBoYXVudOKAmXMgZXhhY3QgZWZmZWN0cywgaW5jbHVkaW5nIGEgZGVzY3JpcHRpb24gb2YgaG93IHRoZSBoYXVudCBtYW5pZmVzdHMuPGJyIC8+PGJyIC8+IDxiPkRlc3RydWN0aW9uPC9iPjogVGhpcyBkZXNjcmliZXMgdGhlIGFjdCBuZWVkZWQgdG8gcGVybWFuZW50bHkgZGVzdHJveSB0aGUgaGF1bnQuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD05MTAiPkNyZWF0aW5nIGEgSGF1bnQ8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiAyNDM8L2k+PC9hPjxiciAvPlRvIG1ha2UgYSBoYXVudCBsaWtlIHRoZSBleGFtcGxlIGJlbG93LCBmb2xsb3cgdGhlc2Ugc3RlcHMuPGJyIC8+PGJyIC8+IDxiPlN0ZXAgMeKAlERldGVybWluZSBCYXNlIENSPC9iPjogQSBoYXVudOKAmXMgYmFzZSBDUiBpcyBlcXVhbCB0byAxICsgdGhlIGxldmVsIG9mIHRoZSBzcGVsbCBpdCBkdXBsaWNhdGVzLjxiciAvPjxiciAvPiA8Yj5TdGVwIDLigJREZXRlcm1pbmUgQWN0dWFsIENSPC9iPjogU2VsZWN0IHRoZSBlbGVtZW50cyB5b3Ugd2FudCB0aGUgaGF1bnQgdG8gaGF2ZSBhbmQgYWRkIHVwIHRoZSBhZGp1c3RtZW50cyB0byBpdHMgQ1IgdG8gYXJyaXZlIGF0IHRoZSBoYXVudOKAmXMgZmluYWwgQ1IgKHNlZSBUYWJsZSA44oCTMjogQ1IgTW9kaWZpZXJzIGZvciBIYXVudHMpLjxiciAvPjxiciAvPiA8Yj5TdGVwIDPigJREZXRlcm1pbmUgQ2FzdGVyIExldmVsPC9iPjogQSBoYXVudOKAmXMgY2FzdGVyIGxldmVsIGlzIGVxdWFsIHRvIGl0cyBhY3R1YWwgQ1Igc2NvcmUuPGJyIC8+PGJyIC8+IDxiPlN0ZXAgNOKAlERldGVybWluZSBIaXQgUG9pbnRzPC9iPjogQSBoYXVudOKAmXMgaGl0IHBvaW50cyBhcmUgZXF1YWwgdG8gdHdpY2UgaXRzIENSIChvciBlcXVhbCB0byBpdHMgQ1Igw5cgNC41IGlmIHRoZSBoYXVudCBpcyBwZXJzaXN0ZW50KS48YnIgLz48YnIgLz4gPGI+U3RlcCA14oCUQ2FsY3VsYXRlIEF0dGFja3MgYW5kIFNhdmUgRENzPC9iPjogQSBoYXVudOKAmXMgYXR0YWNrIG1vZGlmaWVyIChpZiBvbmUgaXMgbmVlZGVkKSBpcyBlcXVhbCB0byBpdHMgQ1IuIElmIGEgaGF1bnTigJlzIHNwZWxsIGVmZmVjdCBhbGxvd3MgYSBzYXZpbmcgdGhyb3cgdG8gcmVzaXN0IG9yIG5lZ2F0ZSB0aGUgZWZmZWN0LCB0aGUgc2F2ZSBEQyBpcyBlcXVhbCB0byAxMCArIHRoZSBsZXZlbCBvZiB0aGUgc3BlbGwgKyB0aGUgYWJpbGl0eSBtb2RpZmllciBvZiB0aGUgbWluaW11bSBhYmlsaXR5IHNjb3JlIG5lZWRlZCB0byBjYXN0IHRoYXQgbGV2ZWwgb2Ygc3BlbGwuIDxoMj4gVGFibGUgOC0xOiBDUiBNb2RpZmllcnMgb2YgSGF1bnRzPC9oMj48dGFibGUgY2xhc3M9ImlubmVyIj48dHI+PHRkPjxiPkZlYXR1cmUgVHlwZTwvYj48L3RkPjx0ZD48Yj5DUiBNb2RpZmllcjwvYj48L3RkPjwvdHI+PHRyPjx0ZD5QZXJzaXN0ZW50PC90ZD48dGQ+KzI8L3RkPjwvdHI+PHRyPjx0ZD48Yj5Ob3RpY2UgREM8L2I+PC90ZD48dGQ+PGI+Q1IgTW9kaWZpZXI8L2I+PC90ZD48L3RyPjx0cj48dGQ+MTUgb3IgbG93ZXI8L3RkPjx0ZD4tMTwvdGQ+PC90cj48dHI+PHRkPjE2LTIwPC90ZD48dGQ+LTwvdGQ+PC90cj48dHI+PHRkPjIxLTI1PC90ZD48dGQ+KzE8L3RkPjwvdHI+PHRyPjx0ZD4yNi0yOTwvdGQ+PHRkPisyPC90ZD48L3RyPjx0cj48dGQ+MzAgb3IgaGlnaGVyPC90ZD48dGQ+KzM8L3RkPjwvdHI+PHRyPjx0ZD48Yj5SZXNldCBUaW1lPC9iPjwvdGQ+PHRkPjxiPkNSIE1vZGlmaWVyPC9iPjwvdGQ+PC90cj48dHI+PHRkPjEgbWludXRlPC90ZD48dGQ+KzI8L3RkPjwvdHI+PHRyPjx0ZD4xIGhvdXI8L3RkPjx0ZD4rMTwvdGQ+PC90cj48dHI+PHRkPjEgZGF5PC90ZD48dGQ+KzA8L3RkPjwvdHI+PHRyPjx0ZD4xIHdlZWs8L3RkPjx0ZD4tMTwvdGQ+PC90cj48dHI+PHRkPjxiPkV4YW1wbGUgV2Vha25lc3NlczwvYj48L3RkPjx0ZD48Yj5DUiBNb2RpZmllcjwvYj48L3RkPjwvdHI+PHRyPjx0ZD5TbG93IChtYW5pZmVzdHMgYXQgSW5pdGlhdGl2ZSByYW5rIDApPC90ZD48dGQ+LTI8L3RkPjwvdHI+PHRyPjx0ZD5TdXNjZXB0aWJsZSB0byBhbiBhZGRpdGlvbmFsIHR5cGUgb2YgZGFtYWdlIHR5cGU8L3RkPjx0ZD4tMSBwZXIgYWRkaXRpb25hbCB0eXBlPC90ZD48L3RyPjx0cj48dGQ+VHJpY2tlZCBieSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9aGlkZSBmcm9tIHVuZGVhZCI+PGk+aGlkZSBmcm9tIHVuZGVhZDwvaT48L2E+PC90ZD48dGQ+LTI8L3RkPjwvdHI+PHRyPjx0ZD5Ucmlja2VkIGJ5IDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1pbnZpc2liaWxpdHkiPjxpPmludmlzaWJpbGl0eTwvaT48L2E+PC90ZD48dGQ+LTE8L3RkPjwvdHI+PHRyPjx0ZD5Ucmlja2VkIGJ5IFN0ZWFsdGgqPC90ZD48dGQ+LTM8L3RkPjwvdHI+PHRyPjx0ZD5UcmlnZ2VyZWQgYnkgdG91Y2g8L3RkPjx0ZD4tMjwvdGQ+PC90cj48L3RhYmxlPiogIFRoZSBoYXVudCBtYWtlcyBhIGNhc3RlciBsZXZlbCBjaGVjayBpbnN0ZWFkIG9mIGEgUGVyY2VwdGlvbiBjaGVjayB0byBub3RpY2Ugc29tZW9uZSB1c2luZyBTdGVhbHRoLmRkZOXa3Wz1eCHAtRRwO0AlH8jvh6IDpfgF3BYXdUdgqOG3" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=454">GameMastery Guide</a></u> / <u><a href="Rules.aspx?ID=870">Advanced Topics</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=907">Haunts</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 242</i></a><br />The distinction between a trap and an undead creature blurs when you introduce a haunt—a hazardous region created by unquiet spirits that react violently to the presence of the living. The exact conditions that cause a haunt to manifest vary from case to case—but haunts always arise from a source of terrific mental or physical anguish endured by living, tormented creatures. A single, source of suffering can create multiple haunts, or multiple sources could consolidate into a single haunt. The relative power of the source has little bearing on the strength of the resulting haunt—it’s the magnitude of the suffering or despair that created the haunt that decides its power. Often, undead inhabit regions infested with haunts—it’s even possible for a person who dies to rise as a ghost (or other undead) and trigger the creation of numerous haunts. A haunt infuses a specific area, and often multiple haunted areas exist within a single structure. The classic haunted house isn’t a single haunt, but usually a dozen or more haunted areas spread throughout the structure.<br /><h1 class="title"><a href="Rules.aspx?ID=908">Haunt Rules</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 242</i></a><br />Although haunts function like traps, they are difficult to detect since they cannot be easily observed until the round in which they manifest. <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=Detect undead"><i>Detect undead</i></a> or <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=detect alignment"><i>detect alignment</i></a> spells of the appropriate type allow an observer a chance to notice a haunt even before it manifests (allowing that character the appropriate check to notice the haunt, but at a –4 penalty).<br /><br /> A haunt can infuse a maximum area with a 5-foot radius per point of CR possessed by the haunt, but the actual area is usually limited by the size of the room in which the haunt is located.<br /><br /> When a haunt is triggered, its effects manifest at initiative rank 10 in a surprise round. All characters in the haunt’s proximity can attempt to notice the haunt at the start of this surprise round by making a notice check). All haunts detect life sources and trigger as a result of the approach of or contact with living creatures, but some haunts can be tricked by effects like <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=hide from undead"><i>hide from undead</i></a> or <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=invisibility"><i>invisibility</i></a>.<br /><br /> On the surprise round in which a haunt manifests, positive energy applied to the haunt (via channeled energy, cure spells, and the like) can damage the haunt’s hit points (a haunt never gains a Will save to lessen the damage done by such effects, and attacks that require a successful attack roll to work must strike AC 10 in order to affect the haunt and not merely the physical structure it inhabits). Unless the haunt has an unusual weakness, no other form of attack can reduce its hit points. If the haunt is reduced to 0 hit points by positive energy, it is neutralized— if this occurs before the haunt takes its action at initiative rank 10, its effect does not occur.<br /><br /> A haunt can have virtually any effect identical to an existing spell effect, but often with different—and distinctly more frightening or unnerving—sensory or physical features than that spell effect normally has. (A haunt that has an effect not identical to an existing spell is certainly possible, but this requires designing a new spell effect.) A haunt might cause a room to explode into flames (duplicating <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=fireball"><i>fireball</i></a> or <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=fire storm"><i>fire storm</i></a>), infuse a chamber with fear (duplicating <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=cause fear"><i>cause fear</i></a>, <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=scare"><i>scare</i></a>, or <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=fear"><i>fear</i></a>), or try to frighten a target to death (duplicating <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=phantasmal killer"><i>phantasmal killer</i></a> or <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=slay living"><i>slay living</i></a>). How the haunt’s effects manifest are left to you to determine.<br /><br /> A neutralized haunt is not destroyed, and can manifest again after a period of time—to destroy a haunt, a specific action must be taken in the region to end the effect forever (such as burning a haunted house to the ground or burying the bones of the slaves who died on the site to create the haunt). This specific act is different for every haunt (although a number of nearby haunts often share the same destruction act).<br /><br /> Some haunts are persistent, and their immediate effects continue beyond the surprise round into actual full rounds. Persistent haunts continue to trigger their haunt effects once per round on their initiative rank until destroyed or they no longer have a target.<br /><br /> All primary effects created by a haunt are mind-affecting fear effects, even those that actually produce physical effects. Immunity to fear grants immunity to a haunt’s direct effects, but not to secondary effects that arise as a result of the haunt’s attack.<br /><h1 class="title"><a href="Rules.aspx?ID=909">Elements of a Haunt</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 243</i></a><br />Haunts are presented in the following format.<br /><br /> <b>Haunt Name</b>: The haunt’s name is followed by its CR.<br /><br /> <b>XP</b>: This is the amount of XP to award the PCs for surviving the haunt, as determined by its CR.<br /><br /> <b>Alignment and Area</b>: This line gives the haunt’s alignment and the dimensions of the area it infuses (up to 5 feet per CR). If a haunt is persistent, this is noted here as well.<br /><br /> <b>Caster Level</b>: This is the haunt’s effective caster level for the purposes of dispelling any ongoing effects with dispel magic, and for determining the results of spell effects it creates.<br /><br /> <b>Notice</b>: This indicates the skill check and DC required to notice the haunt in the surprise round before it manifests. The sensory input for what a successful check notices— such as a faint ghostly wailing, a smell of burning flesh, or fresh blood oozing from the walls—is listed in parentheses after the DC.<br /><br /> <b>hp</b>: This lists the haunt’s effective hit points for the purposes of resolving positive energy damage. A haunt’s hit points are equal to twice its CR, except in the case of a persistent haunt, in which case its hit points are equal to its CR × 4.5 (round fractions down).<br /><br /> <b>Weakness</b>: Any weaknesses the haunt might have, such as for haunts that can be tricked by effects like hide from undead or can be damaged by effects other than positive energy, are listed here.<br /><br /> <b>Trigger</b>: The conditions that can cause the haunt to manifest are given here. Proximity-triggered haunts occur as soon as a creature enters the haunt’s area. A haunt triggered by touch does not activate until a living creature touches a specific object or location in its area, but it can sense (and thus target with its effects) any creature in its area.<br /><br /> <b>Reset</b>: This is the amount of time that must pass before a haunt can attempt to reset. Until it is destroyed, a haunt can reset after this period by succeeding on a DC 10 caster level check—failure indicates the haunt must wait that amount of time again before making another attempt to reset.<br /><br /> <b>Effect</b>: This details the haunt’s exact effects, including a description of how the haunt manifests.<br /><br /> <b>Destruction</b>: This describes the act needed to permanently destroy the haunt.<br /><h1 class="title"><a href="Rules.aspx?ID=910">Creating a Haunt</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 243</i></a><br />To make a haunt like the example below, follow these steps.<br /><br /> <b>Step 1—Determine Base CR</b>: A haunt’s base CR is equal to 1 + the level of the spell it duplicates.<br /><br /> <b>Step 2—Determine Actual CR</b>: Select the elements you want the haunt to have and add up the adjustments to its CR to arrive at the haunt’s final CR (see Table 8–2: CR Modifiers for Haunts).<br /><br /> <b>Step 3—Determine Caster Level</b>: A haunt’s caster level is equal to its actual CR score.<br /><br /> <b>Step 4—Determine Hit Points</b>: A haunt’s hit points are equal to twice its CR (or equal to its CR × 4.5 if the haunt is persistent).<br /><br /> <b>Step 5—Calculate Attacks and Save DCs</b>: A haunt’s attack modifier (if one is needed) is equal to its CR. If a haunt’s spell effect allows a saving throw to resist or negate the effect, the save DC is equal to 10 + the level of the spell + the ability modifier of the minimum ability score needed to cast that level of spell. <h2> Table 8-1: CR Modifiers of Haunts</h2><table class="inner"><tr><td><b>Feature Type</b></td><td><b>CR Modifier</b></td></tr><tr><td>Persistent</td><td>+2</td></tr><tr><td><b>Notice DC</b></td><td><b>CR Modifier</b></td></tr><tr><td>15 or lower</td><td>-1</td></tr><tr><td>16-20</td><td>-</td></tr><tr><td>21-25</td><td>+1</td></tr><tr><td>26-29</td><td>+2</td></tr><tr><td>30 or higher</td><td>+3</td></tr><tr><td><b>Reset Time</b></td><td><b>CR Modifier</b></td></tr><tr><td>1 minute</td><td>+2</td></tr><tr><td>1 hour</td><td>+1</td></tr><tr><td>1 day</td><td>+0</td></tr><tr><td>1 week</td><td>-1</td></tr><tr><td><b>Example Weaknesses</b></td><td><b>CR Modifier</b></td></tr><tr><td>Slow (manifests at Initiative rank 0)</td><td>-2</td></tr><tr><td>Susceptible to an additional type of damage type</td><td>-1 per additional type</td></tr><tr><td>Tricked by <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=hide from undead"><i>hide from undead</i></a></td><td>-2</td></tr><tr><td>Tricked by <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=invisibility"><i>invisibility</i></a></td><td>-1</td></tr><tr><td>Tricked by Stealth*</td><td>-3</td></tr><tr><td>Triggered by touch</td><td>-2</td></tr></table>*  The haunt makes a caster level check instead of a Perception check to notice someone using Stealth.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

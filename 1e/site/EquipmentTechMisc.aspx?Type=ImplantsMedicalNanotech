@@ -1,0 +1,379 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Miscellaneous - Technology - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    
+    <meta name="keywords" content="Archives, Nethys, Pathfinder, Official, PRD, PFSRD, Equipment, Technology, Miscellaneous" /><meta name="description" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./EquipmentTechMisc.aspx?Type=ImplantsMedicalNanotech" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTgzNTk5NjU1NQ9kFgJmD2QWAgIDD2QWAgIBD2QWBgIBDw8WAh4EVGV4dAU+PGgxIGNsYXNzPSJ0aXRsZSI+SW1wbGFudHMsIE1lZGljYWwgRGV2aWNlcywgYW5kIE5hbm90ZWNoPC9oMT5kZAIFDzwrABEDAA8WBB4LXyFEYXRhQm91bmRnHgtfIUl0ZW1Db3VudAIqZAEQFgAWABYADBQrAAAWAmYPZBZWAgEPZBYGZg9kFgJmDw8WBB8ABQpDaGVtYWx5emVyHgtOYXZpZ2F0ZVVybAUxRXF1aXBtZW50VGVjaE1pc2NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9Q2hlbWFseXplcmRkAgEPDxYCHwAFCDIsNTAwIGdwZGQCAg8PFgIfAAUGOCBsYnMuZGQCAg9kFgZmD2QWAmYPDxYEHwAFCENsb25lcG9kHwMFL0VxdWlwbWVudFRlY2hNaXNjRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUNsb25lcG9kZGQCAQ8PFgIfAAUJNjAsMDAwIGdwZGQCAg8PFgIfAAUHOTUgbGJzLmRkAgMPZBYGZg9kFgJmDw8WBB8ABRNDb3J0ZXggZ3VuIChtYXJrIEkpHwMFOkVxdWlwbWVudFRlY2hNaXNjRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUNvcnRleCBndW4gKG1hcmsgSSlkZAIBDw8WAh8ABQkzMCwyNTAgZ3BkZAICDw8WAh8ABQUxIGxiLmRkAgQPZBYGZg9kFgJmDw8WBB8ABRRDb3J0ZXggZ3VuIChtYXJrIElJKR8DBTtFcXVpcG1lbnRUZWNoTWlzY0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1Db3J0ZXggZ3VuIChtYXJrIElJKWRkAgEPDxYCHwAFCTYwLDUwMCBncGRkAgIPDxYCHwAFBTEgbGIuZGQCBQ9kFgZmD2QWAmYPDxYEHwAFFUNvcnRleCBndW4gKG1hcmsgSUlJKR8DBTxFcXVpcG1lbnRUZWNoTWlzY0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1Db3J0ZXggZ3VuIChtYXJrIElJSSlkZAIBDw8WAh8ABQk5MCw3NTAgZ3BkZAICDw8WAh8ABQUxIGxiLmRkAgYPZBYGZg9kFgJmDw8WBB8ABRRDb3J0ZXggZ3VuIChtYXJrIElWKR8DBTtFcXVpcG1lbnRUZWNoTWlzY0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1Db3J0ZXggZ3VuIChtYXJrIElWKWRkAgEPDxYCHwAFCjEyMSwwMDAgZ3BkZAICDw8WAh8ABQUxIGxiLmRkAgcPZBYGZg9kFgJmDw8WBB8ABRNDb3J0ZXggZ3VuIChtYXJrIFYpHwMFOkVxdWlwbWVudFRlY2hNaXNjRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUNvcnRleCBndW4gKG1hcmsgVilkZAIBDw8WAh8ABQoxNTEsMjUwIGdwZGQCAg8PFgIfAAUFMSBsYi5kZAIID2QWBmYPZBYCZg8PFgQfAAUSRW52b3kncyBtb3V0aHBpZWNlHwMFOUVxdWlwbWVudFRlY2hNaXNjRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUVudm95J3MgbW91dGhwaWVjZWRkAgEPDxYCHwAFCDIsMDAwIGdwZGQCAg8PFgIfAAUFMSBsYi5kZAIJD2QWBmYPZBYCZg8PFgQfAAULRmlsdGVyIG1hc2sfAwUyRXF1aXBtZW50VGVjaE1pc2NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9RmlsdGVyIG1hc2tkZAIBDw8WAh8ABQg0LDUwMCBncGRkAgIPDxYCHwAFBTEgbGIuZGQCCg9kFgZmD2QWAmYPDxYEHwAFCEdvbyB0dWJlHwMFL0VxdWlwbWVudFRlY2hNaXNjRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUdvbyB0dWJlZGQCAQ8PFgIfAAUENiBncGRkAgIPDxYCHwAFCDEvMTAgbGIuZGQCCw9kFgZmD2QWAmYPDxYEHwAFCE1lZGxhbmNlHwMFL0VxdWlwbWVudFRlY2hNaXNjRGlzcGxheS5hc3B4P0l0ZW1OYW1lPU1lZGxhbmNlZGQCAQ8PFgIfAAUGNTAwIGdwZGQCAg8PFgIfAAUHJm1kYXNoO2RkAgwPZBYGZg9kFgJmDw8WBB8ABQpNaW5kbWVsZGVyHwMFMUVxdWlwbWVudFRlY2hNaXNjRGlzcGxheS5hc3B4P0l0ZW1OYW1lPU1pbmRtZWxkZXJkZAIBDw8WAh8ABQkzMCwwMDAgZ3BkZAICDw8WAh8ABQYzIGxicy5kZAIND2QWBmYPZBYCZg8PFgQfAAUPTmFuaXRlIGNhbmlzdGVyHwMFNkVxdWlwbWVudFRlY2hNaXNjRGlzcGxheS5hc3B4P0l0ZW1OYW1lPU5hbml0ZSBjYW5pc3RlcmRkAgEPDxYCHwAFBjUwMCBncGRkAgIPDxYCHwAFBTEgbGIuZGQCDg9kFgZmD2QWAmYPDxYEHwAFFk5hbml0ZSBoeXBvZ3VuIChibGFjaykfAwU9RXF1aXBtZW50VGVjaE1pc2NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9TmFuaXRlIGh5cG9ndW4gKGJsYWNrKWRkAgEPDxYCHwAFCDYsMDAwIGdwZGQCAg8PFgIfAAUFMSBsYi5kZAIPD2QWBmYPZBYCZg8PFgQfAAUVTmFuaXRlIGh5cG9ndW4gKGJsdWUpHwMFPEVxdWlwbWVudFRlY2hNaXNjRGlzcGxheS5hc3B4P0l0ZW1OYW1lPU5hbml0ZSBoeXBvZ3VuIChibHVlKWRkAgEPDxYCHwAFCTkxLDAwMCBncGRkAgIPDxYCHwAFBTEgbGIuZGQCEA9kFgZmD2QWAmYPDxYEHwAFFk5hbml0ZSBoeXBvZ3VuIChicm93bikfAwU9RXF1aXBtZW50VGVjaE1pc2NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9TmFuaXRlIGh5cG9ndW4gKGJyb3duKWRkAgEPDxYCHwAFCDEsMDAwIGdwZGQCAg8PFgIfAAUFMSBsYi5kZAIRD2QWBmYPZBYCZg8PFgQfAAUVTmFuaXRlIGh5cG9ndW4gKGdyYXkpHwMFPEVxdWlwbWVudFRlY2hNaXNjRGlzcGxheS5hc3B4P0l0ZW1OYW1lPU5hbml0ZSBoeXBvZ3VuIChncmF5KWRkAgEPDxYCHwAFCTI4LDAwMCBncGRkAgIPDxYCHwAFBTEgbGIuZGQCEg9kFgZmD2QWAmYPDxYEHwAFFk5hbml0ZSBoeXBvZ3VuIChncmVlbikfAwU9RXF1aXBtZW50VGVjaE1pc2NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9TmFuaXRlIGh5cG9ndW4gKGdyZWVuKWRkAgEPDxYCHwAFCTQ1LDAwMCBncGRkAgIPDxYCHwAFBTEgbGIuZGQCEw9kFgZmD2QWAmYPDxYEHwAFF05hbml0ZSBoeXBvZ3VuIChvcmFuZ2UpHwMFPkVxdWlwbWVudFRlY2hNaXNjRGlzcGxheS5hc3B4P0l0ZW1OYW1lPU5hbml0ZSBoeXBvZ3VuIChvcmFuZ2UpZGQCAQ8PFgIfAAUKMTI1LDAwMCBncGRkAgIPDxYCHwAFBTEgbGIuZGQCFA9kFgZmD2QWAmYPDxYEHwAFGk5hbml0ZSBoeXBvZ3VuIChwcmlzbWF0aWMpHwMFQUVxdWlwbWVudFRlY2hNaXNjRGlzcGxheS5hc3B4P0l0ZW1OYW1lPU5hbml0ZSBoeXBvZ3VuIChwcmlzbWF0aWMpZGQCAQ8PFgIfAAUKMTc4LDAwMCBncGRkAgIPDxYCHwAFBTEgbGIuZGQCFQ9kFgZmD2QWAmYPDxYEHwAFFE5hbml0ZSBoeXBvZ3VuIChyZWQpHwMFO0VxdWlwbWVudFRlY2hNaXNjRGlzcGxheS5hc3B4P0l0ZW1OYW1lPU5hbml0ZSBoeXBvZ3VuIChyZWQpZGQCAQ8PFgIfAAUJNjYsMDAwIGdwZGQCAg8PFgIfAAUFMSBsYi5kZAIWD2QWBmYPZBYCZg8PFgQfAAUWTmFuaXRlIGh5cG9ndW4gKHdoaXRlKR8DBT1FcXVpcG1lbnRUZWNoTWlzY0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1OYW5pdGUgaHlwb2d1biAod2hpdGUpZGQCAQ8PFgIfAAUJMTUsMDAwIGdwZGQCAg8PFgIfAAUFMSBsYi5kZAIXD2QWBmYPZBYCZg8PFgQfAAUITmV1cm9jYW0fAwUvRXF1aXBtZW50VGVjaE1pc2NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9TmV1cm9jYW1kZAIBDw8WAh8ABQkzNiwwMDAgZ3BkZAICDw8WAh8ABQYyIGxicy5kZAIYD2QWBmYPZBYCZg8PFgQfAAUWTnV0cmllbnQgdHJhaW5pbmcgbm9kZR8DBT1FcXVpcG1lbnRUZWNoTWlzY0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1OdXRyaWVudCB0cmFpbmluZyBub2RlZGQCAQ8PFgIfAAUJMzAsMDAwIGdwZGQCAg8PFgIfAAUHMjUgbGJzLmRkAhkPZBYGZg9kFgJmDw8WBB8ABRBQcm94aW1pdHkgaGVsbWV0HwMFN0VxdWlwbWVudFRlY2hNaXNjRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVByb3hpbWl0eSBoZWxtZXRkZAIBDw8WAh8ABQg0LDAwMCBncGRkAgIPDxYCHwAFBjIgbGJzLmRkAhoPZBYGZg9kFgJmDw8WBB8ABRJTa2lsbGNoaXAgKG1hcmsgSSkfAwU5RXF1aXBtZW50VGVjaE1pc2NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9U2tpbGxjaGlwIChtYXJrIEkpZGQCAQ8PFgIfAAUGNDAwIGdwZGQCAg8PFgIfAAUHJm1kYXNoO2RkAhsPZBYGZg9kFgJmDw8WBB8ABRNTa2lsbGNoaXAgKG1hcmsgSUkpHwMFOkVxdWlwbWVudFRlY2hNaXNjRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNraWxsY2hpcCAobWFyayBJSSlkZAIBDw8WAh8ABQgxLDYwMCBncGRkAgIPDxYCHwAFByZtZGFzaDtkZAIcD2QWBmYPZBYCZg8PFgQfAAUUU2tpbGxjaGlwIChtYXJrIElJSSkfAwU7RXF1aXBtZW50VGVjaE1pc2NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9U2tpbGxjaGlwIChtYXJrIElJSSlkZAIBDw8WAh8ABQgzLDYwMCBncGRkAgIPDxYCHwAFByZtZGFzaDtkZAIdD2QWBmYPZBYCZg8PFgQfAAUTU2tpbGxjaGlwIChtYXJrIElWKR8DBTpFcXVpcG1lbnRUZWNoTWlzY0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1Ta2lsbGNoaXAgKG1hcmsgSVYpZGQCAQ8PFgIfAAUINiw0MDAgZ3BkZAICDw8WAh8ABQcmbWRhc2g7ZGQCHg9kFgZmD2QWAmYPDxYEHwAFElNraWxsY2hpcCAobWFyayBWKR8DBTlFcXVpcG1lbnRUZWNoTWlzY0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1Ta2lsbGNoaXAgKG1hcmsgVilkZAIBDw8WAh8ABQkxMCwwMDAgZ3BkZAICDw8WAh8ABQcmbWRhc2g7ZGQCHw9kFgZmD2QWAmYPDxYEHwAFC1RyYXVtYSBwYWNrHwMFMkVxdWlwbWVudFRlY2hNaXNjRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVRyYXVtYSBwYWNrZGQCAQ8PFgIfAAUIMSw1MDAgZ3BkZAICDw8WAh8ABQY1IGxicy5kZAIgD2QWBmYPZBYCZg8PFgQfAAUQVHJhdW1hIHBhY2sgcGx1cx8DBTdFcXVpcG1lbnRUZWNoTWlzY0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1UcmF1bWEgcGFjayBwbHVzZGQCAQ8PFgIfAAUJMTEsMjUwIGdwZGQCAg8PFgIfAAUGNSBsYnMuZGQCIQ9kFgZmD2QWAmYPDxYEHwAFDlZlZW1vZCAoYmxhY2spHwMFNUVxdWlwbWVudFRlY2hNaXNjRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVZlZW1vZCAoYmxhY2spZGQCAQ8PFgIfAAUGNDAwIGdwZGQCAg8PFgIfAAUHJm1kYXNoO2RkAiIPZBYGZg9kFgJmDw8WBB8ABQ1WZWVtb2QgKGJsdWUpHwMFNEVxdWlwbWVudFRlY2hNaXNjRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVZlZW1vZCAoYmx1ZSlkZAIBDw8WAh8ABQkyMCwwMDAgZ3BkZAICDw8WAh8ABQcmbWRhc2g7ZGQCIw9kFgZmD2QWAmYPDxYEHwAFDlZlZW1vZCAoYnJvd24pHwMFNUVxdWlwbWVudFRlY2hNaXNjRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVZlZW1vZCAoYnJvd24pZGQCAQ8PFgIfAAUGMjAwIGdwZGQCAg8PFgIfAAUHJm1kYXNoO2RkAiQPZBYGZg9kFgJmDw8WBB8ABQ1WZWVtb2QgKGdyYXkpHwMFNEVxdWlwbWVudFRlY2hNaXNjRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVZlZW1vZCAoZ3JheSlkZAIBDw8WAh8ABQg2LDAwMCBncGRkAgIPDxYCHwAFByZtZGFzaDtkZAIlD2QWBmYPZBYCZg8PFgQfAAUOVmVlbW9kIChncmVlbikfAwU1RXF1aXBtZW50VGVjaE1pc2NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9VmVlbW9kIChncmVlbilkZAIBDw8WAh8ABQkxMCwwMDAgZ3BkZAICDw8WAh8ABQcmbWRhc2g7ZGQCJg9kFgZmD2QWAmYPDxYEHwAFD1ZlZW1vZCAob3JhbmdlKR8DBTZFcXVpcG1lbnRUZWNoTWlzY0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1WZWVtb2QgKG9yYW5nZSlkZAIBDw8WAh8ABQkzMCwwMDAgZ3BkZAICDw8WAh8ABQcmbWRhc2g7ZGQCJw9kFgZmD2QWAmYPDxYEHwAFElZlZW1vZCAocHJpc21hdGljKR8DBTlFcXVpcG1lbnRUZWNoTWlzY0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1WZWVtb2QgKHByaXNtYXRpYylkZAIBDw8WAh8ABQk1MCwwMDAgZ3BkZAICDw8WAh8ABQcmbWRhc2g7ZGQCKA9kFgZmD2QWAmYPDxYEHwAFDFZlZW1vZCAocmVkKR8DBTNFcXVpcG1lbnRUZWNoTWlzY0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1WZWVtb2QgKHJlZClkZAIBDw8WAh8ABQkxMiwwMDAgZ3BkZAICDw8WAh8ABQcmbWRhc2g7ZGQCKQ9kFgZmD2QWAmYPDxYEHwAFDlZlZW1vZCAod2hpdGUpHwMFNUVxdWlwbWVudFRlY2hNaXNjRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVZlZW1vZCAod2hpdGUpZGQCAQ8PFgIfAAUIMiw1MDAgZ3BkZAICDw8WAh8ABQcmbWRhc2g7ZGQCKg9kFgZmD2QWAmYPDxYEHwAFDlZlZW1vZCBnb2dnbGVzHwMFNUVxdWlwbWVudFRlY2hNaXNjRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVZlZW1vZCBnb2dnbGVzZGQCAQ8PFgIfAAUIMSwwMDAgZ3BkZAICDw8WAh8ABQcmbWRhc2g7ZGQCKw8PFgIeB1Zpc2libGVoZGQCBw8PZDwrAAYBABAWAWYWARYCHg5QYXJhbWV0ZXJWYWx1ZQUXSW1wbGFudHNNZWRpY2FsTmFub3RlY2gWAQIEZBgBBRtjdGwwMCRNYWluQ29udGVudCRHcmlkVmlldzYPPCsADAMGFQEGSXRlbUlkBxQrACoUKwABAgwUKwABAhYUKwABAhgUKwABAhkUKwABAhoUKwABAhsUKwABAhwUKwABAokBFCsAAQIrFCsAAQI3FCsAAQJhFCsAAQKNARQrAAECYxQrAAECZRQrAAECahQrAAECZBQrAAECZxQrAAECaBQrAAECaxQrAAECbBQrAAECaRQrAAECZhQrAAECbRQrAAECiwEUKwABAogBFCsAAQJ1FCsAAQJ2FCsAAQJ3FCsAAQJ4FCsAAQJ5FCsAAQJ7FCsAAQJ8FCsAAQJ+FCsAAQKDARQrAAECfRQrAAECgAEUKwABAoEBFCsAAQKEARQrAAEChQEUKwABAoIBFCsAAQJ/FCsAAQKGAQgCAWSix+PA0e5AMyCcRznxaY2P0kJ1UJ6C9uuRGQ7tWeSNVA==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="B91E6F64" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <h1 style="text-align: center"><a href="EquipmentTechArmor.aspx">Armor</a> | 
+                               <a href="EquipmentTechArtifacts.aspx">Artifacts</a> | 
+                               <a href="EquipmentTechCybertech.aspx">Cybertech</a> | 
+                               <a href="EquipmentTechPharamaceuticals.aspx">Pharmaceuticals</a> | 
+                               <a href="EquipmentTechMisc.aspx">Miscellaneous</a> | 
+                               <a href="EquipmentTechWeapons.aspx">Weapons</a>
+    </h1><hr />
+    <h2 style="text-align: center"><a href="EquipmentTechMisc.aspx?Type=AccessLocks"><b>Access and Locks</b></a> | 
+                               <a href="EquipmentTechMisc.aspx?Type=BatteriesPower"><b>Batteries and Power</b></a> | 
+                               <a href="EquipmentTechMisc.aspx?Type=GrenadesExplosives"><b>Grenades and Explosives</b></a> | 
+                               <a href="EquipmentTechMisc.aspx?Type=ImplantsMedicalNanotech"><b>Implants, Medical Devices, and Nanotech</b></a> | 
+                               <a href="EquipmentTechMisc.aspx?Type=Other"><b>Other Tools and Accessories</b></a>
+    </h2><hr />
+    <span id="MainContent_MainDescription"><h1 class="title">Implants, Medical Devices, and Nanotech</h1></span>
+
+    <span id="MainContent_TableFootNote"></span>
+    <div>
+	<table cellspacing="0" cellpadding="3" rules="cols" id="MainContent_GridView6" style="color:Black;background-color:White;border-color:#999999;border-width:1px;border-style:Solid;border-collapse:collapse;">
+		<tr style="color:White;background-color:Black;font-weight:bold;">
+			<th scope="col">Name</th><th scope="col">Cost</th><th scope="col">Weight</th>
+		</tr><tr>
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Chemalyzer">Chemalyzer</a></td><td>2,500 gp</td><td>8 lbs.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Clonepod">Clonepod</a></td><td>60,000 gp</td><td>95 lbs.</td>
+		</tr><tr>
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Cortex gun (mark I)">Cortex gun (mark I)</a></td><td>30,250 gp</td><td>1 lb.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Cortex gun (mark II)">Cortex gun (mark II)</a></td><td>60,500 gp</td><td>1 lb.</td>
+		</tr><tr>
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Cortex gun (mark III)">Cortex gun (mark III)</a></td><td>90,750 gp</td><td>1 lb.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Cortex gun (mark IV)">Cortex gun (mark IV)</a></td><td>121,000 gp</td><td>1 lb.</td>
+		</tr><tr>
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Cortex gun (mark V)">Cortex gun (mark V)</a></td><td>151,250 gp</td><td>1 lb.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Envoy&#39;s mouthpiece">Envoy's mouthpiece</a></td><td>2,000 gp</td><td>1 lb.</td>
+		</tr><tr>
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Filter mask">Filter mask</a></td><td>4,500 gp</td><td>1 lb.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Goo tube">Goo tube</a></td><td>6 gp</td><td>1/10 lb.</td>
+		</tr><tr>
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Medlance">Medlance</a></td><td>500 gp</td><td>&mdash;</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Mindmelder">Mindmelder</a></td><td>30,000 gp</td><td>3 lbs.</td>
+		</tr><tr>
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Nanite canister">Nanite canister</a></td><td>500 gp</td><td>1 lb.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Nanite hypogun (black)">Nanite hypogun (black)</a></td><td>6,000 gp</td><td>1 lb.</td>
+		</tr><tr>
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Nanite hypogun (blue)">Nanite hypogun (blue)</a></td><td>91,000 gp</td><td>1 lb.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Nanite hypogun (brown)">Nanite hypogun (brown)</a></td><td>1,000 gp</td><td>1 lb.</td>
+		</tr><tr>
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Nanite hypogun (gray)">Nanite hypogun (gray)</a></td><td>28,000 gp</td><td>1 lb.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Nanite hypogun (green)">Nanite hypogun (green)</a></td><td>45,000 gp</td><td>1 lb.</td>
+		</tr><tr>
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Nanite hypogun (orange)">Nanite hypogun (orange)</a></td><td>125,000 gp</td><td>1 lb.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Nanite hypogun (prismatic)">Nanite hypogun (prismatic)</a></td><td>178,000 gp</td><td>1 lb.</td>
+		</tr><tr>
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Nanite hypogun (red)">Nanite hypogun (red)</a></td><td>66,000 gp</td><td>1 lb.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Nanite hypogun (white)">Nanite hypogun (white)</a></td><td>15,000 gp</td><td>1 lb.</td>
+		</tr><tr>
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Neurocam">Neurocam</a></td><td>36,000 gp</td><td>2 lbs.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Nutrient training node">Nutrient training node</a></td><td>30,000 gp</td><td>25 lbs.</td>
+		</tr><tr>
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Proximity helmet">Proximity helmet</a></td><td>4,000 gp</td><td>2 lbs.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Skillchip (mark I)">Skillchip (mark I)</a></td><td>400 gp</td><td>&mdash;</td>
+		</tr><tr>
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Skillchip (mark II)">Skillchip (mark II)</a></td><td>1,600 gp</td><td>&mdash;</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Skillchip (mark III)">Skillchip (mark III)</a></td><td>3,600 gp</td><td>&mdash;</td>
+		</tr><tr>
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Skillchip (mark IV)">Skillchip (mark IV)</a></td><td>6,400 gp</td><td>&mdash;</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Skillchip (mark V)">Skillchip (mark V)</a></td><td>10,000 gp</td><td>&mdash;</td>
+		</tr><tr>
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Trauma pack">Trauma pack</a></td><td>1,500 gp</td><td>5 lbs.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Trauma pack plus">Trauma pack plus</a></td><td>11,250 gp</td><td>5 lbs.</td>
+		</tr><tr>
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Veemod (black)">Veemod (black)</a></td><td>400 gp</td><td>&mdash;</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Veemod (blue)">Veemod (blue)</a></td><td>20,000 gp</td><td>&mdash;</td>
+		</tr><tr>
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Veemod (brown)">Veemod (brown)</a></td><td>200 gp</td><td>&mdash;</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Veemod (gray)">Veemod (gray)</a></td><td>6,000 gp</td><td>&mdash;</td>
+		</tr><tr>
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Veemod (green)">Veemod (green)</a></td><td>10,000 gp</td><td>&mdash;</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Veemod (orange)">Veemod (orange)</a></td><td>30,000 gp</td><td>&mdash;</td>
+		</tr><tr>
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Veemod (prismatic)">Veemod (prismatic)</a></td><td>50,000 gp</td><td>&mdash;</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Veemod (red)">Veemod (red)</a></td><td>12,000 gp</td><td>&mdash;</td>
+		</tr><tr>
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Veemod (white)">Veemod (white)</a></td><td>2,500 gp</td><td>&mdash;</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="EquipmentTechMiscDisplay.aspx?ItemName=Veemod goggles">Veemod goggles</a></td><td>1,000 gp</td><td>&mdash;</td>
+		</tr>
+	</table>
+</div>
+    
+    
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Step 2: Target Statistics - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Step 2: Target Statistics" /><meta name="description" content="Once you have a creature’s type and CR determined, use Table 1–1 to determine its approximate statistics by CR. These values are a rough guideline only. You will notice that many of the existing monsters in this book do not follow these guidelines exactly. Most monsters excel in one of these areas, usually in the amount of damage dealt, but lag in one or two other areas to help balance them out. When referring to Table 1–1, keep the following points in mind. &lt;br />&lt;br />&lt;b>CR&lt;/b>: This is the approximate CR of the monster. This number might change as design progresses. &lt;br />&lt;br />&lt;b>Hit Points&lt;/b>: This is the approximate hit point total for the monster. Note that creatures with particularly high Armor Classes or saving throws, or a number of resistances, might have a lower number. Outsiders and constructs typically have lower hit point totals. &lt;br />&lt;br />&lt;b>Armor Class&lt;/b>: This is the average Armor Class for a creature of this CR. When it comes time to design the creature’s protections, keep this number in mind. Creatures with hit points above the average often have lower Armor Class values to compensate. &lt;br />&lt;br />&lt;b>High Attack&lt;/b>: This is the average total attack bonus for a creature of this CR. This value is for creatures that are primarily melee or ranged combatants. Creatures with a higher than normal average damage typically have a lower attack value to compensate. &lt;br />&lt;br />&lt;b>Low Attack&lt;/b>: This is the average total attack bonus for a creature of this CR that does not rely upon melee or ranged attacks to deal damage. This includes most creatures that rely on spells and spell-like abilities in combat. &lt;br />&lt;br />&lt;b>Average Damage&lt;/b>: This is the average amount of damage dealt by a creature of this CR if all of its attacks are successful. To determine a creature’s average damage, add the average value for all of the damage dice rolled (as determined by &lt;a style=&quot;text-decoration:underline&quot; href=&quot;Rules.aspx?Name=Step 7: Other Statistics&amp;Category=Monster Creation&quot;>Table 1–5&lt;/a>) to the damage modifier for each attack. A creature that relies on melee or ranged weapons in combat should have average damage within the range of high and low damage. A creature with higher than normal attack bonuses will often deal lower damage, while a creature with lower than normal attack bonuses will often deal higher damage. Primary Ability DC: This is the average difficulty class (DC) for any spells, spell-like abilities, and special abilities (such as breath weapons) possessed by a creature of this CR that relies on such attacks in combat. If an ability is particularly powerful, it might have a lower DC to compensate. &lt;br />&lt;br />&lt;b>Secondary Ability DC&lt;/b>: This is the average DC for spells and special abilities for a creature that does not rely on such attacks in combat. Generally, a DC should not be lower than this number. &lt;br />&lt;br />&lt;b>Good Save&lt;/b>: This is the average saving throw bonus for a creature of this CR if the saving throw is one of the creature’s good saving throws. &lt;br />&lt;br />&lt;b>Poor Save&lt;/b>: This is the average saving throw bonus for a creature of this CR if the saving throw is one of the creature’s poor saving throws. &lt;br />&lt;br /> &lt;h2>Table 1-1: Monster Statistics by CR&lt;/h2> &lt;table class=&quot;inner&quot;> &lt;tr>&lt;td colspan=&quot;5&quot;>&lt;/td>&lt;td colspan=&quot;2&quot;>&lt;b>Average Damage&lt;/b>&lt;/td>&lt;td colspan=&quot;2&quot;>&lt;/td>&lt;/tr> &lt;tr>&lt;td>&lt;b>CR&lt;/b>&lt;/td>&lt;td>&lt;b>Hit Points&lt;/b>&lt;/td>&lt;td>&lt;b>Armr Class&lt;/b>&lt;/td>&lt;td>&lt;b>High Attack&lt;/b>&lt;/td>&lt;td>&lt;b>Low Attack&lt;/b>&lt;/td>&lt;td>&lt;b>High&lt;/b>&lt;/td>&lt;td>&lt;b>Low&lt;/b>&lt;/td>&lt;td>&lt;b>Primary Ability DC&lt;/b>&lt;/td>&lt;td>&lt;b>Secondary Ability DC&lt;/b>&lt;/td>&lt;td>&lt;b>Good Save&lt;/b>&lt;/td>&lt;td>&lt;b>Poor Save&lt;/b>&lt;/td>&lt;/tr> &lt;tr>&lt;td>1/2&lt;/td>&lt;td>10&lt;/td>&lt;td>11&lt;/td>&lt;td>1&lt;/td>&lt;td>0&lt;/td>&lt;td>4&lt;/td>&lt;td>3&lt;/td>&lt;td>11&lt;/td>&lt;td>8&lt;/td>&lt;td>3&lt;/td>&lt;td>0&lt;/td>&lt;/tr> &lt;tr>&lt;td>1&lt;/td>&lt;td>15&lt;/td>&lt;td>12&lt;/td>&lt;td>2&lt;/td>&lt;td>1&lt;/td>&lt;td>7&lt;/td>&lt;td>5&lt;/td>&lt;td>12&lt;/td>&lt;td>9&lt;/td>&lt;td>4&lt;/td>&lt;td>1&lt;/td>&lt;/tr> &lt;tr>&lt;td>2&lt;/td>&lt;td>20&lt;/td>&lt;td>14&lt;/td>&lt;td>4&lt;/td>&lt;td>3&lt;/td>&lt;td>10&lt;/td>&lt;td>7&lt;/td>&lt;td>13&lt;/td>&lt;td>9&lt;/td>&lt;td>5&lt;/td>&lt;td>1&lt;/td>&lt;/tr> &lt;tr>&lt;td>3&lt;/td>&lt;td>30&lt;/td>&lt;td>15&lt;/td>&lt;td>6&lt;/td>&lt;td>4&lt;/td>&lt;td>13&lt;/td>&lt;td>9&lt;/td>&lt;td>14&lt;/td>&lt;td>10&lt;/td>&lt;td>6&lt;/td>&lt;td>2&lt;/td>&lt;/tr> &lt;tr>&lt;td>4&lt;/td>&lt;td>40&lt;/td>&lt;td>17&lt;/td>&lt;td>8&lt;/td>&lt;td>6&lt;/td>&lt;td>16&lt;/td>&lt;td>12&lt;/td>&lt;td>15&lt;/td>&lt;td>10&lt;/td>&lt;td>7&lt;/td>&lt;td>3&lt;/td>&lt;/tr> &lt;tr>&lt;td>5&lt;/td>&lt;td>55&lt;/td>&lt;td>18&lt;/td>&lt;td>10&lt;/td>&lt;td>7&lt;/td>&lt;td>20&lt;/td>&lt;td>15&lt;/td>&lt;td>15&lt;/td>&lt;td>11&lt;/td>&lt;td>8&lt;/td>&lt;td>4&lt;/td>&lt;/tr> &lt;tr>&lt;td>6&lt;/td>&lt;td>70&lt;/td>&lt;td>19&lt;/td>&lt;td>12&lt;/td>&lt;td>8&lt;/td>&lt;td>25&lt;/td>&lt;td>18&lt;/td>&lt;td>16&lt;/td>&lt;td>11&lt;/td>&lt;td>9&lt;/td>&lt;td>5&lt;/td>&lt;/tr> &lt;tr>&lt;td>7&lt;/td>&lt;td>85&lt;/td>&lt;td>20&lt;/td>&lt;td>13&lt;/td>&lt;td>10&lt;/td>&lt;td>30&lt;/td>&lt;td>22&lt;/td>&lt;td>17&lt;/td>&lt;td>12&lt;/td>&lt;td>10&lt;/td>&lt;td>6&lt;/td>&lt;/tr> &lt;tr>&lt;td>8&lt;/td>&lt;td>100&lt;/td>&lt;td>21&lt;/td>&lt;td>15&lt;/td>&lt;td>11&lt;/td>&lt;td>35&lt;/td>&lt;td>26&lt;/td>&lt;td>18&lt;/td>&lt;td>12&lt;/td>&lt;td>11&lt;/td>&lt;td>7&lt;/td>&lt;/tr> &lt;tr>&lt;td>9&lt;/td>&lt;td>115&lt;/td>&lt;td>23&lt;/td>&lt;td>17&lt;/td>&lt;td>12&lt;/td>&lt;td>40&lt;/td>&lt;td>30&lt;/td>&lt;td>18&lt;/td>&lt;td>13&lt;/td>&lt;td>12&lt;/td>&lt;td>8&lt;/td>&lt;/tr> &lt;tr>&lt;td>10&lt;/td>&lt;td>130&lt;/td>&lt;td>24&lt;/td>&lt;td>18&lt;/td>&lt;td>13&lt;/td>&lt;td>45&lt;/td>&lt;td>33&lt;/td>&lt;td>19&lt;/td>&lt;td>13&lt;/td>&lt;td>13&lt;/td>&lt;td>9&lt;/td>&lt;/tr> &lt;tr>&lt;td>11&lt;/td>&lt;td>145&lt;/td>&lt;td>25&lt;/td>&lt;td>19&lt;/td>&lt;td>14&lt;/td>&lt;td>50&lt;/td>&lt;td>37&lt;/td>&lt;td>20&lt;/td>&lt;td>14&lt;/td>&lt;td>14&lt;/td>&lt;td>10&lt;/td>&lt;/tr> &lt;tr>&lt;td>12&lt;/td>&lt;td>160&lt;/td>&lt;td>27&lt;/td>&lt;td>21&lt;/td>&lt;td>15&lt;/td>&lt;td>55&lt;/td>&lt;td>41&lt;/td>&lt;td>21&lt;/td>&lt;td>15&lt;/td>&lt;td>15&lt;/td>&lt;td>11&lt;/td>&lt;/tr> &lt;tr>&lt;td>13&lt;/td>&lt;td>180&lt;/td>&lt;td>28&lt;/td>&lt;td>22&lt;/td>&lt;td>16&lt;/td>&lt;td>60&lt;/td>&lt;td>45&lt;/td>&lt;td>21&lt;/td>&lt;td>15&lt;/td>&lt;td>16&lt;/td>&lt;td>12&lt;/td>&lt;/tr> &lt;tr>&lt;td>14&lt;/td>&lt;td>200&lt;/td>&lt;td>29&lt;/td>&lt;td>23&lt;/td>&lt;td>17&lt;/td>&lt;td>65&lt;/td>&lt;td>48&lt;/td>&lt;td>22&lt;/td>&lt;td>15&lt;/td>&lt;td>17&lt;/td>&lt;td>12&lt;/td>&lt;/tr> &lt;tr>&lt;td>15&lt;/td>&lt;td>220&lt;/td>&lt;td>30&lt;/td>&lt;td>24&lt;/td>&lt;td>18&lt;/td>&lt;td>70&lt;/td>&lt;td>52&lt;/td>&lt;td>23&lt;/td>&lt;td>16&lt;/td>&lt;td>18&lt;/td>&lt;td>13&lt;/td>&lt;/tr> &lt;tr>&lt;td>16&lt;/td>&lt;td>240&lt;/td>&lt;td>31&lt;/td>&lt;td>26&lt;/td>&lt;td>19&lt;/td>&lt;td>80&lt;/td>&lt;td>60&lt;/td>&lt;td>24&lt;/td>&lt;td>17&lt;/td>&lt;td>19&lt;/td>&lt;td>14&lt;/td>&lt;/tr> &lt;tr>&lt;td>17&lt;/td>&lt;td>270&lt;/td>&lt;td>32&lt;/td>&lt;td>27&lt;/td>&lt;td>20&lt;/td>&lt;td>90&lt;/td>&lt;td>67&lt;/td>&lt;td>24&lt;/td>&lt;td>18&lt;/td>&lt;td>20&lt;/td>&lt;td>15&lt;/td>&lt;/tr> &lt;tr>&lt;td>18&lt;/td>&lt;td>300&lt;/td>&lt;td>33&lt;/td>&lt;td>28&lt;/td>&lt;td>21&lt;/td>&lt;td>100&lt;/td>&lt;td>75&lt;/td>&lt;td>25&lt;/td>&lt;td>18&lt;/td>&lt;td>20&lt;/td>&lt;td>16&lt;/td>&lt;/tr> &lt;tr>&lt;td>19&lt;/td>&lt;td>330&lt;/td>&lt;td>34&lt;/td>&lt;td>29&lt;/td>&lt;td>22&lt;/td>&lt;td>110&lt;/td>&lt;td>82&lt;/td>&lt;td>26&lt;/td>&lt;td>19&lt;/td>&lt;td>21&lt;/td>&lt;td>16&lt;/td>&lt;/tr> &lt;tr>&lt;td>20&lt;/td>&lt;td>370&lt;/td>&lt;td>36&lt;/td>&lt;td>30&lt;/td>&lt;td>23&lt;/td>&lt;td>120&lt;/td>&lt;td>90&lt;/td>&lt;td>27&lt;/td>&lt;td>20&lt;/td>&lt;td>22&lt;/td>&lt;td>17&lt;/td>&lt;/tr> &lt;/table>" /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=2454" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAX/NDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjQ0OCI+QmVzdGlhcnk8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjQ1MiI+TW9uc3RlciBDcmVhdGlvbjwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0yNDU0Ij5TdGVwIDI6IFRhcmdldCBTdGF0aXN0aWNzPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk4YXV1P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1CZXN0aWFyeSIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QYXRoZmluZGVyIFJQRyBCZXN0aWFyeSBwZy4gMjkwPC9pPjwvYT48YnIgLz5PbmNlIHlvdSBoYXZlIGEgY3JlYXR1cmXigJlzIHR5cGUgYW5kIENSIGRldGVybWluZWQsIHVzZSBUYWJsZSAx4oCTMSB0byBkZXRlcm1pbmUgaXRzIGFwcHJveGltYXRlIHN0YXRpc3RpY3MgYnkgQ1IuIFRoZXNlIHZhbHVlcyBhcmUgYSByb3VnaCBndWlkZWxpbmUgb25seS4gWW91IHdpbGwgbm90aWNlIHRoYXQgbWFueSBvZiB0aGUgZXhpc3RpbmcgbW9uc3RlcnMgaW4gdGhpcyBib29rIGRvIG5vdCBmb2xsb3cgdGhlc2UgZ3VpZGVsaW5lcyBleGFjdGx5LiBNb3N0IG1vbnN0ZXJzIGV4Y2VsIGluIG9uZSBvZiB0aGVzZSBhcmVhcywgdXN1YWxseSBpbiB0aGUgYW1vdW50IG9mIGRhbWFnZSBkZWFsdCwgYnV0IGxhZyBpbiBvbmUgb3IgdHdvIG90aGVyIGFyZWFzIHRvIGhlbHAgYmFsYW5jZSB0aGVtIG91dC4gV2hlbiByZWZlcnJpbmcgdG8gVGFibGUgMeKAkzEsIGtlZXAgdGhlIGZvbGxvd2luZyBwb2ludHMgaW4gbWluZC4gPGJyIC8+PGJyIC8+PGI+Q1I8L2I+OiBUaGlzIGlzIHRoZSBhcHByb3hpbWF0ZSBDUiBvZiB0aGUgbW9uc3Rlci4gVGhpcyBudW1iZXIgbWlnaHQgY2hhbmdlIGFzIGRlc2lnbiBwcm9ncmVzc2VzLiA8YnIgLz48YnIgLz48Yj5IaXQgUG9pbnRzPC9iPjogVGhpcyBpcyB0aGUgYXBwcm94aW1hdGUgaGl0IHBvaW50IHRvdGFsIGZvciB0aGUgbW9uc3Rlci4gTm90ZSB0aGF0IGNyZWF0dXJlcyB3aXRoIHBhcnRpY3VsYXJseSBoaWdoIEFybW9yIENsYXNzZXMgb3Igc2F2aW5nIHRocm93cywgb3IgYSBudW1iZXIgb2YgcmVzaXN0YW5jZXMsIG1pZ2h0IGhhdmUgYSBsb3dlciBudW1iZXIuIE91dHNpZGVycyBhbmQgY29uc3RydWN0cyB0eXBpY2FsbHkgaGF2ZSBsb3dlciBoaXQgcG9pbnQgdG90YWxzLiA8YnIgLz48YnIgLz48Yj5Bcm1vciBDbGFzczwvYj46IFRoaXMgaXMgdGhlIGF2ZXJhZ2UgQXJtb3IgQ2xhc3MgZm9yIGEgY3JlYXR1cmUgb2YgdGhpcyBDUi4gV2hlbiBpdCBjb21lcyB0aW1lIHRvIGRlc2lnbiB0aGUgY3JlYXR1cmXigJlzIHByb3RlY3Rpb25zLCBrZWVwIHRoaXMgbnVtYmVyIGluIG1pbmQuIENyZWF0dXJlcyB3aXRoIGhpdCBwb2ludHMgYWJvdmUgdGhlIGF2ZXJhZ2Ugb2Z0ZW4gaGF2ZSBsb3dlciBBcm1vciBDbGFzcyB2YWx1ZXMgdG8gY29tcGVuc2F0ZS4gPGJyIC8+PGJyIC8+PGI+SGlnaCBBdHRhY2s8L2I+OiBUaGlzIGlzIHRoZSBhdmVyYWdlIHRvdGFsIGF0dGFjayBib251cyBmb3IgYSBjcmVhdHVyZSBvZiB0aGlzIENSLiBUaGlzIHZhbHVlIGlzIGZvciBjcmVhdHVyZXMgdGhhdCBhcmUgcHJpbWFyaWx5IG1lbGVlIG9yIHJhbmdlZCBjb21iYXRhbnRzLiBDcmVhdHVyZXMgd2l0aCBhIGhpZ2hlciB0aGFuIG5vcm1hbCBhdmVyYWdlIGRhbWFnZSB0eXBpY2FsbHkgaGF2ZSBhIGxvd2VyIGF0dGFjayB2YWx1ZSB0byBjb21wZW5zYXRlLiA8YnIgLz48YnIgLz48Yj5Mb3cgQXR0YWNrPC9iPjogVGhpcyBpcyB0aGUgYXZlcmFnZSB0b3RhbCBhdHRhY2sgYm9udXMgZm9yIGEgY3JlYXR1cmUgb2YgdGhpcyBDUiB0aGF0IGRvZXMgbm90IHJlbHkgdXBvbiBtZWxlZSBvciByYW5nZWQgYXR0YWNrcyB0byBkZWFsIGRhbWFnZS4gVGhpcyBpbmNsdWRlcyBtb3N0IGNyZWF0dXJlcyB0aGF0IHJlbHkgb24gc3BlbGxzIGFuZCBzcGVsbC1saWtlIGFiaWxpdGllcyBpbiBjb21iYXQuIDxiciAvPjxiciAvPjxiPkF2ZXJhZ2UgRGFtYWdlPC9iPjogVGhpcyBpcyB0aGUgYXZlcmFnZSBhbW91bnQgb2YgZGFtYWdlIGRlYWx0IGJ5IGEgY3JlYXR1cmUgb2YgdGhpcyBDUiBpZiBhbGwgb2YgaXRzIGF0dGFja3MgYXJlIHN1Y2Nlc3NmdWwuIFRvIGRldGVybWluZSBhIGNyZWF0dXJl4oCZcyBhdmVyYWdlIGRhbWFnZSwgYWRkIHRoZSBhdmVyYWdlIHZhbHVlIGZvciBhbGwgb2YgdGhlIGRhbWFnZSBkaWNlIHJvbGxlZCAoYXMgZGV0ZXJtaW5lZCBieSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iUnVsZXMuYXNweD9OYW1lPVN0ZXAgNzogT3RoZXIgU3RhdGlzdGljcyZDYXRlZ29yeT1Nb25zdGVyIENyZWF0aW9uIj5UYWJsZSAx4oCTNTwvYT4pIHRvIHRoZSBkYW1hZ2UgbW9kaWZpZXIgZm9yIGVhY2ggYXR0YWNrLiBBIGNyZWF0dXJlIHRoYXQgcmVsaWVzIG9uIG1lbGVlIG9yIHJhbmdlZCB3ZWFwb25zIGluIGNvbWJhdCBzaG91bGQgaGF2ZSBhdmVyYWdlIGRhbWFnZSB3aXRoaW4gdGhlIHJhbmdlIG9mIGhpZ2ggYW5kIGxvdyBkYW1hZ2UuIEEgY3JlYXR1cmUgd2l0aCBoaWdoZXIgdGhhbiBub3JtYWwgYXR0YWNrIGJvbnVzZXMgd2lsbCBvZnRlbiBkZWFsIGxvd2VyIGRhbWFnZSwgd2hpbGUgYSBjcmVhdHVyZSB3aXRoIGxvd2VyIHRoYW4gbm9ybWFsIGF0dGFjayBib251c2VzIHdpbGwgb2Z0ZW4gZGVhbCBoaWdoZXIgZGFtYWdlLiBQcmltYXJ5IEFiaWxpdHkgREM6IFRoaXMgaXMgdGhlIGF2ZXJhZ2UgZGlmZmljdWx0eSBjbGFzcyAoREMpIGZvciBhbnkgc3BlbGxzLCBzcGVsbC1saWtlIGFiaWxpdGllcywgYW5kIHNwZWNpYWwgYWJpbGl0aWVzIChzdWNoIGFzIGJyZWF0aCB3ZWFwb25zKSBwb3NzZXNzZWQgYnkgYSBjcmVhdHVyZSBvZiB0aGlzIENSIHRoYXQgcmVsaWVzIG9uIHN1Y2ggYXR0YWNrcyBpbiBjb21iYXQuIElmIGFuIGFiaWxpdHkgaXMgcGFydGljdWxhcmx5IHBvd2VyZnVsLCBpdCBtaWdodCBoYXZlIGEgbG93ZXIgREMgdG8gY29tcGVuc2F0ZS4gPGJyIC8+PGJyIC8+PGI+U2Vjb25kYXJ5IEFiaWxpdHkgREM8L2I+OiBUaGlzIGlzIHRoZSBhdmVyYWdlIERDIGZvciBzcGVsbHMgYW5kIHNwZWNpYWwgYWJpbGl0aWVzIGZvciBhIGNyZWF0dXJlIHRoYXQgZG9lcyBub3QgcmVseSBvbiBzdWNoIGF0dGFja3MgaW4gY29tYmF0LiBHZW5lcmFsbHksIGEgREMgc2hvdWxkIG5vdCBiZSBsb3dlciB0aGFuIHRoaXMgbnVtYmVyLiA8YnIgLz48YnIgLz48Yj5Hb29kIFNhdmU8L2I+OiBUaGlzIGlzIHRoZSBhdmVyYWdlIHNhdmluZyB0aHJvdyBib251cyBmb3IgYSBjcmVhdHVyZSBvZiB0aGlzIENSIGlmIHRoZSBzYXZpbmcgdGhyb3cgaXMgb25lIG9mIHRoZSBjcmVhdHVyZeKAmXMgZ29vZCBzYXZpbmcgdGhyb3dzLiA8YnIgLz48YnIgLz48Yj5Qb29yIFNhdmU8L2I+OiBUaGlzIGlzIHRoZSBhdmVyYWdlIHNhdmluZyB0aHJvdyBib251cyBmb3IgYSBjcmVhdHVyZSBvZiB0aGlzIENSIGlmIHRoZSBzYXZpbmcgdGhyb3cgaXMgb25lIG9mIHRoZSBjcmVhdHVyZeKAmXMgcG9vciBzYXZpbmcgdGhyb3dzLiA8YnIgLz48YnIgLz4gPGgyPlRhYmxlIDEtMTogTW9uc3RlciBTdGF0aXN0aWNzIGJ5IENSPC9oMj4gPHRhYmxlIGNsYXNzPSJpbm5lciI+IDx0cj48dGQgY29sc3Bhbj0iNSI+PC90ZD48dGQgY29sc3Bhbj0iMiI+PGI+QXZlcmFnZSBEYW1hZ2U8L2I+PC90ZD48dGQgY29sc3Bhbj0iMiI+PC90ZD48L3RyPiA8dHI+PHRkPjxiPkNSPC9iPjwvdGQ+PHRkPjxiPkhpdCBQb2ludHM8L2I+PC90ZD48dGQ+PGI+QXJtciBDbGFzczwvYj48L3RkPjx0ZD48Yj5IaWdoIEF0dGFjazwvYj48L3RkPjx0ZD48Yj5Mb3cgQXR0YWNrPC9iPjwvdGQ+PHRkPjxiPkhpZ2g8L2I+PC90ZD48dGQ+PGI+TG93PC9iPjwvdGQ+PHRkPjxiPlByaW1hcnkgQWJpbGl0eSBEQzwvYj48L3RkPjx0ZD48Yj5TZWNvbmRhcnkgQWJpbGl0eSBEQzwvYj48L3RkPjx0ZD48Yj5Hb29kIFNhdmU8L2I+PC90ZD48dGQ+PGI+UG9vciBTYXZlPC9iPjwvdGQ+PC90cj4gPHRyPjx0ZD4xLzI8L3RkPjx0ZD4xMDwvdGQ+PHRkPjExPC90ZD48dGQ+MTwvdGQ+PHRkPjA8L3RkPjx0ZD40PC90ZD48dGQ+MzwvdGQ+PHRkPjExPC90ZD48dGQ+ODwvdGQ+PHRkPjM8L3RkPjx0ZD4wPC90ZD48L3RyPiA8dHI+PHRkPjE8L3RkPjx0ZD4xNTwvdGQ+PHRkPjEyPC90ZD48dGQ+MjwvdGQ+PHRkPjE8L3RkPjx0ZD43PC90ZD48dGQ+NTwvdGQ+PHRkPjEyPC90ZD48dGQ+OTwvdGQ+PHRkPjQ8L3RkPjx0ZD4xPC90ZD48L3RyPiA8dHI+PHRkPjI8L3RkPjx0ZD4yMDwvdGQ+PHRkPjE0PC90ZD48dGQ+NDwvdGQ+PHRkPjM8L3RkPjx0ZD4xMDwvdGQ+PHRkPjc8L3RkPjx0ZD4xMzwvdGQ+PHRkPjk8L3RkPjx0ZD41PC90ZD48dGQ+MTwvdGQ+PC90cj4gPHRyPjx0ZD4zPC90ZD48dGQ+MzA8L3RkPjx0ZD4xNTwvdGQ+PHRkPjY8L3RkPjx0ZD40PC90ZD48dGQ+MTM8L3RkPjx0ZD45PC90ZD48dGQ+MTQ8L3RkPjx0ZD4xMDwvdGQ+PHRkPjY8L3RkPjx0ZD4yPC90ZD48L3RyPiA8dHI+PHRkPjQ8L3RkPjx0ZD40MDwvdGQ+PHRkPjE3PC90ZD48dGQ+ODwvdGQ+PHRkPjY8L3RkPjx0ZD4xNjwvdGQ+PHRkPjEyPC90ZD48dGQ+MTU8L3RkPjx0ZD4xMDwvdGQ+PHRkPjc8L3RkPjx0ZD4zPC90ZD48L3RyPiA8dHI+PHRkPjU8L3RkPjx0ZD41NTwvdGQ+PHRkPjE4PC90ZD48dGQ+MTA8L3RkPjx0ZD43PC90ZD48dGQ+MjA8L3RkPjx0ZD4xNTwvdGQ+PHRkPjE1PC90ZD48dGQ+MTE8L3RkPjx0ZD44PC90ZD48dGQ+NDwvdGQ+PC90cj4gPHRyPjx0ZD42PC90ZD48dGQ+NzA8L3RkPjx0ZD4xOTwvdGQ+PHRkPjEyPC90ZD48dGQ+ODwvdGQ+PHRkPjI1PC90ZD48dGQ+MTg8L3RkPjx0ZD4xNjwvdGQ+PHRkPjExPC90ZD48dGQ+OTwvdGQ+PHRkPjU8L3RkPjwvdHI+IDx0cj48dGQ+NzwvdGQ+PHRkPjg1PC90ZD48dGQ+MjA8L3RkPjx0ZD4xMzwvdGQ+PHRkPjEwPC90ZD48dGQ+MzA8L3RkPjx0ZD4yMjwvdGQ+PHRkPjE3PC90ZD48dGQ+MTI8L3RkPjx0ZD4xMDwvdGQ+PHRkPjY8L3RkPjwvdHI+IDx0cj48dGQ+ODwvdGQ+PHRkPjEwMDwvdGQ+PHRkPjIxPC90ZD48dGQ+MTU8L3RkPjx0ZD4xMTwvdGQ+PHRkPjM1PC90ZD48dGQ+MjY8L3RkPjx0ZD4xODwvdGQ+PHRkPjEyPC90ZD48dGQ+MTE8L3RkPjx0ZD43PC90ZD48L3RyPiA8dHI+PHRkPjk8L3RkPjx0ZD4xMTU8L3RkPjx0ZD4yMzwvdGQ+PHRkPjE3PC90ZD48dGQ+MTI8L3RkPjx0ZD40MDwvdGQ+PHRkPjMwPC90ZD48dGQ+MTg8L3RkPjx0ZD4xMzwvdGQ+PHRkPjEyPC90ZD48dGQ+ODwvdGQ+PC90cj4gPHRyPjx0ZD4xMDwvdGQ+PHRkPjEzMDwvdGQ+PHRkPjI0PC90ZD48dGQ+MTg8L3RkPjx0ZD4xMzwvdGQ+PHRkPjQ1PC90ZD48dGQ+MzM8L3RkPjx0ZD4xOTwvdGQ+PHRkPjEzPC90ZD48dGQ+MTM8L3RkPjx0ZD45PC90ZD48L3RyPiA8dHI+PHRkPjExPC90ZD48dGQ+MTQ1PC90ZD48dGQ+MjU8L3RkPjx0ZD4xOTwvdGQ+PHRkPjE0PC90ZD48dGQ+NTA8L3RkPjx0ZD4zNzwvdGQ+PHRkPjIwPC90ZD48dGQ+MTQ8L3RkPjx0ZD4xNDwvdGQ+PHRkPjEwPC90ZD48L3RyPiA8dHI+PHRkPjEyPC90ZD48dGQ+MTYwPC90ZD48dGQ+Mjc8L3RkPjx0ZD4yMTwvdGQ+PHRkPjE1PC90ZD48dGQ+NTU8L3RkPjx0ZD40MTwvdGQ+PHRkPjIxPC90ZD48dGQ+MTU8L3RkPjx0ZD4xNTwvdGQ+PHRkPjExPC90ZD48L3RyPiA8dHI+PHRkPjEzPC90ZD48dGQ+MTgwPC90ZD48dGQ+Mjg8L3RkPjx0ZD4yMjwvdGQ+PHRkPjE2PC90ZD48dGQ+NjA8L3RkPjx0ZD40NTwvdGQ+PHRkPjIxPC90ZD48dGQ+MTU8L3RkPjx0ZD4xNjwvdGQ+PHRkPjEyPC90ZD48L3RyPiA8dHI+PHRkPjE0PC90ZD48dGQ+MjAwPC90ZD48dGQ+Mjk8L3RkPjx0ZD4yMzwvdGQ+PHRkPjE3PC90ZD48dGQ+NjU8L3RkPjx0ZD40ODwvdGQ+PHRkPjIyPC90ZD48dGQ+MTU8L3RkPjx0ZD4xNzwvdGQ+PHRkPjEyPC90ZD48L3RyPiA8dHI+PHRkPjE1PC90ZD48dGQ+MjIwPC90ZD48dGQ+MzA8L3RkPjx0ZD4yNDwvdGQ+PHRkPjE4PC90ZD48dGQ+NzA8L3RkPjx0ZD41MjwvdGQ+PHRkPjIzPC90ZD48dGQ+MTY8L3RkPjx0ZD4xODwvdGQ+PHRkPjEzPC90ZD48L3RyPiA8dHI+PHRkPjE2PC90ZD48dGQ+MjQwPC90ZD48dGQ+MzE8L3RkPjx0ZD4yNjwvdGQ+PHRkPjE5PC90ZD48dGQ+ODA8L3RkPjx0ZD42MDwvdGQ+PHRkPjI0PC90ZD48dGQ+MTc8L3RkPjx0ZD4xOTwvdGQ+PHRkPjE0PC90ZD48L3RyPiA8dHI+PHRkPjE3PC90ZD48dGQ+MjcwPC90ZD48dGQ+MzI8L3RkPjx0ZD4yNzwvdGQ+PHRkPjIwPC90ZD48dGQ+OTA8L3RkPjx0ZD42NzwvdGQ+PHRkPjI0PC90ZD48dGQ+MTg8L3RkPjx0ZD4yMDwvdGQ+PHRkPjE1PC90ZD48L3RyPiA8dHI+PHRkPjE4PC90ZD48dGQ+MzAwPC90ZD48dGQ+MzM8L3RkPjx0ZD4yODwvdGQ+PHRkPjIxPC90ZD48dGQ+MTAwPC90ZD48dGQ+NzU8L3RkPjx0ZD4yNTwvdGQ+PHRkPjE4PC90ZD48dGQ+MjA8L3RkPjx0ZD4xNjwvdGQ+PC90cj4gPHRyPjx0ZD4xOTwvdGQ+PHRkPjMzMDwvdGQ+PHRkPjM0PC90ZD48dGQ+Mjk8L3RkPjx0ZD4yMjwvdGQ+PHRkPjExMDwvdGQ+PHRkPjgyPC90ZD48dGQ+MjY8L3RkPjx0ZD4xOTwvdGQ+PHRkPjIxPC90ZD48dGQ+MTY8L3RkPjwvdHI+IDx0cj48dGQ+MjA8L3RkPjx0ZD4zNzA8L3RkPjx0ZD4zNjwvdGQ+PHRkPjMwPC90ZD48dGQ+MjM8L3RkPjx0ZD4xMjA8L3RkPjx0ZD45MDwvdGQ+PHRkPjI3PC90ZD48dGQ+MjA8L3RkPjx0ZD4yMjwvdGQ+PHRkPjE3PC90ZD48L3RyPiA8L3RhYmxlPmRkZAOG46i/L6yE6OVqyr7kVpwawmdn+ffBCEe7KEfNWWzU" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=2448">Bestiary</a></u> / <u><a href="Rules.aspx?ID=2452">Monster Creation</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=2454">Step 2: Target Statistics</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8auu?Pathfinder-Roleplaying-Game-Bestiary" target="_blank" class="external-link"><i>Pathfinder RPG Bestiary pg. 290</i></a><br />Once you have a creature’s type and CR determined, use Table 1–1 to determine its approximate statistics by CR. These values are a rough guideline only. You will notice that many of the existing monsters in this book do not follow these guidelines exactly. Most monsters excel in one of these areas, usually in the amount of damage dealt, but lag in one or two other areas to help balance them out. When referring to Table 1–1, keep the following points in mind. <br /><br /><b>CR</b>: This is the approximate CR of the monster. This number might change as design progresses. <br /><br /><b>Hit Points</b>: This is the approximate hit point total for the monster. Note that creatures with particularly high Armor Classes or saving throws, or a number of resistances, might have a lower number. Outsiders and constructs typically have lower hit point totals. <br /><br /><b>Armor Class</b>: This is the average Armor Class for a creature of this CR. When it comes time to design the creature’s protections, keep this number in mind. Creatures with hit points above the average often have lower Armor Class values to compensate. <br /><br /><b>High Attack</b>: This is the average total attack bonus for a creature of this CR. This value is for creatures that are primarily melee or ranged combatants. Creatures with a higher than normal average damage typically have a lower attack value to compensate. <br /><br /><b>Low Attack</b>: This is the average total attack bonus for a creature of this CR that does not rely upon melee or ranged attacks to deal damage. This includes most creatures that rely on spells and spell-like abilities in combat. <br /><br /><b>Average Damage</b>: This is the average amount of damage dealt by a creature of this CR if all of its attacks are successful. To determine a creature’s average damage, add the average value for all of the damage dice rolled (as determined by <a style="text-decoration:underline" href="Rules.aspx?Name=Step 7: Other Statistics&Category=Monster Creation">Table 1–5</a>) to the damage modifier for each attack. A creature that relies on melee or ranged weapons in combat should have average damage within the range of high and low damage. A creature with higher than normal attack bonuses will often deal lower damage, while a creature with lower than normal attack bonuses will often deal higher damage. Primary Ability DC: This is the average difficulty class (DC) for any spells, spell-like abilities, and special abilities (such as breath weapons) possessed by a creature of this CR that relies on such attacks in combat. If an ability is particularly powerful, it might have a lower DC to compensate. <br /><br /><b>Secondary Ability DC</b>: This is the average DC for spells and special abilities for a creature that does not rely on such attacks in combat. Generally, a DC should not be lower than this number. <br /><br /><b>Good Save</b>: This is the average saving throw bonus for a creature of this CR if the saving throw is one of the creature’s good saving throws. <br /><br /><b>Poor Save</b>: This is the average saving throw bonus for a creature of this CR if the saving throw is one of the creature’s poor saving throws. <br /><br /> <h2>Table 1-1: Monster Statistics by CR</h2> <table class="inner"> <tr><td colspan="5"></td><td colspan="2"><b>Average Damage</b></td><td colspan="2"></td></tr> <tr><td><b>CR</b></td><td><b>Hit Points</b></td><td><b>Armr Class</b></td><td><b>High Attack</b></td><td><b>Low Attack</b></td><td><b>High</b></td><td><b>Low</b></td><td><b>Primary Ability DC</b></td><td><b>Secondary Ability DC</b></td><td><b>Good Save</b></td><td><b>Poor Save</b></td></tr> <tr><td>1/2</td><td>10</td><td>11</td><td>1</td><td>0</td><td>4</td><td>3</td><td>11</td><td>8</td><td>3</td><td>0</td></tr> <tr><td>1</td><td>15</td><td>12</td><td>2</td><td>1</td><td>7</td><td>5</td><td>12</td><td>9</td><td>4</td><td>1</td></tr> <tr><td>2</td><td>20</td><td>14</td><td>4</td><td>3</td><td>10</td><td>7</td><td>13</td><td>9</td><td>5</td><td>1</td></tr> <tr><td>3</td><td>30</td><td>15</td><td>6</td><td>4</td><td>13</td><td>9</td><td>14</td><td>10</td><td>6</td><td>2</td></tr> <tr><td>4</td><td>40</td><td>17</td><td>8</td><td>6</td><td>16</td><td>12</td><td>15</td><td>10</td><td>7</td><td>3</td></tr> <tr><td>5</td><td>55</td><td>18</td><td>10</td><td>7</td><td>20</td><td>15</td><td>15</td><td>11</td><td>8</td><td>4</td></tr> <tr><td>6</td><td>70</td><td>19</td><td>12</td><td>8</td><td>25</td><td>18</td><td>16</td><td>11</td><td>9</td><td>5</td></tr> <tr><td>7</td><td>85</td><td>20</td><td>13</td><td>10</td><td>30</td><td>22</td><td>17</td><td>12</td><td>10</td><td>6</td></tr> <tr><td>8</td><td>100</td><td>21</td><td>15</td><td>11</td><td>35</td><td>26</td><td>18</td><td>12</td><td>11</td><td>7</td></tr> <tr><td>9</td><td>115</td><td>23</td><td>17</td><td>12</td><td>40</td><td>30</td><td>18</td><td>13</td><td>12</td><td>8</td></tr> <tr><td>10</td><td>130</td><td>24</td><td>18</td><td>13</td><td>45</td><td>33</td><td>19</td><td>13</td><td>13</td><td>9</td></tr> <tr><td>11</td><td>145</td><td>25</td><td>19</td><td>14</td><td>50</td><td>37</td><td>20</td><td>14</td><td>14</td><td>10</td></tr> <tr><td>12</td><td>160</td><td>27</td><td>21</td><td>15</td><td>55</td><td>41</td><td>21</td><td>15</td><td>15</td><td>11</td></tr> <tr><td>13</td><td>180</td><td>28</td><td>22</td><td>16</td><td>60</td><td>45</td><td>21</td><td>15</td><td>16</td><td>12</td></tr> <tr><td>14</td><td>200</td><td>29</td><td>23</td><td>17</td><td>65</td><td>48</td><td>22</td><td>15</td><td>17</td><td>12</td></tr> <tr><td>15</td><td>220</td><td>30</td><td>24</td><td>18</td><td>70</td><td>52</td><td>23</td><td>16</td><td>18</td><td>13</td></tr> <tr><td>16</td><td>240</td><td>31</td><td>26</td><td>19</td><td>80</td><td>60</td><td>24</td><td>17</td><td>19</td><td>14</td></tr> <tr><td>17</td><td>270</td><td>32</td><td>27</td><td>20</td><td>90</td><td>67</td><td>24</td><td>18</td><td>20</td><td>15</td></tr> <tr><td>18</td><td>300</td><td>33</td><td>28</td><td>21</td><td>100</td><td>75</td><td>25</td><td>18</td><td>20</td><td>16</td></tr> <tr><td>19</td><td>330</td><td>34</td><td>29</td><td>22</td><td>110</td><td>82</td><td>26</td><td>19</td><td>21</td><td>16</td></tr> <tr><td>20</td><td>370</td><td>36</td><td>30</td><td>23</td><td>120</td><td>90</td><td>27</td><td>20</td><td>22</td><td>17</td></tr> </table></span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

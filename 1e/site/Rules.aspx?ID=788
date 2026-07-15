@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Drawing a Dungeon Map - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Drawing a Dungeon Map" /><meta name="description" content="For the same reasons it’s good to outline a story before writing it, it’s good to create the map of your dungeon before populating it with encounters. The map is the outline of the dungeon adventure, after all—in drawing the map, you set the boundaries of what your adventure will contain. You should certainly have a general idea of the types of encounters your dungeon will need when you start, but don’t be afraid to let the dungeon drawing itself inspire you as well.&lt;br />&lt;br /> One important thing to realize at the outset is that your dungeon map doesn’t have to be pretty—it merely has to be legible and understandable to you or whoever will be using the map. Nonetheless, cultivating some skill at cartography can really help you keep yourself organized—it’s easier to come back to a legible map you drew years ago than it is to one that’s barely more than chicken scratchings.&lt;br />&lt;br /> A good way to build skill at mapping dungeons is to copy them from published products. Get yourself a big pad or notebook filled with graph paper. Whenever you see a nice map in one of those products, pick up a pen or pencil and try to duplicate that map. Before long, you’ll be drawing your own maps—and it can’t hurt to keep drawing maps even when you aren’t preparing for a specific game." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=788" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXsPzx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDU0Ij5HYW1lTWFzdGVyeSBHdWlkZTwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD03ODIiPkFkdmVudHVyZXM8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9Nzg2Ij5EdW5nZW9uczwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD03ODgiPkRyYXdpbmcgYSBEdW5nZW9uIE1hcDwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDE3NDwvaT48L2E+PGJyIC8+Rm9yIHRoZSBzYW1lIHJlYXNvbnMgaXTigJlzIGdvb2QgdG8gb3V0bGluZSBhIHN0b3J5IGJlZm9yZSB3cml0aW5nIGl0LCBpdOKAmXMgZ29vZCB0byBjcmVhdGUgdGhlIG1hcCBvZiB5b3VyIGR1bmdlb24gYmVmb3JlIHBvcHVsYXRpbmcgaXQgd2l0aCBlbmNvdW50ZXJzLiBUaGUgbWFwIGlzIHRoZSBvdXRsaW5lIG9mIHRoZSBkdW5nZW9uIGFkdmVudHVyZSwgYWZ0ZXIgYWxs4oCUaW4gZHJhd2luZyB0aGUgbWFwLCB5b3Ugc2V0IHRoZSBib3VuZGFyaWVzIG9mIHdoYXQgeW91ciBhZHZlbnR1cmUgd2lsbCBjb250YWluLiBZb3Ugc2hvdWxkIGNlcnRhaW5seSBoYXZlIGEgZ2VuZXJhbCBpZGVhIG9mIHRoZSB0eXBlcyBvZiBlbmNvdW50ZXJzIHlvdXIgZHVuZ2VvbiB3aWxsIG5lZWQgd2hlbiB5b3Ugc3RhcnQsIGJ1dCBkb27igJl0IGJlIGFmcmFpZCB0byBsZXQgdGhlIGR1bmdlb24gZHJhd2luZyBpdHNlbGYgaW5zcGlyZSB5b3UgYXMgd2VsbC48YnIgLz48YnIgLz4gT25lIGltcG9ydGFudCB0aGluZyB0byByZWFsaXplIGF0IHRoZSBvdXRzZXQgaXMgdGhhdCB5b3VyIGR1bmdlb24gbWFwIGRvZXNu4oCZdCBoYXZlIHRvIGJlIHByZXR0eeKAlGl0IG1lcmVseSBoYXMgdG8gYmUgbGVnaWJsZSBhbmQgdW5kZXJzdGFuZGFibGUgdG8geW91IG9yIHdob2V2ZXIgd2lsbCBiZSB1c2luZyB0aGUgbWFwLiBOb25ldGhlbGVzcywgY3VsdGl2YXRpbmcgc29tZSBza2lsbCBhdCBjYXJ0b2dyYXBoeSBjYW4gcmVhbGx5IGhlbHAgeW91IGtlZXAgeW91cnNlbGYgb3JnYW5pemVk4oCUaXTigJlzIGVhc2llciB0byBjb21lIGJhY2sgdG8gYSBsZWdpYmxlIG1hcCB5b3UgZHJldyB5ZWFycyBhZ28gdGhhbiBpdCBpcyB0byBvbmUgdGhhdOKAmXMgYmFyZWx5IG1vcmUgdGhhbiBjaGlja2VuIHNjcmF0Y2hpbmdzLjxiciAvPjxiciAvPiBBIGdvb2Qgd2F5IHRvIGJ1aWxkIHNraWxsIGF0IG1hcHBpbmcgZHVuZ2VvbnMgaXMgdG8gY29weSB0aGVtIGZyb20gcHVibGlzaGVkIHByb2R1Y3RzLiBHZXQgeW91cnNlbGYgYSBiaWcgcGFkIG9yIG5vdGVib29rIGZpbGxlZCB3aXRoIGdyYXBoIHBhcGVyLiBXaGVuZXZlciB5b3Ugc2VlIGEgbmljZSBtYXAgaW4gb25lIG9mIHRob3NlIHByb2R1Y3RzLCBwaWNrIHVwIGEgcGVuIG9yIHBlbmNpbCBhbmQgdHJ5IHRvIGR1cGxpY2F0ZSB0aGF0IG1hcC4gQmVmb3JlIGxvbmcsIHlvdeKAmWxsIGJlIGRyYXdpbmcgeW91ciBvd24gbWFwc+KAlGFuZCBpdCBjYW7igJl0IGh1cnQgdG8ga2VlcCBkcmF3aW5nIG1hcHMgZXZlbiB3aGVuIHlvdSBhcmVu4oCZdCBwcmVwYXJpbmcgZm9yIGEgc3BlY2lmaWMgZ2FtZS48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTc4OSI+U2tldGNoaW5nIHRoZSBNYXA8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiAxNzQ8L2k+PC9hPjxiciAvPlVzaW5nIGEgcGVuY2lsLCBza2V0Y2ggb3V0IHRoZSBiYXNpYyBzaGFwZSBvZiB5b3VyIG1hcC4gWW91IGNhbiBpbmRpY2F0ZSB0aGUgcG9zaXRpb24gYW5kIHJlbGF0aXZlIHNpemUgb2Ygcm9vbXMgYnkgc2ltcGx5IGRyYXdpbmcgcm91Z2ggc2hhcGVzIGFuZCBjaXJjbGVzIGFuZCB0aGVuIGxhYmVsaW5nIGVhY2jigJTigJxraXRjaGVuLOKAnSDigJxsaWJyYXJ5LOKAnSDigJxvd2xiZWFyIGxhaXIs4oCdIGFuZCBzbyBvbi4gSWYgeW91ciBkdW5nZW9uIGlzIGluIGFuIGFib3ZlZ3JvdW5kIHN0cnVjdHVyZSBvciBvdGhlciBsb2NhdGlvbiB3aXRoIGEgZGVmaW5pdGUgYm9yZGVyLCBkcmF3IHRoaXMgaW4gdG8gY29uc3RyYWluIHlvdXIgZGVzaWduLiBPbmNlIHlvdeKAmXJlIGhhcHB5IHdpdGggdGhlIGJhc2ljIHNoYXBlLCBnbyBhaGVhZCBhbmQgc3RhcnQgZHJhd2luZyByb29tcyBhbmQgaGFsbHdheXMsIHRoZW4gZHJvcCBpbiBzeW1ib2xzIGZvciBkdW5nZW9uIGZlYXR1cmVzLiBNYWtlIG5vdGVzIGluIHRoZSBtYXJnaW5zIG9yIGluIHJvb21zIHRvIHJlbWluZCB5b3Ugb2YgaWRlYXMgZm9yIHRoZSByb29tc+KAmSBjb250ZW50cyBhcyB5b3UgY3JlYXRlIHRoZW0uPGJyIC8+PGJyIC8+IEhlcmUgYXJlIHNldmVyYWwgdGhpbmdzIHRvIGtlZXAgaW4gbWluZCB3aGlsZSB5b3XigJlyZSBjcmVhdGluZyB5b3VyIG1hcDo8YnIgLz48YnIgLz4gPGI+TWFwIFN5bWJvbHM8L2I+OiBVc2Ugc3ltYm9scyB0byByZXByZXNlbnQgY29tbW9uIGZlYXR1cmVzIGZvdW5kIGluIG1vc3QgZHVuZ2VvbnPigJRkb29ycywgc3RhaXJzLCB0cmFwcywgcGlsbGFycywgYW5kIG1vcmUuIFVzaW5nIHRoZXNlIHN0YW5kYXJkaXplZCBtYXAgc3ltYm9scyBrZWVwcyB5b3VyIG1hcHMgZnJvbSBiZWNvbWluZyB0b28gY2x1dHRlcmVkIHdpdGggd3JpdHRlbiBub3RlcyBhbmQgdGFncy4gQ29tbW9uIG1hcCBzeW1ib2xzIGFyZSBzaG93biBvbiBwYWdlIDE3NS48YnIgLz48YnIgLz4gPGI+QXZvaWQgRW1wdHkgUm9vbXM8L2I+OiBVbmxlc3MgeW914oCZcmUgc3BlY2lmaWNhbGx5IGRlc2lnbmluZyBhIGR1bmdlb24gdGhhdCBpcyBwYXJ0aWFsbHkgYWJhbmRvbmVkIG9yIHlvdeKAmXJlIHRyeWluZyB0byBsdWxsIHlvdXIgUENzIGludG8gYSBmYWxzZSBzZW5zZSBvZiBzZWN1cml0eSwgZG9u4oCZdCBhZGQgdG9vIG1hbnkgZW1wdHkgcm9vbXMsIGFzIHRoZXkgY2FuIGNsdXR0ZXIgeW91ciBtYXAuPGJyIC8+PGJyIC8+IDxiPkRvbuKAmXQgT3ZlcmRyYXc8L2I+OiBJZiB5b3UgaGF2ZSBhbiBpZGVhIG9mIGhvdyBtYW55IGVuY291bnRlcnMgeW91IHdhbnQgb3IgaG93IGxvbmcgeW91IHdhbnQgYSBzZXNzaW9uIG9mIGR1bmdlb24gZXhwbG9yYXRpb24gdG8gcnVuLCBkb27igJl0IGJ1aWxkIGEgZHVuZ2VvbiB0aGF04oCZcyB0b28gc21hbGwgb3IgdG9vIGJpZy4gVGFrZSBub3RlIG9mIGhvdyBsb25nIGl0IGdlbmVyYWxseSB0YWtlcyB5b3VyIGdyb3VwIHRvIHBsYXkgdGhyb3VnaCBhbiBhdmVyYWdlIGVuY291bnRlciAod2hldGhlciAxMCBtaW51dGVzLCBhIGhhbGYtaG91ciwgYW4gaG91ciwgb3Igd2hhdGV2ZXIpIGFuZCBkZXNpZ24gd2l0aCB0aGF0IHRpbWVmcmFtZSBpbiBtaW5kLiBJZiB5b3VyIGdyb3VwIGdlbmVyYWxseSBjbGVhcnMgb25lIHJvb20gYW4gaG91ciBhbmQgeW91IHdhbnQgdGhlIGR1bmdlb24gdG8gdGFrZSB1cCB0d28gNS1ob3VyIHNlc3Npb25zLCBtYWtlIHN1cmUgdGhlIGR1bmdlb24gY29udGFpbnMgb25seSBhYm91dCAxMCByb29tcy48YnIgLz48YnIgLz4gPGI+TGVhdmUgUm9vbSBmb3IgRXhwYW5zaW9uPC9iPjogVW5sZXNzIHlvdeKAmXJlIGNlcnRhaW4geW91IGRvbuKAmXQgd2FudCB0byByZXR1cm4gdG8geW91ciBkdW5nZW9uIGxhdGVyIG9yIHdhbnQgaXQgdG8gc2VydmUgYXMgYSB0cnVseSBlbmNsb3NlZCBhcmVhLCBpdOKAmXMgdXN1YWxseSBhIGdvb2QgaWRlYSB0byBpbmNsdWRlIHNvbWUgc29ydCBvZiBjb25jZXNzaW9uIHRvd2FyZCBmdXR1cmUgZXhwYW5zaW9uLiBBIHR1bm5lbCBydW5uaW5nIG9mZiB0aGUgZWRnZSBvZiB0aGUgbWFwLCBhIHJpdmVyIG9yIGxhcmdlIHVuZGVyZ3JvdW5kIHBvb2wsIG9yIGEgbGFyZ2UgcGl0IGNhbiBhbGwgbGVhZCB0aGUgd2F5IHRvIG5ldyBhcmVhcyBqdXN0IGJleW9uZCB0aGUgYm91bmRhcmllcyBvZiB5b3VyIGNyZWF0aW9uLjxiciAvPjxiciAvPiA8Yj5Bdm9pZCBTeW1tZXRyeTwvYj46IFJlZnJhaW4gZnJvbSBjcmVhdGluZyBzeW1tZXRyaWNhbCBkdW5nZW9ucyBpbiB3aGljaCBvbmUgaGFsZiBpcyBhbiBleGFjdCBtaXJyb3IgaW1hZ2Ugb2YgdGhlIG90aGVy4oCUbm90IG9ubHkgaXMgdGhpcyBzb21ld2hhdCB1bnJlYWxpc3RpYywgYnV0IGl0IHJvYnMgdGhlIHBsYXllcnMgb2YgdGhlIHRocmlsbCBvZiBleHBsb3JhdGlvbiBvbmNlIHRoZXkgcmVhbGl6ZSB0aGF0IHRoZXkgb25seSBoYXZlIHRvIGV4cGxvcmUgaGFsZiBvZiBhIGR1bmdlb24gdG8gc2VlIGl0IGFsbC48YnIgLz48YnIgLz4gPGI+VmFyeSBSb29tIFNoYXBlczwvYj46IEp1c3QgYXMgc3ltbWV0cnkgaXMgYmFkLCBzbyBpcyBvdmVyLXJlbGlhbmNlIG9uIHNxdWFyZSBvciByZWN0YW5ndWxhciByb29tcy4gQnkgaW5jbHVkaW5nIHN0cmFuZ2VseSBzaGFwZWQgcm9vbXMsIGFsY292ZXMsIG11bHRpbGV2ZWwgcm9vbXMsIGlycmVndWxhciBjYXZlcm5zLCBhbmQgb3RoZXIgdmFyaWF0aW9ucyBpbiByb29tIHNpemUgYW5kIHNoYXBlLCB5b3Ugbm90IG9ubHkgcHJvdmlkZSBlYWNoIHJvb23igJlzIGNvbWJhdCBlbmNvdW50ZXJzIHdpdGggZGlmZmVyZW50IHRhY3RpY2FsIGVsZW1lbnRzLCBidXQgeW91ciBtYXAgYmVjb21lcyBhIG1vcmUgaW50ZXJlc3RpbmcgbG9jYXRpb24gdG8gZHJhdywgbG9vayBhdCwgYW5kIHBsYXkgaW4uPGJyIC8+PGJyIC8+IDxiPldpZGUgQ29ycmlkb3JzPC9iPjogUmVtZW1iZXIgdGhhdCBjb21iYXQgaW4gdGhlIFBhdGhmaW5kZXIgUlBHIGlzIGJhc2VkIG9uIDUtZm9vdCBzcXVhcmVzLiBJZiB5b3UgZmlsbCB5b3VyIGR1bmdlb24gd2l0aCA1LWZvb3Qtd2lkZSBoYWxsd2F5cywgeW914oCZcmUgbm90IG9ubHkgZm9yY2luZyBtYW55IHByb3NwZWN0aXZlIGJhdHRsZXMgdG8gbmFycm93IGRvd24gdG8gb25lLW9uLW9uZSBjb25mbGljdHMgYmV0d2VlbiBvbmUgbW9uc3RlciBhbmQgb25lIHBsYXllciwgeW914oCZcmUgYWxzbyBtYWtpbmcgaXQgbW9yZSBkaWZmaWN1bHQgZm9yIG1vbnN0ZXJzIG9mIExhcmdlIHNpemUgb3IgYmlnZ2VyIHRvIGxpdmUgaW4gb3IgbW92ZSBhYm91dCBpbiB5b3VyIGR1bmdlb24uIEFsc28ga2VlcCB0aGUgc2l6ZSBvZiB0aGUgZHVuZ2VvbuKAmXMgaW5oYWJpdGFudHMgaW4gbWluZOKAlGlmIHlvdXIgZHVuZ2VvbiBpcyBhIGNsb3VkIGdpYW504oCZcyBmbG9hdGluZyBjYXN0bGUsIGZvciBleGFtcGxlLCB0aGUgcm9vbXMgYW5kIGNvcnJpZG9ycyBzaG91bGQgYmUgZ2lhbnQtc2l6ZWQsIG5vdCBodW1hbi1zaXplZC48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTc5MCI+SW5raW5nIHRoZSBNYXA8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiAxNzU8L2k+PC9hPjxiciAvPk9uY2UgeW914oCZcmUgaGFwcHkgd2l0aCB5b3VyIG1hcCBza2V0Y2gsIGdyYWIgeW91ciBwZW5zIGFuZCBzdGFydCBpbmtpbmcgaXQuIFlvdSBjYW4gdXNlIGRpZmZlcmVudCBwZW5zIHRvIGRlbm90ZSBkaWZmZXJlbnQgZmVhdHVyZXMgb24geW91ciBtYXA7IGEgd2lkZSBmZWx0LXRpcCBwZW4gd29ya3Mgd2VsbCBmb3IgdGhpY2sgd2FsbHMsIGZvciBleGFtcGxlLCB3aGlsZSBhIGZpbmUtdGlwcGVkIHBlbiB3b3JrcyBiZXR0ZXIgZm9yIGRldGFpbHMgbGlrZSBkb29ycyBhbmQgbWFwIHN5bWJvbHMuIE9uY2UgeW914oCZdmUgaW5rZWQgdGhlIG1hcCwgZXJhc2UgZXh0cmFuZW91cyBwZW5jaWwgbGluZXMgKGtlZXBpbmcgYW55IG5vdGVzIHlvdSB3YW50IHRvIHNhdmUsIG9mIGNvdXJzZSkuIE5leHQsIGdldCB5b3VyIGNvbG9yaW5nIHN1cHBsaWVzIGFuZCBhZGQgY29sb3IgYXMgbmVjZXNzYXJ54oCUYmx1ZSBmb3Igd2F0ZXIsIGdyZWVuIGZvciB2ZWdldGF0aW9uLCBvciB3aGF0ZXZlciB3b3JrcyBiZXN0LiBJZiB5b3UgY29sb3IgaW4gbm90aGluZyBlbHNlLCB1c2UgYmxhY2sgdG8gZmlsbCBpbiBhcmVhcyBvZiBzb2xpZCBzdG9uZSB0byBoZWxwIGRlZmluZSB0aGUgYWN0dWFsIHBhcnRzIG9mIHRoZSBtYXAgeW91ciBwbGF5ZXJzIGNhbiBleHBsb3JlLjxiciAvPjxiciAvPiBZb3UgY2FuIHNjYW4geW91ciBtYXAgYXQgdGhpcyBzdGFnZSBhcyB3ZWxsIGFuZCB1c2UgYSBwYWludCBwcm9ncmFtIHRvIGNvbG9yIGxhcmdlciBhcmVhcy4gU2Nhbm5pbmcgYSBtYXAgYW5kIHVzaW5nIGltYWdlIG1hbmlwdWxhdGlvbiBzb2Z0d2FyZSBpcyBhbHNvIGEgZ3JlYXQgd2F5IHRvIGNvcnJlY3QgZXJyb3JzIHlvdSBtYWRlIGR1cmluZyB0aGUgaW5raW5nIHByb2Nlc3MuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD03OTEiPlRhZ2dpbmcgdGhlIE1hcDwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDE3NjwvaT48L2E+PGJyIC8+T25jZSB5b3VyIG1hcCBpcyBpbmtlZCBhbmQgY29sb3JlZCwgaXTigJlzIGVzc2VudGlhbGx5IHJlYWR5IGZvciBwbGF5LiBBbGwgdGhhdOKAmXMgbGVmdCBpcyB0byB0YWcgaXQgd2l0aCBudW1iZXIgbG9jYXRpb25zIHRoYXQga2V5IHRoZSBtYXAgdG8gdGhlIGVuY291bnRlciBkZXNjcmlwdGlvbnMgaW4geW91ciBub3Rlcy4gVXNpbmcgYSBudW1iZXIga2V5IGhlbHBzIHRvIGtlZXAgeW91ciBtYXDigJlzIGRldGFpbHMgZnJvbSBiZWluZyBvYnNjdXJlZCBieSBkZXNjcmlwdGl2ZSB3b3Jkcy4gSWYgcG9zc2libGUsIHVzZSBhIHBlbiBvZiBhIGRpZmZlcmVudCBjb2xvciB0aGFuIGFueXRoaW5nIGVsc2Ugb24geW91ciBtYXAgc28gdGhlIG51bWJlciB0YWdzIHN0YW5kIG91dCBhbmQgYXJlIGVhc3kgdG8gc2Vl4oCUIGFsdGVybmF0aXZlbHksIHlvdSBjYW4gY2lyY2xlIHRoZSBudW1iZXIgdGFncyBvciBtYXJrIHRoZW0gd2l0aCBhIGhpZ2hsaWdodGVyLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NzkyIj5BZGRpbmcgRGV0YWlscyB0byB0aGUgTWFwPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gMTc2PC9pPjwvYT48YnIgLz5XaGlsZSBub3Qgc3RyaWN0bHkgbmVjZXNzYXJ5LCBhZGRpbmcgYWRkaXRpb25hbCBlbGVtZW50cyB0byB5b3VyIG1hcCBjYW4gbWFrZSBpdCBtb3JlIGF0dHJhY3RpdmUuIERldGFpbHMgc3VjaCBhcyBmdXJuaXR1cmUgKHRhYmxlcywgY2hhaXJzLCBiZWRzLCBhbmQgY2hlc3RzIGFyZSBhbGwgZ29vZCBleGFtcGxlcyksIGxpZ2h0IHNvdXJjZXMgKGZpcmVwbGFjZXMgb3IgZmlyZXBpdHMsIHdpbmRvd3MsIHNreWxpZ2h0cywgYW5kIHNvIG9uKSwgYW5kIGFyY2hpdGVjdHVyYWwgZmVhdHVyZXMgYWRkIGEgdG91Y2ggb2YgcmVhbGlzbSB0byBpbmhhYml0ZWQgZHVuZ2VvbnMuIEJlIGNhcmVmdWwgbm90IHRvIGFkZCB0b28gbWFueSBleHRyYSBkZXRhaWxzIHRvIHRoZSBtYXAsIGhvd2V2ZXLigJRub3Qgb25seSBjYW4gdGhleSBjbHV0dGVyIHlvdXIgbWFwIGFuZCBvYnNjdXJlIGltcG9ydGFudCBpbmZvcm1hdGlvbiwgYnV0IHRoZXkgY2FuIGhhdmUgYSBkZXRyaW1lbnRhbCBlZmZlY3Qgb24gY29tYmF0IGFzIHdlbGwuIFJlbWVtYmVyIHRoYXQgY2hhcmFjdGVycyBhbmQgbW9uc3RlcnMgbmVlZCByb29tIHRvIGZpZ2h0IGFuZCBtYW5ldXZlciwgYW5kIGEgcm9vbSBmaWxsZWQgd2l0aCBzdXBlcmZsdW91cyBmdXJuaXR1cmUgY2FuIG1ha2UgY29tYmF0IG92ZXJseSBjb21wbGV4LmRkZGLEtj/o5j27MouRY3SaIVxMxiXToQGvLau9oAHJ9p7/" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=454">GameMastery Guide</a></u> / <u><a href="Rules.aspx?ID=782">Adventures</a></u> / <u><a href="Rules.aspx?ID=786">Dungeons</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=788">Drawing a Dungeon Map</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 174</i></a><br />For the same reasons it’s good to outline a story before writing it, it’s good to create the map of your dungeon before populating it with encounters. The map is the outline of the dungeon adventure, after all—in drawing the map, you set the boundaries of what your adventure will contain. You should certainly have a general idea of the types of encounters your dungeon will need when you start, but don’t be afraid to let the dungeon drawing itself inspire you as well.<br /><br /> One important thing to realize at the outset is that your dungeon map doesn’t have to be pretty—it merely has to be legible and understandable to you or whoever will be using the map. Nonetheless, cultivating some skill at cartography can really help you keep yourself organized—it’s easier to come back to a legible map you drew years ago than it is to one that’s barely more than chicken scratchings.<br /><br /> A good way to build skill at mapping dungeons is to copy them from published products. Get yourself a big pad or notebook filled with graph paper. Whenever you see a nice map in one of those products, pick up a pen or pencil and try to duplicate that map. Before long, you’ll be drawing your own maps—and it can’t hurt to keep drawing maps even when you aren’t preparing for a specific game.<br /><h1 class="title"><a href="Rules.aspx?ID=789">Sketching the Map</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 174</i></a><br />Using a pencil, sketch out the basic shape of your map. You can indicate the position and relative size of rooms by simply drawing rough shapes and circles and then labeling each—“kitchen,” “library,” “owlbear lair,” and so on. If your dungeon is in an aboveground structure or other location with a definite border, draw this in to constrain your design. Once you’re happy with the basic shape, go ahead and start drawing rooms and hallways, then drop in symbols for dungeon features. Make notes in the margins or in rooms to remind you of ideas for the rooms’ contents as you create them.<br /><br /> Here are several things to keep in mind while you’re creating your map:<br /><br /> <b>Map Symbols</b>: Use symbols to represent common features found in most dungeons—doors, stairs, traps, pillars, and more. Using these standardized map symbols keeps your maps from becoming too cluttered with written notes and tags. Common map symbols are shown on page 175.<br /><br /> <b>Avoid Empty Rooms</b>: Unless you’re specifically designing a dungeon that is partially abandoned or you’re trying to lull your PCs into a false sense of security, don’t add too many empty rooms, as they can clutter your map.<br /><br /> <b>Don’t Overdraw</b>: If you have an idea of how many encounters you want or how long you want a session of dungeon exploration to run, don’t build a dungeon that’s too small or too big. Take note of how long it generally takes your group to play through an average encounter (whether 10 minutes, a half-hour, an hour, or whatever) and design with that timeframe in mind. If your group generally clears one room an hour and you want the dungeon to take up two 5-hour sessions, make sure the dungeon contains only about 10 rooms.<br /><br /> <b>Leave Room for Expansion</b>: Unless you’re certain you don’t want to return to your dungeon later or want it to serve as a truly enclosed area, it’s usually a good idea to include some sort of concession toward future expansion. A tunnel running off the edge of the map, a river or large underground pool, or a large pit can all lead the way to new areas just beyond the boundaries of your creation.<br /><br /> <b>Avoid Symmetry</b>: Refrain from creating symmetrical dungeons in which one half is an exact mirror image of the other—not only is this somewhat unrealistic, but it robs the players of the thrill of exploration once they realize that they only have to explore half of a dungeon to see it all.<br /><br /> <b>Vary Room Shapes</b>: Just as symmetry is bad, so is over-reliance on square or rectangular rooms. By including strangely shaped rooms, alcoves, multilevel rooms, irregular caverns, and other variations in room size and shape, you not only provide each room’s combat encounters with different tactical elements, but your map becomes a more interesting location to draw, look at, and play in.<br /><br /> <b>Wide Corridors</b>: Remember that combat in the Pathfinder RPG is based on 5-foot squares. If you fill your dungeon with 5-foot-wide hallways, you’re not only forcing many prospective battles to narrow down to one-on-one conflicts between one monster and one player, you’re also making it more difficult for monsters of Large size or bigger to live in or move about in your dungeon. Also keep the size of the dungeon’s inhabitants in mind—if your dungeon is a cloud giant’s floating castle, for example, the rooms and corridors should be giant-sized, not human-sized.<br /><h1 class="title"><a href="Rules.aspx?ID=790">Inking the Map</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 175</i></a><br />Once you’re happy with your map sketch, grab your pens and start inking it. You can use different pens to denote different features on your map; a wide felt-tip pen works well for thick walls, for example, while a fine-tipped pen works better for details like doors and map symbols. Once you’ve inked the map, erase extraneous pencil lines (keeping any notes you want to save, of course). Next, get your coloring supplies and add color as necessary—blue for water, green for vegetation, or whatever works best. If you color in nothing else, use black to fill in areas of solid stone to help define the actual parts of the map your players can explore.<br /><br /> You can scan your map at this stage as well and use a paint program to color larger areas. Scanning a map and using image manipulation software is also a great way to correct errors you made during the inking process.<br /><h1 class="title"><a href="Rules.aspx?ID=791">Tagging the Map</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 176</i></a><br />Once your map is inked and colored, it’s essentially ready for play. All that’s left is to tag it with number locations that key the map to the encounter descriptions in your notes. Using a number key helps to keep your map’s details from being obscured by descriptive words. If possible, use a pen of a different color than anything else on your map so the number tags stand out and are easy to see— alternatively, you can circle the number tags or mark them with a highlighter.<br /><h1 class="title"><a href="Rules.aspx?ID=792">Adding Details to the Map</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 176</i></a><br />While not strictly necessary, adding additional elements to your map can make it more attractive. Details such as furniture (tables, chairs, beds, and chests are all good examples), light sources (fireplaces or firepits, windows, skylights, and so on), and architectural features add a touch of realism to inhabited dungeons. Be careful not to add too many extra details to the map, however—not only can they clutter your map and obscure important information, but they can have a detrimental effect on combat as well. Remember that characters and monsters need room to fight and maneuver, and a room filled with superfluous furniture can make combat overly complex.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

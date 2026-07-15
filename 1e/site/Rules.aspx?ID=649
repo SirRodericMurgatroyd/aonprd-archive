@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Villainous Archetypes - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Villainous Archetypes" /><meta name="description" content="A strong concept is the first step in designing a memorable villain. Several of the most basic villainous archetypes are presented here, and with a bit of imagination a GM might create countless permutations of such characters." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=649" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXFTjx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDU0Ij5HYW1lTWFzdGVyeSBHdWlkZTwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD02MjUiPk5vbnBsYXllciBDaGFyYWN0ZXJzPC9hPjwvdT4gLyA8dT48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTY0OCI+VmlsbGFpbnM8L2E+PC91PjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NjQ5Ij5WaWxsYWlub3VzIEFyY2hldHlwZXM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiA5MDwvaT48L2E+PGJyIC8+QSBzdHJvbmcgY29uY2VwdCBpcyB0aGUgZmlyc3Qgc3RlcCBpbiBkZXNpZ25pbmcgYSBtZW1vcmFibGUgdmlsbGFpbi4gU2V2ZXJhbCBvZiB0aGUgbW9zdCBiYXNpYyB2aWxsYWlub3VzIGFyY2hldHlwZXMgYXJlIHByZXNlbnRlZCBoZXJlLCBhbmQgd2l0aCBhIGJpdCBvZiBpbWFnaW5hdGlvbiBhIEdNIG1pZ2h0IGNyZWF0ZSBjb3VudGxlc3MgcGVybXV0YXRpb25zIG9mIHN1Y2ggY2hhcmFjdGVycy48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTY1MCI+Q3JpbWUgTG9yZTwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDkwPC9pPjwvYT48YnIgLz5DcmltZSBsb3JkcyBhcmUgdXN1YWxseSByb2d1ZXMgb3IgbXVsdGljbGFzc2VkIGNoYXJhY3RlcnMgd2l0aCB0aGVpciBoaWdoZXN0IGxldmVsIGluIHRoZSByb2d1ZSBjbGFzcy4gQSBjcmltZSBsb3JkIHNpdHMgYXQgdGhlIGhlYXJ0IG9mIGEgc2hhZG93eSB3ZWIsIHRha2luZyBhIGN1dCBmcm9tIGFsbCBpbGxlZ2FsIGFjdGl2aXR5IHdpdGhpbiBoaXMgZG9tYWluIGFuZCBkaXNwZW5zaW5nIHJvdWdoIGp1c3RpY2UgdG8gdGhvc2Ugd2hvIHRyYW5zZ3Jlc3Mgd2hhdGV2ZXIgcnVsZXMgc2hlIGltcG9zZXMuIFRoZXkgdXN1YWxseSBvcGVyYXRlIGluIGNpdGllcy4gQ3JpbWUgbG9yZHMgYXJlIHR5cGljYWxseSBsYXdmdWwgZXZpbCBvciBuZXV0cmFsIGV2aWwsIGFuZCBjYW4gYmUgb2YgYW55IHJhY2UuPGJyIC8+PGJyIC8+IDxiPlBlcnNvbmFsaXR5PC9iPjogTW9zdCBjcmltZSBsb3JkcyBzZWUgdGhlbXNlbHZlcyBhcyBlbnRyZXByZW5ldXJzIHdob3NlIGJ1c2luZXNzIGRvZXMgbm90IGhhcHBlbiB0byBiZSBsZWdhbC4gVGhleSBhcmUgcHJhZ21hdGljIGFuZCBydXRobGVzcywgYnV0IG5vdCBuZWNlc3NhcmlseSBldmlsIG9yIHVucmVhc29uYWJsZS48YnIgLz48YnIgLz4gPGI+Rm9sbG93ZXJzPC9iPjogQ3JpbWUgbG9yZHMgcnVsZSBtYWlubHkgb3ZlciByb2d1ZXMsIGFuZCBtYXkgYWZmZWN0IGEgdGl0bGUgbGlrZSDigJxNYXN0ZXIgb2YgdGhlIEd1aWxk4oCdIG9yIOKAnEtpbmcgb2YgVGhpZXZlcy7igJ0gVGhlaXIgaW5uZXIgY2lyY2xlcyBhbG1vc3QgYWx3YXlzIGluY2x1ZGUgYSBmZXcgd2FycmlvciB0eXBlcyBhcyBtdXNjbGUgYW5kIGF0IGxlYXN0IG9uZSBhc3Nhc3Npbi4gVGhleSB1c3VhbGx5IHJ1bGUgdGhlaXIgZm9sbG93ZXJzIGJ5IGZlYXIsIG1ha2luZyBncmlzbHkgZXhhbXBsZXMgb2YgYW55b25lIHdobyBjcm9zc2VzIHRoZW0uPGJyIC8+PGJyIC8+IDxiPlBsYW5zPC9iPjogTW9zdCBjcmltZSBsb3JkcyBkbyBub3QgaGF2ZSBncmFuZCBwbGFucyBiZXlvbmQgaG9sZGluZyBhbmQgZXhwYW5kaW5nIHRoZWlyIHR1cmYgYW5kIG1haW50YWluaW5nIGEgZGVjYWRlbnQgbGlmZXN0eWxlLiBPY2Nhc2lvbmFsbHksIGEgY3JpbWUgbG9yZCBtaWdodCBhdHRhY2sgdGhlIGxvY2FsIGF1dGhvcml0aWVz4oCUb2Z0ZW4gaW4gcmVzcG9uc2UgdG8gYW4gb2ZmaWNpYWwgY3JhY2tkb3duIG9uIHRoZSBicmliZXJ5IGFuZCBjb3JydXB0aW9uIHRoYXQga2VlcHMgZXllcyBsb29raW5nIHRoZSBvdGhlciB3YXkuIEEgc3VjY2Vzc2Z1bCBjcmltZSBsb3JkIG1heSBldmVudHVhbGx5IHRha2Ugb24gdGhlIHJvbGUgb2YgYW4gZXZpbCBvdmVybG9yZCBvciBjcmVhdGUgYW4gYW5hcmNoaWMg4oCcY2l0eSBvZiB0aGlldmVz4oCdIHdoZXJlIGFsbW9zdCBhbnl0aGluZyBnb2VzLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NjUxIj5FdmlsIE92ZXJsb3JkPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gOTA8L2k+PC9hPjxiciAvPlRoZSBldmlsIG92ZXJsb3JkIGlzIGEgcG93ZXJmdWwgcnVsZXIsIG9mdGVuIG9mIGEgbWFydGlhbCBjbGFzcywgd2hvIGhhcyBlc3RhYmxpc2hlZCBjb250cm9sIG92ZXIgYW4gYXJlYSBpbiB0aGUgY2FtcGFpZ24gd29ybGQuIFNoZSBydWxlcyB3aXRoIGFuIGlyb24gZmlzdCwgdGF4aW5nIHRoZSBsb2NhbHMgdG8gZGVhdGggYW5kIGV4YWN0aW5nIGhhcnNoIHBlbmFsdGllcyBmb3IgdGhlIG1vc3QgdHJpdmlhbCBvZiBjcmltZXMuIEV2aWwgb3ZlcmxvcmRzIGNhbiBiZSBvZiBhbG1vc3QgYW55IHJhY2UsIGFuZCB0ZW5kIHRvd2FyZCBsYXdmdWwgZXZpbCBhbGlnbm1lbnQuPGJyIC8+PGJyIC8+IDxiPlBlcnNvbmFsaXR5PC9iPjog4oCcTWlnaHQgbWFrZXMgcmlnaHTigJ0gaXMgdGhlIGV2aWwgb3ZlcmxvcmTigJlzIG1vdHRvLiBUaGUgcGVhc2FudHMgc3VmZmVyIGJlY2F1c2UgdGhleSBhcmUgd2VhaywgYW5kIHRoZSBvdmVybG9yZOKAmXMgbWluaW9ucyBsaXZlIHdlbGwgYmVjYXVzZSB0aGV5IGFyZSBzdHJvbmcgZW5vdWdoIHRvIHRha2UgZnJvbSB0aGUgd2Vhay4gVGhlIGV2aWwgb3ZlcmxvcmQgaXMgdGhlIHN0cm9uZ2VzdCBvZiBhbGwsIGFuZCBydWxlcyBieSByaWdodCBvZiB0aGF0IHN0cmVuZ3RoLjxiciAvPjxiciAvPiA8Yj5Gb2xsb3dlcnM8L2I+OiBUaGUgZXZpbCBvdmVybG9yZOKAmXMgZm9sbG93ZXJzIGFyZSBydWxlZCBieSBzdHJlbmd0aCBvciBmZWFyLiBUaG9zZSB3aG8gcmViZWwgb3IgZmFpbCBhcmUgbWFkZSBpbnRvIGdydWVzb21lIGV4YW1wbGVzLiBIaWdoZXItbGV2ZWwgZm9sbG93ZXJzIGFyZSBrZXB0IHN1c3BpY2lvdXMgYW5kIHJlc2VudGZ1bCBvZiBlYWNoIG90aGVyIHNvIHRoZXkgZG8gbm90IHRoaW5rIG9mIGpvaW5pbmcgZm9yY2VzIGFnYWluc3QgdGhlaXIgbWlzdHJlc3MuIEluc3RlYWQsIGVhY2ggb25lIHZpZXMgZm9yIGZhdm9yIHdoaWxlIHNjaGVtaW5nIHRvIGJyaW5nIGRvd24gdGhlIG90aGVycy4gTW9zdCBvZiBhbiBldmlsIG92ZXJsb3Jk4oCZcyBmb2xsb3dlcnMgYXJlIGZpZ2h0ZXJzIG9yIHdhcnJpb3JzLiBTaGUgcHJvYmFibHkgYWxzbyBoYXMgb25lIG9yIHR3byBzcGVjaWFsIHJldGFpbmVyczogYSB0b3J0dXJlciBvciBleGVjdXRpb25lciB3aG8gY2FycmllcyBvdXQgdGhlIG92ZXJsb3Jk4oCZcyBicnV0YWwganVzdGljZSwgYSB3aXphcmQgb3IgY2xlcmljIHdobyB1c2VzIG1hZ2ljIGFuZCBzcGllcyB0byBlbnN1cmUgdGhlIHJhbmsgYW5kIGZpbGUgYXJlIGtlcHQgb2JlZGllbnQsIGEgcGV0IG1vbnN0ZXIsIG9yIHBlcmhhcHMgYSBjaGFtcGlvbuKAlCBzdHJvbmcgYnV0IHZlcnkgbG95YWwgKGFuZCBwZXJoYXBzIGFsc28gdmVyeSBzdHVwaWQpLiBIaWdoLWxldmVsIGZpZ2h0ZXJzIG1ha2UgZ29vZCBjaGFtcGlvbnMsIGJ1dCBzbyBkbyBjb21iYXQtb3JpZW50ZWQgbW9uc3Ryb3VzIHJhY2VzIGxpa2Ugb2dyZXMgYW5kIHRyb2xscy4gPGI+UGxhbnM8L2I+OiBBIHR5cGljYWwgZXZpbCBvdmVybG9yZCB2YWx1ZXMgd2VhbHRoIGFuZCBwb3dlciBtb3JlIHRoYW4gYW55dGhpbmcgZWxzZSwgYW5kIG1vc3Qgb2YgaGVyIHBsYW5zIHJldm9sdmUgYXJvdW5kIHRyeWluZyB0byBhY3F1aXJlIG1vcmUgb2YgYm90aC4gU2hvcnQtdGVybSBvYmplY3RpdmVzIG1pZ2h0IGluY2x1ZGUgZmluZGluZyBvciB0YWtpbmcgcG93ZXJmdWwgbWFnaWNhbCB3ZWFwb25zIGFuZCBvdGhlciBpdGVtcywga2lsbGluZyBuZWlnaGJvcmluZyBydWxlcnMgYW5kIHRha2luZyB0aGVpciBsYW5kcywgcm9iYmluZyB0ZW1wbGVzIGFuZCBvdGhlciBzb3VyY2VzIG9mIHdlYWx0aCwgYW5kIGV4ZWN1dGluZyBhbnlvbmUgd2hvIG9iamVjdHMuIExvbmdlci10ZXJtIG9iamVjdGl2ZXMgdHlwaWNhbGx5IGludm9sdmUgY29ucXVlc3Q6IGZyb20gdGhlIGxvY2FsIGFyZWEgdG8gdGhlIGVudGlyZSB3b3JsZC4gQW55IHJ1bGVyIG9yIG90aGVyIGNoYXJhY3RlciB3aG8gaXMgbW9yZSBwb3dlcmZ1bCB0aGFuIHRoZSBvdmVybG9yZCBpcyBzZWVuIGFzIGEgdGhyZWF0IGFuZCBtdXN0IGJlIGtpbGxlZCBvciBicm91Z2h0IHVuZGVyIGNvbnRyb2wgdW50aWwgaGUgY2FuIGJlIGRlYWx0IHdpdGggb25jZSBhbmQgZm9yIGFsbC48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTY1MiI+RXZpbCBQcmllc3Q8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiA5MTwvaT48L2E+PGJyIC8+QW4gZXZpbCBwcmllc3QgaXMgdHlwaWNhbGx5IGEgY2xlcmljIG9yIGFkZXB0LCBhbHRob3VnaCBoZSBtYXkgaGF2ZSBzb21lIGxldmVscyBpbiBvdGhlciBjbGFzc2VzIGluIGtlZXBpbmcgd2l0aCB0aGUgaW50ZXJlc3RzIG9mIGhpcyBwYXRyb24gZGVpdHkuIEV2aWwgcHJpZXN0cyBjYW4gYmUgb2YgYW55IHJhY2Ugb3IgZXZpbCBhbGlnbm1lbnQuIFRoZXkgY2FuIG9wZXJhdGUgaW4gb25lIG9mIHRocmVlIGJhc2ljIHdheXMsIGFjY29yZGluZyB0byB0aGVpciBwZXJzb25hbGl0eSBhbmQgdGhlIHN0YXR1cyBvZiB0aGVpciByZWxpZ2lvbjogYSB0eXJhbnQgd2hvIHJ1bGVzIGFuIGFyZWEgYW5kIGJ1cm5zIGFueW9uZSB3aG8gb2JqZWN0cyBhcyBhIGhlcmV0aWMsIGEgdml6aWVyIHdobyBtYW5pcHVsYXRlcyBwb2xpdGljYWwgcG93ZXIgYW5kIGFjdHMgYXMgdGhlIHBvd2VyIGJlaGluZCB0aGUgdGhyb25lLCBvciBhIGN1bHRpc3Qgd2hvIGNvbW1hbmRzIGEgc3VidmVyc2l2ZSBjb25ncmVnYXRpb24gZnJvbSB0aGUgc2hhZG93cy48YnIgLz48YnIgLz4gPGI+UGVyc29uYWxpdHk8L2I+OiBOb3QgYWxsIGV2aWwgcHJpZXN0cyBhcmUgcmVsaWdpb3VzIGZhbmF0aWNzLiBTb21lIGFyZSBzaW1wbHkgYW1iaXRpb3VzIGFuZCB1bnNjcnVwdWxvdXMuIE90aGVycyBtYXkgYmUgc2FkaXN0cywgbWVnYWxvbWFuaWFjcywgb3IgcHN5Y2hvdGljcy4gSnVzdCBhcyBldmlsIG92ZXJsb3JkcyBqdXN0aWZ5IHRoZWlyIGFjdGlvbnMgYnkgc3RyZW5ndGgsIGV2aWwgcHJpZXN0cyBhbHdheXMgaGF2ZSBzb21lIHJlbGlnaW91cyByYXRpb25hbGUsIHdoaWNoIG1pZ2h0IG1ha2Ugc2Vuc2Ugb25seSB0byB0aGVtLjxiciAvPjxiciAvPiA8Yj5Gb2xsb3dlcnM8L2I+OiBUaGUgZm9sbG93ZXJzIG9mIGFuIGV2aWwgcHJpZXN0IGluY2x1ZGUgbG93ZXItbGV2ZWwgY2xlcmljcywgZ3VhcmRzLCBhbmQgb3RoZXJzIG9mIGFsbCBjbGFzc2VzIHdobyBtaWdodCBiZSBmYW5hdGljYWxseSBkZXZvdGVkIG9yIHNpbXBseSBmcmlnaHRlbmVkIGludG8gb2JlZGllbmNlLiBOZXcgZm9sbG93ZXJzIGFyZSBvZnRlbiByZWNydWl0ZWQgd2l0aCBwcm9taXNlcyBvZiBwb3dlciwgd2VhbHRoLCBvciBwbGVhc3VyZSwgYWNjb3JkaW5nIHRvIHRoZSBuYXR1cmUgb2YgdGhlIHByaWVzdOKAmXMgZGVpdHkuIFNwZWNpYWwgZm9sbG93ZXJzIG1pZ2h0IGluY2x1ZGUgYW4gaW5uZXIgY2lyY2xlIG9mIGFjb2x5dGVzLCBjcmVhdHVyZXMgZnJvbSBvdGhlciBwbGFuZXMsIGFuZCB1bmRlYWQuIElmIHRoZSBwcmllc3QgaXMgdGhlIHBvd2VyIGJlaGluZCBhIHRocm9uZSwgaGUgbWlnaHQgYWxzbyBoYXZlIGEgbmV0d29yayBvZiBzcGllcywgYXNzYXNzaW5zLCBldmVuIGFuIGFybXkgYXQgaGlzIGNvbW1hbmQuPGJyIC8+PGJyIC8+IDxiPlBsYW5zPC9iPjogQSB0eXJhbnQgbWlnaHQgcGxhbiB0byBzcHJlYWQgdGhlIGZhaXRoIGJ5IGNvbnF1ZXN0LCB3aXRoIGluY3JlYXNlZCB3ZWFsdGggYW5kIHBvd2VyIGFzIHBsZWFzYW50IHNpZGUgZWZmZWN0cy4gQSB2aXppZXIgY291bGQgc2NoZW1lIHRvIGdhaW4gYW5kIGtlZXAgcG9saXRpY2FsIHBvd2VyLCBhbmQgdGhlbiBzZXQgdGhlIGNvdW50cnkgb24gdGhlIHBhdGggdG8gd2FyIGFuZCB0aGUgY29ucXVlc3Qgb2YgaW5maWRlbCBsYW5kcy4gQSBjdWx0aXN0IG1pZ2h0IHdhbnQgdG8gZGVzdHJveSBhbGwgb2YgYSByZWdpb27igJlzIGZvcm1zIG9mIGF1dGhvcml0eSBzbyBoaXMgY3VsdCBjYW4gdGFrZSBwb3dlciBvcuKAlGVzcGVjaWFsbHkgaW4gdGhlIGNhc2Ugb2YgY2hhb3RpYyBjdWx0c+KAlHN1bW1vbiB0aGVpciBwYXRyb24gdG8gd3JlYWsgaGF2b2MgYW5kIGRlc3RydWN0aW9uLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NjUzIj5NYWQgV2l6YXJkPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gOTE8L2k+PC9hPjxiciAvPlRoZSBtYWQgd2l6YXJkIChvciBhbnkgb3RoZXIgbWFnaWMgdXNlcikgb2ZmZXJzIGEgdXNlZnVsIHZpbGxhaW4gYXJjaGV0eXBlIGZvciBkdW5nZW9uIGFkdmVudHVyZXMsIGFzIGZldyBxdWVzdGlvbiB0aGF0IGluc2FuZSBnZW5pdXNlcyBidWlsZCBlbGFib3JhdGUgdW5kZXJncm91bmQgbGFpcnMgc3RvY2tlZCB3aXRoIG1vbnN0ZXJzIGFuZCB0cmFwcy4gU29tZSBwb3dlcmZ1bCB3aXphcmRzIHVzZSB0aGVpciBtYWdpYyBvdmVydGx5LCBzZXR0aW5nIHRoZW1zZWx2ZXMgdXAgYXMgcGV0dHkgcnVsZXJzLCB3aGlsZSBvdGhlcnMgd29yayBtb3JlIHN1YnRseSwgbHVya2luZyBpbiB0aGUgc2hhZG93cyBhcyBhZHZpc29ycyB0byBwb3dlcmZ1bCBpbmRpdmlkdWFscy4gTWFkIHdpemFyZHMgbWlnaHQgYmUgb2YgYW55IHJhY2Ugb3IgYWxpZ25tZW50LCBidXQgYXJlIHNlbGRvbSBnb29kLjxiciAvPjxiciAvPiA8Yj5QZXJzb25hbGl0eTwvYj46IEEgbWFkIHdpemFyZOKAmXMgaW5zYW5pdHkgb3Igb2JzZXNzaW9uIGhhcyBhIHNpZ25pZmljYW50IHJvbGUgaW4gZGV0ZXJtaW5pbmcgaGlzIHBsb3RzLiBNZWdhbG9tYW5pYWNzIHdhbnQgcG93ZXIgKGFsbCB0aGUgd2F5IHVwIHRvIGRpdmluZSBwb3dlciksIHBhcmFub2lkcyB3YW50IHRvIGVsaW1pbmF0ZSBldmVyeXRoaW5nIHRoZXkgc2VlIGFzIGEgdGhyZWF0LCB3aGVyZWFzIHRoZSBzbGlnaHRlZCB3YW50IHJldmVuZ2UgZm9yIHNvbWUgcmVhbCBvciBpbWFnaW5lZCBpbmp1cnkuIEEgaG9zdCBvZiBwaG9iaWFzIGFuZCBvYnNlc3Npb25zIGNhbiBhbHNvIGFkZCBjb2xvciBvciB0aGVtZXMgdG8gdGhlIG1lYW5zIGJ5IHdoaWNoIHRoZXkgcHVyc3VlIHRoZWlyIG9iamVjdGl2ZXMuPGJyIC8+PGJyIC8+IDxiPkZvbGxvd2VyczwvYj46IFRob3NlIHdobyBmb2xsb3cgbWFkIHdpemFyZHMgZWl0aGVyIHNoYXJlIHRoZSB3aXphcmTigJlzIG9ic2Vzc2lvbiBvciBhcmUgdGVycmlmaWVkIG9mIHdoYXQgbWlnaHQgaGFwcGVuIHRvIHRoZW0gaWYgdGhleSBkbyBub3Qgb2JleS4gSW4gYWRkaXRpb24gdG8gbGVzc2VyIHNwZWxsY2FzdGVycywgbWFkIHdpemFyZHMgbWF5IGVtcGxveSB3YXJyaW9yIHR5cGVzIGFzIGd1YXJkcyBhbmQgY29tbW9uZXIgdHlwZXMgYXMgc2VydmFudHMuIFBlcmhhcHMgbW9yZSB0aGFuIGFueSBvdGhlciBraW5kIG9mIHZpbGxhaW4sIG1hZCB3aXphcmRzIGFyZSBwcm9uZSB0byBjb2xsZWN0aW5nIG1vbnN0ZXJzLCBvZnRlbiB0cnVzdGluZyB0aGVtIG1vcmUgdGhhbiB0aGVpciBodW1hbm9pZCBtaW5pb25zLjxiciAvPjxiciAvPiA8Yj5QbGFuczwvYj46IEEgbWFkIHdpemFyZOKAmXMgcGxhbnMgYXJlIG9mdGVuIGdyYW5kaW9zZS4gVGFraW5nIG92ZXIgYSBraW5nZG9tIGlzIGp1c3QgdGhlIGZpcnN0IHN0ZXAgaW4gdGFraW5nIG92ZXIgdGhlIHdvcmxkLCBhbmQgdGhlbiB0aGUgdW5pdmVyc2UuIERlYWxpbmcgd2l0aCBkZW1vbnMgbWlnaHQgYmUgcGFydCBvZiBhIGxhcmdlciBzY2hlbWUgdG8gYnJpbmcgZG93biBhIGRlbW9uIGxvcmQgYW5kIGVzdGFibGlzaCB0aGUgd2l6YXJkIGFzIG92ZXJsb3JkIG9mIGFuIGluZmVybmFsIHJlYWxtLiBNYWQgd2l6YXJkcyBkcmVhbSBiaWcsIGFuZCBkaXNtaXNzIGFjY3VzYXRpb25z4oCUYW5kIGV2ZW4gdW5kZW5pYWJsZSBwcm9vZuKAlG9mIHRoZWlyIHR3aXN0ZWQgbWluZHMuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD02NTQiPlNjaGVtaW5nIE5vYmxlPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gOTI8L2k+PC9hPjxiciAvPkEgc2NoZW1pbmcgbm9ibGUgaXMgYW4gaWRlYWwgdmlsbGFpbiBmb3IgYSBjYW1wYWlnbiBoaWdobGlnaHRpbmcgcG9saXRpY2FsIGFjdGlvbi4gVGhpcyB0eXBlIG9mIHZpbGxhaW4gaXMgbm9ybWFsbHkgYW4gYXJpc3RvY3JhdCwgdGhvdWdoIHR5cGljYWxseSBtdWx0aWNsYXNzZWQgdG8gcHJvdmlkZSBhIGdyZWF0ZXIgY2hhbGxlbmdlLiBTY2hlbWluZyBub2JsZXMgYXJlIHVzdWFsbHkgbGF3ZnVsIGFuZCBvZiB0aGUgc2FtZSByYWNlIGFzIHRoZSByZWdpb25hbCBzb3ZlcmVpZ24gYW5kIG90aGVyIG5vYmlsaXR5LjxiciAvPjxiciAvPiA8Yj5QZXJzb25hbGl0eTwvYj46IE5vYmxlcyBhcmUgcmFpc2VkIG9uIGludHJpZ3VlLCBkZWNhZGVuY2UsIGFuZCBtYW5pcHVsYXRpb24uIE91dHdhcmRseSwgdGhleSBtaWdodCBhZmZlY3QgdGhlIHBlcnNvbmFsaXR5IG9mIGEgbG95YWwgcmV0YWluZXIgb3Igb2YgYm9vbiBjb21wYW5pb25zIHdobyBoYXZlIGEgcnVsZXLigJlzIGVhci4gQmVuZWF0aCB0aGUgZmFjYWRlLCB0aGV5IHNjaGVtZSBmb3Igd2F5cyB0byBhZHZhbmNlIHRoZW1zZWx2ZXMgYW5kIGVsaW1pbmF0ZSByaXZhbHMuPGJyIC8+PGJyIC8+IDxiPkZvbGxvd2VyczwvYj46IFNjaGVtaW5nIG5vYmxlcyBhcmUgb2Z0ZW4gYXR0ZW5kZWQgYnkgYSBudW1iZXIgb2YgcGFpZCBzZXJ2YW50cywgZ3VhcmRzLCBldmVuIGFzc2Fzc2lucy4gVWx0aW1hdGVseSwgaWYgc29tZW9uZSBzZWxscyBhIHNlcnZpY2UsIHRoZXkgbWlnaHQgYmUgb24gdGhlIG5vYmxl4oCZcyBwYXlyb2xsLiBTb21lIGZvbGxvd2VycyBtaWdodCBiZSBtb3RpdmF0ZWQgYnkgYWN0dWFsIGxveWFsdHkgb3IgcGVyc29uYWwgYW1iaXRpb25zLCBidXQgbW9zdCBhcmUgd2VsbCBjb21wZW5zYXRlZCBib3RoIGZvciB0aGVpciBzZXJ2aWNlIGFuZCBmb3IgdGhlaXIgc2lsZW5jZS48YnIgLz48YnIgLz4gPGI+UGxhbnM8L2I+OiBUaGVzZSB2aWxsYWlucyBlbnZ5IHdoYXQgb3RoZXJzIHBvc3Nlc3MuIExlc3MgYW1iaXRpb3VzIHNjaGVtZXMgbWlnaHQgaW5jbHVkZSBlbmdpbmVlcmluZyBzY2FuZGFscyBhbmQgcGxhbnRpbmcgZXZpZGVuY2UgdG8gYnJpbmcgZG93biByaXZhbHMsIHdoaWxlIGdyYW5kZXIgcGxhbnMgbWlnaHQgaW5jbHVkZSBydWxpbmcgdGhlIGtpbmdkb20sIGVpdGhlciBieSBzdGVhbGluZyB0aGUgdGhyb25lIG9yIGJ5IHR1cm5pbmcgdGhlIHNvdmVyZWlnbiBpbnRvIGEgcHVwcGV0LmRkZIOJB1ltvJeeuRvxRs0W4t3pMetZij/ra1Qzwxm5ajbF" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=454">GameMastery Guide</a></u> / <u><a href="Rules.aspx?ID=625">Nonplayer Characters</a></u> / <u><a href="Rules.aspx?ID=648">Villains</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=649">Villainous Archetypes</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 90</i></a><br />A strong concept is the first step in designing a memorable villain. Several of the most basic villainous archetypes are presented here, and with a bit of imagination a GM might create countless permutations of such characters.<br /><h1 class="title"><a href="Rules.aspx?ID=650">Crime Lore</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 90</i></a><br />Crime lords are usually rogues or multiclassed characters with their highest level in the rogue class. A crime lord sits at the heart of a shadowy web, taking a cut from all illegal activity within his domain and dispensing rough justice to those who transgress whatever rules she imposes. They usually operate in cities. Crime lords are typically lawful evil or neutral evil, and can be of any race.<br /><br /> <b>Personality</b>: Most crime lords see themselves as entrepreneurs whose business does not happen to be legal. They are pragmatic and ruthless, but not necessarily evil or unreasonable.<br /><br /> <b>Followers</b>: Crime lords rule mainly over rogues, and may affect a title like “Master of the Guild” or “King of Thieves.” Their inner circles almost always include a few warrior types as muscle and at least one assassin. They usually rule their followers by fear, making grisly examples of anyone who crosses them.<br /><br /> <b>Plans</b>: Most crime lords do not have grand plans beyond holding and expanding their turf and maintaining a decadent lifestyle. Occasionally, a crime lord might attack the local authorities—often in response to an official crackdown on the bribery and corruption that keeps eyes looking the other way. A successful crime lord may eventually take on the role of an evil overlord or create an anarchic “city of thieves” where almost anything goes.<br /><h1 class="title"><a href="Rules.aspx?ID=651">Evil Overlord</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 90</i></a><br />The evil overlord is a powerful ruler, often of a martial class, who has established control over an area in the campaign world. She rules with an iron fist, taxing the locals to death and exacting harsh penalties for the most trivial of crimes. Evil overlords can be of almost any race, and tend toward lawful evil alignment.<br /><br /> <b>Personality</b>: “Might makes right” is the evil overlord’s motto. The peasants suffer because they are weak, and the overlord’s minions live well because they are strong enough to take from the weak. The evil overlord is the strongest of all, and rules by right of that strength.<br /><br /> <b>Followers</b>: The evil overlord’s followers are ruled by strength or fear. Those who rebel or fail are made into gruesome examples. Higher-level followers are kept suspicious and resentful of each other so they do not think of joining forces against their mistress. Instead, each one vies for favor while scheming to bring down the others. Most of an evil overlord’s followers are fighters or warriors. She probably also has one or two special retainers: a torturer or executioner who carries out the overlord’s brutal justice, a wizard or cleric who uses magic and spies to ensure the rank and file are kept obedient, a pet monster, or perhaps a champion— strong but very loyal (and perhaps also very stupid). High-level fighters make good champions, but so do combat-oriented monstrous races like ogres and trolls. <b>Plans</b>: A typical evil overlord values wealth and power more than anything else, and most of her plans revolve around trying to acquire more of both. Short-term objectives might include finding or taking powerful magical weapons and other items, killing neighboring rulers and taking their lands, robbing temples and other sources of wealth, and executing anyone who objects. Longer-term objectives typically involve conquest: from the local area to the entire world. Any ruler or other character who is more powerful than the overlord is seen as a threat and must be killed or brought under control until he can be dealt with once and for all.<br /><h1 class="title"><a href="Rules.aspx?ID=652">Evil Priest</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 91</i></a><br />An evil priest is typically a cleric or adept, although he may have some levels in other classes in keeping with the interests of his patron deity. Evil priests can be of any race or evil alignment. They can operate in one of three basic ways, according to their personality and the status of their religion: a tyrant who rules an area and burns anyone who objects as a heretic, a vizier who manipulates political power and acts as the power behind the throne, or a cultist who commands a subversive congregation from the shadows.<br /><br /> <b>Personality</b>: Not all evil priests are religious fanatics. Some are simply ambitious and unscrupulous. Others may be sadists, megalomaniacs, or psychotics. Just as evil overlords justify their actions by strength, evil priests always have some religious rationale, which might make sense only to them.<br /><br /> <b>Followers</b>: The followers of an evil priest include lower-level clerics, guards, and others of all classes who might be fanatically devoted or simply frightened into obedience. New followers are often recruited with promises of power, wealth, or pleasure, according to the nature of the priest’s deity. Special followers might include an inner circle of acolytes, creatures from other planes, and undead. If the priest is the power behind a throne, he might also have a network of spies, assassins, even an army at his command.<br /><br /> <b>Plans</b>: A tyrant might plan to spread the faith by conquest, with increased wealth and power as pleasant side effects. A vizier could scheme to gain and keep political power, and then set the country on the path to war and the conquest of infidel lands. A cultist might want to destroy all of a region’s forms of authority so his cult can take power or—especially in the case of chaotic cults—summon their patron to wreak havoc and destruction.<br /><h1 class="title"><a href="Rules.aspx?ID=653">Mad Wizard</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 91</i></a><br />The mad wizard (or any other magic user) offers a useful villain archetype for dungeon adventures, as few question that insane geniuses build elaborate underground lairs stocked with monsters and traps. Some powerful wizards use their magic overtly, setting themselves up as petty rulers, while others work more subtly, lurking in the shadows as advisors to powerful individuals. Mad wizards might be of any race or alignment, but are seldom good.<br /><br /> <b>Personality</b>: A mad wizard’s insanity or obsession has a significant role in determining his plots. Megalomaniacs want power (all the way up to divine power), paranoids want to eliminate everything they see as a threat, whereas the slighted want revenge for some real or imagined injury. A host of phobias and obsessions can also add color or themes to the means by which they pursue their objectives.<br /><br /> <b>Followers</b>: Those who follow mad wizards either share the wizard’s obsession or are terrified of what might happen to them if they do not obey. In addition to lesser spellcasters, mad wizards may employ warrior types as guards and commoner types as servants. Perhaps more than any other kind of villain, mad wizards are prone to collecting monsters, often trusting them more than their humanoid minions.<br /><br /> <b>Plans</b>: A mad wizard’s plans are often grandiose. Taking over a kingdom is just the first step in taking over the world, and then the universe. Dealing with demons might be part of a larger scheme to bring down a demon lord and establish the wizard as overlord of an infernal realm. Mad wizards dream big, and dismiss accusations—and even undeniable proof—of their twisted minds.<br /><h1 class="title"><a href="Rules.aspx?ID=654">Scheming Noble</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 92</i></a><br />A scheming noble is an ideal villain for a campaign highlighting political action. This type of villain is normally an aristocrat, though typically multiclassed to provide a greater challenge. Scheming nobles are usually lawful and of the same race as the regional sovereign and other nobility.<br /><br /> <b>Personality</b>: Nobles are raised on intrigue, decadence, and manipulation. Outwardly, they might affect the personality of a loyal retainer or of boon companions who have a ruler’s ear. Beneath the facade, they scheme for ways to advance themselves and eliminate rivals.<br /><br /> <b>Followers</b>: Scheming nobles are often attended by a number of paid servants, guards, even assassins. Ultimately, if someone sells a service, they might be on the noble’s payroll. Some followers might be motivated by actual loyalty or personal ambitions, but most are well compensated both for their service and for their silence.<br /><br /> <b>Plans</b>: These villains envy what others possess. Less ambitious schemes might include engineering scandals and planting evidence to bring down rivals, while grander plans might include ruling the kingdom, either by stealing the throne or by turning the sovereign into a puppet.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,270 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Starting with Magic Items - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Starting with Magic Items" /><meta name="description" content="Giving each of the PCs a starting magic item makes them more robust and capable from the jump, and can be useful for smaller groups. Campaign concepts in which the characters already enjoy wealth, status, or recognition might also be reinforced with starting magic. For example, the PCs might be the younger generation of a land’s great trading houses. It makes narrative sense for their families to give them a leg up over other adventurers.&lt;br />&lt;br /> One option is to grant the players a collective budget of 1,500 gp per person, which they can use to buy any number of magic items. Leave them alone to agree on a distribution; they might get one mighty item, used by only one of them, or many lesser ones, so everybody gets something. The budget can only be spent on magic; they don’t get to keep leftover cash.&lt;br />&lt;br /> Keep a close eye on what the players purchase, and veto anything that might break the game from the beginning. Also be prepared to adjust encounter difficulties to account for the increased competence of magically equipped parties.&lt;br />&lt;br /> Be careful starting young or inexperienced players with magic items. Giving the stuff away can devalue the classic moment when a player finds her first piece of magical gear out in the wild." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=680" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXERDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDU0Ij5HYW1lTWFzdGVyeSBHdWlkZTwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD02NjIiPlJld2FyZHM8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9Njc5Ij5TdGFydGluZyBUcmVhc3VyZTwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD02ODAiPlN0YXJ0aW5nIHdpdGggTWFnaWMgSXRlbXM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiAxMDg8L2k+PC9hPjxiciAvPkdpdmluZyBlYWNoIG9mIHRoZSBQQ3MgYSBzdGFydGluZyBtYWdpYyBpdGVtIG1ha2VzIHRoZW0gbW9yZSByb2J1c3QgYW5kIGNhcGFibGUgZnJvbSB0aGUganVtcCwgYW5kIGNhbiBiZSB1c2VmdWwgZm9yIHNtYWxsZXIgZ3JvdXBzLiBDYW1wYWlnbiBjb25jZXB0cyBpbiB3aGljaCB0aGUgY2hhcmFjdGVycyBhbHJlYWR5IGVuam95IHdlYWx0aCwgc3RhdHVzLCBvciByZWNvZ25pdGlvbiBtaWdodCBhbHNvIGJlIHJlaW5mb3JjZWQgd2l0aCBzdGFydGluZyBtYWdpYy4gRm9yIGV4YW1wbGUsIHRoZSBQQ3MgbWlnaHQgYmUgdGhlIHlvdW5nZXIgZ2VuZXJhdGlvbiBvZiBhIGxhbmTigJlzIGdyZWF0IHRyYWRpbmcgaG91c2VzLiBJdCBtYWtlcyBuYXJyYXRpdmUgc2Vuc2UgZm9yIHRoZWlyIGZhbWlsaWVzIHRvIGdpdmUgdGhlbSBhIGxlZyB1cCBvdmVyIG90aGVyIGFkdmVudHVyZXJzLjxiciAvPjxiciAvPiBPbmUgb3B0aW9uIGlzIHRvIGdyYW50IHRoZSBwbGF5ZXJzIGEgY29sbGVjdGl2ZSBidWRnZXQgb2YgMSw1MDAgZ3AgcGVyIHBlcnNvbiwgd2hpY2ggdGhleSBjYW4gdXNlIHRvIGJ1eSBhbnkgbnVtYmVyIG9mIG1hZ2ljIGl0ZW1zLiBMZWF2ZSB0aGVtIGFsb25lIHRvIGFncmVlIG9uIGEgZGlzdHJpYnV0aW9uOyB0aGV5IG1pZ2h0IGdldCBvbmUgbWlnaHR5IGl0ZW0sIHVzZWQgYnkgb25seSBvbmUgb2YgdGhlbSwgb3IgbWFueSBsZXNzZXIgb25lcywgc28gZXZlcnlib2R5IGdldHMgc29tZXRoaW5nLiBUaGUgYnVkZ2V0IGNhbiBvbmx5IGJlIHNwZW50IG9uIG1hZ2ljOyB0aGV5IGRvbuKAmXQgZ2V0IHRvIGtlZXAgbGVmdG92ZXIgY2FzaC48YnIgLz48YnIgLz4gS2VlcCBhIGNsb3NlIGV5ZSBvbiB3aGF0IHRoZSBwbGF5ZXJzIHB1cmNoYXNlLCBhbmQgdmV0byBhbnl0aGluZyB0aGF0IG1pZ2h0IGJyZWFrIHRoZSBnYW1lIGZyb20gdGhlIGJlZ2lubmluZy4gQWxzbyBiZSBwcmVwYXJlZCB0byBhZGp1c3QgZW5jb3VudGVyIGRpZmZpY3VsdGllcyB0byBhY2NvdW50IGZvciB0aGUgaW5jcmVhc2VkIGNvbXBldGVuY2Ugb2YgbWFnaWNhbGx5IGVxdWlwcGVkIHBhcnRpZXMuPGJyIC8+PGJyIC8+IEJlIGNhcmVmdWwgc3RhcnRpbmcgeW91bmcgb3IgaW5leHBlcmllbmNlZCBwbGF5ZXJzIHdpdGggbWFnaWMgaXRlbXMuIEdpdmluZyB0aGUgc3R1ZmYgYXdheSBjYW4gZGV2YWx1ZSB0aGUgY2xhc3NpYyBtb21lbnQgd2hlbiBhIHBsYXllciBmaW5kcyBoZXIgZmlyc3QgcGllY2Ugb2YgbWFnaWNhbCBnZWFyIG91dCBpbiB0aGUgd2lsZC48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTY4MSI+SGVpcmxvb20gSXRlbXM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiAxMDg8L2k+PC9hPjxiciAvPldoZW4gY2hhcmFjdGVycyBzdGFydCBwbGF5IHdpdGggbWFnaWNhbCBpdGVtcywgYXNrIHBsYXllcnMgdG8gY3JlYXRlIGEgYnJpZWYgc3RvcnkgZXhwbGFpbmluZyBob3cgdGhleSBnb3QgdGhlbS4gVGhlIHN0b3J5IHNob3VsZCBub3Qgb25seSByZXZlYWwgc29tZXRoaW5nIGFib3V0IHRoZSBpdGVtLCBidXQgYWxzbyBhYm91dCB0aGUgcGVyc29uIHdobyBjYXJyaWVzIGl0LiBBdm9pZCBib2dnaW5nIGRvd24gdGhlIGludHJvZHVjdG9yeSBhZHZlbnR1cmUgd2l0aCBhIHJlY2l0YXRpb24gb2YgZWFjaCBkZXNjcmlwdGlvbi4gSW5zdGVhZCwgc3BhY2UgdGhlbSBvdXQgYnkgd2FpdGluZyB1bnRpbCB0aGUgaXRlbXMgc2VlIHVzZSBpbiBwbGF5LCBwcm9tcHRpbmcgZWFjaCBwbGF5ZXIgdG8gc3VwcGx5IGhpcyBvd24gYW5lY2RvdGUuPGJyIC8+PGJyIC8+IFdl4oCZcmUgY2FsbGluZyB0aGVzZSBoZWlybG9vbSBpdGVtcywgYmVjYXVzZSB0aGUgbW9zdCBvYnZpb3VzIHN0b3J5IGlzIHRoYXQgdGhlIGl0ZW0gd2FzIGhhbmRlZCBkb3duIGluIHRoZSBjaGFyYWN0ZXLigJlzIGZhbWlseS4gVGhpcyBleHBsYW5hdGlvbiBodW1hbml6ZXMgdGhlIGNoYXJhY3RlciBhbmQgY3JlYXRlcyBhIHN1cHBvcnRpbmcgY2FzdCB0aGUgR00gY2FuIGJyaW5nIGludG8gbmFycmF0aXZlIG1vbWVudHMuIE5vIGxvbmdlciBhcmUgdGhlIFBDcyByb290bGVzcyB2YWdhYm9uZHM7IHRoZXkgaGF2ZSBhIGhpc3RvcnksIGFuZCBwZW9wbGUgdGhleSBjYXJlIGFib3V0LjxiciAvPjxiciAvPiBBbHRlcm5hdGl2ZSBleHBsYW5hdGlvbnMgYXJlIGFzIHZhcmllZCBhcyB5b3VyIHBsYXllcnPigJkgY3JlYXRpdml0eS4gQW4gaXRlbSBtaWdodCBiZSBhIGxvYW4gZnJvbSBhbiBvcmdhbml6YXRpb24gb3IgcGF0cm9uLCB3aGljaCB5b3UgY2FuIHdlYXZlIGludG8geW91ciBjYW1wYWlnbiBhcyBpdCBkZXZlbG9wcy4gQ2hhcmFjdGVycyBtaWdodCB0ZWxsIG9mIGZpbmRpbmcgdGhlIGl0ZW0gdGhlbXNlbHZlcywgaW4gYSBtb21lbnQgcHJlZGF0aW5nIHRoZWlyIGFkdmVudHVyaW5nIGNhcmVlcnMuIEEgcm9ndWUgbWlnaHQgaGF2ZSBzdG9sZW4gaGVyIGl0ZW0sIGltcGx5aW5nIGFuIGVuZW15IGNoYXJhY3RlciB3aG8gbWF5IGFwcGVhciBsYXRlciBsb29raW5nIHRvIGdldCBpdCBiYWNrLiBDb25zaWRlciB3YXlzIHRvIGJ1aWxkIG9uIGVhY2ggbWluaS1uYXJyYXRpdmUsIGNyYWZ0aW5nIHRoZW0gaW50byBhIGJyb2FkZXIgc3RvcnkuPGJyIC8+PGJyIC8+IE5vbi1tYWdpY2FsIGVxdWlwbWVudCBjYW4gYWxzbyBiZSB0cmVhdGVkIGFzIGhlaXJsb29tcywgZXNwZWNpYWxseSBmb3IgY2hhcmFjdGVycyBmcm9tIGltcG92ZXJpc2hlZCBiYWNrZ3JvdW5kcy4gVGhhdCBzY3VmZmVkLXVwIHN1aXQgb2YgbGVhdGhlciBhcm1vciBtaWdodCBiZSBhIGhhbmQtbWUtZG93biBmcm9tIGEgcm9ndWlzaCB1bmNsZSwgb3IgYSBwcmVjaW91cyBiaXQgb2YgbG9vdCBmcm9tIGEgdGVycmlibGUgYmF0dGxlIHRoYXQgdG9vayBwbGFjZSBuZWFyYnkgYSBnZW5lcmF0aW9uIGFnby48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTY4MiI+U2V0dGluZyBJdGVtczwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDEwODwvaT48L2E+PGJyIC8+QW5vdGhlciB3YXkgdG8gYWRkIGZsYXZvciB0byBzdGFydGluZyBtYWdpYyBpdGVtcyBpcyB0byB1c2UgdGhlbSB0byBpbnRyb2R1Y2UgZGV0YWlscyBvZiB5b3VyIHdvcmxkLCB3aGV0aGVyIHlvdeKAmXJlIHVzaW5nIHRoZSBQYXRoZmluZGVyIHdvcmxkIG9mIEdvbGFyaW9uIG9yIGEgc2V0dGluZyB5b3UgaGF2ZSBjcmVhdGVkLiBNYWtlIGEgbGlzdCBvZiBlYWNoIHRyZWFzdXJlIGl0ZW0gc2VsZWN0ZWQsIG9yIHRoZSBtb3N0IG5vdGFibGUgcGllY2Ugb2Ygc3RhbmRhcmQgZ2VhciBjYXJyaWVkIGJ5IGVhY2ggUEMuIEF2b2lkIGNvbnN1bWFibGUgaXRlbXMsIHdoaWNoIGFyZSB1bmxpa2VseSB0byBoYXZlIHN1cnZpdmVkIGxvbmcgZW5vdWdoIHRvIGhhdmUgaW50ZXJlc3RpbmcgaGlzdG9yaWVzIGF0dGFjaGVkIHRvIHRoZW0uIERldmVsb3AgcXVpY2sgc25pcHBldHMgb2YgbmFycmF0aW9uIHJlZmVycmluZyB0byB0aGVpciBoaXN0b3JpZXMuIEZvciBleGFtcGxlOiA8dWw+PGxpPuKAnFlvdXIgc3dvcmTigJlzIGJsYWRlIGlzIG5ldywgYnV0IHRoZSBoYWZ0IGlzIGEgY3J1ZGUsIGNhc3Rpcm9uIGhhbmRncmlwIGJlYXJpbmcgdGhlIHJ1bmVzIG9mIHRoZSBmZWxsIGtpbmcgd2hvIHJ1bGVkIGEgZHVlcmdhciBraW5nZG9tIGluIE5hci1Wb3RoIDIgY2VudHVyaWVzIGFnby4gVGhlIGhhZnQgZ2l2ZXMgeW91ciBzd29yZCBpdHMgbWFnaWMu4oCdIDwvbGk+PGxpPuKAnEZhaW50IGhpZXJvZ2x5cGhzIG9uIHRoZSBoYW5kIG9mIHRoZSBtYWdlIHlvdSB3ZWFyIGFyb3VuZCB5b3VyIG5lY2sgZGF0ZSBpdCB0byBhbmNpZW50IE9zaXJpb24uIFRoZSBtdW1taWZpZWQgYXBwZW5kYWdlIG1pZ2h0IGhhdmUgYmVsb25nZWQgdG8gYSB2aXppZXIgb2YgYSBnb2Qta2luZywgd2hvIGxpdmVkIGFuZCBicmVhdGhlZCA1LDAwMCB5ZWFycyBhZ28u4oCdPC9saT48L3VsPiBIaWdobGlnaHQgZmFjdHMgYWJvdXQgdGhlIHdvcmxkIHlvdSBleHBlY3QgdG8gdGFrZSBvbiBncmVhdGVyIHNpZ25pZmljYW5jZSBpbiB0aGUgY291cnNlIG9mIHBsYXkuIEFsdGVybmF0aXZlbHksIHlvdSBtaWdodCBjaG9vc2UgcmFuZG9tIHNldHRpbmcgZGV0YWlscyBhbmQgdGhlbiB1c2UgdGhlbSBhcyBpbnNwaXJhdGlvbiBmb3IgYWR2ZW50dXJlIGhvb2tzLiBUaGUgZmlyc3QgZXhhbXBsZSBhYm92ZSBzdWdnZXN0cyB0aGF0IHRoZSBwYXJ0eSB3aWxsIGV2ZW50dWFsbHkgbWVldCBkdWVyZ2FyIG9yIGpvdXJuZXkgdG8gTmFyLVZvdGgsIHdoaWxlIHRoZSBtdW1taWZpZWQgb3duZXIgb2YgdGhlIHRoaXJkIGl0ZW0gbWlnaHQgZXZlbnR1YWxseSBjb21lIGJhY2sgdG8gcmVwb3NzZXNzIGl0LjxiciAvPjxiciAvPiBBcyB3aXRoIGhlaXJsb29tIGl0ZW1zLCBzbGlwIHNldHRpbmcgaXRlbXMgaW50byB5b3VyIG5hcnJhdGlvbiBhdCBzdWl0YWJsZSBtb21lbnRzIGFzIHRoZSBhY3Rpb24gcHJvZ3Jlc3NlcyByYXRoZXIgdGhhbiBmcm9udC1sb2FkaW5nIHRoZW0gaW50byB5b3VyIG9wZW5pbmcgc2Vzc2lvbiBwcmVsaW1pbmFyaWVzLiBCZSByZWFkeSB0byBjb2xsYWJvcmF0ZSB3aXRoIHBsYXllcnMgb24gbW9kaWZpZWQgZGVzY3JpcHRpb25zIGluIGNhc2UgdGhleSBkZWNpZGUgdGhhdCB5b3VyIHN1Z2dlc3Rpb25zIGRvbuKAmXQgZml0IHRoZWlyIGNoYXJhY3RlciBjb25jZXB0cy48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTY4MyI+UGxvdCBJdGVtczwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDEwODwvaT48L2E+PGJyIC8+UGxvdCBpdGVtcyB3b3JrIGxpa2Ugc2V0dGluZyBpdGVtcywgZXhjZXB0IHRoYXQsIGluc3RlYWQgb2YgcmVmZXJyaW5nIHRvIGdyZWF0IGV2ZW50cyBvZiB0aGUgcGFzdCwgdGhleSBzZXQgdXAgZnV0dXJlIGRldmVsb3BtZW50cyBpbiB0aGUgUENz4oCZIHBlcnNvbmFsIHN0b3JpZXMuIEludHJvZHVjZSB0aGVtIHRvIHRoZSBwbGF5ZXJzIGJlZm9yZSB0aGUgYWN0aW9uIGJlZ2lucywgcGVyaGFwcyB3aXRoIGEgYnJpZWYgZGVzY3JpcHRpb24gb24gYW4gaW5kZXggY2FyZC4gQmUgY2FyZWZ1bCBub3QgdG8gaW1wb3NlIGNob2ljZXMgdGhhdCBhbHRlciBhIHBsYXllcuKAmXMgY2hhcmFjdGVyIGJhY2tncm91bmQuIFdvcmsgd2l0aCB0aGUgcGxheWVyIHVudGlsIHlvdSBoYXZlIGEgaG9vayB0aGF0IHdvcmtzIGZvciB5b3UsIGFuZCBhIHBlcnNvbmFsIGRldGFpbCB0aGF0IGZpdHMgaGVyIHZpc2lvbi4gQWx0aG91Z2ggc2VjcmV0cyBvY2Nhc2lvbmFsbHkgbGVhZCB0byBpbnRlcmVzdGluZyBwbGF5LCBiYWNrc3RvcmllcyB0aGUgcGxheWVycyBhcmUgd2lsbGluZyB0byBzaGFyZSB3aXRoIHRoZSByZXN0IG9mIHRoZSBncm91cCBhcmUgbW9yZSBsaWtlbHkgdG8gdGFrZSBhbiBhY3RpdmUgcm9sZSBpbiBwbGF5LjxiciAvPjxiciAvPiBBdCBhIHN1aXRhYmxlIG1vbWVudCBpbiB0aGUgYWN0aW9uLCBpbnZpdGUgdGhlIHBsYXllciB0byBkZXNjcmliZSB0aGUgaXRlbSBhbmQgaXRzIGJhY2tzdG9yeSB0byB0aGUgb3RoZXIgcGxheWVycy4gRXhhbXBsZXMgaW5jbHVkZTogPHVsPjxsaT7igJxJIGZvdW5kIHRoaXMgbWFnaWNhbCBmZWF0aGVyIGluIGEgcmVkIHZlbGx1bSBlbnZlbG9wZSwgc2xpcHBlZCB1bmRlciBteSBkb29yIGF0IHRoZSBpbm4gdGhlIGRheSBiZWZvcmUgSSBzZXQgb3V0IGZvciB0aGUgYmlnIGNpdHkuIEEgbm90ZSBpbnNpZGUgd2FzIHNpZ25lZCBvbmx5LCDigJhZb3VyIGJlbmVmYWN0b3Iu4oCZ4oCdIChUaGUgZ2lmdCBlc3RhYmxpc2hlcyBhIG15c3RlcnksIHRoZSBpZGVudGl0eSBvZiB0aGUgYmVuZWZhY3Rvciwgd2hpY2ggeW91IGNhbiBzbG93bHkgZGV2ZWxvcCBhbmQgZmluYWxseSByZXZlYWwuKSA8L2xpPjxsaT7igJxUaGlzIGRhcmt3b29kIHNoaWVsZCB3YXMgZ2l2ZW4gdG8gbWUgYnkgbXkgdW5jbGUsIHdobyBzYWlkIGl0IHNhdmVkIGhpcyBoaWRlIHNldmVyYWwgdGltZXMsIGJhY2sgZHVyaW5nIHRoZSBnbm9sbCByYWlkcy7igJ0gKFRoaXMgZGV0YWlsIGludHJvZHVjZXMgYSBtZW50b3IgZmlndXJlIHdobyBjYW4gZ2l2ZSB0aGUgUENzIGNyb3RjaGV0eSBhZHZpY2UsIGFuZCBzZXRzIHVwIHRoZSBwb3NzaWJpbGl0eSB0aGF0IHRoZSBnbm9sbHMgd2lsbCByaXNlIGFnYWluIHRvIHRlcnJvcml6ZSB0aGUgYXJlYS4pPC9saT48L3VsPjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9Njg0Ij5NaWdodHkgSXRlbXM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiAxMDk8L2k+PC9hPjxiciAvPlVuZGVyIG9yZGluYXJ5IGNpcmN1bXN0YW5jZXMsIGF2b2lkIGdpdmluZyBzdGFydGluZyBQQ3MgbWFnaWNhbCB3ZWFwb25zIHRoYXQgd291bGQgbm9ybWFsbHkgYmUgcmVzZXJ2ZWQgZm9yIG11Y2ggaGlnaGVyLWxldmVsIGNoYXJhY3RlcnMuIE92ZXJwb3dlcmVkIGl0ZW1zIGNhbiB3cmVhayBoYXZvYyB3aXRoIHlvdXIgYWJpbGl0eSB0byBzY2FsZSBlbmNvdW50ZXJzIHRvIHRoZSBjaGFyYWN0ZXJz4oCZIGNhcGFiaWxpdGllcy48YnIgLz48YnIgLz4gQXMgYSBjaGFuZ2Ugb2YgcGFjZSwgdGhvdWdoLCBhIHBvd2VyZnVsIGl0ZW0gY2FuIGRyaXZlIHRoZSBwcmVtaXNlIGZvciBhIGNhbXBhaWduIG9yIGEgc2VyaWVzIG9mIGxpbmtlZCBhZHZlbnR1cmVzIHdpdGhpbiBhIGNhbXBhaWduLiBHZXR0aW5nIGFuIGl0ZW0gdGhhdCBvdXRjbGFzc2VzIHRoZW0gbGVhZHMgdGhlIFBDcyBpbnRvIGEgc2VyaWVzIG9mIGNyaXNlcy4gRW50aXRpZXMgYmV0dGVyIGVxdWlwcGVkIHRvIHVzZSB0aGUgaXRlbSBodW50IHRoZW0gZG93biBhbmQgdHJ5IHRvIHRha2UgaXQgYXdheSBmcm9tIHRoZW0uIFBvbGl0aWNhbCBsZWFkZXJzIHRyZWF0IHRoZW0gYXMgYSBkZXN0YWJpbGl6aW5nIHRocmVhdCB0byBwdWJsaWMgb3JkZXIuIERvLWdvb2Qgc2FnZXMgdHJ5IHRvIGNhcHR1cmUgdGhlIGRhbmdlcm91cyBpdGVtIGFuZCBsb2NrIGl0IGluIGEgdmF1bHQgZm9yZXZlci4gTWVhbndoaWxlLCB0aGUgY2hhcmFjdGVycyByZWFsaXplIHRoYXQgdGhleSBoYXZlIGEgZ29hbCB0byBhY2hpZXZlIG9yIGR1dHkgdG8gcGVyZm9ybSB0aGF0IHJlcXVpcmVzIHRoZW0gdG8gaG9sZCBvbnRvIHRoZSBpdGVtIHVudGlsIGNlcnRhaW4gZXZlbnRzIG9jY3VyIG9yIGNvbmRpdGlvbnMgYXJlIG1ldC48YnIgLz48YnIgLz4gRm9yIHN0YXJ0aW5nIFBDcywgYSBtYWpvciBpdGVtIG1heSBiZSBtaWdodHkgZW5vdWdoIHRvIG1ha2UgdGhlIHBsb3Qgd29yay4gUmVsaWNzIG9yIGFydGlmYWN0cywgaG93ZXZlciwgY2FycnkgbW9yZSBjYWNoZXQgYW5kIGFyZSBtb3JlIGxpa2VseSB0byBiZSByZWNlaXZlZCB3aXRoIGEgbWl4dHVyZSBvZiBnbGVlIGFuZCBmZWFyLiBDcmVhdGUgYSBuZXcgYXJ0aWZhY3QgZm9yIHRoZSBwdXJwb3NlLCBvciBtb2RpZnkgYW4gZXhpc3Rpbmcgb25lLiBMaW1pdCBpdHMgbnVtYmVyIG9mIHVzZXMgc28gdGhhdCB0aGUgY2hhcmFjdGVycyBjYW4gb2NjYXNpb25hbGx5IHVzZSBpdCB0byBibG93IHRocm91Z2ggc3VwZXJpb3Igb3Bwb3NpdGlvbiwgYnV0IGNhbuKAmXQgcmVseSBvbiBpdCB0byBvdmVyY29tZSBldmVyeSBvYnN0YWNsZSB0aGV5IHJ1biB1cCBhZ2FpbnN0LiBUaGUgcGxheWVycyBzaG91bGQgaGF2ZSB0byB0aGluayBoYXJkIGJlZm9yZSBwdWxsaW5nIGl0IGZyb20gdGhlaXIgYXJzZW5hbC4gSXQgbWlnaHQgY2F1c2UgYWRkaXRpb25hbCBwcm9ibGVtcyB3aGVuZXZlciBpdCBpcyB1c2VkLiBUaGUgaXRlbSBtaWdodCBkbyBjb2xsYXRlcmFsIGRhbWFnZSB0byBzdXJyb3VuZGluZyBwZW9wbGUgYW5kIGJ1aWxkaW5ncywgb3IgaXRzIHVzZSBtaWdodCBhbGVydCBwdXJzdWVycyB0byB0aGUgcGFydHnigJlzIHByZXNlbmNlLmRkZHMatUUoyxKWk9BVqwZunJGOT4Pw3TeFXRNZXR+XkZ8g" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=454">GameMastery Guide</a></u> / <u><a href="Rules.aspx?ID=662">Rewards</a></u> / <u><a href="Rules.aspx?ID=679">Starting Treasure</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=680">Starting with Magic Items</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 108</i></a><br />Giving each of the PCs a starting magic item makes them more robust and capable from the jump, and can be useful for smaller groups. Campaign concepts in which the characters already enjoy wealth, status, or recognition might also be reinforced with starting magic. For example, the PCs might be the younger generation of a land’s great trading houses. It makes narrative sense for their families to give them a leg up over other adventurers.<br /><br /> One option is to grant the players a collective budget of 1,500 gp per person, which they can use to buy any number of magic items. Leave them alone to agree on a distribution; they might get one mighty item, used by only one of them, or many lesser ones, so everybody gets something. The budget can only be spent on magic; they don’t get to keep leftover cash.<br /><br /> Keep a close eye on what the players purchase, and veto anything that might break the game from the beginning. Also be prepared to adjust encounter difficulties to account for the increased competence of magically equipped parties.<br /><br /> Be careful starting young or inexperienced players with magic items. Giving the stuff away can devalue the classic moment when a player finds her first piece of magical gear out in the wild.<br /><h1 class="title"><a href="Rules.aspx?ID=681">Heirloom Items</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 108</i></a><br />When characters start play with magical items, ask players to create a brief story explaining how they got them. The story should not only reveal something about the item, but also about the person who carries it. Avoid bogging down the introductory adventure with a recitation of each description. Instead, space them out by waiting until the items see use in play, prompting each player to supply his own anecdote.<br /><br /> We’re calling these heirloom items, because the most obvious story is that the item was handed down in the character’s family. This explanation humanizes the character and creates a supporting cast the GM can bring into narrative moments. No longer are the PCs rootless vagabonds; they have a history, and people they care about.<br /><br /> Alternative explanations are as varied as your players’ creativity. An item might be a loan from an organization or patron, which you can weave into your campaign as it develops. Characters might tell of finding the item themselves, in a moment predating their adventuring careers. A rogue might have stolen her item, implying an enemy character who may appear later looking to get it back. Consider ways to build on each mini-narrative, crafting them into a broader story.<br /><br /> Non-magical equipment can also be treated as heirlooms, especially for characters from impoverished backgrounds. That scuffed-up suit of leather armor might be a hand-me-down from a roguish uncle, or a precious bit of loot from a terrible battle that took place nearby a generation ago.<br /><h1 class="title"><a href="Rules.aspx?ID=682">Setting Items</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 108</i></a><br />Another way to add flavor to starting magic items is to use them to introduce details of your world, whether you’re using the Pathfinder world of Golarion or a setting you have created. Make a list of each treasure item selected, or the most notable piece of standard gear carried by each PC. Avoid consumable items, which are unlikely to have survived long enough to have interesting histories attached to them. Develop quick snippets of narration referring to their histories. For example: <ul><li>“Your sword’s blade is new, but the haft is a crude, castiron handgrip bearing the runes of the fell king who ruled a duergar kingdom in Nar-Voth 2 centuries ago. The haft gives your sword its magic.” </li><li>“Faint hieroglyphs on the hand of the mage you wear around your neck date it to ancient Osirion. The mummified appendage might have belonged to a vizier of a god-king, who lived and breathed 5,000 years ago.”</li></ul> Highlight facts about the world you expect to take on greater significance in the course of play. Alternatively, you might choose random setting details and then use them as inspiration for adventure hooks. The first example above suggests that the party will eventually meet duergar or journey to Nar-Voth, while the mummified owner of the third item might eventually come back to repossess it.<br /><br /> As with heirloom items, slip setting items into your narration at suitable moments as the action progresses rather than front-loading them into your opening session preliminaries. Be ready to collaborate with players on modified descriptions in case they decide that your suggestions don’t fit their character concepts.<br /><h1 class="title"><a href="Rules.aspx?ID=683">Plot Items</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 108</i></a><br />Plot items work like setting items, except that, instead of referring to great events of the past, they set up future developments in the PCs’ personal stories. Introduce them to the players before the action begins, perhaps with a brief description on an index card. Be careful not to impose choices that alter a player’s character background. Work with the player until you have a hook that works for you, and a personal detail that fits her vision. Although secrets occasionally lead to interesting play, backstories the players are willing to share with the rest of the group are more likely to take an active role in play.<br /><br /> At a suitable moment in the action, invite the player to describe the item and its backstory to the other players. Examples include: <ul><li>“I found this magical feather in a red vellum envelope, slipped under my door at the inn the day before I set out for the big city. A note inside was signed only, ‘Your benefactor.’” (The gift establishes a mystery, the identity of the benefactor, which you can slowly develop and finally reveal.) </li><li>“This darkwood shield was given to me by my uncle, who said it saved his hide several times, back during the gnoll raids.” (This detail introduces a mentor figure who can give the PCs crotchety advice, and sets up the possibility that the gnolls will rise again to terrorize the area.)</li></ul><br /><h1 class="title"><a href="Rules.aspx?ID=684">Mighty Items</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 109</i></a><br />Under ordinary circumstances, avoid giving starting PCs magical weapons that would normally be reserved for much higher-level characters. Overpowered items can wreak havoc with your ability to scale encounters to the characters’ capabilities.<br /><br /> As a change of pace, though, a powerful item can drive the premise for a campaign or a series of linked adventures within a campaign. Getting an item that outclasses them leads the PCs into a series of crises. Entities better equipped to use the item hunt them down and try to take it away from them. Political leaders treat them as a destabilizing threat to public order. Do-good sages try to capture the dangerous item and lock it in a vault forever. Meanwhile, the characters realize that they have a goal to achieve or duty to perform that requires them to hold onto the item until certain events occur or conditions are met.<br /><br /> For starting PCs, a major item may be mighty enough to make the plot work. Relics or artifacts, however, carry more cachet and are more likely to be received with a mixture of glee and fear. Create a new artifact for the purpose, or modify an existing one. Limit its number of uses so that the characters can occasionally use it to blow through superior opposition, but can’t rely on it to overcome every obstacle they run up against. The players should have to think hard before pulling it from their arsenal. It might cause additional problems whenever it is used. The item might do collateral damage to surrounding people and buildings, or its use might alert pursuers to the party’s presence.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

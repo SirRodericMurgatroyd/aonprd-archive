@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Golem’s Revenge - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Golem’s Revenge" /><meta name="description" content="Years ago, a vicious purge sought to wipe the poor and wretched from their homes in the city’s slums, until a mysterious creature came to their salvation. Now, a generation later, the bodies of city authorities are left broken on the slum’s streets for all to see. &lt;br />&lt;br />&lt;b>Discovery&lt;/b>: The PCs are called on to investigate the murders and find the corpses brutally smashed and savagely disfigured in ways hardly possible for mortal man. Locals suspect a dimwitted strongman from a traveling freak show, but the true culprit is a deadly &lt;a style=&quot;text-decoration:underline&quot; href=&quot;MonsterDisplay.aspx?ItemName=Clay Golem&quot;>clay golem&lt;/a> once built for protection. &lt;br />&lt;br />&lt;b>Adversary&lt;/b>: The secret society responsible for the original purge is planning another. They decided it would be truly poetic if the same protector that stopped the previous purge became the spark for the new one. Using the &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=awaken construct&quot;>&lt;i>awaken construct&lt;/i>&lt;/a> spell, the son of the purge’s original architect awakened the old protector, whose creator had since died of old age, and convinced it that he was its father. After sending it out to commit murders of authorities and build anger against the slums, the young aristocrat plans to betray the golem and come out of that betrayal as the hero who stopped the murders, as he leads a second retributive purge of the slums. &lt;br />&lt;br />&lt;b>Further Adventures&lt;/b>: The PCs may defeat the golem, but unless they uncover the true plans of the secret society, they haven’t thwarted the new purge. Will the PCs come to the rescue of those who cannot protect themselves? Convincing the golem of the truth might net the PCs a powerful ally, but if they destroyed it, they might need to find the old golem crafter’s notes and try to teach themselves the occult rituals he used so they can fashion a new golem, if they are to have any hope of defeating the cult’s foul undertaking." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=2102" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWQEzx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTY3NCI+T2NjdWx0IFJ1bGVzPC9hPjwvdT4gLyA8dT48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTIwODQiPlJ1bm5pbmcgYW4gT2NjdWx0IEdhbWU8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjA5OSI+T2NjdWx0IEFkdmVudHVyZSBTZWVkczwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0yMTAyIj5Hb2xlbeKAmXMgUmV2ZW5nZTwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWVndT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtT2NjdWx0LUFkdmVudHVyZXMiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+T2NjdWx0IEFkdmVudHVyZXMgcGcuIDIyMzwvaT48L2E+PGJyIC8+WWVhcnMgYWdvLCBhIHZpY2lvdXMgcHVyZ2Ugc291Z2h0IHRvIHdpcGUgdGhlIHBvb3IgYW5kIHdyZXRjaGVkIGZyb20gdGhlaXIgaG9tZXMgaW4gdGhlIGNpdHnigJlzIHNsdW1zLCB1bnRpbCBhIG15c3RlcmlvdXMgY3JlYXR1cmUgY2FtZSB0byB0aGVpciBzYWx2YXRpb24uIE5vdywgYSBnZW5lcmF0aW9uIGxhdGVyLCB0aGUgYm9kaWVzIG9mIGNpdHkgYXV0aG9yaXRpZXMgYXJlIGxlZnQgYnJva2VuIG9uIHRoZSBzbHVt4oCZcyBzdHJlZXRzIGZvciBhbGwgdG8gc2VlLiA8YnIgLz48YnIgLz48Yj5EaXNjb3Zlcnk8L2I+OiBUaGUgUENzIGFyZSBjYWxsZWQgb24gdG8gaW52ZXN0aWdhdGUgdGhlIG11cmRlcnMgYW5kIGZpbmQgdGhlIGNvcnBzZXMgYnJ1dGFsbHkgc21hc2hlZCBhbmQgc2F2YWdlbHkgZGlzZmlndXJlZCBpbiB3YXlzIGhhcmRseSBwb3NzaWJsZSBmb3IgbW9ydGFsIG1hbi4gTG9jYWxzIHN1c3BlY3QgYSBkaW13aXR0ZWQgc3Ryb25nbWFuIGZyb20gYSB0cmF2ZWxpbmcgZnJlYWsgc2hvdywgYnV0IHRoZSB0cnVlIGN1bHByaXQgaXMgYSBkZWFkbHkgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9Ik1vbnN0ZXJEaXNwbGF5LmFzcHg/SXRlbU5hbWU9Q2xheSBHb2xlbSI+Y2xheSBnb2xlbTwvYT4gb25jZSBidWlsdCBmb3IgcHJvdGVjdGlvbi4gPGJyIC8+PGJyIC8+PGI+QWR2ZXJzYXJ5PC9iPjogVGhlIHNlY3JldCBzb2NpZXR5IHJlc3BvbnNpYmxlIGZvciB0aGUgb3JpZ2luYWwgcHVyZ2UgaXMgcGxhbm5pbmcgYW5vdGhlci4gVGhleSBkZWNpZGVkIGl0IHdvdWxkIGJlIHRydWx5IHBvZXRpYyBpZiB0aGUgc2FtZSBwcm90ZWN0b3IgdGhhdCBzdG9wcGVkIHRoZSBwcmV2aW91cyBwdXJnZSBiZWNhbWUgdGhlIHNwYXJrIGZvciB0aGUgbmV3IG9uZS4gVXNpbmcgdGhlIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1hd2FrZW4gY29uc3RydWN0Ij48aT5hd2FrZW4gY29uc3RydWN0PC9pPjwvYT4gc3BlbGwsIHRoZSBzb24gb2YgdGhlIHB1cmdl4oCZcyBvcmlnaW5hbCBhcmNoaXRlY3QgYXdha2VuZWQgdGhlIG9sZCBwcm90ZWN0b3IsIHdob3NlIGNyZWF0b3IgaGFkIHNpbmNlIGRpZWQgb2Ygb2xkIGFnZSwgYW5kIGNvbnZpbmNlZCBpdCB0aGF0IGhlIHdhcyBpdHMgZmF0aGVyLiBBZnRlciBzZW5kaW5nIGl0IG91dCB0byBjb21taXQgbXVyZGVycyBvZiBhdXRob3JpdGllcyBhbmQgYnVpbGQgYW5nZXIgYWdhaW5zdCB0aGUgc2x1bXMsIHRoZSB5b3VuZyBhcmlzdG9jcmF0IHBsYW5zIHRvIGJldHJheSB0aGUgZ29sZW0gYW5kIGNvbWUgb3V0IG9mIHRoYXQgYmV0cmF5YWwgYXMgdGhlIGhlcm8gd2hvIHN0b3BwZWQgdGhlIG11cmRlcnMsIGFzIGhlIGxlYWRzIGEgc2Vjb25kIHJldHJpYnV0aXZlIHB1cmdlIG9mIHRoZSBzbHVtcy4gPGJyIC8+PGJyIC8+PGI+RnVydGhlciBBZHZlbnR1cmVzPC9iPjogVGhlIFBDcyBtYXkgZGVmZWF0IHRoZSBnb2xlbSwgYnV0IHVubGVzcyB0aGV5IHVuY292ZXIgdGhlIHRydWUgcGxhbnMgb2YgdGhlIHNlY3JldCBzb2NpZXR5LCB0aGV5IGhhdmVu4oCZdCB0aHdhcnRlZCB0aGUgbmV3IHB1cmdlLiBXaWxsIHRoZSBQQ3MgY29tZSB0byB0aGUgcmVzY3VlIG9mIHRob3NlIHdobyBjYW5ub3QgcHJvdGVjdCB0aGVtc2VsdmVzPyBDb252aW5jaW5nIHRoZSBnb2xlbSBvZiB0aGUgdHJ1dGggbWlnaHQgbmV0IHRoZSBQQ3MgYSBwb3dlcmZ1bCBhbGx5LCBidXQgaWYgdGhleSBkZXN0cm95ZWQgaXQsIHRoZXkgbWlnaHQgbmVlZCB0byBmaW5kIHRoZSBvbGQgZ29sZW0gY3JhZnRlcuKAmXMgbm90ZXMgYW5kIHRyeSB0byB0ZWFjaCB0aGVtc2VsdmVzIHRoZSBvY2N1bHQgcml0dWFscyBoZSB1c2VkIHNvIHRoZXkgY2FuIGZhc2hpb24gYSBuZXcgZ29sZW0sIGlmIHRoZXkgYXJlIHRvIGhhdmUgYW55IGhvcGUgb2YgZGVmZWF0aW5nIHRoZSBjdWx04oCZcyBmb3VsIHVuZGVydGFraW5nLmRkZAwPh0HwcpGP+xBIgHjhhkxqXlAniMExAW4464vldaDr" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1674">Occult Rules</a></u> / <u><a href="Rules.aspx?ID=2084">Running an Occult Game</a></u> / <u><a href="Rules.aspx?ID=2099">Occult Adventure Seeds</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=2102">Golem’s Revenge</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9egu?Pathfinder-Roleplaying-Game-Occult-Adventures" target="_blank" class="external-link"><i>Occult Adventures pg. 223</i></a><br />Years ago, a vicious purge sought to wipe the poor and wretched from their homes in the city’s slums, until a mysterious creature came to their salvation. Now, a generation later, the bodies of city authorities are left broken on the slum’s streets for all to see. <br /><br /><b>Discovery</b>: The PCs are called on to investigate the murders and find the corpses brutally smashed and savagely disfigured in ways hardly possible for mortal man. Locals suspect a dimwitted strongman from a traveling freak show, but the true culprit is a deadly <a style="text-decoration:underline" href="MonsterDisplay.aspx?ItemName=Clay Golem">clay golem</a> once built for protection. <br /><br /><b>Adversary</b>: The secret society responsible for the original purge is planning another. They decided it would be truly poetic if the same protector that stopped the previous purge became the spark for the new one. Using the <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=awaken construct"><i>awaken construct</i></a> spell, the son of the purge’s original architect awakened the old protector, whose creator had since died of old age, and convinced it that he was its father. After sending it out to commit murders of authorities and build anger against the slums, the young aristocrat plans to betray the golem and come out of that betrayal as the hero who stopped the murders, as he leads a second retributive purge of the slums. <br /><br /><b>Further Adventures</b>: The PCs may defeat the golem, but unless they uncover the true plans of the secret society, they haven’t thwarted the new purge. Will the PCs come to the rescue of those who cannot protect themselves? Convincing the golem of the truth might net the PCs a powerful ally, but if they destroyed it, they might need to find the old golem crafter’s notes and try to teach themselves the occult rituals he used so they can fashion a new golem, if they are to have any hope of defeating the cult’s foul undertaking.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Stat Block - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Stat Block" /><meta name="description" content="This is where you’ll find all of the information you need to run the monster in an encounter. A stat block is organized as follows. Note that in cases where a line in a stat block has no value, that line is omitted. &lt;br />&lt;br />&lt;b>Name and CR&lt;/b>: The monster’s name is presented first, along with its challenge rating (CR) and three icons you can use to quickly identify the creature’s role in the game. Challenge rating is a numerical indication of how dangerous a monster is—the higher the number, the deadlier the creature. Challenge rating is detailed on page in the &lt;a style=&quot;text-decoration:underline&quot; href=&quot;Rules.aspx?Name=Designing%20Encounters&amp;Category=Building%20an%20Adventure&quot;>Desigining Encounters&lt;/a> section. &lt;br />&lt;br />&lt;b>XP&lt;/b>: Listed here are the total experience points that PCs earn for defeating the monster. &lt;br />&lt;br />&lt;b>Race, Class, and Level&lt;/b>: Some monsters do not possess racial Hit Dice and are instead defined by their class levels. For these monsters, their race, class, and level appear here. Unless otherwise noted, the first class listed is the class chosen by the monster as its favored class. &lt;br />&lt;br />&lt;b>Alignment, Size, and Type&lt;/b>: While a monster’s size and type remain constant (unless changed by the application of templates or other unusual modifiers), alignment is far more fluid. The alignments listed for each monster in this book represent the norm for those monsters—they can vary as you require them to in order to serve the needs of your campaign. Only in the case of relatively unintelligent monsters (creatures with an Intelligence of 2 or lower are almost never anything other than neutral) and planar monsters (outsiders with alignments other than those listed are unusual and typically outcasts from their kind) is the listed alignment relatively unchangeable. &lt;br />&lt;br />&lt;b>Init and Senses&lt;/b>: The creature’s initiative modifier followed by any special senses and its Perception check modifier. &lt;br />&lt;br />&lt;b>Aura&lt;/b>: If the creature has a particular magical or exceptional aura, it is listed here along with its radius from the creature and, as applicable, a save DC to resist the aura’s effects. &lt;br />&lt;br />&lt;b>AC&lt;/b>: The creature’s Armor Class, touch Armor Class, and flat-footed Armor Class. The modifiers that generate its AC are listed parenthetically at the end of this entry. &lt;br />&lt;br />&lt;b>hp&lt;/b>: The creature’s hit points, followed by its Hit Dice (including modifiers from Constitution, favored class levels, creature type modifiers, and the Toughness feat). Creatures with PC class levels receive maximum hit points for their first HD, but all other HD rolls are assumed to be average. Fast healing and regeneration values, if any, follow the creature’s HD. &lt;br />&lt;br />&lt;b>Saving Throws&lt;/b>: The creature’s Fortitude, Reflex, and Will saves, followed by situational modifiers to those rolls. &lt;br />&lt;br />&lt;b>Defensive Abilities/DR/Immune/Resist/SR&lt;/b>: All of the creature’s unusual defensive abilities. Damage reduction, immunities, resistances, and spell resistance are called out separately as necessary. &lt;br />&lt;br />&lt;b>Weaknesses&lt;/b>: All of the creature’s unusual weaknesses are listed here. &lt;br />&lt;br />&lt;b>Speed&lt;/b>: The creature’s land speed, and additional speeds as necessary for the creature. &lt;br />&lt;br />&lt;b>Melee&lt;/b>: The creature’s melee attacks are listed here, with its attack roll modifier listed after the attack’s name followed by the damage in parentheses. &lt;br />&lt;br />&lt;b>Ranged&lt;/b>: As Melee above, but for ranged attacks. &lt;br />&lt;br />&lt;b>Space/Reach&lt;/b>: The creature’s space and reach—if the creature’s space and reach are standard (one 5-foot square and a reach of 5 feet), this line is omitted. &lt;br />&lt;br />&lt;b>Special Attacks&lt;/b>: The creature’s special attacks. Full details for these attacks are given at the end of the stat block or in the &lt;a style=&quot;text-decoration:underline&quot; href=&quot;UMR.aspx?ItemName=All&quot;>universal monster rules section&lt;/a>. &lt;br />&lt;br />&lt;b>Spell-Like Abilities&lt;/b>: After listing the caster level of the creature’s spell-like abilities, this section lists all of the creature’s spell-like abilities, organized by how many times per day it can use the abilities. Constant spell-like abilities function at all times but can be dispelled. A creature can reactivate a constant spell-like ability as a swift action. &lt;br />&lt;br />&lt;b>Spells Known/Prepared&lt;/b>: If the creature can actually cast spells, its caster level is indicated here followed by the spells it knows or typically has prepared. Unless otherwise indicated, a spellcasting creature does not receive any of a spellcasting class’s other abilities, such as a cleric’s ability to spontaneously convert prepared spells to &lt;i>cure&lt;/i> or &lt;i>inflict&lt;/i> spells. &lt;br />&lt;br />&lt;b>Ability Scores&lt;/b>: The creature’s ability scores are listed here. Unless otherwise indicated, a creature’s ability scores represent the baseline of its racial modifiers applied to scores of 10 or 11. Creatures with NPC class levels have stats in the standard array (13, 12, 11, 10, 9, 8), while creatures with character class levels have the elite array (15, 14, 13, 12, 10, 8); in both cases, the creature’s ability score modifiers are listed at the end of its description. &lt;br />&lt;br />&lt;b>Base Atk/CMB/CMD&lt;/b>: These values give the creature’s base attack, its Combat Maneuver Bonus, and its Combat Maneuver Defense score. &lt;br />&lt;br />&lt;b>Feats&lt;/b>: The creature’s feats are listed here. A bonus feat is indicated with a superscript “B.” &lt;br />&lt;br />&lt;b>Skills&lt;/b>: The creature’s skills are listed here. Racial modifiers to skills are indicated at the end of this entry. &lt;br />&lt;br />&lt;b>Languages&lt;/b>: The languages most commonly spoken by the creature are listed here. For unusual creatures, you can swap out the languages known for other choices as needed. A creature with a higher-than-normal Intelligence score receives the appropriate number of bonus languages. &lt;br />&lt;br />&lt;b>SQ&lt;/b>: Any special qualities possessed by the creature. &lt;br />&lt;br />&lt;b>Environment&lt;/b>: The regions and climates in which the creature is typically encountered are listed here; these often present wider ranges than the icons at the top of the stat block indicate. In this case, the icon listed at the top of the stat block indicates the creature’s preferred terrain. &lt;br />&lt;br />&lt;b>Organization&lt;/b>: This lists how the creature is organized, including number ranges as appropriate. &lt;br />&lt;br />&lt;b>Treasure&lt;/b>: The exact value of the creature’s treasure depends on if you’re running a slow, medium, or fast game, as summarized on &lt;a style=&quot;text-decoration:underline&quot; href=&quot;Rules.aspx?Name=Placing%20Treasure&amp;Category=Building%20an%20Adventure&quot;>Table 12–5&lt;/a>. In cases where a creature has specific magical gear assigned to it, the assumption is a medium game—if you play a fast or slow game, you’ll want to adjust the monster’s gear as appropriate. “Standard” treasure indicates the total value of the creature’s treasure is that of a CR equal to the average party level, as listed on Table 12–5. “Double” or “triple” treasure indicates the creature has double or triple this standard value. “Incidental” indicates the creature has half this standard value, and then only within the confines of its lair. “None” indicates that the creature normally has no treasure (as is typical for an unintelligent creature that has no real lair, although such creatures are often used to guard treasures of varying amounts). “NPC gear” indicates the monster has treasure as normal for an NPC of a level equal to the monster’s CR (see &lt;a style=&quot;text-decoration:underline&quot; href=&quot;Rules.aspx?Name=Step%206:%20Gear&amp;Category=Creating%20NPCs&quot;>Table 14-9&lt;/a>). &lt;br />&lt;br />&lt;b>Special Abilities&lt;/b>: Finally, any of the creature’s more unique special abilities are detailed in full here." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=2450" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXOQDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjQ0OCI+QmVzdGlhcnk8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjQ0OSI+SW50cm9kdWN0aW9uPC9hPjwvdT48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTI0NTAiPlN0YXQgQmxvY2s8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweThhdXU/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLUJlc3RpYXJ5IiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBhdGhmaW5kZXIgUlBHIEJlc3RpYXJ5IHBnLiA1PC9pPjwvYT48YnIgLz5UaGlzIGlzIHdoZXJlIHlvdeKAmWxsIGZpbmQgYWxsIG9mIHRoZSBpbmZvcm1hdGlvbiB5b3UgbmVlZCB0byBydW4gdGhlIG1vbnN0ZXIgaW4gYW4gZW5jb3VudGVyLiBBIHN0YXQgYmxvY2sgaXMgb3JnYW5pemVkIGFzIGZvbGxvd3MuIE5vdGUgdGhhdCBpbiBjYXNlcyB3aGVyZSBhIGxpbmUgaW4gYSBzdGF0IGJsb2NrIGhhcyBubyB2YWx1ZSwgdGhhdCBsaW5lIGlzIG9taXR0ZWQuIDxiciAvPjxiciAvPjxiPk5hbWUgYW5kIENSPC9iPjogVGhlIG1vbnN0ZXLigJlzIG5hbWUgaXMgcHJlc2VudGVkIGZpcnN0LCBhbG9uZyB3aXRoIGl0cyBjaGFsbGVuZ2UgcmF0aW5nIChDUikgYW5kIHRocmVlIGljb25zIHlvdSBjYW4gdXNlIHRvIHF1aWNrbHkgaWRlbnRpZnkgdGhlIGNyZWF0dXJl4oCZcyByb2xlIGluIHRoZSBnYW1lLiBDaGFsbGVuZ2UgcmF0aW5nIGlzIGEgbnVtZXJpY2FsIGluZGljYXRpb24gb2YgaG93IGRhbmdlcm91cyBhIG1vbnN0ZXIgaXPigJR0aGUgaGlnaGVyIHRoZSBudW1iZXIsIHRoZSBkZWFkbGllciB0aGUgY3JlYXR1cmUuIENoYWxsZW5nZSByYXRpbmcgaXMgZGV0YWlsZWQgb24gcGFnZSBpbiB0aGUgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlJ1bGVzLmFzcHg/TmFtZT1EZXNpZ25pbmclMjBFbmNvdW50ZXJzJkNhdGVnb3J5PUJ1aWxkaW5nJTIwYW4lMjBBZHZlbnR1cmUiPkRlc2lnaW5pbmcgRW5jb3VudGVyczwvYT4gc2VjdGlvbi4gPGJyIC8+PGJyIC8+PGI+WFA8L2I+OiBMaXN0ZWQgaGVyZSBhcmUgdGhlIHRvdGFsIGV4cGVyaWVuY2UgcG9pbnRzIHRoYXQgUENzIGVhcm4gZm9yIGRlZmVhdGluZyB0aGUgbW9uc3Rlci4gPGJyIC8+PGJyIC8+PGI+UmFjZSwgQ2xhc3MsIGFuZCBMZXZlbDwvYj46IFNvbWUgbW9uc3RlcnMgZG8gbm90IHBvc3Nlc3MgcmFjaWFsIEhpdCBEaWNlIGFuZCBhcmUgaW5zdGVhZCBkZWZpbmVkIGJ5IHRoZWlyIGNsYXNzIGxldmVscy4gRm9yIHRoZXNlIG1vbnN0ZXJzLCB0aGVpciByYWNlLCBjbGFzcywgYW5kIGxldmVsIGFwcGVhciBoZXJlLiBVbmxlc3Mgb3RoZXJ3aXNlIG5vdGVkLCB0aGUgZmlyc3QgY2xhc3MgbGlzdGVkIGlzIHRoZSBjbGFzcyBjaG9zZW4gYnkgdGhlIG1vbnN0ZXIgYXMgaXRzIGZhdm9yZWQgY2xhc3MuIDxiciAvPjxiciAvPjxiPkFsaWdubWVudCwgU2l6ZSwgYW5kIFR5cGU8L2I+OiBXaGlsZSBhIG1vbnN0ZXLigJlzIHNpemUgYW5kIHR5cGUgcmVtYWluIGNvbnN0YW50ICh1bmxlc3MgY2hhbmdlZCBieSB0aGUgYXBwbGljYXRpb24gb2YgdGVtcGxhdGVzIG9yIG90aGVyIHVudXN1YWwgbW9kaWZpZXJzKSwgYWxpZ25tZW50IGlzIGZhciBtb3JlIGZsdWlkLiBUaGUgYWxpZ25tZW50cyBsaXN0ZWQgZm9yIGVhY2ggbW9uc3RlciBpbiB0aGlzIGJvb2sgcmVwcmVzZW50IHRoZSBub3JtIGZvciB0aG9zZSBtb25zdGVyc+KAlHRoZXkgY2FuIHZhcnkgYXMgeW91IHJlcXVpcmUgdGhlbSB0byBpbiBvcmRlciB0byBzZXJ2ZSB0aGUgbmVlZHMgb2YgeW91ciBjYW1wYWlnbi4gT25seSBpbiB0aGUgY2FzZSBvZiByZWxhdGl2ZWx5IHVuaW50ZWxsaWdlbnQgbW9uc3RlcnMgKGNyZWF0dXJlcyB3aXRoIGFuIEludGVsbGlnZW5jZSBvZiAyIG9yIGxvd2VyIGFyZSBhbG1vc3QgbmV2ZXIgYW55dGhpbmcgb3RoZXIgdGhhbiBuZXV0cmFsKSBhbmQgcGxhbmFyIG1vbnN0ZXJzIChvdXRzaWRlcnMgd2l0aCBhbGlnbm1lbnRzIG90aGVyIHRoYW4gdGhvc2UgbGlzdGVkIGFyZSB1bnVzdWFsIGFuZCB0eXBpY2FsbHkgb3V0Y2FzdHMgZnJvbSB0aGVpciBraW5kKSBpcyB0aGUgbGlzdGVkIGFsaWdubWVudCByZWxhdGl2ZWx5IHVuY2hhbmdlYWJsZS4gPGJyIC8+PGJyIC8+PGI+SW5pdCBhbmQgU2Vuc2VzPC9iPjogVGhlIGNyZWF0dXJl4oCZcyBpbml0aWF0aXZlIG1vZGlmaWVyIGZvbGxvd2VkIGJ5IGFueSBzcGVjaWFsIHNlbnNlcyBhbmQgaXRzIFBlcmNlcHRpb24gY2hlY2sgbW9kaWZpZXIuIDxiciAvPjxiciAvPjxiPkF1cmE8L2I+OiBJZiB0aGUgY3JlYXR1cmUgaGFzIGEgcGFydGljdWxhciBtYWdpY2FsIG9yIGV4Y2VwdGlvbmFsIGF1cmEsIGl0IGlzIGxpc3RlZCBoZXJlIGFsb25nIHdpdGggaXRzIHJhZGl1cyBmcm9tIHRoZSBjcmVhdHVyZSBhbmQsIGFzIGFwcGxpY2FibGUsIGEgc2F2ZSBEQyB0byByZXNpc3QgdGhlIGF1cmHigJlzIGVmZmVjdHMuIDxiciAvPjxiciAvPjxiPkFDPC9iPjogVGhlIGNyZWF0dXJl4oCZcyBBcm1vciBDbGFzcywgdG91Y2ggQXJtb3IgQ2xhc3MsIGFuZCBmbGF0LWZvb3RlZCBBcm1vciBDbGFzcy4gVGhlIG1vZGlmaWVycyB0aGF0IGdlbmVyYXRlIGl0cyBBQyBhcmUgbGlzdGVkIHBhcmVudGhldGljYWxseSBhdCB0aGUgZW5kIG9mIHRoaXMgZW50cnkuIDxiciAvPjxiciAvPjxiPmhwPC9iPjogVGhlIGNyZWF0dXJl4oCZcyBoaXQgcG9pbnRzLCBmb2xsb3dlZCBieSBpdHMgSGl0IERpY2UgKGluY2x1ZGluZyBtb2RpZmllcnMgZnJvbSBDb25zdGl0dXRpb24sIGZhdm9yZWQgY2xhc3MgbGV2ZWxzLCBjcmVhdHVyZSB0eXBlIG1vZGlmaWVycywgYW5kIHRoZSBUb3VnaG5lc3MgZmVhdCkuIENyZWF0dXJlcyB3aXRoIFBDIGNsYXNzIGxldmVscyByZWNlaXZlIG1heGltdW0gaGl0IHBvaW50cyBmb3IgdGhlaXIgZmlyc3QgSEQsIGJ1dCBhbGwgb3RoZXIgSEQgcm9sbHMgYXJlIGFzc3VtZWQgdG8gYmUgYXZlcmFnZS4gRmFzdCBoZWFsaW5nIGFuZCByZWdlbmVyYXRpb24gdmFsdWVzLCBpZiBhbnksIGZvbGxvdyB0aGUgY3JlYXR1cmXigJlzIEhELiA8YnIgLz48YnIgLz48Yj5TYXZpbmcgVGhyb3dzPC9iPjogVGhlIGNyZWF0dXJl4oCZcyBGb3J0aXR1ZGUsIFJlZmxleCwgYW5kIFdpbGwgc2F2ZXMsIGZvbGxvd2VkIGJ5IHNpdHVhdGlvbmFsIG1vZGlmaWVycyB0byB0aG9zZSByb2xscy4gPGJyIC8+PGJyIC8+PGI+RGVmZW5zaXZlIEFiaWxpdGllcy9EUi9JbW11bmUvUmVzaXN0L1NSPC9iPjogQWxsIG9mIHRoZSBjcmVhdHVyZeKAmXMgdW51c3VhbCBkZWZlbnNpdmUgYWJpbGl0aWVzLiBEYW1hZ2UgcmVkdWN0aW9uLCBpbW11bml0aWVzLCByZXNpc3RhbmNlcywgYW5kIHNwZWxsIHJlc2lzdGFuY2UgYXJlIGNhbGxlZCBvdXQgc2VwYXJhdGVseSBhcyBuZWNlc3NhcnkuIDxiciAvPjxiciAvPjxiPldlYWtuZXNzZXM8L2I+OiBBbGwgb2YgdGhlIGNyZWF0dXJl4oCZcyB1bnVzdWFsIHdlYWtuZXNzZXMgYXJlIGxpc3RlZCBoZXJlLiA8YnIgLz48YnIgLz48Yj5TcGVlZDwvYj46IFRoZSBjcmVhdHVyZeKAmXMgbGFuZCBzcGVlZCwgYW5kIGFkZGl0aW9uYWwgc3BlZWRzIGFzIG5lY2Vzc2FyeSBmb3IgdGhlIGNyZWF0dXJlLiA8YnIgLz48YnIgLz48Yj5NZWxlZTwvYj46IFRoZSBjcmVhdHVyZeKAmXMgbWVsZWUgYXR0YWNrcyBhcmUgbGlzdGVkIGhlcmUsIHdpdGggaXRzIGF0dGFjayByb2xsIG1vZGlmaWVyIGxpc3RlZCBhZnRlciB0aGUgYXR0YWNr4oCZcyBuYW1lIGZvbGxvd2VkIGJ5IHRoZSBkYW1hZ2UgaW4gcGFyZW50aGVzZXMuIDxiciAvPjxiciAvPjxiPlJhbmdlZDwvYj46IEFzIE1lbGVlIGFib3ZlLCBidXQgZm9yIHJhbmdlZCBhdHRhY2tzLiA8YnIgLz48YnIgLz48Yj5TcGFjZS9SZWFjaDwvYj46IFRoZSBjcmVhdHVyZeKAmXMgc3BhY2UgYW5kIHJlYWNo4oCUaWYgdGhlIGNyZWF0dXJl4oCZcyBzcGFjZSBhbmQgcmVhY2ggYXJlIHN0YW5kYXJkIChvbmUgNS1mb290IHNxdWFyZSBhbmQgYSByZWFjaCBvZiA1IGZlZXQpLCB0aGlzIGxpbmUgaXMgb21pdHRlZC4gPGJyIC8+PGJyIC8+PGI+U3BlY2lhbCBBdHRhY2tzPC9iPjogVGhlIGNyZWF0dXJl4oCZcyBzcGVjaWFsIGF0dGFja3MuIEZ1bGwgZGV0YWlscyBmb3IgdGhlc2UgYXR0YWNrcyBhcmUgZ2l2ZW4gYXQgdGhlIGVuZCBvZiB0aGUgc3RhdCBibG9jayBvciBpbiB0aGUgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlVNUi5hc3B4P0l0ZW1OYW1lPUFsbCI+dW5pdmVyc2FsIG1vbnN0ZXIgcnVsZXMgc2VjdGlvbjwvYT4uIDxiciAvPjxiciAvPjxiPlNwZWxsLUxpa2UgQWJpbGl0aWVzPC9iPjogQWZ0ZXIgbGlzdGluZyB0aGUgY2FzdGVyIGxldmVsIG9mIHRoZSBjcmVhdHVyZeKAmXMgc3BlbGwtbGlrZSBhYmlsaXRpZXMsIHRoaXMgc2VjdGlvbiBsaXN0cyBhbGwgb2YgdGhlIGNyZWF0dXJl4oCZcyBzcGVsbC1saWtlIGFiaWxpdGllcywgb3JnYW5pemVkIGJ5IGhvdyBtYW55IHRpbWVzIHBlciBkYXkgaXQgY2FuIHVzZSB0aGUgYWJpbGl0aWVzLiBDb25zdGFudCBzcGVsbC1saWtlIGFiaWxpdGllcyBmdW5jdGlvbiBhdCBhbGwgdGltZXMgYnV0IGNhbiBiZSBkaXNwZWxsZWQuIEEgY3JlYXR1cmUgY2FuIHJlYWN0aXZhdGUgYSBjb25zdGFudCBzcGVsbC1saWtlIGFiaWxpdHkgYXMgYSBzd2lmdCBhY3Rpb24uIDxiciAvPjxiciAvPjxiPlNwZWxscyBLbm93bi9QcmVwYXJlZDwvYj46IElmIHRoZSBjcmVhdHVyZSBjYW4gYWN0dWFsbHkgY2FzdCBzcGVsbHMsIGl0cyBjYXN0ZXIgbGV2ZWwgaXMgaW5kaWNhdGVkIGhlcmUgZm9sbG93ZWQgYnkgdGhlIHNwZWxscyBpdCBrbm93cyBvciB0eXBpY2FsbHkgaGFzIHByZXBhcmVkLiBVbmxlc3Mgb3RoZXJ3aXNlIGluZGljYXRlZCwgYSBzcGVsbGNhc3RpbmcgY3JlYXR1cmUgZG9lcyBub3QgcmVjZWl2ZSBhbnkgb2YgYSBzcGVsbGNhc3RpbmcgY2xhc3PigJlzIG90aGVyIGFiaWxpdGllcywgc3VjaCBhcyBhIGNsZXJpY+KAmXMgYWJpbGl0eSB0byBzcG9udGFuZW91c2x5IGNvbnZlcnQgcHJlcGFyZWQgc3BlbGxzIHRvIDxpPmN1cmU8L2k+IG9yIDxpPmluZmxpY3Q8L2k+IHNwZWxscy4gPGJyIC8+PGJyIC8+PGI+QWJpbGl0eSBTY29yZXM8L2I+OiBUaGUgY3JlYXR1cmXigJlzIGFiaWxpdHkgc2NvcmVzIGFyZSBsaXN0ZWQgaGVyZS4gVW5sZXNzIG90aGVyd2lzZSBpbmRpY2F0ZWQsIGEgY3JlYXR1cmXigJlzIGFiaWxpdHkgc2NvcmVzIHJlcHJlc2VudCB0aGUgYmFzZWxpbmUgb2YgaXRzIHJhY2lhbCBtb2RpZmllcnMgYXBwbGllZCB0byBzY29yZXMgb2YgMTAgb3IgMTEuIENyZWF0dXJlcyB3aXRoIE5QQyBjbGFzcyBsZXZlbHMgaGF2ZSBzdGF0cyBpbiB0aGUgc3RhbmRhcmQgYXJyYXkgKDEzLCAxMiwgMTEsIDEwLCA5LCA4KSwgd2hpbGUgY3JlYXR1cmVzIHdpdGggY2hhcmFjdGVyIGNsYXNzIGxldmVscyBoYXZlIHRoZSBlbGl0ZSBhcnJheSAoMTUsIDE0LCAxMywgMTIsIDEwLCA4KTsgaW4gYm90aCBjYXNlcywgdGhlIGNyZWF0dXJl4oCZcyBhYmlsaXR5IHNjb3JlIG1vZGlmaWVycyBhcmUgbGlzdGVkIGF0IHRoZSBlbmQgb2YgaXRzIGRlc2NyaXB0aW9uLiA8YnIgLz48YnIgLz48Yj5CYXNlIEF0ay9DTUIvQ01EPC9iPjogVGhlc2UgdmFsdWVzIGdpdmUgdGhlIGNyZWF0dXJl4oCZcyBiYXNlIGF0dGFjaywgaXRzIENvbWJhdCBNYW5ldXZlciBCb251cywgYW5kIGl0cyBDb21iYXQgTWFuZXV2ZXIgRGVmZW5zZSBzY29yZS4gPGJyIC8+PGJyIC8+PGI+RmVhdHM8L2I+OiBUaGUgY3JlYXR1cmXigJlzIGZlYXRzIGFyZSBsaXN0ZWQgaGVyZS4gQSBib251cyBmZWF0IGlzIGluZGljYXRlZCB3aXRoIGEgc3VwZXJzY3JpcHQg4oCcQi7igJ0gPGJyIC8+PGJyIC8+PGI+U2tpbGxzPC9iPjogVGhlIGNyZWF0dXJl4oCZcyBza2lsbHMgYXJlIGxpc3RlZCBoZXJlLiBSYWNpYWwgbW9kaWZpZXJzIHRvIHNraWxscyBhcmUgaW5kaWNhdGVkIGF0IHRoZSBlbmQgb2YgdGhpcyBlbnRyeS4gPGJyIC8+PGJyIC8+PGI+TGFuZ3VhZ2VzPC9iPjogVGhlIGxhbmd1YWdlcyBtb3N0IGNvbW1vbmx5IHNwb2tlbiBieSB0aGUgY3JlYXR1cmUgYXJlIGxpc3RlZCBoZXJlLiBGb3IgdW51c3VhbCBjcmVhdHVyZXMsIHlvdSBjYW4gc3dhcCBvdXQgdGhlIGxhbmd1YWdlcyBrbm93biBmb3Igb3RoZXIgY2hvaWNlcyBhcyBuZWVkZWQuIEEgY3JlYXR1cmUgd2l0aCBhIGhpZ2hlci10aGFuLW5vcm1hbCBJbnRlbGxpZ2VuY2Ugc2NvcmUgcmVjZWl2ZXMgdGhlIGFwcHJvcHJpYXRlIG51bWJlciBvZiBib251cyBsYW5ndWFnZXMuIDxiciAvPjxiciAvPjxiPlNRPC9iPjogQW55IHNwZWNpYWwgcXVhbGl0aWVzIHBvc3Nlc3NlZCBieSB0aGUgY3JlYXR1cmUuIDxiciAvPjxiciAvPjxiPkVudmlyb25tZW50PC9iPjogVGhlIHJlZ2lvbnMgYW5kIGNsaW1hdGVzIGluIHdoaWNoIHRoZSBjcmVhdHVyZSBpcyB0eXBpY2FsbHkgZW5jb3VudGVyZWQgYXJlIGxpc3RlZCBoZXJlOyB0aGVzZSBvZnRlbiBwcmVzZW50IHdpZGVyIHJhbmdlcyB0aGFuIHRoZSBpY29ucyBhdCB0aGUgdG9wIG9mIHRoZSBzdGF0IGJsb2NrIGluZGljYXRlLiBJbiB0aGlzIGNhc2UsIHRoZSBpY29uIGxpc3RlZCBhdCB0aGUgdG9wIG9mIHRoZSBzdGF0IGJsb2NrIGluZGljYXRlcyB0aGUgY3JlYXR1cmXigJlzIHByZWZlcnJlZCB0ZXJyYWluLiA8YnIgLz48YnIgLz48Yj5Pcmdhbml6YXRpb248L2I+OiBUaGlzIGxpc3RzIGhvdyB0aGUgY3JlYXR1cmUgaXMgb3JnYW5pemVkLCBpbmNsdWRpbmcgbnVtYmVyIHJhbmdlcyBhcyBhcHByb3ByaWF0ZS4gPGJyIC8+PGJyIC8+PGI+VHJlYXN1cmU8L2I+OiBUaGUgZXhhY3QgdmFsdWUgb2YgdGhlIGNyZWF0dXJl4oCZcyB0cmVhc3VyZSBkZXBlbmRzIG9uIGlmIHlvdeKAmXJlIHJ1bm5pbmcgYSBzbG93LCBtZWRpdW0sIG9yIGZhc3QgZ2FtZSwgYXMgc3VtbWFyaXplZCBvbiA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iUnVsZXMuYXNweD9OYW1lPVBsYWNpbmclMjBUcmVhc3VyZSZDYXRlZ29yeT1CdWlsZGluZyUyMGFuJTIwQWR2ZW50dXJlIj5UYWJsZSAxMuKAkzU8L2E+LiBJbiBjYXNlcyB3aGVyZSBhIGNyZWF0dXJlIGhhcyBzcGVjaWZpYyBtYWdpY2FsIGdlYXIgYXNzaWduZWQgdG8gaXQsIHRoZSBhc3N1bXB0aW9uIGlzIGEgbWVkaXVtIGdhbWXigJRpZiB5b3UgcGxheSBhIGZhc3Qgb3Igc2xvdyBnYW1lLCB5b3XigJlsbCB3YW50IHRvIGFkanVzdCB0aGUgbW9uc3RlcuKAmXMgZ2VhciBhcyBhcHByb3ByaWF0ZS4g4oCcU3RhbmRhcmTigJ0gdHJlYXN1cmUgaW5kaWNhdGVzIHRoZSB0b3RhbCB2YWx1ZSBvZiB0aGUgY3JlYXR1cmXigJlzIHRyZWFzdXJlIGlzIHRoYXQgb2YgYSBDUiBlcXVhbCB0byB0aGUgYXZlcmFnZSBwYXJ0eSBsZXZlbCwgYXMgbGlzdGVkIG9uIFRhYmxlIDEy4oCTNS4g4oCcRG91Ymxl4oCdIG9yIOKAnHRyaXBsZeKAnSB0cmVhc3VyZSBpbmRpY2F0ZXMgdGhlIGNyZWF0dXJlIGhhcyBkb3VibGUgb3IgdHJpcGxlIHRoaXMgc3RhbmRhcmQgdmFsdWUuIOKAnEluY2lkZW50YWzigJ0gaW5kaWNhdGVzIHRoZSBjcmVhdHVyZSBoYXMgaGFsZiB0aGlzIHN0YW5kYXJkIHZhbHVlLCBhbmQgdGhlbiBvbmx5IHdpdGhpbiB0aGUgY29uZmluZXMgb2YgaXRzIGxhaXIuIOKAnE5vbmXigJ0gaW5kaWNhdGVzIHRoYXQgdGhlIGNyZWF0dXJlIG5vcm1hbGx5IGhhcyBubyB0cmVhc3VyZSAoYXMgaXMgdHlwaWNhbCBmb3IgYW4gdW5pbnRlbGxpZ2VudCBjcmVhdHVyZSB0aGF0IGhhcyBubyByZWFsIGxhaXIsIGFsdGhvdWdoIHN1Y2ggY3JlYXR1cmVzIGFyZSBvZnRlbiB1c2VkIHRvIGd1YXJkIHRyZWFzdXJlcyBvZiB2YXJ5aW5nIGFtb3VudHMpLiDigJxOUEMgZ2VhcuKAnSBpbmRpY2F0ZXMgdGhlIG1vbnN0ZXIgaGFzIHRyZWFzdXJlIGFzIG5vcm1hbCBmb3IgYW4gTlBDIG9mIGEgbGV2ZWwgZXF1YWwgdG8gdGhlIG1vbnN0ZXLigJlzIENSIChzZWUgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlJ1bGVzLmFzcHg/TmFtZT1TdGVwJTIwNjolMjBHZWFyJkNhdGVnb3J5PUNyZWF0aW5nJTIwTlBDcyI+VGFibGUgMTQtOTwvYT4pLiA8YnIgLz48YnIgLz48Yj5TcGVjaWFsIEFiaWxpdGllczwvYj46IEZpbmFsbHksIGFueSBvZiB0aGUgY3JlYXR1cmXigJlzIG1vcmUgdW5pcXVlIHNwZWNpYWwgYWJpbGl0aWVzIGFyZSBkZXRhaWxlZCBpbiBmdWxsIGhlcmUuZGRkeOP4JY/e567hkReqyL5NS4yI8O3NMecKNUdWGhaPeTE=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=2448">Bestiary</a></u> / <u><a href="Rules.aspx?ID=2449">Introduction</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=2450">Stat Block</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8auu?Pathfinder-Roleplaying-Game-Bestiary" target="_blank" class="external-link"><i>Pathfinder RPG Bestiary pg. 5</i></a><br />This is where you’ll find all of the information you need to run the monster in an encounter. A stat block is organized as follows. Note that in cases where a line in a stat block has no value, that line is omitted. <br /><br /><b>Name and CR</b>: The monster’s name is presented first, along with its challenge rating (CR) and three icons you can use to quickly identify the creature’s role in the game. Challenge rating is a numerical indication of how dangerous a monster is—the higher the number, the deadlier the creature. Challenge rating is detailed on page in the <a style="text-decoration:underline" href="Rules.aspx?Name=Designing%20Encounters&Category=Building%20an%20Adventure">Desigining Encounters</a> section. <br /><br /><b>XP</b>: Listed here are the total experience points that PCs earn for defeating the monster. <br /><br /><b>Race, Class, and Level</b>: Some monsters do not possess racial Hit Dice and are instead defined by their class levels. For these monsters, their race, class, and level appear here. Unless otherwise noted, the first class listed is the class chosen by the monster as its favored class. <br /><br /><b>Alignment, Size, and Type</b>: While a monster’s size and type remain constant (unless changed by the application of templates or other unusual modifiers), alignment is far more fluid. The alignments listed for each monster in this book represent the norm for those monsters—they can vary as you require them to in order to serve the needs of your campaign. Only in the case of relatively unintelligent monsters (creatures with an Intelligence of 2 or lower are almost never anything other than neutral) and planar monsters (outsiders with alignments other than those listed are unusual and typically outcasts from their kind) is the listed alignment relatively unchangeable. <br /><br /><b>Init and Senses</b>: The creature’s initiative modifier followed by any special senses and its Perception check modifier. <br /><br /><b>Aura</b>: If the creature has a particular magical or exceptional aura, it is listed here along with its radius from the creature and, as applicable, a save DC to resist the aura’s effects. <br /><br /><b>AC</b>: The creature’s Armor Class, touch Armor Class, and flat-footed Armor Class. The modifiers that generate its AC are listed parenthetically at the end of this entry. <br /><br /><b>hp</b>: The creature’s hit points, followed by its Hit Dice (including modifiers from Constitution, favored class levels, creature type modifiers, and the Toughness feat). Creatures with PC class levels receive maximum hit points for their first HD, but all other HD rolls are assumed to be average. Fast healing and regeneration values, if any, follow the creature’s HD. <br /><br /><b>Saving Throws</b>: The creature’s Fortitude, Reflex, and Will saves, followed by situational modifiers to those rolls. <br /><br /><b>Defensive Abilities/DR/Immune/Resist/SR</b>: All of the creature’s unusual defensive abilities. Damage reduction, immunities, resistances, and spell resistance are called out separately as necessary. <br /><br /><b>Weaknesses</b>: All of the creature’s unusual weaknesses are listed here. <br /><br /><b>Speed</b>: The creature’s land speed, and additional speeds as necessary for the creature. <br /><br /><b>Melee</b>: The creature’s melee attacks are listed here, with its attack roll modifier listed after the attack’s name followed by the damage in parentheses. <br /><br /><b>Ranged</b>: As Melee above, but for ranged attacks. <br /><br /><b>Space/Reach</b>: The creature’s space and reach—if the creature’s space and reach are standard (one 5-foot square and a reach of 5 feet), this line is omitted. <br /><br /><b>Special Attacks</b>: The creature’s special attacks. Full details for these attacks are given at the end of the stat block or in the <a style="text-decoration:underline" href="UMR.aspx?ItemName=All">universal monster rules section</a>. <br /><br /><b>Spell-Like Abilities</b>: After listing the caster level of the creature’s spell-like abilities, this section lists all of the creature’s spell-like abilities, organized by how many times per day it can use the abilities. Constant spell-like abilities function at all times but can be dispelled. A creature can reactivate a constant spell-like ability as a swift action. <br /><br /><b>Spells Known/Prepared</b>: If the creature can actually cast spells, its caster level is indicated here followed by the spells it knows or typically has prepared. Unless otherwise indicated, a spellcasting creature does not receive any of a spellcasting class’s other abilities, such as a cleric’s ability to spontaneously convert prepared spells to <i>cure</i> or <i>inflict</i> spells. <br /><br /><b>Ability Scores</b>: The creature’s ability scores are listed here. Unless otherwise indicated, a creature’s ability scores represent the baseline of its racial modifiers applied to scores of 10 or 11. Creatures with NPC class levels have stats in the standard array (13, 12, 11, 10, 9, 8), while creatures with character class levels have the elite array (15, 14, 13, 12, 10, 8); in both cases, the creature’s ability score modifiers are listed at the end of its description. <br /><br /><b>Base Atk/CMB/CMD</b>: These values give the creature’s base attack, its Combat Maneuver Bonus, and its Combat Maneuver Defense score. <br /><br /><b>Feats</b>: The creature’s feats are listed here. A bonus feat is indicated with a superscript “B.” <br /><br /><b>Skills</b>: The creature’s skills are listed here. Racial modifiers to skills are indicated at the end of this entry. <br /><br /><b>Languages</b>: The languages most commonly spoken by the creature are listed here. For unusual creatures, you can swap out the languages known for other choices as needed. A creature with a higher-than-normal Intelligence score receives the appropriate number of bonus languages. <br /><br /><b>SQ</b>: Any special qualities possessed by the creature. <br /><br /><b>Environment</b>: The regions and climates in which the creature is typically encountered are listed here; these often present wider ranges than the icons at the top of the stat block indicate. In this case, the icon listed at the top of the stat block indicates the creature’s preferred terrain. <br /><br /><b>Organization</b>: This lists how the creature is organized, including number ranges as appropriate. <br /><br /><b>Treasure</b>: The exact value of the creature’s treasure depends on if you’re running a slow, medium, or fast game, as summarized on <a style="text-decoration:underline" href="Rules.aspx?Name=Placing%20Treasure&Category=Building%20an%20Adventure">Table 12–5</a>. In cases where a creature has specific magical gear assigned to it, the assumption is a medium game—if you play a fast or slow game, you’ll want to adjust the monster’s gear as appropriate. “Standard” treasure indicates the total value of the creature’s treasure is that of a CR equal to the average party level, as listed on Table 12–5. “Double” or “triple” treasure indicates the creature has double or triple this standard value. “Incidental” indicates the creature has half this standard value, and then only within the confines of its lair. “None” indicates that the creature normally has no treasure (as is typical for an unintelligent creature that has no real lair, although such creatures are often used to guard treasures of varying amounts). “NPC gear” indicates the monster has treasure as normal for an NPC of a level equal to the monster’s CR (see <a style="text-decoration:underline" href="Rules.aspx?Name=Step%206:%20Gear&Category=Creating%20NPCs">Table 14-9</a>). <br /><br /><b>Special Abilities</b>: Finally, any of the creature’s more unique special abilities are detailed in full here.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

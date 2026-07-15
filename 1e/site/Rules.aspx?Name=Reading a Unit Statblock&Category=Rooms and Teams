@@ -1,0 +1,271 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Reading a Unit Statblock - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Reading a Unit Statblock" /><meta name="description" content="The unit stat blocks are essentially the same for rooms and teams, and are organized as follows. Where an entry in a stat block would have no value (for example, a room that can’t be upgraded from or into something else), that entry is omitted from the stat block.&lt;br />&lt;br /> &lt;b>Earnings&lt;/b>: This entry indicates what bonuses the room or team gives to its building’s or organization’s checks made to generate capital. Buildings and organizations act like characters in that they can attempt a check each day to earn capital performing skilled work (without costing you any downtime). &lt;a style=&quot;text-decoration:underline&quot; href=&quot;Rules.aspx?Name=Gaining Capital&amp;Category=Downtime Overview&quot;>You must pay for capital earned in this way as normal&lt;/a>.&lt;br />&lt;br /> If the room or team’s Earnings entry says “capital” and a number, it can contribute a bonus on the building’s or organization’s skilled work check for any type of capital (gp, Goods, Influence, Labor, or Magic). If the Earnings entry lists specific types of capital, it can contribute a bonus on its building’s or organization’s skilled work checks only for capital of those types. You can apply each room’s or team’s bonus to any one listed type or capital each day or divide it among multiple listed types of capital. For example, an Alchemy Lab can generate only gp, Goods, or Magic, and not Influence or Labor. One day you could use all +10 of its bonus on the building’s capital check to generate gp, on the next day you could use +5 on a check for generating gp and +5 on a check for generating Goods, and so on.&lt;br />&lt;br /> Most of the time, it’s simplest and quickest to just apply all the gp bonuses from all the rooms in each of your buildings and take 10 on the roll. Other times, you might want to generate other types of capital to construct new rooms, recruit new teams, and make upgrades.&lt;br />&lt;br /> If you have multiple buildings or organizations in a settlement and they can generate the same kind of capital, you don’t have to roll for them separately— you may add all their capital modifiers together and attempt one check for that kind of capital. If you spend a downtime day earning capital on your own, you may add your building and organization bonuses to your roll instead of rolling separately for yourself and each of your businesses or organizations.&lt;br />&lt;br /> For a room, the Earnings amount already subtracts the cost of having unskilled employees to do the basic work for you. For example, the Earnings listed for having a Bar already account for the wages of a bartender and servers. For a team, the Earnings amount assumes they are working at a building you own. If you don’t provide a building for the team to work in or from, halve the Earnings for that team.&lt;br />&lt;br /> The description section of the unit stat block might list other benefits unrelated to the downtime system.&lt;br />&lt;br /> &lt;i>Example&lt;/i>: The Inn example &lt;a style=&quot;text-decoration:underline&quot; href=&quot;Rules.aspx?Name=Construction Examples&amp;Category=Rooms and Teams&quot;>here&lt;/a> has a Bar, a Common Room, a Kitchen, a Lodging, and a Stall. The Bar gives gp or Influence +10; the Common Room gives gp or Influence +7; the Kitchen gives gp or Goods +4; the Lodging gives gp +12; and the Stall gives gp, Goods, or Labor +8. All of those rooms can earn gp, so if you want to earn gp, just add all the room bonuses together (total +41) and make a skilled work check for the Inn to see how much gp you earn (see page 78). If you wanted to use the Bar’s bonus to contribute to generating Influence and use the rest of the rooms’ bonuses on gp, you’d attempt one skilled work check for Influence with a +10 modifier (the Bar’s bonus) and another skilled work check for gp with a +31 modifier (the total bonuses from the Common Room, Lodging, and Stall).&lt;br />&lt;br /> &lt;b>Benefit (Rooms Only)&lt;/b>: This entry lists what nondowntime bonuses the room provides, such skill bonuses or changes to settlement modifiers (such as Corruption, Crime, and Danger; see &lt;a style=&quot;text-decoration:underline&quot; href=&quot;Rules.aspx?Name=Settlement%20Modifiers&amp;Category=Settlements%20in%20Play&quot;>Settlement Modifiers&lt;/a>). If a room provides a skill bonus, that bonus applies only when you’re in the location specified. For example, just because you have a Ballroom in your castle doesn’t mean you get its Perform bonus when you’re in a dungeon.&lt;br />&lt;br /> The stat block doesn’t list obvious benefits that aren’t related to game mechanics. For example, a Bar allows you to sell drinks, a Kitchen allows you to serve food (either for your personal guests or to paying customers if the building is an Inn), and a Magical Repository allows you to research spells.&lt;br />&lt;br /> &lt;b>Create&lt;/b>: This entry lists how much Goods, Influence, Labor, and Magic are required to construct the room or recruit the team. It also includes a gp value for purchasing a completed room of that type or recruiting an existing team of that type.&lt;br />&lt;br /> &lt;b>Time&lt;/b>: This entry indicates how long it takes to complete the room or recruit the team. You may divide the Time price for a room by 2, 3, or 4 by spending 2, 3, or 4 times its Labor price. You may divide the Time price for a team by 2, 3, or 4 by spending 2, 3, or 4 times its Influence price. You must be in the settlement at the start of the construction or recruitment period, but don’t have to spend any of your downtime days to begin construction or recruitment. In effect, you have to be present only to give the order to begin.&lt;br />&lt;br /> If a team doesn’t have a Time price, spending capital to recruit that team doesn’t count as a downtime action.&lt;br />&lt;br /> Note that the Time prices for teams are for recruiting the team for long-term employment and don’t reflect the availability of these kinds of NPCs for temporary work. For example, if you need to hire a 3rd-level cleric to cast &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=restoration, lesser&quot;>&lt;i>lesser restoration&lt;/i>&lt;/a>, you don’t have to spend 7 days of downtime recruiting a Priest team—you can just make &lt;a style=&quot;text-decoration:underline&quot; href=&quot;EquipmentMiscDisplay.aspx?ItemName=Spellcasting&quot;>standard spellcasting arrangements as described here&lt;/a>.&lt;br />&lt;br /> &lt;b>Size&lt;/b>: If the unit is a room, this entry indicates a range of how many 5-foot squares are needed for a standard room of its type. For example, a Kitchen is 2–6 5-foot squares. If you need a larger room of this type, construct two rooms and join them. If you need a smaller room of this size, you can make it that smaller size for free. For example, if you only need a 5-foot-square Kitchen, you can construct one at the listed price, even though the smallest size listed is 2 5-foot squares.&lt;br />&lt;br /> If the unit is a team, this entry indicates how many people are needed for a standard team of its type. Typically the team is no smaller than 50% of this amount and no larger than 150% of this amount. If you need a larger team of this size, recruit two teams and combine them.&lt;br />&lt;br /> &lt;b>Upgrade&lt;/b>: Some rooms and teams are variants of or improvements on others. You can change the room or team into the listed upgrade by spending the difference in both capital and time between the original and the new one. For example, if your building includes a Book Repository and you want to upgrade it to a Magical Repository, you can either spend 1 point of Goods, 1 point of Influence, 1 point of Labor, and 2 points of Magic, or spend 270 gp (the difference between the Create entry for a Book Repository and a Magical Repository). You must also spend 4 days (the Time difference between a Book Repository and a Magical Repository).&lt;br />&lt;br /> Pay the price only for types of capital that increase. For example, if you are converting Bunks into Lodging, you spend 3 points of Goods, 3 points of Labor, and 6 days; even though a Lodging costs less Influence, you don’t regain any Influence for performing this upgrade.&lt;br />&lt;br /> You can’t downgrade a room or team. With the GM’s permission, you may repurpose any room or team into another room or team as if the change were an upgrade. &lt;b>Description&lt;/b>: A description of the unit follows the statistics, along with more detail about the benefits of having the unit." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=1287" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXbQzx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTI4NiI+Q29uc3RydWN0aW9uIEV4YW1wbGVzPC9hPjwvdT48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTEyODciPlJlYWRpbmcgYSBVbml0IFN0YXRibG9jazwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OHg2ND9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtVWx0aW1hdGUtQ2FtcGFpZ24NCiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5VbHRpbWF0ZSBDYW1wYWlnbiBwZy4gOTI8L2k+PC9hPjxiciAvPlRoZSB1bml0IHN0YXQgYmxvY2tzIGFyZSBlc3NlbnRpYWxseSB0aGUgc2FtZSBmb3Igcm9vbXMgYW5kIHRlYW1zLCBhbmQgYXJlIG9yZ2FuaXplZCBhcyBmb2xsb3dzLiBXaGVyZSBhbiBlbnRyeSBpbiBhIHN0YXQgYmxvY2sgd291bGQgaGF2ZSBubyB2YWx1ZSAoZm9yIGV4YW1wbGUsIGEgcm9vbSB0aGF0IGNhbuKAmXQgYmUgdXBncmFkZWQgZnJvbSBvciBpbnRvIHNvbWV0aGluZyBlbHNlKSwgdGhhdCBlbnRyeSBpcyBvbWl0dGVkIGZyb20gdGhlIHN0YXQgYmxvY2suPGJyIC8+PGJyIC8+IDxiPkVhcm5pbmdzPC9iPjogVGhpcyBlbnRyeSBpbmRpY2F0ZXMgd2hhdCBib251c2VzIHRoZSByb29tIG9yIHRlYW0gZ2l2ZXMgdG8gaXRzIGJ1aWxkaW5n4oCZcyBvciBvcmdhbml6YXRpb27igJlzIGNoZWNrcyBtYWRlIHRvIGdlbmVyYXRlIGNhcGl0YWwuIEJ1aWxkaW5ncyBhbmQgb3JnYW5pemF0aW9ucyBhY3QgbGlrZSBjaGFyYWN0ZXJzIGluIHRoYXQgdGhleSBjYW4gYXR0ZW1wdCBhIGNoZWNrIGVhY2ggZGF5IHRvIGVhcm4gY2FwaXRhbCBwZXJmb3JtaW5nIHNraWxsZWQgd29yayAod2l0aG91dCBjb3N0aW5nIHlvdSBhbnkgZG93bnRpbWUpLiA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iUnVsZXMuYXNweD9OYW1lPUdhaW5pbmcgQ2FwaXRhbCZDYXRlZ29yeT1Eb3dudGltZSBPdmVydmlldyI+WW91IG11c3QgcGF5IGZvciBjYXBpdGFsIGVhcm5lZCBpbiB0aGlzIHdheSBhcyBub3JtYWw8L2E+LjxiciAvPjxiciAvPiBJZiB0aGUgcm9vbSBvciB0ZWFt4oCZcyBFYXJuaW5ncyBlbnRyeSBzYXlzIOKAnGNhcGl0YWzigJ0gYW5kIGEgbnVtYmVyLCBpdCBjYW4gY29udHJpYnV0ZSBhIGJvbnVzIG9uIHRoZSBidWlsZGluZ+KAmXMgb3Igb3JnYW5pemF0aW9u4oCZcyBza2lsbGVkIHdvcmsgY2hlY2sgZm9yIGFueSB0eXBlIG9mIGNhcGl0YWwgKGdwLCBHb29kcywgSW5mbHVlbmNlLCBMYWJvciwgb3IgTWFnaWMpLiBJZiB0aGUgRWFybmluZ3MgZW50cnkgbGlzdHMgc3BlY2lmaWMgdHlwZXMgb2YgY2FwaXRhbCwgaXQgY2FuIGNvbnRyaWJ1dGUgYSBib251cyBvbiBpdHMgYnVpbGRpbmfigJlzIG9yIG9yZ2FuaXphdGlvbuKAmXMgc2tpbGxlZCB3b3JrIGNoZWNrcyBvbmx5IGZvciBjYXBpdGFsIG9mIHRob3NlIHR5cGVzLiBZb3UgY2FuIGFwcGx5IGVhY2ggcm9vbeKAmXMgb3IgdGVhbeKAmXMgYm9udXMgdG8gYW55IG9uZSBsaXN0ZWQgdHlwZSBvciBjYXBpdGFsIGVhY2ggZGF5IG9yIGRpdmlkZSBpdCBhbW9uZyBtdWx0aXBsZSBsaXN0ZWQgdHlwZXMgb2YgY2FwaXRhbC4gRm9yIGV4YW1wbGUsIGFuIEFsY2hlbXkgTGFiIGNhbiBnZW5lcmF0ZSBvbmx5IGdwLCBHb29kcywgb3IgTWFnaWMsIGFuZCBub3QgSW5mbHVlbmNlIG9yIExhYm9yLiBPbmUgZGF5IHlvdSBjb3VsZCB1c2UgYWxsICsxMCBvZiBpdHMgYm9udXMgb24gdGhlIGJ1aWxkaW5n4oCZcyBjYXBpdGFsIGNoZWNrIHRvIGdlbmVyYXRlIGdwLCBvbiB0aGUgbmV4dCBkYXkgeW91IGNvdWxkIHVzZSArNSBvbiBhIGNoZWNrIGZvciBnZW5lcmF0aW5nIGdwIGFuZCArNSBvbiBhIGNoZWNrIGZvciBnZW5lcmF0aW5nIEdvb2RzLCBhbmQgc28gb24uPGJyIC8+PGJyIC8+IE1vc3Qgb2YgdGhlIHRpbWUsIGl04oCZcyBzaW1wbGVzdCBhbmQgcXVpY2tlc3QgdG8ganVzdCBhcHBseSBhbGwgdGhlIGdwIGJvbnVzZXMgZnJvbSBhbGwgdGhlIHJvb21zIGluIGVhY2ggb2YgeW91ciBidWlsZGluZ3MgYW5kIHRha2UgMTAgb24gdGhlIHJvbGwuIE90aGVyIHRpbWVzLCB5b3UgbWlnaHQgd2FudCB0byBnZW5lcmF0ZSBvdGhlciB0eXBlcyBvZiBjYXBpdGFsIHRvIGNvbnN0cnVjdCBuZXcgcm9vbXMsIHJlY3J1aXQgbmV3IHRlYW1zLCBhbmQgbWFrZSB1cGdyYWRlcy48YnIgLz48YnIgLz4gSWYgeW91IGhhdmUgbXVsdGlwbGUgYnVpbGRpbmdzIG9yIG9yZ2FuaXphdGlvbnMgaW4gYSBzZXR0bGVtZW50IGFuZCB0aGV5IGNhbiBnZW5lcmF0ZSB0aGUgc2FtZSBraW5kIG9mIGNhcGl0YWwsIHlvdSBkb27igJl0IGhhdmUgdG8gcm9sbCBmb3IgdGhlbSBzZXBhcmF0ZWx54oCUIHlvdSBtYXkgYWRkIGFsbCB0aGVpciBjYXBpdGFsIG1vZGlmaWVycyB0b2dldGhlciBhbmQgYXR0ZW1wdCBvbmUgY2hlY2sgZm9yIHRoYXQga2luZCBvZiBjYXBpdGFsLiBJZiB5b3Ugc3BlbmQgYSBkb3dudGltZSBkYXkgZWFybmluZyBjYXBpdGFsIG9uIHlvdXIgb3duLCB5b3UgbWF5IGFkZCB5b3VyIGJ1aWxkaW5nIGFuZCBvcmdhbml6YXRpb24gYm9udXNlcyB0byB5b3VyIHJvbGwgaW5zdGVhZCBvZiByb2xsaW5nIHNlcGFyYXRlbHkgZm9yIHlvdXJzZWxmIGFuZCBlYWNoIG9mIHlvdXIgYnVzaW5lc3NlcyBvciBvcmdhbml6YXRpb25zLjxiciAvPjxiciAvPiBGb3IgYSByb29tLCB0aGUgRWFybmluZ3MgYW1vdW50IGFscmVhZHkgc3VidHJhY3RzIHRoZSBjb3N0IG9mIGhhdmluZyB1bnNraWxsZWQgZW1wbG95ZWVzIHRvIGRvIHRoZSBiYXNpYyB3b3JrIGZvciB5b3UuIEZvciBleGFtcGxlLCB0aGUgRWFybmluZ3MgbGlzdGVkIGZvciBoYXZpbmcgYSBCYXIgYWxyZWFkeSBhY2NvdW50IGZvciB0aGUgd2FnZXMgb2YgYSBiYXJ0ZW5kZXIgYW5kIHNlcnZlcnMuIEZvciBhIHRlYW0sIHRoZSBFYXJuaW5ncyBhbW91bnQgYXNzdW1lcyB0aGV5IGFyZSB3b3JraW5nIGF0IGEgYnVpbGRpbmcgeW91IG93bi4gSWYgeW91IGRvbuKAmXQgcHJvdmlkZSBhIGJ1aWxkaW5nIGZvciB0aGUgdGVhbSB0byB3b3JrIGluIG9yIGZyb20sIGhhbHZlIHRoZSBFYXJuaW5ncyBmb3IgdGhhdCB0ZWFtLjxiciAvPjxiciAvPiBUaGUgZGVzY3JpcHRpb24gc2VjdGlvbiBvZiB0aGUgdW5pdCBzdGF0IGJsb2NrIG1pZ2h0IGxpc3Qgb3RoZXIgYmVuZWZpdHMgdW5yZWxhdGVkIHRvIHRoZSBkb3dudGltZSBzeXN0ZW0uPGJyIC8+PGJyIC8+IDxpPkV4YW1wbGU8L2k+OiBUaGUgSW5uIGV4YW1wbGUgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlJ1bGVzLmFzcHg/TmFtZT1Db25zdHJ1Y3Rpb24gRXhhbXBsZXMmQ2F0ZWdvcnk9Um9vbXMgYW5kIFRlYW1zIj5oZXJlPC9hPiBoYXMgYSBCYXIsIGEgQ29tbW9uIFJvb20sIGEgS2l0Y2hlbiwgYSBMb2RnaW5nLCBhbmQgYSBTdGFsbC4gVGhlIEJhciBnaXZlcyBncCBvciBJbmZsdWVuY2UgKzEwOyB0aGUgQ29tbW9uIFJvb20gZ2l2ZXMgZ3Agb3IgSW5mbHVlbmNlICs3OyB0aGUgS2l0Y2hlbiBnaXZlcyBncCBvciBHb29kcyArNDsgdGhlIExvZGdpbmcgZ2l2ZXMgZ3AgKzEyOyBhbmQgdGhlIFN0YWxsIGdpdmVzIGdwLCBHb29kcywgb3IgTGFib3IgKzguIEFsbCBvZiB0aG9zZSByb29tcyBjYW4gZWFybiBncCwgc28gaWYgeW91IHdhbnQgdG8gZWFybiBncCwganVzdCBhZGQgYWxsIHRoZSByb29tIGJvbnVzZXMgdG9nZXRoZXIgKHRvdGFsICs0MSkgYW5kIG1ha2UgYSBza2lsbGVkIHdvcmsgY2hlY2sgZm9yIHRoZSBJbm4gdG8gc2VlIGhvdyBtdWNoIGdwIHlvdSBlYXJuIChzZWUgcGFnZSA3OCkuIElmIHlvdSB3YW50ZWQgdG8gdXNlIHRoZSBCYXLigJlzIGJvbnVzIHRvIGNvbnRyaWJ1dGUgdG8gZ2VuZXJhdGluZyBJbmZsdWVuY2UgYW5kIHVzZSB0aGUgcmVzdCBvZiB0aGUgcm9vbXPigJkgYm9udXNlcyBvbiBncCwgeW914oCZZCBhdHRlbXB0IG9uZSBza2lsbGVkIHdvcmsgY2hlY2sgZm9yIEluZmx1ZW5jZSB3aXRoIGEgKzEwIG1vZGlmaWVyICh0aGUgQmFy4oCZcyBib251cykgYW5kIGFub3RoZXIgc2tpbGxlZCB3b3JrIGNoZWNrIGZvciBncCB3aXRoIGEgKzMxIG1vZGlmaWVyICh0aGUgdG90YWwgYm9udXNlcyBmcm9tIHRoZSBDb21tb24gUm9vbSwgTG9kZ2luZywgYW5kIFN0YWxsKS48YnIgLz48YnIgLz4gPGI+QmVuZWZpdCAoUm9vbXMgT25seSk8L2I+OiBUaGlzIGVudHJ5IGxpc3RzIHdoYXQgbm9uZG93bnRpbWUgYm9udXNlcyB0aGUgcm9vbSBwcm92aWRlcywgc3VjaCBza2lsbCBib251c2VzIG9yIGNoYW5nZXMgdG8gc2V0dGxlbWVudCBtb2RpZmllcnMgKHN1Y2ggYXMgQ29ycnVwdGlvbiwgQ3JpbWUsIGFuZCBEYW5nZXI7IHNlZSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iUnVsZXMuYXNweD9OYW1lPVNldHRsZW1lbnQlMjBNb2RpZmllcnMmQ2F0ZWdvcnk9U2V0dGxlbWVudHMlMjBpbiUyMFBsYXkiPlNldHRsZW1lbnQgTW9kaWZpZXJzPC9hPikuIElmIGEgcm9vbSBwcm92aWRlcyBhIHNraWxsIGJvbnVzLCB0aGF0IGJvbnVzIGFwcGxpZXMgb25seSB3aGVuIHlvdeKAmXJlIGluIHRoZSBsb2NhdGlvbiBzcGVjaWZpZWQuIEZvciBleGFtcGxlLCBqdXN0IGJlY2F1c2UgeW91IGhhdmUgYSBCYWxscm9vbSBpbiB5b3VyIGNhc3RsZSBkb2VzbuKAmXQgbWVhbiB5b3UgZ2V0IGl0cyBQZXJmb3JtIGJvbnVzIHdoZW4geW914oCZcmUgaW4gYSBkdW5nZW9uLjxiciAvPjxiciAvPiBUaGUgc3RhdCBibG9jayBkb2VzbuKAmXQgbGlzdCBvYnZpb3VzIGJlbmVmaXRzIHRoYXQgYXJlbuKAmXQgcmVsYXRlZCB0byBnYW1lIG1lY2hhbmljcy4gRm9yIGV4YW1wbGUsIGEgQmFyIGFsbG93cyB5b3UgdG8gc2VsbCBkcmlua3MsIGEgS2l0Y2hlbiBhbGxvd3MgeW91IHRvIHNlcnZlIGZvb2QgKGVpdGhlciBmb3IgeW91ciBwZXJzb25hbCBndWVzdHMgb3IgdG8gcGF5aW5nIGN1c3RvbWVycyBpZiB0aGUgYnVpbGRpbmcgaXMgYW4gSW5uKSwgYW5kIGEgTWFnaWNhbCBSZXBvc2l0b3J5IGFsbG93cyB5b3UgdG8gcmVzZWFyY2ggc3BlbGxzLjxiciAvPjxiciAvPiA8Yj5DcmVhdGU8L2I+OiBUaGlzIGVudHJ5IGxpc3RzIGhvdyBtdWNoIEdvb2RzLCBJbmZsdWVuY2UsIExhYm9yLCBhbmQgTWFnaWMgYXJlIHJlcXVpcmVkIHRvIGNvbnN0cnVjdCB0aGUgcm9vbSBvciByZWNydWl0IHRoZSB0ZWFtLiBJdCBhbHNvIGluY2x1ZGVzIGEgZ3AgdmFsdWUgZm9yIHB1cmNoYXNpbmcgYSBjb21wbGV0ZWQgcm9vbSBvZiB0aGF0IHR5cGUgb3IgcmVjcnVpdGluZyBhbiBleGlzdGluZyB0ZWFtIG9mIHRoYXQgdHlwZS48YnIgLz48YnIgLz4gPGI+VGltZTwvYj46IFRoaXMgZW50cnkgaW5kaWNhdGVzIGhvdyBsb25nIGl0IHRha2VzIHRvIGNvbXBsZXRlIHRoZSByb29tIG9yIHJlY3J1aXQgdGhlIHRlYW0uIFlvdSBtYXkgZGl2aWRlIHRoZSBUaW1lIHByaWNlIGZvciBhIHJvb20gYnkgMiwgMywgb3IgNCBieSBzcGVuZGluZyAyLCAzLCBvciA0IHRpbWVzIGl0cyBMYWJvciBwcmljZS4gWW91IG1heSBkaXZpZGUgdGhlIFRpbWUgcHJpY2UgZm9yIGEgdGVhbSBieSAyLCAzLCBvciA0IGJ5IHNwZW5kaW5nIDIsIDMsIG9yIDQgdGltZXMgaXRzIEluZmx1ZW5jZSBwcmljZS4gWW91IG11c3QgYmUgaW4gdGhlIHNldHRsZW1lbnQgYXQgdGhlIHN0YXJ0IG9mIHRoZSBjb25zdHJ1Y3Rpb24gb3IgcmVjcnVpdG1lbnQgcGVyaW9kLCBidXQgZG9u4oCZdCBoYXZlIHRvIHNwZW5kIGFueSBvZiB5b3VyIGRvd250aW1lIGRheXMgdG8gYmVnaW4gY29uc3RydWN0aW9uIG9yIHJlY3J1aXRtZW50LiBJbiBlZmZlY3QsIHlvdSBoYXZlIHRvIGJlIHByZXNlbnQgb25seSB0byBnaXZlIHRoZSBvcmRlciB0byBiZWdpbi48YnIgLz48YnIgLz4gSWYgYSB0ZWFtIGRvZXNu4oCZdCBoYXZlIGEgVGltZSBwcmljZSwgc3BlbmRpbmcgY2FwaXRhbCB0byByZWNydWl0IHRoYXQgdGVhbSBkb2VzbuKAmXQgY291bnQgYXMgYSBkb3dudGltZSBhY3Rpb24uPGJyIC8+PGJyIC8+IE5vdGUgdGhhdCB0aGUgVGltZSBwcmljZXMgZm9yIHRlYW1zIGFyZSBmb3IgcmVjcnVpdGluZyB0aGUgdGVhbSBmb3IgbG9uZy10ZXJtIGVtcGxveW1lbnQgYW5kIGRvbuKAmXQgcmVmbGVjdCB0aGUgYXZhaWxhYmlsaXR5IG9mIHRoZXNlIGtpbmRzIG9mIE5QQ3MgZm9yIHRlbXBvcmFyeSB3b3JrLiBGb3IgZXhhbXBsZSwgaWYgeW91IG5lZWQgdG8gaGlyZSBhIDNyZC1sZXZlbCBjbGVyaWMgdG8gY2FzdCA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9cmVzdG9yYXRpb24sIGxlc3NlciI+PGk+bGVzc2VyIHJlc3RvcmF0aW9uPC9pPjwvYT4sIHlvdSBkb27igJl0IGhhdmUgdG8gc3BlbmQgNyBkYXlzIG9mIGRvd250aW1lIHJlY3J1aXRpbmcgYSBQcmllc3QgdGVhbeKAlHlvdSBjYW4ganVzdCBtYWtlIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJFcXVpcG1lbnRNaXNjRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNwZWxsY2FzdGluZyI+c3RhbmRhcmQgc3BlbGxjYXN0aW5nIGFycmFuZ2VtZW50cyBhcyBkZXNjcmliZWQgaGVyZTwvYT4uPGJyIC8+PGJyIC8+IDxiPlNpemU8L2I+OiBJZiB0aGUgdW5pdCBpcyBhIHJvb20sIHRoaXMgZW50cnkgaW5kaWNhdGVzIGEgcmFuZ2Ugb2YgaG93IG1hbnkgNS1mb290IHNxdWFyZXMgYXJlIG5lZWRlZCBmb3IgYSBzdGFuZGFyZCByb29tIG9mIGl0cyB0eXBlLiBGb3IgZXhhbXBsZSwgYSBLaXRjaGVuIGlzIDLigJM2IDUtZm9vdCBzcXVhcmVzLiBJZiB5b3UgbmVlZCBhIGxhcmdlciByb29tIG9mIHRoaXMgdHlwZSwgY29uc3RydWN0IHR3byByb29tcyBhbmQgam9pbiB0aGVtLiBJZiB5b3UgbmVlZCBhIHNtYWxsZXIgcm9vbSBvZiB0aGlzIHNpemUsIHlvdSBjYW4gbWFrZSBpdCB0aGF0IHNtYWxsZXIgc2l6ZSBmb3IgZnJlZS4gRm9yIGV4YW1wbGUsIGlmIHlvdSBvbmx5IG5lZWQgYSA1LWZvb3Qtc3F1YXJlIEtpdGNoZW4sIHlvdSBjYW4gY29uc3RydWN0IG9uZSBhdCB0aGUgbGlzdGVkIHByaWNlLCBldmVuIHRob3VnaCB0aGUgc21hbGxlc3Qgc2l6ZSBsaXN0ZWQgaXMgMiA1LWZvb3Qgc3F1YXJlcy48YnIgLz48YnIgLz4gSWYgdGhlIHVuaXQgaXMgYSB0ZWFtLCB0aGlzIGVudHJ5IGluZGljYXRlcyBob3cgbWFueSBwZW9wbGUgYXJlIG5lZWRlZCBmb3IgYSBzdGFuZGFyZCB0ZWFtIG9mIGl0cyB0eXBlLiBUeXBpY2FsbHkgdGhlIHRlYW0gaXMgbm8gc21hbGxlciB0aGFuIDUwJSBvZiB0aGlzIGFtb3VudCBhbmQgbm8gbGFyZ2VyIHRoYW4gMTUwJSBvZiB0aGlzIGFtb3VudC4gSWYgeW91IG5lZWQgYSBsYXJnZXIgdGVhbSBvZiB0aGlzIHNpemUsIHJlY3J1aXQgdHdvIHRlYW1zIGFuZCBjb21iaW5lIHRoZW0uPGJyIC8+PGJyIC8+IDxiPlVwZ3JhZGU8L2I+OiBTb21lIHJvb21zIGFuZCB0ZWFtcyBhcmUgdmFyaWFudHMgb2Ygb3IgaW1wcm92ZW1lbnRzIG9uIG90aGVycy4gWW91IGNhbiBjaGFuZ2UgdGhlIHJvb20gb3IgdGVhbSBpbnRvIHRoZSBsaXN0ZWQgdXBncmFkZSBieSBzcGVuZGluZyB0aGUgZGlmZmVyZW5jZSBpbiBib3RoIGNhcGl0YWwgYW5kIHRpbWUgYmV0d2VlbiB0aGUgb3JpZ2luYWwgYW5kIHRoZSBuZXcgb25lLiBGb3IgZXhhbXBsZSwgaWYgeW91ciBidWlsZGluZyBpbmNsdWRlcyBhIEJvb2sgUmVwb3NpdG9yeSBhbmQgeW91IHdhbnQgdG8gdXBncmFkZSBpdCB0byBhIE1hZ2ljYWwgUmVwb3NpdG9yeSwgeW91IGNhbiBlaXRoZXIgc3BlbmQgMSBwb2ludCBvZiBHb29kcywgMSBwb2ludCBvZiBJbmZsdWVuY2UsIDEgcG9pbnQgb2YgTGFib3IsIGFuZCAyIHBvaW50cyBvZiBNYWdpYywgb3Igc3BlbmQgMjcwIGdwICh0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIHRoZSBDcmVhdGUgZW50cnkgZm9yIGEgQm9vayBSZXBvc2l0b3J5IGFuZCBhIE1hZ2ljYWwgUmVwb3NpdG9yeSkuIFlvdSBtdXN0IGFsc28gc3BlbmQgNCBkYXlzICh0aGUgVGltZSBkaWZmZXJlbmNlIGJldHdlZW4gYSBCb29rIFJlcG9zaXRvcnkgYW5kIGEgTWFnaWNhbCBSZXBvc2l0b3J5KS48YnIgLz48YnIgLz4gUGF5IHRoZSBwcmljZSBvbmx5IGZvciB0eXBlcyBvZiBjYXBpdGFsIHRoYXQgaW5jcmVhc2UuIEZvciBleGFtcGxlLCBpZiB5b3UgYXJlIGNvbnZlcnRpbmcgQnVua3MgaW50byBMb2RnaW5nLCB5b3Ugc3BlbmQgMyBwb2ludHMgb2YgR29vZHMsIDMgcG9pbnRzIG9mIExhYm9yLCBhbmQgNiBkYXlzOyBldmVuIHRob3VnaCBhIExvZGdpbmcgY29zdHMgbGVzcyBJbmZsdWVuY2UsIHlvdSBkb27igJl0IHJlZ2FpbiBhbnkgSW5mbHVlbmNlIGZvciBwZXJmb3JtaW5nIHRoaXMgdXBncmFkZS48YnIgLz48YnIgLz4gWW91IGNhbuKAmXQgZG93bmdyYWRlIGEgcm9vbSBvciB0ZWFtLiBXaXRoIHRoZSBHTeKAmXMgcGVybWlzc2lvbiwgeW91IG1heSByZXB1cnBvc2UgYW55IHJvb20gb3IgdGVhbSBpbnRvIGFub3RoZXIgcm9vbSBvciB0ZWFtIGFzIGlmIHRoZSBjaGFuZ2Ugd2VyZSBhbiB1cGdyYWRlLiA8Yj5EZXNjcmlwdGlvbjwvYj46IEEgZGVzY3JpcHRpb24gb2YgdGhlIHVuaXQgZm9sbG93cyB0aGUgc3RhdGlzdGljcywgYWxvbmcgd2l0aCBtb3JlIGRldGFpbCBhYm91dCB0aGUgYmVuZWZpdHMgb2YgaGF2aW5nIHRoZSB1bml0LmRkZMu4+jDpeUIAT+QDNtH69r0lz5NoTnufMxOJQNGZO9Di" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1286">Construction Examples</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=1287">Reading a Unit Statblock</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 92</i></a><br />The unit stat blocks are essentially the same for rooms and teams, and are organized as follows. Where an entry in a stat block would have no value (for example, a room that can’t be upgraded from or into something else), that entry is omitted from the stat block.<br /><br /> <b>Earnings</b>: This entry indicates what bonuses the room or team gives to its building’s or organization’s checks made to generate capital. Buildings and organizations act like characters in that they can attempt a check each day to earn capital performing skilled work (without costing you any downtime). <a style="text-decoration:underline" href="Rules.aspx?Name=Gaining Capital&Category=Downtime Overview">You must pay for capital earned in this way as normal</a>.<br /><br /> If the room or team’s Earnings entry says “capital” and a number, it can contribute a bonus on the building’s or organization’s skilled work check for any type of capital (gp, Goods, Influence, Labor, or Magic). If the Earnings entry lists specific types of capital, it can contribute a bonus on its building’s or organization’s skilled work checks only for capital of those types. You can apply each room’s or team’s bonus to any one listed type or capital each day or divide it among multiple listed types of capital. For example, an Alchemy Lab can generate only gp, Goods, or Magic, and not Influence or Labor. One day you could use all +10 of its bonus on the building’s capital check to generate gp, on the next day you could use +5 on a check for generating gp and +5 on a check for generating Goods, and so on.<br /><br /> Most of the time, it’s simplest and quickest to just apply all the gp bonuses from all the rooms in each of your buildings and take 10 on the roll. Other times, you might want to generate other types of capital to construct new rooms, recruit new teams, and make upgrades.<br /><br /> If you have multiple buildings or organizations in a settlement and they can generate the same kind of capital, you don’t have to roll for them separately— you may add all their capital modifiers together and attempt one check for that kind of capital. If you spend a downtime day earning capital on your own, you may add your building and organization bonuses to your roll instead of rolling separately for yourself and each of your businesses or organizations.<br /><br /> For a room, the Earnings amount already subtracts the cost of having unskilled employees to do the basic work for you. For example, the Earnings listed for having a Bar already account for the wages of a bartender and servers. For a team, the Earnings amount assumes they are working at a building you own. If you don’t provide a building for the team to work in or from, halve the Earnings for that team.<br /><br /> The description section of the unit stat block might list other benefits unrelated to the downtime system.<br /><br /> <i>Example</i>: The Inn example <a style="text-decoration:underline" href="Rules.aspx?Name=Construction Examples&Category=Rooms and Teams">here</a> has a Bar, a Common Room, a Kitchen, a Lodging, and a Stall. The Bar gives gp or Influence +10; the Common Room gives gp or Influence +7; the Kitchen gives gp or Goods +4; the Lodging gives gp +12; and the Stall gives gp, Goods, or Labor +8. All of those rooms can earn gp, so if you want to earn gp, just add all the room bonuses together (total +41) and make a skilled work check for the Inn to see how much gp you earn (see page 78). If you wanted to use the Bar’s bonus to contribute to generating Influence and use the rest of the rooms’ bonuses on gp, you’d attempt one skilled work check for Influence with a +10 modifier (the Bar’s bonus) and another skilled work check for gp with a +31 modifier (the total bonuses from the Common Room, Lodging, and Stall).<br /><br /> <b>Benefit (Rooms Only)</b>: This entry lists what nondowntime bonuses the room provides, such skill bonuses or changes to settlement modifiers (such as Corruption, Crime, and Danger; see <a style="text-decoration:underline" href="Rules.aspx?Name=Settlement%20Modifiers&Category=Settlements%20in%20Play">Settlement Modifiers</a>). If a room provides a skill bonus, that bonus applies only when you’re in the location specified. For example, just because you have a Ballroom in your castle doesn’t mean you get its Perform bonus when you’re in a dungeon.<br /><br /> The stat block doesn’t list obvious benefits that aren’t related to game mechanics. For example, a Bar allows you to sell drinks, a Kitchen allows you to serve food (either for your personal guests or to paying customers if the building is an Inn), and a Magical Repository allows you to research spells.<br /><br /> <b>Create</b>: This entry lists how much Goods, Influence, Labor, and Magic are required to construct the room or recruit the team. It also includes a gp value for purchasing a completed room of that type or recruiting an existing team of that type.<br /><br /> <b>Time</b>: This entry indicates how long it takes to complete the room or recruit the team. You may divide the Time price for a room by 2, 3, or 4 by spending 2, 3, or 4 times its Labor price. You may divide the Time price for a team by 2, 3, or 4 by spending 2, 3, or 4 times its Influence price. You must be in the settlement at the start of the construction or recruitment period, but don’t have to spend any of your downtime days to begin construction or recruitment. In effect, you have to be present only to give the order to begin.<br /><br /> If a team doesn’t have a Time price, spending capital to recruit that team doesn’t count as a downtime action.<br /><br /> Note that the Time prices for teams are for recruiting the team for long-term employment and don’t reflect the availability of these kinds of NPCs for temporary work. For example, if you need to hire a 3rd-level cleric to cast <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=restoration, lesser"><i>lesser restoration</i></a>, you don’t have to spend 7 days of downtime recruiting a Priest team—you can just make <a style="text-decoration:underline" href="EquipmentMiscDisplay.aspx?ItemName=Spellcasting">standard spellcasting arrangements as described here</a>.<br /><br /> <b>Size</b>: If the unit is a room, this entry indicates a range of how many 5-foot squares are needed for a standard room of its type. For example, a Kitchen is 2–6 5-foot squares. If you need a larger room of this type, construct two rooms and join them. If you need a smaller room of this size, you can make it that smaller size for free. For example, if you only need a 5-foot-square Kitchen, you can construct one at the listed price, even though the smallest size listed is 2 5-foot squares.<br /><br /> If the unit is a team, this entry indicates how many people are needed for a standard team of its type. Typically the team is no smaller than 50% of this amount and no larger than 150% of this amount. If you need a larger team of this size, recruit two teams and combine them.<br /><br /> <b>Upgrade</b>: Some rooms and teams are variants of or improvements on others. You can change the room or team into the listed upgrade by spending the difference in both capital and time between the original and the new one. For example, if your building includes a Book Repository and you want to upgrade it to a Magical Repository, you can either spend 1 point of Goods, 1 point of Influence, 1 point of Labor, and 2 points of Magic, or spend 270 gp (the difference between the Create entry for a Book Repository and a Magical Repository). You must also spend 4 days (the Time difference between a Book Repository and a Magical Repository).<br /><br /> Pay the price only for types of capital that increase. For example, if you are converting Bunks into Lodging, you spend 3 points of Goods, 3 points of Labor, and 6 days; even though a Lodging costs less Influence, you don’t regain any Influence for performing this upgrade.<br /><br /> You can’t downgrade a room or team. With the GM’s permission, you may repurpose any room or team into another room or team as if the change were an upgrade. <b>Description</b>: A description of the unit follows the statistics, along with more detail about the benefits of having the unit.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

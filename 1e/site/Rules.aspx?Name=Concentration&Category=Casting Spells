@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Concentration - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Concentration" /><meta name="description" content="To cast a spell, you must concentrate. If something interrupts your concentration while you’re casting, you must make a concentration check or lose the spell. When you make a concentration check, you roll d20 and add your caster level and the ability score modifier used to determine bonus spells of the same type. Clerics, druids, and rangers add their Wisdom modifier. Bards, paladins, and sorcerers add their Charisma modifier. Finally, wizards add their Intelligence modifier. The more distracting the interruption and the higher the level of the spell you are trying to cast, the higher the DC (see Table 9–1). If you fail the check, you lose the spell just as if you had cast it to no effect.&lt;br />&lt;br /> &lt;b>Injury&lt;/b>: If you take damage while trying to cast a spell, you must make a concentration check with a DC equal to 10 + the damage taken + the level of the spell you’re casting. If you fail the check, you lose the spell without effect. The interrupting event strikes during spellcasting if it comes between the time you started and the time you complete a spell (for a spell with a casting time of 1 full round or more) or if it comes in response to your casting the spell (such as an attack of opportunity provoked by the spell or a contingent attack, such as a readied action).&lt;br />&lt;br /> If you are taking continuous damage, such as from an &lt;i>acid arrow&lt;/i> or by standing in a lake of lava, half the damage is considered to take place while you are casting a spell. You must make a concentration check with a DC equal to 10 + 1/2 the damage that the continuous source last dealt + the level of the spell you’re casting. If the last damage dealt was the last damage that the effect could deal, then the damage is over and does not distract you.&lt;br />&lt;br /> &lt;b>Spell&lt;/b>: If you are affected by a spell while attempting to cast a spell of your own, you must make a concentration check or lose the spell you are casting. If the spell affecting you deals damage, the DC is 10 + the damage taken + the level of the spell you’re casting.&lt;br />&lt;br /> If the spell interferes with you or distracts you in some other way, the DC is the spell’s saving throw DC + the level of the spell you’re casting. For a spell with no saving throw, it’s the DC that the spell’s saving throw would have if a save were allowed (10 + spell level + caster’s ability score). &lt;br />&lt;br />&lt;b>Grappled or Pinned&lt;/b>: Casting a spell while you have the grappled or pinned condition is difficult and requires a concentration check (DC 10 + the grappler’s CMB + the level of the spell you’re casting). Pinned creatures can only cast spells that do not have somatic components.&lt;br />&lt;br /> &lt;b>Vigorous Motion&lt;/b>: If you are riding on a moving mount, taking a bouncy ride in a wagon, on a small boat in rough water, belowdecks in a storm-tossed ship, or simply being jostled in a similar fashion, you must make a concentration check (DC 10 + the level of the spell you’re casting) or lose the spell.&lt;br />&lt;br /> &lt;b>Violent Motion&lt;/b>: If you are on a galloping horse, taking a very rough ride in a wagon, on a small boat in rapids or in a storm, on deck in a storm-tossed ship, or being pitched roughly about in a similar fashion, you must make a concentration check (DC 15 + the level of the spell you’re casting) or lose the spell. If the motion is extremely violent, such as that caused by an earthquake, the DC is equal to 20 + the level of the spell you’re casting. &lt;br />&lt;br />&lt;b>Violent Weather&lt;/b>: You must make a concentration check if you try to cast a spell in violent weather. If you are in a high wind carrying blinding rain or sleet, the DC is 5 + the level of the spell you’re casting. If you are in wind-driven hail, dust, or debris, the DC is 10 + the level of the spell you’re casting. In either case, you lose the spell if you fail the concentration check. If the weather is caused by a spell, use the rules as described in the spell’s description.&lt;br />&lt;br /> &lt;b>Casting Defensively&lt;/b>: If you want to cast a spell without provoking any attacks of opportunity, you must make a concentration check (DC 15 + double the level of the spell you’re casting) to succeed. You lose the spell if you fail.&lt;br />&lt;br /> &lt;b>Entangled&lt;/b>: If you want to cast a spell while entangled in a net or by a tanglefoot bag or while you’re affected by a spell with similar effects, you must make a concentration check to cast the spell (DC 15 + the level of the spell you’re casting). You lose the spell if you fail.&lt;h2>Table 9-1: Concentration Check DCs&lt;/h2>&lt;table class=&quot;inner&quot;>&lt;tr>&lt;td>&lt;b>Situation&lt;/b>&lt;/td>&lt;td>&lt;b>Concentration Check DC&lt;/b>&lt;/td>&lt;/tr>&lt;tr>&lt;td>Cast defensively&lt;/td>&lt;td>15 + double spell level&lt;/td>&lt;/tr>&lt;tr>&lt;td>Injured while casting&lt;/td>&lt;td>10 + damage dealt + spell level&lt;/td>&lt;/tr>&lt;tr>&lt;td>Continuous damage while casting&lt;/td>&lt;td>10 + 1/2 damage dealt + spell level&lt;/td>&lt;/tr>&lt;tr>&lt;td>Affected by a non-damaging spell while casting&lt;/td>&lt;td>DC of the spell + spell level&lt;/td>&lt;/tr>&lt;tr>&lt;td>Grappled or pinned while casting&lt;/td>&lt;td>10 + grappler&#39;s CMB +  spell level&lt;/td>&lt;/tr>&lt;tr>&lt;td>Vigorous motion while casting&lt;/td>&lt;td>10 + spell level&lt;/td>&lt;/tr>&lt;tr>&lt;td>Violent motion while casting&lt;/td>&lt;td>15 + spell level&lt;/td>&lt;/tr>&lt;tr>&lt;td>Extremely violent motion while casting&lt;/td>&lt;td>20 + spell level&lt;/td>&lt;/tr>&lt;tr>&lt;td>Wind with rain or sleet while casting&lt;/td>&lt;td>5 + spell level&lt;/td>&lt;/tr>&lt;tr>&lt;td>Wind with hail and debris while casting&lt;/td>&lt;td>10 + spell level&lt;/td>&lt;/tr>&lt;tr>&lt;td>Weather caused by spell&lt;/td>&lt;td>see spell&lt;/td>&lt;/tr>&lt;tr>&lt;td>Entangled while casting&lt;/td>&lt;td>15  + spell level&lt;/td>&lt;/tr>&lt;/table> " /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=205" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXELjx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NjgiPk1hZ2ljPC9hPjwvdT4gLyA8dT48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTIwMyI+Q2FzdGluZyBTcGVsbHM8L2E+PC91PjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjA1Ij5Db25jZW50cmF0aW9uPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5ODh5aiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QUlBHIENvcmUgUnVsZWJvb2sgcGcuIDIwNjwvaT48L2E+PGJyIC8+VG8gY2FzdCBhIHNwZWxsLCB5b3UgbXVzdCBjb25jZW50cmF0ZS4gSWYgc29tZXRoaW5nIGludGVycnVwdHMgeW91ciBjb25jZW50cmF0aW9uIHdoaWxlIHlvdeKAmXJlIGNhc3RpbmcsIHlvdSBtdXN0IG1ha2UgYSBjb25jZW50cmF0aW9uIGNoZWNrIG9yIGxvc2UgdGhlIHNwZWxsLiBXaGVuIHlvdSBtYWtlIGEgY29uY2VudHJhdGlvbiBjaGVjaywgeW91IHJvbGwgZDIwIGFuZCBhZGQgeW91ciBjYXN0ZXIgbGV2ZWwgYW5kIHRoZSBhYmlsaXR5IHNjb3JlIG1vZGlmaWVyIHVzZWQgdG8gZGV0ZXJtaW5lIGJvbnVzIHNwZWxscyBvZiB0aGUgc2FtZSB0eXBlLiBDbGVyaWNzLCBkcnVpZHMsIGFuZCByYW5nZXJzIGFkZCB0aGVpciBXaXNkb20gbW9kaWZpZXIuIEJhcmRzLCBwYWxhZGlucywgYW5kIHNvcmNlcmVycyBhZGQgdGhlaXIgQ2hhcmlzbWEgbW9kaWZpZXIuIEZpbmFsbHksIHdpemFyZHMgYWRkIHRoZWlyIEludGVsbGlnZW5jZSBtb2RpZmllci4gVGhlIG1vcmUgZGlzdHJhY3RpbmcgdGhlIGludGVycnVwdGlvbiBhbmQgdGhlIGhpZ2hlciB0aGUgbGV2ZWwgb2YgdGhlIHNwZWxsIHlvdSBhcmUgdHJ5aW5nIHRvIGNhc3QsIHRoZSBoaWdoZXIgdGhlIERDIChzZWUgVGFibGUgOeKAkzEpLiBJZiB5b3UgZmFpbCB0aGUgY2hlY2ssIHlvdSBsb3NlIHRoZSBzcGVsbCBqdXN0IGFzIGlmIHlvdSBoYWQgY2FzdCBpdCB0byBubyBlZmZlY3QuPGJyIC8+PGJyIC8+IDxiPkluanVyeTwvYj46IElmIHlvdSB0YWtlIGRhbWFnZSB3aGlsZSB0cnlpbmcgdG8gY2FzdCBhIHNwZWxsLCB5b3UgbXVzdCBtYWtlIGEgY29uY2VudHJhdGlvbiBjaGVjayB3aXRoIGEgREMgZXF1YWwgdG8gMTAgKyB0aGUgZGFtYWdlIHRha2VuICsgdGhlIGxldmVsIG9mIHRoZSBzcGVsbCB5b3XigJlyZSBjYXN0aW5nLiBJZiB5b3UgZmFpbCB0aGUgY2hlY2ssIHlvdSBsb3NlIHRoZSBzcGVsbCB3aXRob3V0IGVmZmVjdC4gVGhlIGludGVycnVwdGluZyBldmVudCBzdHJpa2VzIGR1cmluZyBzcGVsbGNhc3RpbmcgaWYgaXQgY29tZXMgYmV0d2VlbiB0aGUgdGltZSB5b3Ugc3RhcnRlZCBhbmQgdGhlIHRpbWUgeW91IGNvbXBsZXRlIGEgc3BlbGwgKGZvciBhIHNwZWxsIHdpdGggYSBjYXN0aW5nIHRpbWUgb2YgMSBmdWxsIHJvdW5kIG9yIG1vcmUpIG9yIGlmIGl0IGNvbWVzIGluIHJlc3BvbnNlIHRvIHlvdXIgY2FzdGluZyB0aGUgc3BlbGwgKHN1Y2ggYXMgYW4gYXR0YWNrIG9mIG9wcG9ydHVuaXR5IHByb3Zva2VkIGJ5IHRoZSBzcGVsbCBvciBhIGNvbnRpbmdlbnQgYXR0YWNrLCBzdWNoIGFzIGEgcmVhZGllZCBhY3Rpb24pLjxiciAvPjxiciAvPiBJZiB5b3UgYXJlIHRha2luZyBjb250aW51b3VzIGRhbWFnZSwgc3VjaCBhcyBmcm9tIGFuIDxpPmFjaWQgYXJyb3c8L2k+IG9yIGJ5IHN0YW5kaW5nIGluIGEgbGFrZSBvZiBsYXZhLCBoYWxmIHRoZSBkYW1hZ2UgaXMgY29uc2lkZXJlZCB0byB0YWtlIHBsYWNlIHdoaWxlIHlvdSBhcmUgY2FzdGluZyBhIHNwZWxsLiBZb3UgbXVzdCBtYWtlIGEgY29uY2VudHJhdGlvbiBjaGVjayB3aXRoIGEgREMgZXF1YWwgdG8gMTAgKyAxLzIgdGhlIGRhbWFnZSB0aGF0IHRoZSBjb250aW51b3VzIHNvdXJjZSBsYXN0IGRlYWx0ICsgdGhlIGxldmVsIG9mIHRoZSBzcGVsbCB5b3XigJlyZSBjYXN0aW5nLiBJZiB0aGUgbGFzdCBkYW1hZ2UgZGVhbHQgd2FzIHRoZSBsYXN0IGRhbWFnZSB0aGF0IHRoZSBlZmZlY3QgY291bGQgZGVhbCwgdGhlbiB0aGUgZGFtYWdlIGlzIG92ZXIgYW5kIGRvZXMgbm90IGRpc3RyYWN0IHlvdS48YnIgLz48YnIgLz4gPGI+U3BlbGw8L2I+OiBJZiB5b3UgYXJlIGFmZmVjdGVkIGJ5IGEgc3BlbGwgd2hpbGUgYXR0ZW1wdGluZyB0byBjYXN0IGEgc3BlbGwgb2YgeW91ciBvd24sIHlvdSBtdXN0IG1ha2UgYSBjb25jZW50cmF0aW9uIGNoZWNrIG9yIGxvc2UgdGhlIHNwZWxsIHlvdSBhcmUgY2FzdGluZy4gSWYgdGhlIHNwZWxsIGFmZmVjdGluZyB5b3UgZGVhbHMgZGFtYWdlLCB0aGUgREMgaXMgMTAgKyB0aGUgZGFtYWdlIHRha2VuICsgdGhlIGxldmVsIG9mIHRoZSBzcGVsbCB5b3XigJlyZSBjYXN0aW5nLjxiciAvPjxiciAvPiBJZiB0aGUgc3BlbGwgaW50ZXJmZXJlcyB3aXRoIHlvdSBvciBkaXN0cmFjdHMgeW91IGluIHNvbWUgb3RoZXIgd2F5LCB0aGUgREMgaXMgdGhlIHNwZWxs4oCZcyBzYXZpbmcgdGhyb3cgREMgKyB0aGUgbGV2ZWwgb2YgdGhlIHNwZWxsIHlvdeKAmXJlIGNhc3RpbmcuIEZvciBhIHNwZWxsIHdpdGggbm8gc2F2aW5nIHRocm93LCBpdOKAmXMgdGhlIERDIHRoYXQgdGhlIHNwZWxs4oCZcyBzYXZpbmcgdGhyb3cgd291bGQgaGF2ZSBpZiBhIHNhdmUgd2VyZSBhbGxvd2VkICgxMCArIHNwZWxsIGxldmVsICsgY2FzdGVy4oCZcyBhYmlsaXR5IHNjb3JlKS4gPGJyIC8+PGJyIC8+PGI+R3JhcHBsZWQgb3IgUGlubmVkPC9iPjogQ2FzdGluZyBhIHNwZWxsIHdoaWxlIHlvdSBoYXZlIHRoZSBncmFwcGxlZCBvciBwaW5uZWQgY29uZGl0aW9uIGlzIGRpZmZpY3VsdCBhbmQgcmVxdWlyZXMgYSBjb25jZW50cmF0aW9uIGNoZWNrIChEQyAxMCArIHRoZSBncmFwcGxlcuKAmXMgQ01CICsgdGhlIGxldmVsIG9mIHRoZSBzcGVsbCB5b3XigJlyZSBjYXN0aW5nKS4gUGlubmVkIGNyZWF0dXJlcyBjYW4gb25seSBjYXN0IHNwZWxscyB0aGF0IGRvIG5vdCBoYXZlIHNvbWF0aWMgY29tcG9uZW50cy48YnIgLz48YnIgLz4gPGI+Vmlnb3JvdXMgTW90aW9uPC9iPjogSWYgeW91IGFyZSByaWRpbmcgb24gYSBtb3ZpbmcgbW91bnQsIHRha2luZyBhIGJvdW5jeSByaWRlIGluIGEgd2Fnb24sIG9uIGEgc21hbGwgYm9hdCBpbiByb3VnaCB3YXRlciwgYmVsb3dkZWNrcyBpbiBhIHN0b3JtLXRvc3NlZCBzaGlwLCBvciBzaW1wbHkgYmVpbmcgam9zdGxlZCBpbiBhIHNpbWlsYXIgZmFzaGlvbiwgeW91IG11c3QgbWFrZSBhIGNvbmNlbnRyYXRpb24gY2hlY2sgKERDIDEwICsgdGhlIGxldmVsIG9mIHRoZSBzcGVsbCB5b3XigJlyZSBjYXN0aW5nKSBvciBsb3NlIHRoZSBzcGVsbC48YnIgLz48YnIgLz4gPGI+VmlvbGVudCBNb3Rpb248L2I+OiBJZiB5b3UgYXJlIG9uIGEgZ2FsbG9waW5nIGhvcnNlLCB0YWtpbmcgYSB2ZXJ5IHJvdWdoIHJpZGUgaW4gYSB3YWdvbiwgb24gYSBzbWFsbCBib2F0IGluIHJhcGlkcyBvciBpbiBhIHN0b3JtLCBvbiBkZWNrIGluIGEgc3Rvcm0tdG9zc2VkIHNoaXAsIG9yIGJlaW5nIHBpdGNoZWQgcm91Z2hseSBhYm91dCBpbiBhIHNpbWlsYXIgZmFzaGlvbiwgeW91IG11c3QgbWFrZSBhIGNvbmNlbnRyYXRpb24gY2hlY2sgKERDIDE1ICsgdGhlIGxldmVsIG9mIHRoZSBzcGVsbCB5b3XigJlyZSBjYXN0aW5nKSBvciBsb3NlIHRoZSBzcGVsbC4gSWYgdGhlIG1vdGlvbiBpcyBleHRyZW1lbHkgdmlvbGVudCwgc3VjaCBhcyB0aGF0IGNhdXNlZCBieSBhbiBlYXJ0aHF1YWtlLCB0aGUgREMgaXMgZXF1YWwgdG8gMjAgKyB0aGUgbGV2ZWwgb2YgdGhlIHNwZWxsIHlvdeKAmXJlIGNhc3RpbmcuIDxiciAvPjxiciAvPjxiPlZpb2xlbnQgV2VhdGhlcjwvYj46IFlvdSBtdXN0IG1ha2UgYSBjb25jZW50cmF0aW9uIGNoZWNrIGlmIHlvdSB0cnkgdG8gY2FzdCBhIHNwZWxsIGluIHZpb2xlbnQgd2VhdGhlci4gSWYgeW91IGFyZSBpbiBhIGhpZ2ggd2luZCBjYXJyeWluZyBibGluZGluZyByYWluIG9yIHNsZWV0LCB0aGUgREMgaXMgNSArIHRoZSBsZXZlbCBvZiB0aGUgc3BlbGwgeW914oCZcmUgY2FzdGluZy4gSWYgeW91IGFyZSBpbiB3aW5kLWRyaXZlbiBoYWlsLCBkdXN0LCBvciBkZWJyaXMsIHRoZSBEQyBpcyAxMCArIHRoZSBsZXZlbCBvZiB0aGUgc3BlbGwgeW914oCZcmUgY2FzdGluZy4gSW4gZWl0aGVyIGNhc2UsIHlvdSBsb3NlIHRoZSBzcGVsbCBpZiB5b3UgZmFpbCB0aGUgY29uY2VudHJhdGlvbiBjaGVjay4gSWYgdGhlIHdlYXRoZXIgaXMgY2F1c2VkIGJ5IGEgc3BlbGwsIHVzZSB0aGUgcnVsZXMgYXMgZGVzY3JpYmVkIGluIHRoZSBzcGVsbOKAmXMgZGVzY3JpcHRpb24uPGJyIC8+PGJyIC8+IDxiPkNhc3RpbmcgRGVmZW5zaXZlbHk8L2I+OiBJZiB5b3Ugd2FudCB0byBjYXN0IGEgc3BlbGwgd2l0aG91dCBwcm92b2tpbmcgYW55IGF0dGFja3Mgb2Ygb3Bwb3J0dW5pdHksIHlvdSBtdXN0IG1ha2UgYSBjb25jZW50cmF0aW9uIGNoZWNrIChEQyAxNSArIGRvdWJsZSB0aGUgbGV2ZWwgb2YgdGhlIHNwZWxsIHlvdeKAmXJlIGNhc3RpbmcpIHRvIHN1Y2NlZWQuIFlvdSBsb3NlIHRoZSBzcGVsbCBpZiB5b3UgZmFpbC48YnIgLz48YnIgLz4gPGI+RW50YW5nbGVkPC9iPjogSWYgeW91IHdhbnQgdG8gY2FzdCBhIHNwZWxsIHdoaWxlIGVudGFuZ2xlZCBpbiBhIG5ldCBvciBieSBhIHRhbmdsZWZvb3QgYmFnIG9yIHdoaWxlIHlvdeKAmXJlIGFmZmVjdGVkIGJ5IGEgc3BlbGwgd2l0aCBzaW1pbGFyIGVmZmVjdHMsIHlvdSBtdXN0IG1ha2UgYSBjb25jZW50cmF0aW9uIGNoZWNrIHRvIGNhc3QgdGhlIHNwZWxsIChEQyAxNSArIHRoZSBsZXZlbCBvZiB0aGUgc3BlbGwgeW914oCZcmUgY2FzdGluZykuIFlvdSBsb3NlIHRoZSBzcGVsbCBpZiB5b3UgZmFpbC48aDI+VGFibGUgOS0xOiBDb25jZW50cmF0aW9uIENoZWNrIERDczwvaDI+PHRhYmxlIGNsYXNzPSJpbm5lciI+PHRyPjx0ZD48Yj5TaXR1YXRpb248L2I+PC90ZD48dGQ+PGI+Q29uY2VudHJhdGlvbiBDaGVjayBEQzwvYj48L3RkPjwvdHI+PHRyPjx0ZD5DYXN0IGRlZmVuc2l2ZWx5PC90ZD48dGQ+MTUgKyBkb3VibGUgc3BlbGwgbGV2ZWw8L3RkPjwvdHI+PHRyPjx0ZD5Jbmp1cmVkIHdoaWxlIGNhc3Rpbmc8L3RkPjx0ZD4xMCArIGRhbWFnZSBkZWFsdCArIHNwZWxsIGxldmVsPC90ZD48L3RyPjx0cj48dGQ+Q29udGludW91cyBkYW1hZ2Ugd2hpbGUgY2FzdGluZzwvdGQ+PHRkPjEwICsgMS8yIGRhbWFnZSBkZWFsdCArIHNwZWxsIGxldmVsPC90ZD48L3RyPjx0cj48dGQ+QWZmZWN0ZWQgYnkgYSBub24tZGFtYWdpbmcgc3BlbGwgd2hpbGUgY2FzdGluZzwvdGQ+PHRkPkRDIG9mIHRoZSBzcGVsbCArIHNwZWxsIGxldmVsPC90ZD48L3RyPjx0cj48dGQ+R3JhcHBsZWQgb3IgcGlubmVkIHdoaWxlIGNhc3Rpbmc8L3RkPjx0ZD4xMCArIGdyYXBwbGVyJ3MgQ01CICsgIHNwZWxsIGxldmVsPC90ZD48L3RyPjx0cj48dGQ+Vmlnb3JvdXMgbW90aW9uIHdoaWxlIGNhc3Rpbmc8L3RkPjx0ZD4xMCArIHNwZWxsIGxldmVsPC90ZD48L3RyPjx0cj48dGQ+VmlvbGVudCBtb3Rpb24gd2hpbGUgY2FzdGluZzwvdGQ+PHRkPjE1ICsgc3BlbGwgbGV2ZWw8L3RkPjwvdHI+PHRyPjx0ZD5FeHRyZW1lbHkgdmlvbGVudCBtb3Rpb24gd2hpbGUgY2FzdGluZzwvdGQ+PHRkPjIwICsgc3BlbGwgbGV2ZWw8L3RkPjwvdHI+PHRyPjx0ZD5XaW5kIHdpdGggcmFpbiBvciBzbGVldCB3aGlsZSBjYXN0aW5nPC90ZD48dGQ+NSArIHNwZWxsIGxldmVsPC90ZD48L3RyPjx0cj48dGQ+V2luZCB3aXRoIGhhaWwgYW5kIGRlYnJpcyB3aGlsZSBjYXN0aW5nPC90ZD48dGQ+MTAgKyBzcGVsbCBsZXZlbDwvdGQ+PC90cj48dHI+PHRkPldlYXRoZXIgY2F1c2VkIGJ5IHNwZWxsPC90ZD48dGQ+c2VlIHNwZWxsPC90ZD48L3RyPjx0cj48dGQ+RW50YW5nbGVkIHdoaWxlIGNhc3Rpbmc8L3RkPjx0ZD4xNSAgKyBzcGVsbCBsZXZlbDwvdGQ+PC90cj48L3RhYmxlPiBkZGSisOus001uba49ZDha6n0ZnHPnG22LyjIkaGsE+C50tQ==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=68">Magic</a></u> / <u><a href="Rules.aspx?ID=203">Casting Spells</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=205">Concentration</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 206</i></a><br />To cast a spell, you must concentrate. If something interrupts your concentration while you’re casting, you must make a concentration check or lose the spell. When you make a concentration check, you roll d20 and add your caster level and the ability score modifier used to determine bonus spells of the same type. Clerics, druids, and rangers add their Wisdom modifier. Bards, paladins, and sorcerers add their Charisma modifier. Finally, wizards add their Intelligence modifier. The more distracting the interruption and the higher the level of the spell you are trying to cast, the higher the DC (see Table 9–1). If you fail the check, you lose the spell just as if you had cast it to no effect.<br /><br /> <b>Injury</b>: If you take damage while trying to cast a spell, you must make a concentration check with a DC equal to 10 + the damage taken + the level of the spell you’re casting. If you fail the check, you lose the spell without effect. The interrupting event strikes during spellcasting if it comes between the time you started and the time you complete a spell (for a spell with a casting time of 1 full round or more) or if it comes in response to your casting the spell (such as an attack of opportunity provoked by the spell or a contingent attack, such as a readied action).<br /><br /> If you are taking continuous damage, such as from an <i>acid arrow</i> or by standing in a lake of lava, half the damage is considered to take place while you are casting a spell. You must make a concentration check with a DC equal to 10 + 1/2 the damage that the continuous source last dealt + the level of the spell you’re casting. If the last damage dealt was the last damage that the effect could deal, then the damage is over and does not distract you.<br /><br /> <b>Spell</b>: If you are affected by a spell while attempting to cast a spell of your own, you must make a concentration check or lose the spell you are casting. If the spell affecting you deals damage, the DC is 10 + the damage taken + the level of the spell you’re casting.<br /><br /> If the spell interferes with you or distracts you in some other way, the DC is the spell’s saving throw DC + the level of the spell you’re casting. For a spell with no saving throw, it’s the DC that the spell’s saving throw would have if a save were allowed (10 + spell level + caster’s ability score). <br /><br /><b>Grappled or Pinned</b>: Casting a spell while you have the grappled or pinned condition is difficult and requires a concentration check (DC 10 + the grappler’s CMB + the level of the spell you’re casting). Pinned creatures can only cast spells that do not have somatic components.<br /><br /> <b>Vigorous Motion</b>: If you are riding on a moving mount, taking a bouncy ride in a wagon, on a small boat in rough water, belowdecks in a storm-tossed ship, or simply being jostled in a similar fashion, you must make a concentration check (DC 10 + the level of the spell you’re casting) or lose the spell.<br /><br /> <b>Violent Motion</b>: If you are on a galloping horse, taking a very rough ride in a wagon, on a small boat in rapids or in a storm, on deck in a storm-tossed ship, or being pitched roughly about in a similar fashion, you must make a concentration check (DC 15 + the level of the spell you’re casting) or lose the spell. If the motion is extremely violent, such as that caused by an earthquake, the DC is equal to 20 + the level of the spell you’re casting. <br /><br /><b>Violent Weather</b>: You must make a concentration check if you try to cast a spell in violent weather. If you are in a high wind carrying blinding rain or sleet, the DC is 5 + the level of the spell you’re casting. If you are in wind-driven hail, dust, or debris, the DC is 10 + the level of the spell you’re casting. In either case, you lose the spell if you fail the concentration check. If the weather is caused by a spell, use the rules as described in the spell’s description.<br /><br /> <b>Casting Defensively</b>: If you want to cast a spell without provoking any attacks of opportunity, you must make a concentration check (DC 15 + double the level of the spell you’re casting) to succeed. You lose the spell if you fail.<br /><br /> <b>Entangled</b>: If you want to cast a spell while entangled in a net or by a tanglefoot bag or while you’re affected by a spell with similar effects, you must make a concentration check to cast the spell (DC 15 + the level of the spell you’re casting). You lose the spell if you fail.<h2>Table 9-1: Concentration Check DCs</h2><table class="inner"><tr><td><b>Situation</b></td><td><b>Concentration Check DC</b></td></tr><tr><td>Cast defensively</td><td>15 + double spell level</td></tr><tr><td>Injured while casting</td><td>10 + damage dealt + spell level</td></tr><tr><td>Continuous damage while casting</td><td>10 + 1/2 damage dealt + spell level</td></tr><tr><td>Affected by a non-damaging spell while casting</td><td>DC of the spell + spell level</td></tr><tr><td>Grappled or pinned while casting</td><td>10 + grappler's CMB +  spell level</td></tr><tr><td>Vigorous motion while casting</td><td>10 + spell level</td></tr><tr><td>Violent motion while casting</td><td>15 + spell level</td></tr><tr><td>Extremely violent motion while casting</td><td>20 + spell level</td></tr><tr><td>Wind with rain or sleet while casting</td><td>5 + spell level</td></tr><tr><td>Wind with hail and debris while casting</td><td>10 + spell level</td></tr><tr><td>Weather caused by spell</td><td>see spell</td></tr><tr><td>Entangled while casting</td><td>15  + spell level</td></tr></table> </span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

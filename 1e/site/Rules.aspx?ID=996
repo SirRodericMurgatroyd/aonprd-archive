@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Casting Time - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Casting Time" /><meta name="description" content="Almost all spells meant to be cast in combat should have a casting time of “1 standard action.” Avoid the temptation to invent spells with a casting time of “1 move action,” “1 swift action,” or “1 immediate action,” as that’s just a cheesy way for spellcasters to be able to cast two spells in 1 round, and there’s already a mechanism for that: the &lt;a style=&quot;text-decoration:underline&quot; href=&quot;FeatDisplay.aspx?ItemName=Quicken Spell&quot;>Quicken Spell&lt;/a> feat. Making combat spells with faster casting times devalues the &lt;a style=&quot;text-decoration:underline&quot; href=&quot;FeatDisplay.aspx?ItemName=Quicken Spell&quot;>Quicken Spell&lt;/a> feat; even if you design the spell to be similar to a quickened spell, including the +4 level boost, it steals from casters who actually learn that feat, and your spell would become a common combo for high-level casters who can afford extra spells of that level. For example, if you create a 5th-level quickened &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=magic missile&quot;>&lt;i>magic missile&lt;/i>&lt;/a> spell that acts just like a &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=magic missile&quot;>&lt;i>magic missile&lt;/i>&lt;/a> spell with the &lt;a style=&quot;text-decoration:underline&quot; href=&quot;FeatDisplay.aspx?ItemName=Quicken Spell&quot;>Quicken Spell&lt;/a> feat, any 14th-level wizard (who has at least three 5th-level spells available) is going to be tempted to learn this spell just because it allows him to add 5d4+5 extra points of damage to any high-level combat spell he casts, which is a way to get around the spell-damage cap. Furthermore, allowing spellcasters to routinely cast two spells per round means they tend to use up their spells more quickly and push their allies to camp and rest rather than continue exploring.&lt;br />&lt;br /> Spells that summon creatures to help in combat should have a casting time of “1 round.” This is to give a reasonable action cost for a character casting the spell. If the caster could summon a monster using a standard action and have it act that same round, it’s like the spell didn’t cost him any actions at all.&lt;br />&lt;br /> Spells that call an outsider to serve for more than a few rounds (such as &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=planar ally&quot;>&lt;i>planar ally&lt;/i>&lt;/a> and &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=planar binding&quot;>&lt;i>planar binding&lt;/i>&lt;/a>) should have a casting time of 10 minutes; more powerful spells may have even longer casting times. Note that &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=gate&quot;>&lt;i>gate&lt;/i>&lt;/a> can be used to call creatures and only has a casting time of 1 standard action, but when used this way, it requires a 10,000 gp material component, so that faster casting time doesn’t come cheaply." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=996" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXeGDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9OTM5Ij5NYXN0ZXJpbmcgTWFnaWM8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9OTgzIj5EZXNpZ25pbmcgU3BlbGxzPC9hPjwvdT48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTk5NiI+Q2FzdGluZyBUaW1lPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGs4ciIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5VbHRpbWF0ZSBNYWdpYyBwZy4gMTMyPC9pPjwvYT48YnIgLz5BbG1vc3QgYWxsIHNwZWxscyBtZWFudCB0byBiZSBjYXN0IGluIGNvbWJhdCBzaG91bGQgaGF2ZSBhIGNhc3RpbmcgdGltZSBvZiDigJwxIHN0YW5kYXJkIGFjdGlvbi7igJ0gQXZvaWQgdGhlIHRlbXB0YXRpb24gdG8gaW52ZW50IHNwZWxscyB3aXRoIGEgY2FzdGluZyB0aW1lIG9mIOKAnDEgbW92ZSBhY3Rpb24s4oCdIOKAnDEgc3dpZnQgYWN0aW9uLOKAnSBvciDigJwxIGltbWVkaWF0ZSBhY3Rpb24s4oCdIGFzIHRoYXTigJlzIGp1c3QgYSBjaGVlc3kgd2F5IGZvciBzcGVsbGNhc3RlcnMgdG8gYmUgYWJsZSB0byBjYXN0IHR3byBzcGVsbHMgaW4gMSByb3VuZCwgYW5kIHRoZXJl4oCZcyBhbHJlYWR5IGEgbWVjaGFuaXNtIGZvciB0aGF0OiB0aGUgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IkZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9UXVpY2tlbiBTcGVsbCI+UXVpY2tlbiBTcGVsbDwvYT4gZmVhdC4gTWFraW5nIGNvbWJhdCBzcGVsbHMgd2l0aCBmYXN0ZXIgY2FzdGluZyB0aW1lcyBkZXZhbHVlcyB0aGUgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IkZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9UXVpY2tlbiBTcGVsbCI+UXVpY2tlbiBTcGVsbDwvYT4gZmVhdDsgZXZlbiBpZiB5b3UgZGVzaWduIHRoZSBzcGVsbCB0byBiZSBzaW1pbGFyIHRvIGEgcXVpY2tlbmVkIHNwZWxsLCBpbmNsdWRpbmcgdGhlICs0IGxldmVsIGJvb3N0LCBpdCBzdGVhbHMgZnJvbSBjYXN0ZXJzIHdobyBhY3R1YWxseSBsZWFybiB0aGF0IGZlYXQsIGFuZCB5b3VyIHNwZWxsIHdvdWxkIGJlY29tZSBhIGNvbW1vbiBjb21ibyBmb3IgaGlnaC1sZXZlbCBjYXN0ZXJzIHdobyBjYW4gYWZmb3JkIGV4dHJhIHNwZWxscyBvZiB0aGF0IGxldmVsLiBGb3IgZXhhbXBsZSwgaWYgeW91IGNyZWF0ZSBhIDV0aC1sZXZlbCBxdWlja2VuZWQgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPW1hZ2ljIG1pc3NpbGUiPjxpPm1hZ2ljIG1pc3NpbGU8L2k+PC9hPiBzcGVsbCB0aGF0IGFjdHMganVzdCBsaWtlIGEgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPW1hZ2ljIG1pc3NpbGUiPjxpPm1hZ2ljIG1pc3NpbGU8L2k+PC9hPiBzcGVsbCB3aXRoIHRoZSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1RdWlja2VuIFNwZWxsIj5RdWlja2VuIFNwZWxsPC9hPiBmZWF0LCBhbnkgMTR0aC1sZXZlbCB3aXphcmQgKHdobyBoYXMgYXQgbGVhc3QgdGhyZWUgNXRoLWxldmVsIHNwZWxscyBhdmFpbGFibGUpIGlzIGdvaW5nIHRvIGJlIHRlbXB0ZWQgdG8gbGVhcm4gdGhpcyBzcGVsbCBqdXN0IGJlY2F1c2UgaXQgYWxsb3dzIGhpbSB0byBhZGQgNWQ0KzUgZXh0cmEgcG9pbnRzIG9mIGRhbWFnZSB0byBhbnkgaGlnaC1sZXZlbCBjb21iYXQgc3BlbGwgaGUgY2FzdHMsIHdoaWNoIGlzIGEgd2F5IHRvIGdldCBhcm91bmQgdGhlIHNwZWxsLWRhbWFnZSBjYXAuIEZ1cnRoZXJtb3JlLCBhbGxvd2luZyBzcGVsbGNhc3RlcnMgdG8gcm91dGluZWx5IGNhc3QgdHdvIHNwZWxscyBwZXIgcm91bmQgbWVhbnMgdGhleSB0ZW5kIHRvIHVzZSB1cCB0aGVpciBzcGVsbHMgbW9yZSBxdWlja2x5IGFuZCBwdXNoIHRoZWlyIGFsbGllcyB0byBjYW1wIGFuZCByZXN0IHJhdGhlciB0aGFuIGNvbnRpbnVlIGV4cGxvcmluZy48YnIgLz48YnIgLz4gU3BlbGxzIHRoYXQgc3VtbW9uIGNyZWF0dXJlcyB0byBoZWxwIGluIGNvbWJhdCBzaG91bGQgaGF2ZSBhIGNhc3RpbmcgdGltZSBvZiDigJwxIHJvdW5kLuKAnSBUaGlzIGlzIHRvIGdpdmUgYSByZWFzb25hYmxlIGFjdGlvbiBjb3N0IGZvciBhIGNoYXJhY3RlciBjYXN0aW5nIHRoZSBzcGVsbC4gSWYgdGhlIGNhc3RlciBjb3VsZCBzdW1tb24gYSBtb25zdGVyIHVzaW5nIGEgc3RhbmRhcmQgYWN0aW9uIGFuZCBoYXZlIGl0IGFjdCB0aGF0IHNhbWUgcm91bmQsIGl04oCZcyBsaWtlIHRoZSBzcGVsbCBkaWRu4oCZdCBjb3N0IGhpbSBhbnkgYWN0aW9ucyBhdCBhbGwuPGJyIC8+PGJyIC8+IFNwZWxscyB0aGF0IGNhbGwgYW4gb3V0c2lkZXIgdG8gc2VydmUgZm9yIG1vcmUgdGhhbiBhIGZldyByb3VuZHMgKHN1Y2ggYXMgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPXBsYW5hciBhbGx5Ij48aT5wbGFuYXIgYWxseTwvaT48L2E+IGFuZCA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9cGxhbmFyIGJpbmRpbmciPjxpPnBsYW5hciBiaW5kaW5nPC9pPjwvYT4pIHNob3VsZCBoYXZlIGEgY2FzdGluZyB0aW1lIG9mIDEwIG1pbnV0ZXM7IG1vcmUgcG93ZXJmdWwgc3BlbGxzIG1heSBoYXZlIGV2ZW4gbG9uZ2VyIGNhc3RpbmcgdGltZXMuIE5vdGUgdGhhdCA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9Z2F0ZSI+PGk+Z2F0ZTwvaT48L2E+IGNhbiBiZSB1c2VkIHRvIGNhbGwgY3JlYXR1cmVzIGFuZCBvbmx5IGhhcyBhIGNhc3RpbmcgdGltZSBvZiAxIHN0YW5kYXJkIGFjdGlvbiwgYnV0IHdoZW4gdXNlZCB0aGlzIHdheSwgaXQgcmVxdWlyZXMgYSAxMCwwMDAgZ3AgbWF0ZXJpYWwgY29tcG9uZW50LCBzbyB0aGF0IGZhc3RlciBjYXN0aW5nIHRpbWUgZG9lc27igJl0IGNvbWUgY2hlYXBseS5kZGQzWTdyaFGjR2z+uZ3pMonwnXn7c9rYov2bBjnByih3Fg==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=939">Mastering Magic</a></u> / <u><a href="Rules.aspx?ID=983">Designing Spells</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=996">Casting Time</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8k8r" target="_blank" class="external-link"><i>Ultimate Magic pg. 132</i></a><br />Almost all spells meant to be cast in combat should have a casting time of “1 standard action.” Avoid the temptation to invent spells with a casting time of “1 move action,” “1 swift action,” or “1 immediate action,” as that’s just a cheesy way for spellcasters to be able to cast two spells in 1 round, and there’s already a mechanism for that: the <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Quicken Spell">Quicken Spell</a> feat. Making combat spells with faster casting times devalues the <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Quicken Spell">Quicken Spell</a> feat; even if you design the spell to be similar to a quickened spell, including the +4 level boost, it steals from casters who actually learn that feat, and your spell would become a common combo for high-level casters who can afford extra spells of that level. For example, if you create a 5th-level quickened <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=magic missile"><i>magic missile</i></a> spell that acts just like a <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=magic missile"><i>magic missile</i></a> spell with the <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Quicken Spell">Quicken Spell</a> feat, any 14th-level wizard (who has at least three 5th-level spells available) is going to be tempted to learn this spell just because it allows him to add 5d4+5 extra points of damage to any high-level combat spell he casts, which is a way to get around the spell-damage cap. Furthermore, allowing spellcasters to routinely cast two spells per round means they tend to use up their spells more quickly and push their allies to camp and rest rather than continue exploring.<br /><br /> Spells that summon creatures to help in combat should have a casting time of “1 round.” This is to give a reasonable action cost for a character casting the spell. If the caster could summon a monster using a standard action and have it act that same round, it’s like the spell didn’t cost him any actions at all.<br /><br /> Spells that call an outsider to serve for more than a few rounds (such as <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=planar ally"><i>planar ally</i></a> and <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=planar binding"><i>planar binding</i></a>) should have a casting time of 10 minutes; more powerful spells may have even longer casting times. Note that <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=gate"><i>gate</i></a> can be used to call creatures and only has a casting time of 1 standard action, but when used this way, it requires a 10,000 gp material component, so that faster casting time doesn’t come cheaply.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

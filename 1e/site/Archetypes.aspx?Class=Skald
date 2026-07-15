@@ -1,0 +1,337 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Archetypes - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    
+    <meta name="keywords" content="Archives, Nethys, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, Archetype, Augur, Bacchanal, Battle Scion, Bekyar Demon Dancer, Belkzen War Drummer, Boaster, Bold Schemer, Court Poet, Dragon Skald, Elegist, Fated Champion, Herald of the Horn, Hunt Caller, Instigator, Red Tongue, Serpent Herald, Spell Warrior, Sunsinger, Totem Channeler, Totemic Skald, Twilight Speaker, Undying Word, Urban Skald, War Painter, Warlord, Wyrm Singer, Skald" /><meta name="description" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Archetypes.aspx?Class=Skald" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEyMDA2MDM5MTgPZBYCZg9kFgICAw9kFgICAQ9kFgoCAQ8PFgIeBFRleHQF2Bo8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1BbGNoZW1pc3QiPkFsY2hlbWlzdDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1BbnRpcGFsYWRpbiI+QW50aXBhbGFkaW48L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9QXJjYW5pc3QiPkFyY2FuaXN0PC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUJhcmJhcmlhbiI+QmFyYmFyaWFuPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUJhcmJhcmlhbiAoVW5jaGFpbmVkKSI+QmFyYmFyaWFuIChVbmNoYWluZWQpPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUJhcmQiPkJhcmQ8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9Qmxvb2RyYWdlciI+Qmxvb2RyYWdlcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1CcmF3bGVyIj5CcmF3bGVyPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUNhdmFsaWVyIj5DYXZhbGllcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1DbGVyaWMiPkNsZXJpYzwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1EcnVpZCI+RHJ1aWQ8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9RmlnaHRlciI+RmlnaHRlcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1HdW5zbGluZ2VyIj5HdW5zbGluZ2VyPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUh1bnRlciI+SHVudGVyPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUlucXVpc2l0b3IiPklucXVpc2l0b3I8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9SW52ZXN0aWdhdG9yIj5JbnZlc3RpZ2F0b3I8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9S2luZXRpY2lzdCI+S2luZXRpY2lzdDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1NYWd1cyI+TWFndXM8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9TWVkaXVtIj5NZWRpdW08L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9TWVzbWVyaXN0Ij5NZXNtZXJpc3Q8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9TW9uayI+TW9uazwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1Nb25rIChVbmNoYWluZWQpIj5Nb25rIChVbmNoYWluZWQpPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPU5pbmphIj5OaW5qYTwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1PY2N1bHRpc3QiPk9jY3VsdGlzdDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1PcmFjbGUiPk9yYWNsZTwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1QYWxhZGluIj5QYWxhZGluPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVBzeWNoaWMiPlBzeWNoaWM8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9UmFuZ2VyIj5SYW5nZXI8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9Um9ndWUiPlJvZ3VlPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVJvZ3VlIChVbmNoYWluZWQpIj5Sb2d1ZSAoVW5jaGFpbmVkKTwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1TYW11cmFpIj5TYW11cmFpPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNoYW1hbiI+U2hhbWFuPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNoaWZ0ZXIiPlNoaWZ0ZXI8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9U2thbGQiPlNrYWxkPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNsYXllciI+U2xheWVyPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNvcmNlcmVyIj5Tb3JjZXJlcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1TcGlyaXR1YWxpc3QiPlNwaXJpdHVhbGlzdDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1TdW1tb25lciI+U3VtbW9uZXI8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9U3VtbW9uZXIgKFVuY2hhaW5lZCkiPlN1bW1vbmVyIChVbmNoYWluZWQpPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVN3YXNoYnVja2xlciI+U3dhc2hidWNrbGVyPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVZpZ2lsYW50ZSI+VmlnaWxhbnRlPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVdhcnByaWVzdCI+V2FycHJpZXN0PC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVdpdGNoIj5XaXRjaDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1XaXphcmQiPldpemFyZDwvYT48aHIgLz48YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1Db21wYW5pb24iPkNvbXBhbmlvbjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1EcmFrZSI+RHJha2U8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9RWlkb2xvbiI+RWlkb2xvbjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1FaWRvbG9uIChVbmNoYWluZWQpIj5FaWRvbG9uIChVbmNoYWluZWQpPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUZhbWlsaWFyIj5GYW1pbGlhcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1QaGFudG9tIj5QaGFudG9tPC9hPjxociAvPjxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUFkZXB0Ij5BZGVwdDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1BcmlzdG9jcmF0Ij5BcmlzdG9jcmF0PC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUNvbW1vbmVyIj5Db21tb25lcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1FeHBlcnQiPkV4cGVydDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1XYXJyaW9yIj5XYXJyaW9yPC9hPjxociAvPmRkAgMPDxYCHwAFpAI8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1Ta2FsZCI+U2thbGQgQ2xhc3MgRGV0YWlsczwvYT4gfCA8YSBocmVmPSJBZHZWZXJzYXRpbGVQZXJmb3JtYW5jZXMuYXNweCI+QWR2LiBWZXJzYXRpbGUgUGVyZm9ybWFuY2VzPC9hPiB8IDxhIGhyZWY9IkJhcmJhcmlhblJhZ2VQb3dlcnMuYXNweCI+UmFnZSBQb3dlcnM8L2E+IHwgPGEgaHJlZj0iU2thbGRTYWdhcy5hc3B4Ij5TYWdhczwvYT4gfCA8YSBocmVmPSJBcmNoZXR5cGVzLmFzcHg/Q2xhc3M9U2thbGQiPkFyY2hldHlwZXM8L2E+PGhyIC8+ZGQCBQ8PFgIfAAUnPGgxIGNsYXNzPSJ0aXRsZSI+U2thbGQgQXJjaGV0eXBlczwvaDE+ZGQCBw88KwARAwAPFgQeC18hRGF0YUJvdW5kZx4LXyFJdGVtQ291bnQCGmQBEBYAFgAWAAwUKwAAFgJmD2QWNgIBD2QWBmYPDxYCHwAFoAE8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPVNrYWxkIEF1Z3VyIj48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gQXVndXI8L2E+ZGQCAQ8PFgIfAAUxV2VsbC1WZXJzZWQ7IFZlcnNhdGlsZSBQZXJmb3JtYW5jZTsgU3BlbGwgS2VubmluZ2RkAgIPDxYCHwAFnwFUYWxlcyBvZiBNZXJpdmVzdGEgT2xpbmNoaSBhcmUgc3VycHJpc2luZ2x5IGNvbW1vbiBhbW9uZyB0aGUgQmVreWFyIG9mIHRoZSBNd2FuZ2kgRXhwYW5zZSwgd2hvIGNsYWltIHNoZSBzcGVudCBzb21lIHRpbWUgc3R1ZHlpbmcgdGhlaXIgdHJhZGl0aW9ucyBhbmQgaGlzdG9yeS5kZAICD2QWBmYPDxYCHwAFqAE8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPVNrYWxkIEJhY2NoYW5hbCI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IEJhY2NoYW5hbDwvYT5kZAIBDw8WAh8ABUVTY3JpYmUgU2Nyb2xsOyBWZXJzYXRpbGUgUGVyZm9ybWFuY2U7IFNvbmcgb2YgTWFyY2hpbmc7IERpcmdlIG9mIERvb21kZAICDw8WAh8ABW9CYWNjaGFuYWxzIGFyZSBza2FsZHMgd2hvIHVzZSBlY3N0YXRpYyBkYW5jaW5nIGFuZCByaWJhbGQgc29uZ3MgdG8gaW5mbHVlbmNlIHRoZSBwcmltYWwgaW5zdGluY3RzIG9mIGxpc3RlbmVycy5kZAIDD2QWBmYPDxYCHwAFrgE8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPVNrYWxkIEJhdHRsZSBTY2lvbiI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IEJhdHRsZSBTY2lvbjwvYT5kZAIBDw8WAh8ABUFCYXJkaWMgS25vd2xlZGdlOyBEaXJnZSBvZiBEb29tOyBTb25nIG9mIHRoZSBGYWxsZW47IE1hc3RlciBTa2FsZGRkAgIPDxYCHwAFY1RoZSBiYXR0bGUgc2Npb24gcG9zc2Vzc2VzIGEgdW5pcXVlIG1peHR1cmUgb2YgY291cnRseSBncmFjZSBhbG9uZ3NpZGUgbWFydGlhbCBhbmQgbWFnaWNhbCBwcm93ZXNzLmRkAgQPZBYGZg8PFgIfAAVbPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1Ta2FsZCBCZWt5YXIgRGVtb24gRGFuY2VyIj5CZWt5YXIgRGVtb24gRGFuY2VyPC9hPmRkAgEPDxYCHwAFQlNraWxsczsgVmVyc2F0aWxlIFBlcmZvcm1hbmNlOyAzcmQsIDZ0aCwgYW5kIDl0aC1sZXZlbCBSYWdlIFBvd2Vyc2RkAgIPDxYCHwAFaVdoaWxlIHRoZSB0d2lzdGVkIHBvd2VyIG9mIHRoZSBkZW1vbi13b3JzaGlwaW5nIEJla3lhcuKAmXMgc2thbGRzIGlzIGdyZWF0LCBpdCBjb21lcyBhdCBhIHRlcnJpYmxlIHByaWNlLmRkAgUPZBYGZg8PFgIfAAWIAzxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9U2thbGQgQmVsa3plbiBXYXIgRHJ1bW1lciI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbE4uZ2lmIiB0aXRsZT0iU2thbGRzIHdpdGggdGhlIEJlbGt6ZW4gd2FyIGRydW1tZXIgYXJjaGV0eXBlIHJlY2VpdmUgdGhlaXIgY2hvaWNlIG9mIEV4dHJhIFBlcmZvcm1hbmNlLCBTa2lsbCBGb2N1cyAoUGVyZm9ybSBbcGVyY3Vzc2lvbl0pLCBvciBXZWFwb24gRm9jdXMgKGNsdWIgb3IgZ3JlYXRjbHViKSBhdCA3dGggbGV2ZWwgaW5zdGVhZCBvZiBDcmFmdCBNYWdpYyBBcm1zIGFuZCBBcm1vci4iIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IEJlbGt6ZW4gV2FyIERydW1tZXI8L2E+ZGQCAQ8PFgIfAAVjV2VhcG9uIFByb2ZpY2llbmNpZXM7IEJhcmRpYyBLbm93bGVkZ2U7IFNjcmliZSBTY3JvbGw7IExvcmUgTWFzdGVyOyA3dGgtbGV2ZWwgVmVyc2F0aWxlIFBlcmZvcm1hbmNlZGQCAg8PFgIfAAXMAVRoZXNlIGZpZXJjZSBkcnVtbWVycyBhcmUgZXF1YWxseSBhZGVwdCBhdCB0YXBwaW5nIG91dCBhIGRyaXZpbmcgcmh5dGhtIGFuZCByYXBwaW5nIGVuZW1pZXMgdXBzaWRlIHRoZSBoZWFkIHdpdGggdGhlIHNhbWUgbWFzc2l2ZSBjbHVicyB0aGV5IHVzZSB0byBiZWF0IHRoZSBjcnVkZSBoaWRlY292ZXJlZCBkcnVtcyB0aGV5IGNhcnJ5IGludG8gYmF0dGxlLmRkAgYPZBYGZg8PFgIfAAWkATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9U2thbGQgQm9hc3RlciI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IEJvYXN0ZXI8L2E+ZGQCAQ8PFgIfAAVyU2NyaWJlIFNjcm9sbDsgVW5jYW5ueSBEb2RnZTsgU29uZyBvZiBNYXJjaGluZzsgTG9yZSBNYXN0ZXI7IFNvbmcgb2YgdGhlIEZhbGxlbjsgUmFnZSBQb3dlcnM7IDZ0aC1sZXZlbCBSYWdlIFBvd2VyZGQCAg8PFgIfAAVxQm9hc3RlcnMgdXNlIGluY3JlZGlibGUgdGFsZXMgYW5kIGNsYWltcyB0byBjaGFsbGVuZ2UgdGhlbXNlbHZlcyBhbmQgdGhlaXIgYWxsaWVzIHRvIGFjY29tcGxpc2ggcmVtYXJrYWJsZSBmZWF0cy5kZAIHD2QWBmYPDxYCHwAFrgE8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPVNrYWxkIEJvbGQgU2NoZW1lciI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IEJvbGQgU2NoZW1lcjwvYT5kZAIBDw8WAh8ABWZDbGFzcyBTa2lsbHM7IEJhcmRpYyBLbm93bGVkZ2U7IFVuY2FubnkgRG9kZ2U7IEltcHJvdmVkIFVuY2FubnkgRG9kZ2U7IERhbWFnZSBSZWR1Y3Rpb247IERpcmdlIG9mIERvb21kZAICDw8WAh8ABYsBVGhlIGJvbGQgc2NoZW1lciBjb21iaW5lcyB3cmF0aCwgd2l0cywgYW5kIGRhcmluZyB0byB3aW4gYmF0dGxlcyBhbmQgd2FycyBpbiB1bmNvbnZlbnRpb25hbCB3YXlzLCBvZnRlbiB0aHJvdWdoIGluZmlsdHJhdGlvbiBhbmQgZGVjZXB0aW9uLmRkAggPZBYGZg8PFgIfAAWqATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9U2thbGQgQ291cnQgUG9ldCI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IENvdXJ0IFBvZXQ8L2E+ZGQCAQ8PFgIfAAUsSW5zcGlyZWQgUmFnZTsgU29uZyBvZiBTdHJlbmd0aDsgV2VsbC1WZXJzZWRkZAICDw8WAh8ABbMBQ291cnQgcG9ldHMgZWxldmF0ZSB0aGUgc2thbGTigJlzIGxvdmUgb2YgaGlzdG9yeSBhbmQgcG9ldHJ5IHRvIGFuIGFyaXN0b2NyYXRpYyBpZGVhbCwgY2FwdGl2YXRpbmcgY291cnRzIHdpdGggY29tcGxpY2F0ZWQgcG9ldGljIHRyYWRpdGlvbnMgYW5kIGluc3BpcmluZyBvdGhlcnMgd2l0aCB0aGVpciBjcmFmdC5kZAIJD2QWBmYPDxYCHwAFrgE8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPVNrYWxkIERyYWdvbiBTa2FsZCI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IERyYWdvbiBTa2FsZDwvYT5kZAIBDw8WAh8ABT5TY3JpYmUgU2Nyb2xsOyBCYXJkaWMgS25vd2xlZGdlOyBXZWxsLVZlcnNlZDsgU29uZyBvZiBNYXJjaGluZ2RkAgIPDxYCHwAFiwJUaGUgVWxmZW4gcHJpemUgc2thbGRzIG9uIHNlYSByYWlkcyBhbmQgbGlubm9ybSBodW50cy4gRHJhZ29uIHNrYWxkIHBlcmZvcm1hbmNlcyBpbnZvbHZlIHNvbmcsIHdoaXN0bGluZywgb3IgYmxvd2luZyBtaWdodHkgaG9ybnMsIGFuZCB2aWtpbmcgc2FpbG9ycyBvZnRlbiB0YWxrIGFib3V0IGhhdmluZyBhIHNrYWxkIGFsb25nIHRvIHdoaXN0bGUgdXAgYSB3aW5kIG9yIHNpbmcgYXdheSB0aGUgbWlzdHMgb24gdGhlIG1vcm5pbmcgb2YgYSBtb21lbnRvdXMgcmFpZC5kZAIKD2QWBmYPDxYCHwAFQzxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9U2thbGQgRWxlZ2lzdCI+RWxlZ2lzdDwvYT5kZAIBDw8WAh8ABTdSYWdpbmcgU29uZzsgUmFnZSBQb3dlcnM7IFdlbGwtVmVyc2VkOyBEYW1hZ2UgUmVkdWN0aW9uZGQCAg8PFgIfAAWeAVNvbWUgc2thbGRzIGludGVybmFsaXplIHRoZSBzYWRkZXN0IGFuZCBtdXN0IG1vdXJuZnVsICBvZiBzdG9yaWVzLCBzbyBtdWNoIHRoYXQgdGhleSBhcmUgYWJsZSB0byBtYW5pZmVzdCB0aGUgZW1vdGlvbnMgY2F1c2VkIGJ5IHRoZXNlIHRhbGVzIGluIHBoeXNpY2FsIGZvcm0uZGQCCw9kFgZmDw8WAh8ABbIBPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1Ta2FsZCBGYXRlZCBDaGFtcGlvbiI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IEZhdGVkIENoYW1waW9uPC9hPmRkAgEPDxYCHwAFN1dlbGwtVmVyc2VkOyBTcGVsbCBLZW5uaW5nOyBEaXJnZSBvZiBEb29tOyBNYXN0ZXIgU2thbGRkZAICDw8WAh8ABe8BQW1vbmcgY3VsdHVyZXMgd2hlcmUgc2thbGRzIGFyZSB0aGUga2VlcGVycyBvZiBsb3JlIGFuZCB3aXNkb20sIHRoZXJlIGFyZSB0aG9zZSB3aG8gbGVhcm4gdG8gcmVhZCB0aGUgd2luZHMgb2YgZmF0ZSBhbmQgdGFrZSB1cCB0aGUgbWFudGxlIG9mIHRoZSBmYXRlZCBjaGFtcGlvbiwga25vd2luZyBhbmQgZW1icmFjaW5nIHRoZWlyIGRlc3RpbmVkIHBhdGhzIHdpdGggc3RyZW5ndGggYm9ybmUgb2YgY29udmljdGlvbi5kZAIMD2QWBmYPDxYCHwAFugE8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPVNrYWxkIEhlcmFsZCBvZiB0aGUgSG9ybiI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IEhlcmFsZCBvZiB0aGUgSG9ybjwvYT5kZAIBDw8WAh8ABUNTY3JpYmUgU2Nyb2xsOyA1dGgsIDExdGgsIGFuZCAxN3RoLWxldmVsIFNwZWxsIEtlbm5pbmc7IExvcmUgTWFzdGVyZGQCAg8PFgIfAAXjAVdoZXRoZXIgd2l0aCB0aGUgcG9saXNoZWQgbWV0YWwgdHJ1bXBldCBvZiBhIHN0YW5kaW5nIGFybXkgb3IgdGhlIGNydWRlIGN1cnZlZCBhbmltYWwgaG9ybiBvZiBzYXZhZ2UgcmFpZGVycywgYSBoZXJhbGQgb2YgdGhlIGhvcm4gc291bmRzIGhpcyByYWdpbmcgc29uZyB3aXRoIHRodW5kZXJvdXMgYmxhc3RzLCB3aGljaCBjYW4gYm9sc3RlciBhbGxpZXMgb3Igc2hhdHRlciBjYXN0bGUgd2FsbHMuZGQCDQ9kFgZmDw8WAh8ABawBPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1Ta2FsZCBIdW50IENhbGxlciI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IEh1bnQgQ2FsbGVyPC9hPmRkAgEPDxYCHwAFW1dlbGwtVmVyc2VkOyBTb25nIG9mIFN0cmVuZ3RoOyBTb25nIG9mIHRoZSBGYWxsZW47IDZ0aCwgMTh0aC1sZXZlIFJhZ2UgUG93ZXI7IFNwZWxsIEtlbm5pbmdkZAICDw8WAh8ABUxIdW50IGNhbGxlcnMgYXJlIHNrYWxkcyB3aG9zZSBzb25ncyBkcmF3IHRoZWlyIGFsbGllcyBpbnRvIHRoZSBhbmltYWwgd29ybGQuZGQCDg9kFgZmDw8WAh8ABaoBPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1Ta2FsZCBJbnN0aWdhdG9yIj48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gSW5zdGlnYXRvcjwvYT5kZAIBDw8WAh8ABSlTcGVsbCBLZW5uaW5nOyBEaXJnZSBvZiBEb29tOyBMb3JlIE1hc3RlcmRkAgIPDxYCHwAFV2hlIGluc3RpZ2F0b3IgaW5mbHVlbmNlcyB0aGUgd2lsbCBvZiB0aGUgcGVvcGxlLCB0dXJuaW5nIHRoZW0gdG93YXJkIGhpcyBvd24gcHVycG9zZXMuIGRkAg8PZBYGZg8PFgIfAAWqATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9U2thbGQgUmVkIFRvbmd1ZSI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IFJlZCBUb25ndWU8L2E+ZGQCAQ8PFgIfAAU9QmFyZGljIEtub3dsZWRnZTsgN3RoLCAxMnRoLCAxN3RoLWxldmVsIFZlcnNhdGlsZSBQZXJmb3JtYW5jZWRkAgIPDxYCHwAFmwJUaGUgdGVuZ3UgdGVuZGVuY3kgdG93YXJkIGRyYW1hdGljIGZsb3VyaXNoZXMgYW5kIHJoZXRvcmljIGNyZWF0ZXMgYW4gZW52aXJvbm1lbnQgaW4gd2hpY2ggcG9saXRpY2FsIGNsdWJzIGxlZCBieSBob3QtYmxvb2RlZCBmaXJlYnJhbmRz4oCUcmVmZXJyZWQgdG8gYXMgcmVkIHRvbmd1ZXMgaW4gcG9saXRlIGNvbXBhbnnigJRkb21pbmF0ZSB0aGUgcG9saXRpY2FsIHNjZW5lIGJ5IHN3YXlpbmcgZW1vdGlvbnMgaW4gdGhlIG1vbWVudCBhbmQgd2llbGRpbmcgbWFnaWMgaW4gdGhlIHNoYWRvd3MuZGQCEA9kFgZmDw8WAh8ABbIBPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1Ta2FsZCBTZXJwZW50IEhlcmFsZCI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IFNlcnBlbnQgSGVyYWxkPC9hPmRkAgEPDxYCHwAFIzNyZC1sZXZlbCBSYWdlIFBvd2VyOyBTcGVsbCBLZW5uaW5nZGQCAg8PFgIfAAVuV2FycmlvciBiYW5kcyBkZXZvdGVkIHRvIFJhZ2FkYWhuIGFyZSBvZnRlbiBsZWQgYnkgYSBzZXJwZW50IGhlcmFsZCwgd2hvc2UgZGVlcCByb2FycyBzaGFrZSB0aGUgZWFydGggaXRzZWxmLiBkZAIRD2QWBmYPDxYCHwAFsAE8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPVNrYWxkIFNwZWxsIFdhcnJpb3IiPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBTcGVsbCBXYXJyaW9yPC9hPmRkAgEPDxYCHwAFSFNjcmliZSBTY3JvbGw7IEluc3BpcmVkIFJhZ2U7IFNwZWxsIEtlbm5pbmc7IERpcmdlIG9mIERvb207IE1hc3RlciBTa2FsZGRkAgIPDxYCHwAFgAFUaGUgc3BlbGwgd2FycmlvciB1c2VzIGhpcyBhcmNhbmUga25vd2xlZGdlIHJhdGhlciB0aGFuIGhpcyByYWdlIHRvIHR1cm4gdGhlIHRpZGUgb2YgYmF0dGxlIGluIGZhdm9yIG9mIGhpbXNlbGYgYW5kIGhpcyBhbGxpZXMuIGRkAhIPZBYGZg8PFgIfAAWoATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9U2thbGQgU3Vuc2luZ2VyIj48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gU3Vuc2luZ2VyPC9hPmRkAgEPDxYCHwAFK0FsaWdubWVudDsgU29uZyBvZiBNYXJjaGluZzsgU3BlbGwgS2VubmluZztkZAICDw8WAh8ABYIBUWFkaXJhbiBzdW5zaW5nZXJzIGFyZSBwYXJ0aWN1bGFybHkgcmVsaWdpb3VzIHNrYWxkcyBvZiBTYXJlbnJhZSB3aG8gY2FsbCBkb3duIHRoZWlyIGdvZGRlc3PigJlzIGdsb3J5IHRvIGZpbGwgc29sZGllcnMgd2l0aCBmaXJlLmRkAhMPZBYGZg8PFgIfAAW0ATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9U2thbGQgVG90ZW0gQ2hhbm5lbGVyIj48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gVG90ZW0gQ2hhbm5lbGVyPC9hPmRkAgEPDxYCHwAFPkJhcmRpYyBLbm93bGVkZ2U7IFJhZ2UgUG93ZXJzOyBTcGVsbCBLZW5uaW5nOyBEYW1hZ2UgUmVkdWN0aW9uZGQCAg8PFgIfAAW+AVNvbWUgU2hvYW50aSBza2FsZHMgZGlzY292ZXIgZGVlcGVyIHRydXRocyBpbiB0aGVpciB0cmliZXPigJkgdG90ZW1zLiBUaGVzZSBza2FsZHMsIGtub3duIGFzIHRvdGVtIGNoYW5uZWxlcnMsIGxlYXJuIGhvdyB0byBzaGFyZSB0aGUgdG90ZW1z4oCZIGdpZnRzIHdpdGggdGhlaXIgYWxsaWVzIGluIHRoZSBoZWF0IG9mIGJhdHRsZS5kZAIUD2QWBmYPDxYCHwAFsAE8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPVNrYWxkIFRvdGVtaWMgU2thbGQiPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBUb3RlbWljIFNrYWxkPC9hPmRkAgEPDxYCHwAFSjNyZC1sZXZlbCBSYWdlIFBvd2VyOyBVbmNhbm55IERvZGdlOyBJbXByb3ZlZCBVbmNhbm55IERvZGdlOyBTcGVsbCBLZW5uaW5nZGQCAg8PFgIfAAWiAVRoZSB0b3RlbWljIHNrYWxkIGZvcm1zIGEgY2xvc2UgY29ubmVjdGlvbiB0byBhbiBhbmltYWwgdG90ZW0uIFRocm91Z2ggdGhlIHBvd2VyIG9mIHRoaXMgbXlzdGljYWwgYWxseSwgdGhlIHNrYWxkIGNhbiBjaGFuZ2Ugc2hhcGVzLCBhc3N1bWluZyBpdHMgZm9ybSBhcyBoaXMgb3duLmRkAhUPZBYGZg8PFgIfAAW2ATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9U2thbGQgVHdpbGlnaHQgU3BlYWtlciI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IFR3aWxpZ2h0IFNwZWFrZXI8L2E+ZGQCAQ8PFgIfAAWRAUFsaWdubWVudDsgRGVpdHk7IEJhcmRpYyBLbm93bGVkZ2U7IEluc3BpcmVkIFJhZ2U7IFNvbmcgb2YgU3RyZW5ndGg7IERpcmdlIG9mIERvb207IFZlcnNhdGlsZSBQZXJmb3JtYW5jZTsgV2VsbC1WZXJzZWQ7IExvcmUgTWFzdGVyOyBNYXN0ZXIgU2thbGRkZAICDw8WAh8ABYoBKEVsZiBPbmx5KSBUd2lsaWdodCBzcGVha2VycyBhcmUgZWx2ZW4gc2thbGRzIG9mIEZpbmRlbGFkbGFyYSB3aG8gY29uc2lkZXIgaXQgYSBzYWNyZWQgZHV0eSB0byBzZWVrIG91dCBhbmQgYmVmcmllbmQgbm9uLWVsdmVuIGNvbW11bml0aWVzZGQCFg9kFgZmDw8WAh8ABa4BPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1Ta2FsZCBVbmR5aW5nIFdvcmQiPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBVbmR5aW5nIFdvcmQ8L2E+ZGQCAQ8PFgIfAAVZU2NyaWJlIFNjcm9sbDsgTG9yZSBNYXN0ZXI7IEluc3BpcmVkIFJhZ2U7IFNvbmcgb2YgU3RyZW5ndGg7IERpcmdlIG9mIERvb207IFNwZWxsIEtlbm5pbmdkZAICDw8WAh8ABZgBU29tZSB3aG8gaGF2ZSBzdXJ2aXZlZCB0aGUgTWFuYSBXYXN0ZXMgY2Fubm90IGFjY2VwdCBkZWZlYXQsIGFuZCB0aG9zZSB3aG8gaGF2ZSBsZWFybmVkIHRvIHNwZWFrIHRoZSB1bmR5aW5nIHdvcmQgY2FuIGxlbmQgb3RoZXJzIHRoZSBzdHJlbmd0aCB0byBlbmR1cmVkZAIXD2QWBmYPDxYCHwAFrAE8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPVNrYWxkIFVyYmFuIFNrYWxkIj48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gVXJiYW4gU2thbGQ8L2E+ZGQCAQ8PFgIfAAVcV2VhcG9uL0FybW9yIFByb2ZpY2llbmNpZXM7IEluc3BpcmVkIFJhZ2U7IFNvbmcgb2YgTWFyY2hpbmc7IERhbWFnZSBSZWR1Y3Rpb247IERpcmdlIG9mIERvb21kZAICDw8WAh8ABX9UaGUgdXJiYW4gc2thbGQgZmluZHMgdGhhdCBjaGFsbGVuZ2luZyBhbmQgbW9ja2luZyBmb2VzIGlzIHNvbWV0aW1lcyBtb3JlIGVmZmVjdGl2ZSB0aGFuIGluc3BpcmluZyB1bmNvbnRyb2xsZWQgcmFnZSBpbiBhIGNpdHkuZGQCGA9kFgZmDw8WAh8ABawBPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1Ta2FsZCBXYXIgUGFpbnRlciI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IFdhciBQYWludGVyPC9hPmRkAgEPDxYCHwAFKFJhZ2luZyBTb25nOyBTcGVsbCBLZW5uaW5nOyBMb3JlIE1hc3RlciBkZAICDw8WAh8ABcABVGhlIGdyaXBwbGlzIG9mIHRoZSBWYWxhc2htYWkgSnVuZ2xlIGV4aGliaXQgc2F2YWdlIHN0cmVuZ3RoIGZvciB0aGVpciBzaXpl4oCUYXR0cmlidXRlZCBpbiBwYXJ0IHRvIHRoZSBmcmlnaHRmdWwgbWFnaWNhbCBwaWdtZW50cyBhcHBsaWVkIHRvIHRoZWlyIHNraW4gYnkgdGhlIHRyaWJlc+KAmSBteXN0aWNhbCBsb3JlIGtlZXBlcnMuZGQCGQ9kFgZmDw8WAh8ABUM8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPVNrYWxkIFdhcmxvcmQiPldhcmxvcmQ8L2E+ZGQCAQ8PFgIfAAVOU2NyaWJlIFNjcm9sbDsgV2VsbC1WZXJzZWQ7IFNwZWxsIEtlbm5pbmc7IExvcmUgTWFzdGVyOyBJbXByb3ZlZCBVbmNhbm55IERvZGdlZGQCAg8PFgIfAAWFAVRoZSB3YXJsb3JkIHdpZWxkcyBoaXMgZm9yY2Ugb2YgcGVyc29uYWxpdHkgbGlrZSBhIHdlYXBvbiwgaW50aW1pZGF0aW5nIGhpcyBhbGxpZXMgYW5kIGVuc3VyaW5nIHRoYXQgaGlzIGZvbGxvd2VycyBoZWVkIGhpcyBjb21tYW5kcy5kZAIaD2QWBmYPDxYCHwAFrAE8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPVNrYWxkIFd5cm0gU2luZ2VyIj48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gV3lybSBTaW5nZXI8L2E+ZGQCAQ8PFgIfAAU6SW5zcGlyZWQgUmFnZTsgU29uZyBvZiB0aGUgRmFsbGVuOyAxMnRoLWxldmVsIHJhZ2UgcG93ZXINCmRkAgIPDxYCHwAFZ1d5cm0gc2luZ2VycyBzcGluIGZyYWdtZW50cyBvZiB0aGUgc3Rvcnkgb2YgdGhlIG9uZ29pbmcgc3RydWdnbGUgYmV0d2VlbiBub2JsZSBBcHN1IGFuZCB3aWNrZWQgRGFoYWsuDQpkZAIbDw8WAh4HVmlzaWJsZWhkZAIJDw9kPCsABgEAEBYBZhYBFgIeDlBhcmFtZXRlclZhbHVlBQVTa2FsZBYBAgRkGAEFJGN0bDAwJE1haW5Db250ZW50JEdyaWRWaWV3QXJjaGV0eXBlcw88KwAMAwYVAQZJdGVtSWQHFCsAGhQrAAEC8wUUKwABAqgJFCsAAQLdBhQrAAECnQQUKwABAp4EFCsAAQKpCRQrAAEC3gYUKwABAogHFCsAAQKfBBQrAAECiwoUKwABAuEDFCsAAQLiAxQrAAECqgkUKwABAt8GFCsAAQKbBhQrAAECzgcUKwABAuMDFCsAAQKgCBQrAAECkwkUKwABAuQDFCsAAQKEChQrAAEC8AgUKwABApQFFCsAAQKTBhQrAAEC4AYUKwABArgFCAIBZOYb81da2zQv0lgMXH/uBh3sW6z6QwUbtrTrQBKrv6Rm" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="654C4F5D" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <h2 style="text-align: center"><span id="MainContent_AllClassLabel"><a href="ClassDisplay.aspx?ItemName=Alchemist">Alchemist</a> | <a href="ClassDisplay.aspx?ItemName=Antipaladin">Antipaladin</a> | <a href="ClassDisplay.aspx?ItemName=Arcanist">Arcanist</a> | <a href="ClassDisplay.aspx?ItemName=Barbarian">Barbarian</a> | <a href="ClassDisplay.aspx?ItemName=Barbarian (Unchained)">Barbarian (Unchained)</a> | <a href="ClassDisplay.aspx?ItemName=Bard">Bard</a> | <a href="ClassDisplay.aspx?ItemName=Bloodrager">Bloodrager</a> | <a href="ClassDisplay.aspx?ItemName=Brawler">Brawler</a> | <a href="ClassDisplay.aspx?ItemName=Cavalier">Cavalier</a> | <a href="ClassDisplay.aspx?ItemName=Cleric">Cleric</a> | <a href="ClassDisplay.aspx?ItemName=Druid">Druid</a> | <a href="ClassDisplay.aspx?ItemName=Fighter">Fighter</a> | <a href="ClassDisplay.aspx?ItemName=Gunslinger">Gunslinger</a> | <a href="ClassDisplay.aspx?ItemName=Hunter">Hunter</a> | <a href="ClassDisplay.aspx?ItemName=Inquisitor">Inquisitor</a> | <a href="ClassDisplay.aspx?ItemName=Investigator">Investigator</a> | <a href="ClassDisplay.aspx?ItemName=Kineticist">Kineticist</a> | <a href="ClassDisplay.aspx?ItemName=Magus">Magus</a> | <a href="ClassDisplay.aspx?ItemName=Medium">Medium</a> | <a href="ClassDisplay.aspx?ItemName=Mesmerist">Mesmerist</a> | <a href="ClassDisplay.aspx?ItemName=Monk">Monk</a> | <a href="ClassDisplay.aspx?ItemName=Monk (Unchained)">Monk (Unchained)</a> | <a href="ClassDisplay.aspx?ItemName=Ninja">Ninja</a> | <a href="ClassDisplay.aspx?ItemName=Occultist">Occultist</a> | <a href="ClassDisplay.aspx?ItemName=Oracle">Oracle</a> | <a href="ClassDisplay.aspx?ItemName=Paladin">Paladin</a> | <a href="ClassDisplay.aspx?ItemName=Psychic">Psychic</a> | <a href="ClassDisplay.aspx?ItemName=Ranger">Ranger</a> | <a href="ClassDisplay.aspx?ItemName=Rogue">Rogue</a> | <a href="ClassDisplay.aspx?ItemName=Rogue (Unchained)">Rogue (Unchained)</a> | <a href="ClassDisplay.aspx?ItemName=Samurai">Samurai</a> | <a href="ClassDisplay.aspx?ItemName=Shaman">Shaman</a> | <a href="ClassDisplay.aspx?ItemName=Shifter">Shifter</a> | <a href="ClassDisplay.aspx?ItemName=Skald">Skald</a> | <a href="ClassDisplay.aspx?ItemName=Slayer">Slayer</a> | <a href="ClassDisplay.aspx?ItemName=Sorcerer">Sorcerer</a> | <a href="ClassDisplay.aspx?ItemName=Spiritualist">Spiritualist</a> | <a href="ClassDisplay.aspx?ItemName=Summoner">Summoner</a> | <a href="ClassDisplay.aspx?ItemName=Summoner (Unchained)">Summoner (Unchained)</a> | <a href="ClassDisplay.aspx?ItemName=Swashbuckler">Swashbuckler</a> | <a href="ClassDisplay.aspx?ItemName=Vigilante">Vigilante</a> | <a href="ClassDisplay.aspx?ItemName=Warpriest">Warpriest</a> | <a href="ClassDisplay.aspx?ItemName=Witch">Witch</a> | <a href="ClassDisplay.aspx?ItemName=Wizard">Wizard</a><hr /><a href="ClassDisplay.aspx?ItemName=Companion">Companion</a> | <a href="ClassDisplay.aspx?ItemName=Drake">Drake</a> | <a href="ClassDisplay.aspx?ItemName=Eidolon">Eidolon</a> | <a href="ClassDisplay.aspx?ItemName=Eidolon (Unchained)">Eidolon (Unchained)</a> | <a href="ClassDisplay.aspx?ItemName=Familiar">Familiar</a> | <a href="ClassDisplay.aspx?ItemName=Phantom">Phantom</a><hr /><a href="ClassDisplay.aspx?ItemName=Adept">Adept</a> | <a href="ClassDisplay.aspx?ItemName=Aristocrat">Aristocrat</a> | <a href="ClassDisplay.aspx?ItemName=Commoner">Commoner</a> | <a href="ClassDisplay.aspx?ItemName=Expert">Expert</a> | <a href="ClassDisplay.aspx?ItemName=Warrior">Warrior</a><hr /></span></h2>
+    <h2 style="text-align: center"><span id="MainContent_MainClassLabel"><a href="ClassDisplay.aspx?ItemName=Skald">Skald Class Details</a> | <a href="AdvVersatilePerformances.aspx">Adv. Versatile Performances</a> | <a href="BarbarianRagePowers.aspx">Rage Powers</a> | <a href="SkaldSagas.aspx">Sagas</a> | <a href="Archetypes.aspx?Class=Skald">Archetypes</a><hr /></span></h2>
+
+    <span id="MainContent_ArchetypeClassLabel"><h1 class="title">Skald Archetypes</h1></span>
+    <div>
+	<table cellspacing="0" cellpadding="3" rules="cols" id="MainContent_GridViewArchetypes" style="color:Black;background-color:White;border-color:#999999;border-width:1px;border-style:Solid;border-collapse:collapse;">
+		<tr style="color:White;background-color:Black;font-weight:bold;">
+			<th scope="col">Name</th><th scope="col">Replaces</th><th scope="col">Summary</th>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald Augur"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Augur</a></td><td>Well-Versed; Versatile Performance; Spell Kenning</td><td>Tales of Merivesta Olinchi are surprisingly common among the Bekyar of the Mwangi Expanse, who claim she spent some time studying their traditions and history.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald Bacchanal"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Bacchanal</a></td><td>Scribe Scroll; Versatile Performance; Song of Marching; Dirge of Doom</td><td>Bacchanals are skalds who use ecstatic dancing and ribald songs to influence the primal instincts of listeners.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald Battle Scion"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Battle Scion</a></td><td>Bardic Knowledge; Dirge of Doom; Song of the Fallen; Master Skald</td><td>The battle scion possesses a unique mixture of courtly grace alongside martial and magical prowess.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald Bekyar Demon Dancer">Bekyar Demon Dancer</a></td><td>Skills; Versatile Performance; 3rd, 6th, and 9th-level Rage Powers</td><td>While the twisted power of the demon-worshiping Bekyar’s skalds is great, it comes at a terrible price.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald Belkzen War Drummer"><img src="images\PathfinderSocietySymbolN.gif" title="Skalds with the Belkzen war drummer archetype receive their choice of Extra Performance, Skill Focus (Perform [percussion]), or Weapon Focus (club or greatclub) at 7th level instead of Craft Magic Arms and Armor." style="margin:3px 3px 0px 3px;"> Belkzen War Drummer</a></td><td>Weapon Proficiencies; Bardic Knowledge; Scribe Scroll; Lore Master; 7th-level Versatile Performance</td><td>These fierce drummers are equally adept at tapping out a driving rhythm and rapping enemies upside the head with the same massive clubs they use to beat the crude hidecovered drums they carry into battle.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald Boaster"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Boaster</a></td><td>Scribe Scroll; Uncanny Dodge; Song of Marching; Lore Master; Song of the Fallen; Rage Powers; 6th-level Rage Power</td><td>Boasters use incredible tales and claims to challenge themselves and their allies to accomplish remarkable feats.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald Bold Schemer"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Bold Schemer</a></td><td>Class Skills; Bardic Knowledge; Uncanny Dodge; Improved Uncanny Dodge; Damage Reduction; Dirge of Doom</td><td>The bold schemer combines wrath, wits, and daring to win battles and wars in unconventional ways, often through infiltration and deception.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald Court Poet"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Court Poet</a></td><td>Inspired Rage; Song of Strength; Well-Versed</td><td>Court poets elevate the skald’s love of history and poetry to an aristocratic ideal, captivating courts with complicated poetic traditions and inspiring others with their craft.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald Dragon Skald"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Dragon Skald</a></td><td>Scribe Scroll; Bardic Knowledge; Well-Versed; Song of Marching</td><td>The Ulfen prize skalds on sea raids and linnorm hunts. Dragon skald performances involve song, whistling, or blowing mighty horns, and viking sailors often talk about having a skald along to whistle up a wind or sing away the mists on the morning of a momentous raid.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald Elegist">Elegist</a></td><td>Raging Song; Rage Powers; Well-Versed; Damage Reduction</td><td>Some skalds internalize the saddest and must mournful  of stories, so much that they are able to manifest the emotions caused by these tales in physical form.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald Fated Champion"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Fated Champion</a></td><td>Well-Versed; Spell Kenning; Dirge of Doom; Master Skald</td><td>Among cultures where skalds are the keepers of lore and wisdom, there are those who learn to read the winds of fate and take up the mantle of the fated champion, knowing and embracing their destined paths with strength borne of conviction.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald Herald of the Horn"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Herald of the Horn</a></td><td>Scribe Scroll; 5th, 11th, and 17th-level Spell Kenning; Lore Master</td><td>Whether with the polished metal trumpet of a standing army or the crude curved animal horn of savage raiders, a herald of the horn sounds his raging song with thunderous blasts, which can bolster allies or shatter castle walls.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald Hunt Caller"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Hunt Caller</a></td><td>Well-Versed; Song of Strength; Song of the Fallen; 6th, 18th-leve Rage Power; Spell Kenning</td><td>Hunt callers are skalds whose songs draw their allies into the animal world.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald Instigator"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Instigator</a></td><td>Spell Kenning; Dirge of Doom; Lore Master</td><td>he instigator influences the will of the people, turning them toward his own purposes. </td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald Red Tongue"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Red Tongue</a></td><td>Bardic Knowledge; 7th, 12th, 17th-level Versatile Performance</td><td>The tengu tendency toward dramatic flourishes and rhetoric creates an environment in which political clubs led by hot-blooded firebrands—referred to as red tongues in polite company—dominate the political scene by swaying emotions in the moment and wielding magic in the shadows.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald Serpent Herald"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Serpent Herald</a></td><td>3rd-level Rage Power; Spell Kenning</td><td>Warrior bands devoted to Ragadahn are often led by a serpent herald, whose deep roars shake the earth itself. </td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald Spell Warrior"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Spell Warrior</a></td><td>Scribe Scroll; Inspired Rage; Spell Kenning; Dirge of Doom; Master Skald</td><td>The spell warrior uses his arcane knowledge rather than his rage to turn the tide of battle in favor of himself and his allies. </td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald Sunsinger"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Sunsinger</a></td><td>Alignment; Song of Marching; Spell Kenning;</td><td>Qadiran sunsingers are particularly religious skalds of Sarenrae who call down their goddess’s glory to fill soldiers with fire.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald Totem Channeler"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Totem Channeler</a></td><td>Bardic Knowledge; Rage Powers; Spell Kenning; Damage Reduction</td><td>Some Shoanti skalds discover deeper truths in their tribes’ totems. These skalds, known as totem channelers, learn how to share the totems’ gifts with their allies in the heat of battle.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald Totemic Skald"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Totemic Skald</a></td><td>3rd-level Rage Power; Uncanny Dodge; Improved Uncanny Dodge; Spell Kenning</td><td>The totemic skald forms a close connection to an animal totem. Through the power of this mystical ally, the skald can change shapes, assuming its form as his own.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald Twilight Speaker"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Twilight Speaker</a></td><td>Alignment; Deity; Bardic Knowledge; Inspired Rage; Song of Strength; Dirge of Doom; Versatile Performance; Well-Versed; Lore Master; Master Skald</td><td>(Elf Only) Twilight speakers are elven skalds of Findeladlara who consider it a sacred duty to seek out and befriend non-elven communities</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald Undying Word"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Undying Word</a></td><td>Scribe Scroll; Lore Master; Inspired Rage; Song of Strength; Dirge of Doom; Spell Kenning</td><td>Some who have survived the Mana Wastes cannot accept defeat, and those who have learned to speak the undying word can lend others the strength to endure</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald Urban Skald"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Urban Skald</a></td><td>Weapon/Armor Proficiencies; Inspired Rage; Song of Marching; Damage Reduction; Dirge of Doom</td><td>The urban skald finds that challenging and mocking foes is sometimes more effective than inspiring uncontrolled rage in a city.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald War Painter"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> War Painter</a></td><td>Raging Song; Spell Kenning; Lore Master </td><td>The gripplis of the Valashmai Jungle exhibit savage strength for their size—attributed in part to the frightful magical pigments applied to their skin by the tribes’ mystical lore keepers.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald Warlord">Warlord</a></td><td>Scribe Scroll; Well-Versed; Spell Kenning; Lore Master; Improved Uncanny Dodge</td><td>The warlord wields his force of personality like a weapon, intimidating his allies and ensuring that his followers heed his commands.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Skald Wyrm Singer"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Wyrm Singer</a></td><td>Inspired Rage; Song of the Fallen; 12th-level rage power
+</td><td>Wyrm singers spin fragments of the story of the ongoing struggle between noble Apsu and wicked Dahak.
+</td>
+		</tr>
+	</table>
+</div>
+    
+    
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

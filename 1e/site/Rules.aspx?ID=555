@@ -1,0 +1,270 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Unusual Campaigns - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Unusual Campaigns" /><meta name="description" content="Most GMs eventually toy with the idea of running a theme campaign, such as an all-dwarf or all-elf campaign. While most of these have no game effect, below are several variant campaigns that require special consideration when building encounters." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=555" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWdQjx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDU0Ij5HYW1lTWFzdGVyeSBHdWlkZTwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD01MTQiPlJ1bm5pbmcgYSBHYW1lPC9hPjwvdT4gLyA8dT48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTUxNSI+SG93IHRvIFJ1biBhIEdhbWU8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NTQzIj5UaGUgU2NpZW5jZSBvZiBHTWluZzwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD01NTUiPlVudXN1YWwgQ2FtcGFpZ25zPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gNDM8L2k+PC9hPjxiciAvPk1vc3QgR01zIGV2ZW50dWFsbHkgdG95IHdpdGggdGhlIGlkZWEgb2YgcnVubmluZyBhIHRoZW1lIGNhbXBhaWduLCBzdWNoIGFzIGFuIGFsbC1kd2FyZiBvciBhbGwtZWxmIGNhbXBhaWduLiBXaGlsZSBtb3N0IG9mIHRoZXNlIGhhdmUgbm8gZ2FtZSBlZmZlY3QsIGJlbG93IGFyZSBzZXZlcmFsIHZhcmlhbnQgY2FtcGFpZ25zIHRoYXQgcmVxdWlyZSBzcGVjaWFsIGNvbnNpZGVyYXRpb24gd2hlbiBidWlsZGluZyBlbmNvdW50ZXJzLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NTU2Ij5ObyBIZWFsZXJzPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gNDM8L2k+PC9hPjxiciAvPldoZXRoZXIgeW914oCZcmUgcnVubmluZyBhIGxvdy1tYWdpYyBjYW1wYWlnbiBvciBqdXN0IGhhdmUgYSBncm91cCBvZiBwbGF5ZXJzIHVuaW50ZXJlc3RlZCBpbiBwbGF5aW5nIGhlYWxlcnMsIGEgbGFjayBvZiBjdXJhdGl2ZSBtYWdpYyBpbiB0aGUgcGFydHkgaXMgYSBiaWcgZGV2aWF0aW9uIGZyb20gdGhlIG5vcm0uIFdpdGhvdXQgYSBoZWFsZXIsIG1vbnN0ZXJzIHRoYXQgZGVhbCBoaWdoIGRhbWFnZSBoYXZlIGEgZ3JlYXRlciByaXNrIG9mIGtpbGxpbmcgYSBQQ+KAlHRoZXJl4oCZcyBubyBoZWFsZXIgdG8gc3RlcCBpbiBhbmQgY29tcGVuc2F0ZSBmb3IgYSBjcml0aWNhbCBoaXTigJQgc28geW91IHNob3VsZCByZWx5IG9uIHdlYWtlciBtb25zdGVycyB0aGF0IGRvbuKAmXQgZGVhbCBkYW1hZ2UgaW4gbGFyZ2UgaW5jcmVtZW50cy4gSWYgdGhlcmUgaXMgbWFnaWMgaW4gdGhlIGNhbXBhaWduLCB0aGUgUENzIGNhbiBhdCBsZWFzdCByZWx5IG9uIHBvdGlvbnMgKGFuZCBzY3JvbGxzIGFuZCB3YW5kcywgZ2l2ZW4gYW4gYWRlcXVhdGUgVXNlIE1hZ2ljIERldmljZSBib251cyksIGJ1dCB0aGlzIGZvcmNlcyB0aGVtIHRvIGRlY2lkZSBiZXR3ZWVuIGF0dGFja2luZyBhbmQgaGVhbGluZyBlYWNoIHJvdW5kLiBXaXRob3V0IHJlbGlhYmxlIGFjY2VzcyB0byBhbnkgaGVhbGluZyBtYWdpYyAoc3VjaCBhcyBpbiBhIGhpc3RvcmljYWwgY2FtcGFpZ24pLCB0aGUgUENzIG11c3QgcmVzb3J0IHRvIG5vbm1hZ2ljYWwgbWV0aG9kcyBsaWtlIHRoZSBIZWFsIHNraWxsLCBvciBwZXJoYXBzIGxpbWl0ZWQtdXNlIGxlZ2VuZGFyeSBpdGVtcyBvciBxdWFzaS1tYWdpY2FsIGl0ZW1zIGRlcml2ZWQgZnJvbSB1bnVzdWFsIG1vbnN0ZXIgcGFydHMuIFRoZXkgc2hvdWxkIGFsc28gY29uc2lkZXIgdXNpbmcgbW9yZSBkZWZlbnNpdmUgdGFjdGljcywgc3VjaCBhcyB0YWtpbmcgdGhlIERvZGdlIGFuZCBDb21iYXQgRXhwZXJ0aXNlIGZlYXRzLCBpbiBvcmRlciB0byByYWlzZSB0aGVpciBBcm1vciBDbGFzc2VzIGFuZCByZWR1Y2UgdGhlIG51bWJlciBvZiBzdWNjZXNzZnVsIGF0dGFja3MgYWdhaW5zdCB0aGVtLiBLZWVwIGluIG1pbmQgdGhhdCB3aXRob3V0IGhlYWxpbmcsIFBDcyBnZW5lcmFsbHkgaGF2ZSBubyB3YXkgdG8gZGVhbCB3aXRoIGN1cnNlcywgZGlzZWFzZXMsIHBvaXNvbnMsIGFuZCBvdGhlciBhZmZsaWN0aW9ucywgc28gdXNlIGNyZWF0dXJlcyB3aXRoIHRob3NlIGFiaWxpdGllcyBzcGFyaW5nbHkgb3IgbWFrZSBtdW5kYW5lIG1ldGhvZHMgb2Ygb3ZlcmNvbWluZyBzdWNoIGRhbmdlcnMgYSBtb3JlIHNpZ25pZmljYW50IGFuZCByZWFkaWx5IGF2YWlsYWJsZSBwYXJ0IG9mIHlvdXIgY2FtcGFpZ24uPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD01NTciPk5vIFNwZWxsY2FzdGVyczwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDQzPC9pPjwvYT48YnIgLz5UaG91Z2ggdGVjaG5pY2FsbHkgYSBicm9hZGVyIGV4YW1wbGUgb2YgdGhlIOKAnG5vIGhlYWxlcnPigJ0gdmFyaWFudCwgYSBjYW1wYWlnbiB3aXRoIG5vIHNwZWxsY2FzdGVycyBhdCBhbGwgaGFzIGFuIGVudGlyZWx5IGRpZmZlcmVudCBzZXQgb2YgcHJvYmxlbXMuIE1vc3QgYWR2ZW50dXJlcyBhc3N1bWUgdGhhdCBhIHR5cGljYWwgcGFydHkgaGFzIG9uZSBhcmNhbmUgY2FzdGVyIGFuZCBvbmUgZGl2aW5lIGNhc3Rlcjsgd2l0aG91dCBhbnkgbWFnaWMgYXQgdGhlaXIgZGlzcG9zYWwsIHRoZSBQQ3MgbWF5IGhhdmUgYSBoYXJkIHRpbWUgZGVhbGluZyB3aXRoIG1vbnN0ZXJzIHRoYXQgYXJlIHJlc2lzdGFudCB0byBwaHlzaWNhbCBkYW1hZ2UgYnV0IHZ1bG5lcmFibGUgdG8gbWFnaWMuIEV2ZW4gc29tZXRoaW5nIGFzIHNpbXBsZSBhcyBhIHN3YXJtIChpbW11bmUgdG8gd2VhcG9ucyBidXQgdnVsbmVyYWJsZSB0byBhcmVhIGF0dGFja3MpIGJlY29tZXMgYSBzaWduaWZpY2FudCBjaGFsbGVuZ2Ugd2hlbiB0aGUgUENzIGRvbuKAmXQgaGF2ZSBtYWdpYy4gQ29udmVyc2VseSwgYW4gb3RoZXJ3aXNlIGNoYWxsZW5nZS1hcHByb3ByaWF0ZSBtb25zdGVyIHRoYXQgaGFzIGEgaGlnaCBzcGVsbCByZXNpc3RhbmNlIG1heSBhY3R1YWxseSBlbmQgdXAgd2Vha2VyIHRoYW4gYSDigJxub3JtYWzigJ0gY3JlYXR1cmUgYmVjYXVzZSBpdHMgQ1IgYXNzdW1lcyB0aGUgUEMgc3BlbGxjYXN0ZXJzIGFyZSBnb2luZyB0byBoYXZlIHRyb3VibGXigJRhIGhpbmRyYW5jZSBhIG5vLXNwZWxsY2FzdGVyIHBhcnR5IGNvbXBsZXRlbHkgaWdub3Jlcy4gS2VlcCBhbiBleWUgb3V0IGZvciBtb25zdGVycyB3aXRoIGhpZ2ggRFIsIGhpZ2ggU1IsIG9yIHZ1bG5lcmFiaWxpdGllcyB0byBtYWdpY2FsIGF0dGFja3MgKGluY2x1ZGluZyBjb2xkIGFuZCBmaXJlIHZ1bG5lcmFiaWxpdHkpOyB0aGVzZSBhcmUgbGlrZWx5IHRvIGJlIG1vcmUgb3IgbGVzcyBkaWZmaWN1bHQgdGhhbiBleHBlY3RlZC48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTU1OCI+QWxsIFNwZWxsY2FzdGVyczwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDQzPC9pPjwvYT48YnIgLz5UaGlzIHNlY3Rpb24gaXMgbW9yZSBhYm91dCBhIHBhcnR5IHdpdGggbm8gbWVsZWUgY2xhc3NlcywgcmF0aGVyIHRoYW4gYSBwYXJ0eSB3aGVyZSBldmVyeSBQQyBpcyBhIHNwZWxsY2FzdGVy4oCUYSBncm91cCBvZiBmb3VyIGNsZXJpY3Mgb3IgcGFsYWRpbnMgaXMgdGVjaG5pY2FsbHkgYW4gYWxsc3BlbGxjYXN0ZXIgcGFydHksIGJ1dCB0aGV5IGRvbuKAmXQgaGF2ZSB0aGUgc29ydCBvZiBwcm9ibGVtcyB0aGF0IGZvdXIgc29yY2VyZXJzLCB3aXphcmRzLCBvciBldmVuIGJhcmRzIGZhY2UuIFN1Y2ggYSBwYXJ0eSBpcyB0aGUgb3Bwb3NpdGUgb2YgdGhlIG5vLXNwZWxsY2FzdGVycyBncm91cDsgRFIgaXMgbGVzcyBpbXBvcnRhbnQsIFNSIGFuZCByZXNpc3RhbmNlcyBhcmUgbW9yZSBpbXBvcnRhbnQsIGFuZCBjcmVhdHVyZXMgd2l0aCBuZWFybHkgdW5pdmVyc2FsIG1hZ2ljIGltbXVuaXR5IGFyZSBhIHNlcmlvdXMgcHJvYmxlbS4gR29sZW1zLCBmb3IgZXhhbXBsZSwgY2Fu4oCZdCBiZSBkYW1hZ2VkIGJ5IG1vc3QgZGlyZWN0LWF0dGFjayBzcGVsbHMsIGFuZCBldmVuIHRob3VnaCBhIHN0b25lIGdvbGVtIGlzIENSIDExLCBpdCBtYXkgYmUgYWJsZSB0byBlbGltaW5hdGUgYW4gZW50aXJlIHBhcnR5IG9mIDEydGgtbGV2ZWwgd2l6YXJkcywgZXNwZWNpYWxseSBnaXZlbiBhIHdpemFyZOKAmXMgbG93IEFDIGFuZCBoaXQgcG9pbnRzIGNvbXBhcmVkIHRvIGEgbWVsZWUgY2xhc3MuIFRoZSBnb2xlbSBpcyBhbiDigJxlYXN54oCdIGNoYWxsZW5nZSBvbiBwYXBlciwgYnV0IG1vcmUgZGFuZ2Vyb3VzIGluIGV4ZWN1dGlvbi4gT2YgY291cnNlLCBzbWFydCBwbGF5ZXJzIHdpbGwgdXNlIHN1bW1vbmVkIG1vbnN0ZXJzIGFuZCBjaGFybWVkIGVuZW1pZXMgdG8gdGFrZSB0aGUgYnJ1bnQgb2YgcGh5c2ljYWwgYXR0YWNrcywgYW5kIGEgc21hcnQgR00gY2FuIHN0YXZlIG9mZiBhIGxvdCBvZiBwbGF5ZXIgZnJ1c3RyYXRpb24gYnkgcHJvdmlkaW5nIHN1Y2ggdGhpbmdzIHRvIHRoZSBQQ3MgKGV2ZW4gaW4gdGhlIGZvcm0gb2Ygc2Nyb2xscyBvciB3YW5kcykgaWYgdGhlIHBsYXllcnMgZG9u4oCZdCB0aGluayBvZiBpdCB0aGVtc2VsdmVzOyBldmVuIGEgZmV3IHN1bW1vbmVkIG9yY3MgYXQgdGhlIHN0YXJ0IG9mIGFuIGFkdmVudHVyZSBjYW4gaGVscCBhbiBhbGwtY2FzdGVyIHBhcnR5IHN1cnZpdmUuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD01NTkiPlNtYWxsIFBhcnR5PC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gNDM8L2k+PC9hPjxiciAvPlNvbWV0aW1lcyB5b3UgaGF2ZSBhIHBsYXllciB3aG8gY2Fu4oCZdCBtYWtlIGl0IHRvIHRoaXMgd2Vla+KAmXMgc2Vzc2lvbjsgc29tZXRpbWVzIHlvdSBvbmx5IGtub3cgdHdvIG90aGVyIGdhbWVycyBpbiB5b3VyIGFyZWEuIEVpdGhlciB3YXksIGhhdmluZyBhIHNtYWxsIHBhcnR5IHByZXNlbnRzIHlvdSB3aXRoIHNvbWUgdW5pcXVlIGNoYWxsZW5nZXMuIFdpdGggZmV3ZXIgY2hhcmFjdGVycywgYSBiYXR0bGUgY2FuIHNoaWZ0IGFnYWluc3QgdGhlbSB2ZXJ5IHF1aWNrbHnigJQgb25lIHVuY29uc2Npb3VzLCBjaGFybWVkLCBvciBoZWxkIFBDIGluIGEgZ3JvdXAgb2YgdGhyZWUgaXMgYSBsb3NzIG9mIDMzJSBvZiB0aGUgcGFydHnigJlzIHJlc291cmNlcyBjb21wYXJlZCB0byAyNSUgaW4gYSBzdGFuZGFyZCBwYXJ0eS4gT2Z0ZW4sIG9uZSBvciBtb3JlIFBDcyBtYXkgaGF2ZSB0byB0YWtlIG9uIG11bHRpcGxlIHJvbGVzIChtZWxlZSBjaGFyYWN0ZXIsIHNraWxsIGNoYXJhY3RlciwgYXJjYW5lIGRhbWFnZS1kZWFsZXIsIG9yIGRpdmluZSBoZWFsZXIpLCBhbmQgYXMgdGhlIGdhbWUgcmV3YXJkcyBzcGVjaWFsaXphdGlvbiwgdGhpcyBtZWFucyB0aGVzZSBoeWJyaWQgY2hhcmFjdGVycyBhcmUgc2xpZ2h0bHkgbGVzcyBlZmZlY3RpdmUgYXQgZWl0aGVyIHRhc2sgdGhhbiB0d28gZm9jdXNlZCBjaGFyYWN0ZXJzIHdvdWxkIGJlLiBGZXdlciBjaGFyYWN0ZXJzIG1lYW5zIGl04oCZcyBtb3JlIGxpa2VseSB0aGV54oCZcmUgY2x1c3RlcmVkIHRvZ2V0aGVyLCBhbmQgdGh1cyBhcmUgbW9yZSB2dWxuZXJhYmxlIHRvIGFyZWEgYXR0YWNrcy4gV2hlbiBkZWFsaW5nIHdpdGggYSBzbWFsbCBwYXJ0eSwgdGVtcGVyYW5jZSBpcyB0aGUga2V54oCUc3RhcnQgd2l0aCBzbWFsbGVyLCB3ZWFrZXIgZW5jb3VudGVycywgYW5kIGdpdmUgdGhlIHBsYXllcnMgdGltZSB0byBnZXQgdGhlIGZlZWwgb2YgdGhlaXIgZ3JvdXDigJlzIHZ1bG5lcmFiaWxpdGllcy4gT25jZSB0aGUgcGxheWVycyBoYXZlIGFuIGlkZWEgYWJvdXQgdGhlaXIgcGFydHkgZHluYW1pY3MsIHRlc3QgdGhlbSB3aXRoIGVuY291bnRlcnMgY2xvc2VyIHRvIHRoZWlyIGF2ZXJhZ2UgcGFydHkgbGV2ZWwsIGFuZCBldmVudHVhbGx5IHlvdeKAmWxsIGZpbmQgYSBnb29kIENSIHJhbmdlIHRoYXQgc3VpdHMgdGhlaXIgYWJpbGl0aWVzIGFuZCBpcyBzdGlsbCBjaGFsbGVuZ2luZy48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTU2MCI+TGFyZ2UgUGFydHk8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiA0MzwvaT48L2E+PGJyIC8+QSBwYXJ0eSBvZiBlaWdodCBQQ3MgaXMgYSBtdWNoIGRpZmZlcmVudCDigJxwcm9ibGVt4oCdIGZvciBhIEdNOiB0aGV54oCZcmUgYWJsZSB0byBoYW5kbGUgbW9yZSBkaWZmaWN1bHQgZW5jb3VudGVycyBhbmQgbW9yZSBvZiB0aGVtIHBlciBkYXksIG9mdGVuIGJ5IGV4cGVuZGluZyBkaXNwcm9wb3J0aW9uYXRlbHkgZmV3ZXIgcmVzb3VyY2VzIHRoYW4gYSBmb3VyLXBlcnNvbiBwYXJ0eS4gSXQgd291bGQgYmUgZWFzeSB0byBtYWtlIHRoZSBhc3N1bXB0aW9uIHRoYXQgYmVjYXVzZSBkb3VibGluZyB0aGUgbnVtYmVyIG9mIG1vbnN0ZXJzIGluIGFuIGVuY291bnRlciBhZGRzICsyIHRvIHRoZSBDUiwgYSBwYXJ0eSBvZiBkb3VibGUgdGhlIG5vcm1hbCBudW1iZXIgb2YgUENzIGNhbiByb3V0aW5lbHkgaGFuZGxlIGVuY291bnRlcnMgd2hlcmUgdGhlIENSIGlzIGVxdWFsIHRvIHRoZSBBUEwgKzIuIFRoaXMgaXNu4oCZdCBhbHdheXMgdHJ1ZSwgaG93ZXZlciwgbWFpbmx5IGJlY2F1c2UgaGlnaGVyLSBDUiBtb25zdGVycyB0ZW5kIHRvIGhhdmUgYnVpbHQtaW4gYXNzdW1wdGlvbnMgYWJvdXQgcGFydHkgZ2VhciAoc2VlIEhpZ2gtIGFuZCBMb3ctQ1IgRW5jb3VudGVycyBvbiBwYWdlIDQxKS4gVGhlc2UgZGlmZmVyZW5jZXMgYXJlIGVzcGVjaWFsbHkgZXZpZGVudCB3aXRoIGEgbGFyZ2UgbnVtYmVyIG9mIHdlYWtlciBQQ3MuPGJyIC8+PGJyIC8+IEEgZ29vZCBsb3ctbGV2ZWwgZXhhbXBsZSBvZiB0aGlzIGlzIHRoZSBiYXJnaGVzdDsgaXTigJlzIG9ubHkgQ1IgNCwgYW5kIGluIHRoZW9yeSwgaWYgZm91ciAybmQtbGV2ZWwgUENzIGNhbiBoYW5kbGUgYSBDUiAyIGVuY291bnRlciwgZWlnaHQgMm5kLWxldmVsIFBDcyBzaG91bGQgYmUgYWJsZSB0byBraWxsIGEgQ1IgNCBtb25zdGVyLiBIb3dldmVyLCBtb3N0IDJuZC1sZXZlbCBjaGFyYWN0ZXJzIGFyZW7igJl0IGdvaW5nIHRvIGhhdmUgYSBtYWdpYyB3ZWFwb24sIGFuZCB0aGVyZWZvcmUgdGhlIGJhcmdoZXN04oCZcyBEUiA1L21hZ2ljIGFic29yYnMgYSBsb3Qgb2YgaW5jb21pbmcgZGFtYWdlLiBBbHNvLCBhIGJhcmdoZXN04oCZcyBhdmVyYWdlIGRhbWFnZSBwZXIgcm91bmQgaXMgMjAuNSwgYXNzdW1pbmcgaXQgaGl0cyB3aXRoIGFsbCB0aHJlZSBhdHRhY2tzIChhbmQgd2l0aCBhICsxMCBhdHRhY2sgYm9udXMgZm9yIGFsbCB0aHJlZSwgdGhhdOKAmXMgYSBzYWZlIGJldCBhZ2FpbnN0IDJuZGxldmVsIFBDcyk7IHdoaWxlIHRoYXTigJlzIGRhbmdlcm91cyBmb3IgNHRoLWxldmVsIFBDcyAod2hlcmUgYSB0eXBpY2FsIGZpZ2h0ZXIgaGFzIGFib3V0IDQwIGhpdCBwb2ludHMpLCBpdOKAmXMgbXVyZGVyIGZvciAybmQtbGV2ZWwgUENzICh3aGVyZSBhIHR5cGljYWwgZmlnaHRlciBoYXMgYWJvdXQgMjIgaGl0IHBvaW50cykuIEluIHRoaXMgY2FzZSwgdGhlIGJhdHRsZSBiZWNvbWVzIGEgcmFjZSB0byB3ZWFyIGRvd24gdGhlIG1vbnN0ZXIgYXMgc29vbiBhcyBwb3NzaWJsZSBiZWNhdXNlIGl04oCZcyBraWxsaW5nIGEgUEMgYWxtb3N0IGV2ZXJ5IHJvdW5kLjxiciAvPjxiciAvPiBJdOKAmXMgcGVyZmVjdGx5IGZpbmUgZm9yIGEgbGFyZ2UgZ3JvdXAgb2YgUENzIHRvIGhhdmUgYW4gZWFzaWVyIHRpbWUgZGVhbGluZyB3aXRoIGNoYWxsZW5nZXMgd2hlcmUgdGhlIENSIGlzIGVxdWFsIHRvIHRoZSBBUEwuIEluIGdlbmVyYWwsIGl04oCZcyBiZXR0ZXIgdG8gdXNlIG11bHRpcGxlIHdlYWsgbW9uc3RlcnMgdGhhbiBvbmUgcG93ZXJmdWwgbW9uc3Rlci4gVGhpcyBnaXZlcyBlYWNoIFBDIG11bHRpcGxlIG9wcG9uZW50cyB0byBjaG9vc2UgZnJvbSwgZ2l2ZXMgeW91IG1vcmUgY3JlYXR1cmVzIHRvIHBsYXkgd2l0aCwgYW5kIGtlZXBzIFBDIG1vcnRhbGl0eSBsb3cuZGRkWrvSLe/WC/tCjHp4Vud4WrtkePIfRU7gHfle6DI/gT4=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=454">GameMastery Guide</a></u> / <u><a href="Rules.aspx?ID=514">Running a Game</a></u> / <u><a href="Rules.aspx?ID=515">How to Run a Game</a></u> / <u><a href="Rules.aspx?ID=543">The Science of GMing</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=555">Unusual Campaigns</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 43</i></a><br />Most GMs eventually toy with the idea of running a theme campaign, such as an all-dwarf or all-elf campaign. While most of these have no game effect, below are several variant campaigns that require special consideration when building encounters.<br /><h1 class="title"><a href="Rules.aspx?ID=556">No Healers</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 43</i></a><br />Whether you’re running a low-magic campaign or just have a group of players uninterested in playing healers, a lack of curative magic in the party is a big deviation from the norm. Without a healer, monsters that deal high damage have a greater risk of killing a PC—there’s no healer to step in and compensate for a critical hit— so you should rely on weaker monsters that don’t deal damage in large increments. If there is magic in the campaign, the PCs can at least rely on potions (and scrolls and wands, given an adequate Use Magic Device bonus), but this forces them to decide between attacking and healing each round. Without reliable access to any healing magic (such as in a historical campaign), the PCs must resort to nonmagical methods like the Heal skill, or perhaps limited-use legendary items or quasi-magical items derived from unusual monster parts. They should also consider using more defensive tactics, such as taking the Dodge and Combat Expertise feats, in order to raise their Armor Classes and reduce the number of successful attacks against them. Keep in mind that without healing, PCs generally have no way to deal with curses, diseases, poisons, and other afflictions, so use creatures with those abilities sparingly or make mundane methods of overcoming such dangers a more significant and readily available part of your campaign.<br /><h1 class="title"><a href="Rules.aspx?ID=557">No Spellcasters</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 43</i></a><br />Though technically a broader example of the “no healers” variant, a campaign with no spellcasters at all has an entirely different set of problems. Most adventures assume that a typical party has one arcane caster and one divine caster; without any magic at their disposal, the PCs may have a hard time dealing with monsters that are resistant to physical damage but vulnerable to magic. Even something as simple as a swarm (immune to weapons but vulnerable to area attacks) becomes a significant challenge when the PCs don’t have magic. Conversely, an otherwise challenge-appropriate monster that has a high spell resistance may actually end up weaker than a “normal” creature because its CR assumes the PC spellcasters are going to have trouble—a hindrance a no-spellcaster party completely ignores. Keep an eye out for monsters with high DR, high SR, or vulnerabilities to magical attacks (including cold and fire vulnerability); these are likely to be more or less difficult than expected.<br /><h1 class="title"><a href="Rules.aspx?ID=558">All Spellcasters</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 43</i></a><br />This section is more about a party with no melee classes, rather than a party where every PC is a spellcaster—a group of four clerics or paladins is technically an allspellcaster party, but they don’t have the sort of problems that four sorcerers, wizards, or even bards face. Such a party is the opposite of the no-spellcasters group; DR is less important, SR and resistances are more important, and creatures with nearly universal magic immunity are a serious problem. Golems, for example, can’t be damaged by most direct-attack spells, and even though a stone golem is CR 11, it may be able to eliminate an entire party of 12th-level wizards, especially given a wizard’s low AC and hit points compared to a melee class. The golem is an “easy” challenge on paper, but more dangerous in execution. Of course, smart players will use summoned monsters and charmed enemies to take the brunt of physical attacks, and a smart GM can stave off a lot of player frustration by providing such things to the PCs (even in the form of scrolls or wands) if the players don’t think of it themselves; even a few summoned orcs at the start of an adventure can help an all-caster party survive.<br /><h1 class="title"><a href="Rules.aspx?ID=559">Small Party</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 43</i></a><br />Sometimes you have a player who can’t make it to this week’s session; sometimes you only know two other gamers in your area. Either way, having a small party presents you with some unique challenges. With fewer characters, a battle can shift against them very quickly— one unconscious, charmed, or held PC in a group of three is a loss of 33% of the party’s resources compared to 25% in a standard party. Often, one or more PCs may have to take on multiple roles (melee character, skill character, arcane damage-dealer, or divine healer), and as the game rewards specialization, this means these hybrid characters are slightly less effective at either task than two focused characters would be. Fewer characters means it’s more likely they’re clustered together, and thus are more vulnerable to area attacks. When dealing with a small party, temperance is the key—start with smaller, weaker encounters, and give the players time to get the feel of their group’s vulnerabilities. Once the players have an idea about their party dynamics, test them with encounters closer to their average party level, and eventually you’ll find a good CR range that suits their abilities and is still challenging.<br /><h1 class="title"><a href="Rules.aspx?ID=560">Large Party</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 43</i></a><br />A party of eight PCs is a much different “problem” for a GM: they’re able to handle more difficult encounters and more of them per day, often by expending disproportionately fewer resources than a four-person party. It would be easy to make the assumption that because doubling the number of monsters in an encounter adds +2 to the CR, a party of double the normal number of PCs can routinely handle encounters where the CR is equal to the APL +2. This isn’t always true, however, mainly because higher- CR monsters tend to have built-in assumptions about party gear (see High- and Low-CR Encounters on page 41). These differences are especially evident with a large number of weaker PCs.<br /><br /> A good low-level example of this is the barghest; it’s only CR 4, and in theory, if four 2nd-level PCs can handle a CR 2 encounter, eight 2nd-level PCs should be able to kill a CR 4 monster. However, most 2nd-level characters aren’t going to have a magic weapon, and therefore the barghest’s DR 5/magic absorbs a lot of incoming damage. Also, a barghest’s average damage per round is 20.5, assuming it hits with all three attacks (and with a +10 attack bonus for all three, that’s a safe bet against 2ndlevel PCs); while that’s dangerous for 4th-level PCs (where a typical fighter has about 40 hit points), it’s murder for 2nd-level PCs (where a typical fighter has about 22 hit points). In this case, the battle becomes a race to wear down the monster as soon as possible because it’s killing a PC almost every round.<br /><br /> It’s perfectly fine for a large group of PCs to have an easier time dealing with challenges where the CR is equal to the APL. In general, it’s better to use multiple weak monsters than one powerful monster. This gives each PC multiple opponents to choose from, gives you more creatures to play with, and keeps PC mortality low.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

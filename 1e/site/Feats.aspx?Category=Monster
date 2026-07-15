@@ -1,0 +1,337 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Feats - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, Feat, Ability Focus, Awesome Blow, Bouncing Spell-Like Ability, Disruptive Spell-Like Ability, Empower Spell-Like Ability, Fearsome Spell-Like Ability, Flyby Attack, Gruesome Shapechanger, Hover, Improved Natural Armor, Improved Natural Attack, Intensified Spell-Like Ability, Lingering Spell-Like Ability, Multiattack, Multiweapon Fighting, Possess Creature, Possess Location, Possess Object, Quicken Spell-Like Ability, Reach Spell-Like Ability, Scarring Spell-Like Ability, Sickening Spell-Like Ability, Skin Suit, Snatch, Spawnlink, Traumatic Spell-Like Ability, Wingover" /><meta name="description" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Feats.aspx?Category=Monster" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDY4MzUzMjE1D2QWAmYPZBYCAgMPZBYCAgEPZBYKAgEPDxYCHgRUZXh0BYcRPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT0iPkdlbmVyYWw8L2E+IHwgPGEgaHJlZj0iQ29tYmF0U3RhbWluYS5hc3B4Ij5Db21iYXQgU3RhbWluYTwvYT48YnIgLz48YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PUFjaGlldmVtZW50Ij5BY2hpZXZlbWVudDwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PUFsaWdubWVudCI+QWxpZ25tZW50PC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9QXJtb3IgTWFzdGVyeSI+QXJtb3IgTWFzdGVyeTwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PUFybW9yIFN0eWxlIj5Bcm1vciBTdHlsZTwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PUJldHJheWFsIj5CZXRyYXlhbDwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PUJsb29kIEhleCI+Qmxvb2QgSGV4PC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9Q2FsbGVkIFNob3QiPkNhbGxlZCBTaG90PC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9Q29tYmF0Ij5Db21iYXQ8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1Db21iaW5hdGlvbiI+Q29tYmluYXRpb248L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1Db25kdWl0Ij5Db25kdWl0PC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9Q292ZW4iPkNvdmVuPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9Q3JpdGljYWwiPkNyaXRpY2FsPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9RGFtbmF0aW9uIj5EYW1uYXRpb248L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1Fc290ZXJpYyI+RXNvdGVyaWM8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1GYWN0aW9uIj5GYWN0aW9uPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9RmFtaWxpYXIiPkZhbWlsaWFyPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9R2F0aGxhaW4gQ291cnQgVGl0bGUiPkdhdGhsYWluIENvdXJ0IFRpdGxlPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9R3JpdCI+R3JpdDwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PUhlcm8gUG9pbnQiPkhlcm8gUG9pbnQ8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1JdGVtIENyZWF0aW9uIj5JdGVtIENyZWF0aW9uPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9SXRlbSBNYXN0ZXJ5Ij5JdGVtIE1hc3Rlcnk8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1NZWRpdGF0aW9uIj5NZWRpdGF0aW9uPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9TWV0YW1hZ2ljIj5NZXRhbWFnaWM8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1Nb25zdGVyIj5Nb25zdGVyPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9T3JpZ2luIj5PcmlnaW48L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1QYW5hY2hlIj5QYW5hY2hlPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9UGVyZm9ybWFuY2UiPlBlcmZvcm1hbmNlPC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9U2hpZWxkIE1hc3RlcnkiPlNoaWVsZCBNYXN0ZXJ5PC9hPiB8IDxhIGhyZWY9IkZlYXRzLmFzcHg/Q2F0ZWdvcnk9U2hpZWxkIFN0eWxlIj5TaGllbGQgU3R5bGU8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1TdGFyZSI+U3RhcmU8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1TdG9yeSI+U3Rvcnk8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1TdHlsZSI+U3R5bGU8L2E+IHwgPGEgaHJlZj0iRmVhdHMuYXNweD9DYXRlZ29yeT1UYXJnZXRpbmciPlRhcmdldGluZzwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PVRlYW13b3JrIj5UZWFtd29yazwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PVRyaWNrIj5UcmljazwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PVdlYXBvbiBNYXN0ZXJ5Ij5XZWFwb24gTWFzdGVyeTwvYT4gfCA8YSBocmVmPSJGZWF0cy5hc3B4P0NhdGVnb3J5PVdvcmRzIG9mIFBvd2VyIj5Xb3JkcyBvZiBQb3dlcjwvYT5kZAIDDw8WAh8ABdMVPGgyPjxoMSBjbGFzcz0idGl0bGUiPk1vbnN0ZXIgRmVhdHM8L2gxPjwvaDI+PGI+RGVzY3JpcHRpb24gPC9iPiA8Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTluNWE/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLUhvcnJvci1BZHZlbnR1cmVzDQoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+SG9ycm9yIEFkdmVudHVyZXMgcGcuIDc4PC9pPjwvYT48YnIgLz5Nb25zdGVyIGZlYXRzIHdlcmUgaW50cm9kdWNlZCBpbiA8aT5QYXRoZmluZGVyIFJQRyBCZXN0aWFyeTwvaT4sIHRob3VnaCB3aXRob3V0IGEgc2VwYXJhdGUgdGFnIChhbGwgZmVhdHMgaW4gPGk+QmVzdGlhcnk8L2k+IGFyZSBtb25zdGVyIGZlYXRzIGV4Y2VwdCA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1DcmFmdCBDb25zdHJ1Y3QiPkNyYWZ0IENvbnN0cnVjdDwvYT4pLiBNb3N0IG9mIHRoZXNlIGZlYXRzIGFwcGx5IHNwZWNpZmljYWxseSB0byBtb25zdGVycyBhbmQgbWlnaHQgZ3JhbnQgYWJpbGl0aWVzIHRoYXQgY291bGQgYmUgZGlzcnVwdGl2ZSBpbiB0aGUgaGFuZHMgb2YgUENzLCBhbHRob3VnaCB3aXRoIHRoZSBHTSdzIHBlcm1pc3Npb24gUENzIGNhbiB0YWtlIG9uZSBvZiB0aGVzZSBmZWF0cyBpZiB0aGV5IG1lZXQgdGhlIHByZXJlcXVpc2l0ZXMuPGJyIC8+PGJyIC8+IFNvbWUgbW9uc3RlciBmZWF0cyBhbGxvdyBhIGNyZWF0dXJlIHRvIGFwcGx5IG1ldGFtYWdpYyBmZWF0LWxpa2UgZWZmZWN0cyB0byBpdHMgc3BlbGwtbGlrZSBhYmlsaXRpZXMuIFlvdSBjYW4gc2VsZWN0IGEgc3BlbGwtbGlrZSBhYmlsaXR5IGR1cGxpY2F0aW5nIGEgc3BlbGwgd2l0aCBhIGxldmVsIGxlc3MgdGhhbiBvciBlcXVhbCB0byAxLzIgdGhlIG1vbnN0ZXIncyBjYXN0ZXIgbGV2ZWwgKHJvdW5kIGRvd24pIOKAkyAxIG9yIDIsIGRlcGVuZGluZyBvbiB0aGUgYWJpbGl0eS4gVGFibGUgM+KAkzE6IE1ldGFtYWdpYyBTcGVsbC1MaWtlIEFiaWxpdGllcyBzdW1tYXJpemVzIHRoZXNlIGZlYXRzIGFuZCB3aGF0IHNwZWxsLWxpa2UgYWJpbGl0aWVzIHRoZXkgY2FuIGFmZmVjdCBieSBjYXN0ZXIgbGV2ZWwuPC9oMj5UYWJsZSAz4oCTMTogTWV0YW1hZ2ljIFNwZWxsLUxpa2UgQWJpbGl0aWVzPC9oMj4gPHRhYmxlIGNsYXNzPSJpbm5lciI+PHRyPjx0ZD48Yj5TcGVsbCBMZXZlbDwvYj48L3RkPjx0ZD48Yj5DYXN0ZXIgTGV2ZWw8c3VwPjE8L3N1cD48L2I+PC90ZD48dGQ+PGI+Q2FzdGVyIExldmVsPHN1cD4yPC9zdXA+PC9iPjwvdGQ+PC90cj4gPHRyPjx0ZD4wPC90ZD48dGQ+Mm5kPC90ZD48dGQ+NHRoPC90ZD48L3RyPiA8dHI+PHRkPjFzdDwvdGQ+PHRkPjR0aDwvdGQ+PHRkPjZ0aDwvdGQ+PC90cj4gPHRyPjx0ZD4ybmQ8L3RkPjx0ZD42dGg8L3RkPjx0ZD44dGg8L3RkPjwvdHI+IDx0cj48dGQ+M3JkPC90ZD48dGQ+OHRoPC90ZD48dGQ+MTB0aDwvdGQ+PC90cj4gPHRyPjx0ZD40dGg8L3RkPjx0ZD4xMHRoPC90ZD48dGQ+MTJ0aDwvdGQ+PC90cj4gPHRyPjx0ZD41dGg8L3RkPjx0ZD4xMnRoPC90ZD48dGQ+MTR0aDwvdGQ+PC90cj4gPHRyPjx0ZD42dGg8L3RkPjx0ZD4xNHRoPC90ZD48dGQ+MTZ0aDwvdGQ+PC90cj4gPHRyPjx0ZD43dGg8L3RkPjx0ZD4xNnRoPC90ZD48dGQ+MTh0aDwvdGQ+PC90cj4gPHRyPjx0ZD44dGg8L3RkPjx0ZD4xOHRoPC90ZD48dGQ+MjB0aDwvdGQ+PC90cj4gPHRyPjx0ZD45dGg8L3RkPjx0ZD4yMHRoPC90ZD48dGQ+4oCUPC90ZD48L3RyPjwvdGFibGU+IDEgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IkZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9Qm91bmNpbmcgU3BlbGwtTGlrZSBBYmlsaXR5Ij5Cb3VuY2luZzwvYT4sIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPURpc3J1cHRpdmUgU3BlbGwtTGlrZSBBYmlsaXR5Ij5kaXNydXB0aXZlPC9hPiwgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IkZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9SW50ZW5zaWZpZWQgU3BlbGwtTGlrZSBBYmlsaXR5Ij5pbnRlbnNpZmllZDwvYT4sIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUxpbmdlcmluZyBTcGVsbC1MaWtlIEFiaWxpdHkiPmxpbmdlcmluZzwvYT4sIG9yIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNjYXJyaW5nIFNwZWxsLUxpa2UgQWJpbGl0eSI+c2NhcnJpbmc8L2E+IGFiaWxpdHkuIDxiciAvPjIgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IkZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9RmVhcnNvbWUgU3BlbGwtTGlrZSBBYmlsaXR5Ij5GZWFyc29tZTwvYT4sIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNpY2tlbmluZyBTcGVsbC1MaWtlIEFiaWxpdHkiPnNpY2tlbmluZzwvYT4sIG9yIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPVRyYXVtYXRpYyBTcGVsbC1MaWtlIEFiaWxpdHkiPnRyYXVtYXRpYzwvYT4gYWJpbGl0eS48YnIgLz48YnIgLz5kZAIFDw8WAh8ABdMBPGRpdiBzdHlsZT0iZm9udC1zaXplOjEycHgiPjxpPipjb21iYXQgZmVhdDwvaT48YnIgLz48aT48c3VwPuKKpDwvc3VwPmFybW9yIG1hc3RlcnkgZmVhdDwvaT48YnIgLz48aT48c3VwPuKKpOKKpDwvc3VwPnNoaWVsZCBtYXN0ZXJ5IGZlYXQ8L2k+PGJyIC8+PGk+PHN1cD7iiqTiiqTiiqQ8L3N1cD53ZWFwb24gbWFzdGVyeSBmZWF0PC9pPjxiciAvPjxiciAvPjwvZGl2PmRkAgcPPCsAEQMADxYEHgtfIURhdGFCb3VuZGceC18hSXRlbUNvdW50AhtkARAWABYAFgAMFCsAABYCZg9kFjgCAQ9kFgZmD2QWAmYPDxYEHwAFDUFiaWxpdHkgRm9jdXMeC05hdmlnYXRlVXJsBSdGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUFiaWxpdHkgRm9jdXNkZAIBDw8WAh8ABQ5TcGVjaWFsIGF0dGFja2RkAgIPDxYCHwAFKUluY3JlYXNlIHRoZSBEQyBvZiBhIHNwZWNpYWwgYXR0YWNrIGJ5IDIuZGQCAg9kFgZmD2QWAmYPDxYEHwAFDUF3ZXNvbWUgQmxvdyofAwUmRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1Bd2Vzb21lIEJsb3dkZAIBDw8WAh8ABfIBU3RyIDI1LCA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1Qb3dlciBBdHRhY2siPlBvd2VyIEF0dGFjazwvYT4sIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUltcHJvdmVkIEJ1bGwgUnVzaCI+SW1wcm92ZWQgQnVsbCBSdXNoPC9hPiwgc2l6ZSBMYXJnZSBvciBsYXJnZXJkZAICDw8WAh8ABTdMZWFybiBhIG1hbmV1dmVyIHRvIHNlbmQgb3Bwb25lbnTigJlzIGZseWluZyBiYWNrd2FyZHMuZGQCAw9kFgZmD2QWAmYPDxYEHwAFG0JvdW5jaW5nIFNwZWxsLUxpa2UgQWJpbGl0eR8DBTVGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUJvdW5jaW5nIFNwZWxsLUxpa2UgQWJpbGl0eWRkAgEPDxYCHwAFMFNwZWxsLWxpa2UgYWJpbGl0eSBhdCBjYXN0ZXIgbGV2ZWwgNHRoIG9yIGhpZ2hlcmRkAgIPDxYCHwAFM0ZhaWxlZCBzcGVsbC1saWtlIGFiaWxpdHkgYm91bmNlcyB0byBhbm90aGVyIHRhcmdldGRkAgQPZBYGZg9kFgJmDw8WBB8ABR1EaXNydXB0aXZlIFNwZWxsLUxpa2UgQWJpbGl0eR8DBTdGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPURpc3J1cHRpdmUgU3BlbGwtTGlrZSBBYmlsaXR5ZGQCAQ8PFgIfAAUwU3BlbGwtbGlrZSBhYmlsaXR5IGF0IGNhc3RlciBsZXZlbCA0dGggb3IgaGlnaGVyZGQCAg8PFgIfAAUvU3BlbGwtbGlrZSBhYmlsaXR5IGludGVyZmVyZXMgd2l0aCBzcGVsbGNhc3RpbmdkZAIFD2QWBmYPZBYCZg8PFgQfAAUaRW1wb3dlciBTcGVsbC1MaWtlIEFiaWxpdHkfAwU0RmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1FbXBvd2VyIFNwZWxsLUxpa2UgQWJpbGl0eWRkAgEPDxYCHwAFMFNwZWxsLWxpa2UgYWJpbGl0eSBhdCBjYXN0ZXIgbGV2ZWwgNnRoIG9yIGhpZ2hlcmRkAgIPDxYCHwAFP0dhaW4gbW9yZSB1c2VzIG9mIGEgc3BlbGwtbGlrZSBhYmlsaXR5IGFzIGFuIGVtcG93ZXJlZCB2ZXJzaW9uLmRkAgYPZBYGZg9kFgJmDw8WBB8ABRtGZWFyc29tZSBTcGVsbC1MaWtlIEFiaWxpdHkfAwU1RmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1GZWFyc29tZSBTcGVsbC1MaWtlIEFiaWxpdHlkZAIBDw8WAh8ABTBTcGVsbC1saWtlIGFiaWxpdHkgYXQgY2FzdGVyIGxldmVsIDZ0aCBvciBoaWdoZXJkZAICDw8WAh8ABSxTcGVsbC1saWtlIGFiaWxpdHkgbWFrZXMgZGFtYWdlZCBmb2VzIHNoYWtlbmRkAgcPZBYGZg9kFgJmDw8WBB8ABQxGbHlieSBBdHRhY2sfAwUmRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1GbHlieSBBdHRhY2tkZAIBDw8WAh8ABQlGbHkgc3BlZWRkZAICDw8WAh8ABTxUYWtlIGEgc3RhbmRhcmQgYWN0aW9uIGR1cmluZyB5b3VyIG1vdmUgYWN0aW9uIHdoaWxlIGZseWluZy5kZAIID2QWBmYPZBYCZg8PFgQfAAUVR3J1ZXNvbWUgU2hhcGVjaGFuZ2VyHwMFL0ZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9R3J1ZXNvbWUgU2hhcGVjaGFuZ2VyZGQCAQ8PFgIfAAUUU2hhcGVjaGFuZ2VyIHN1YnR5cGVkZAICDw8WAh8ABTpCbG9vZHkgdHJhbnNmb3JtYXRpb24gc2lja2VucyBmb2VzIGFuZCBtYWtlcyBhcmVhIHNsaXBwZXJ5ZGQCCQ9kFgZmD2QWAmYPDxYEHwAFBUhvdmVyHwMFH0ZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9SG92ZXJkZAIBDw8WAh8ABQlGbHkgc3BlZWRkZAICDw8WAh8ABSpIb3ZlciB3aXRob3V0IG5lZWRpbmcgdG8gbWFrZSBhIEZseSBjaGVjay5kZAIKD2QWBmYPZBYCZg8PFgQfAAUWSW1wcm92ZWQgTmF0dXJhbCBBcm1vch8DBTBGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUltcHJvdmVkIE5hdHVyYWwgQXJtb3JkZAIBDw8WAh8ABRVOYXR1cmFsIGFybW9yLCBDb24gMTNkZAICDw8WAh8ABSFJbmNyZWFzZSB5b3VyIG5hdHVyYWwgYXJtb3IgYnkgMS5kZAILD2QWBmYPZBYCZg8PFgQfAAUXSW1wcm92ZWQgTmF0dXJhbCBBdHRhY2sfAwUxRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1JbXByb3ZlZCBOYXR1cmFsIEF0dGFja2RkAgEPDxYCHwAFJE5hdHVyYWwgd2VhcG9uLCBiYXNlIGF0dGFjayBib251cyArNGRkAgIPDxYCHwAFOUluY3JlYXNlIHRoZSBkYW1hZ2UgZGljZSBmb3Igb25lIG9mIHlvdXIgbmF0dXJhbCBhdHRhY2tzLmRkAgwPZBYGZg9kFgJmDw8WBB8ABR5JbnRlbnNpZmllZCBTcGVsbC1MaWtlIEFiaWxpdHkfAwU4RmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1JbnRlbnNpZmllZCBTcGVsbC1MaWtlIEFiaWxpdHlkZAIBDw8WAh8ABTBTcGVsbC1saWtlIGFiaWxpdHkgYXQgY2FzdGVyIGxldmVsIDR0aCBvciBoaWdoZXJkZAICDw8WAh8ABS9TcGVsbC1saWtlIGFiaWxpdHkgaGFzIGEgaGlnaGVyIGRhbWFnZSBkaWNlIGNhcGRkAg0PZBYGZg9kFgJmDw8WBB8ABRxMaW5nZXJpbmcgU3BlbGwtTGlrZSBBYmlsaXR5HwMFNkZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9TGluZ2VyaW5nIFNwZWxsLUxpa2UgQWJpbGl0eWRkAgEPDxYCHwAFMVNwZWxsLWxpa2UgYWJpbGl0eSBhdCBjYXN0ZXIgbGV2ZWwgNHRoIG9yIGhpZ2hlci5kZAICDw8WAh8ABTRJbnN0YW50YW5lb3VzIHNwZWxsLWxpa2UgYWJpbGl0eSBsYXN0cyBhbm90aGVyIHJvdW5kZGQCDg9kFgZmD2QWAmYPDxYEHwAFDE11bHRpYXR0YWNrKh8DBSVGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPU11bHRpYXR0YWNrZGQCAQ8PFgIfAAUdVGhyZWUgb3IgbW9yZSBuYXR1cmFsIGF0dGFja3NkZAICDw8WAh8ABTtSZWR1Y2UgdGhlIHBlbmFsdHkgb2YgeW91ciBzZWNvbmRhcnkgYXR0YWNrcyBmcm9tIC01IHRvIC0yLmRkAg8PZBYGZg9kFgJmDw8WBB8ABRVNdWx0aXdlYXBvbiBGaWdodGluZyofAwUuRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1NdWx0aXdlYXBvbiBGaWdodGluZ2RkAgEPDxYCHwAFG0RleCAxMywgdGhyZWUgb3IgbW9yZSBoYW5kc2RkAgIPDxYCHwAFTVJlZHVjZSB0aGUgcGVuYWx0aWVzIGZvciBmaWdodGluZyB3aXRoIG11bHRpcGxlIHdlYXBvbnMgZnJvbSAtNi8tMTAgdG8gLTIvLTYuZGQCEA9kFgZmD2QWAmYPDxYEHwAFEFBvc3Nlc3MgQ3JlYXR1cmUfAwUqRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1Qb3NzZXNzIENyZWF0dXJlZGQCAQ8PFgIfAAUyQ2hhIDIwLCBhbnkgZXZpbCBvdXRzaWRlciB3aXRoIDEwIG9yIG1vcmUgSGl0IERpY2VkZAICDw8WAh8ABVhQb3dlcmZ1bCBmaWVuZHMgaGF2ZSB0aGUgYWJpbGl0eSB0byBtZXJnZSB3aXRoIGNyZWF0dXJlcyBhbmQgc3ByZWFkIHRoZWlyIGZvdWwgaW5mbHVlbmNlZGQCEQ9kFgZmD2QWAmYPDxYEHwAFEFBvc3Nlc3MgTG9jYXRpb24fAwUqRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1Qb3NzZXNzIExvY2F0aW9uZGQCAQ8PFgIfAAUxQ2hhIDE2LCBhbnkgZXZpbCBvdXRzaWRlciB3aXRoIDggb3IgbW9yZSBIaXQgRGljZWRkAgIPDxYCHwAFYlNvbWUgZmllbmRzIGhhdmUgdGhlIGFiaWxpdHkgdG8gbWVyZ2Ugd2l0aCB0aGUgbGFuZCBvciBhIHN0cnVjdHVyZSBhbmQgc3ByZWFkIHRoZWlyIGZvdWwgaW5mbHVlbmNlZGQCEg9kFgZmD2QWAmYPDxYEHwAFDlBvc3Nlc3MgT2JqZWN0HwMFKEZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9UG9zc2VzcyBPYmplY3RkZAIBDw8WAh8ABTFDaGEgMTgsIGFueSBldmlsIG91dHNpZGVyIHdpdGggOSBvciBtb3JlIEhpdCBEaWNlZGQCAg8PFgIfAAVUU29tZSBmaWVuZHMgaGF2ZSB0aGUgYWJpbGl0eSB0byBtZXJnZSB3aXRoIGFuIG9iamVjdCBhbmQgc3ByZWFkIHRoZWlyIGZvdWwgaW5mbHVlbmNlZGQCEw9kFgZmD2QWAmYPDxYEHwAFGlF1aWNrZW4gU3BlbGwtTGlrZSBBYmlsaXR5HwMFNEZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9UXVpY2tlbiBTcGVsbC1MaWtlIEFiaWxpdHlkZAIBDw8WAh8ABSdTcGVsbC1saWtlIGFiaWxpdHkgYXQgQ0wgMTB0aCBvciBoaWdoZXJkZAICDw8WAh8ABUBHYWluIG1vcmUgdXNlcyB3aXRoIGEgc3BlbGwtbGlrZSBhYmlsaXR5IGFzIGEgUXVpY2tlbmVkIHZlcnNpb24uZGQCFA9kFgZmD2QWAmYPDxYEHwAFGFJlYWNoIFNwZWxsLUxpa2UgQWJpbGl0eR8DBTJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPVJlYWNoIFNwZWxsLUxpa2UgQWJpbGl0eWRkAgEPDxYCHwAFMFNwZWxsLWxpa2UgYWJpbGl0eSBhdCBjYXN0ZXIgbGV2ZWwgNHRoIG9yIGhpZ2hlcmRkAgIPDxYCHwAFJ1NwZWxsLWxpa2UgYWJpbGl0eSBnYWlucyBhIGxvbmdlciByYW5nZWRkAhUPZBYGZg9kFgJmDw8WBB8ABRtTY2FycmluZyBTcGVsbC1MaWtlIEFiaWxpdHkfAwU1RmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1TY2FycmluZyBTcGVsbC1MaWtlIEFiaWxpdHlkZAIBDw8WAh8ABTBTcGVsbC1saWtlIGFiaWxpdHkgYXQgY2FzdGVyIGxldmVsIDR0aCBvciBoaWdoZXJkZAICDw8WAh8ABUlTcGVsbC1saWtlIGFiaWxpdHkgY2F1c2VzIHBlbmFsdGllcyBhZ2FpbnN0IGVtb3Rpb248L3N1cD5VTTwvc3VwPiBlZmZlY3RzZGQCFg9kFgZmD2QWAmYPDxYEHwAFHFNpY2tlbmluZyBTcGVsbC1MaWtlIEFiaWxpdHkfAwU2RmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1TaWNrZW5pbmcgU3BlbGwtTGlrZSBBYmlsaXR5ZGQCAQ8PFgIfAAUwU3BlbGwtbGlrZSBhYmlsaXR5IGF0IGNhc3RlciBsZXZlbCA2dGggb3IgaGlnaGVyZGQCAg8PFgIfAAUnU3BlbGwtbGlrZSBhYmlsaXR5IHNpY2tlbnMgZGFtYWdlZCBmb2VzZGQCFw9kFgZmD2QWAmYPDxYEHwAFCVNraW4gU3VpdB8DBSNGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNraW4gU3VpdGRkAgEPDxYCHwAFNEludCA3LCB1bmRlYWQgY3JlYXR1cmUgdGhhdCB3YXMgb3JpZ2luYWxseSBodW1hbm9pZC5kZAICDw8WAh8ABSJIaWRlIGluIGZhbHNlIGZsZXNoIGR1cmluZyB0aGUgZGF5ZGQCGA9kFgZmD2QWAmYPDxYEHwAFBlNuYXRjaB8DBSBGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNuYXRjaGRkAgEPDxYCHwAFE1NpemUgSHVnZSBvciBsYXJnZXJkZAICDw8WAh8ABWZTdGFydCBhIGdyYXBwbGUgd2hlbiBoaXR0aW5nIGEgY3JlYXR1cmUgd2l0aCB5b3VyIGNsYXcgb3IgYml0ZSBhdHRhY2ssIGFzIGlmIHlvdSBoYWQgdGhlIEdyYWIgYWJpbGl0eS5kZAIZD2QWBmYPZBYCZg8PFgQfAAUJU3Bhd25saW5rHwMFI0ZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9U3Bhd25saW5rZGQCAQ8PFgIfAAUlSW50IDEzLCBjcmVhdGUgc3Bhd24gbW9uc3RlciBhYmlsaXR5LmRkAgIPDxYCHwAFGlNlZSB0aHJvdWdoIHNwYXdu4oCZcyBleWVzZGQCGg9kFgZmD2QWAmYPDxYEHwAFHFRyYXVtYXRpYyBTcGVsbC1MaWtlIEFiaWxpdHkfAwU2RmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1UcmF1bWF0aWMgU3BlbGwtTGlrZSBBYmlsaXR5ZGQCAQ8PFgIfAAUwU3BlbGwtbGlrZSBhYmlsaXR5IGF0IGNhc3RlciBsZXZlbCA2dGggb3IgaGlnaGVyZGQCAg8PFgIfAAUkU3BlbGwtbGlrZSBhYmlsaXR5IGNhdXNlcyBuaWdodG1hcmVzZGQCGw9kFgZmD2QWAmYPDxYEHwAFCFdpbmdvdmVyHwMFIkZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9V2luZ292ZXJkZAIBDw8WAh8ABQlGbHkgc3BlZWRkZAICDw8WAh8ABVNUdXJuIHVwIHRvIDE4MCBkZWdyZWVzIHdoaWxlIGZseWluZyBvbmNlIHBlciByb3VuZCB3aXRob3V0IHRoZSBuZWVkIG9mIGEgZmx5IGNoZWNrLmRkAhwPDxYCHgdWaXNpYmxlaGRkAgkPD2Q8KwAGAGQYAQUbY3RsMDAkTWFpbkNvbnRlbnQkR3JpZFZpZXc2DzwrAAwDBhUBBkl0ZW1JZAcUKwAbFCsAAQKJChQrAAECigoUKwABAqYTFCsAAQK0ExQrAAECjAoUKwABArsTFCsAAQKNChQrAAECvhMUKwABAo4KFCsAAQKPChQrAAECkAoUKwABAsETFCsAAQLGExQrAAECkQoUKwABApIKFCsAAQKuHRQrAAECrx0UKwABArAdFCsAAQKTChQrAAECzxMUKwABAtITFCsAAQLVExQrAAEC1hMUKwABApQKFCsAAQLXExQrAAEC2xMUKwABApUKCAIBZKYSRO9004oOqgu4hwzQnw3yHlQT5P2d/WhhCA82xj+/" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="59D2DE08" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <h2 style="text-align: center"><span id="MainContent_AllFeatLabel"><a href="Feats.aspx?Category=">General</a> | <a href="CombatStamina.aspx">Combat Stamina</a><br /><a href="Feats.aspx?Category=Achievement">Achievement</a> | <a href="Feats.aspx?Category=Alignment">Alignment</a> | <a href="Feats.aspx?Category=Armor Mastery">Armor Mastery</a> | <a href="Feats.aspx?Category=Armor Style">Armor Style</a> | <a href="Feats.aspx?Category=Betrayal">Betrayal</a> | <a href="Feats.aspx?Category=Blood Hex">Blood Hex</a> | <a href="Feats.aspx?Category=Called Shot">Called Shot</a> | <a href="Feats.aspx?Category=Combat">Combat</a> | <a href="Feats.aspx?Category=Combination">Combination</a> | <a href="Feats.aspx?Category=Conduit">Conduit</a> | <a href="Feats.aspx?Category=Coven">Coven</a> | <a href="Feats.aspx?Category=Critical">Critical</a> | <a href="Feats.aspx?Category=Damnation">Damnation</a> | <a href="Feats.aspx?Category=Esoteric">Esoteric</a> | <a href="Feats.aspx?Category=Faction">Faction</a> | <a href="Feats.aspx?Category=Familiar">Familiar</a> | <a href="Feats.aspx?Category=Gathlain Court Title">Gathlain Court Title</a> | <a href="Feats.aspx?Category=Grit">Grit</a> | <a href="Feats.aspx?Category=Hero Point">Hero Point</a> | <a href="Feats.aspx?Category=Item Creation">Item Creation</a> | <a href="Feats.aspx?Category=Item Mastery">Item Mastery</a> | <a href="Feats.aspx?Category=Meditation">Meditation</a> | <a href="Feats.aspx?Category=Metamagic">Metamagic</a> | <a href="Feats.aspx?Category=Monster">Monster</a> | <a href="Feats.aspx?Category=Origin">Origin</a> | <a href="Feats.aspx?Category=Panache">Panache</a> | <a href="Feats.aspx?Category=Performance">Performance</a> | <a href="Feats.aspx?Category=Shield Mastery">Shield Mastery</a> | <a href="Feats.aspx?Category=Shield Style">Shield Style</a> | <a href="Feats.aspx?Category=Stare">Stare</a> | <a href="Feats.aspx?Category=Story">Story</a> | <a href="Feats.aspx?Category=Style">Style</a> | <a href="Feats.aspx?Category=Targeting">Targeting</a> | <a href="Feats.aspx?Category=Teamwork">Teamwork</a> | <a href="Feats.aspx?Category=Trick">Trick</a> | <a href="Feats.aspx?Category=Weapon Mastery">Weapon Mastery</a> | <a href="Feats.aspx?Category=Words of Power">Words of Power</a></span></h2>
+    <span id="MainContent_FeatLabel"><h2><h1 class="title">Monster Feats</h1></h2><b>Description </b> <b>Source</b> <a href="http://paizo.com/products/btpy9n5a?Pathfinder-Roleplaying-Game-Horror-Adventures
+" target="_blank" class="external-link"><i>Horror Adventures pg. 78</i></a><br />Monster feats were introduced in <i>Pathfinder RPG Bestiary</i>, though without a separate tag (all feats in <i>Bestiary</i> are monster feats except <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Craft Construct">Craft Construct</a>). Most of these feats apply specifically to monsters and might grant abilities that could be disruptive in the hands of PCs, although with the GM's permission PCs can take one of these feats if they meet the prerequisites.<br /><br /> Some monster feats allow a creature to apply metamagic feat-like effects to its spell-like abilities. You can select a spell-like ability duplicating a spell with a level less than or equal to 1/2 the monster's caster level (round down) – 1 or 2, depending on the ability. Table 3–1: Metamagic Spell-Like Abilities summarizes these feats and what spell-like abilities they can affect by caster level.</h2>Table 3–1: Metamagic Spell-Like Abilities</h2> <table class="inner"><tr><td><b>Spell Level</b></td><td><b>Caster Level<sup>1</sup></b></td><td><b>Caster Level<sup>2</sup></b></td></tr> <tr><td>0</td><td>2nd</td><td>4th</td></tr> <tr><td>1st</td><td>4th</td><td>6th</td></tr> <tr><td>2nd</td><td>6th</td><td>8th</td></tr> <tr><td>3rd</td><td>8th</td><td>10th</td></tr> <tr><td>4th</td><td>10th</td><td>12th</td></tr> <tr><td>5th</td><td>12th</td><td>14th</td></tr> <tr><td>6th</td><td>14th</td><td>16th</td></tr> <tr><td>7th</td><td>16th</td><td>18th</td></tr> <tr><td>8th</td><td>18th</td><td>20th</td></tr> <tr><td>9th</td><td>20th</td><td>—</td></tr></table> 1 <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Bouncing Spell-Like Ability">Bouncing</a>, <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Disruptive Spell-Like Ability">disruptive</a>, <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Intensified Spell-Like Ability">intensified</a>, <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Lingering Spell-Like Ability">lingering</a>, or <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Scarring Spell-Like Ability">scarring</a> ability. <br />2 <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Fearsome Spell-Like Ability">Fearsome</a>, <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Sickening Spell-Like Ability">sickening</a>, or <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Traumatic Spell-Like Ability">traumatic</a> ability.<br /><br /></span>
+    <span id="MainContent_FeatLabel2"><div style="font-size:12px"><i>*combat feat</i><br /><i><sup>⊤</sup>armor mastery feat</i><br /><i><sup>⊤⊤</sup>shield mastery feat</i><br /><i><sup>⊤⊤⊤</sup>weapon mastery feat</i><br /><br /></div></span>
+    <div>
+	<table cellspacing="0" cellpadding="3" rules="cols" id="MainContent_GridView6" style="color:Black;background-color:White;border-color:#999999;border-width:1px;border-style:Solid;border-collapse:collapse;">
+		<tr style="color:White;background-color:Black;font-weight:bold;">
+			<th scope="col">Name</th><th scope="col">Prerequisite</th><th scope="col">Description</th>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Ability Focus">Ability Focus</a></td><td>Special attack</td><td>Increase the DC of a special attack by 2.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Awesome Blow">Awesome Blow*</a></td><td>Str 25, <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Power Attack">Power Attack</a>, <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Improved Bull Rush">Improved Bull Rush</a>, size Large or larger</td><td>Learn a maneuver to send opponent’s flying backwards.</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Bouncing Spell-Like Ability">Bouncing Spell-Like Ability</a></td><td>Spell-like ability at caster level 4th or higher</td><td>Failed spell-like ability bounces to another target</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Disruptive Spell-Like Ability">Disruptive Spell-Like Ability</a></td><td>Spell-like ability at caster level 4th or higher</td><td>Spell-like ability interferes with spellcasting</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Empower Spell-Like Ability">Empower Spell-Like Ability</a></td><td>Spell-like ability at caster level 6th or higher</td><td>Gain more uses of a spell-like ability as an empowered version.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Fearsome Spell-Like Ability">Fearsome Spell-Like Ability</a></td><td>Spell-like ability at caster level 6th or higher</td><td>Spell-like ability makes damaged foes shaken</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Flyby Attack">Flyby Attack</a></td><td>Fly speed</td><td>Take a standard action during your move action while flying.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Gruesome Shapechanger">Gruesome Shapechanger</a></td><td>Shapechanger subtype</td><td>Bloody transformation sickens foes and makes area slippery</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Hover">Hover</a></td><td>Fly speed</td><td>Hover without needing to make a Fly check.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Improved Natural Armor">Improved Natural Armor</a></td><td>Natural armor, Con 13</td><td>Increase your natural armor by 1.</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Improved Natural Attack">Improved Natural Attack</a></td><td>Natural weapon, base attack bonus +4</td><td>Increase the damage dice for one of your natural attacks.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Intensified Spell-Like Ability">Intensified Spell-Like Ability</a></td><td>Spell-like ability at caster level 4th or higher</td><td>Spell-like ability has a higher damage dice cap</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Lingering Spell-Like Ability">Lingering Spell-Like Ability</a></td><td>Spell-like ability at caster level 4th or higher.</td><td>Instantaneous spell-like ability lasts another round</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Multiattack">Multiattack*</a></td><td>Three or more natural attacks</td><td>Reduce the penalty of your secondary attacks from -5 to -2.</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Multiweapon Fighting">Multiweapon Fighting*</a></td><td>Dex 13, three or more hands</td><td>Reduce the penalties for fighting with multiple weapons from -6/-10 to -2/-6.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Possess Creature">Possess Creature</a></td><td>Cha 20, any evil outsider with 10 or more Hit Dice</td><td>Powerful fiends have the ability to merge with creatures and spread their foul influence</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Possess Location">Possess Location</a></td><td>Cha 16, any evil outsider with 8 or more Hit Dice</td><td>Some fiends have the ability to merge with the land or a structure and spread their foul influence</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Possess Object">Possess Object</a></td><td>Cha 18, any evil outsider with 9 or more Hit Dice</td><td>Some fiends have the ability to merge with an object and spread their foul influence</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Quicken Spell-Like Ability">Quicken Spell-Like Ability</a></td><td>Spell-like ability at CL 10th or higher</td><td>Gain more uses with a spell-like ability as a Quickened version.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Reach Spell-Like Ability">Reach Spell-Like Ability</a></td><td>Spell-like ability at caster level 4th or higher</td><td>Spell-like ability gains a longer range</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Scarring Spell-Like Ability">Scarring Spell-Like Ability</a></td><td>Spell-like ability at caster level 4th or higher</td><td>Spell-like ability causes penalties against emotion</sup>UM</sup> effects</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Sickening Spell-Like Ability">Sickening Spell-Like Ability</a></td><td>Spell-like ability at caster level 6th or higher</td><td>Spell-like ability sickens damaged foes</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Skin Suit">Skin Suit</a></td><td>Int 7, undead creature that was originally humanoid.</td><td>Hide in false flesh during the day</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Snatch">Snatch</a></td><td>Size Huge or larger</td><td>Start a grapple when hitting a creature with your claw or bite attack, as if you had the Grab ability.</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Spawnlink">Spawnlink</a></td><td>Int 13, create spawn monster ability.</td><td>See through spawn’s eyes</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="FeatDisplay.aspx?ItemName=Traumatic Spell-Like Ability">Traumatic Spell-Like Ability</a></td><td>Spell-like ability at caster level 6th or higher</td><td>Spell-like ability causes nightmares</td>
+		</tr><tr>
+			<td><a href="FeatDisplay.aspx?ItemName=Wingover">Wingover</a></td><td>Fly speed</td><td>Turn up to 180 degrees while flying once per round without the need of a fly check.</td>
+		</tr>
+	</table>
+</div><br />
+   
+    
+    
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

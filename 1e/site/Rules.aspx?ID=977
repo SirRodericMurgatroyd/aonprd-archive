@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Building New Constructs - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Building New Constructs" /><meta name="description" content="Constructs typically have no Intelligence score, an average Wisdom score, and a Charisma of 1. Their dexterity is usually poor to average, though exceptionally nimble constructs do exist. Nearly all constructs of size Medium or larger have high Strength scores; constructs never have a Constitution score.&lt;br />&lt;br /> The monster creation rules in the &lt;i>Bestiary&lt;/i> serve as your best guide for designing a new construct. New constructs should stick fairly close to the Monster Statistics by CR table found on page 291 of the &lt;i>Bestiary&lt;/i> or the expanded table on page 293 of &lt;i>Bestiary 2&lt;/i>. As they are usually mindless combat brutes, most use the “high attack” column, with damage falling in between the High and Low average damage columns. Note that all the construct’s saving throws are likely to be poor, and they have no favored saves. Lacking a Constitution score, a construct’s hit points also tend to be low in comparison to creatures with similar CRs. Consider giving any construct that doesn’t have either damage reduction or hardness a higher AC to compensate." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=977" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAW3LDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9OTM5Ij5NYXN0ZXJpbmcgTWFnaWM8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9OTc0Ij5CdWlsZGluZyBhbmQgTW9kaWZ5aW5nIENvbnN0cnVjdHM8L2E+PC91PjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9OTc3Ij5CdWlsZGluZyBOZXcgQ29uc3RydWN0czwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThrOHIiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+VWx0aW1hdGUgTWFnaWMgcGcuIDExMTwvaT48L2E+PGJyIC8+Q29uc3RydWN0cyB0eXBpY2FsbHkgaGF2ZSBubyBJbnRlbGxpZ2VuY2Ugc2NvcmUsIGFuIGF2ZXJhZ2UgV2lzZG9tIHNjb3JlLCBhbmQgYSBDaGFyaXNtYSBvZiAxLiBUaGVpciBkZXh0ZXJpdHkgaXMgdXN1YWxseSBwb29yIHRvIGF2ZXJhZ2UsIHRob3VnaCBleGNlcHRpb25hbGx5IG5pbWJsZSBjb25zdHJ1Y3RzIGRvIGV4aXN0LiBOZWFybHkgYWxsIGNvbnN0cnVjdHMgb2Ygc2l6ZSBNZWRpdW0gb3IgbGFyZ2VyIGhhdmUgaGlnaCBTdHJlbmd0aCBzY29yZXM7IGNvbnN0cnVjdHMgbmV2ZXIgaGF2ZSBhIENvbnN0aXR1dGlvbiBzY29yZS48YnIgLz48YnIgLz4gVGhlIG1vbnN0ZXIgY3JlYXRpb24gcnVsZXMgaW4gdGhlIDxpPkJlc3RpYXJ5PC9pPiBzZXJ2ZSBhcyB5b3VyIGJlc3QgZ3VpZGUgZm9yIGRlc2lnbmluZyBhIG5ldyBjb25zdHJ1Y3QuIE5ldyBjb25zdHJ1Y3RzIHNob3VsZCBzdGljayBmYWlybHkgY2xvc2UgdG8gdGhlIE1vbnN0ZXIgU3RhdGlzdGljcyBieSBDUiB0YWJsZSBmb3VuZCBvbiBwYWdlIDI5MSBvZiB0aGUgPGk+QmVzdGlhcnk8L2k+IG9yIHRoZSBleHBhbmRlZCB0YWJsZSBvbiBwYWdlIDI5MyBvZiA8aT5CZXN0aWFyeSAyPC9pPi4gQXMgdGhleSBhcmUgdXN1YWxseSBtaW5kbGVzcyBjb21iYXQgYnJ1dGVzLCBtb3N0IHVzZSB0aGUg4oCcaGlnaCBhdHRhY2vigJ0gY29sdW1uLCB3aXRoIGRhbWFnZSBmYWxsaW5nIGluIGJldHdlZW4gdGhlIEhpZ2ggYW5kIExvdyBhdmVyYWdlIGRhbWFnZSBjb2x1bW5zLiBOb3RlIHRoYXQgYWxsIHRoZSBjb25zdHJ1Y3TigJlzIHNhdmluZyB0aHJvd3MgYXJlIGxpa2VseSB0byBiZSBwb29yLCBhbmQgdGhleSBoYXZlIG5vIGZhdm9yZWQgc2F2ZXMuIExhY2tpbmcgYSBDb25zdGl0dXRpb24gc2NvcmUsIGEgY29uc3RydWN04oCZcyBoaXQgcG9pbnRzIGFsc28gdGVuZCB0byBiZSBsb3cgaW4gY29tcGFyaXNvbiB0byBjcmVhdHVyZXMgd2l0aCBzaW1pbGFyIENScy4gQ29uc2lkZXIgZ2l2aW5nIGFueSBjb25zdHJ1Y3QgdGhhdCBkb2VzbuKAmXQgaGF2ZSBlaXRoZXIgZGFtYWdlIHJlZHVjdGlvbiBvciBoYXJkbmVzcyBhIGhpZ2hlciBBQyB0byBjb21wZW5zYXRlLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9OTc4Ij5QcmljaW5nIGEgTmV3ICBDb25zdHJ1Y3Q8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4azhyIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlVsdGltYXRlIE1hZ2ljIHBnLiAxMTI8L2k+PC9hPjxiciAvPlRoaXMgc2VjdGlvbiBwcm92aWRlcyBndWlkZWxpbmVzIGZvciB0aG9zZSBzZWVraW5nIHRvIGNhbGN1bGF0ZSB0aGUgY29zdHMgb2YgY3JhZnRpbmcgdGhlaXIgb3duIGNvbnN0cnVjdHMuIEFzIGEgcm91Z2ggZ3VpZGVsaW5lLCBhIGNvbnN0cnVjdOKAmXMgcHJpY2UgaXMgZXF1YWwgdG8gaXRzIGNoYWxsZW5nZSByYXRpbmcgc3F1YXJlZCwgdGhlbiBtdWx0aXBsaWVkIGJ5IDUwMCBncC4gQ29uc3RydWN0cyB3aXRoIGEgZnJhY3Rpb25hbCBDUiByYXRpbmcgYmFzZSB0aGVpciBwcmljZSBvbiB0aGF0IGZyYWN0aW9uIG9mIDUwMCBncC4gRm9yIGV4YW1wbGUsIGEgQ1IgMS8yIGNvbnN0cnVjdCBoYXMgYSBwcmljZSBvZiAyNTAgZ3AuIFRoZSBjb3N0IG9mIG1hZ2ljYWwgc3VwcGxpZXMgZm9yIHRoZSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1DcmFmdCBDb25zdHJ1Y3QiPkNyYWZ0IENvbnN0cnVjdDwvYT4gZmVhdCBpcyBoYWxmIHRoaXMgcHJpY2UsIHdpdGggdGhlIGNvbnN0cnVjdCB0YWtpbmcgMSBkYXkgdG8gY3JlYXRlIHBlciAxLDAwMCBncCBvZiB0aGUgY29uc3RydWN04oCZcyBiYXNlIHByaWNlLiBTb21lIGNvbnN0cnVjdHMsIHBhcnRpY3VsYXJseSBnb2xlbXMsIGhhdmUgYWRkaXRpb25hbCByYXcgbWF0ZXJpYWwgY29zdHMgdGhhdCBtdXN0IGJlIHBhaWQgaW4gZnVsbCwgcmVnYXJkbGVzcyBvZiB3aGV0aGVyIHRoZSBjcmVhdG9yIHBvc3Nlc3NlcyB0aGUgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IkZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9Q3JhZnQgQ29uc3RydWN0Ij5DcmFmdCBDb25zdHJ1Y3Q8L2E+IGZlYXQuIFJhdyBtYXRlcmlhbHMgdHlwaWNhbGx5IGNvc3Qgc29tZXdoZXJlIGJldHdlZW4gNSUgYW5kIDEwJSBvZiB0aGUgY29uc3RydWN04oCZcyBiYXNlIHByaWNlLjxiciAvPjxiciAvPiBDb25zdHJ1Y3RzIHdpdGggbXVsdGlwbGUgc3BlY2lhbCBhYmlsaXRpZXMgY29zdCBtb3JlIHRvIGNyZWF0ZS4gVGhlIGZpcnN0IHNwZWNpYWwgYWJpbGl0eSBpcyBpbmNsdWRlZCBpbiB0aGUgY29uc3RydWN04oCZcyBiYXNlIGNvc3QuIFRoZSBuZXh0IHR3byBzcGVjaWFsIGFiaWxpdGllcyBpbmNyZWFzZSB0aGUgY2FsY3VsYXRlZCBwcmljZSBieSArMS8yIENSIHBlciBhYmlsaXR5LiBUaGVyZWFmdGVyLCBhbnkgYWRkaXRpb25hbCBzcGVjaWFsIGFiaWxpdGllcyBhZGQgKzEgQ1IgcGVyIGFiaWxpdHkuIEV4YW1wbGVzIG9mIHNwZWNpYWwgYWJpbGl0aWVzIGluY2x1ZGUgaGF2aW5nIGEgaGlnaGVyIERSIHZhbHVlIHRoYW4gYSB0eXBpY2FsIGNvbnN0cnVjdCBvZiBpdHMgQ1IgKGFib3ZlIERSIDUgZm9yIENScyAx4oCTOCwgYWJvdmUgRFIgMTAgZm9yIENSIDkrKSwgbW9uc3RlciBzdGF0aXN0aWNzIHRoYXQgZXhjZWVkIHRob3NlIHJlY29tbWVuZGVkIGZvciB0aGUgY29uc3RydWN04oCZcyBDUiAoc2VlIHBhZ2UgMjkxIG9mIHRoZSA8aT5CZXN0aWFyeTwvaT4pLCB0aGUgc3RhbmRhcmQgZ29sZW0gaW1tdW5pdHkgdG8gbWFnaWMsIERSIG9yIGhhcmRuZXNzIHRoYXQgY2Fu4oCZdCBiZSBvdmVyY29tZSBieSBhbGwgYWRhbWFudGluZSB3ZWFwb25zLCBhYmlsaXR5IHRvIGJlIGZ1bGx5IGhlYWxlZCBieSBhIHNpbmdsZSBzcGVsbCwgYW5kIG1vc3Qgc3BlY2lhbCBhdHRhY2tzIGFuZCBzcGVjaWFsIHF1YWxpdGllcy48YnIgLz48YnIgLz4gUGFydGljdWxhcmx5IHBvd2VyZnVsIHNwZWNpYWwgYWJpbGl0aWVzLCBzdWNoIGFzIGFuIGlyb24gZ29sZW3igJlzIGV4Y2VwdGlvbmFsbHkgaGlnaCBhdHRhY2sgYm9udXMsIGNvdW50IGFzIHR3byBsZXNzZXIgYWJpbGl0aWVzLiBBbmltYXRlZCBvYmplY3RzIGFyZSBhIHNwZWNpYWwgY2FzZeKAlCB0aGVpciBiYXNlIHByaWNlIGlzIG5vdCBpbmNyZWFzZWQgYnkgYW55IGFiaWxpdGllcyBwYWlkIGZvciB3aXRoIENvbnN0cnVjdGlvbiBQb2ludHMgKHNlZSB0aGUgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9Ik1vbnN0ZXJEaXNwbGF5LmFzcHg/SXRlbU5hbWU9QW5pbWF0ZWQgT2JqZWN0Ij5BbmltYXRlZCBPYmplY3QgbW9uc3RlciBlbnRyeTwvYT4pLCBzaW5jZSB0aGVzZSBhYmlsaXRpZXMgYXJlIGFscmVhZHkgZmFjdG9yZWQgaW50byBhbiBhbmltYXRlZCBvYmplY3TigJlzIENSLiBJbiBhZGRpdGlvbiwgZ29sZW1zIGFuZCBob211bmN1bGkgY3JlYXRlZCB3aXRoIGV4dHJhIEhpdCBEaWNlLCB0aGUgYWR2YW5jZWQgdGVtcGxhdGUsIG9yIHNoaWVsZCBndWFyZGlhbiBhYmlsaXRpZXMgc2hvdWxkIGFsbCBiZSBwcmljZWQgYXMgZGVzY3JpYmVkIGluIHRoZSA8aT5CZXN0aWFyeTwvaT4sIHJhdGhlciB0aGFuIGJ5IGFkanVzdGluZyBwcmljaW5nIGZvciB0aGVpciBuZXcgQ1IuPGJyIC8+PGJyIC8+IEFiaWxpdGllcyB0aGF0IHdlYWtlbiBvciBwb3RlbnRpYWxseSBwbGFjZSBhIGNvbnN0cnVjdCBhdCBhIGRpc2FkdmFudGFnZSByYXJlbHkgcmVkdWNlIHRoZSBjb25zdHJ1Y3TigJlzIHByaWNlLiBBbiBleGNlcHRpb24gaXMgdGhlIGJlcnNlcmsgYWJpbGl0eS4gQ29uc3RydWN0cyB0aGF0IGhhdmUgYSBjaGFuY2Ugb2YgZ29pbmcgYmVyc2VyayByZWNlaXZlIOKAkzEgQ1IgYWRqdXN0bWVudCB0byB0aGVpciBjYWxjdWxhdGVkIHByaWNlIGlmIGNvbnRyb2wgY2FuIGJlIHJlZXN0YWJsaXNoZWQgKGxpa2UgYSBmbGVzaCBnb2xlbSkgb3Ig4oCTMiBDUiBhZGp1c3RtZW50IGZvciBwZXJtYW5lbnQgbG9zcyBvZiBjb250cm9sIChsaWtlIGEgY2xheSBnb2xlbSkuPGJyIC8+PGJyIC8+IFRoZSBmb2xsb3dpbmcgaXMgYW4gZXhhbXBsZSBvZiB0aGUgY2FsY3VsYXRlZCBjb3N0cyBmb3IgY3JlYXRpbmcgYSBzdG9uZSBnb2xlbSAoQ1IgMTEpLiBBIHN0b25lIGdvbGVt4oCZcyBzcGVjaWFsIGFiaWxpdGllcyBhcmUgZ29sZW0gaW1tdW5pdHkgdG8gbWFnaWMsIGZ1bGwgaGVhbGluZyBmcm9tIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1UcmFuc211dGUgTXVkIHRvIFJvY2siPjxpPnRyYW5zbXV0ZSBtdWQgdG8gcm9jazwvaT48L2E+LCBhIGhpZ2ggdG8taGl0IGJvbnVzICgrMjIgdnMuIHRoZSArMTkgdHlwaWNhbCBmb3IgQ1IgMTEpLCBhbmQgdGhlIGFiaWxpdHkgdG8gc2xvdyBpdHMgZm9lcy4gRnVydGhlciwgc2luY2UgaXRzIHNwZWxsIHZ1bG5lcmFiaWxpdGllcyBhcmUgbm90IHRpZWQgdG8gY29tbW9uIHNwZWxscyBvciBlZmZlY3RzLCBpdHMgaW1tdW5pdHkgdG8gbWFnaWMgY29zdCBpcyBkb3VibGVkLCBnaXZpbmcgdGhlIHN0b25lIGdvbGVtIGEgdG90YWwgb2YgNSBzcGVjaWFsIGFiaWxpdGllcy4gVGhlIGZpcnN0IHNwZWNpYWwgYWJpbGl0eSBkb2VzbuKAmXQgYWZmZWN0IHRoZSBjb3N0LCB0aGUgbmV4dCB0d28gaW5jcmVhc2UgdGhlIGNvc3QgYnkgKzEvMiBDUiBlYWNoLCBhbmQgdGhlIGZpbmFsIHR3byBlYWNoIGluY3JlYXNlIHRoZSBjb3N0IGJ5ICsxIENSIGluZGl2aWR1YWxseSwgbWFraW5nIGl0cyBlZmZlY3RpdmUgQ1IgZm9yIHByaWNpbmcgZXF1YWwgdG8gMTQuIFRoaXMgcHJvZHVjZXMgYSBjYWxjdWxhdGVkIHByaWNlIG9mIDk4LDAwMCBncCwgcm91bmRlZCB1cCB0byBhbiBldmVuIDEwMCwwMDAgZ3AuPGJyIC8+PGJyIC8+IFdoZW4gZGVzaWduaW5nIGEgbmV3IGNvbnN0cnVjdCwga2VlcCBpbiBtaW5kIHRoYXQgdGhlIGFib3ZlIHByaWNpbmcgZm9ybXVsYSBvbmx5IHNlcnZlcyBhcyBhIGd1aWRlbGluZS4gQXMgd2l0aCBtYWdpYyBpdGVtcywgY29uc3RydWN0IHByaWNpbmcgcmVtYWlucyBtb3JlIGFydCB0aGFuIHNjaWVuY2UsIGFuZCBsaWtlIG1hZ2ljIGl0ZW1zLCBjb21wYXJlIG5ldyBjb25zdHJ1Y3RzIHRvIGV4aXN0aW5nIG9uZXMgZm9yIGd1aWRhbmNlLiBJZiB5b3XigJlyZSBub3Qgc3VyZSwgZXJyIG9uIHRoZSBzaWRlIG9mIGEgaGlnaGVyIHByaWNlLiAgZGRkn82++NEuE69jU6cQvm+g9QZg1aAE6HGQmEjQv+xt7Fs=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=939">Mastering Magic</a></u> / <u><a href="Rules.aspx?ID=974">Building and Modifying Constructs</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=977">Building New Constructs</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8k8r" target="_blank" class="external-link"><i>Ultimate Magic pg. 111</i></a><br />Constructs typically have no Intelligence score, an average Wisdom score, and a Charisma of 1. Their dexterity is usually poor to average, though exceptionally nimble constructs do exist. Nearly all constructs of size Medium or larger have high Strength scores; constructs never have a Constitution score.<br /><br /> The monster creation rules in the <i>Bestiary</i> serve as your best guide for designing a new construct. New constructs should stick fairly close to the Monster Statistics by CR table found on page 291 of the <i>Bestiary</i> or the expanded table on page 293 of <i>Bestiary 2</i>. As they are usually mindless combat brutes, most use the “high attack” column, with damage falling in between the High and Low average damage columns. Note that all the construct’s saving throws are likely to be poor, and they have no favored saves. Lacking a Constitution score, a construct’s hit points also tend to be low in comparison to creatures with similar CRs. Consider giving any construct that doesn’t have either damage reduction or hardness a higher AC to compensate.<br /><h1 class="title"><a href="Rules.aspx?ID=978">Pricing a New  Construct</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8k8r" target="_blank" class="external-link"><i>Ultimate Magic pg. 112</i></a><br />This section provides guidelines for those seeking to calculate the costs of crafting their own constructs. As a rough guideline, a construct’s price is equal to its challenge rating squared, then multiplied by 500 gp. Constructs with a fractional CR rating base their price on that fraction of 500 gp. For example, a CR 1/2 construct has a price of 250 gp. The cost of magical supplies for the <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Craft Construct">Craft Construct</a> feat is half this price, with the construct taking 1 day to create per 1,000 gp of the construct’s base price. Some constructs, particularly golems, have additional raw material costs that must be paid in full, regardless of whether the creator possesses the <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Craft Construct">Craft Construct</a> feat. Raw materials typically cost somewhere between 5% and 10% of the construct’s base price.<br /><br /> Constructs with multiple special abilities cost more to create. The first special ability is included in the construct’s base cost. The next two special abilities increase the calculated price by +1/2 CR per ability. Thereafter, any additional special abilities add +1 CR per ability. Examples of special abilities include having a higher DR value than a typical construct of its CR (above DR 5 for CRs 1–8, above DR 10 for CR 9+), monster statistics that exceed those recommended for the construct’s CR (see page 291 of the <i>Bestiary</i>), the standard golem immunity to magic, DR or hardness that can’t be overcome by all adamantine weapons, ability to be fully healed by a single spell, and most special attacks and special qualities.<br /><br /> Particularly powerful special abilities, such as an iron golem’s exceptionally high attack bonus, count as two lesser abilities. Animated objects are a special case— their base price is not increased by any abilities paid for with Construction Points (see the <a style="text-decoration:underline" href="MonsterDisplay.aspx?ItemName=Animated Object">Animated Object monster entry</a>), since these abilities are already factored into an animated object’s CR. In addition, golems and homunculi created with extra Hit Dice, the advanced template, or shield guardian abilities should all be priced as described in the <i>Bestiary</i>, rather than by adjusting pricing for their new CR.<br /><br /> Abilities that weaken or potentially place a construct at a disadvantage rarely reduce the construct’s price. An exception is the berserk ability. Constructs that have a chance of going berserk receive –1 CR adjustment to their calculated price if control can be reestablished (like a flesh golem) or –2 CR adjustment for permanent loss of control (like a clay golem).<br /><br /> The following is an example of the calculated costs for creating a stone golem (CR 11). A stone golem’s special abilities are golem immunity to magic, full healing from <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=Transmute Mud to Rock"><i>transmute mud to rock</i></a>, a high to-hit bonus (+22 vs. the +19 typical for CR 11), and the ability to slow its foes. Further, since its spell vulnerabilities are not tied to common spells or effects, its immunity to magic cost is doubled, giving the stone golem a total of 5 special abilities. The first special ability doesn’t affect the cost, the next two increase the cost by +1/2 CR each, and the final two each increase the cost by +1 CR individually, making its effective CR for pricing equal to 14. This produces a calculated price of 98,000 gp, rounded up to an even 100,000 gp.<br /><br /> When designing a new construct, keep in mind that the above pricing formula only serves as a guideline. As with magic items, construct pricing remains more art than science, and like magic items, compare new constructs to existing ones for guidance. If you’re not sure, err on the side of a higher price.  </span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

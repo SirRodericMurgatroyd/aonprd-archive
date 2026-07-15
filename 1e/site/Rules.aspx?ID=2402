@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Salvaging - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Salvaging" /><meta name="description" content="Foraging is one way to gather resources in the wild, but you can also recycle or repurpose items and gear as well, salvaging materials from items you no longer need or are willing to sacrifice. You can’t salvage materials from artifacts, cursed items, or items you can’t destroy. Successfully salvaging an item requires a Craft or Spellcraft check and takes an amount of time as indicated in the specific type of salvage operation below. &lt;br />&lt;br />&lt;b>Ammunition&lt;/b>: You can use destroyed ammunition as raw materials for new ammunition. Five pieces of destroyed ammunition provide suitable material to create one new piece of ammunition using the normal crafting rules. &lt;br />&lt;br />&lt;b>Potions&lt;/b>: If you have the &lt;a style=&quot;text-decoration:underline&quot; href=&quot;FeatDisplay.aspx?ItemName=Brew Potion&quot;>Brew Potion&lt;/a> feat, you can combine natural catalysts with a potion to salvage it and create a different potion of a lower spell level. Salvaging a potion requires raw magic item materials (these can be salvaged from existing items, as detailed below). To salvage a potion, you must spend 1 hour per spell level of the original potion and then attempt a Craft (alchemy) or Spellcraft check with a DC equal to 15 + 3 × the original potion’s spell level. If you succeed, you transmute the original potion into a new potion of a spell at least one spell level lower, provided you know the spell in question (it need not be one you can currently cast). If you fail this check by 4 or less, the attempt fails and the catalyst is wasted, but the potion is unharmed. If you fail by 5 or more, the raw materials are lost and the original potion is ruined. &lt;br />&lt;br />&lt;b>Raw Crafting Materials&lt;/b>: Anyone trained in the Craft skill can salvage raw materials from equipment for use in crafting or repair. You must carefully dismantle the item to be salvaged, resulting in the item’s destruction. If the item’s price is 1 gp or less, its materials can be salvaged with only 1 hour of work; otherwise it takes 8 hours to salvage crafting materials. A successful Craft check against the item’s creation DC + 5 yields raw materials worth one-quarter the item’s price. If you fail the Craft check by 4 or less, the item is destroyed but the materials can still be salvaged in a future attempt. If you fail the Craft check by 5 or more, the item is destroyed and the materials are ruined. Salvaged raw materials can be used to create or repair any item of the same materials and reduces the construction time by the proportion of the new item’s raw materials that are salvaged (minimum 8 hours). &lt;br />&lt;br />&lt;b>Raw Magic Item Materials&lt;/b>: Anyone with an item creation feat can salvage the raw materials from magic items for the creation of new ones or repair of existing ones. You must have the item creation feat required for that item to salvage its raw materials. Each attempt requires destroying a magic item and 8 hours of work. If the item’s price is 500 gp or less, you can salvage its materials in only 2 hours. A successful Craft or Spellcraft check with a DC equal to 10 + the item’s caster level yields raw materials worth two-thirds the creation cost of the destroyed item (one-third the market price). If you fail the skill check by 4 or less, the item is destroyed but the materials can still be salvaged in a future attempt. If you fail the skill check by 5 or more, the item is destroyed and the materials are ruined. Salvaged raw materials can be used to create or repair any item made of similar materials or that shares any of the creation requirements as the original. Including the majority of the materials allows you to automatically meet any construction requirements of a new item that the salvaged item also required and reduces the construction or repair time by the proportion of the new item’s construction materials that are salvaged (with the usual minimum creation time). Spellbooks and formula books can be salvaged for magic inks and paper usable in formula books, scrolls, and spellbooks. &lt;br />&lt;br />&lt;b>Costly Spell Components&lt;/b>: Anyone trained in Spellcraft can salvage costly material or focus spell components from magic items. Each attempt requires destroying the item and 8 hours of work. An item can be broken down into a powder that can be used in place of gemstone dust as a material component. Otherwise, the item must have a spell requiring the component in its construction requirements to salvage that component. A successful Spellcraft check with a DC equal to 10 + the item’s caster level yields materials usable in place of that spell component worth two-thirds the item’s creation cost (one-third its market price). If you fail the check by 4 or less, the item is destroyed without yielding spell components, but you can try to salvage them again. If you fail the check by 5 or more, the item is destroyed and the spell components are ruined." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=2402" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAX+KDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjM3OCI+TWFzdGVyaW5nIHRoZSBXaWxkPC9hPjwvdT4gLyA8dT48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTI0MDAiPkZvcmFnaW5nIGFuZCBTYWx2YWdpbmc8L2E+PC91PjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjQwMiI+U2FsdmFnaW5nPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5dWpvIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlVsdGltYXRlIFdpbGRlcm5lc3MgcGcuIDEzNDwvaT48L2E+PGJyIC8+Rm9yYWdpbmcgaXMgb25lIHdheSB0byBnYXRoZXIgcmVzb3VyY2VzIGluIHRoZSB3aWxkLCBidXQgeW91IGNhbiBhbHNvIHJlY3ljbGUgb3IgcmVwdXJwb3NlIGl0ZW1zIGFuZCBnZWFyIGFzIHdlbGwsIHNhbHZhZ2luZyBtYXRlcmlhbHMgZnJvbSBpdGVtcyB5b3Ugbm8gbG9uZ2VyIG5lZWQgb3IgYXJlIHdpbGxpbmcgdG8gc2FjcmlmaWNlLiBZb3UgY2Fu4oCZdCBzYWx2YWdlIG1hdGVyaWFscyBmcm9tIGFydGlmYWN0cywgY3Vyc2VkIGl0ZW1zLCBvciBpdGVtcyB5b3UgY2Fu4oCZdCBkZXN0cm95LiBTdWNjZXNzZnVsbHkgc2FsdmFnaW5nIGFuIGl0ZW0gcmVxdWlyZXMgYSBDcmFmdCBvciBTcGVsbGNyYWZ0IGNoZWNrIGFuZCB0YWtlcyBhbiBhbW91bnQgb2YgdGltZSBhcyBpbmRpY2F0ZWQgaW4gdGhlIHNwZWNpZmljIHR5cGUgb2Ygc2FsdmFnZSBvcGVyYXRpb24gYmVsb3cuIDxiciAvPjxiciAvPjxiPkFtbXVuaXRpb248L2I+OiBZb3UgY2FuIHVzZSBkZXN0cm95ZWQgYW1tdW5pdGlvbiBhcyByYXcgbWF0ZXJpYWxzIGZvciBuZXcgYW1tdW5pdGlvbi4gRml2ZSBwaWVjZXMgb2YgZGVzdHJveWVkIGFtbXVuaXRpb24gcHJvdmlkZSBzdWl0YWJsZSBtYXRlcmlhbCB0byBjcmVhdGUgb25lIG5ldyBwaWVjZSBvZiBhbW11bml0aW9uIHVzaW5nIHRoZSBub3JtYWwgY3JhZnRpbmcgcnVsZXMuIDxiciAvPjxiciAvPjxiPlBvdGlvbnM8L2I+OiBJZiB5b3UgaGF2ZSB0aGUgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IkZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9QnJldyBQb3Rpb24iPkJyZXcgUG90aW9uPC9hPiBmZWF0LCB5b3UgY2FuIGNvbWJpbmUgbmF0dXJhbCBjYXRhbHlzdHMgd2l0aCBhIHBvdGlvbiB0byBzYWx2YWdlIGl0IGFuZCBjcmVhdGUgYSBkaWZmZXJlbnQgcG90aW9uIG9mIGEgbG93ZXIgc3BlbGwgbGV2ZWwuIFNhbHZhZ2luZyBhIHBvdGlvbiByZXF1aXJlcyByYXcgbWFnaWMgaXRlbSBtYXRlcmlhbHMgKHRoZXNlIGNhbiBiZSBzYWx2YWdlZCBmcm9tIGV4aXN0aW5nIGl0ZW1zLCBhcyBkZXRhaWxlZCBiZWxvdykuIFRvIHNhbHZhZ2UgYSBwb3Rpb24sIHlvdSBtdXN0IHNwZW5kIDEgaG91ciBwZXIgc3BlbGwgbGV2ZWwgb2YgdGhlIG9yaWdpbmFsIHBvdGlvbiBhbmQgdGhlbiBhdHRlbXB0IGEgQ3JhZnQgKGFsY2hlbXkpIG9yIFNwZWxsY3JhZnQgY2hlY2sgd2l0aCBhIERDIGVxdWFsIHRvIDE1ICsgMyDDlyB0aGUgb3JpZ2luYWwgcG90aW9u4oCZcyBzcGVsbCBsZXZlbC4gSWYgeW91IHN1Y2NlZWQsIHlvdSB0cmFuc211dGUgdGhlIG9yaWdpbmFsIHBvdGlvbiBpbnRvIGEgbmV3IHBvdGlvbiBvZiBhIHNwZWxsIGF0IGxlYXN0IG9uZSBzcGVsbCBsZXZlbCBsb3dlciwgcHJvdmlkZWQgeW91IGtub3cgdGhlIHNwZWxsIGluIHF1ZXN0aW9uIChpdCBuZWVkIG5vdCBiZSBvbmUgeW91IGNhbiBjdXJyZW50bHkgY2FzdCkuIElmIHlvdSBmYWlsIHRoaXMgY2hlY2sgYnkgNCBvciBsZXNzLCB0aGUgYXR0ZW1wdCBmYWlscyBhbmQgdGhlIGNhdGFseXN0IGlzIHdhc3RlZCwgYnV0IHRoZSBwb3Rpb24gaXMgdW5oYXJtZWQuIElmIHlvdSBmYWlsIGJ5IDUgb3IgbW9yZSwgdGhlIHJhdyBtYXRlcmlhbHMgYXJlIGxvc3QgYW5kIHRoZSBvcmlnaW5hbCBwb3Rpb24gaXMgcnVpbmVkLiA8YnIgLz48YnIgLz48Yj5SYXcgQ3JhZnRpbmcgTWF0ZXJpYWxzPC9iPjogQW55b25lIHRyYWluZWQgaW4gdGhlIENyYWZ0IHNraWxsIGNhbiBzYWx2YWdlIHJhdyBtYXRlcmlhbHMgZnJvbSBlcXVpcG1lbnQgZm9yIHVzZSBpbiBjcmFmdGluZyBvciByZXBhaXIuIFlvdSBtdXN0IGNhcmVmdWxseSBkaXNtYW50bGUgdGhlIGl0ZW0gdG8gYmUgc2FsdmFnZWQsIHJlc3VsdGluZyBpbiB0aGUgaXRlbeKAmXMgZGVzdHJ1Y3Rpb24uIElmIHRoZSBpdGVt4oCZcyBwcmljZSBpcyAxIGdwIG9yIGxlc3MsIGl0cyBtYXRlcmlhbHMgY2FuIGJlIHNhbHZhZ2VkIHdpdGggb25seSAxIGhvdXIgb2Ygd29yazsgb3RoZXJ3aXNlIGl0IHRha2VzIDggaG91cnMgdG8gc2FsdmFnZSBjcmFmdGluZyBtYXRlcmlhbHMuIEEgc3VjY2Vzc2Z1bCBDcmFmdCBjaGVjayBhZ2FpbnN0IHRoZSBpdGVt4oCZcyBjcmVhdGlvbiBEQyArIDUgeWllbGRzIHJhdyBtYXRlcmlhbHMgd29ydGggb25lLXF1YXJ0ZXIgdGhlIGl0ZW3igJlzIHByaWNlLiBJZiB5b3UgZmFpbCB0aGUgQ3JhZnQgY2hlY2sgYnkgNCBvciBsZXNzLCB0aGUgaXRlbSBpcyBkZXN0cm95ZWQgYnV0IHRoZSBtYXRlcmlhbHMgY2FuIHN0aWxsIGJlIHNhbHZhZ2VkIGluIGEgZnV0dXJlIGF0dGVtcHQuIElmIHlvdSBmYWlsIHRoZSBDcmFmdCBjaGVjayBieSA1IG9yIG1vcmUsIHRoZSBpdGVtIGlzIGRlc3Ryb3llZCBhbmQgdGhlIG1hdGVyaWFscyBhcmUgcnVpbmVkLiBTYWx2YWdlZCByYXcgbWF0ZXJpYWxzIGNhbiBiZSB1c2VkIHRvIGNyZWF0ZSBvciByZXBhaXIgYW55IGl0ZW0gb2YgdGhlIHNhbWUgbWF0ZXJpYWxzIGFuZCByZWR1Y2VzIHRoZSBjb25zdHJ1Y3Rpb24gdGltZSBieSB0aGUgcHJvcG9ydGlvbiBvZiB0aGUgbmV3IGl0ZW3igJlzIHJhdyBtYXRlcmlhbHMgdGhhdCBhcmUgc2FsdmFnZWQgKG1pbmltdW0gOCBob3VycykuIDxiciAvPjxiciAvPjxiPlJhdyBNYWdpYyBJdGVtIE1hdGVyaWFsczwvYj46IEFueW9uZSB3aXRoIGFuIGl0ZW0gY3JlYXRpb24gZmVhdCBjYW4gc2FsdmFnZSB0aGUgcmF3IG1hdGVyaWFscyBmcm9tIG1hZ2ljIGl0ZW1zIGZvciB0aGUgY3JlYXRpb24gb2YgbmV3IG9uZXMgb3IgcmVwYWlyIG9mIGV4aXN0aW5nIG9uZXMuIFlvdSBtdXN0IGhhdmUgdGhlIGl0ZW0gY3JlYXRpb24gZmVhdCByZXF1aXJlZCBmb3IgdGhhdCBpdGVtIHRvIHNhbHZhZ2UgaXRzIHJhdyBtYXRlcmlhbHMuIEVhY2ggYXR0ZW1wdCByZXF1aXJlcyBkZXN0cm95aW5nIGEgbWFnaWMgaXRlbSBhbmQgOCBob3VycyBvZiB3b3JrLiBJZiB0aGUgaXRlbeKAmXMgcHJpY2UgaXMgNTAwIGdwIG9yIGxlc3MsIHlvdSBjYW4gc2FsdmFnZSBpdHMgbWF0ZXJpYWxzIGluIG9ubHkgMiBob3Vycy4gQSBzdWNjZXNzZnVsIENyYWZ0IG9yIFNwZWxsY3JhZnQgY2hlY2sgd2l0aCBhIERDIGVxdWFsIHRvIDEwICsgdGhlIGl0ZW3igJlzIGNhc3RlciBsZXZlbCB5aWVsZHMgcmF3IG1hdGVyaWFscyB3b3J0aCB0d28tdGhpcmRzIHRoZSBjcmVhdGlvbiBjb3N0IG9mIHRoZSBkZXN0cm95ZWQgaXRlbSAob25lLXRoaXJkIHRoZSBtYXJrZXQgcHJpY2UpLiBJZiB5b3UgZmFpbCB0aGUgc2tpbGwgY2hlY2sgYnkgNCBvciBsZXNzLCB0aGUgaXRlbSBpcyBkZXN0cm95ZWQgYnV0IHRoZSBtYXRlcmlhbHMgY2FuIHN0aWxsIGJlIHNhbHZhZ2VkIGluIGEgZnV0dXJlIGF0dGVtcHQuIElmIHlvdSBmYWlsIHRoZSBza2lsbCBjaGVjayBieSA1IG9yIG1vcmUsIHRoZSBpdGVtIGlzIGRlc3Ryb3llZCBhbmQgdGhlIG1hdGVyaWFscyBhcmUgcnVpbmVkLiBTYWx2YWdlZCByYXcgbWF0ZXJpYWxzIGNhbiBiZSB1c2VkIHRvIGNyZWF0ZSBvciByZXBhaXIgYW55IGl0ZW0gbWFkZSBvZiBzaW1pbGFyIG1hdGVyaWFscyBvciB0aGF0IHNoYXJlcyBhbnkgb2YgdGhlIGNyZWF0aW9uIHJlcXVpcmVtZW50cyBhcyB0aGUgb3JpZ2luYWwuIEluY2x1ZGluZyB0aGUgbWFqb3JpdHkgb2YgdGhlIG1hdGVyaWFscyBhbGxvd3MgeW91IHRvIGF1dG9tYXRpY2FsbHkgbWVldCBhbnkgY29uc3RydWN0aW9uIHJlcXVpcmVtZW50cyBvZiBhIG5ldyBpdGVtIHRoYXQgdGhlIHNhbHZhZ2VkIGl0ZW0gYWxzbyByZXF1aXJlZCBhbmQgcmVkdWNlcyB0aGUgY29uc3RydWN0aW9uIG9yIHJlcGFpciB0aW1lIGJ5IHRoZSBwcm9wb3J0aW9uIG9mIHRoZSBuZXcgaXRlbeKAmXMgY29uc3RydWN0aW9uIG1hdGVyaWFscyB0aGF0IGFyZSBzYWx2YWdlZCAod2l0aCB0aGUgdXN1YWwgbWluaW11bSBjcmVhdGlvbiB0aW1lKS4gU3BlbGxib29rcyBhbmQgZm9ybXVsYSBib29rcyBjYW4gYmUgc2FsdmFnZWQgZm9yIG1hZ2ljIGlua3MgYW5kIHBhcGVyIHVzYWJsZSBpbiBmb3JtdWxhIGJvb2tzLCBzY3JvbGxzLCBhbmQgc3BlbGxib29rcy4gPGJyIC8+PGJyIC8+PGI+Q29zdGx5IFNwZWxsIENvbXBvbmVudHM8L2I+OiBBbnlvbmUgdHJhaW5lZCBpbiBTcGVsbGNyYWZ0IGNhbiBzYWx2YWdlIGNvc3RseSBtYXRlcmlhbCBvciBmb2N1cyBzcGVsbCBjb21wb25lbnRzIGZyb20gbWFnaWMgaXRlbXMuIEVhY2ggYXR0ZW1wdCByZXF1aXJlcyBkZXN0cm95aW5nIHRoZSBpdGVtIGFuZCA4IGhvdXJzIG9mIHdvcmsuIEFuIGl0ZW0gY2FuIGJlIGJyb2tlbiBkb3duIGludG8gYSBwb3dkZXIgdGhhdCBjYW4gYmUgdXNlZCBpbiBwbGFjZSBvZiBnZW1zdG9uZSBkdXN0IGFzIGEgbWF0ZXJpYWwgY29tcG9uZW50LiBPdGhlcndpc2UsIHRoZSBpdGVtIG11c3QgaGF2ZSBhIHNwZWxsIHJlcXVpcmluZyB0aGUgY29tcG9uZW50IGluIGl0cyBjb25zdHJ1Y3Rpb24gcmVxdWlyZW1lbnRzIHRvIHNhbHZhZ2UgdGhhdCBjb21wb25lbnQuIEEgc3VjY2Vzc2Z1bCBTcGVsbGNyYWZ0IGNoZWNrIHdpdGggYSBEQyBlcXVhbCB0byAxMCArIHRoZSBpdGVt4oCZcyBjYXN0ZXIgbGV2ZWwgeWllbGRzIG1hdGVyaWFscyB1c2FibGUgaW4gcGxhY2Ugb2YgdGhhdCBzcGVsbCBjb21wb25lbnQgd29ydGggdHdvLXRoaXJkcyB0aGUgaXRlbeKAmXMgY3JlYXRpb24gY29zdCAob25lLXRoaXJkIGl0cyBtYXJrZXQgcHJpY2UpLiBJZiB5b3UgZmFpbCB0aGUgY2hlY2sgYnkgNCBvciBsZXNzLCB0aGUgaXRlbSBpcyBkZXN0cm95ZWQgd2l0aG91dCB5aWVsZGluZyBzcGVsbCBjb21wb25lbnRzLCBidXQgeW91IGNhbiB0cnkgdG8gc2FsdmFnZSB0aGVtIGFnYWluLiBJZiB5b3UgZmFpbCB0aGUgY2hlY2sgYnkgNSBvciBtb3JlLCB0aGUgaXRlbSBpcyBkZXN0cm95ZWQgYW5kIHRoZSBzcGVsbCBjb21wb25lbnRzIGFyZSBydWluZWQuZGRkowFxlXW2+cOGJzyB2oWYkPyNSg3gri+9feijNQ5UHkc=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=2378">Mastering the Wild</a></u> / <u><a href="Rules.aspx?ID=2400">Foraging and Salvaging</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=2402">Salvaging</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9ujo" target="_blank" class="external-link"><i>Ultimate Wilderness pg. 134</i></a><br />Foraging is one way to gather resources in the wild, but you can also recycle or repurpose items and gear as well, salvaging materials from items you no longer need or are willing to sacrifice. You can’t salvage materials from artifacts, cursed items, or items you can’t destroy. Successfully salvaging an item requires a Craft or Spellcraft check and takes an amount of time as indicated in the specific type of salvage operation below. <br /><br /><b>Ammunition</b>: You can use destroyed ammunition as raw materials for new ammunition. Five pieces of destroyed ammunition provide suitable material to create one new piece of ammunition using the normal crafting rules. <br /><br /><b>Potions</b>: If you have the <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Brew Potion">Brew Potion</a> feat, you can combine natural catalysts with a potion to salvage it and create a different potion of a lower spell level. Salvaging a potion requires raw magic item materials (these can be salvaged from existing items, as detailed below). To salvage a potion, you must spend 1 hour per spell level of the original potion and then attempt a Craft (alchemy) or Spellcraft check with a DC equal to 15 + 3 × the original potion’s spell level. If you succeed, you transmute the original potion into a new potion of a spell at least one spell level lower, provided you know the spell in question (it need not be one you can currently cast). If you fail this check by 4 or less, the attempt fails and the catalyst is wasted, but the potion is unharmed. If you fail by 5 or more, the raw materials are lost and the original potion is ruined. <br /><br /><b>Raw Crafting Materials</b>: Anyone trained in the Craft skill can salvage raw materials from equipment for use in crafting or repair. You must carefully dismantle the item to be salvaged, resulting in the item’s destruction. If the item’s price is 1 gp or less, its materials can be salvaged with only 1 hour of work; otherwise it takes 8 hours to salvage crafting materials. A successful Craft check against the item’s creation DC + 5 yields raw materials worth one-quarter the item’s price. If you fail the Craft check by 4 or less, the item is destroyed but the materials can still be salvaged in a future attempt. If you fail the Craft check by 5 or more, the item is destroyed and the materials are ruined. Salvaged raw materials can be used to create or repair any item of the same materials and reduces the construction time by the proportion of the new item’s raw materials that are salvaged (minimum 8 hours). <br /><br /><b>Raw Magic Item Materials</b>: Anyone with an item creation feat can salvage the raw materials from magic items for the creation of new ones or repair of existing ones. You must have the item creation feat required for that item to salvage its raw materials. Each attempt requires destroying a magic item and 8 hours of work. If the item’s price is 500 gp or less, you can salvage its materials in only 2 hours. A successful Craft or Spellcraft check with a DC equal to 10 + the item’s caster level yields raw materials worth two-thirds the creation cost of the destroyed item (one-third the market price). If you fail the skill check by 4 or less, the item is destroyed but the materials can still be salvaged in a future attempt. If you fail the skill check by 5 or more, the item is destroyed and the materials are ruined. Salvaged raw materials can be used to create or repair any item made of similar materials or that shares any of the creation requirements as the original. Including the majority of the materials allows you to automatically meet any construction requirements of a new item that the salvaged item also required and reduces the construction or repair time by the proportion of the new item’s construction materials that are salvaged (with the usual minimum creation time). Spellbooks and formula books can be salvaged for magic inks and paper usable in formula books, scrolls, and spellbooks. <br /><br /><b>Costly Spell Components</b>: Anyone trained in Spellcraft can salvage costly material or focus spell components from magic items. Each attempt requires destroying the item and 8 hours of work. An item can be broken down into a powder that can be used in place of gemstone dust as a material component. Otherwise, the item must have a spell requiring the component in its construction requirements to salvage that component. A successful Spellcraft check with a DC equal to 10 + the item’s caster level yields materials usable in place of that spell component worth two-thirds the item’s creation cost (one-third its market price). If you fail the check by 4 or less, the item is destroyed without yielding spell components, but you can try to salvage them again. If you fail the check by 5 or more, the item is destroyed and the spell components are ruined.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

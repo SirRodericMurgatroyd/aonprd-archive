@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	The Settlement Stat Block - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, The Settlement Stat Block" /><meta name="description" content="A settlement stat block is organized as follows.&lt;br />&lt;br /> &lt;b>Name&lt;/b>: The settlement’s name is presented first.&lt;br />&lt;br /> &lt;b>Alignment and Type&lt;/b>: A settlement’s alignment is the general alignment of its citizens and government— individuals who dwell therein can still be of any alignment, but the majority of its citizens should be within one step of the settlement’s overall alignment. Alignment influences a city’s modifiers (see page 206). The type is the size category the settlement falls into, be it thorp, hamlet, village, town (small or large), city (small or large), or metropolis. In most cases, rules play off of a settlement’s type rather than its exact population total. A settlement’s type determines many of its statistics (see Table 7–36: Settlement Statistics).&lt;br />&lt;br /> &lt;b>Modifiers&lt;/b>: Settlements possess six modifiers that apply to specific skill checks made in the settlement. A settlement’s starting modifier values are determined by its type. This value is further adjusted by the settlement’s alignment, government, qualities, and disadvantages. Note that introducing settlement modifiers to your game will somewhat increase the complexity of skill checks by adding a variable modifier each time the PCs visit a new town or city—consider the use of these modifiers an optional rule. &lt;br />&lt;br /> &lt;b>Qualities&lt;/b>: All settlements have a certain number of qualities that further adjust their statistics—think of qualities as feats for settlements. A settlement’s type determines how many qualities it can have.&lt;br />&lt;br /> &lt;b>Danger&lt;/b>: A settlement’s danger value is a number that gives a general idea of how dangerous it is to live in the settlement. If you use the urban encounters charts on pages 212–213 for random encounters in your city (or any similar wandering monster chart that uses percentile dice and ranks its encounters from lowest CR to highest CR), use the modifier associated with the settlement’s danger value to adjust rolls on the encounter chart. A settlement’s base danger value depends on its type.&lt;br />&lt;br /> &lt;b>Disadvantages&lt;/b>: Any disadvantages a settlement might be suffering from are listed on this line. A settlement can have any number of disadvantages you wish to inflict on it, although most settlements have no disadvantages.&lt;br />&lt;br /> &lt;b>Government&lt;/b>: This entry lists how the settlement is governed and ruled. The type of government a settlement follows affects its statistics.&lt;br />&lt;br /> &lt;b>Population&lt;/b>: This number represents the settlement’s population. Note that the exact number is flexible; a settlement’s actual population can swell on market days or dwindle during winter—this number lists the average population of the settlement. Note that this number is generally used for little more than flavor—since actual population totals fluctuate, it’s pointless to tether rules to this number. After the settlement’s total population, a breakdown of its racial mix is listed in parentheses.&lt;br />&lt;br /> &lt;b>Notable NPCs&lt;/b>: This section lists any notable NPCs who live in the city, sorted by their role in the community, followed by their name and then their alignment, gender, race, class, and level in parentheses.&lt;br />&lt;br /> &lt;b>Base Value and Purchase Limit&lt;/b>: This section lists the community’s base value for available magic items in gp. There is a 75% chance that any item of this value or lower can be found for sale in the community with little effort. If an item is not available, a new check to determine if the item has become available can be made in 1 week. A settlement’s purchase limit is the most money a shop in the settlement can spend to purchase any single item from the PCs. If the PCs wish to sell an item worth more than a settlement’s purchase limit, they’ll either need to settle for a lower price, travel to a larger city, or (with the GM’s permission) search for a specific buyer in the city with deeper pockets. A settlement’s type sets its purchase limit.&lt;br />&lt;br /> &lt;b>Spellcasting&lt;/b>: Unlike magic items, spellcasting for hire is listed separately from the town’s base value, since spellcasting is limited by the level of the available spellcasters in town. This line lists the highest-level spell available for purchase from spellcasters in town. Prices for spellcasting appear on page 159 of the Core Rulebook. A town’s base spellcasting level depends on its type.&lt;br />&lt;br /> &lt;b>Minor Items/Medium Items/Major Items&lt;/b>: This line lists the number of magic items above a settlement’s base value that are available for purchase. In some city stat blocks, the actual items are listed in parentheses after the die range of items available—in this case, you can use these pre-rolled resources when the PCs first visit the city as the magic items available for sale on that visit. If the PCs return to that city at a later date, you can roll up new items as you see fit. See page 461 of the Core Rulebook for the number ranges determining how many items can be found in a community. &lt;h2>Table 7-36: Settlement Statistics&lt;/h2>&lt;table class=&quot;inner&quot;>&lt;tr>&lt;td>&lt;b>Type&lt;/b>&lt;/td>&lt;td>&lt;b>Modifiers&lt;/b>&lt;/td>&lt;td>&lt;b>Qualities&lt;/b>&lt;/td>&lt;td>&lt;b>Danger&lt;/b>&lt;/td>&lt;td>&lt;b>Base Value&lt;/b>&lt;/td>&lt;td>&lt;b>Purchase Limit&lt;/b>&lt;/td>&lt;td>&lt;b>Spellcasting&lt;/b>&lt;/td>&lt;/tr>&lt;tr>&lt;td>Thorp&lt;/td>&lt;td>-4&lt;/td>&lt;td>1&lt;/td>&lt;td>-10&lt;/td>&lt;td>50 gp&lt;/td>&lt;td>500 gp&lt;/td>&lt;td>1st&lt;/td>&lt;/tr>&lt;tr>&lt;td>Hamlet&lt;/td>&lt;td>-2&lt;/td>&lt;td>1&lt;/td>&lt;td>-5&lt;/td>&lt;td>200 gp&lt;/td>&lt;td>1,000 gp&lt;/td>&lt;td>2nd&lt;/td>&lt;/tr>&lt;tr>&lt;td>Village&lt;/td>&lt;td>-1&lt;/td>&lt;td>2&lt;/td>&lt;td>0&lt;/td>&lt;td>500 gp&lt;/td>&lt;td>2,500 gp&lt;/td>&lt;td>3rd&lt;/td>&lt;/tr>&lt;tr>&lt;td>Small town&lt;/td>&lt;td>0&lt;/td>&lt;td>2&lt;/td>&lt;td>0&lt;/td>&lt;td>1,000 gp&lt;/td>&lt;td>5,000 gp&lt;/td>&lt;td>4th&lt;/td>&lt;/tr>&lt;tr>&lt;td>Large town&lt;/td>&lt;td>0&lt;/td>&lt;td>3&lt;/td>&lt;td>5&lt;/td>&lt;td>2,000 gp&lt;/td>&lt;td>10,000 gp&lt;/td>&lt;td>5th&lt;/td>&lt;/tr>&lt;tr>&lt;td>Small city&lt;/td>&lt;td>+1&lt;/td>&lt;td>4&lt;/td>&lt;td>5&lt;/td>&lt;td>4,000 gp&lt;/td>&lt;td>25,000 gp&lt;/td>&lt;td>6th&lt;/td>&lt;/tr>&lt;tr>&lt;td>Large city&lt;/td>&lt;td>+2&lt;/td>&lt;td>5&lt;/td>&lt;td>10&lt;/td>&lt;td>8,000 gp&lt;/td>&lt;td>50,000 gp&lt;/td>&lt;td>7th&lt;/td>&lt;/tr>&lt;tr>&lt;td>Metropolis&lt;/td>&lt;td>+4&lt;/td>&lt;td>6&lt;/td>&lt;td>10&lt;/td>&lt;td>16,000 gp&lt;/td>&lt;td>100,000 gp&lt;/td>&lt;td>8th&lt;/td>&lt;/tr>&lt;/table>&lt;br />&lt;br />&lt;h2>Table 7-37: Available Magic Items&lt;/h2>&lt;table class=&quot;inner&quot;>&lt;tr>&lt;td>&lt;b>Community Size&lt;/b>&lt;/td>&lt;td>&lt;b>Base Value&lt;/b>&lt;/td>&lt;td>&lt;b>Minor&lt;/b>&lt;/td>&lt;td>&lt;b>Medium&lt;/b>&lt;/td>&lt;td>&lt;b>Major&lt;/b>&lt;/td>&lt;/tr>&lt;tr>&lt;td>Thorp&lt;/td>&lt;td>50 gp&lt;/td>&lt;td>1d4 items&lt;/td>&lt;td>—&lt;/td>&lt;td>—&lt;/td>&lt;/tr>&lt;tr>&lt;td>Hamlet&lt;/td>&lt;td>200 gp&lt;/td>&lt;td>1d6 items&lt;/td>&lt;td>—&lt;/td>&lt;td>—&lt;/td>&lt;/tr>&lt;tr>&lt;td>Village&lt;/td>&lt;td>500 gp&lt;/td>&lt;td>2d4 items&lt;/td>&lt;td>1d4 items&lt;/td>&lt;td>—&lt;/td>&lt;/tr>&lt;tr>&lt;td>Small town&lt;/td>&lt;td>1,000 gp&lt;/td>&lt;td>3d4 items&lt;/td>&lt;td>1d6 items&lt;/td>&lt;td>—&lt;/td>&lt;/tr>&lt;tr>&lt;td>Large town&lt;/td>&lt;td>2,000 gp&lt;/td>&lt;td>3d4 items&lt;/td>&lt;td>2d4 items&lt;/td>&lt;td>1d4 items&lt;/td>&lt;/tr>&lt;tr>&lt;td>Small city&lt;/td>&lt;td>4,000 gp&lt;/td>&lt;td>4d4 items&lt;/td>&lt;td>3d6 items&lt;/td>&lt;td>1d6 items&lt;/td>&lt;/tr>&lt;tr>&lt;td>Large city&lt;/td>&lt;td>8,000 gp&lt;/td>&lt;td>4d4 items&lt;/td>&lt;td>3d4 items&lt;/td>&lt;td>2d4 items&lt;/td>&lt;/tr>&lt;tr>&lt;td>Metropolis&lt;/td>&lt;td>16,000 gp&lt;/td>&lt;td>*&lt;/td>&lt;td>4d4 items&lt;/td>&lt;td>3d4 items&lt;/td>&lt;/tr>&lt;/table>* In a metropolis, nearly all minor magic items are available." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=844" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAX9Ozx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDU0Ij5HYW1lTWFzdGVyeSBHdWlkZTwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD03ODIiPkFkdmVudHVyZXM8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9ODM5Ij5VcmJhbjwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD04NDAiPlRoZSBTaGFwZSBvZiBDaXZpbGl6YXRpb248L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9ODQzIj5TZXR0bGVtZW50cyBpbiBQbGF5PC9hPjwvdT48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTg0NCI+VGhlIFNldHRsZW1lbnQgU3RhdCBCbG9jazwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDIwNDwvaT48L2E+PGJyIC8+QSBzZXR0bGVtZW50IHN0YXQgYmxvY2sgaXMgb3JnYW5pemVkIGFzIGZvbGxvd3MuPGJyIC8+PGJyIC8+IDxiPk5hbWU8L2I+OiBUaGUgc2V0dGxlbWVudOKAmXMgbmFtZSBpcyBwcmVzZW50ZWQgZmlyc3QuPGJyIC8+PGJyIC8+IDxiPkFsaWdubWVudCBhbmQgVHlwZTwvYj46IEEgc2V0dGxlbWVudOKAmXMgYWxpZ25tZW50IGlzIHRoZSBnZW5lcmFsIGFsaWdubWVudCBvZiBpdHMgY2l0aXplbnMgYW5kIGdvdmVybm1lbnTigJQgaW5kaXZpZHVhbHMgd2hvIGR3ZWxsIHRoZXJlaW4gY2FuIHN0aWxsIGJlIG9mIGFueSBhbGlnbm1lbnQsIGJ1dCB0aGUgbWFqb3JpdHkgb2YgaXRzIGNpdGl6ZW5zIHNob3VsZCBiZSB3aXRoaW4gb25lIHN0ZXAgb2YgdGhlIHNldHRsZW1lbnTigJlzIG92ZXJhbGwgYWxpZ25tZW50LiBBbGlnbm1lbnQgaW5mbHVlbmNlcyBhIGNpdHnigJlzIG1vZGlmaWVycyAoc2VlIHBhZ2UgMjA2KS4gVGhlIHR5cGUgaXMgdGhlIHNpemUgY2F0ZWdvcnkgdGhlIHNldHRsZW1lbnQgZmFsbHMgaW50bywgYmUgaXQgdGhvcnAsIGhhbWxldCwgdmlsbGFnZSwgdG93biAoc21hbGwgb3IgbGFyZ2UpLCBjaXR5IChzbWFsbCBvciBsYXJnZSksIG9yIG1ldHJvcG9saXMuIEluIG1vc3QgY2FzZXMsIHJ1bGVzIHBsYXkgb2ZmIG9mIGEgc2V0dGxlbWVudOKAmXMgdHlwZSByYXRoZXIgdGhhbiBpdHMgZXhhY3QgcG9wdWxhdGlvbiB0b3RhbC4gQSBzZXR0bGVtZW504oCZcyB0eXBlIGRldGVybWluZXMgbWFueSBvZiBpdHMgc3RhdGlzdGljcyAoc2VlIFRhYmxlIDfigJMzNjogU2V0dGxlbWVudCBTdGF0aXN0aWNzKS48YnIgLz48YnIgLz4gPGI+TW9kaWZpZXJzPC9iPjogU2V0dGxlbWVudHMgcG9zc2VzcyBzaXggbW9kaWZpZXJzIHRoYXQgYXBwbHkgdG8gc3BlY2lmaWMgc2tpbGwgY2hlY2tzIG1hZGUgaW4gdGhlIHNldHRsZW1lbnQuIEEgc2V0dGxlbWVudOKAmXMgc3RhcnRpbmcgbW9kaWZpZXIgdmFsdWVzIGFyZSBkZXRlcm1pbmVkIGJ5IGl0cyB0eXBlLiBUaGlzIHZhbHVlIGlzIGZ1cnRoZXIgYWRqdXN0ZWQgYnkgdGhlIHNldHRsZW1lbnTigJlzIGFsaWdubWVudCwgZ292ZXJubWVudCwgcXVhbGl0aWVzLCBhbmQgZGlzYWR2YW50YWdlcy4gTm90ZSB0aGF0IGludHJvZHVjaW5nIHNldHRsZW1lbnQgbW9kaWZpZXJzIHRvIHlvdXIgZ2FtZSB3aWxsIHNvbWV3aGF0IGluY3JlYXNlIHRoZSBjb21wbGV4aXR5IG9mIHNraWxsIGNoZWNrcyBieSBhZGRpbmcgYSB2YXJpYWJsZSBtb2RpZmllciBlYWNoIHRpbWUgdGhlIFBDcyB2aXNpdCBhIG5ldyB0b3duIG9yIGNpdHnigJRjb25zaWRlciB0aGUgdXNlIG9mIHRoZXNlIG1vZGlmaWVycyBhbiBvcHRpb25hbCBydWxlLiA8YnIgLz48YnIgLz4gPGI+UXVhbGl0aWVzPC9iPjogQWxsIHNldHRsZW1lbnRzIGhhdmUgYSBjZXJ0YWluIG51bWJlciBvZiBxdWFsaXRpZXMgdGhhdCBmdXJ0aGVyIGFkanVzdCB0aGVpciBzdGF0aXN0aWNz4oCUdGhpbmsgb2YgcXVhbGl0aWVzIGFzIGZlYXRzIGZvciBzZXR0bGVtZW50cy4gQSBzZXR0bGVtZW504oCZcyB0eXBlIGRldGVybWluZXMgaG93IG1hbnkgcXVhbGl0aWVzIGl0IGNhbiBoYXZlLjxiciAvPjxiciAvPiA8Yj5EYW5nZXI8L2I+OiBBIHNldHRsZW1lbnTigJlzIGRhbmdlciB2YWx1ZSBpcyBhIG51bWJlciB0aGF0IGdpdmVzIGEgZ2VuZXJhbCBpZGVhIG9mIGhvdyBkYW5nZXJvdXMgaXQgaXMgdG8gbGl2ZSBpbiB0aGUgc2V0dGxlbWVudC4gSWYgeW91IHVzZSB0aGUgdXJiYW4gZW5jb3VudGVycyBjaGFydHMgb24gcGFnZXMgMjEy4oCTMjEzIGZvciByYW5kb20gZW5jb3VudGVycyBpbiB5b3VyIGNpdHkgKG9yIGFueSBzaW1pbGFyIHdhbmRlcmluZyBtb25zdGVyIGNoYXJ0IHRoYXQgdXNlcyBwZXJjZW50aWxlIGRpY2UgYW5kIHJhbmtzIGl0cyBlbmNvdW50ZXJzIGZyb20gbG93ZXN0IENSIHRvIGhpZ2hlc3QgQ1IpLCB1c2UgdGhlIG1vZGlmaWVyIGFzc29jaWF0ZWQgd2l0aCB0aGUgc2V0dGxlbWVudOKAmXMgZGFuZ2VyIHZhbHVlIHRvIGFkanVzdCByb2xscyBvbiB0aGUgZW5jb3VudGVyIGNoYXJ0LiBBIHNldHRsZW1lbnTigJlzIGJhc2UgZGFuZ2VyIHZhbHVlIGRlcGVuZHMgb24gaXRzIHR5cGUuPGJyIC8+PGJyIC8+IDxiPkRpc2FkdmFudGFnZXM8L2I+OiBBbnkgZGlzYWR2YW50YWdlcyBhIHNldHRsZW1lbnQgbWlnaHQgYmUgc3VmZmVyaW5nIGZyb20gYXJlIGxpc3RlZCBvbiB0aGlzIGxpbmUuIEEgc2V0dGxlbWVudCBjYW4gaGF2ZSBhbnkgbnVtYmVyIG9mIGRpc2FkdmFudGFnZXMgeW91IHdpc2ggdG8gaW5mbGljdCBvbiBpdCwgYWx0aG91Z2ggbW9zdCBzZXR0bGVtZW50cyBoYXZlIG5vIGRpc2FkdmFudGFnZXMuPGJyIC8+PGJyIC8+IDxiPkdvdmVybm1lbnQ8L2I+OiBUaGlzIGVudHJ5IGxpc3RzIGhvdyB0aGUgc2V0dGxlbWVudCBpcyBnb3Zlcm5lZCBhbmQgcnVsZWQuIFRoZSB0eXBlIG9mIGdvdmVybm1lbnQgYSBzZXR0bGVtZW50IGZvbGxvd3MgYWZmZWN0cyBpdHMgc3RhdGlzdGljcy48YnIgLz48YnIgLz4gPGI+UG9wdWxhdGlvbjwvYj46IFRoaXMgbnVtYmVyIHJlcHJlc2VudHMgdGhlIHNldHRsZW1lbnTigJlzIHBvcHVsYXRpb24uIE5vdGUgdGhhdCB0aGUgZXhhY3QgbnVtYmVyIGlzIGZsZXhpYmxlOyBhIHNldHRsZW1lbnTigJlzIGFjdHVhbCBwb3B1bGF0aW9uIGNhbiBzd2VsbCBvbiBtYXJrZXQgZGF5cyBvciBkd2luZGxlIGR1cmluZyB3aW50ZXLigJR0aGlzIG51bWJlciBsaXN0cyB0aGUgYXZlcmFnZSBwb3B1bGF0aW9uIG9mIHRoZSBzZXR0bGVtZW50LiBOb3RlIHRoYXQgdGhpcyBudW1iZXIgaXMgZ2VuZXJhbGx5IHVzZWQgZm9yIGxpdHRsZSBtb3JlIHRoYW4gZmxhdm9y4oCUc2luY2UgYWN0dWFsIHBvcHVsYXRpb24gdG90YWxzIGZsdWN0dWF0ZSwgaXTigJlzIHBvaW50bGVzcyB0byB0ZXRoZXIgcnVsZXMgdG8gdGhpcyBudW1iZXIuIEFmdGVyIHRoZSBzZXR0bGVtZW504oCZcyB0b3RhbCBwb3B1bGF0aW9uLCBhIGJyZWFrZG93biBvZiBpdHMgcmFjaWFsIG1peCBpcyBsaXN0ZWQgaW4gcGFyZW50aGVzZXMuPGJyIC8+PGJyIC8+IDxiPk5vdGFibGUgTlBDczwvYj46IFRoaXMgc2VjdGlvbiBsaXN0cyBhbnkgbm90YWJsZSBOUENzIHdobyBsaXZlIGluIHRoZSBjaXR5LCBzb3J0ZWQgYnkgdGhlaXIgcm9sZSBpbiB0aGUgY29tbXVuaXR5LCBmb2xsb3dlZCBieSB0aGVpciBuYW1lIGFuZCB0aGVuIHRoZWlyIGFsaWdubWVudCwgZ2VuZGVyLCByYWNlLCBjbGFzcywgYW5kIGxldmVsIGluIHBhcmVudGhlc2VzLjxiciAvPjxiciAvPiA8Yj5CYXNlIFZhbHVlIGFuZCBQdXJjaGFzZSBMaW1pdDwvYj46IFRoaXMgc2VjdGlvbiBsaXN0cyB0aGUgY29tbXVuaXR54oCZcyBiYXNlIHZhbHVlIGZvciBhdmFpbGFibGUgbWFnaWMgaXRlbXMgaW4gZ3AuIFRoZXJlIGlzIGEgNzUlIGNoYW5jZSB0aGF0IGFueSBpdGVtIG9mIHRoaXMgdmFsdWUgb3IgbG93ZXIgY2FuIGJlIGZvdW5kIGZvciBzYWxlIGluIHRoZSBjb21tdW5pdHkgd2l0aCBsaXR0bGUgZWZmb3J0LiBJZiBhbiBpdGVtIGlzIG5vdCBhdmFpbGFibGUsIGEgbmV3IGNoZWNrIHRvIGRldGVybWluZSBpZiB0aGUgaXRlbSBoYXMgYmVjb21lIGF2YWlsYWJsZSBjYW4gYmUgbWFkZSBpbiAxIHdlZWsuIEEgc2V0dGxlbWVudOKAmXMgcHVyY2hhc2UgbGltaXQgaXMgdGhlIG1vc3QgbW9uZXkgYSBzaG9wIGluIHRoZSBzZXR0bGVtZW50IGNhbiBzcGVuZCB0byBwdXJjaGFzZSBhbnkgc2luZ2xlIGl0ZW0gZnJvbSB0aGUgUENzLiBJZiB0aGUgUENzIHdpc2ggdG8gc2VsbCBhbiBpdGVtIHdvcnRoIG1vcmUgdGhhbiBhIHNldHRsZW1lbnTigJlzIHB1cmNoYXNlIGxpbWl0LCB0aGV54oCZbGwgZWl0aGVyIG5lZWQgdG8gc2V0dGxlIGZvciBhIGxvd2VyIHByaWNlLCB0cmF2ZWwgdG8gYSBsYXJnZXIgY2l0eSwgb3IgKHdpdGggdGhlIEdN4oCZcyBwZXJtaXNzaW9uKSBzZWFyY2ggZm9yIGEgc3BlY2lmaWMgYnV5ZXIgaW4gdGhlIGNpdHkgd2l0aCBkZWVwZXIgcG9ja2V0cy4gQSBzZXR0bGVtZW504oCZcyB0eXBlIHNldHMgaXRzIHB1cmNoYXNlIGxpbWl0LjxiciAvPjxiciAvPiA8Yj5TcGVsbGNhc3Rpbmc8L2I+OiBVbmxpa2UgbWFnaWMgaXRlbXMsIHNwZWxsY2FzdGluZyBmb3IgaGlyZSBpcyBsaXN0ZWQgc2VwYXJhdGVseSBmcm9tIHRoZSB0b3du4oCZcyBiYXNlIHZhbHVlLCBzaW5jZSBzcGVsbGNhc3RpbmcgaXMgbGltaXRlZCBieSB0aGUgbGV2ZWwgb2YgdGhlIGF2YWlsYWJsZSBzcGVsbGNhc3RlcnMgaW4gdG93bi4gVGhpcyBsaW5lIGxpc3RzIHRoZSBoaWdoZXN0LWxldmVsIHNwZWxsIGF2YWlsYWJsZSBmb3IgcHVyY2hhc2UgZnJvbSBzcGVsbGNhc3RlcnMgaW4gdG93bi4gUHJpY2VzIGZvciBzcGVsbGNhc3RpbmcgYXBwZWFyIG9uIHBhZ2UgMTU5IG9mIHRoZSBDb3JlIFJ1bGVib29rLiBBIHRvd27igJlzIGJhc2Ugc3BlbGxjYXN0aW5nIGxldmVsIGRlcGVuZHMgb24gaXRzIHR5cGUuPGJyIC8+PGJyIC8+IDxiPk1pbm9yIEl0ZW1zL01lZGl1bSBJdGVtcy9NYWpvciBJdGVtczwvYj46IFRoaXMgbGluZSBsaXN0cyB0aGUgbnVtYmVyIG9mIG1hZ2ljIGl0ZW1zIGFib3ZlIGEgc2V0dGxlbWVudOKAmXMgYmFzZSB2YWx1ZSB0aGF0IGFyZSBhdmFpbGFibGUgZm9yIHB1cmNoYXNlLiBJbiBzb21lIGNpdHkgc3RhdCBibG9ja3MsIHRoZSBhY3R1YWwgaXRlbXMgYXJlIGxpc3RlZCBpbiBwYXJlbnRoZXNlcyBhZnRlciB0aGUgZGllIHJhbmdlIG9mIGl0ZW1zIGF2YWlsYWJsZeKAlGluIHRoaXMgY2FzZSwgeW91IGNhbiB1c2UgdGhlc2UgcHJlLXJvbGxlZCByZXNvdXJjZXMgd2hlbiB0aGUgUENzIGZpcnN0IHZpc2l0IHRoZSBjaXR5IGFzIHRoZSBtYWdpYyBpdGVtcyBhdmFpbGFibGUgZm9yIHNhbGUgb24gdGhhdCB2aXNpdC4gSWYgdGhlIFBDcyByZXR1cm4gdG8gdGhhdCBjaXR5IGF0IGEgbGF0ZXIgZGF0ZSwgeW91IGNhbiByb2xsIHVwIG5ldyBpdGVtcyBhcyB5b3Ugc2VlIGZpdC4gU2VlIHBhZ2UgNDYxIG9mIHRoZSBDb3JlIFJ1bGVib29rIGZvciB0aGUgbnVtYmVyIHJhbmdlcyBkZXRlcm1pbmluZyBob3cgbWFueSBpdGVtcyBjYW4gYmUgZm91bmQgaW4gYSBjb21tdW5pdHkuIDxoMj5UYWJsZSA3LTM2OiBTZXR0bGVtZW50IFN0YXRpc3RpY3M8L2gyPjx0YWJsZSBjbGFzcz0iaW5uZXIiPjx0cj48dGQ+PGI+VHlwZTwvYj48L3RkPjx0ZD48Yj5Nb2RpZmllcnM8L2I+PC90ZD48dGQ+PGI+UXVhbGl0aWVzPC9iPjwvdGQ+PHRkPjxiPkRhbmdlcjwvYj48L3RkPjx0ZD48Yj5CYXNlIFZhbHVlPC9iPjwvdGQ+PHRkPjxiPlB1cmNoYXNlIExpbWl0PC9iPjwvdGQ+PHRkPjxiPlNwZWxsY2FzdGluZzwvYj48L3RkPjwvdHI+PHRyPjx0ZD5UaG9ycDwvdGQ+PHRkPi00PC90ZD48dGQ+MTwvdGQ+PHRkPi0xMDwvdGQ+PHRkPjUwIGdwPC90ZD48dGQ+NTAwIGdwPC90ZD48dGQ+MXN0PC90ZD48L3RyPjx0cj48dGQ+SGFtbGV0PC90ZD48dGQ+LTI8L3RkPjx0ZD4xPC90ZD48dGQ+LTU8L3RkPjx0ZD4yMDAgZ3A8L3RkPjx0ZD4xLDAwMCBncDwvdGQ+PHRkPjJuZDwvdGQ+PC90cj48dHI+PHRkPlZpbGxhZ2U8L3RkPjx0ZD4tMTwvdGQ+PHRkPjI8L3RkPjx0ZD4wPC90ZD48dGQ+NTAwIGdwPC90ZD48dGQ+Miw1MDAgZ3A8L3RkPjx0ZD4zcmQ8L3RkPjwvdHI+PHRyPjx0ZD5TbWFsbCB0b3duPC90ZD48dGQ+MDwvdGQ+PHRkPjI8L3RkPjx0ZD4wPC90ZD48dGQ+MSwwMDAgZ3A8L3RkPjx0ZD41LDAwMCBncDwvdGQ+PHRkPjR0aDwvdGQ+PC90cj48dHI+PHRkPkxhcmdlIHRvd248L3RkPjx0ZD4wPC90ZD48dGQ+MzwvdGQ+PHRkPjU8L3RkPjx0ZD4yLDAwMCBncDwvdGQ+PHRkPjEwLDAwMCBncDwvdGQ+PHRkPjV0aDwvdGQ+PC90cj48dHI+PHRkPlNtYWxsIGNpdHk8L3RkPjx0ZD4rMTwvdGQ+PHRkPjQ8L3RkPjx0ZD41PC90ZD48dGQ+NCwwMDAgZ3A8L3RkPjx0ZD4yNSwwMDAgZ3A8L3RkPjx0ZD42dGg8L3RkPjwvdHI+PHRyPjx0ZD5MYXJnZSBjaXR5PC90ZD48dGQ+KzI8L3RkPjx0ZD41PC90ZD48dGQ+MTA8L3RkPjx0ZD44LDAwMCBncDwvdGQ+PHRkPjUwLDAwMCBncDwvdGQ+PHRkPjd0aDwvdGQ+PC90cj48dHI+PHRkPk1ldHJvcG9saXM8L3RkPjx0ZD4rNDwvdGQ+PHRkPjY8L3RkPjx0ZD4xMDwvdGQ+PHRkPjE2LDAwMCBncDwvdGQ+PHRkPjEwMCwwMDAgZ3A8L3RkPjx0ZD44dGg8L3RkPjwvdHI+PC90YWJsZT48YnIgLz48YnIgLz48aDI+VGFibGUgNy0zNzogQXZhaWxhYmxlIE1hZ2ljIEl0ZW1zPC9oMj48dGFibGUgY2xhc3M9ImlubmVyIj48dHI+PHRkPjxiPkNvbW11bml0eSBTaXplPC9iPjwvdGQ+PHRkPjxiPkJhc2UgVmFsdWU8L2I+PC90ZD48dGQ+PGI+TWlub3I8L2I+PC90ZD48dGQ+PGI+TWVkaXVtPC9iPjwvdGQ+PHRkPjxiPk1ham9yPC9iPjwvdGQ+PC90cj48dHI+PHRkPlRob3JwPC90ZD48dGQ+NTAgZ3A8L3RkPjx0ZD4xZDQgaXRlbXM8L3RkPjx0ZD7igJQ8L3RkPjx0ZD7igJQ8L3RkPjwvdHI+PHRyPjx0ZD5IYW1sZXQ8L3RkPjx0ZD4yMDAgZ3A8L3RkPjx0ZD4xZDYgaXRlbXM8L3RkPjx0ZD7igJQ8L3RkPjx0ZD7igJQ8L3RkPjwvdHI+PHRyPjx0ZD5WaWxsYWdlPC90ZD48dGQ+NTAwIGdwPC90ZD48dGQ+MmQ0IGl0ZW1zPC90ZD48dGQ+MWQ0IGl0ZW1zPC90ZD48dGQ+4oCUPC90ZD48L3RyPjx0cj48dGQ+U21hbGwgdG93bjwvdGQ+PHRkPjEsMDAwIGdwPC90ZD48dGQ+M2Q0IGl0ZW1zPC90ZD48dGQ+MWQ2IGl0ZW1zPC90ZD48dGQ+4oCUPC90ZD48L3RyPjx0cj48dGQ+TGFyZ2UgdG93bjwvdGQ+PHRkPjIsMDAwIGdwPC90ZD48dGQ+M2Q0IGl0ZW1zPC90ZD48dGQ+MmQ0IGl0ZW1zPC90ZD48dGQ+MWQ0IGl0ZW1zPC90ZD48L3RyPjx0cj48dGQ+U21hbGwgY2l0eTwvdGQ+PHRkPjQsMDAwIGdwPC90ZD48dGQ+NGQ0IGl0ZW1zPC90ZD48dGQ+M2Q2IGl0ZW1zPC90ZD48dGQ+MWQ2IGl0ZW1zPC90ZD48L3RyPjx0cj48dGQ+TGFyZ2UgY2l0eTwvdGQ+PHRkPjgsMDAwIGdwPC90ZD48dGQ+NGQ0IGl0ZW1zPC90ZD48dGQ+M2Q0IGl0ZW1zPC90ZD48dGQ+MmQ0IGl0ZW1zPC90ZD48L3RyPjx0cj48dGQ+TWV0cm9wb2xpczwvdGQ+PHRkPjE2LDAwMCBncDwvdGQ+PHRkPio8L3RkPjx0ZD40ZDQgaXRlbXM8L3RkPjx0ZD4zZDQgaXRlbXM8L3RkPjwvdHI+PC90YWJsZT4qIEluIGEgbWV0cm9wb2xpcywgbmVhcmx5IGFsbCBtaW5vciBtYWdpYyBpdGVtcyBhcmUgYXZhaWxhYmxlLmRkZMcNbJJsorpe+6igVB+Khff6yfkRQz9fh37B3Gd7hXFj" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=454">GameMastery Guide</a></u> / <u><a href="Rules.aspx?ID=782">Adventures</a></u> / <u><a href="Rules.aspx?ID=839">Urban</a></u> / <u><a href="Rules.aspx?ID=840">The Shape of Civilization</a></u> / <u><a href="Rules.aspx?ID=843">Settlements in Play</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=844">The Settlement Stat Block</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 204</i></a><br />A settlement stat block is organized as follows.<br /><br /> <b>Name</b>: The settlement’s name is presented first.<br /><br /> <b>Alignment and Type</b>: A settlement’s alignment is the general alignment of its citizens and government— individuals who dwell therein can still be of any alignment, but the majority of its citizens should be within one step of the settlement’s overall alignment. Alignment influences a city’s modifiers (see page 206). The type is the size category the settlement falls into, be it thorp, hamlet, village, town (small or large), city (small or large), or metropolis. In most cases, rules play off of a settlement’s type rather than its exact population total. A settlement’s type determines many of its statistics (see Table 7–36: Settlement Statistics).<br /><br /> <b>Modifiers</b>: Settlements possess six modifiers that apply to specific skill checks made in the settlement. A settlement’s starting modifier values are determined by its type. This value is further adjusted by the settlement’s alignment, government, qualities, and disadvantages. Note that introducing settlement modifiers to your game will somewhat increase the complexity of skill checks by adding a variable modifier each time the PCs visit a new town or city—consider the use of these modifiers an optional rule. <br /><br /> <b>Qualities</b>: All settlements have a certain number of qualities that further adjust their statistics—think of qualities as feats for settlements. A settlement’s type determines how many qualities it can have.<br /><br /> <b>Danger</b>: A settlement’s danger value is a number that gives a general idea of how dangerous it is to live in the settlement. If you use the urban encounters charts on pages 212–213 for random encounters in your city (or any similar wandering monster chart that uses percentile dice and ranks its encounters from lowest CR to highest CR), use the modifier associated with the settlement’s danger value to adjust rolls on the encounter chart. A settlement’s base danger value depends on its type.<br /><br /> <b>Disadvantages</b>: Any disadvantages a settlement might be suffering from are listed on this line. A settlement can have any number of disadvantages you wish to inflict on it, although most settlements have no disadvantages.<br /><br /> <b>Government</b>: This entry lists how the settlement is governed and ruled. The type of government a settlement follows affects its statistics.<br /><br /> <b>Population</b>: This number represents the settlement’s population. Note that the exact number is flexible; a settlement’s actual population can swell on market days or dwindle during winter—this number lists the average population of the settlement. Note that this number is generally used for little more than flavor—since actual population totals fluctuate, it’s pointless to tether rules to this number. After the settlement’s total population, a breakdown of its racial mix is listed in parentheses.<br /><br /> <b>Notable NPCs</b>: This section lists any notable NPCs who live in the city, sorted by their role in the community, followed by their name and then their alignment, gender, race, class, and level in parentheses.<br /><br /> <b>Base Value and Purchase Limit</b>: This section lists the community’s base value for available magic items in gp. There is a 75% chance that any item of this value or lower can be found for sale in the community with little effort. If an item is not available, a new check to determine if the item has become available can be made in 1 week. A settlement’s purchase limit is the most money a shop in the settlement can spend to purchase any single item from the PCs. If the PCs wish to sell an item worth more than a settlement’s purchase limit, they’ll either need to settle for a lower price, travel to a larger city, or (with the GM’s permission) search for a specific buyer in the city with deeper pockets. A settlement’s type sets its purchase limit.<br /><br /> <b>Spellcasting</b>: Unlike magic items, spellcasting for hire is listed separately from the town’s base value, since spellcasting is limited by the level of the available spellcasters in town. This line lists the highest-level spell available for purchase from spellcasters in town. Prices for spellcasting appear on page 159 of the Core Rulebook. A town’s base spellcasting level depends on its type.<br /><br /> <b>Minor Items/Medium Items/Major Items</b>: This line lists the number of magic items above a settlement’s base value that are available for purchase. In some city stat blocks, the actual items are listed in parentheses after the die range of items available—in this case, you can use these pre-rolled resources when the PCs first visit the city as the magic items available for sale on that visit. If the PCs return to that city at a later date, you can roll up new items as you see fit. See page 461 of the Core Rulebook for the number ranges determining how many items can be found in a community. <h2>Table 7-36: Settlement Statistics</h2><table class="inner"><tr><td><b>Type</b></td><td><b>Modifiers</b></td><td><b>Qualities</b></td><td><b>Danger</b></td><td><b>Base Value</b></td><td><b>Purchase Limit</b></td><td><b>Spellcasting</b></td></tr><tr><td>Thorp</td><td>-4</td><td>1</td><td>-10</td><td>50 gp</td><td>500 gp</td><td>1st</td></tr><tr><td>Hamlet</td><td>-2</td><td>1</td><td>-5</td><td>200 gp</td><td>1,000 gp</td><td>2nd</td></tr><tr><td>Village</td><td>-1</td><td>2</td><td>0</td><td>500 gp</td><td>2,500 gp</td><td>3rd</td></tr><tr><td>Small town</td><td>0</td><td>2</td><td>0</td><td>1,000 gp</td><td>5,000 gp</td><td>4th</td></tr><tr><td>Large town</td><td>0</td><td>3</td><td>5</td><td>2,000 gp</td><td>10,000 gp</td><td>5th</td></tr><tr><td>Small city</td><td>+1</td><td>4</td><td>5</td><td>4,000 gp</td><td>25,000 gp</td><td>6th</td></tr><tr><td>Large city</td><td>+2</td><td>5</td><td>10</td><td>8,000 gp</td><td>50,000 gp</td><td>7th</td></tr><tr><td>Metropolis</td><td>+4</td><td>6</td><td>10</td><td>16,000 gp</td><td>100,000 gp</td><td>8th</td></tr></table><br /><br /><h2>Table 7-37: Available Magic Items</h2><table class="inner"><tr><td><b>Community Size</b></td><td><b>Base Value</b></td><td><b>Minor</b></td><td><b>Medium</b></td><td><b>Major</b></td></tr><tr><td>Thorp</td><td>50 gp</td><td>1d4 items</td><td>—</td><td>—</td></tr><tr><td>Hamlet</td><td>200 gp</td><td>1d6 items</td><td>—</td><td>—</td></tr><tr><td>Village</td><td>500 gp</td><td>2d4 items</td><td>1d4 items</td><td>—</td></tr><tr><td>Small town</td><td>1,000 gp</td><td>3d4 items</td><td>1d6 items</td><td>—</td></tr><tr><td>Large town</td><td>2,000 gp</td><td>3d4 items</td><td>2d4 items</td><td>1d4 items</td></tr><tr><td>Small city</td><td>4,000 gp</td><td>4d4 items</td><td>3d6 items</td><td>1d6 items</td></tr><tr><td>Large city</td><td>8,000 gp</td><td>4d4 items</td><td>3d4 items</td><td>2d4 items</td></tr><tr><td>Metropolis</td><td>16,000 gp</td><td>*</td><td>4d4 items</td><td>3d4 items</td></tr></table>* In a metropolis, nearly all minor magic items are available.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

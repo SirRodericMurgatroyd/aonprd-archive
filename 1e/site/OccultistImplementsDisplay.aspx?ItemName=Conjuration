@@ -1,0 +1,283 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Conjuration - Implement Schools - Occultist - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    
+    <meta name="keywords" content="Archives, Nethys, Pathfinder, Official, PRD, PFSRD, Occultist, Implements, Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Mage&#39;s Paraphernalia, Necromancy, Performer&#39;s Accoutrements, Saint&#39;s Holy Regalia, Transmutation, Trappings of the Warrior" /><meta name="description" content="Abjuration implements are objects associated with protection and wards.Implements used in conjuration allow the occultist to perform magic that transports or calls creatures.Implements of the divination school grant powers related to foresight and remote viewing.Enchantment implements allow the occultist to befuddle the mind and charm his foes.Implements focused on evocation grant the ability to create and direct energy to protect and to destroy.Illusion implements allow the occultist to distort the senses and cloak creatures from sight.This panoply is associated with the arcane arts and the masters of manipulating magic.Implements that draw power from necromancy can control undead and harm the living.This panoply is associated with those who deceive as well as those who entertain.This panoply is associated with devoted members of a good-aligned faith and the power of belief.Transmutation implements can alter the properties of both objects and creatures.This panoply is associated with brave and stalwart warriors, martial skill, and the defense of one’s allies." />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./OccultistImplementsDisplay.aspx?ItemName=Conjuration" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMTYzNjAxNDgPZBYCZg9kFgICAw9kFgICAQ9kFggCAQ8PFgIeBFRleHQF2Bo8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1BbGNoZW1pc3QiPkFsY2hlbWlzdDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1BbnRpcGFsYWRpbiI+QW50aXBhbGFkaW48L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9QXJjYW5pc3QiPkFyY2FuaXN0PC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUJhcmJhcmlhbiI+QmFyYmFyaWFuPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUJhcmJhcmlhbiAoVW5jaGFpbmVkKSI+QmFyYmFyaWFuIChVbmNoYWluZWQpPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUJhcmQiPkJhcmQ8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9Qmxvb2RyYWdlciI+Qmxvb2RyYWdlcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1CcmF3bGVyIj5CcmF3bGVyPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUNhdmFsaWVyIj5DYXZhbGllcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1DbGVyaWMiPkNsZXJpYzwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1EcnVpZCI+RHJ1aWQ8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9RmlnaHRlciI+RmlnaHRlcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1HdW5zbGluZ2VyIj5HdW5zbGluZ2VyPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUh1bnRlciI+SHVudGVyPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUlucXVpc2l0b3IiPklucXVpc2l0b3I8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9SW52ZXN0aWdhdG9yIj5JbnZlc3RpZ2F0b3I8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9S2luZXRpY2lzdCI+S2luZXRpY2lzdDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1NYWd1cyI+TWFndXM8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9TWVkaXVtIj5NZWRpdW08L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9TWVzbWVyaXN0Ij5NZXNtZXJpc3Q8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9TW9uayI+TW9uazwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1Nb25rIChVbmNoYWluZWQpIj5Nb25rIChVbmNoYWluZWQpPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPU5pbmphIj5OaW5qYTwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1PY2N1bHRpc3QiPk9jY3VsdGlzdDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1PcmFjbGUiPk9yYWNsZTwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1QYWxhZGluIj5QYWxhZGluPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVBzeWNoaWMiPlBzeWNoaWM8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9UmFuZ2VyIj5SYW5nZXI8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9Um9ndWUiPlJvZ3VlPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVJvZ3VlIChVbmNoYWluZWQpIj5Sb2d1ZSAoVW5jaGFpbmVkKTwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1TYW11cmFpIj5TYW11cmFpPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNoYW1hbiI+U2hhbWFuPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNoaWZ0ZXIiPlNoaWZ0ZXI8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9U2thbGQiPlNrYWxkPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNsYXllciI+U2xheWVyPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNvcmNlcmVyIj5Tb3JjZXJlcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1TcGlyaXR1YWxpc3QiPlNwaXJpdHVhbGlzdDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1TdW1tb25lciI+U3VtbW9uZXI8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9U3VtbW9uZXIgKFVuY2hhaW5lZCkiPlN1bW1vbmVyIChVbmNoYWluZWQpPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVN3YXNoYnVja2xlciI+U3dhc2hidWNrbGVyPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVZpZ2lsYW50ZSI+VmlnaWxhbnRlPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVdhcnByaWVzdCI+V2FycHJpZXN0PC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVdpdGNoIj5XaXRjaDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1XaXphcmQiPldpemFyZDwvYT48aHIgLz48YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1Db21wYW5pb24iPkNvbXBhbmlvbjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1EcmFrZSI+RHJha2U8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9RWlkb2xvbiI+RWlkb2xvbjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1FaWRvbG9uIChVbmNoYWluZWQpIj5FaWRvbG9uIChVbmNoYWluZWQpPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUZhbWlsaWFyIj5GYW1pbGlhcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1QaGFudG9tIj5QaGFudG9tPC9hPjxociAvPjxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUFkZXB0Ij5BZGVwdDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1BcmlzdG9jcmF0Ij5BcmlzdG9jcmF0PC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUNvbW1vbmVyIj5Db21tb25lcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1FeHBlcnQiPkV4cGVydDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1XYXJyaW9yIj5XYXJyaW9yPC9hPjxociAvPmRkAgMPDxYCHwAF0gE8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1PY2N1bHRpc3QiPk9jY3VsdGlzdCBDbGFzcyBEZXRhaWxzPC9hPiB8IDxhIGhyZWY9Ik9jY3VsdGlzdEltcGxlbWVudHMuYXNweCI+SW1wbGVtZW50IFNjaG9vbHMgLyBQYW5vcGxpZXM8L2E+IHwgPGEgaHJlZj0iQXJjaGV0eXBlcy5hc3B4P0NsYXNzPU9jY3VsdGlzdCI+QXJjaGV0eXBlczwvYT48aHIgLz5kZAIFDzwrAAkBAA8WBB4IRGF0YUtleXMWAB4LXyFJdGVtQ291bnQCAWQWAmYPZBYCAgEPDxYCHwAFjzo8aDEgY2xhc3M9InRpdGxlIj48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gQ29uanVyYXRpb24gSW1wbGVtZW50czwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5ZWd1P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1PY2N1bHQtQWR2ZW50dXJlcyIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5PY2N1bHQgQWR2ZW50dXJlcyBwZy4gNTE8L2k+PC9hPjxiciAvPkltcGxlbWVudHMgdXNlZCBpbiBjb25qdXJhdGlvbiBhbGxvdyB0aGUgb2NjdWx0aXN0IHRvIHBlcmZvcm0gbWFnaWMgdGhhdCB0cmFuc3BvcnRzIG9yIGNhbGxzIGNyZWF0dXJlcy48YnIgLz48YnIgLz48Yj5JbXBsZW1lbnRzPC9iPjogQm93bCwgYnJhemllciwgY29tcGFzcywgZmlndXJpbmUsIGxhbnRlcm4sIG1pcnJvci48YnIgLz48YnIgLz48Yj5SZXNvbmFudCBQb3dlcjwvYj46IEVhY2ggdGltZSB0aGUgb2NjdWx0aXN0IGludmVzdHMgbWVudGFsIGZvY3VzIGludG8gYW4gY29uanVyYXRpb24gaW1wbGVtZW50LCB0aGUgaW1wbGVtZW50IGdyYW50cyB0aGUgZm9sbG93aW5nIHJlc29uYW50IHBvd2VyLiBUaGUgaW1wbGVtZW504oCZcyBiZWFyZXIgZ2FpbnMgdGhlIGJlbmVmaXRzIG9mIHRoaXMgcG93ZXIgdW50aWwgdGhlIG9jY3VsdGlzdCByZWZyZXNoZXMgaGlzIGZvY3VzLjxiciAvPjxiciAvPjxpPkNhc3RpbmcgRm9jdXMgKFN1KTwvaT46IFRoZSBpbXBsZW1lbnQgZW1wb3dlcnMgdGhlIGJlYXJlcuKAmXMgdGllcyB0byB0aGUgd29ybGRzIGJleW9uZCwgYWxsb3dpbmcgaGlzIHNwZWxscyB0byBtYWludGFpbiB0aGVpciBwb3dlciBmb3IgYSBsb25nZXIgcGVyaW9kIG9mIHRpbWUuIFRoZSBiZWFyZXIgY2FuIGFkZCB0aGUgaW1wbGVtZW50IGFzIGFuIGFkZGl0aW9uYWwgZm9jdXMgY29tcG9uZW50IHRvIGFueSBjb25qdXJhdGlvbiBzcGVsbCBoZSBjYXN0cyB0aGF0IGhhcyBhIGR1cmF0aW9uIG1lYXN1cmVkIGluIHJvdW5kcyBwZXIgbGV2ZWwuIElmIGhlIGRvZXMgc28sIGhlIGFkZHMgMSB0byBoaXMgY2FzdGVyIGxldmVsIGZvciBldmVyeSAyIHBvaW50cyBvZiBtZW50YWwgZm9jdXMgc3RvcmVkIGluIHRoZSBpbXBsZW1lbnQgKHRvIGEgbWF4aW11bSBib251cyBlcXVhbCB0byB5b3VyIG9jY3VsdGlzdCBsZXZlbCkuIFRoaXMgaW5jcmVhc2UgYXBwbGllcyBvbmx5IHdoZW4gZGV0ZXJtaW5pbmcgdGhlIGR1cmF0aW9uIG9mIHRoZSBzcGVsbC4gQXBwbHkgdGhpcyBpbmNyZWFzZSBhZnRlciBvdGhlciBlZmZlY3RzIHRoYXQgYWRqdXN0IGEgc3BlbGzigJlzIGR1cmF0aW9uLCBzdWNoIGFzIEV4dGVuZCBTcGVsbC48YnIgLz48YnIgLz48Yj5CYXNlIEZvY3VzIFBvd2VyPC9iPjogQWxsIG9jY3VsdGlzdHMgd2hvIGxlYXJuIHRvIHVzZSBjb25qdXJhdGlvbiBpbXBsZW1lbnRzIGdhaW4gdGhlIGZvbGxvd2luZyBmb2N1cyBwb3dlci48YnIgLz48YnIgLz48aT5TZXJ2aXRvciAoU3ApPC9pPjogQXMgYSBzdGFuZGFyZCBhY3Rpb24sIHlvdSBjYW4gZXhwZW5kIDEgcG9pbnQgb2YgbWVudGFsIGZvY3VzIHRvIHN1bW1vbiBhIHNlcnZpdG9yLiBUaGlzIGFiaWxpdHkgZnVuY3Rpb25zIGFzIDxpPnN1bW1vbiBtb25zdGVyIEk8L2k+LCBidXQgeW91IGNhbiB1c2UgaXQgb25seSB0byBzdW1tb24gYSBzaW5nbGUgY3JlYXR1cmUsIGFuZCB0aGUgZWZmZWN0IGxhc3RzIGZvciAxIG1pbnV0ZS4gQXQgNHRoIGxldmVsIGFuZCBldmVyeSAzIGxldmVscyB0aGVyZWFmdGVyLCB0aGUgbGV2ZWwgb2YgdGhlIHN1bW1vbiBtb25zdGVyIHNwZWxsIGluY3JlYXNlcyBieSAxLCB0byBhIG1heGltdW0gb2YgPGk+c3VtbW9uIG1vbnN0ZXIgVklJPC9pPiBhdCAxOXRoIGxldmVsLiBZb3UgY2Fu4oCZdCBoYXZlIG1vcmUgdGhhbiBvbmUgc2Vydml0b3IgaW4gZWZmZWN0IGF0IGEgdGltZS4gQXQgYW55IHRpbWUsIHlvdSBjYW4gZXhwZW5kIDEgcG9pbnQgb2YgbWVudGFsIGZvY3VzIGFzIGEgZnJlZSBhY3Rpb24gdG8gZXh0ZW5kIHRoZSBkdXJhdGlvbiBvZiBhbiBhY3RpdmUgc2Vydml0b3IgYnkgMSBtaW51dGUuPGJyIC8+PGJyIC8+PGI+Rm9jdXMgUG93ZXJzPC9iPjogSW4gYWRkaXRpb24gdG8gZ2FpbmluZyB0aGUgYmFzZSBmb2N1cyBwb3dlciwgb2NjdWx0aXN0cyB3aG8gbGVhcm4gdG8gdXNlIGNvbmp1cmF0aW9uIGltcGxlbWVudHMgY2FuIHNlbGVjdCBmcm9tIHRoZSBmb2xsb3dpbmcgZm9jdXMgcG93ZXJzIHdoZW4gY2hvb3NpbmcgdGhlIHBvd2VycyBnYWluZWQgZnJvbSB0aGVpciBmb2N1cyBwb3dlcnMgY2xhc3MgZmVhdHVyZS48YnIgLz48YnIgLz48aT5Db25qdXJlIEltcGxlbWVudCAoU3ApPC9pPjogWW91IGNhbiBleHBlbmQgMSBwb2ludCBvZiBtZW50YWwgZm9jdXMgdG8gY29uanVyZSBhbnkgaXRlbSB0aGF0IHF1YWxpZiBpZXMgYXMgYW4gaW1wbGVtZW50IHRoYXQgeW91IGtub3cgaG93IHRvIHVzZS4gVGhpcyBpbXBsZW1lbnQgY2FuIGJlIHVzZWQgYXMgdGhlIGl0ZW0gaW4gcXVlc3Rpb24sIGZ1bmN0aW9uaW5nIGFzIGEgbWFzdGVyd29yayB2ZXJzaW9uIG9mIHRoYXQgaXRlbSwgYW5kIGNhbiBhbHNvIGJlIHVzZWQgdG8gY2FzdCB5b3VyIHBzeWNoaWMgc3BlbGxzLCBldmVuIHRob3VnaCB5b3UgZGlkIG5vdCBzZWxlY3QgaXQgYXQgdGhlIGJlZ2lubmluZyBvZiB0aGUgZGF5LiBJZiB5b3UgaGF2ZSBtb3JlIHRoYW4gb25lIGltcGxlbWVudCBmb3IgdGhlIHNhbWUgc2Nob29sLCBkZWNpZGUgd2hpY2ggc2V0IG9mIHNwZWxscyB0aGUgY29uanVyZWQgaW1wbGVtZW50IHdpbGwgZ3JhbnQgd2hlbiB5b3UgZmlyc3QgY29uanVyZSBpdC4gVGhlIGltcGxlbWVudCBjYW7igJl0IGJlIHVzZWQgdG8gc3RvcmUgbWVudGFsIGZvY3VzIG9yIGNyZWF0ZSBhbnkgZWZmZWN0cyB0aGF0IHJlcXVpcmUgbWVudGFsIGZvY3VzLiBUaGUgaW1wbGVtZW50IGxhc3RzIGZvciAxMCBtaW51dGVzIHBlciBvY2N1bHRpc3QgbGV2ZWwgeW91IHBvc3Nlc3MuPGJyIC8+PGJyIC8+PGk+Rmxlc2ggTWVuZCAoU3ApPC9pPjogQXMgYSBzdGFuZGFyZCBhY3Rpb24sIHlvdSBjYW4gZXhwZW5kIDEgcG9pbnQgb2YgbWVudGFsIGZvY3VzIHRvIGhlYWwgYSBsaXZpbmcgY3JlYXR1cmUgd2l0aCBhIHRvdWNoLiBUaGUgY3JlYXR1cmUgaXMgaGVhbGVkIGFuIGFtb3VudCBvZiBkYW1hZ2UgZXF1YWwgdG8gMWQ4ICsgeW91ciBvY2N1bHRpc3QgbGV2ZWwuIEZvciBldmVyeSA0IG9jY3VsdGlzdCBsZXZlbHMgeW91IHBvc3Nlc3MgYmV5b25kIDNyZCwgdGhlIGNyZWF0dXJlIGlzIGhlYWxlZCBhbiBhZGRpdGlvbmFsIDFkOCBwb2ludHMgb2YgZGFtYWdlLCB0byBhIG1heGltdW0gb2YgNWQ4KzE5IGF0IDE5dGggbGV2ZWwuIFRoaXMgaGFzIG5vIGVmZmVjdCBvbiB1bmRlYWQgY3JlYXR1cmVzLiBZb3UgbXVzdCBiZSBhdCBsZWFzdCAzcmQgbGV2ZWwgdG8gc2VsZWN0IHRoaXMgZm9jdXMgcG93ZXIuPGJyIC8+PGJyIC8+PGk+TWluZCBTdGVlZCAoU3ApPC9pPjogQXMgYSBzdGFuZGFyZCBhY3Rpb24sIHlvdSBjYW4gZXhwZW5kIDEgcG9pbnQgb2YgbWVudGFsIGZvY3VzIHRvIGNvbmp1cmUgYSBzcGVjdHJhbCBob3JzZS4gVGhpcyBob3JzZSBjYW4gYmUgZWl0aGVyIE1lZGl1bSBvciBMYXJnZSwgYnV0IGl0IG90aGVyd2lzZSBmdW5jdGlvbnMgYXMgPGk+bW91bnQ8L2k+LiBUaGUgaG9yc2UgbGFzdHMgZm9yIDEwIG1pbnV0ZXMgcGVyIG9jY3VsdGlzdCBsZXZlbCB5b3UgcG9zc2Vzcy4gSWYgeW91IGFyZSBhdCBsZWFzdCA1dGggbGV2ZWwsIHRoZSBtb3VudOKAmXMgYmFzZSBsYW5kIHNwZWVkIGluY3JlYXNlcyBieSAyMCBmZWV0LiBJZiB5b3UgYXJlIGF0IGxlYXN0IDl0aCBsZXZlbCBhbmQgeW91IGV4cGVuZCAxIGFkZGl0aW9uYWwgcG9pbnQgb2YgbWVudGFsIGZvY3VzLCB0aGUgbW91bnQgY2FuIGZseSBhdCBhIHNwZWVkIG9mIDYwIGZlZXQgd2l0aCBnb29kIG1hbmV1dmVyYWJpbGl0eSwgYnV0IGRvaW5nIHNvIHJlZHVjZXMgdGhlIG1vdW504oCZcyBkdXJhdGlvbiB0byAxIG1pbnV0ZSBwZXIgb2NjdWx0aXN0IGxldmVsIHlvdSBwb3NzZXNzLjxiciAvPjxiciAvPjxpPlBzeWNoaWMgRm9nIChTcCk8L2k+OiBBcyBhIHN0YW5kYXJkIGFjdGlvbiwgeW91IGNhbiBleHBlbmQgMSBwb2ludCBvZiBtZW50YWwgZm9jdXMgdG8gY3JlYXRlIGEgY2xvdWQgb2YgZm9nLiBUaGlzIGZvZyBsYXN0cyBmb3IgMSBtaW51dGUgcGVyIG9jY3VsdGlzdCBsZXZlbCB5b3UgcG9zc2Vzcy4gSXQgZnVuY3Rpb25zIGFzIDxpPmZvZyBjbG91ZDwvaT4sIGV4Y2VwdCBpdCBjYW7igJl0IGJlIGRpc3BlcnNlZCBieSB3aW5kLiBBdCA3dGggbGV2ZWwsIHlvdSBjYW4gZXhwZW5kIDEgYWRkaXRpb25hbCBwb2ludCBvZiBtZW50YWwgZm9jdXMgd2hlbiBjcmVhdGluZyB0aGlzIGZvZywgY2F1c2luZyBpdCB0byBiZWNvbWUgbW9yZSB0YW5naWJsZSBhbmQgZnVuY3Rpb24gYXMgPGk+c29saWQgZm9nPC9pPiwgZXhjZXB0IGl0IGRvZXNu4oCZdCBzbG93IGRvd24gYW55IGNyZWF0dXJlIHRoYXQgaGFzIHBzeWNoaWMgcG93ZXJzIG9yIHRoYXQgY2FuIGNhc3QgcHN5Y2hpYyBzcGVsbHMuIFdoZW4geW91IGNyZWF0ZSBhIHNvbGlkIGZvZyBpbiB0aGlzIHdheSwgaXRzIGR1cmF0aW9uIGlzIHJlZHVjZWQgdG8gMSByb3VuZCBwZXIgb2NjdWx0aXN0IGxldmVsIHlvdSBwb3NzZXNzLiBZb3UgbXVzdCBiZSBhdCBsZWFzdCAzcmQgbGV2ZWwgdG8gc2VsZWN0IHRoaXMgZm9jdXMgcG93ZXIuPGJyIC8+PGJyIC8+PGk+UHVyZ2UgQ29ycnVwdGlvbiAoU3ApPC9pPjogQXMgYSBzdGFuZGFyZCBhY3Rpb24sIHlvdSBjYW4gZXhwZW5kIDEgcG9pbnQgb2YgbWVudGFsIGZvY3VzIHRvIGRyYXcgb3V0IHRoZSBjb3JydXB0aW9uIGZyb20gYSBjcmVhdHVyZS4gWW91IG11c3QgdG91Y2ggdGhlIHRhcmdldCB3aXRoIHlvdXIgaW1wbGVtZW50IHRvIHVzZSB0aGlzIHBvd2VyLiBUaGlzIGFiaWxpdHkgZnVuY3Rpb25zIGFzIGVpdGhlciA8aT5uZXV0cmFsaXplIHBvaXNvbjwvaT4gb3IgPGk+cmVtb3ZlIGRpc2Vhc2U8L2k+LCB1c2luZyB5b3VyIG9jY3VsdGlzdCBsZXZlbCBhcyB0aGUgY2FzdGVyIGxldmVsLiBFYWNoIHVzZSBvZiB0aGlzIGFiaWxpdHkgY2FuIGN1cmUgb25seSBvbmUgcG9pc29uIG9yIG9uZSBkaXNlYXNlLiBZb3UgbXVzdCBiZSBhdCBsZWFzdCA1dGggbGV2ZWwgdG8gc2VsZWN0IHRoaXMgZm9jdXMgcG93ZXIuPGJyIC8+PGJyIC8+PGk+U2lkZSBTdGVwIChTcCk8L2k+OiBZb3UgY2FuIGNyZWF0ZSBhIHRlbXBvcmFyeSBmaXNzdXJlIGluIHNwYWNlIGJ5IGV4cGVuZGluZyAxIHBvaW50IG9mIG1lbnRhbCBmb2N1cy4gWW91IGNhbiB1c2UgdGhpcyBhYmlsaXR5IGFzIHBhcnQgb2YgYSBtb3ZlIGFjdGlvbiB0YWtlbiB0byBtb3ZlLiBUaGUgZmlzc3VyZSBiZWdpbnMgaW4gYW55IHNxdWFyZSB5b3UgZGVzaWduYXRlIGFuZCBhbGxvd3MgeW91IHRvIHRlbGVwb3J0IHRvIGFueSBvdGhlciBzcXVhcmUgeW91IGNhbiBzZWUgd2l0aGluIDEwIGZlZXQgcGVyIG9jY3VsdGlzdCBsZXZlbC4gU3RlcHBpbmcgYmV0d2VlbiB0aGVzZSBsb2NhdGlvbnMgcmVxdWlyZXMgeW91IHRvIGV4cGVuZCA1IGZlZXQgb2YgbW92ZW1lbnQsIGFuZCB0aGUgbW92ZW1lbnQgdGhyb3VnaCB0aGUgcmlmdCBkb2VzIG5vdCBwcm92b2tlIGF0dGFja3Mgb2Ygb3Bwb3J0dW5pdHkuIFRoaXMgb3RoZXJ3aXNlIGZ1bmN0aW9ucyBhcyA8aT50ZWxlcG9ydDwvaT4uIFlvdSBtdXN0IGJlIGF0IGxlYXN0IDd0aCBsZXZlbCB0byBzZWxlY3QgdGhpcyBmb2N1cyBwb3dlci48YnIgLz48YnIgLz48aDIgY2xhc3M9InRpdGxlIj5TYWNyZWQgSW1wbGVtZW50czwvaDI+T3V0c2lkZXJzIGFuZCBkaXZpbmUgc2VydmFudHMgbGVhdmUgZXNwZWNpYWxseSBsYXN0aW5nIGltcHJlc3Npb25zIHdoZW4gdGhleSBpbnRlcmFjdCB3aXRoIHRoZSBNYXRlcmlhbCBQbGFuZSwgYW5kIG1hbnkgb2NjdWx0aXN0cyBzZWVrIG91dCB0aGUgcmVzdWx0aW5nIHNhY3JlZCBpbXBsZW1lbnRzIHRvIGF1Z21lbnQgdGhlaXIgZXhpc3RpbmcgcG93ZXJzLiBBIHNhY3JlZCBpbXBsZW1lbnQgaXMgYWx3YXlzIGEgc3BlY2lmaWMga2luZCBvZiBvYmplY3QsIHRob3VnaCBub3QgbmVjZXNzYXJpbHkgdW5pcXVlLjxiciAvPjxiciAvPkFuIG9jY3VsdGlzdCBjYW4gYWRvcHQgYSBzYWNyZWQgaW1wbGVtZW50IHdoZW5ldmVyIGhlIGdhaW5zIGFjY2VzcyB0byBhbiBpbXBsZW1lbnQgc2Nob29sLiBPbmNlIGNob3NlbiwgdGhlIHNhY3JlZCBpbXBsZW1lbnQgaXMgcGVybWFuZW50IGFuZCBncmFudHMgdGhlIG9jY3VsdGlzdCBhY2Nlc3MgdG8gYSBib251cyBmb2N1cyBwb3dlciBmb3IgdGhhdCBpbXBsZW1lbnQgc2Nob29sLCBidXQgY2F1c2VzIHRoZSBvY2N1bHRpc3QgdG8gdGFrZSBhIOKAkzEgcGVuYWx0eSB0byBoaXMgY2FzdGVyIGxldmVsIHdoZW4gdXNpbmcgdGhlIHNwZWxscyBhbmQgYXNzb2NpYXRlZCBpbXBsZW1lbnQgcG93ZXJzIG9mIGEgc2Nob29sIG9mIG1hZ2ljIG9wcG9zZWQgdG8gdGhhdCBkZWl0eeKAmXMgcG9ydGZvbGlvLiBBbiBvY2N1bHRpc3QgY2FuIHVzZSBhIHNhY3JlZCBpbXBsZW1lbnQgZXZlbiBpZiBoZSBkb2VzbuKAmXQgd29yc2hpcCB0aGUgYXNzb2NpYXRlZCBnb2QuPGJyIC8+PGJyIC8+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5Z3J3P1BhdGhmaW5kZXItUGxheWVyLUNvbXBhbmlvbi1PY2N1bHQtT3JpZ2lucw0KIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPk9jY3VsdCBPcmlnaW5zIHBnLiAxNTwvaT48L2E+PGJyIC8+PGI+RGVpdHk8L2I+IEFzbW9kZXVzOyA8Yj5JbXBsZW1lbnQ8L2I+IGJvd2w7IDxiPk9wcG9zaXRpb24gU2Nob29sPC9iPiB0cmFuc211dGF0aW9uPGJyIC8+PGk+QW1iZXIgUHJpc29uIChTdSk8L2k+OiBZb3UgY2FuIGV4cGVuZCAzIHBvaW50cyBvZiBtZW50YWwgZm9jdXMgdG8gZW50b21iIGEgY3JlYXR1cmUgd2l0aGluIDQwIGZlZXQgaW4gYW4gYW1iZXJsaWtlIHByaXNvbiwgcmVuZGVyaW5nIGl0IHBhcmFseXplZCBhbmQgdW5jb25zY2lvdXMgZm9yIDEgbWludXRlIHBlciBvY2N1bHRpc3QgbGV2ZWwgeW91IGhhdmUuIFRoZSBhbWJlciBwcmlzb24gaGFzIDIwIGhpdCBwb2ludHM7IGRlc3Ryb3lpbmcgdGhlIHByaXNvbiBmcmVlcyB0aGUgY3JlYXR1cmUuIEEgc3VjY2Vzc2Z1bCBSZWZsZXggc2F2ZSBuZWdhdGVzIHRoaXMgZW50b21ibWVudC4gV2hldGhlciBvciBub3QgdGhlIHNhdmluZyB0aHJvdyBpcyBzdWNjZXNzZnVsLCB0aGUgY3JlYXR1cmUgY2Fu4oCZdCBiZSB0aGUgdGFyZ2V0IG9mIHRoaXMgZm9jdXMgcG93ZXIgYWdhaW4gZm9yIDEgZGF5LmRkAgcPD2Q8KwAGAQAQFgFmFgEWAh4OUGFyYW1ldGVyVmFsdWUFC0Nvbmp1cmF0aW9uFgECBGRkNzqShlaBAQdCx5/zNCJBxo4G15KRYuXhP9btvWwLeKU=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="83998B18" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <h2 style="text-align: center"><span id="MainContent_AllClassLabel"><a href="ClassDisplay.aspx?ItemName=Alchemist">Alchemist</a> | <a href="ClassDisplay.aspx?ItemName=Antipaladin">Antipaladin</a> | <a href="ClassDisplay.aspx?ItemName=Arcanist">Arcanist</a> | <a href="ClassDisplay.aspx?ItemName=Barbarian">Barbarian</a> | <a href="ClassDisplay.aspx?ItemName=Barbarian (Unchained)">Barbarian (Unchained)</a> | <a href="ClassDisplay.aspx?ItemName=Bard">Bard</a> | <a href="ClassDisplay.aspx?ItemName=Bloodrager">Bloodrager</a> | <a href="ClassDisplay.aspx?ItemName=Brawler">Brawler</a> | <a href="ClassDisplay.aspx?ItemName=Cavalier">Cavalier</a> | <a href="ClassDisplay.aspx?ItemName=Cleric">Cleric</a> | <a href="ClassDisplay.aspx?ItemName=Druid">Druid</a> | <a href="ClassDisplay.aspx?ItemName=Fighter">Fighter</a> | <a href="ClassDisplay.aspx?ItemName=Gunslinger">Gunslinger</a> | <a href="ClassDisplay.aspx?ItemName=Hunter">Hunter</a> | <a href="ClassDisplay.aspx?ItemName=Inquisitor">Inquisitor</a> | <a href="ClassDisplay.aspx?ItemName=Investigator">Investigator</a> | <a href="ClassDisplay.aspx?ItemName=Kineticist">Kineticist</a> | <a href="ClassDisplay.aspx?ItemName=Magus">Magus</a> | <a href="ClassDisplay.aspx?ItemName=Medium">Medium</a> | <a href="ClassDisplay.aspx?ItemName=Mesmerist">Mesmerist</a> | <a href="ClassDisplay.aspx?ItemName=Monk">Monk</a> | <a href="ClassDisplay.aspx?ItemName=Monk (Unchained)">Monk (Unchained)</a> | <a href="ClassDisplay.aspx?ItemName=Ninja">Ninja</a> | <a href="ClassDisplay.aspx?ItemName=Occultist">Occultist</a> | <a href="ClassDisplay.aspx?ItemName=Oracle">Oracle</a> | <a href="ClassDisplay.aspx?ItemName=Paladin">Paladin</a> | <a href="ClassDisplay.aspx?ItemName=Psychic">Psychic</a> | <a href="ClassDisplay.aspx?ItemName=Ranger">Ranger</a> | <a href="ClassDisplay.aspx?ItemName=Rogue">Rogue</a> | <a href="ClassDisplay.aspx?ItemName=Rogue (Unchained)">Rogue (Unchained)</a> | <a href="ClassDisplay.aspx?ItemName=Samurai">Samurai</a> | <a href="ClassDisplay.aspx?ItemName=Shaman">Shaman</a> | <a href="ClassDisplay.aspx?ItemName=Shifter">Shifter</a> | <a href="ClassDisplay.aspx?ItemName=Skald">Skald</a> | <a href="ClassDisplay.aspx?ItemName=Slayer">Slayer</a> | <a href="ClassDisplay.aspx?ItemName=Sorcerer">Sorcerer</a> | <a href="ClassDisplay.aspx?ItemName=Spiritualist">Spiritualist</a> | <a href="ClassDisplay.aspx?ItemName=Summoner">Summoner</a> | <a href="ClassDisplay.aspx?ItemName=Summoner (Unchained)">Summoner (Unchained)</a> | <a href="ClassDisplay.aspx?ItemName=Swashbuckler">Swashbuckler</a> | <a href="ClassDisplay.aspx?ItemName=Vigilante">Vigilante</a> | <a href="ClassDisplay.aspx?ItemName=Warpriest">Warpriest</a> | <a href="ClassDisplay.aspx?ItemName=Witch">Witch</a> | <a href="ClassDisplay.aspx?ItemName=Wizard">Wizard</a><hr /><a href="ClassDisplay.aspx?ItemName=Companion">Companion</a> | <a href="ClassDisplay.aspx?ItemName=Drake">Drake</a> | <a href="ClassDisplay.aspx?ItemName=Eidolon">Eidolon</a> | <a href="ClassDisplay.aspx?ItemName=Eidolon (Unchained)">Eidolon (Unchained)</a> | <a href="ClassDisplay.aspx?ItemName=Familiar">Familiar</a> | <a href="ClassDisplay.aspx?ItemName=Phantom">Phantom</a><hr /><a href="ClassDisplay.aspx?ItemName=Adept">Adept</a> | <a href="ClassDisplay.aspx?ItemName=Aristocrat">Aristocrat</a> | <a href="ClassDisplay.aspx?ItemName=Commoner">Commoner</a> | <a href="ClassDisplay.aspx?ItemName=Expert">Expert</a> | <a href="ClassDisplay.aspx?ItemName=Warrior">Warrior</a><hr /></span></h2>
+    <h2 style="text-align: center"><span id="MainContent_MainClassLabel"><a href="ClassDisplay.aspx?ItemName=Occultist">Occultist Class Details</a> | <a href="OccultistImplements.aspx">Implement Schools / Panoplies</a> | <a href="Archetypes.aspx?Class=Occultist">Archetypes</a><hr /></span></h2>
+
+    <table id="MainContent_DataListTypes" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelName_0"><h1 class="title"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Conjuration Implements</h1><b>Source</b> <a href="http://paizo.com/products/btpy9egu?Pathfinder-Roleplaying-Game-Occult-Adventures" target="_blank" class="external-link"><i>Occult Adventures pg. 51</i></a><br />Implements used in conjuration allow the occultist to perform magic that transports or calls creatures.<br /><br /><b>Implements</b>: Bowl, brazier, compass, figurine, lantern, mirror.<br /><br /><b>Resonant Power</b>: Each time the occultist invests mental focus into an conjuration implement, the implement grants the following resonant power. The implement’s bearer gains the benefits of this power until the occultist refreshes his focus.<br /><br /><i>Casting Focus (Su)</i>: The implement empowers the bearer’s ties to the worlds beyond, allowing his spells to maintain their power for a longer period of time. The bearer can add the implement as an additional focus component to any conjuration spell he casts that has a duration measured in rounds per level. If he does so, he adds 1 to his caster level for every 2 points of mental focus stored in the implement (to a maximum bonus equal to your occultist level). This increase applies only when determining the duration of the spell. Apply this increase after other effects that adjust a spell’s duration, such as Extend Spell.<br /><br /><b>Base Focus Power</b>: All occultists who learn to use conjuration implements gain the following focus power.<br /><br /><i>Servitor (Sp)</i>: As a standard action, you can expend 1 point of mental focus to summon a servitor. This ability functions as <i>summon monster I</i>, but you can use it only to summon a single creature, and the effect lasts for 1 minute. At 4th level and every 3 levels thereafter, the level of the summon monster spell increases by 1, to a maximum of <i>summon monster VII</i> at 19th level. You can’t have more than one servitor in effect at a time. At any time, you can expend 1 point of mental focus as a free action to extend the duration of an active servitor by 1 minute.<br /><br /><b>Focus Powers</b>: In addition to gaining the base focus power, occultists who learn to use conjuration implements can select from the following focus powers when choosing the powers gained from their focus powers class feature.<br /><br /><i>Conjure Implement (Sp)</i>: You can expend 1 point of mental focus to conjure any item that qualif ies as an implement that you know how to use. This implement can be used as the item in question, functioning as a masterwork version of that item, and can also be used to cast your psychic spells, even though you did not select it at the beginning of the day. If you have more than one implement for the same school, decide which set of spells the conjured implement will grant when you first conjure it. The implement can’t be used to store mental focus or create any effects that require mental focus. The implement lasts for 10 minutes per occultist level you possess.<br /><br /><i>Flesh Mend (Sp)</i>: As a standard action, you can expend 1 point of mental focus to heal a living creature with a touch. The creature is healed an amount of damage equal to 1d8 + your occultist level. For every 4 occultist levels you possess beyond 3rd, the creature is healed an additional 1d8 points of damage, to a maximum of 5d8+19 at 19th level. This has no effect on undead creatures. You must be at least 3rd level to select this focus power.<br /><br /><i>Mind Steed (Sp)</i>: As a standard action, you can expend 1 point of mental focus to conjure a spectral horse. This horse can be either Medium or Large, but it otherwise functions as <i>mount</i>. The horse lasts for 10 minutes per occultist level you possess. If you are at least 5th level, the mount’s base land speed increases by 20 feet. If you are at least 9th level and you expend 1 additional point of mental focus, the mount can fly at a speed of 60 feet with good maneuverability, but doing so reduces the mount’s duration to 1 minute per occultist level you possess.<br /><br /><i>Psychic Fog (Sp)</i>: As a standard action, you can expend 1 point of mental focus to create a cloud of fog. This fog lasts for 1 minute per occultist level you possess. It functions as <i>fog cloud</i>, except it can’t be dispersed by wind. At 7th level, you can expend 1 additional point of mental focus when creating this fog, causing it to become more tangible and function as <i>solid fog</i>, except it doesn’t slow down any creature that has psychic powers or that can cast psychic spells. When you create a solid fog in this way, its duration is reduced to 1 round per occultist level you possess. You must be at least 3rd level to select this focus power.<br /><br /><i>Purge Corruption (Sp)</i>: As a standard action, you can expend 1 point of mental focus to draw out the corruption from a creature. You must touch the target with your implement to use this power. This ability functions as either <i>neutralize poison</i> or <i>remove disease</i>, using your occultist level as the caster level. Each use of this ability can cure only one poison or one disease. You must be at least 5th level to select this focus power.<br /><br /><i>Side Step (Sp)</i>: You can create a temporary fissure in space by expending 1 point of mental focus. You can use this ability as part of a move action taken to move. The fissure begins in any square you designate and allows you to teleport to any other square you can see within 10 feet per occultist level. Stepping between these locations requires you to expend 5 feet of movement, and the movement through the rift does not provoke attacks of opportunity. This otherwise functions as <i>teleport</i>. You must be at least 7th level to select this focus power.<br /><br /><h2 class="title">Sacred Implements</h2>Outsiders and divine servants leave especially lasting impressions when they interact with the Material Plane, and many occultists seek out the resulting sacred implements to augment their existing powers. A sacred implement is always a specific kind of object, though not necessarily unique.<br /><br />An occultist can adopt a sacred implement whenever he gains access to an implement school. Once chosen, the sacred implement is permanent and grants the occultist access to a bonus focus power for that implement school, but causes the occultist to take a –1 penalty to his caster level when using the spells and associated implement powers of a school of magic opposed to that deity’s portfolio. An occultist can use a sacred implement even if he doesn’t worship the associated god.<br /><br /><b>Source</b> <a href="http://paizo.com/products/btpy9grw?Pathfinder-Player-Companion-Occult-Origins
+" target="_blank" class="external-link"><i>Occult Origins pg. 15</i></a><br /><b>Deity</b> Asmodeus; <b>Implement</b> bowl; <b>Opposition School</b> transmutation<br /><i>Amber Prison (Su)</i>: You can expend 3 points of mental focus to entomb a creature within 40 feet in an amberlike prison, rendering it paralyzed and unconscious for 1 minute per occultist level you have. The amber prison has 20 hit points; destroying the prison frees the creature. A successful Reflex save negates this entombment. Whether or not the saving throw is successful, the creature can’t be the target of this focus power again for 1 day.</span>
+        </td>
+	</tr>
+</table>
+
+    
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

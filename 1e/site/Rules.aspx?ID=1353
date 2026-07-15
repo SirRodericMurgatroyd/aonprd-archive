@@ -1,0 +1,278 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Controlling Companions - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Controlling Companions" /><meta name="description" content="How a companion works depends on the campaign as well as the companion’s nature, intelligence, and abilities. In some cases, the rules do not specify whether you or the GM controls the companion. If you’re entirely in control, the companion acts like a subsidiary PC, doing exactly what you want just like a true PC. If the GM is control, you can make suggestions or attempt to influence the companion, but the GM determines whether the creature is willing or able to attempt what you want." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=1353" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWJVTx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTMyNiI+Q2FtcGFpZ24gU3lzdGVtczwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xMzUyIj5Db21wYW5pb25zPC9hPjwvdT48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTEzNTMiPkNvbnRyb2xsaW5nIENvbXBhbmlvbnM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTh4NjQ/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVVsdGltYXRlLUNhbXBhaWduDQoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+VWx0aW1hdGUgQ2FtcGFpZ24gcGcuIDE0MDwvaT48L2E+PGJyIC8+SG93IGEgY29tcGFuaW9uIHdvcmtzIGRlcGVuZHMgb24gdGhlIGNhbXBhaWduIGFzIHdlbGwgYXMgdGhlIGNvbXBhbmlvbuKAmXMgbmF0dXJlLCBpbnRlbGxpZ2VuY2UsIGFuZCBhYmlsaXRpZXMuIEluIHNvbWUgY2FzZXMsIHRoZSBydWxlcyBkbyBub3Qgc3BlY2lmeSB3aGV0aGVyIHlvdSBvciB0aGUgR00gY29udHJvbHMgdGhlIGNvbXBhbmlvbi4gSWYgeW914oCZcmUgZW50aXJlbHkgaW4gY29udHJvbCwgdGhlIGNvbXBhbmlvbiBhY3RzIGxpa2UgYSBzdWJzaWRpYXJ5IFBDLCBkb2luZyBleGFjdGx5IHdoYXQgeW91IHdhbnQganVzdCBsaWtlIGEgdHJ1ZSBQQy4gSWYgdGhlIEdNIGlzIGNvbnRyb2wsIHlvdSBjYW4gbWFrZSBzdWdnZXN0aW9ucyBvciBhdHRlbXB0IHRvIGluZmx1ZW5jZSB0aGUgY29tcGFuaW9uLCBidXQgdGhlIEdNIGRldGVybWluZXMgd2hldGhlciB0aGUgY3JlYXR1cmUgaXMgd2lsbGluZyBvciBhYmxlIHRvIGF0dGVtcHQgd2hhdCB5b3Ugd2FudC48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTEzNTQiPkFzcGVjdHMgb2YgQ29udHJvbDwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OHg2ND9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtVWx0aW1hdGUtQ2FtcGFpZ24NCiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5VbHRpbWF0ZSBDYW1wYWlnbiBwZy4gMTQwPC9pPjwvYT48YnIgLz5XaGV0aGVyIHlvdSBvciB0aGUgR00gY29udHJvbHMgYSBwYXJ0aWN1bGFyIGNvbXBhbmlvbiBkZXBlbmRzIGxhcmdlbHkgb24gdGhlIGNyZWF0dXJl4oCZcyBpbnRlbGxpZ2VuY2UgYW5kIGxldmVsIG9mIGluZGVwZW5kZW5jZSBmcm9tIHlvdS4gPGJyIC8+PGJyIC8+PGI+Tm9uc2VudGllbnQgQ29tcGFuaW9uczwvYj46IEEgbm9uc2VudGllbnQgY29tcGFuaW9uIChvbmUgd2l0aCBhbmltYWwtbGV2ZWwgaW50ZWxsaWdlbmNlKSBpcyBsb3lhbCB0byB5b3UgaW4gdGhlIHdheSBhIHdlbGwtdHJhaW5lZCBkb2cgaXPigJR0aGUgY3JlYXR1cmUgaXMgY29uZGl0aW9uZWQgdG8gb2JleSB5b3VyIGNvbW1hbmRzLCBidXQgaXRzIGJlaGF2aW9yIGlzIGxpbWl0ZWQgYnkgaXRzIGludGVsbGlnZW5jZSBhbmQgaXQgY2Fu4oCZdCBtYWtlIGFsdHJ1aXN0aWMgbW9yYWwgZGVjaXNpb25z4oCUIHN1Y2ggYXMgbm9ibHkgc2FjcmlmaWNpbmcgaXRzZWxmIHRvIHNhdmUgYW5vdGhlci4gQW5pbWFsIGNvbXBhbmlvbnMsIGNhdmFsaWVyIG1vdW50cywgYW5kIHB1cmNoYXNlZCBjcmVhdHVyZXMgKHN1Y2ggYXMgY29tbW9uIGhvcnNlcyBhbmQgZ3VhcmQgZG9ncykgZmFsbCBpbnRvIHRoaXMgY2F0ZWdvcnkuIEluIGdlbmVyYWwgdGhleeKAmXJlIEdNLWNvbnRyb2xsZWQgY29tcGFuaW9ucy4gWW91IGNhbiBkaXJlY3QgdGhlbSB1c2luZyB0aGUgSGFuZGxlIEFuaW1hbCBza2lsbCwgYnV0IHRoZWlyIHNwZWNpZmljIGJlaGF2aW9yIGlzIHVwIHRvIHRoZSBHTS4gPGJyIC8+PGJyIC8+PGI+U2VudGllbnQgQ29tcGFuaW9uczwvYj46IEEgc2VudGllbnQgY29tcGFuaW9uIChhIGNyZWF0dXJlIHRoYXQgY2FuIHVuZGVyc3RhbmQgbGFuZ3VhZ2UgYW5kIGhhcyBhbiBJbnRlbGxpZ2VuY2Ugc2NvcmUgb2YgYXQgbGVhc3QgMykgaXMgY29uc2lkZXJlZCB5b3VyIGFsbHkgYW5kIG9iZXlzIHlvdXIgc3VnZ2VzdGlvbnMgYW5kIG9yZGVycyB0byB0aGUgYmVzdCBvZiBpdHMgYWJpbGl0eS4gSXQgd29u4oCZdCBuZWNlc3NhcmlseSBibGluZGx5IGZvbGxvdyBhIHN1aWNpZGFsIG9yZGVyLCBidXQgaXQgaGFzIHlvdXIgaW50ZXJlc3RzIGF0IGhlYXJ0IGFuZCBkb2VzIHdoYXQgaXQgY2FuIHRvIGtlZXAgeW91IGFsaXZlLiBQYWxhZGluIGJvbmRlZCBtb3VudHMsIGZhbWlsaWFycywgYW5kIGNvaG9ydHMgZmFsbCBpbnRvIHRoaXMgY2F0ZWdvcnksIGFuZCBhcmUgdXN1YWxseSBwbGF5ZXItY29udHJvbGxlZCBjb21wYW5pb25zLiA8YnIgLz48YnIgLz48Yj5FaWRvbG9uczwvYj46IE91dHNpZGUgdGhlIGxpbmVhciBvYmVkaWVuY2UgYW5kIGludGVsbGlnZW5jZSBzY2FsZSBvZiBzZW50aWVudCBhbmQgbm9uc2VudGllbnQgY29tcGFuaW9ucyBhcmUgZWlkb2xvbnM6IGludGVsbGlnZW50IGVudGl0aWVzIG1hZ2ljYWxseSBib3VuZCB0byB5b3UuIFdoZXRoZXIgeW91IHdpc2ggdG8gcm9sZXBsYXkgdGhpcyByZWxhdGlvbnNoaXAgYXMgZnJpZW5kbHkgb3IgY29lcmNlZCwgdGhlIGVpZG9sb24gaXMgaW5jbGluZWQgdG8gb2JleSB5b3UgdW5sZXNzIHlvdSBnaXZlIGEgY29tbWFuZCBvbmx5IHRvIHNwaXRlIGl0LiBBbiBlaWRvbG9uIHdvdWxkIG9iZXkgYSBjcnVlbCBzdW1tb25lcuKAmXMgb3JkZXIgdG8gc2F2ZSBhIGNoaWxkIGZyb20gYSBidXJuaW5nIGJ1aWxkaW5nLCBrbm93aW5nIHRoYXQgYXQgd29yc3QgdGhlIGZpcmUgZGFtYWdlIHdvdWxkIHRlbXBvcmFyaWx5IGJhbmlzaCBpdCwgYnV0IGl0IHdvdWxkbuKAmXQgc3RhbmQgaW4gYSBib25maXJlIGp1c3QgYmVjYXVzZSB0aGUgc3VtbW9uZXIgc2FpZCB0by4gQW4gZWlkb2xvbiBpcyBub3JtYWxseSBhIHBsYXllci1jb250cm9sbGVkIGNvbXBhbmlvbiwgYnV0IHRoZSBHTSBjYW4gaGF2ZSB0aGUgZWlkb2xvbiByZWZ1c2UgZXh0cmVtZSBvcmRlcnMgdGhhdCB3b3VsZCBjYXVzZSBpdCB0byBzdWZmZXIgbmVlZGxlc3NseS4gPGJyIC8+PGJyIC8+PGI+TWFnaWNhbCBDb250cm9sPC9iPjogPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUNoYXJtIHBlcnNvbiI+PGk+Q2hhcm0gcGVyc29uPC9pPjwvYT4sIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1kb21pbmF0ZSBwZXJzb24iPjxpPmRvbWluYXRlIHBlcnNvbjwvaT48L2E+LCBhbmQgc2ltaWxhciBlZmZlY3RzIHR1cm4gYW4gTlBDIGludG8gYSBjb21wYW5pb24gZm9yIGEgbGltaXRlZCB0aW1lLiBNb3N0IGNoYXJtLWxpa2UgZWZmZWN0cyBtYWtlIHRoZSB0YXJnZXQgZnJpZW5kbHkgdG8geW914oCUdGhlIHRhcmdldCBoYXMgdG8gZm9sbG93IHlvdXIgcmVxdWVzdHMgb25seSBpZiB0aGV54oCZcmUgcmVhc29uYWJsZSwgYW5kIGhhcyBpdHMgb3duIGlkZWFzIGFib3V0IHdoYXQgaXMgcmVhc29uYWJsZS4gRm9yIGV4YW1wbGUsIGZldyBjcmVhdHVyZXMgY29uc2lkZXIg4oCcaGFuZCBvdmVyIGFsbCB5b3VyIHZhbHVhYmxlc+KAnSBvciDigJxsZXQgbWUgcHV0IHRoZXNlIG1hbmFjbGVzIG9uIHlvdeKAnSBhIHJlYXNvbmFibGUgcmVxdWVzdCBmcm9tIGEgZnJpZW5kLiBZb3UgbWlnaHQgaGF2ZSB0byB1c2UgRGlwbG9tYWN5IG9yIEludGltaWRhdGUgY2hlY2tzIHRvIGluZmx1ZW5jZSBhIGNoYXJtZWQgYWxseSwgYW5kIHRoZSBHTSBoYXMgdGhlIGZpbmFsIHNheSBhcyB0byB3aGF0IGhhcHBlbnMuIFRob3VnaCB0aGUgdGFyZ2V0IG9mIGEgY2hhcm0gZWZmZWN0IGNvbnNpZGVycyB5b3UgYSBmcmllbmQsIGl0IHByb2JhYmx5IGZlZWxzIGluZGlmZmVyZW50IGF0IGJlc3QgdG93YXJkIHRoZSBvdGhlciBQQ3MgYW5kIHdvbuKAmXQgbGlzdGVuIHRvIHJlcXVlc3RzIGZyb20gdGhlbS4gQSBjcmVhdHVyZSB1bmRlciBhIGRvbWluYXRlIGVmZmVjdCBpcyBtb3JlIG9mIGEgcHVwcGV0LCBhbmQgeW91IGNhbiBmb3JjZSBpdCB0byBkbyBhbnl0aGluZyB0aGF0IGlzbuKAmXQgc3VpY2lkYWwgb3Igb3RoZXJ3aXNlIGFnYWluc3QgaXRzIHdlbGwtYmVpbmcuIFRyZWF0IGl0IGFzIHBsYXllcmNvbnRyb2xsZWQsIHdpdGggdGhlIEdNIG1ha2luZyBpdHMgc2F2aW5nIHRocm93cyB0byByZXNpc3QgaW5hcHByb3ByaWF0ZSBjb21tYW5kcy4gPGJyIC8+PGJyIC8+PGI+Q29tbW9uIEV4Y2VwdGlvbnM8L2I+OiBTb21lIGNvbXBhbmlvbnMgYXJlIGV4Y2VwdGlvbnMsIHN1Y2ggYXMgYW4gaW50ZWxsaWdlbnQgY29tcGFuaW9uIHdobyBkb2VzbuKAmXQgYmVhciBleGNlcHRpb25hbCBsb3lhbHR5IHRvd2FyZCB5b3UgKGZvciBleGFtcGxlLCBhIGhpcmVkIGd1YXJkKSwgYSB3ZWFrZXIgbWluaW9uIHdobyBpcyBsb3lhbCB0byB5b3UgYnV0IGxhY2tzIHRoZSBhYmlsaXRpZXMgb3IgcmVzb3VyY2VzIHRvIGFzc2lzdCBpbiBhZHZlbnR1cmluZyB0YXNrcywgYW5kIGEgY2FsbGVkIG91dHNpZGVyIChzdWNoIGFzIGZyb20gPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPXBsYW5hciBhbGx5Ij48aT5wbGFuYXIgYWxseTwvaT48L2E+KSB3aG8gYWdyZWVzIHRvIGEgc3BlY2lmaWMgc2VydmljZSBidXQgc3RpbGwgaGFzIGEgc2Vuc2Ugb2Ygc2VsZi1wcmVzZXJ2YXRpb24uIFlvdSBjYW4gdXNlIEJsdWZmLCBEaXBsb21hY3ksIGFuZCBJbnRpbWlkYXRlIHRvIGluZmx1ZW5jZSBzdWNoIGNvbXBhbmlvbnMsIGJ1dCB0aGUgR00gaXMgdGhlIGZpbmFsIGFyYml0ZXIgb2YgdGhlaXIgYWN0aW9ucy4gRm9yIGV4YW1wbGUsIGEgUEMgbWlnaHQgdXNlIHRocmVhdHMgdG8gY29udmluY2UgYSBjYXJhdmFuIGd1YXJkIHRvIGhvbGQgYmFjayBhbiBvZ3JlIGZvciBhIGZldyByb3VuZHMgb3IgdG8gcHJldmVudCBoZXIgemVhbG91cyBmb2xsb3dlcnMgZnJvbSBhdHRhY2tpbmcgYSByaXZhbCBhZHZlbnR1cmVyLCBidXQgdGhlIEdNIG1ha2VzIHRoZSBkZWNpc2lvbiB3aGV0aGVyIHRoZSBndWFyZCBydW5zIGF3YXkgYWZ0ZXIgZ2V0dGluZyBoaXQgb25jZSBvciB0aGUgZm9sbG93ZXJzIGF0dGFjayB3aGVuIHByb3Zva2VkLjxiciAvPjxiciAvPiBUaGUgR00gbWF5IGRldmlhdGUgZnJvbSB0aGUgYWJvdmUgc3VnZ2VzdGlvbnMsIHN1Y2ggYXMgYWxsb3dpbmcgYSBkcnVpZCB0byBjb250cm9sIGFuIGFuaW1hbCBjb21wYW5pb24gZGlyZWN0bHksIGNyZWF0aW5nIGEgbW9yZSBlcXVpdmFsZW50IG9yIGV2ZW4gYW50YWdvbmlzdGljIHJlbGF0aW9uc2hpcCBiZXR3ZWVuIGEgc3VtbW9uZXIgYW5kIGFuIGVpZG9sb24sIG9yIHJvbGVwbGF5aW5nIGEgbWVudG9yaW5nIHJlbGF0aW9uc2hpcCBiZXR3ZWVuIGEgdmV0ZXJhbiB3YXJob3JzZSBhbmQgdGhlIHlvdW5nIHBhbGFkaW4gd2hvIGluaGVyaXRlZCBoaXMgbG95YWx0eS4gQmVmb3JlIHlvdSBjcmVhdGUgYSBjaGFyYWN0ZXIgd2l0aCBhIGNvbXBhbmlvbiBjcmVhdHVyZSAob3IgZGVjaWRlIHRvIGFkZCBhIGNvbXBhbmlvbiBpbiBwbGF5KSwgdGhlIEdNIHNob3VsZCBleHBsYWluIHRvIGV2ZXJ5b25lIGhvdyBtdWNoIGluZmx1ZW5jZSB5b3UgYW5kIHRoZSBHTSBlYWNoIGhhdmUgb3ZlciB0aGUgY3JlYXR1cmXigJlzIGFjdGlvbnMuIFRoYXQgd2F5LCBldmVyeW9uZSBpcyBmdWxseSBpbmZvcm1lZCBhYm91dCBhbGwgYXNwZWN0cyBvZiBkZWFsaW5nIHdpdGggdGhlIGNvbXBhbmlvbi48YnIgLz48YnIgLz4gVGhlIHNwZWNpZmljcyBvZiBjb250cm9sbGluZyBhIGNvbXBhbmlvbiB2YXJ5IGZvciBkaWZmZXJlbnQgY2FtcGFpZ25zLiBBIGdyaXR0eSBjYW1wYWlnbiB3aGVyZSBhbmltYWwgY29tcGFuaW9ucyBjYW7igJl0IGRvIGFueXRoaW5nIHRoYXQgcmVhbCBhbmltYWxzIGNhbuKAmXQgZG8gZm9yY2VzIHRoZSBHTSB0byBhY3QgYXMgYSBjaGVjayBhZ2FpbnN0IHlvdSBwdXNoaW5nIHRoZSBib3VuZHMgb2YgY3JlYXRpdml0eS4gQSBoaWdoLWZhbnRhc3kgZ2FtZSB3aGVyZSBmYW1pbGlhcnMgYXJlIG5lYXJseSBhcyBpbXBvcnRhbnQgdG8gdGhlIHN0b3J5bGluZSBhcyB0aGUgUENz4oCUb3IgYXJlIHBsYXllZCBhcyBuZWFyLVBDcyBieSBvdGhlciBwbGF5ZXJz4oCUaXMgYSB2ZXJ5IGRpZmZlcmVudCBmZWVsIGFuZCBjYW4gY3JlYXRlIGludGVyZXN0aW5nIHJvbGVwbGF5aW5nIG9wcG9ydHVuaXRpZXMuIEFuIGV2aWwgY2FtcGFpZ24gd2hlcmUgY29tcGFuaW9ucyBhcmUgdW53aWxsaW5nIHNsYXZlcyBvZiB0aGUgUENzIGNyZWF0ZXMgYSBkeW5hbWljIHdoZXJlIHRoZSBQQ3MgYXJlIHRyeWluZyB0byBleHBsb2l0IHRoZW0gYXMgbXVjaCBhcyBwb3NzaWJsZeKAlHBlcmhhcHMgZXZlbiBzYWNyaWZpY2luZyBhbmQgcmVwbGFjaW5nIHRoZW0gYXMgbmVlZGVk4oCUYW5kIHRyZWF0IHRoZW0gbW9yZSBsaWtlIGxpdmluZyB0b29scyB0aGFuIHJlbHVjdGFudCBhbGxpZXMuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xMzU1Ij5Jc3N1ZXMgb2YgQ29udHJvbDwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OHg2ND9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtVWx0aW1hdGUtQ2FtcGFpZ24NCiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5VbHRpbWF0ZSBDYW1wYWlnbiBwZy4gMTQxPC9pPjwvYT48YnIgLz5UaGUgR00gc2hvdWxkIGtlZXAgaW4gbWluZCBzZXZlcmFsIGZhY3RvcnMgd2hlbiBpdCBjb21lcyB0byBjb21wYW5pb25zLCB3aGV0aGVyIGhhbmRsaW5nIHRoZW0gYXMgc3VnZ2VzdGVkIGFib3ZlIG9yIGFsdGVyaW5nIHRoZSBiYWxhbmNlIHRvIGdpdmUgeW91IG1vcmUgb3IgbGVzcyBjb250cm9sLiA8YnIgLz48YnIgLz48Yj5FYXNlIG9mIFBsYXk8L2I+OiBDaGFuZ2luZyB3aG8gY29udHJvbHMgYSBjb21wYW5pb24gY2FuIG1ha2UgdGhlIGdhbWUgZWFzaWVyIG9yIGhhcmRlciBmb3IgdGhlIEdNLiBDb250cm9sbGluZyBhIGNvaG9ydCBpbiBjb21iYXQgaXMgb25lIG1vcmUgY29tcGxleCB0aGluZyBmb3IgdGhlIEdNIHRvIGRlYWwgd2l0aC4gVGhlIEdNIG11c3Qga2VlcCB0cmFjayBvZiBhIGNvaG9ydOKAmXMgdGFjdGljcyBhbmQgbW90aXZhdGlvbnMgYW5kIGhvdyB0aG9zZSBhZmZlY3QgaXQgaW4gY29tYmF0IHdoaWxlIGtlZXBpbmcgaGVyIG93biBrbm93bGVkZ2Ugb2YgdGhlIG1vbnN0ZXJzIHNlcGFyYXRlIGZyb20gdGhlIGNvaG9ydOKAmXMga25vd2xlZGdlOyBvdGhlcndpc2UsIHRoZSBjb2hvcnQgd2lsbCBvdXRzaGluZSB0aGUgUENzIHdpdGggc3VwZXJpb3IgdGFjdGljcy4gR2l2aW5nIHlvdSBjb250cm9sIG92ZXIgdGhlc2UgZGVjaXNpb25zICh3aGlsZSBzdGlsbCBhbGxvd2luZyB0aGUgR00gdG8gdmV0byBjZXJ0YWluIGFjdGlvbnMpIGFsbGV2aWF0ZXMgc29tZSBvZiB0aGUgYnVyZGVuIGFuZCBhbGxvd3MgeW91IHRvIHBsYW4gaW50ZXJlc3RpbmcgdGFjdGljcyBiZXR3ZWVuIHlvdXJzZWxmIGFuZCB5b3VyIGNvaG9ydCwgbXVjaCBhcyB5b3Ugd291bGQgaGF2ZSBtYXN0ZXJlZCBkdXJpbmcgdGltZXMgeW91IHRyYWluZWQgdG9nZXRoZXIuPGJyIC8+PGJyIC8+IENvbnZlcnNlbHksIGdpdmluZyBhIHBsYXllciBmdWxsIGNvbnRyb2wgb3ZlciB0aGUgYWN0aW9ucyBvZiB0d28gY2hhcmFjdGVycyBjYW4gc2xvdyBkb3duIHRoZSBnYW1lLiBJZiB5b3XigJlyZSBwcm9uZSB0byBjaG9pY2UgcGFyYWx5c2lzLCBwbGF5aW5nIHR3byB0dXJucyBldmVyeSByb3VuZCBjYW4gZHJhZyB0aGUgZ2FtZSB0byBhIGhhbHQuIElmIHRoaXMgaXMgYSBwcm9ibGVtLCB0aGUgR00gc2hvdWxkIHN1Z2dlc3QgdGhhdCBhbm90aGVyIHBsYXllciBoZWxwIHJ1biB0aGUgY29tcGFuaW9uIG9yIGFzayB5b3UgdG8gZ2l2ZSB1cCB0aGUgY29tcGFuaW9uIGFuZCBhbHRlciB5b3Vyc2VsZiB0byBjb21wZW5zYXRlIChzdWNoIGFzIGJ5IGNob29zaW5nIGEgZGlmZmVyZW50IGZlYXQgaW4gcGxhY2Ugb2YgTGVhZGVyc2hpcCwgdGFraW5nIGEgZG9tYWluIGluc3RlYWQgb2YgYSBkcnVpZCBhbmltYWwgY29tcGFuaW9uLCBvciBzZWxlY3RpbmcgdGhlIOKAnGNvbXBhbmlvbnPigJ0gb3B0aW9uIGZvciBhIHJhbmdlcuKAmXMgaHVudGVy4oCZcyBib25kIGFiaWxpdHkgaW5zdGVhZCBvZiBhbiBhbmltYWwpLiA8YnIgLz48YnIgLz48Yj5HYW1lIEJhbGFuY2U8L2I+OiBFdmVuIGEgc2ltcGxlIGNoYW5nZSBsaWtlIGFsbG93aW5nIHBsYXllcnMgdG8gZGlyZWN0bHkgY29udHJvbCBjb21wYW5pb25zIGhhcyByZXBlcmN1c3Npb25zIGluIHRoZSBnYW1lIG1lY2hhbmljcy4gRm9yIGV4YW1wbGUsIGlmIGEgZHJ1aWQgaGFzIGNvbXBsZXRlIGNvbnRyb2wgb3ZlciBhbiBhbmltYWwgY29tcGFuaW9uLCB0aGVyZeKAmXMgbm8gcmVhc29uIGZvciBoZXIgdG8gcHV0IHJhbmtzIGluIEhhbmRsZSBBbmltYWwsIGZyZWVpbmcgdXAgdGhvc2UgcmFua3MgZm9yIG90aGVyIHZhbHVhYmxlIHNraWxscyBsaWtlIFBlcmNlcHRpb24uIElmIGEgd2l6YXJkIHdpdGggYSBndWFyZCBkb2cgZG9lc27igJl0IGhhdmUgdG8gdXNlIGEgbW92ZSBhY3Rpb24gdG8gbWFrZSBhIEhhbmRsZSBBbmltYWwgY2hlY2sgdG8gaGF2ZSB0aGUgZG9nIGF0dGFjaywgaGUgaGFzIGEgZnVsbCBzZXQgb2YgYWN0aW9ucyBlYWNoIHJvdW5kIGFuZCBhIG1pbmlvbiBjcmVhdHVyZSB0aGF0IGRvZXNu4oCZdCByZXF1aXJlIGludmVzdGluZyBhbnkgZXh0cmEgdGltZSB0byDigJxzdW1tb27igJ0gaXQuIElmIGNvbXBhbmlvbiBhbmltYWxzIGRvbuKAmXQgaGF2ZSB0byBrbm93IHNwZWNpZmljIHRyaWNrcywgdGhlIFBDIGNhbiB1c2UgYW55IGFuaW1hbCBsaWtlIGFuIGFsbHkgYW5kIHBsYW4gc3RyYXRlZ2llcyAobGlrZSBmbGFua2luZykgYXMgaWYgdGhlIGFuaW1hbCB3ZXJlIG11Y2ggc21hcnRlciB0aGFuIGl0IGFjdHVhbGx5IGlzLjxiciAvPjxiciAvPiBXaXRoIGludGVsbGlnZW50IGNvbXBhbmlvbnMgc3VjaCBhcyBjb2hvcnRzLCBnaXZpbmcgeW91IGZ1bGwgY29udHJvbCBtZWFucyB5b3XigJlyZSBjb250cm9sbGluZyB0d28gY2hhcmFjdGVycyBhbmQgY2FuIHRha2UgdHdpY2UgYXMgbWFueSBhY3Rpb25zIGFzIHRoZSBvdGhlciBwbGF5ZXJzLiBUaGUgR00gY2FuIGNyZWF0ZSBhIG1pZGRsZSBncm91bmQsIHN1Y2ggYXMgcmVxdWlyaW5nIHlvdSB0byBwdXQgcmFua3MgaW4gSGFuZGxlIEFuaW1hbCBidXQgbm90IHJlcXVpcmluZyB5b3UgdG8gbWFrZSBjaGVja3MsIG9yIHJlZHVjaW5nIHRoZSBhY3Rpb24gbmVlZGVkIHRvIGNvbW1hbmQgYW4gYW5pbWFsLCBidXQgdGhlc2UgZGVjaXNpb25zIHNob3VsZCBiZSBtYWRlIGJlZm9yZSB0aGUgY29tcGFuaW9uIGpvaW5zIHRoZSBncm91cC4gPGJyIC8+PGJyIC8+PGI+U2hhcmluZyBJbmZvcm1hdGlvbjwvYj46IFdoZW5ldmVyIHlvdSBjb250cm9sIG11bHRpcGxlIGNyZWF0dXJlcywgdGhlcmUgYXJlIGlzc3VlcyBvZiBzaGFyaW5nIGluZm9ybWF0aW9uIGJldHdlZW4geW91IGFuZCB5b3VyIGNvbXBhbmlvbnMuIFNvbWUgY29tcGFuaW9ucyBoYXZlIHNwZWNpYWwgYWJpbGl0aWVzIHRoYXQgZmFjaWxpdGF0ZSB0aGlzIHNvcnQgb2YgY29tbXVuaWNhdGlvbiwgc3VjaCBhcyBhIGZhbWlsaWFy4oCZcyBlbXBhdGhpYyBsaW5rIG9yIGFuIGVpZG9sb27igJlzIGJvbmQgc2Vuc2VzIGFiaWxpdHksIGJ1dCBtb3N0IGNvbXBhbmlvbnMgYXJlIGxpbWl0ZWQgdG8gd2hhdCB0aGV5IGNhbiBvYnNlcnZlIHdpdGggdGhlaXIgb3duIHNlbnNlcy4gRm9yIGV4YW1wbGUsIGlmIGEgd2l6YXJkIHVzaW5nIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1zZWUgaW52aXNpYmlsaXR5Ij48aT5zZWUgaW52aXNpYmlsaXR5PC9pPjwvYT4ga25vd3MgdGhlcmUgaXMgYW4gaW52aXNpYmxlIHJvZ3VlIGFjcm9zcyB0aGUgcm9vbSwgaGUgY2Fu4oCZdCBqdXN0IGRpcmVjdCBoaXMgZ3VhcmQgZG9nIHRvIGF0dGFjayB0aGUgcm9ndWU7IGhlIGhhcyB0byB1c2UgdGhlIHNlZWsgY29tbWFuZCB0byBtb3ZlIHRoZSBkb2cgdG8gdGhlIGdlbmVyYWwgYXJlYSBvZiB0aGUgcm9ndWUsIGFuZCBldmVuIHRoZW4gaGUgY2Fu4oCZdCB1c2UgdGhlIGF0dGFjayBjb21tYW5kIHRvIGF0dGFjayB0aGUgcm9ndWUgYmVjYXVzZSB0aGUgcm9ndWUgaXNu4oCZdCBhbiDigJxhcHBhcmVudCBlbmVteS7igJ0gSWYgdGhlIEdNIGFsbG93cyB0aGUgd2l6YXJkIHRvIG1ha2UgdGhlIGRvZyBmaWdodCB0aGUgaW52aXNpYmxlIHJvZ3VlLCB0aGF0IG1ha2VzIHRoZSBhbmltYWwgbXVjaCBtb3JlIHZlcnNhdGlsZSB0aGFuIG5vcm1hbCwgYW5kIGFsc28gZGV2YWx1ZXMgdGhlIHNwZWNpYWwgbmF0dXJlIG9mIGEgdHJ1ZSBlbXBhdGhpYyBvciB0ZWxlcGF0aGljIGJvbmQgd2l0aCBhIGNvbXBhbmlvbi4gSWYgdGhlIGRvZyBpcyBhbGxvd2VkIHRvIHdvcmsgb3V0c2lkZSB0aGUgUEPigJlzIGxpbmUgb2Ygc2lnaHQsIGl0IGRldmFsdWVzIGFiaWxpdGllcyBzdWNoIGFzIGEgd2l6YXJk4oCZcyBhYmlsaXR5IHRvIHNjcnkgb24gaGlzIGZhbWlsaWFyLiBPZiBjb3Vyc2UsIGludGVsbGlnZW50IGNvbXBhbmlvbnMgdXNpbmcgc3BlZWNoIGNhbiBieXBhc3Mgc29tZSBvZiB0aGVzZSBsaW1pdGF0aW9ucyAoc3VjaCBhcyB0ZWxsaW5nIGEgY29ob3J0IHRoZXJl4oCZcyBhbiBpbnZpc2libGUgcm9ndWUgaW4gdGhlIGNvcm5lcikuZGRk3gg5wVVSS/oUm2p384bqxt8nlYGxgg/IL1hXZFFZHiw=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1326">Campaign Systems</a></u> / <u><a href="Rules.aspx?ID=1352">Companions</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=1353">Controlling Companions</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 140</i></a><br />How a companion works depends on the campaign as well as the companion’s nature, intelligence, and abilities. In some cases, the rules do not specify whether you or the GM controls the companion. If you’re entirely in control, the companion acts like a subsidiary PC, doing exactly what you want just like a true PC. If the GM is control, you can make suggestions or attempt to influence the companion, but the GM determines whether the creature is willing or able to attempt what you want.<br /><h1 class="title"><a href="Rules.aspx?ID=1354">Aspects of Control</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 140</i></a><br />Whether you or the GM controls a particular companion depends largely on the creature’s intelligence and level of independence from you. <br /><br /><b>Nonsentient Companions</b>: A nonsentient companion (one with animal-level intelligence) is loyal to you in the way a well-trained dog is—the creature is conditioned to obey your commands, but its behavior is limited by its intelligence and it can’t make altruistic moral decisions— such as nobly sacrificing itself to save another. Animal companions, cavalier mounts, and purchased creatures (such as common horses and guard dogs) fall into this category. In general they’re GM-controlled companions. You can direct them using the Handle Animal skill, but their specific behavior is up to the GM. <br /><br /><b>Sentient Companions</b>: A sentient companion (a creature that can understand language and has an Intelligence score of at least 3) is considered your ally and obeys your suggestions and orders to the best of its ability. It won’t necessarily blindly follow a suicidal order, but it has your interests at heart and does what it can to keep you alive. Paladin bonded mounts, familiars, and cohorts fall into this category, and are usually player-controlled companions. <br /><br /><b>Eidolons</b>: Outside the linear obedience and intelligence scale of sentient and nonsentient companions are eidolons: intelligent entities magically bound to you. Whether you wish to roleplay this relationship as friendly or coerced, the eidolon is inclined to obey you unless you give a command only to spite it. An eidolon would obey a cruel summoner’s order to save a child from a burning building, knowing that at worst the fire damage would temporarily banish it, but it wouldn’t stand in a bonfire just because the summoner said to. An eidolon is normally a player-controlled companion, but the GM can have the eidolon refuse extreme orders that would cause it to suffer needlessly. <br /><br /><b>Magical Control</b>: <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=Charm person"><i>Charm person</i></a>, <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=dominate person"><i>dominate person</i></a>, and similar effects turn an NPC into a companion for a limited time. Most charm-like effects make the target friendly to you—the target has to follow your requests only if they’re reasonable, and has its own ideas about what is reasonable. For example, few creatures consider “hand over all your valuables” or “let me put these manacles on you” a reasonable request from a friend. You might have to use Diplomacy or Intimidate checks to influence a charmed ally, and the GM has the final say as to what happens. Though the target of a charm effect considers you a friend, it probably feels indifferent at best toward the other PCs and won’t listen to requests from them. A creature under a dominate effect is more of a puppet, and you can force it to do anything that isn’t suicidal or otherwise against its well-being. Treat it as playercontrolled, with the GM making its saving throws to resist inappropriate commands. <br /><br /><b>Common Exceptions</b>: Some companions are exceptions, such as an intelligent companion who doesn’t bear exceptional loyalty toward you (for example, a hired guard), a weaker minion who is loyal to you but lacks the abilities or resources to assist in adventuring tasks, and a called outsider (such as from <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=planar ally"><i>planar ally</i></a>) who agrees to a specific service but still has a sense of self-preservation. You can use Bluff, Diplomacy, and Intimidate to influence such companions, but the GM is the final arbiter of their actions. For example, a PC might use threats to convince a caravan guard to hold back an ogre for a few rounds or to prevent her zealous followers from attacking a rival adventurer, but the GM makes the decision whether the guard runs away after getting hit once or the followers attack when provoked.<br /><br /> The GM may deviate from the above suggestions, such as allowing a druid to control an animal companion directly, creating a more equivalent or even antagonistic relationship between a summoner and an eidolon, or roleplaying a mentoring relationship between a veteran warhorse and the young paladin who inherited his loyalty. Before you create a character with a companion creature (or decide to add a companion in play), the GM should explain to everyone how much influence you and the GM each have over the creature’s actions. That way, everyone is fully informed about all aspects of dealing with the companion.<br /><br /> The specifics of controlling a companion vary for different campaigns. A gritty campaign where animal companions can’t do anything that real animals can’t do forces the GM to act as a check against you pushing the bounds of creativity. A high-fantasy game where familiars are nearly as important to the storyline as the PCs—or are played as near-PCs by other players—is a very different feel and can create interesting roleplaying opportunities. An evil campaign where companions are unwilling slaves of the PCs creates a dynamic where the PCs are trying to exploit them as much as possible—perhaps even sacrificing and replacing them as needed—and treat them more like living tools than reluctant allies.<br /><h1 class="title"><a href="Rules.aspx?ID=1355">Issues of Control</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 141</i></a><br />The GM should keep in mind several factors when it comes to companions, whether handling them as suggested above or altering the balance to give you more or less control. <br /><br /><b>Ease of Play</b>: Changing who controls a companion can make the game easier or harder for the GM. Controlling a cohort in combat is one more complex thing for the GM to deal with. The GM must keep track of a cohort’s tactics and motivations and how those affect it in combat while keeping her own knowledge of the monsters separate from the cohort’s knowledge; otherwise, the cohort will outshine the PCs with superior tactics. Giving you control over these decisions (while still allowing the GM to veto certain actions) alleviates some of the burden and allows you to plan interesting tactics between yourself and your cohort, much as you would have mastered during times you trained together.<br /><br /> Conversely, giving a player full control over the actions of two characters can slow down the game. If you’re prone to choice paralysis, playing two turns every round can drag the game to a halt. If this is a problem, the GM should suggest that another player help run the companion or ask you to give up the companion and alter yourself to compensate (such as by choosing a different feat in place of Leadership, taking a domain instead of a druid animal companion, or selecting the “companions” option for a ranger’s hunter’s bond ability instead of an animal). <br /><br /><b>Game Balance</b>: Even a simple change like allowing players to directly control companions has repercussions in the game mechanics. For example, if a druid has complete control over an animal companion, there’s no reason for her to put ranks in Handle Animal, freeing up those ranks for other valuable skills like Perception. If a wizard with a guard dog doesn’t have to use a move action to make a Handle Animal check to have the dog attack, he has a full set of actions each round and a minion creature that doesn’t require investing any extra time to “summon” it. If companion animals don’t have to know specific tricks, the PC can use any animal like an ally and plan strategies (like flanking) as if the animal were much smarter than it actually is.<br /><br /> With intelligent companions such as cohorts, giving you full control means you’re controlling two characters and can take twice as many actions as the other players. The GM can create a middle ground, such as requiring you to put ranks in Handle Animal but not requiring you to make checks, or reducing the action needed to command an animal, but these decisions should be made before the companion joins the group. <br /><br /><b>Sharing Information</b>: Whenever you control multiple creatures, there are issues of sharing information between you and your companions. Some companions have special abilities that facilitate this sort of communication, such as a familiar’s empathic link or an eidolon’s bond senses ability, but most companions are limited to what they can observe with their own senses. For example, if a wizard using <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=see invisibility"><i>see invisibility</i></a> knows there is an invisible rogue across the room, he can’t just direct his guard dog to attack the rogue; he has to use the seek command to move the dog to the general area of the rogue, and even then he can’t use the attack command to attack the rogue because the rogue isn’t an “apparent enemy.” If the GM allows the wizard to make the dog fight the invisible rogue, that makes the animal much more versatile than normal, and also devalues the special nature of a true empathic or telepathic bond with a companion. If the dog is allowed to work outside the PC’s line of sight, it devalues abilities such as a wizard’s ability to scry on his familiar. Of course, intelligent companions using speech can bypass some of these limitations (such as telling a cohort there’s an invisible rogue in the corner).</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Making NPCs Unique - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Making NPCs Unique" /><meta name="description" content="Assuming that the GM decides to give an NPC some depth, he will likely want to make her as memorable and entertaining as possible, and might consider the following points to help raise an NPC above a two-dimensional stereotype.&lt;br />&lt;br /> &lt;b>Alignment&lt;/b>: Is the NPC’s alignment coherent with her actions? Does her alignment give her any advantages or disadvantages? Alignment should be an effective guideline in defining the behavior and choices of an NPC. Most often, a rigid adherence to a good and evil alignment makes for more memorable characters, but characters whose goals and deeds vary through shades of gray help lend an air of realism to the game world.&lt;br />&lt;br /> &lt;b>Ally&lt;/b>: Who is the NPC’s best friend? What is her relationship with the NPC and the PCs? Like the PCs, NPCs often have someone at their side to help them. Designing an NPC’s cohort, hireling, or bound creature as a special ally with a unique personality and cool abilities can be a way to make her master more interesting. Background: What happened to the NPC in the past? Does that affect the PCs in the present somehow? Designing a background for an NPC, the GM can give an explanation for her appearance, behavior, and characteristics, and perhaps for class abilities, special powers, or unique features. An NPC’s background can merge with that of the adventure itself (especially if the NPC belongs to a long-lived race), making her an interesting source of information or even a living witness to some key event in the past.&lt;br />&lt;br /> &lt;b>Object&lt;/b>: Does the NPC possess an object that sets her apart somehow? What is this object like and how does it affect the game? An object such as a magic item can work much like an ally in giving an NPC more flair and weight, and can do it with more subtlety and effectiveness than a living creature. In fantasy, a totally unassuming character can become the protagonist of a story only because she possesses an artifact. Borrowing or acquiring the object from its owner can be a goal of the PCs, of course, and can be done through persuasion, bribery, or combat.&lt;br />&lt;br /> &lt;b>Quirks&lt;/b>: A quirk can be anything that sets a particular NPC apart: a fondness for garlic, a distrust of elves, the habit of telling the same story over and over, or even a catchphrase such as “my old gran always used to say...” One or two quirks do a lot to convey personality, but beware, too many and the character becomes cartoonlike and ridiculous.&lt;br />&lt;br /> &lt;b>Secret&lt;/b>: Does the NPC have a secret? How can it be revealed and what might be the effects of the revelation? The secret can be knowingly kept by the NPC or something unknown to her. In any case, a twist in a major NPC’s background usually entails a twist in the story, and the GM can reveal the NPC’s secret not only to add excitement, but actually to change the course of an adventure. A secret can also be seen as a focal point in an NPC’s background that might shape the character into more than she initially seemed to be.&lt;br />&lt;br /> &lt;b>Voice&lt;/b>: An NPC’s voice—accent, tone, and choice of words—is an invaluable tool in conveying personality. Not every GM has the acting talent to present pitchperfect NPCs by voice alone, but most GMs can surprise themselves—and their players—with a little effort." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=631" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAX3Xzx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDU0Ij5HYW1lTWFzdGVyeSBHdWlkZTwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD02MjUiPk5vbnBsYXllciBDaGFyYWN0ZXJzPC9hPjwvdT48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTYzMSI+TWFraW5nIE5QQ3MgVW5pcXVlPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gODQ8L2k+PC9hPjxiciAvPkFzc3VtaW5nIHRoYXQgdGhlIEdNIGRlY2lkZXMgdG8gZ2l2ZSBhbiBOUEMgc29tZSBkZXB0aCwgaGUgd2lsbCBsaWtlbHkgd2FudCB0byBtYWtlIGhlciBhcyBtZW1vcmFibGUgYW5kIGVudGVydGFpbmluZyBhcyBwb3NzaWJsZSwgYW5kIG1pZ2h0IGNvbnNpZGVyIHRoZSBmb2xsb3dpbmcgcG9pbnRzIHRvIGhlbHAgcmFpc2UgYW4gTlBDIGFib3ZlIGEgdHdvLWRpbWVuc2lvbmFsIHN0ZXJlb3R5cGUuPGJyIC8+PGJyIC8+IDxiPkFsaWdubWVudDwvYj46IElzIHRoZSBOUEPigJlzIGFsaWdubWVudCBjb2hlcmVudCB3aXRoIGhlciBhY3Rpb25zPyBEb2VzIGhlciBhbGlnbm1lbnQgZ2l2ZSBoZXIgYW55IGFkdmFudGFnZXMgb3IgZGlzYWR2YW50YWdlcz8gQWxpZ25tZW50IHNob3VsZCBiZSBhbiBlZmZlY3RpdmUgZ3VpZGVsaW5lIGluIGRlZmluaW5nIHRoZSBiZWhhdmlvciBhbmQgY2hvaWNlcyBvZiBhbiBOUEMuIE1vc3Qgb2Z0ZW4sIGEgcmlnaWQgYWRoZXJlbmNlIHRvIGEgZ29vZCBhbmQgZXZpbCBhbGlnbm1lbnQgbWFrZXMgZm9yIG1vcmUgbWVtb3JhYmxlIGNoYXJhY3RlcnMsIGJ1dCBjaGFyYWN0ZXJzIHdob3NlIGdvYWxzIGFuZCBkZWVkcyB2YXJ5IHRocm91Z2ggc2hhZGVzIG9mIGdyYXkgaGVscCBsZW5kIGFuIGFpciBvZiByZWFsaXNtIHRvIHRoZSBnYW1lIHdvcmxkLjxiciAvPjxiciAvPiA8Yj5BbGx5PC9iPjogV2hvIGlzIHRoZSBOUEPigJlzIGJlc3QgZnJpZW5kPyBXaGF0IGlzIGhlciByZWxhdGlvbnNoaXAgd2l0aCB0aGUgTlBDIGFuZCB0aGUgUENzPyBMaWtlIHRoZSBQQ3MsIE5QQ3Mgb2Z0ZW4gaGF2ZSBzb21lb25lIGF0IHRoZWlyIHNpZGUgdG8gaGVscCB0aGVtLiBEZXNpZ25pbmcgYW4gTlBD4oCZcyBjb2hvcnQsIGhpcmVsaW5nLCBvciBib3VuZCBjcmVhdHVyZSBhcyBhIHNwZWNpYWwgYWxseSB3aXRoIGEgdW5pcXVlIHBlcnNvbmFsaXR5IGFuZCBjb29sIGFiaWxpdGllcyBjYW4gYmUgYSB3YXkgdG8gbWFrZSBoZXIgbWFzdGVyIG1vcmUgaW50ZXJlc3RpbmcuIEJhY2tncm91bmQ6IFdoYXQgaGFwcGVuZWQgdG8gdGhlIE5QQyBpbiB0aGUgcGFzdD8gRG9lcyB0aGF0IGFmZmVjdCB0aGUgUENzIGluIHRoZSBwcmVzZW50IHNvbWVob3c/IERlc2lnbmluZyBhIGJhY2tncm91bmQgZm9yIGFuIE5QQywgdGhlIEdNIGNhbiBnaXZlIGFuIGV4cGxhbmF0aW9uIGZvciBoZXIgYXBwZWFyYW5jZSwgYmVoYXZpb3IsIGFuZCBjaGFyYWN0ZXJpc3RpY3MsIGFuZCBwZXJoYXBzIGZvciBjbGFzcyBhYmlsaXRpZXMsIHNwZWNpYWwgcG93ZXJzLCBvciB1bmlxdWUgZmVhdHVyZXMuIEFuIE5QQ+KAmXMgYmFja2dyb3VuZCBjYW4gbWVyZ2Ugd2l0aCB0aGF0IG9mIHRoZSBhZHZlbnR1cmUgaXRzZWxmIChlc3BlY2lhbGx5IGlmIHRoZSBOUEMgYmVsb25ncyB0byBhIGxvbmctbGl2ZWQgcmFjZSksIG1ha2luZyBoZXIgYW4gaW50ZXJlc3Rpbmcgc291cmNlIG9mIGluZm9ybWF0aW9uIG9yIGV2ZW4gYSBsaXZpbmcgd2l0bmVzcyB0byBzb21lIGtleSBldmVudCBpbiB0aGUgcGFzdC48YnIgLz48YnIgLz4gPGI+T2JqZWN0PC9iPjogRG9lcyB0aGUgTlBDIHBvc3Nlc3MgYW4gb2JqZWN0IHRoYXQgc2V0cyBoZXIgYXBhcnQgc29tZWhvdz8gV2hhdCBpcyB0aGlzIG9iamVjdCBsaWtlIGFuZCBob3cgZG9lcyBpdCBhZmZlY3QgdGhlIGdhbWU/IEFuIG9iamVjdCBzdWNoIGFzIGEgbWFnaWMgaXRlbSBjYW4gd29yayBtdWNoIGxpa2UgYW4gYWxseSBpbiBnaXZpbmcgYW4gTlBDIG1vcmUgZmxhaXIgYW5kIHdlaWdodCwgYW5kIGNhbiBkbyBpdCB3aXRoIG1vcmUgc3VidGxldHkgYW5kIGVmZmVjdGl2ZW5lc3MgdGhhbiBhIGxpdmluZyBjcmVhdHVyZS4gSW4gZmFudGFzeSwgYSB0b3RhbGx5IHVuYXNzdW1pbmcgY2hhcmFjdGVyIGNhbiBiZWNvbWUgdGhlIHByb3RhZ29uaXN0IG9mIGEgc3Rvcnkgb25seSBiZWNhdXNlIHNoZSBwb3NzZXNzZXMgYW4gYXJ0aWZhY3QuIEJvcnJvd2luZyBvciBhY3F1aXJpbmcgdGhlIG9iamVjdCBmcm9tIGl0cyBvd25lciBjYW4gYmUgYSBnb2FsIG9mIHRoZSBQQ3MsIG9mIGNvdXJzZSwgYW5kIGNhbiBiZSBkb25lIHRocm91Z2ggcGVyc3Vhc2lvbiwgYnJpYmVyeSwgb3IgY29tYmF0LjxiciAvPjxiciAvPiA8Yj5RdWlya3M8L2I+OiBBIHF1aXJrIGNhbiBiZSBhbnl0aGluZyB0aGF0IHNldHMgYSBwYXJ0aWN1bGFyIE5QQyBhcGFydDogYSBmb25kbmVzcyBmb3IgZ2FybGljLCBhIGRpc3RydXN0IG9mIGVsdmVzLCB0aGUgaGFiaXQgb2YgdGVsbGluZyB0aGUgc2FtZSBzdG9yeSBvdmVyIGFuZCBvdmVyLCBvciBldmVuIGEgY2F0Y2hwaHJhc2Ugc3VjaCBhcyDigJxteSBvbGQgZ3JhbiBhbHdheXMgdXNlZCB0byBzYXkuLi7igJ0gT25lIG9yIHR3byBxdWlya3MgZG8gYSBsb3QgdG8gY29udmV5IHBlcnNvbmFsaXR5LCBidXQgYmV3YXJlLCB0b28gbWFueSBhbmQgdGhlIGNoYXJhY3RlciBiZWNvbWVzIGNhcnRvb25saWtlIGFuZCByaWRpY3Vsb3VzLjxiciAvPjxiciAvPiA8Yj5TZWNyZXQ8L2I+OiBEb2VzIHRoZSBOUEMgaGF2ZSBhIHNlY3JldD8gSG93IGNhbiBpdCBiZSByZXZlYWxlZCBhbmQgd2hhdCBtaWdodCBiZSB0aGUgZWZmZWN0cyBvZiB0aGUgcmV2ZWxhdGlvbj8gVGhlIHNlY3JldCBjYW4gYmUga25vd2luZ2x5IGtlcHQgYnkgdGhlIE5QQyBvciBzb21ldGhpbmcgdW5rbm93biB0byBoZXIuIEluIGFueSBjYXNlLCBhIHR3aXN0IGluIGEgbWFqb3IgTlBD4oCZcyBiYWNrZ3JvdW5kIHVzdWFsbHkgZW50YWlscyBhIHR3aXN0IGluIHRoZSBzdG9yeSwgYW5kIHRoZSBHTSBjYW4gcmV2ZWFsIHRoZSBOUEPigJlzIHNlY3JldCBub3Qgb25seSB0byBhZGQgZXhjaXRlbWVudCwgYnV0IGFjdHVhbGx5IHRvIGNoYW5nZSB0aGUgY291cnNlIG9mIGFuIGFkdmVudHVyZS4gQSBzZWNyZXQgY2FuIGFsc28gYmUgc2VlbiBhcyBhIGZvY2FsIHBvaW50IGluIGFuIE5QQ+KAmXMgYmFja2dyb3VuZCB0aGF0IG1pZ2h0IHNoYXBlIHRoZSBjaGFyYWN0ZXIgaW50byBtb3JlIHRoYW4gc2hlIGluaXRpYWxseSBzZWVtZWQgdG8gYmUuPGJyIC8+PGJyIC8+IDxiPlZvaWNlPC9iPjogQW4gTlBD4oCZcyB2b2ljZeKAlGFjY2VudCwgdG9uZSwgYW5kIGNob2ljZSBvZiB3b3Jkc+KAlGlzIGFuIGludmFsdWFibGUgdG9vbCBpbiBjb252ZXlpbmcgcGVyc29uYWxpdHkuIE5vdCBldmVyeSBHTSBoYXMgdGhlIGFjdGluZyB0YWxlbnQgdG8gcHJlc2VudCBwaXRjaHBlcmZlY3QgTlBDcyBieSB2b2ljZSBhbG9uZSwgYnV0IG1vc3QgR01zIGNhbiBzdXJwcmlzZSB0aGVtc2VsdmVz4oCUYW5kIHRoZWlyIHBsYXllcnPigJR3aXRoIGEgbGl0dGxlIGVmZm9ydC48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTYzMiI+TmFtaW5nIE5QQ3M8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiA4NDwvaT48L2E+PGJyIC8+Q3JlYXRpbmcgaW50ZXJlc3RpbmcgYW5kIGF1dGhlbnRpYy1zb3VuZGluZyBmYW50YXN5IG5hbWVzIGlzIGEgY29uc3RhbnQgY2hhbGxlbmdlIGZvciBHTXMuIEV2ZW4gaWYgbW9uc3RlcnMgYW5kIE5QQyBleHRyYXMgY2FuIHJlbWFpbiBhbm9ueW1vdXMsIHRoZSBzbGlnaHRlc3QgYW1vdW50IG9mIG5vbi1jb21iYXQgaW50ZXJhY3Rpb24gaW1tZWRpYXRlbHkgdHJpZ2dlcnMgdGhlIG5lZWQgZm9yIGEgbmFtZS4gV2l0aCB0aGUgZmxvdXJpc2hpbmcgb2YgdGhlIGZhbnRhc3kgZ2VucmUsIGFsbW9zdCBhbGwgZmljdGlvbmFsIG5hbWVzIGhhdmUgYmVlbiByZXBlYXRlZCwgdHdpc3RlZCwgYW5kIGFuYWdyYW1tZWQgYWQgaW5maW5pdHVtLCBhbmQgbGlrZSBOUENzIHRoZW1zZWx2ZXMsIG5hbWVzIGNvbnN0YW50bHkgcnVuIHRoZSByaXNrIG9mIG1ha2luZyBhIGxhbWUgaW1wcmVzc2lvbiBvbiB0aGUgcGxheWVycy4gVGhlIEdNIHNob3VsZCBub3QgYmUgZXhjZXNzaXZlbHkgYWZyYWlkIHRvIG1ha2Ugc3VjaCBtaXN0YWtlcywgYXMgbG91c3kgbmFtZXMgYXJlIG9mdGVuIGFuIGFzcGVjdCBvZiByZWFsIGxpZmUsIGJ1dCBoZSBzaG91bGQgbm9uZXRoZWxlc3MgcG9uZGVyIHRoZSBmb2xsb3dpbmcgcG9zc2liaWxpdGllcy48YnIgLz48YnIgLz4gPGI+UmVhbCBOYW1lczwvYj46IFNvdW5kaW5nIGZhbWlsaWFyIGFuZCBvcGVuIHRvIHZhcmlhdGlvbnMsIHJlYWwgbmFtZXMgYXJlIG9mdGVuIGEgZ29vZCBwbGFjZSB0byBzdGFydC4gRmFudGFzeSBsaXRlcmF0dXJlIHByb3ZpZGVzIG1hbnkgZXhhbXBsZXMgb2YgY2hhcmFjdGVycyB3aXRoIHJlYWwtbGlmZSwgY29tbW9uIG5hbWVzLCBhbHRob3VnaCBzdWNoIHJlYWwtd29ybGQgbmFtZXMgYXJlIHJhcmVseSB1c2VkIGFsb25lLCBhbmQgYXJlIG1vcmUgb2Z0ZW4gY291cGxlZCB3aXRoIGEgZmljdGlvbmFsIGZhbWlseSBuYW1lIG9yIGEgdGl0bGUgdGhhdCBoaW50cyBhdCBhIGNoYXJhY3RlcuKAmXMgb2NjdXBhdGlvbiwgYXNwaXJhdGlvbnMsIG9yIHF1YWxpdGllcy48YnIgLz48YnIgLz4gPGI+Q3VsdHVyYWwgTmFtZXM8L2I+OiBJZiB0aGUgR03igJlzIHdvcmxkLCBvciBhIHJlZ2lvbiBvZiBpdCwgcmVwcm9kdWNlcyBhIGhpc3RvcmljYWwgY3VsdHVyZSwgdXNpbmcgbmFtZXMgZnJvbSB0aGF0IGN1bHR1cmXigJlzIGxhbmd1YWdlIGlzIGFuIG9idmlvdXMgY2hvaWNlIGZvciBsb2NhbCBOUENzLiBJZiB0aGUgZmFudGFzeSBjdWx0dXJlIGlzIGFuYWxvZ291cyB0byBhIGhpc3RvcmljYWwgY3VsdHVyZSBmcm9tIEVhcnRoLCBsaWtlIGFuY2llbnQgRWd5cHQsIHRoZSBHTSBjYW4gcmVzZWFyY2ggYmFzaWMgaW5mb3JtYXRpb24gYWJvdXQgdGhhdCBjdWx0dXJl4oCZcyBsYW5ndWFnZSwgZmluZCBvdXQgaXRzIG1vc3QgY29tbW9uIGNvbXBvbmVudCBzeWxsYWJsZXMsIGFuZCBjb21iaW5lIHRoZW0gdG8gY3JlYXRlIG5ldyBuYW1lcyB0aGF0IHNvdW5kIGFuZCBmZWVsIGxpa2UgdGhlIHJlYWwgdGhpbmcuIENvdW50bGVzcyBib29rcyBhbmQgb25saW5lIHJlc291cmNlcyBvZmZlciBsaXN0cyBvZiBuYW1lcyBieSBjb3VudHJ5IG9yIGN1bHR1cmUsIGFuZCBvZnRlbiBpbmNsdWRlIHZhcmlvdXMgaW5zcGlyYXRpb25hbCBtZWFuaW5ncy4gU3VjaCBuYW1lcyBhdCBiZXN0IGZlZWwgYXV0aGVudGljIGFuZCBhdCB3b3JzZSBmYW50YXN0aWNhbCwgeWV0IHNob3VsZCB3b3JrIGVpdGhlciB3YXkuPGJyIC8+PGJyIC8+IDxiPktlbm5pbmdzPC9iPjogS2VubmluZ3MsIHBvZXRpYyB3b3JkcyB0aGF0IGV4cHJlc3MgYSBtZXRhcGhvciwgYXJlIGEgZ3JlYXQgY2hvaWNlIGZvciBmYW50YXN5IG5hbWVzLiBUaGUgR00gY2FuIGNvbWJpbmUgdGVsbGluZyB3b3JkcyBhYm91dCBhIGNoYXJhY3RlciBpbiBhIHNpbmdsZSB3b3JkIGFuZCB1c2UgaXQgYWxvbmUgKHN1Y2ggYXMg4oCcS25pZmUtZWF0ZXLigJ0pIG9yIGluIGNvbm5lY3Rpb24gd2l0aCBhIGRpc3RpbmN0aXZlIGZpcnN0IG5hbWUgKHN1Y2ggYXMg4oCcTnVhZGEgU2lsdmVyaGFuZOKAnSkuIEFyY2hhaWMgZm9ybXMgb2YgY29tbW9uIHdvcmRzIG1pZ2h0IGFsc28gYmUgdXNlZCB0byBjcmVhdGUga2VubmluZ3MgdG8gZ3JlYXQgZWZmZWN0LiBHTXMgc2hvdWxkIGJlIHRob3VnaHRmdWwgd2hlbiBncmFudGluZyBhbiBOUEMgYSBuYW1lIHRoYXQgb2J2aW91c2x5IGRvZXNu4oCZdCBzdWl0IHRoZSBjaGFyYWN0ZXIgKGxpa2UgYSBzZWFtc3RyZXNzIHdpdGggdGhlIG5hbWUg4oCcUmVkYmxhZGXigJ0pLCBhcyB0aGUgbmFtZSBtaWdodCBwcm92ZSBjb21lZGljIG9yLCBpbiBzb21lIGNhc2VzLCBwcm9waGV0aWMuIFJlZ2FyZGxlc3MsIHN1Y2ggbmFtZXMgdGVuZCB0byBiZSBhbGwgdGhlIG1vcmUgbWVtb3JhYmxlIGZvciB0aGUgaW5jb25ncnVpdHkuPGJyIC8+PGJyIC8+IDxiPkludmVudGVkIE5hbWVzPC9iPjogVGhlIEdNIGlzLCBvZiBjb3Vyc2UsIGZyZWUgdG8gdGhyb3cgdm93ZWxzIGFuZCBjb25zb25hbnRzIGluIHRoZSBsb3R0ZXJ5IHdoZWVsIGFuZCBzZWUgd2hhdCBoYXBwZW5zLiBJbiB0aGlzIGNhc2UsIHRoZSBzZXF1ZW5jZSBvZiBjZXJ0YWluIGxldHRlcnMgYW5kIHRoZSBsZW5ndGggb2YgdGhlIG5hbWUgY2FuIGJlIHVzZWQgdG8gY29udmV5IGEgc3VpdGFibGUgdmVyYmFsIGltYWdlLiBTYXZhZ2UgY3JlYXR1cmVzIG1pZ2h0IGhhdmUgZ3V0dHVyYWwgbmFtZXMsIGZ1bGwgb2YgaGFyZCBhbmQgZ3J1bnRpbmcgc291bmRzLCB3aGlsZSBtb3JlIGVsZWdhbnQgYmVpbmdzIG1pZ2h0IHVzZSBzb2Z0LCBsaWx0aW5nIHZvd2VsIHNvdW5kcy4gR01zIG1pZ2h0IGdvIHNvIGZhciBhcyB0byB0cnkgdG8gaW52ZW50IG5hbWVzIHRpZWQgdG8gYW4gTlBD4oCZcyByYWNlIG9yIGN1bHR1cmUsIGxpa2UgdGhlIHNvdW5kcyBpbiBhIG1lcm1haWTigJlzIG5hbWUgYmVpbmcgcmVtaW5pc2NlbnQgb2YgdGhlIHJ1c2ggb2YgdGhlIHN1cmYsIG9yIGEgc3RvbmUgZ2lhbnTigJlzIG5hbWUgc291bmRpbmcgYXMgdGhvdWdoIGl0IHdlcmUgZnVsbCBvZiBicmVha2luZyByb2Nrcy4gSW4gYW55IGNhc2UsIHRoZSBHTSBzaG91bGQgbWFrZSBzdXJlIHRvIHNheSBoaXMgbmV3bHkgaW52ZW50ZWQgbmFtZSBvdXQgbG91ZCBzZXZlcmFsIHRpbWVzIHdpdGggc2V2ZXJhbCB2YXJpYXRpb25zIHRvIGF2b2lkIGFueSBsYXVnaGFibGUgbWlzdGFrZXPigJRvciBvYnZpb3VzIHJoeW1lc+KAlG1pZC1nYW1lLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NjMzIj5Bdm9pZGluZyBOUEMgT3Zlcndvcms8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiA4NTwvaT48L2E+PGJyIC8+T25lIGRhbmdlciBhIEdNIG1pZ2h0IGVuY291bnRlciB3aGVuIGRlc2lnbmluZyBOUENzIGlzIHRvIHJlbHkgdG9vIGhlYXZpbHkgb24gdGhlIHN0ZXJlb3R5cGVzIGRyYXduIGZyb20gd2VsbC1rbm93biBjaGFyYWN0ZXJzIGluIGZhbnRhc3kgc3Rvcmllcy4gTXl0aHMgYW5kIGZvbGt0YWxlcyBwcm92ZSByaWZlIHdpdGggcmVwZXRpdGlvbiBhbmQgb3Zlcmx5IGZhbWlsaWFyIGNoYXJhY3RlcnMsIGxlYXZpbmcgR01zIHdpdGggcXVpdGUgYSBjaGFsbGVuZ2UgaW4gY29taW5nIHVwIHdpdGggb3JpZ2luYWwgTlBDcy4gVGhlIGtleSBpcyB0byB0YWtlIHRoZSBvbGQgYnVpbGRpbmcgYmxvY2tzIGFuZCBhcnJhbmdlIHRoZW0gYXMgZGlmZmVyZW50bHksIGltYWdpbmF0aXZlbHksIGFuZCB5ZXQgYXMgcmVhc29uYWJseSBhcyBwb3NzaWJsZS4gSWYgZ3JvYW4td29ydGh5IGFuZCB0aXJlZCBOUEMgdHJvcGVzIGNhbm5vdCBiZSBhdm9pZGVkLCB0aGV5IHNob3VsZCBiZSB3b3JrZWQgaW50byBzb21ldGhpbmcgZnJlc2ggYW5kIHBhbGF0YWJsZSwgb3IgdHJhZGl0aW9uYWxseSBwbGVhc2FudC4gSXMgaXQgYmFkIGZvciB0aGUgaW5ua2VlcGVyIHRvIGJlIGFuIGV4LWFkdmVudHVyZXI/IE5vdCB0aGF0IGJhZCBpZiB3ZSBoYXZlIGFuIGlubmtlZXBlciB3aXRoIGFuIGludGVyZXN0aW5nIHBlcnNvbmFsaXR5IG9yIHNlY3JldC4gSXMgaXQgYmFkIGZvciB0aGUgZ29vZCBraW5n4oCZcyBhZHZpc29yIHRvIGJlIHNseSBhbmQgc2NoZW1pbmc/IE5vdCB0aGF0IGJhZCBpZiBzaGUgdHVybnMgb3V0IHRvIGJlIHRoZSBjbGV2ZXIsIGlmIHNoYWR5LCBvcHBvbmVudCBvZiBhIGdyZWF0ZXIgdmlsbGFpbiBtYW5pcHVsYXRpbmcgdGhlIHRocm9uZS4gQXMgbG9uZyBhcyBoaXMgY3JlYXRpb24gaXMgYmFsYW5jZWQsIGZ1bmN0aW9uYWwsIGFuZCBiZWxpZXZhYmxlLCB0aGUgR00gc2hvdWxkIHRoaW5rIG9mIG9yaWdpbmFsaXR5IGFzIGEgd2VsY29tZSBhZGRpdGlvbiByYXRoZXIgdGhhbiBhIG5lY2Vzc2l0eS48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTYzNCI+U3RlcmVvdHlwZXM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiA4NTwvaT48L2E+PGJyIC8+VGhlIGNvbmNlcHQgb2YgTlBDIGluY2x1ZGVzIGFueSBhbmQgYWxsIGNyZWF0dXJlcyBub3QgY29udHJvbGxlZCBieSBhIHBsYXllciwgYWx0aG91Z2ggTlBDcyBhcmUgY29tbW9ubHkgYXNzb2NpYXRlZCB3aXRoIGEgbWVhc3VyZSBvZiBkZWxpYmVyYXRlbmVzcyBhbmQgZGVzaWduIHdvcmssIHdoaWxlIG1vbnN0ZXJzIGFyZSBtb3JlIGxpa2VseSBkcmF3biB3aG9sZSBjbG90aCBmcm9tIHRoZSBwYWdlcyBvZiB0aGUgUGF0aGZpbmRlciBSUEcgQmVzdGlhcnkgb3Igc2ltaWxhciByZWFkeS1tYWRlIHJlc291cmNlLiBBbnkgY3JlYXR1cmUgaGFzIHRoZSBwb3RlbnRpYWwgdG8gYmUgYW4gTlBDLCB0aG91Z2guIEFueXRoaW5nIHRoZSBQQ3MgZGVjaWRlIHRvIHRhbGsgd2l0aCBpbnN0ZWFkIG9mIHNsYXkgbWlnaHQgaGF2ZSBhIHJlYWN0aW9uOiBzb21ldGhpbmcgdG8gc2F5LCB2aWV3cyBzaGFwZWQgYnkgaXRzIGN1bHR1cmUsIGFuZCBhbiBhdHRpdHVkZSB0b3dhcmQgdGhlIFBDcyBkZXBlbmRhbnQgb24gaXRzIGFsaWdubWVudCBhbmQgdGhlIFBDc+KAmSBhY3Rpb25zLiBNYW55IG1vbnN0ZXJzIGFyZSBzaW1wbHkgTlBDcyB3aG9zZSBwdXJwb3NlIGlzIHRvIGJlIGFuIG9wcG9uZW50IGZvciB0aGUgUENzLCBidXQgc3BlbGxzIGxpa2UgY2hhcm0gbW9uc3RlciBjYW4gY2hhbmdlIGFsbCB0aGF0IHZlcnkgcXVpY2tseSwgYW5kIHNvIGNhbiBvdGhlciBhY3Rpb25zIG9uIHRoZSBwYXJ0IG9mIHRoZSBQQ3MsIHN1Y2ggYXMgbm90IHNpbXBseSBraWxsaW5nIGV2ZXJ5dGhpbmcgdGhleSBlbmNvdW50ZXIuIFR1cm5pbmcgbW9uc3RlcnMgaW50byBOUENzIGNyZWF0ZXMgc29tZSBncmVhdCByb2xlcGxheWluZyBvcHBvcnR1bml0aWVzLiBGb3IgZXhhbXBsZSwgYWxsIG9yY3MgYW5kIGtvYm9sZHMgYXJlIG5vdCBhbGlrZeKAlGF0IGxlYXN0IGluIHRoZWlyIG93biBvcGluaW9u4oCUYW5kIHRoZXkgaGF2ZSBnb2FscyBvZiB0aGVpciBvd24gYmVzaWRlIHN0YW5kaW5nIGluIGEgZHVuZ2VvbiBsb2NhdGlvbiB3YWl0aW5nIGZvciBQQ3MgdG8gY29tZSBhbmQga2lsbCB0aGVtLjxiciAvPjxiciAvPiBHTXMgc2hvdWxkIHJlbWFpbiBhd2FyZSBvZiBhIGNyZWF0dXJl4oCZcyBzZXR0aW5nIGFuZCBiZWxpZXZhYmlsaXR5IHdoZW4gY29uc2lkZXJpbmcgbW9uc3Ryb3VzIE5QQ3MuIEFsdGhvdWdoIGEgY29udmVyc2F0aW9uIHdpdGggYSBob2Jnb2JsaW4gbWlnaHQgcHJvdmUgbm92ZWwgaW4gdGhlIHJpZ2h0IGNpcmN1bXN0YW5jZSwgdGhlIHN1cmVzdCB3YXkgdG8gbWFrZSB0aGUgbG9jYWwgZ3JlZW4gZ3JvY2VyIGludGVyZXN0aW5nIGlzIG5vdCB0byBtYWtlIGhpbSBhIGJ1Z2JlYXIsIHdoaWxlIGhhdmluZyB0aGUgdHJ1ZSB2aWxsYWluIG9mIGEgY2FtcGFpZ24gYmUgYW4gYXdha2VuZWQgcGlnZW9uIGNhbiBzaGF0dGVyIHRoZSBiZWxpZXZhYmx5IG9mIGV2ZW4gdGhlIG1vc3Qgb3V0bGFuZGlzaCBmYW50YXN5IGNhbXBhaWduLiBBbiB1bnVzdWFsIHJhY2Ugc2hvdWxkIG5ldmVyIGJlIGNvbnNpZGVyZWQgYSByZXBsYWNlbWVudCBmb3IgdGhlIHdvcmsgb2YgY3JlYXRpbmcgYW4gaW50ZXJlc3RpbmcgcGVyc29uYWxpdHkgYW5kIG1vdGl2YXRpb24gZm9yIGEgY2hhcmFjdGVyLCBhbmQgbW9uc3Ryb3VzIE5QQ3Mgc2hvdWxkIGJlIHRob3VnaHQgdGhyb3VnaCBqdXN0IGFzIHRob3JvdWdobHkgYXMgbm9ybWFsIE5QQ3MuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD02MzUiPk1vbnN0cm91cyBOUENzPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gODU8L2k+PC9hPjxiciAvPkEgbG92aW5nbHkgY3JhZnRlZCwgZnVsbHkgcmVhbGl6ZWQgTlBDIGNhbiB0YWtlIGFsbW9zdCBhcyBsb25nIHRvIGNyZWF0ZSBhcyBhIHBsYXllciBjaGFyYWN0ZXIuIFdoaWxlIHRoZSBwbGF5ZXJzIG9ubHkgbmVlZCB0byBjcmVhdGUgb25lIGNoYXJhY3RlciBlYWNoIGF0IGFueSB0aW1lLCB0aGUgR00gbWlnaHQgbmVlZCB0byBjcmVhdGUgc2V2ZXJhbCBOUENzIGZvciBlYWNoIGFkdmVudHVyZS4gSGVyZSBhcmUgYSBmZXcgdGlwcyBmb3IgR01zIHRvIGhlbHAgYXZvaWQgTlBDIGJ1cm5vdXQuPGJyIC8+PGJyIC8+IDxiPkVmZmljaWVuY3k8L2I+OiBJZiBhbiBOUEMgb25seSBuZWVkcyBnZW5lcmljIOKAnHRvd25zcGVyc29u4oCdIHN0YXRzLCB0aGVyZSBpcyBubyBuZWVkIHRvIGNhbGN1bGF0ZSBldmVyeSBza2lsbCBwb2ludCBmb3IgYSBnaXZlbiBOUEMgb3IgdG8gcm9sbCBzdGF0cyBmb3IgZXZlcnkgc291bCBpbiBhIHZpbGxhZ2UuIFNvbWUgTlBDc+KAlHN1Y2ggYXMgdGhlIGFub255bW91cyB2b2ljZSBhdCB0aGUgYmFjayBvZiB0aGUgY3Jvd2Qgc2hvdXRpbmcsIOKAnEJ1cm4gdGhlIHdpdGNoIeKAneKAlGRvIG5vdCBuZWVkIHN0YXRzIGF0IGFsbC4gQWx0aG91Z2ggdGhlIHJ1bGVzIGV4aXN0IHRvIGNyZWF0ZSBldmVyeSBjb21tb25lciBpbiBjb21wbGV0ZSBkZXRhaWwsIGNyZWF0aW5nIGZ1bGwgc3RhdGJsb2NrcyBzaG91bGQgYmUgc2F2ZWQgZm9yIE5QQ3Mgd2hvIHJlYWxseSBuZWVkIGEgc2lnbmlmaWNhbnQgbGV2ZWwgb2YgZGV0YWlsLjxiciAvPjxiciAvPiA8Yj5HbyBHZW5lcmljPC9iPjogQSBzZWxlY3Rpb24gb2YgZ2VuZXJpYyBOUEMgc3RhdHMgbWlnaHQgcmVxdWlyZSB3b3JrIGF0IHRoZSBzdGFydCBvZiBhIGNhbXBhaWduLCBidXQgdGhleSB3aWxsIGJlIHVzZWQgYWdhaW4gYW5kIGFnYWluLiBBZGp1c3RpbmcgYSBwb2ludCBoZXJlIGFuZCBhIHBvaW50IHRoZXJlIGlzIGVub3VnaCB0byBmaXQgbW9zdCBOUENzIGZvciB0aGVpciBwdXJwb3NlIGluIGEgcGFydGljdWxhciBhZHZlbnR1cmUuIENoYXB0ZXIgOSBwcm92aWRlcyBjb21wbGV0ZSBzdGF0aXN0aWNzIGZvciBtYW55IHJlZ3VsYXJseSBvY2N1cnJpbmcgZmFudGFzeSBOUENzLCB0aG91Z2ggaGlnaGx5IHNwZWNpYWxpemVkIGdhbWVzIG1pZ2h0IGJlIHdlbGwgc2VydmVkIGJ5IGZpbGxpbmcgaW4gYW55IGV4cGVjdGVkIGdhcHMuPGJyIC8+PGJyIC8+IDxiPlJlcHVycG9zZTwvYj46IEdhbWUgc3RhdHMgbmV2ZXIgZ28gYmFkLiBJZiBhbiBhZHZlbnR1cmUgY2FsbHMgZm9yIHNwZWNpZmljIHN0YXRzIGFuZCB0aGUgR00gaGFzIGFjY2VzcyB0byB0aGVtIGZyb20gYW5vdGhlciBzb3VyY2XigJRwYXN0IGNhbXBhaWducywgcHVibGlzaGVkIGFkdmVudHVyZXMsIHRoaXMgZ3VpZGVib29r4oCUcmVwdXJwb3NpbmcgdGhvc2Ugc3RhdGlzdGljcyBjYW4gc2F2ZSBhIGdyZWF0IGRlYWwgb2YgZWZmb3J0LCBhbmQgd2l0aCBhIGZldyBjaGFuZ2VzLCB0aGUgcGxheWVycyB3aWxsIG5ldmVyIGtub3cgdGhleSB3ZXJlbuKAmXQgY3VzdG9tLWJ1aWx0IGZvciB0aGUgY3VycmVudCBhZHZlbnR1cmUuPGJyIC8+PGJyIC8+IDxiPkEgV29yZCBJcyBFbm91Z2g8L2I+OiBUaGVyZSBpcyBubyBuZWVkIHRvIGNyZWF0ZSBhIGRldGFpbGVkIGxpZmUgc3RvcnksIGV2ZW4gZm9yIGEgbWFqb3IgcmVjdXJyaW5nIE5QQy4gV2hlcmUgYmFja3N0b3J5IGlzIGltcG9ydGFudCwgYSBmZXcgc2hvcnQgbm90ZXMgdXN1YWxseSBwcm92aWRlIGV2ZXJ5dGhpbmcgdGhlIEdNIG5lZWRzLmRkZMJfPljdgBvOZHEcPtiOkQtJU/kKUq7cwtx7Qqzwlcwo" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=454">GameMastery Guide</a></u> / <u><a href="Rules.aspx?ID=625">Nonplayer Characters</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=631">Making NPCs Unique</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 84</i></a><br />Assuming that the GM decides to give an NPC some depth, he will likely want to make her as memorable and entertaining as possible, and might consider the following points to help raise an NPC above a two-dimensional stereotype.<br /><br /> <b>Alignment</b>: Is the NPC’s alignment coherent with her actions? Does her alignment give her any advantages or disadvantages? Alignment should be an effective guideline in defining the behavior and choices of an NPC. Most often, a rigid adherence to a good and evil alignment makes for more memorable characters, but characters whose goals and deeds vary through shades of gray help lend an air of realism to the game world.<br /><br /> <b>Ally</b>: Who is the NPC’s best friend? What is her relationship with the NPC and the PCs? Like the PCs, NPCs often have someone at their side to help them. Designing an NPC’s cohort, hireling, or bound creature as a special ally with a unique personality and cool abilities can be a way to make her master more interesting. Background: What happened to the NPC in the past? Does that affect the PCs in the present somehow? Designing a background for an NPC, the GM can give an explanation for her appearance, behavior, and characteristics, and perhaps for class abilities, special powers, or unique features. An NPC’s background can merge with that of the adventure itself (especially if the NPC belongs to a long-lived race), making her an interesting source of information or even a living witness to some key event in the past.<br /><br /> <b>Object</b>: Does the NPC possess an object that sets her apart somehow? What is this object like and how does it affect the game? An object such as a magic item can work much like an ally in giving an NPC more flair and weight, and can do it with more subtlety and effectiveness than a living creature. In fantasy, a totally unassuming character can become the protagonist of a story only because she possesses an artifact. Borrowing or acquiring the object from its owner can be a goal of the PCs, of course, and can be done through persuasion, bribery, or combat.<br /><br /> <b>Quirks</b>: A quirk can be anything that sets a particular NPC apart: a fondness for garlic, a distrust of elves, the habit of telling the same story over and over, or even a catchphrase such as “my old gran always used to say...” One or two quirks do a lot to convey personality, but beware, too many and the character becomes cartoonlike and ridiculous.<br /><br /> <b>Secret</b>: Does the NPC have a secret? How can it be revealed and what might be the effects of the revelation? The secret can be knowingly kept by the NPC or something unknown to her. In any case, a twist in a major NPC’s background usually entails a twist in the story, and the GM can reveal the NPC’s secret not only to add excitement, but actually to change the course of an adventure. A secret can also be seen as a focal point in an NPC’s background that might shape the character into more than she initially seemed to be.<br /><br /> <b>Voice</b>: An NPC’s voice—accent, tone, and choice of words—is an invaluable tool in conveying personality. Not every GM has the acting talent to present pitchperfect NPCs by voice alone, but most GMs can surprise themselves—and their players—with a little effort.<br /><h1 class="title"><a href="Rules.aspx?ID=632">Naming NPCs</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 84</i></a><br />Creating interesting and authentic-sounding fantasy names is a constant challenge for GMs. Even if monsters and NPC extras can remain anonymous, the slightest amount of non-combat interaction immediately triggers the need for a name. With the flourishing of the fantasy genre, almost all fictional names have been repeated, twisted, and anagrammed ad infinitum, and like NPCs themselves, names constantly run the risk of making a lame impression on the players. The GM should not be excessively afraid to make such mistakes, as lousy names are often an aspect of real life, but he should nonetheless ponder the following possibilities.<br /><br /> <b>Real Names</b>: Sounding familiar and open to variations, real names are often a good place to start. Fantasy literature provides many examples of characters with real-life, common names, although such real-world names are rarely used alone, and are more often coupled with a fictional family name or a title that hints at a character’s occupation, aspirations, or qualities.<br /><br /> <b>Cultural Names</b>: If the GM’s world, or a region of it, reproduces a historical culture, using names from that culture’s language is an obvious choice for local NPCs. If the fantasy culture is analogous to a historical culture from Earth, like ancient Egypt, the GM can research basic information about that culture’s language, find out its most common component syllables, and combine them to create new names that sound and feel like the real thing. Countless books and online resources offer lists of names by country or culture, and often include various inspirational meanings. Such names at best feel authentic and at worse fantastical, yet should work either way.<br /><br /> <b>Kennings</b>: Kennings, poetic words that express a metaphor, are a great choice for fantasy names. The GM can combine telling words about a character in a single word and use it alone (such as “Knife-eater”) or in connection with a distinctive first name (such as “Nuada Silverhand”). Archaic forms of common words might also be used to create kennings to great effect. GMs should be thoughtful when granting an NPC a name that obviously doesn’t suit the character (like a seamstress with the name “Redblade”), as the name might prove comedic or, in some cases, prophetic. Regardless, such names tend to be all the more memorable for the incongruity.<br /><br /> <b>Invented Names</b>: The GM is, of course, free to throw vowels and consonants in the lottery wheel and see what happens. In this case, the sequence of certain letters and the length of the name can be used to convey a suitable verbal image. Savage creatures might have guttural names, full of hard and grunting sounds, while more elegant beings might use soft, lilting vowel sounds. GMs might go so far as to try to invent names tied to an NPC’s race or culture, like the sounds in a mermaid’s name being reminiscent of the rush of the surf, or a stone giant’s name sounding as though it were full of breaking rocks. In any case, the GM should make sure to say his newly invented name out loud several times with several variations to avoid any laughable mistakes—or obvious rhymes—mid-game.<br /><h1 class="title"><a href="Rules.aspx?ID=633">Avoiding NPC Overwork</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 85</i></a><br />One danger a GM might encounter when designing NPCs is to rely too heavily on the stereotypes drawn from well-known characters in fantasy stories. Myths and folktales prove rife with repetition and overly familiar characters, leaving GMs with quite a challenge in coming up with original NPCs. The key is to take the old building blocks and arrange them as differently, imaginatively, and yet as reasonably as possible. If groan-worthy and tired NPC tropes cannot be avoided, they should be worked into something fresh and palatable, or traditionally pleasant. Is it bad for the innkeeper to be an ex-adventurer? Not that bad if we have an innkeeper with an interesting personality or secret. Is it bad for the good king’s advisor to be sly and scheming? Not that bad if she turns out to be the clever, if shady, opponent of a greater villain manipulating the throne. As long as his creation is balanced, functional, and believable, the GM should think of originality as a welcome addition rather than a necessity.<br /><h1 class="title"><a href="Rules.aspx?ID=634">Stereotypes</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 85</i></a><br />The concept of NPC includes any and all creatures not controlled by a player, although NPCs are commonly associated with a measure of deliberateness and design work, while monsters are more likely drawn whole cloth from the pages of the Pathfinder RPG Bestiary or similar ready-made resource. Any creature has the potential to be an NPC, though. Anything the PCs decide to talk with instead of slay might have a reaction: something to say, views shaped by its culture, and an attitude toward the PCs dependant on its alignment and the PCs’ actions. Many monsters are simply NPCs whose purpose is to be an opponent for the PCs, but spells like charm monster can change all that very quickly, and so can other actions on the part of the PCs, such as not simply killing everything they encounter. Turning monsters into NPCs creates some great roleplaying opportunities. For example, all orcs and kobolds are not alike—at least in their own opinion—and they have goals of their own beside standing in a dungeon location waiting for PCs to come and kill them.<br /><br /> GMs should remain aware of a creature’s setting and believability when considering monstrous NPCs. Although a conversation with a hobgoblin might prove novel in the right circumstance, the surest way to make the local green grocer interesting is not to make him a bugbear, while having the true villain of a campaign be an awakened pigeon can shatter the believably of even the most outlandish fantasy campaign. An unusual race should never be considered a replacement for the work of creating an interesting personality and motivation for a character, and monstrous NPCs should be thought through just as thoroughly as normal NPCs.<br /><h1 class="title"><a href="Rules.aspx?ID=635">Monstrous NPCs</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 85</i></a><br />A lovingly crafted, fully realized NPC can take almost as long to create as a player character. While the players only need to create one character each at any time, the GM might need to create several NPCs for each adventure. Here are a few tips for GMs to help avoid NPC burnout.<br /><br /> <b>Efficiency</b>: If an NPC only needs generic “townsperson” stats, there is no need to calculate every skill point for a given NPC or to roll stats for every soul in a village. Some NPCs—such as the anonymous voice at the back of the crowd shouting, “Burn the witch!”—do not need stats at all. Although the rules exist to create every commoner in complete detail, creating full statblocks should be saved for NPCs who really need a significant level of detail.<br /><br /> <b>Go Generic</b>: A selection of generic NPC stats might require work at the start of a campaign, but they will be used again and again. Adjusting a point here and a point there is enough to fit most NPCs for their purpose in a particular adventure. Chapter 9 provides complete statistics for many regularly occurring fantasy NPCs, though highly specialized games might be well served by filling in any expected gaps.<br /><br /> <b>Repurpose</b>: Game stats never go bad. If an adventure calls for specific stats and the GM has access to them from another source—past campaigns, published adventures, this guidebook—repurposing those statistics can save a great deal of effort, and with a few changes, the players will never know they weren’t custom-built for the current adventure.<br /><br /> <b>A Word Is Enough</b>: There is no need to create a detailed life story, even for a major recurring NPC. Where backstory is important, a few short notes usually provide everything the GM needs.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

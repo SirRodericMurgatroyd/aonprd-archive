@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	The GM as Host - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, The GM as Host" /><meta name="description" content="The GM’s primary job is to run the game, but there’s more to that task than just rolling dice and orchestrating ingame challenges. As the group member most responsible for the game’s success, the GM is also the de facto host for each session, in charge of handling or delegating the logistics behind the fun.&lt;br />&lt;br /> The social side of a session is at least as important as the quality of the game itself. Adult gamers might rarely get time to socialize, given the pressures of jobs, families, and homes, so game night becomes a welcome chance to spend time with friends, no different than a night of board games, movies, or poker. And like any party, there’s work to be done both before and after.&lt;br />&lt;br /> Some of the following issues can be delegated to a willing player, but ultimately, all of them are the GM’s responsibility." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=464" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXoXDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDU0Ij5HYW1lTWFzdGVyeSBHdWlkZTwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD00NTUiPkdldHRpbmcgU3RhcnRlZDwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD00NjQiPlRoZSBHTSBhcyBIb3N0PC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gMTI8L2k+PC9hPjxiciAvPlRoZSBHTeKAmXMgcHJpbWFyeSBqb2IgaXMgdG8gcnVuIHRoZSBnYW1lLCBidXQgdGhlcmXigJlzIG1vcmUgdG8gdGhhdCB0YXNrIHRoYW4ganVzdCByb2xsaW5nIGRpY2UgYW5kIG9yY2hlc3RyYXRpbmcgaW5nYW1lIGNoYWxsZW5nZXMuIEFzIHRoZSBncm91cCBtZW1iZXIgbW9zdCByZXNwb25zaWJsZSBmb3IgdGhlIGdhbWXigJlzIHN1Y2Nlc3MsIHRoZSBHTSBpcyBhbHNvIHRoZSBkZSBmYWN0byBob3N0IGZvciBlYWNoIHNlc3Npb24sIGluIGNoYXJnZSBvZiBoYW5kbGluZyBvciBkZWxlZ2F0aW5nIHRoZSBsb2dpc3RpY3MgYmVoaW5kIHRoZSBmdW4uPGJyIC8+PGJyIC8+IFRoZSBzb2NpYWwgc2lkZSBvZiBhIHNlc3Npb24gaXMgYXQgbGVhc3QgYXMgaW1wb3J0YW50IGFzIHRoZSBxdWFsaXR5IG9mIHRoZSBnYW1lIGl0c2VsZi4gQWR1bHQgZ2FtZXJzIG1pZ2h0IHJhcmVseSBnZXQgdGltZSB0byBzb2NpYWxpemUsIGdpdmVuIHRoZSBwcmVzc3VyZXMgb2Ygam9icywgZmFtaWxpZXMsIGFuZCBob21lcywgc28gZ2FtZSBuaWdodCBiZWNvbWVzIGEgd2VsY29tZSBjaGFuY2UgdG8gc3BlbmQgdGltZSB3aXRoIGZyaWVuZHMsIG5vIGRpZmZlcmVudCB0aGFuIGEgbmlnaHQgb2YgYm9hcmQgZ2FtZXMsIG1vdmllcywgb3IgcG9rZXIuIEFuZCBsaWtlIGFueSBwYXJ0eSwgdGhlcmXigJlzIHdvcmsgdG8gYmUgZG9uZSBib3RoIGJlZm9yZSBhbmQgYWZ0ZXIuPGJyIC8+PGJyIC8+IFNvbWUgb2YgdGhlIGZvbGxvd2luZyBpc3N1ZXMgY2FuIGJlIGRlbGVnYXRlZCB0byBhIHdpbGxpbmcgcGxheWVyLCBidXQgdWx0aW1hdGVseSwgYWxsIG9mIHRoZW0gYXJlIHRoZSBHTeKAmXMgcmVzcG9uc2liaWxpdHkuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD00NjUiPk51bWJlciBvZiBQbGF5ZXJzPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gMTI8L2k+PC9hPjxiciAvPkJlZm9yZSBhIGdhbWUgZXZlciBiZWdpbnMgaXTigJlzIHVwIHRvIHRoZSBHTSB0byBkZWNpZGUgaG93IG1hbnkgcGxheWVycyB0byBpbnZpdGUgdG8gcGxheS4gV2hpbGUgdGhlcmUgaXMgbm8gZiBpcm0gbWluaW11bSBvciBtYXhpbXVtIGxpbWl0IHRvIGhvdyBtYW55IHBsYXllcnMgYSBnYW1lIGNhbiBhY2NvbW1vZGF0ZSwgdGhpcyBjaG9pY2UgaXMgbGFyZ2VseSBhIG1hdHRlciBvZiBob3cgbWFueSBwbGF5ZXJzIHRoZSBHTSBleHBlY3RzIGhlIGNhbiBjb21mb3J0YWJseSBtYW5hZ2UgYW5kIHdoYXQgbGltaXRhdGlvbnMgYSBnYW1l4oCZcyBleHBlY3RlZCBwbGF5IHNwYWNlIHByZXNlbnQuIEFsdGhvdWdoIG1vc3QgcHVibGlzaGVkIGFkdmVudHVyZXMgcHJlc2VudCBjaGFsbGVuZ2VzIGZvciBwYXJ0aWVzIHdpdGggZm91ciBjaGFyYWN0ZXJzLCBhbnkgZW5jb3VudGVyIGNhbiBlYXNpbHkgYmUgY3VzdG9taXplZCB0byBzdWl0IHRoZSBuZWVkcyBvZiBhbnkgc2l6ZSBncm91cC48YnIgLz48aDIgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTQ2NiI+U21hbGwgR3JvdXBzPC9hPjwvaDI+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gMTI8L2k+PC9hPjxiciAvPkdyb3VwcyBvZiB0d28gb3IgdGhyZWUgY2FuIGFsbG93IGZvciBtb3JlIGludGVuc2Ugcm9sZXBsYXlpbmcsIGJ1dCB0aGV5IHJlcXVpcmUgeW91IHRvIGNhcmVmdWxseSBjcmFmdCB5b3VyIGNoYWxsZW5nZXMgdG8gYmUgYXBwcm9wcmlhdGUgZm9yIGZld2VyIHBsYXllcnMuIFlvdeKAmWxsIGFsc28gbmVlZCB0byBjb21wZW5zYXRlIGZvciBhbnkgbWFqb3IgYWJpbGl0aWVzIHRoYXQgbWF5IGJlIG1pc3NpbmcgZnJvbSB0aGUgcGFydHkuPGJyIC8+PGJyIC8+IEEgc2ltcGxlIHdheSB0byBhY2NvbXBsaXNoIHRoZSBsYXR0ZXIgaXMgdG8gZWxpbWluYXRlIHRoZSBuZWVkIGZvciB0aG9zZSBhYmlsaXRpZXMuIEZvciBleGFtcGxlLCBpZiB0aGUgcGFydHkgbGFja3MgYSByb2d1ZSwgeW91IG1heSB3aXNoIHRvIHJlbW92ZSB0cmFwcyBhbmQgbG9ja3MgZnJvbSB0aGUgcGFydHnigJlzIHBhdGguIEFub3RoZXIgbWV0aG9kIGlzIHRvIGludHJvZHVjZSBhbiBOUEMgd2hvIGhhcyB0aGUgbmVlZGVkIGFiaWxpdGllc+KAlGp1c3Qgc28gbG9uZyBhcyB0aGF0IE5QQyBkb2VzbuKAmXQgc3RlYWwgdGhlIHNwb3RsaWdodC4gQWx0ZXJuYXRpdmVseSwgeW91IGNhbiBnaXZlIHRoZSBjaGFyYWN0ZXJzIG1hZ2ljIGl0ZW1zIHRoYXQgcGVyZm9ybSB0aGUgbmVjZXNzYXJ5IGZ1bmN0aW9uLCBzdWNoIGFzIGhlYWxpbmcgcG90aW9ucyBhbmQgd2FuZHMgZm9yIHRoZSBwYXJ0eSB3aXRob3V0IGEgaGVhbGVyLiBMYXN0IGJ1dCBub3QgbGVhc3QsIGlmIHRoZSBwbGF5ZXJzIGFyZSBleHBlcmllbmNlZCBlbm91Z2ggdG8gaGFuZGxlIGl0LCB5b3UgbWlnaHQgZW5qb3kgbGV0dGluZyBlYWNoIHBsYXllciBwbGF5IHR3byBjaGFyYWN0ZXJzIHRvIHJvdW5kIG91dCB0aGUgZ3JvdXAuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD00NjgiPkZpbmRpbmcgUGxheWVyczwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDEyPC9pPjwvYT48YnIgLz5PbmNlIHlvdSBrbm93IGhvdyBtYW55IHBsYXllcnMgeW914oCZZCBsaWtlIHRvIGhhdmUsIGl04oCZcyB0aW1lIHRvIG9yZ2FuaXplIGEgZ3JvdXAuIFN0YXJ0IGJ5IHRhbGtpbmcgdG8gZnJpZW5kcyBhbmQgZmFtaWx5IG1lbWJlcnMgeW914oCZZCBsaWtlIHRvIGluY2x1ZGUuIE1peGluZyBhZ2VzIGlzIGZpbmUgc28gbG9uZyBhcyB0aGVyZSBhcmUgZW5vdWdoIGNvbW1vbiBpbnRlcmVzdHMuPGJyIC8+PGJyIC8+IElmIHRoZXJl4oCZcyBzdGlsbCByb29tIGF0IHlvdXIgZ2FtZSB0YWJsZSwgeW91IGNhbiBjb25zaWRlciBwZW9wbGUgeW91IGRvbuKAmXQgeWV0IGtub3cgb3Iga25vdyBvbmx5IHRhbmdlbnRpYWxseS4gQ293b3JrZXJzIGFuZCBmcmllbmRzIG9mIGZyaWVuZHMgYXJlIHVzdWFsbHkgdGhlIGZpcnN0IHRvIGJlIGluY2x1ZGVkIGluIHRoaXMgc2V0LCBlc3BlY2lhbGx5IGlmIHlvdXIgcGxheWVycyBoYXZlIHN1bmcgdGhlIHByYWlzZXMgb2YgeW91ciBnYW1lIHRvIG90aGVyIHBlb3BsZS48YnIgLz48YnIgLz4gT3V0c2lkZSBvZiBzdWNoIHBlcnNvbmFsIGNvbnRhY3RzLCB0aGVyZSBhcmUgYSBudW1iZXIgb2Ygb3RoZXIgd2F5cyB0byBmaW5kIHBsYXllcnMuIFRyeSBjb250YWN0aW5nIGEgbG9jYWwgZ2FtZSBzdG9yZSBhYm91dCBwdXR0aW5nIHVwIGEgZmxpZXIgd2l0aCB5b3VyIGNvbnRhY3QgaW5mb3JtYXRpb24sIG9yIHNlZSBpZiB0aGVyZeKAmXMgYSBnYW1pbmcgY2x1YiBhdCB5b3VyIHNjaG9vbCBvciB0aGUgbG9jYWwgY29sbGVnZS4gVGhlIEludGVybmV0IG9mZmVycyBpbnN0YW50IGFjY2VzcyB0byB0aG91c2FuZHMgb2YgZ2FtZXJzIHZpYSBmcmVlIGNsYXNzaWZpZWQgYWRzIG9yIG1lc3NhZ2UgYm9hcmRzLCBhbmQgdGhlcmUgYXJlIHNldmVyYWwgd2Vic2l0ZXMgc3BlY2lmaWNhbGx5IGRldm90ZWQgdG8gaGVscGluZyBsb2NhbCBnYW1lcnMgY29ubmVjdCwgc3VjaCBhcyB0aGUgPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9jb21tdW5pdHkvZm9ydW1zL2dhbWVyTGlmZS9nYW1pbmcvY29ubmVjdGlvbiI+R2FtZXIgQ29ubmVjdGlvbiBmb3J1bSBvbiA8Yj5wYWl6by5jb208L2I+PC9hPi4gKE9mIGNvdXJzZSwgc2FmZXR5IGFsd2F5cyBjb21lcyBmaXJzdOKAlHlvdSBzaG91bGQgbWVldCBzdHJhbmdlcnMgaW4gcHVibGljIHBsYWNlcyB3aXRoIHBsZW50eSBvZiBwZW9wbGUgYXJvdW5kIGFuZCBzaG91bGQgbmV2ZXIgZ2l2ZSBvdXQgbW9yZSBwZXJzb25hbCBpbmZvcm1hdGlvbiB0aGFuIGFuIGVtYWlsIGFkZHJlc3MgdW50aWwgeW91IHRydXN0IHNvbWVvbmUuKTxiciAvPjxiciAvPiBMYXN0IGJ1dCBub3QgbGVhc3QsIHdoZW4gaW4gZG91YnQsIGdvIHdoZXJlIHRoZSBnYW1lcnMgYXJlLiBBdHRlbmQgYSBsb2NhbCBnYW1lIGNvbnZlbnRpb24sIHNjaWVuY2UgZmljdGlvbiBtb3ZpZSBvcGVuaW5nLCBvciBvdGhlciBldmVudCB0aGF0IG1pZ2h0IGJlIG9mIGludGVyZXN0IHRvIGdhbWVycy4gVGFsayB0byBwZW9wbGUgdGhlcmUsIGFuZCBpZiB5b3UgZmluZCBhIGdhbWVyIHdobyBsaXZlcyBuZWFyYnksIG1lbnRpb24gdGhhdCB5b3XigJlyZSBsb29raW5nIGZvciBwbGF5ZXJzIGFuZCBwcm92aWRlIGNvbnRhY3QgaW5mb3JtYXRpb24uPGJyIC8+PGJyIC8+IElmIHlvdSBkb27igJl0IHdhbnQgdG8gZG8gdGhlIHJlY3J1aXRpbmcgeW91cnNlbGYsIHlvdSBjYW4gYWxsb3cgb25lIG9yIG1vcmUgcGxheWVycyB0byBoYW5kbGUgaXQsIGJ1dCBpdOKAmXMgYSBnb29kIGlkZWEgdG8gYXNrIHRoYXQgdGhleSBydW4gYW55IHBvdGVudGlhbCBuZXcgcGxheWVycyBwYXN0IHlvdeKAlG9yIGV2ZW4gdGhlIHdob2xlIGdyb3Vw4oCUZm9yIGFwcHJvdmFsIGJlZm9yZSBpbnZpdGluZyB0aGVtIHRvIGEgc2Vzc2lvbi48YnIgLz48YnIgLz4gQSB3b3JkIG9mIHdhcm5pbmc6IEFzIHdpdGggYW55IHBhcnR5LCBpdOKAmXMgaW1wb3J0YW50IHRvIG1ha2Ugc3VyZSB0aGF0IGV2ZXJ5b25lIHlvdSBpbnZpdGUgdG8geW91ciBnYW1lIGdldHMgYWxvbmcgd2l0aCB0aGUgcmVzdC4gV2hpbGUgeW91IGNhbuKAmXQgcHJlZGljdCBldmVyeSBjb25mbGljdCwgeW91IGNhbiBkbyB5b3VyIGJlc3QgdG8gYXZvaWQgb2J2aW91cyBwcm9ibGVtc+KAlHRoaXMgbWlnaHQgYmUgYSBwbGF5ZXIgd2hvc2Ugc3R5bGUgZG9lc27igJl0IG1hdGNoIHRoZSByZXN0IG9mIHRoZSBncm91cCAoc2VlIFByb2JsZW0gUGxheWVycyBpbiBDaGFwdGVyIFRocmVlKSwgb3IgYSBwbGF5ZXIgd2l0aCBhIG1vcmUgb2J2aW91cyBjb25mbGljdCwgc3VjaCBhcyBhIGN1cnJlbnQgcGxheWVy4oCZcyBleC1zcG91c2UuIEEgbG90IG9mIGdhbWluZyBncm91cHMgZmFsbCBhcGFydCBiZWNhdXNlIG9mIGludGVycGxheWVyIGNvbmZsaWN0LiBBcyBhIHJlc3VsdCwgd2hlbiB0YWtpbmcgYSBjaGFuY2Ugb24gYSBuZXcgcGxheWVyLCBpdOKAmXMgZ2VuZXJhbGx5IGJlc3QgdG8gaXNzdWUgYSBsaW1pdGVkIGludml0YXRpb24sIHN1Y2ggYXMgZm9yIGEgc2luZ2xlIGFkdmVudHVyZSwgYW5kIHRoZW4gZGVjaWRlIGZyb20gdGhlcmUuIERvbuKAmXQgbGV0IGEgcGFydHkgbWVtYmVyIHdob+KAmXMgZnJpZW5kcyB3aXRoIGEgcG90ZW50aWFsIHBsYXllcuKAlG9yIHdvcnNlLCB0aGUgcG90ZW50aWFsIHBsYXllciBoaW1zZWxm4oCUcHJlc3N1cmUgeW91IGludG8gaW52aXRpbmcgaGltIGJhY2sgaWYgaGUgaXNu4oCZdCByaWdodCBmb3IgeW91ciBnYW1lLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDY5Ij5XaGVyZSB0byBQbGF5PC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gMTM8L2k+PC9hPjxiciAvPlRoZSBvcHRpbXVtIGdhbWluZyBzcGFjZSBoYXMgdGhlIGZvbGxvd2luZyBmZWF0dXJlcy4gPHVsPjxsaT5BIGxvdy10cmFmZmljIHJvb20sIHdoZXJlIHRoZSBnYW1lIHdvbuKAmXQgYmUgZGlzdHVyYmVkIGJ5IG5vbnBsYXllcnMgb3Igbm9pc2UgZnJvbSBvdGhlciBhcmVhcy4gPC9saT48bGk+QSBjb21mb3J0YWJsZSBwbGFjZSBmb3IgZXZlcnlvbmUgdG8gc2l0LCB3aXRoIGEgZ29vZCB2aWV3IG9mIHRoZSBnYW1pbmcgc3VyZmFjZSwgcGx1cyBzcGFjZSBmb3Igcm9sbGluZyBkaWNlIGFuZCB3cml0aW5nIG5vdGVzLiA8L2xpPjxsaT5BIGxhcmdlLCBmbGF0IHBsYXlpbmcgc3VyZmFjZSB3aXRoIHJvb20gZm9yIGEgYmF0dGxlbWF0IGFuZCBtaW5pYXR1cmVzLiA8L2xpPjxsaT5FeHRyYSBzcGFjZSBmb3IgcnVsZWJvb2tzLCBtYXBzLCBub3RlcywgYW5kIG90aGVyIGVzc2VudGlhbHMuIDwvbGk+PGxpPkJvb2tzaGVsdmVzIHRvIGhvbGQgcmVmZXJlbmNlIG1hdGVyaWFscy4gPC9saT48bGk+RWFzeSBhY2Nlc3MgdG8gc25hY2tzLCBiZXZlcmFnZXMsIGFuZCBhIGJhdGhyb29tLjwvbGk+PC91bD48YnIgLz48aDIgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTQ3MCI+VGhlIEJ1aWxkaW5nPC9hPjwvaDI+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gMTM8L2k+PC9hPjxiciAvPkl04oCZcyBvZnRlbiBtb3N0IGNvbnZlbmllbnQgZm9yIHlvdSBhcyBHTSB0byBwbGF5IGluIHlvdXIgb3duIGhvdXNlLCBzaW5jZSBhbGwgeW91ciBnYW1pbmcgc3R1ZmYgaXMgYWxyZWFkeSB0aGVyZS4gUGxheWVycyB1c3VhbGx5IGhhdmUgZmV3ZXIgYm9va3MgYW5kIHRlbmQgdG8gZGVwZW5kIG9uIEdNIGNvcGllcyBmb3IgcmVmZXJlbmNlIGR1cmluZyBnYW1lcy4gSWYgeW91IGFuZCB5b3VyIHBsYXllcnMgdXNlIGEgZ3JlYXQgbWFueSBib29rcyBhbmQgc3VwcGxlbWVudHMsIGl04oCZcyBoYXJkIHRvIGx1ZyB0aGVtIGFsbCB0byBzb21lb25lIGVsc2XigJlzIGhvdXNl4oCUYW5kIGlmIHlvdSB0YWtlIG9ubHkgYSBmZXcsIHlvdeKAmWxsIGFsbW9zdCBjZXJ0YWlubHkgZm9yZ2V0IG9uZSB0aGF0IHNvbWVvbmUgd2FudHMuIFlldCBzZXR0aW5nIHVwIHNob3AgYXQgd2hpY2hldmVyIG1lbWJlcuKAmXMgaG91c2UgaXMgYmVzdCBzdWl0ZWQgZm9yIGl0IHdvcmtzIGFzIHdlbGwsIGVzcGVjaWFsbHkgaWYgdGhlcmXigJlzIHJvb20gdG8gc3RvcmUgZ2FtaW5nIG1hdGVyaWFscyBiZXR3ZWVuIGdhbWVzLjxiciAvPjxiciAvPiBTb21lIGdyb3VwcyBzdWNjZXNzZnVsbHkgcm90YXRlIGhvdXNlcywgYW5kIHRoZXJl4oCZcyBhIGxvdCBvZiBtZXJpdCBpbiBzdWNoIGFuIGFycmFuZ2VtZW504oCUbm8gb25lIGlzIGFsd2F5cyBzdHVjayB3aXRoIGNsZWFuaW5nIHVwIHRoZSBpbmV2aXRhYmxlIHBvc3QtZ2FtZSBtZXNzLCBhbmQgdGhlIGRpc3J1cHRpb24gdG8gYW55IHNpbmdsZSBob3VzZWhvbGTigJlzIHJvdXRpbmUgaXMgbWluaW1hbC4gRnVydGhlcm1vcmUsIHlvdSBjYW4gZGVsZWdhdGUgc29tZSBvZiB0aGUgaG9zdGluZyBkdXRpZXMgdG8gdGhlIHBsYXllciB3aG8gbGl2ZXMgdGhlcmXigJRwYXJ0aWN1bGFybHkgdGhlIHNuYWNrcywgYmV2ZXJhZ2VzLCBhbmQgcGh5c2ljYWwgY29tZm9ydHMuIFRoZSBrZXkgdG8gbWFraW5nIHN1Y2ggYW4gYXJyYW5nZW1lbnQgd29yayBpcyB0byBlaXRoZXIgZW5zdXJlIHRoYXQgYWxsIHRoZSBob3VzZWhvbGRzIGhhdmUgcmVhZHkgYWNjZXNzIHRvIHRoZSBuZWVkZWQgbWF0ZXJpYWxzLCBvciBlbHNlIGRlbGVnYXRlIHBsYXllcnMgdG8gYnJpbmcgdGhlbSBlYWNoIHRpbWUuPGJyIC8+PGJyIC8+IFNvbWUgZ3JvdXBzIHBsYXkgaW4gdGhlIGxvY2FsIGdhbWUgc2hvcCwgZWl0aGVyIG91dCBpbiB0aGUgb3BlbiBvciBpbiBhIGJhY2sgcm9vbS4gSWYgdGhlIHNob3AgY2F0ZXJzIHRvIHJvbGVwbGF5ZXJzLCB0aGUgb3duZXJzIG1pZ2h0IGNvbnNpZGVyIGl0IGdvb2QgYnVzaW5lc3MgdG8gaGF2ZSBhIHJlZ3VsYXIgY2FtcGFpZ24gcnVubmluZyB3aGVyZSBjdXN0b21lcnMgY2FuIHNlZSBpdC4gVGhpcyBhcnJhbmdlbWVudCByZXF1aXJlcyBzb21lIHBhdGllbmNlIG9uIHRoZSBwYXJ0IG9mIGV2ZXJ5b25lIGF0IHRoZSB0YWJsZSwgc2luY2UgdGhlIHBhcnR5IHdpbGwgbGlrZWx5IGJlIGV4cGVjdGVkIHRvIGdyZWV0IHdhdGNoZXJzIHBsZWFzYW50bHkgYW5kIGFuc3dlciB0aGVpciBxdWVzdGlvbnMgZHVyaW5nIHRoZSBnYW1lLiBJdCBhbHNvIHJlcXVpcmVzIGtlZXBpbmcgdGhlIGdhbWUgZmFtaWx5LWZyaWVuZGx5LCBhcyBwYXJlbnRzIHdpdGggY2hpbGRyZW4gbWF5IGJlIHdhdGNoaW5nLiBJZiB5b3XigJl2ZSBiZWVuIGxvb2tpbmcgZm9yIG1vcmUgcGxheWVycywgYSBwdWJsaWMgZ2FtZSBjYW4gYmUgYSBncmVhdCByZWNydWl0aW5nIHRvb2wuIElmIHlvdXIgZ2FtZSBpcyBjbG9zZWQsIHRoZSBiYWNrIHJvb20gb2YgdGhlIGdhbWUgc3RvcmUgbWF5IGJlIGEgYmV0dGVyIGJldC48YnIgLz48YnIgLz4gSW4gbmljZSB3ZWF0aGVyLCBwbGF5aW5nIG91dHNpZGUgaW4gYSBiYXJuIG9yIGdhemVibywgb3IgZXZlbiBhdCBhIHBpY25pYyB0YWJsZSBvciBvbiB0aGUgZ3Jhc3MgY2FuIGJlIGZ1biB0b2/igJRqdXN0IGJlIHN1cmUgdG8gd2VpZ2h0IGRvd24gY2hhcmFjdGVyIHNoZWV0cyBhbmQgbm90ZXMgc28geW91IGRvbuKAmXQgaGF2ZSB0byBjaGFzZSB0aGVtIHdoZW4gdGhlIHdpbmQgcGlja3MgdXAuPGJyIC8+PGgyIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD00NzEiPlRoZSBSb29tPC9hPjwvaDI+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gMTM8L2k+PC9hPjxiciAvPlRoZSB0cmFkaXRpb25hbCBnYW1pbmcgc3BhY2UgaXMgYSB0YWJsZSBiaWcgZW5vdWdoIHRvIHNlYXQgYWxsIHRoZSBwbGF5ZXJzIGFuZCB0aGUgR00sIGJ1dCB0aGF04oCZcyBub3Qgc3RyaWN0bHkgbmVjZXNzYXJ5LiBUaGUgZGlubmVyIHRhYmxlIGlzIG9mdGVuIHRoZSBzdXJmYWNlIG9mIGNob2ljZSBiZWNhdXNlIGl0IHByb3ZpZGVzIGVub3VnaCBzcGFjZSBmb3IgYSBiYXR0bGVtYXQgYW5kIG1pbmlzLCBwbHVzIHBsZW50eSBvZiBzZWF0aW5nLiBIb3dldmVyLCB0aGUgZGluaW5nIHJvb20gdGVuZHMgdG8gYmUgYSBjZW50cmFsLCBoaWdoLXRyYWZmaWMgc3BhY2UgaW4gYSBob3VzZSwgYW5kIGl0IHVzdWFsbHkgaXNu4oCZdCB3aGVyZSBhIGdhbWUgbGlicmFyeSBpcyBrZXB0LiBBIHNtYWxsIHJvb20gd2hlcmUgZXZlcnlvbmUgY2FuIGVhc2lseSBzZWUgYW5kIGhlYXIgZXZlcnlvbmUgZWxzZSwgd2l0aCBhIGJpdCBvZiBmbG9vciBzcGFjZSBmb3IgYSBtYXAgYW5kIG1pbmlzLCBjYW4gd29yayBqdXN0IGFzIHdlbGwuIElmIHlvdSBzaGFyZSB5b3VyIGFib2RlIHdpdGggb3RoZXIgcGVvcGxlLCBtYWtlIHN1cmUgdGhhdCB5b3VyIHByZXNlbmNlIHdvbuKAmXQgZGlzdHVyYiB0aGUgcmVzdCBvZiB0aGUgaG91c2Vob2xkIGFuZCB0aGF0IGl0cyByZWd1bGFyIGFjdGl2aXRpZXMgd29u4oCZdCBkaXN0dXJiIHlvdS48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTQ3MiI+V2hlbiB0byBQbGF5PC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gMTM8L2k+PC9hPjxiciAvPlNvbWV0aW1lcyBnYW1lcyBhcmVu4oCZdCBoYXJkIHRvIHNjaGVkdWxlLiBJZiB5b3UgYW5kIHlvdXIgcGxheWVycyBhbGwgbGl2ZSBuZWFyIGVhY2ggb3RoZXIgaW4gY29sbGVnZSBkb3JtcywgeW91IG1pZ2h0IGhhdmUgbm8gdHJvdWJsZSBnZXR0aW5nIGEgZ2FtZSB0b2dldGhlciBldmVyeSBuaWdodC4gQnV0IGlmIHlvdSBvciB5b3VyIHBsYXllcnMgaGF2ZSBvdGhlciByZXNwb25zaWJpbGl0aWVzLCBzY2hlZHVsaW5nIGNhbiBiZWNvbWUgYSBtYWpvciBoZWFkYWNoZS48YnIgLz48YnIgLz4gT25lIG9mIHRoZSBlYXNpZXN0IHdheXMgaXMgdG8gaGF2ZSBhIHJlZ3VsYXIgc2NoZWR1bGUuIFNvbWUgY2FtcGFpZ25zIGFyZSBwbGF5ZWQgd2Vla2x5LCBvdGhlcnMgYml3ZWVrbHksIGFuZCBzdGlsbCBvdGhlcnMgbW9udGhseS4gTW9yZSBmcmVxdWVudCBnYW1lcyBhcmUgcmFyZSBhbmQgdXN1YWxseSB1bnN1c3RhaW5hYmxlLCBhcyBhcmUgZ2FtZXMgd2l0aCBtb3JlIHRoYW4gYSBtb250aCBiZXR3ZWVuIHRoZW0sIHNpbmNlIHBsYXllcnMgdGVuZCB0byBmb3JnZXQgd2hhdOKAmXMgZ29pbmcgb24gYWZ0ZXIgYSB3aGlsZS4gQSB3ZWVrbHkgZ2FtZSBpcyBvcHRpbWFsIGZvciBtYW55IHBlb3BsZSBzaW5jZSBpdOKAmXMgZWFzeSB0byByZW1lbWJlci4gV2Vla2VuZHMgdGVuZCB0byBiZSBiZXR0ZXIgZm9yIHdvcmtpbmcgcGVvcGxlLCBidXQgY29uc3RhbnQgd2Vla2VuZCBhdmFpbGFiaWxpdHkgaXMgcHJvYmFibHkgaW1wb3NzaWJsZSBmb3IgYW55IG9uZSBwZXJzb24uIFdlZWtkYXlzIGFmdGVyIHNjaG9vbCBtYXkgd29yayBmb3IgcGFyZW50cyBhbmQgc3R1ZGVudHMsIGJ1dCBjaG9vc2luZyBhIGRheSBjYW4gYmUgdHJpY2t5LCBzaW5jZSBzcG9ydHMgYW5kIGNsdWIgbWVldGluZ3MgbWF5IGludGVyZmVyZSBmb3IgbG9uZyBwZXJpb2RzLjxiciAvPjxiciAvPiBJZiB5b3UgZG8gZGVjaWRlIHRvIGdvIGZvciBiaXdlZWtseSBvciBtb250aGx5IGdhbWVzLCB5b3UgbWF5IHdhbnQgdG8gbWFrZSB0aGUgc2Vzc2lvbnMgbG9uZ2VyLiBUcnkgc2NoZWR1bGluZyBhbiBlbnRpcmUgZGF5IGZvciBhIG1vbnRobHkgZ2FtZeKAlG9yIGV2ZW4gYSB3ZWVrZW5kLCBpZiB5b3VyIGhvdXNlaG9sZCBpcyB1cCB0byBvdmVybmlnaHQgZ3Vlc3RzLiBGb3IgYSBnYW1lIHdpdGggbG93IG1lZXRpbmcgZnJlcXVlbmN5LCBiZSBzdXJlIHRvIHJlbWluZCBldmVyeW9uZSB3aGVuIHRoZSBuZXh0IHNlc3Npb24gaXMgY29taW5nIHVwLiBZb3XigJlsbCBhbHNvIG5lZWQgdG8gcHJlcGFyZSBhIGdvb2QgcmVjYXAgb2Ygd2hhdCBoYXBwZW5lZCBpbiB0aGUgcHJldmlvdXMgYWR2ZW50dXJlIHNvIHRoZSBwbGF5ZXJzIGtub3cgd2hlcmUgdGhlIGNoYXJhY3RlcnMgd2VyZSB3aGVuIHlvdSBsZWZ0IG9mZi48YnIgLz48YnIgLz4gSWYgeW91IG9wdCBmb3IgYW4gaXJyZWd1bGFyIHNjaGVkdWxlLCB5b3XigJlsbCBuZWVkIHRvIHNjaGVkdWxlIGV2ZXJ5IHNlc3Npb24sIHdoaWNoIGNhbiBiZSBtb3JlIGRpZmZpY3VsdCwgYXMgcGxheWVycyBkb27igJl0IGhhdmUgdGhlIG9wdGlvbiBvZiBhbHdheXMgbGVhdmluZyBjZXJ0YWluIGRheXMgb3Blbi4gU2NoZWR1bGluZyBhbiBpcnJlZ3VsYXIgZ2FtZSBjYW4gaGFwcGVuIGF0IHRoZSBlbmQgb2YgZWFjaCBzZXNzaW9uIG9yIHZpYSBncm91cCBlbWFpbHMgYW5kIHBob25lIGNhbGxzLmRkZK+2cGp3SugybR9LPhgspND0k+dwurBRe0KwVZY3l4o6" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=454">GameMastery Guide</a></u> / <u><a href="Rules.aspx?ID=455">Getting Started</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=464">The GM as Host</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 12</i></a><br />The GM’s primary job is to run the game, but there’s more to that task than just rolling dice and orchestrating ingame challenges. As the group member most responsible for the game’s success, the GM is also the de facto host for each session, in charge of handling or delegating the logistics behind the fun.<br /><br /> The social side of a session is at least as important as the quality of the game itself. Adult gamers might rarely get time to socialize, given the pressures of jobs, families, and homes, so game night becomes a welcome chance to spend time with friends, no different than a night of board games, movies, or poker. And like any party, there’s work to be done both before and after.<br /><br /> Some of the following issues can be delegated to a willing player, but ultimately, all of them are the GM’s responsibility.<br /><h1 class="title"><a href="Rules.aspx?ID=465">Number of Players</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 12</i></a><br />Before a game ever begins it’s up to the GM to decide how many players to invite to play. While there is no f irm minimum or maximum limit to how many players a game can accommodate, this choice is largely a matter of how many players the GM expects he can comfortably manage and what limitations a game’s expected play space present. Although most published adventures present challenges for parties with four characters, any encounter can easily be customized to suit the needs of any size group.<br /><h2 class="title"><a href="Rules.aspx?ID=466">Small Groups</a></h2><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 12</i></a><br />Groups of two or three can allow for more intense roleplaying, but they require you to carefully craft your challenges to be appropriate for fewer players. You’ll also need to compensate for any major abilities that may be missing from the party.<br /><br /> A simple way to accomplish the latter is to eliminate the need for those abilities. For example, if the party lacks a rogue, you may wish to remove traps and locks from the party’s path. Another method is to introduce an NPC who has the needed abilities—just so long as that NPC doesn’t steal the spotlight. Alternatively, you can give the characters magic items that perform the necessary function, such as healing potions and wands for the party without a healer. Last but not least, if the players are experienced enough to handle it, you might enjoy letting each player play two characters to round out the group.<br /><h1 class="title"><a href="Rules.aspx?ID=468">Finding Players</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 12</i></a><br />Once you know how many players you’d like to have, it’s time to organize a group. Start by talking to friends and family members you’d like to include. Mixing ages is fine so long as there are enough common interests.<br /><br /> If there’s still room at your game table, you can consider people you don’t yet know or know only tangentially. Coworkers and friends of friends are usually the first to be included in this set, especially if your players have sung the praises of your game to other people.<br /><br /> Outside of such personal contacts, there are a number of other ways to find players. Try contacting a local game store about putting up a flier with your contact information, or see if there’s a gaming club at your school or the local college. The Internet offers instant access to thousands of gamers via free classified ads or message boards, and there are several websites specifically devoted to helping local gamers connect, such as the <a href="http://paizo.com/community/forums/gamerLife/gaming/connection">Gamer Connection forum on <b>paizo.com</b></a>. (Of course, safety always comes first—you should meet strangers in public places with plenty of people around and should never give out more personal information than an email address until you trust someone.)<br /><br /> Last but not least, when in doubt, go where the gamers are. Attend a local game convention, science fiction movie opening, or other event that might be of interest to gamers. Talk to people there, and if you find a gamer who lives nearby, mention that you’re looking for players and provide contact information.<br /><br /> If you don’t want to do the recruiting yourself, you can allow one or more players to handle it, but it’s a good idea to ask that they run any potential new players past you—or even the whole group—for approval before inviting them to a session.<br /><br /> A word of warning: As with any party, it’s important to make sure that everyone you invite to your game gets along with the rest. While you can’t predict every conflict, you can do your best to avoid obvious problems—this might be a player whose style doesn’t match the rest of the group (see Problem Players in Chapter Three), or a player with a more obvious conflict, such as a current player’s ex-spouse. A lot of gaming groups fall apart because of interplayer conflict. As a result, when taking a chance on a new player, it’s generally best to issue a limited invitation, such as for a single adventure, and then decide from there. Don’t let a party member who’s friends with a potential player—or worse, the potential player himself—pressure you into inviting him back if he isn’t right for your game.<br /><h1 class="title"><a href="Rules.aspx?ID=469">Where to Play</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 13</i></a><br />The optimum gaming space has the following features. <ul><li>A low-traffic room, where the game won’t be disturbed by nonplayers or noise from other areas. </li><li>A comfortable place for everyone to sit, with a good view of the gaming surface, plus space for rolling dice and writing notes. </li><li>A large, flat playing surface with room for a battlemat and miniatures. </li><li>Extra space for rulebooks, maps, notes, and other essentials. </li><li>Bookshelves to hold reference materials. </li><li>Easy access to snacks, beverages, and a bathroom.</li></ul><br /><h2 class="title"><a href="Rules.aspx?ID=470">The Building</a></h2><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 13</i></a><br />It’s often most convenient for you as GM to play in your own house, since all your gaming stuff is already there. Players usually have fewer books and tend to depend on GM copies for reference during games. If you and your players use a great many books and supplements, it’s hard to lug them all to someone else’s house—and if you take only a few, you’ll almost certainly forget one that someone wants. Yet setting up shop at whichever member’s house is best suited for it works as well, especially if there’s room to store gaming materials between games.<br /><br /> Some groups successfully rotate houses, and there’s a lot of merit in such an arrangement—no one is always stuck with cleaning up the inevitable post-game mess, and the disruption to any single household’s routine is minimal. Furthermore, you can delegate some of the hosting duties to the player who lives there—particularly the snacks, beverages, and physical comforts. The key to making such an arrangement work is to either ensure that all the households have ready access to the needed materials, or else delegate players to bring them each time.<br /><br /> Some groups play in the local game shop, either out in the open or in a back room. If the shop caters to roleplayers, the owners might consider it good business to have a regular campaign running where customers can see it. This arrangement requires some patience on the part of everyone at the table, since the party will likely be expected to greet watchers pleasantly and answer their questions during the game. It also requires keeping the game family-friendly, as parents with children may be watching. If you’ve been looking for more players, a public game can be a great recruiting tool. If your game is closed, the back room of the game store may be a better bet.<br /><br /> In nice weather, playing outside in a barn or gazebo, or even at a picnic table or on the grass can be fun too—just be sure to weight down character sheets and notes so you don’t have to chase them when the wind picks up.<br /><h2 class="title"><a href="Rules.aspx?ID=471">The Room</a></h2><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 13</i></a><br />The traditional gaming space is a table big enough to seat all the players and the GM, but that’s not strictly necessary. The dinner table is often the surface of choice because it provides enough space for a battlemat and minis, plus plenty of seating. However, the dining room tends to be a central, high-traffic space in a house, and it usually isn’t where a game library is kept. A small room where everyone can easily see and hear everyone else, with a bit of floor space for a map and minis, can work just as well. If you share your abode with other people, make sure that your presence won’t disturb the rest of the household and that its regular activities won’t disturb you.<br /><h1 class="title"><a href="Rules.aspx?ID=472">When to Play</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 13</i></a><br />Sometimes games aren’t hard to schedule. If you and your players all live near each other in college dorms, you might have no trouble getting a game together every night. But if you or your players have other responsibilities, scheduling can become a major headache.<br /><br /> One of the easiest ways is to have a regular schedule. Some campaigns are played weekly, others biweekly, and still others monthly. More frequent games are rare and usually unsustainable, as are games with more than a month between them, since players tend to forget what’s going on after a while. A weekly game is optimal for many people since it’s easy to remember. Weekends tend to be better for working people, but constant weekend availability is probably impossible for any one person. Weekdays after school may work for parents and students, but choosing a day can be tricky, since sports and club meetings may interfere for long periods.<br /><br /> If you do decide to go for biweekly or monthly games, you may want to make the sessions longer. Try scheduling an entire day for a monthly game—or even a weekend, if your household is up to overnight guests. For a game with low meeting frequency, be sure to remind everyone when the next session is coming up. You’ll also need to prepare a good recap of what happened in the previous adventure so the players know where the characters were when you left off.<br /><br /> If you opt for an irregular schedule, you’ll need to schedule every session, which can be more difficult, as players don’t have the option of always leaving certain days open. Scheduling an irregular game can happen at the end of each session or via group emails and phone calls.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

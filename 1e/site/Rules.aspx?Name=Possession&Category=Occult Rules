@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Possession - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Possession" /><meta name="description" content="Rather than introducing new rules, this section explains the nuances of possession magic, as used in the new &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=possession&quot;>&lt;i>possession&lt;/i>&lt;/a> spell, as well as monster abilities and other spells." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=2080" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWqYjx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTY3NCI+T2NjdWx0IFJ1bGVzPC9hPjwvdT48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTIwODAiPlBvc3Nlc3Npb248L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTllZ3U/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLU9jY3VsdC1BZHZlbnR1cmVzIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPk9jY3VsdCBBZHZlbnR1cmVzIHBnLiAyMDU8L2k+PC9hPjxiciAvPlJhdGhlciB0aGFuIGludHJvZHVjaW5nIG5ldyBydWxlcywgdGhpcyBzZWN0aW9uIGV4cGxhaW5zIHRoZSBudWFuY2VzIG9mIHBvc3Nlc3Npb24gbWFnaWMsIGFzIHVzZWQgaW4gdGhlIG5ldyA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9cG9zc2Vzc2lvbiI+PGk+cG9zc2Vzc2lvbjwvaT48L2E+IHNwZWxsLCBhcyB3ZWxsIGFzIG1vbnN0ZXIgYWJpbGl0aWVzIGFuZCBvdGhlciBzcGVsbHMuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0yMDgxIj5XaGF0IGlzIFBvc3Nlc3Npb24/PC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5ZWd1P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1PY2N1bHQtQWR2ZW50dXJlcyIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5PY2N1bHQgQWR2ZW50dXJlcyBwZy4gMjA1PC9pPjwvYT48YnIgLz5UcnVlIHBvc3Nlc3Npb24gaXMgd2hlbiBhIGNyZWF0dXJlIGRpc3BsYWNlcyBvciBvdmVycmlkZXMgdGhlIHRhcmdldOKAmXMgY29uc2Npb3VzbmVzcyB3aXRoIGl0cyBvd24sIGVzdGFibGlzaGluZyBkaXJlY3QgY29udHJvbCBvdmVyIHRoZSB0YXJnZXTigJlzIGJvZHkuIFRoZSBQYXRoZmluZGVyIFJQRyBmZWF0dXJlcyBzZXZlcmFsIGVmZmVjdHMgdGhhdCBhcmUgb2Z0ZW4gY29uZmxhdGVkIHdpdGggcG9zc2Vzc2lvbi4gVGhlIHNlY3Rpb24gYmVsb3cgZGVzY3JpYmVzIHNldmVyYWwgcG9zc2Vzc2lvbiBhbmQgcG9zc2Vzc2lvbi1saWtlIGVmZmVjdHMgYW5kIHRoZSBkaWZmZXJlbmNlcyBiZXR3ZWVuIHRoZW0uIDxiciAvPjxiciAvPjxiPkRvbWluYXRpb248L2I+OiBEb21pbmF0ZSBzcGVsbHMgYXJlIG9mdGVuIGNvbmZ1c2VkIHdpdGggcG9zc2Vzc2lvbiwgYXMgdGhleSBwcm9kdWNlIHN1cGVyZmljaWFsbHkgc2ltaWxhciBvdXRjb21lcy4gSG93ZXZlciwgZG9taW5hdGlvbiBhbmQgcG9zc2Vzc2lvbiBhcmUgbm90IHRoZSBzYW1lLiBEb21pbmF0aW9uIGlzIG1pbmQtY29udHJvbCwgZW5zbGF2aW5nIHRoZSB0YXJnZXTigJlzIG1pbmQgYW5kIGZvcmNpbmcgaXQgdG8gY2Fycnkgb3V0IHRoZSBjYXN0ZXLigJlzIHdpbGw7IHRodXMsIHRoZSBjYXN0ZXIgZG9lc27igJl0IGRpcmVjdGx5IGNvbnRyb2wgdGhlIHRhcmdldOKAmXMgYm9keS4gVGhlIHRhcmdldOKAmXMgZG9taW5hdGVkIG1pbmQgbWVyZWx5IGNhcnJpZXMgb3V0IGEgbWFuZGF0ZSBnaXZlbiBieSB0aGUgY2FzdGVyIHdpdGggdGhlIG1lYW5zLCBrbm93bGVkZ2UsIGFuZCBleHBlcmllbmNlIGl0IGhhcyBhdmFpbGFibGUuIDxiciAvPjxiciAvPjxiPlNwZWxsIFBvc3Nlc3Npb248L2I+OiBQcmlvciB0byA8aT5PY2N1bHQgQWR2ZW50dXJlczwvaT4sIHRoZSBwcmltYXJ5IHNvdXJjZSBmb3IgcG9zc2Vzc2lvbiBtZWNoYW5pY3MgaW4gdGhlIFBhdGhmaW5kZXIgUlBHIHdhcyB0aGUgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPW1hZ2ljIGphciI+PGk+bWFnaWMgamFyPC9pPjwvYT4gc3BlbGwuIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1NYWdpYyBqYXIiPjxpPk1hZ2ljIGphcjwvaT48L2E+IGFsbG93cyB0aGUgY2FzdGVyIHRvIGRldGFjaCBoZXIgc291bCBmcm9tIGhlciBib2R5IGFuZCBwbGFjZSBpdCBpbiB0aGUgYm9keSBvZiBhbm90aGVyIGNyZWF0dXJlLCBkaXNwbGFjaW5nIHRoZSBob3N04oCZcyBzb3VsIGFuZCBsZWF2aW5nIHRoZSBjYXN0ZXLigJlzIG93biBib2R5IGVzc2VudGlhbGx5IOKAnGVtcHR5LuKAnSBMaWtlIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1wb3NzZXNzaW9uIj48aT5wb3NzZXNzaW9uPC9pPjwvYT4sIHRoZXNlIGVmZmVjdHMgYmVsb25nIHRvIHRoZSBuZWNyb21hbmN5IHNjaG9vbCBvZiBtYWdpYywgYXMgYmVmaXRzIG1hZ2ljIHRoYXQgbWFuaXB1bGF0ZXMgbGlmZSBmb3JjZSBhbmQgc291bHMuIFRoaXMgaXMgdHJ1ZSBwb3NzZXNzaW9uLCBhcyB0aGUgZW5kIHJlc3VsdCBpcyBjb250cm9sIG9mIHRoZSBob3N04oCZcyBib2R5IHJhdGhlciB0aGFuIHRoZSBtaW5kLiBUaGUgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPW1hcmlvbmV0dGUgcG9zc2Vzc2lvbiI+PGk+bWFyaW9uZXR0ZSBwb3NzZXNzaW9uPC9pPjwvYT4gc3BlbGwgb3BlcmF0ZXMgdW5kZXIgYW4gaWRlbnRpY2FsIHByaW5jaXBsZSwgYnV0IGRvZXMgbm90IGRpc3BsYWNlIHRoZSBob3N04oCZcyBzb3VsIGJlY2F1c2UgdGhlIHRhcmdldCBjZWRlcyBjb250cm9sIHRvIHRoZSBjYXN0ZXIgd2lsbGluZ2x5LjxiciAvPjxiciAvPiBUaGVzZSBmb3JtcyBvZiBwb3NzZXNzaW9uIGNhcnJ5IGdyZWF0IHJpc2sgZm9yIHRoZSBjYXN0ZXIuIFRoZSBjYXN0ZXIgaGFzIG5vIG1lYW5zIG9mIHN1cnZpdmFsIHdpdGhvdXQgYSBib2R5IHRvIGluaGFiaXQsIHNvIGlmIGhlciBzb3VsIGlzIGVqZWN0ZWQgZnJvbSB0aGUgaG9zdOKAmXMgYm9keSB3aGlsZSBoZXIgb3duIGJvZHkgaXMgb3V0IG9mIHRoZSBzcGVsbOKAmXMgcmFuZ2UsIHRoZSBjYXN0ZXIgZGllcyBpbnN0YW50bHkuIFRoZSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9cG9zc2Vzc2lvbiI+PGk+cG9zc2Vzc2lvbjwvaT48L2E+IHNwZWxsIHByZXNlbnRlZCBpbiB0aGlzIGJvb2sgZm9sbG93cyBzaW1pbGFyIHJ1bGVzIHRvIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1tYWdpYyBqYXIiPjxpPm1hZ2ljIGphcjwvaT48L2E+IGFuZCA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9bWFyaW9uZXR0ZSBwb3NzZXNzaW9uIj48aT5tYXJpb25ldHRlIHBvc3Nlc3Npb248L2k+PC9hPiwgYnV0IHdpdGggYSBmZXcga2V5IGRpZmZlcmVuY2VzLiA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9UG9zc2Vzc2lvbiI+PGk+UG9zc2Vzc2lvbjwvaT48L2E+IGRvZXMgbm90IGRpc3BsYWNlIHRoZSBob3N0IHNvdWwgd2hlbiB0aGUgcG9zc2Vzc29yIHNlaXplcyBjb250cm9sIG9mIGEgY3JlYXR1cmXigJlzIGJvZHkuIEFkZGl0aW9uYWxseSwgdGhlIGNhc3RlciBkb2VzIG5vdCBwZXJpc2ggaW5zdGFudGx5IGlmIGhlciBib2R5IGlzIG91dHNpZGUgdGhlIHNwZWxs4oCZcyByYW5nZSB3aGVuIHNoZSBpcyBlamVjdGVkOyB0aGUgcmFuZ2Ugb24gdGhlIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1wb3NzZXNzaW9uIj48aT5wb3NzZXNzaW9uPC9pPjwvYT4gc3BlbGwgcGVydGFpbnMgb25seSB0byB0aGUgZGlzdGFuY2UgdGhlIGNhc3RlciBjYW4gYmUgZnJvbSBoZXIgaW50ZW5kZWQgdGFyZ2V0IGF0IHRoZSB0aW1lIG9mIGNhc3RpbmcuIE9uY2UgZWplY3RlZCwgdGhlIGNhc3RlcuKAmXMgc291bCBzbmFwcyBiYWNrIHRvIGhlciBib2R5IGZyb20gYW55IGRpc3RhbmNlLCBzbyBsb25nIGFzIGl0IHJlbWFpbnMgb24gdGhlIHNhbWUgcGxhbmUuPGJyIC8+PGJyIC8+IDxpPkluY29ycG9yZWFsIFBvc3Nlc3Npb248L2k+OiA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iTW9uc3RlckRpc3BsYXkuYXNweD9JdGVtTmFtZT1HaG9zdCI+R2hvc3RzPC9hPiwgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9Ik1vbnN0ZXJEaXNwbGF5LmFzcHg/SXRlbU5hbWU9U2hhZG93IERlbW9uIj5zaGFkb3cgZGVtb25zPC9hPiwgYW5kIHNpbWlsYXIgY3JlYXR1cmVzIGRvIG5vdCBwb3NzZXNzIHBoeXNpY2FsIGJvZGllc+KAlCB0aGV5IGFyZSBzaW1wbHkgZGlzZW1ib2RpZWQgc291bHMuIFRoZXkgdXNlIHRoZSBydWxlcyBiZWxvdyB0byBnb3Zlcm4gdGhlIGludGVyYWN0aW9uIGJldHdlZW4gdGhlaXIgbWVudGFsIGNoYXJhY3RlcmlzdGljcyBhbmQgdGhlaXIgaG9zdHPigJkgcGh5c2ljYWwgZm9ybXMuIFN1Y2ggYSBjcmVhdHVyZSBtZXJnZXMgd2l0aCB0aGUgaG9zdOKAmXMgYm9keSBhbmQgaXMgdW5oYXJtZWQgd2hlbiBlamVjdGVkLiBDcmVhdHVyZXMgdGhhdCB1c2UgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPW1hZ2ljIGphciI+PGk+bWFnaWMgamFyPC9pPjwvYT4gY2FuIG9mdGVuIHVzZSB0aGUgbmV3IDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1wb3NzZXNzaW9uIj48aT5wb3NzZXNzaW9uPC9pPjwvYT4gc3BlbGwgaW5zdGVhZC48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTIwODIiPkNvcmUgTWVjaGFuaWMgYW5kIENsYXJpZmljYXRpb248L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTllZ3U/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLU9jY3VsdC1BZHZlbnR1cmVzIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPk9jY3VsdCBBZHZlbnR1cmVzIHBnLiAyMDU8L2k+PC9hPjxiciAvPlRoZSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9cG9zc2Vzc2lvbiI+PGk+cG9zc2Vzc2lvbjwvaT48L2E+IHNwZWxsIGNvbnRhaW5zIHRoZSBjb3JlIG1lY2hhbmljcyBmb3IgcG9zc2Vzc2lvbi4gVGhlIGRlc2NyaXB0aW9uIG9mIHRoZSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9bWFnaWMgamFyIj48aT5tYWdpYyBqYXI8L2k+PC9hPiBzcGVsbCBzdGF0ZXMgdGhlIHBvc3Nlc3NpbmcgY3JlYXR1cmUgY2FuIHVzZSBoZXIg4oCcbWVudGFsIGFiaWxpdGllcyzigJ0gYW5kIHRoZSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9cG9zc2Vzc2lvbiI+PGk+cG9zc2Vzc2lvbjwvaT48L2E+IHNwZWxsIHdvcmtzIHNpbWlsYXJseS4gVGhpcyB0ZXJtIHdhc27igJl0IHByZXZpb3VzbHkgZGVmaW5lZCwgYW5kIGhhcyBiZWVuIGEgc291cmNlIG9mIGNvbmZ1c2lvbiBpbiBtYW55IGdhbWVzLiBUaGUgdGVybSDigJxtZW50YWwgYWJpbGl0aWVz4oCdIGFzIHVzZWQgaGVyZSByZWZlcnMgdG8gdGhlIGZvbGxvd2luZy4gPHVsPjxsaT5UaGUgcG9zc2Vzc29yIHVzZXMgaGVyIHNraWxsIHJhbmtzLCBhbG9uZyB3aXRoIGFueSBmZWF0cyB0aGUgcG9zc2Vzc29yIGhhcyBmb3Igd2hpY2ggc2hlIHN0aWxsIHF1YWxpZmllcyBpbiB0aGUgaG9zdOKAmXMgYm9keS4gVGhlIHBvc3Nlc3NvciBkb2VzbuKAmXQgZ2FpbiBhbnkgb2YgdGhlIGhvc3TigJlzIGZlYXRzIG9yIHNraWxsIHJhbmtzLCBidXQgZG9lcyBhcHBseSBib251c2VzIGFuZCBwZW5hbHRpZXMgYXNzb2NpYXRlZCB3aXRoIHRoZSBob3N04oCZcyBib2R5LiBGb3IgZXhhbXBsZSwgd2hlbiBhdHRlbXB0aW5nIEZseSBjaGVja3MsIGEgY2hhcmFjdGVyIHdobyBwb3NzZXNzZWQgYSBiaXJkIHdvdWxkIHVzZSBoZXIgb3duIHJhbmtzIGluIHRoZSBGbHkgc2tpbGwsIGJ1dCB0aGUgYmlyZOKAmXMgRGV4dGVyaXR5IG1vZGlmaWVyIGFuZCByYWNpYWwsIHNpemUsIGFuZCBtYW5ldXZlcmFiaWxpdHkgYm9udXNlcy48L2xpPiA8bGk+VGhlIHBvc3Nlc3NvciBjYW4gdXNlIHNwZWxscyBhbmQgc3BlbGwtbGlrZSBhYmlsaXRpZXMuIEFwcHJvcHJpYXRlIHNwZWxsIGNvbXBvbmVudHMgYW5kIGZvY2kgYXJlIHN0aWxsIHJlcXVpcmVkIGZvciBzcGVsbHMgdGhhdCBjYWxsIGZvciB0aGVtLiBTb21lIHNwZWxsLWxpa2UgYWJpbGl0aWVzIGFyZSByYWNpYWwgaW4gbmF0dXJlLCBidXQgdGhlIHNvdWzigJlzIGVzc2VuY2UgdGVtcG9yYXJpbHkgaW5zdGlsbHMgdGhlIHBvc3Nlc3NpbmcgY3JlYXR1cmXigJlzIHF1aW50ZXNzZW50aWFsIG5hdHVyZSBpbnRvIHRoZSBob3N04oCZcyBib2R5LiBGb3IgaW5zdGFuY2UsIGEgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9Ik1vbnN0ZXJEaXNwbGF5LmFzcHg/SXRlbU5hbWU9U2hhZG93IERlbW9uIj5zaGFkb3cgZGVtb248L2E+IHBvc3Nlc3NpbmcgYSBwYWxhZGluIGNhbiBzdGlsbCB1c2UgaXRzIHJhY2lhbCBzcGVsbC1saWtlIGFiaWxpdGllcyBkdXJpbmcgdGhhdCB0aW1lLjwvbGk+IDxsaT5UaGUgcG9zc2Vzc29yIGNhbiB1c2Ugbm9ubWFnaWNhbCBhbmQgbWFnaWNhbCBjbGFzcyBhYmlsaXRpZXMgc3VjaCBhcyBkb21haW4sIGhleCwgcmFnZSwgYW5kIHNjaG9vbCBwb3dlcnMuIFN1cGVybmF0dXJhbCBhYmlsaXRpZXMgKHdpdGggdGhlIGV4Y2VwdGlvbiBvZiBjbGFzcyBhYmlsaXRpZXMpIGFyZSBub3QgY29uc2lkZXJlZCBtZW50YWwgYWJpbGl0aWVzLCBhcyB0aGV5IGdlbmVyYWxseSByZWx5IHVwb24gYSBjcmVhdHVyZeKAmXMgcGh5c2ljYWwgZm9ybS4gRm9yIGV4YW1wbGUsIGEgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9Ik1vbnN0ZXJEaXNwbGF5LmFzcHg/SXRlbU5hbWU9QWR1bHQgUmVkIERyYWdvbiI+cmVkIGRyYWdvbjwvYT4gcG9zc2Vzc2luZyBhIGNsZXJpYyBvZiBJb21lZGFlIGNvdWxkIG5vdCB1c2UgaXRzIGJyZWF0aCB3ZWFwb24gYWJpbGl0eSB0byBicmVhdGhlIGZpcmUgd2hpbGUgaW5oYWJpdGluZyB0aGUgY2xlcmlj4oCZcyBmb3JtLiBUaGUgR00gY2FuIGNob29zZSB0byBtYWtlIGEgc3BlY2lmaWMgZXhjZXB0aW9uIGlmIHNoZSBiZWxpZXZlcyBhbiBhYmlsaXR5IGlzIHNvbGVseSBtZW50YWwgaW4gbmF0dXJlLjwvbGk+PC91bD48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTIwODMiPlJ1bGUgSW50ZXJhY3Rpb25zPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5ZWd1P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1PY2N1bHQtQWR2ZW50dXJlcyIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5PY2N1bHQgQWR2ZW50dXJlcyBwZy4gMjA1PC9pPjwvYT48YnIgLz5TZXZlcmFsIGRpZmZlcmVudCBtZWNoYW5pY3MgYWxsb3cgYSBjcmVhdHVyZSB0byBpbmZsdWVuY2Ugb3IgY29udHJvbCBhbm90aGVyIGNyZWF0dXJlLCBhbmQgc29tZXRpbWVzIGl0IGlzbuKAmXQgY2xlYXIgaG93IHRoZXNlIGNvbXBldGluZyBlZmZlY3RzIHNob3VsZCBwbGF5IG91dCwgd2hldGhlciBpdCBiZSBwb3NzZXNzaW9uIHZlcnN1cyBjb21wdWxzaW9uIG9yIGV2ZW4gcG9zc2Vzc2lvbiB2ZXJzdXMgcG9zc2Vzc2lvbi4gVGhlc2Ugc3lzdGVtcyBpbnRlcmFjdCBpbiB0aGUgZm9sbG93aW5nIHdheXMuIDxiciAvPjxiciAvPjxiPlBvc3Nlc3Npb24gdmVyc3VzIENoYXJtIGFuZCBDb21wdWxzaW9uPC9iPjogUG9zc2Vzc2lvbiBvdmVycmlkZXMgY2hhcm1zIGFuZCBjb21wdWxzaW9ucyB0aGF0IGFyZSBpbiBjb250cm9sIG9mIGFub3RoZXIgY3JlYXR1cmUuIE5laXRoZXIgdHlwZSBvZiBlZmZlY3QgcHJldmVudHMgdGhlIG90aGVyIGZyb20gZnVuY3Rpb25pbmcsIGJ1dCBwb3NzZXNzaW9uIGJ5cGFzc2VzIHRoZSBtaW5kIGFuZCB0YWtlcyBkaXJlY3QgcGh5c2ljYWwgY29udHJvbCBvZiB0aGUgYm9keeKAlHdoaWNoIG1heSByZXN1bHQgaW4gYSBwb3NzZXNzb3IgZW5zbGF2aW5nIGFuIGludGVsbGlnZW5jZSB0aGF0IGlzIGVzc2VudGlhbGx5IGhlbHBsZXNzIGFscmVhZHkgYmVjYXVzZSBvZiBhIGNvbXB1bHNpb24uIENvbXB1bHNpb24gYW5kIGNoYXJtIGVmZmVjdHMgbW92ZSB3aXRoIHRoZSBtaW5kIG9yIHNvdWwgb2YgdGhlIGNyZWF0dXJlIG9yaWdpbmFsbHkgdGFyZ2V0ZWQuIEZvciBleGFtcGxlLCBpZiB5b3UgY2FzdCA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9bWluZCBzd2FwIj48aT5taW5kIHN3YXA8L2k+PC9hPiBvbiBhIGRvbWluYXRlZCBjcmVhdHVyZSwgdGhlIGRvbWluYXRpb24gZWZmZWN0IHJlbWFpbnMgYWN0aXZlIGJ1dCB0cmFuc2ZlcnMgd2l0aCB0aGUgb3JpZ2luYWxseSBkb21pbmF0ZWQgbWluZCB0byBpdHMgbmV3IGhvc3QgYm9keSwgYW5kIGEgZG9taW5hdGVkIGNyZWF0dXJlIGNhcGFibGUgb2YgcG9zc2Vzc2lvbiBjb3VsZCBwb3NzZXNzIGFub3RoZXIgY3JlYXR1cmUgd2hpbGUgc3RpbGwgcmVtYWluaW5nIGRvbWluYXRlZC48YnIgLz48YnIgLz4gSWYgdGhlIGhvc3TigJlzIG1pbmQgb3Igc291bCBpcyBub3QgZGlzcGxhY2VkIGZyb20gdGhlIGJvZHksIGEgZG9taW5hdGluZyBjcmVhdHVyZSBjYW4gc3RpbGwgdGVsZXBhdGhpY2FsbHkgaW50ZXJhY3Qgd2l0aCBpdHMgbm93LXBvc3Nlc3NlZCB0YXJnZXQsIGV2ZW4gdGhvdWdoIHRoZSB0YXJnZXQgaXMgaGVscGxlc3Mgd2l0aGluIGl0cyBvd24gaGlqYWNrZWQgYm9keS4gVGhlIGRvbWluYXRpbmcgY3JlYXR1cmUgY2FuIGV2ZW4gY29tbWFuZCB0aGUgdGFyZ2V0IHRvIGV4cGxhaW4gd2hhdCB0aGUgaG9zdCBib2R5IGlzIGRvaW5nLCBpZiB0aGUgaG9zdCBoYXMgYWNjZXNzIHRvIGl0cyBzZW5zZXMuPGJyIC8+PGJyIC8+IENvbnZlcnNlbHksIGEgY2FzdGVyIGNhbiB0YXJnZXQgYSBwb3NzZXNzaW5nIGNyZWF0dXJlIHdpdGggYSBjb21wdWxzaW9uIG9yIGNoYXJtIGVmZmVjdC4gSWYgdGhlIHBvc3Nlc3NpbmcgY3JlYXR1cmUgaXMgdGhlIG9ubHkgbWluZCBvciBzb3VsIGluIHRoZSBob3N0IGJvZHksIHRoZSBjb21wdWxzaW9uIG9yIGNoYXJtIGVmZmVjdCB3b3JrcyBvbiB0aGUgcG9zc2Vzc2luZyBjcmVhdHVyZSBub3JtYWxseS4gSWYgdGhlIHBvc3Nlc3NpbmcgY3JlYXR1cmUgaXMgbGF0ZXIgZXZpY3RlZCBmcm9tIHRoZSBib2R5LCB0aGUgY29tcHVsc2lvbiBvciBjaGFybSBlZmZlY3QgcmVtYWlucyBhY3RpdmUgb24gdGhlIHBvc3Nlc3NpbmcgY3JlYXR1cmUgd2hlbiBpdCByZXR1cm5zIHRvIGl0cyBvcmlnaW5hbCBib2R5LiBGb3IgaW5zdGFuY2UsIGlmIGEgbWVzbWVyaXN0IGlzIHVzaW5nIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1taW5kIHN3YXAiPjxpPm1pbmQgc3dhcDwvaT48L2E+IG9uIGEgYmFyZCwgYW5kIGEgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9Ik1vbnN0ZXJEaXNwbGF5LmFzcHg/SXRlbU5hbWU9U3VjY3VidXMiPnN1Y2N1YnVzPC9hPiB1c2VzIGhlciA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9ZG9taW5hdGUgbW9uc3RlciI+PGk+ZG9taW5hdGUgbW9uc3RlcjwvaT48L2E+IHNwZWxsLWxpa2UgYWJpbGl0eSB3aGVuIHNoZSBtZWV0cyB0aGUgcG9zc2Vzc2VkIGJhcmQsIHRoZSBtZXNtZXJpc3QgbXVzdCBhdHRlbXB0IGEgc2F2aW5nIHRocm93IGFnYWluc3QgdGhlIHNwZWxsLiBJZiBoZSBmYWlscywgdGhlIG1lc21lcmlzdCBiZWNvbWVzIGRvbWluYXRlZCBieSB0aGUgc3VjY3VidXMsIGFuZCB3aGVuIGhpcyBwb3NzZXNzaW9uIGVuZHMgYW5kIGhlIHJldHVybnMgdG8gaGlzIGJvZHksIGhlIHJlbWFpbnMgYXQgdGhlIG1lcmN5IG9mIGhpcyBuZXcgbWlzdHJlc3MuPGJyIC8+PGJyIC8+IFdoZW4gYm90aCB0aGUgaG9zdCBjcmVhdHVyZSBhbmQgYSBwb3NzZXNzaW5nIGNyZWF0dXJlIG9jY3VweSBhIGJvZHkgYXQgdGhlIHNhbWUgdGltZSwgYSBjaGFybSBvciBjb21wdWxzaW9uIGVmZmVjdCBjYW4gdGFyZ2V0IGVpdGhlciBvbmUuIEhvd2V2ZXIsIHRoZSBjYXN0ZXIgbXVzdCBiZSBhd2FyZSBvZiB0aGUgcG9zc2Vzc2luZyBjcmVhdHVyZeKAmXMgcHJlc2VuY2UgaW4gdGhlIGhvc3QgYm9keSBpbiBvcmRlciB0byB0YXJnZXQgaXQuIE90aGVyd2lzZSwgdGhlIGVmZmVjdCB0YXJnZXRzIHRoZSBob3N0IGJ5IGRlZmF1bHQsIGdlbmVyYWxseSB3aXRoIGxpbWl0ZWQgZWZmZWN0LiA8YnIgLz48YnIgLz48Yj5Qb3NzZXNzaW9uIHZlcnN1cyBEaXZpbmF0aW9uIEVmZmVjdHM8L2I+OiBQb3NzZXNzaW9uIGRvZXMgbm90aGluZyB0byBvYmZ1c2NhdGUgb3IgYmxvY2sgbW9zdCBkaXZpbmF0aW9uIHNwZWxscy4gRm9yIGV4YW1wbGUsIGlmIGFuIGV2aWwgbWVzbWVyaXN0IGlzIHBvc3Nlc3NpbmcgYSBwYWxhZGluLCA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9ZGV0ZWN0IGV2aWwiPjxpPmRldGVjdCBldmlsPC9pPjwvYT4gd2lsbCBzZW5zZSB0aGUgcHJlc2VuY2Ugb2YgYW4gZXZpbCBjcmVhdHVyZSB3aGVuIHRoZSBwYWxhZGlu4oCZcyBib2R5IGVudGVycyB0aGUgYXJlYSBvZiBlZmZlY3QuIFRoZSBIaWRkZW4gUHJlc2VuY2UgZmVhdCBjYW4gYXNzaXN0IGEgcG9zc2Vzc2luZyBjcmVhdHVyZSBpbiBmb2lsaW5nIGRpdmluYXRpb25zLiBJZiBhIGNyZWF0dXJl4oCZcyBib2R5IGFuZCBzb3VsIGFyZSBpbiB0d28gZGlmZmVyZW50IGxvY2F0aW9ucywgYXMgaW4gdGhlIGNhc2Ugb2YgYSBjYXN0ZXIgb2YgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPW1hZ2ljIGphciI+PGk+bWFnaWMgamFyPC9pPjwvYT4sIGRpdmluYXRpb24gc3BlbGxzIHRoYXQgZGVwZW5kIG9uIGxvY2F0aW9uLCBzdWNoIGFzIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1sb2NhdGUgY3JlYXR1cmUiPjxpPmxvY2F0ZSBjcmVhdHVyZTwvaT48L2E+IG9yIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1zY3J5aW5nIj48aT5zY3J5aW5nPC9pPjwvYT4sIGZhaWwgdG8gcHJvZHVjZSByZXN1bHRzLiBUaGUgZXhjZXB0aW9uIGlzIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1kaXNjZXJuIGxvY2F0aW9uIj48aT5kaXNjZXJuIGxvY2F0aW9uPC9pPjwvYT47IHRoaXMgcG93ZXJmdWwgc3BlbGwgcHJvdmlkZXMgYm90aCBsb2NhdGlvbnMgdW5sZXNzIHRoZSBib2R5IGFuZCBzb3VsIGFyZSBwcm90ZWN0ZWQgYnkgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPW1pbmQgYmxhbmsiPjxpPm1pbmQgYmxhbms8L2k+PC9hPiBvciBhIGRlaXR5LiA8YnIgLz48YnIgLz48Yj5Qb3NzZXNzaW9uIHZlcnN1cyBQb3NzZXNzaW9uPC9iPjogSWYgeW91IGF0dGVtcHQgdG8gcG9zc2VzcyBhIGNyZWF0dXJlIHRoYXQgaXMgYWxyZWFkeSBwb3NzZXNzZWQsIHRoZSBwb3NzZXNzaW5nIGNyZWF0dXJlIG11c3Qgc3VjY2VlZCBhdCB0aGUgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPXBvc3Nlc3Npb24iPjxpPnBvc3Nlc3Npb248L2k+PC9hPiBzcGVsbOKAmXMgc2F2ZSBvciBiZSBlamVjdGVkLCBhbGxvd2luZyB5b3UgdG8gZW50ZXIgdGhlIGhvc3QuIElmIHRoZSBwb3NzZXNzaW5nIGNyZWF0dXJlIHZvbHVudGFyaWx5IGZhaWxzIGl0cyBzYXZlLCBmaXJzdCB0aGF0IGNyZWF0dXJlIGlzIGF1dG9tYXRpY2FsbHkgZWplY3RlZCBhbmQgdGhlbiB0aGUgaG9zdCBhdHRlbXB0cyB0aGUgV2lsbCBzYXZlIGluc3RlYWQuIEEgcG9zc2Vzc2lvbiBlZmZlY3QgdGhhdCBkb2VzbuKAmXQgYWxsb3cgYSBzYXZpbmcgdGhyb3cgYXV0b21hdGljYWxseSBjYXVzZXMgdGhlIHBvc3Nlc3NpbmcgY3JlYXR1cmUgdG8gYmUgZWplY3RlZC5kZGRfUq6+pKYKIOlIrPvx515xAlwzUz0fGxXFpJJL46bOtA==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1674">Occult Rules</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=2080">Possession</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9egu?Pathfinder-Roleplaying-Game-Occult-Adventures" target="_blank" class="external-link"><i>Occult Adventures pg. 205</i></a><br />Rather than introducing new rules, this section explains the nuances of possession magic, as used in the new <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=possession"><i>possession</i></a> spell, as well as monster abilities and other spells.<br /><h1 class="title"><a href="Rules.aspx?ID=2081">What is Possession?</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9egu?Pathfinder-Roleplaying-Game-Occult-Adventures" target="_blank" class="external-link"><i>Occult Adventures pg. 205</i></a><br />True possession is when a creature displaces or overrides the target’s consciousness with its own, establishing direct control over the target’s body. The Pathfinder RPG features several effects that are often conflated with possession. The section below describes several possession and possession-like effects and the differences between them. <br /><br /><b>Domination</b>: Dominate spells are often confused with possession, as they produce superficially similar outcomes. However, domination and possession are not the same. Domination is mind-control, enslaving the target’s mind and forcing it to carry out the caster’s will; thus, the caster doesn’t directly control the target’s body. The target’s dominated mind merely carries out a mandate given by the caster with the means, knowledge, and experience it has available. <br /><br /><b>Spell Possession</b>: Prior to <i>Occult Adventures</i>, the primary source for possession mechanics in the Pathfinder RPG was the <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=magic jar"><i>magic jar</i></a> spell. <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=Magic jar"><i>Magic jar</i></a> allows the caster to detach her soul from her body and place it in the body of another creature, displacing the host’s soul and leaving the caster’s own body essentially “empty.” Like <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=possession"><i>possession</i></a>, these effects belong to the necromancy school of magic, as befits magic that manipulates life force and souls. This is true possession, as the end result is control of the host’s body rather than the mind. The <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=marionette possession"><i>marionette possession</i></a> spell operates under an identical principle, but does not displace the host’s soul because the target cedes control to the caster willingly.<br /><br /> These forms of possession carry great risk for the caster. The caster has no means of survival without a body to inhabit, so if her soul is ejected from the host’s body while her own body is out of the spell’s range, the caster dies instantly. The <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=possession"><i>possession</i></a> spell presented in this book follows similar rules to <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=magic jar"><i>magic jar</i></a> and <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=marionette possession"><i>marionette possession</i></a>, but with a few key differences. <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=Possession"><i>Possession</i></a> does not displace the host soul when the possessor seizes control of a creature’s body. Additionally, the caster does not perish instantly if her body is outside the spell’s range when she is ejected; the range on the <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=possession"><i>possession</i></a> spell pertains only to the distance the caster can be from her intended target at the time of casting. Once ejected, the caster’s soul snaps back to her body from any distance, so long as it remains on the same plane.<br /><br /> <i>Incorporeal Possession</i>: <a style="text-decoration:underline" href="MonsterDisplay.aspx?ItemName=Ghost">Ghosts</a>, <a style="text-decoration:underline" href="MonsterDisplay.aspx?ItemName=Shadow Demon">shadow demons</a>, and similar creatures do not possess physical bodies— they are simply disembodied souls. They use the rules below to govern the interaction between their mental characteristics and their hosts’ physical forms. Such a creature merges with the host’s body and is unharmed when ejected. Creatures that use <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=magic jar"><i>magic jar</i></a> can often use the new <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=possession"><i>possession</i></a> spell instead.<br /><h1 class="title"><a href="Rules.aspx?ID=2082">Core Mechanic and Clarification</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9egu?Pathfinder-Roleplaying-Game-Occult-Adventures" target="_blank" class="external-link"><i>Occult Adventures pg. 205</i></a><br />The <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=possession"><i>possession</i></a> spell contains the core mechanics for possession. The description of the <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=magic jar"><i>magic jar</i></a> spell states the possessing creature can use her “mental abilities,” and the <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=possession"><i>possession</i></a> spell works similarly. This term wasn’t previously defined, and has been a source of confusion in many games. The term “mental abilities” as used here refers to the following. <ul><li>The possessor uses her skill ranks, along with any feats the possessor has for which she still qualifies in the host’s body. The possessor doesn’t gain any of the host’s feats or skill ranks, but does apply bonuses and penalties associated with the host’s body. For example, when attempting Fly checks, a character who possessed a bird would use her own ranks in the Fly skill, but the bird’s Dexterity modifier and racial, size, and maneuverability bonuses.</li> <li>The possessor can use spells and spell-like abilities. Appropriate spell components and foci are still required for spells that call for them. Some spell-like abilities are racial in nature, but the soul’s essence temporarily instills the possessing creature’s quintessential nature into the host’s body. For instance, a <a style="text-decoration:underline" href="MonsterDisplay.aspx?ItemName=Shadow Demon">shadow demon</a> possessing a paladin can still use its racial spell-like abilities during that time.</li> <li>The possessor can use nonmagical and magical class abilities such as domain, hex, rage, and school powers. Supernatural abilities (with the exception of class abilities) are not considered mental abilities, as they generally rely upon a creature’s physical form. For example, a <a style="text-decoration:underline" href="MonsterDisplay.aspx?ItemName=Adult Red Dragon">red dragon</a> possessing a cleric of Iomedae could not use its breath weapon ability to breathe fire while inhabiting the cleric’s form. The GM can choose to make a specific exception if she believes an ability is solely mental in nature.</li></ul><br /><h1 class="title"><a href="Rules.aspx?ID=2083">Rule Interactions</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9egu?Pathfinder-Roleplaying-Game-Occult-Adventures" target="_blank" class="external-link"><i>Occult Adventures pg. 205</i></a><br />Several different mechanics allow a creature to influence or control another creature, and sometimes it isn’t clear how these competing effects should play out, whether it be possession versus compulsion or even possession versus possession. These systems interact in the following ways. <br /><br /><b>Possession versus Charm and Compulsion</b>: Possession overrides charms and compulsions that are in control of another creature. Neither type of effect prevents the other from functioning, but possession bypasses the mind and takes direct physical control of the body—which may result in a possessor enslaving an intelligence that is essentially helpless already because of a compulsion. Compulsion and charm effects move with the mind or soul of the creature originally targeted. For example, if you cast <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=mind swap"><i>mind swap</i></a> on a dominated creature, the domination effect remains active but transfers with the originally dominated mind to its new host body, and a dominated creature capable of possession could possess another creature while still remaining dominated.<br /><br /> If the host’s mind or soul is not displaced from the body, a dominating creature can still telepathically interact with its now-possessed target, even though the target is helpless within its own hijacked body. The dominating creature can even command the target to explain what the host body is doing, if the host has access to its senses.<br /><br /> Conversely, a caster can target a possessing creature with a compulsion or charm effect. If the possessing creature is the only mind or soul in the host body, the compulsion or charm effect works on the possessing creature normally. If the possessing creature is later evicted from the body, the compulsion or charm effect remains active on the possessing creature when it returns to its original body. For instance, if a mesmerist is using <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=mind swap"><i>mind swap</i></a> on a bard, and a <a style="text-decoration:underline" href="MonsterDisplay.aspx?ItemName=Succubus">succubus</a> uses her <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=dominate monster"><i>dominate monster</i></a> spell-like ability when she meets the possessed bard, the mesmerist must attempt a saving throw against the spell. If he fails, the mesmerist becomes dominated by the succubus, and when his possession ends and he returns to his body, he remains at the mercy of his new mistress.<br /><br /> When both the host creature and a possessing creature occupy a body at the same time, a charm or compulsion effect can target either one. However, the caster must be aware of the possessing creature’s presence in the host body in order to target it. Otherwise, the effect targets the host by default, generally with limited effect. <br /><br /><b>Possession versus Divination Effects</b>: Possession does nothing to obfuscate or block most divination spells. For example, if an evil mesmerist is possessing a paladin, <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=detect evil"><i>detect evil</i></a> will sense the presence of an evil creature when the paladin’s body enters the area of effect. The Hidden Presence feat can assist a possessing creature in foiling divinations. If a creature’s body and soul are in two different locations, as in the case of a caster of <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=magic jar"><i>magic jar</i></a>, divination spells that depend on location, such as <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=locate creature"><i>locate creature</i></a> or <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=scrying"><i>scrying</i></a>, fail to produce results. The exception is <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=discern location"><i>discern location</i></a>; this powerful spell provides both locations unless the body and soul are protected by <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=mind blank"><i>mind blank</i></a> or a deity. <br /><br /><b>Possession versus Possession</b>: If you attempt to possess a creature that is already possessed, the possessing creature must succeed at the <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=possession"><i>possession</i></a> spell’s save or be ejected, allowing you to enter the host. If the possessing creature voluntarily fails its save, first that creature is automatically ejected and then the host attempts the Will save instead. A possession effect that doesn’t allow a saving throw automatically causes the possessing creature to be ejected.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

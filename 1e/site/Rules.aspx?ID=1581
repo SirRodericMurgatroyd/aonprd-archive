@@ -1,0 +1,279 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Commanders - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Commanders" /><meta name="description" content="An army’s commander helps maximize its effectiveness and can provide special bonuses to an army. The commander can be a PC or NPC. Unless you decide to command an army personally or the GM allows you to recruit an exceptional commander through adventuring and roleplaying, a new army’s commander is an unexceptional leader who provides no bonuses to the army.&lt;br />&lt;br /> The Mass Combat Army Sheet has a space to record information about the commander of each of your armies. In addition, there’s also a space to record information for a general—a general is a character (often you) assigned to administrate your armies, but is primarily a figurehead and grants no bonuses herself unless actively leading a particular army. The relevant information is as follows (assume a value of 0 unless otherwise specified). &lt;br />&lt;br />&lt;b>Name&lt;/b>: This lists the commander’s name (and class and level, if notable).&lt;br />&lt;br /> &lt;b>Charisma Modifier&lt;/b>: This lists the commander’s Charisma modifier. It is added to the army’s Morale checks. &lt;br />&lt;br />&lt;b>Profession (soldier)&lt;/b>: This is the commander’s ranks in Profession (soldier). Divide the number of ranks by 5 (minimum 0) and add that number to the army’s Morale checks. &lt;br />&lt;br />&lt;b>Leadership&lt;/b>: The commander’s character level + Charisma modifier. If the commander is a monster, use HD instead of character level. If the commander has the &lt;a style=&quot;text-decoration:underline&quot; href=&quot;FeatDisplay.aspx?ItemName=Leadership&quot;>Leadership&lt;/a> feat, increase this value by 3. This number is a prerequisite for some boons. &lt;br />&lt;br />&lt;b>Boons&lt;/b>: This lists the boons the commander knows (see below). A commander’s maximum number of boons known is 1, plus 1 for every 5 ranks in Profession (soldier). A new or unexceptional commander might know no boons at first, but can gain them from victories in battle. If you’re a kingdom leader acting as a commander, you automatically have one boon appropriate to your leadership role (see below).&lt;br />&lt;br /> The commander must be active with the army to grant a bonus on Morale checks or a boon to the army. Being active requires spending at least 3 days per week with the army. An army without a commander (whether because the commander is dead or because she isn’t spending enough time with the army) loses 1 Morale per week. You may offset this loss by doubling the army’s Consumption that week.&lt;br />&lt;br /> If you have an army without a commander and you have no commanders available to fill that role, you may promote a unit from the army to be an unexceptional commander. This commander has a +0 Charisma modifier, 0 ranks in Profession (soldier), and a Leadership score based on the level or HD of a typical unit in that army." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=1581" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXMTzx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTQ4OCI+S2luZ2RvbXMgYW5kIFdhcjwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNTY1Ij5NYXNzIENvbWJhdDwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNTgxIj5Db21tYW5kZXJzPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk4eDY0P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1VbHRpbWF0ZS1DYW1wYWlnbg0KIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlVsdGltYXRlIENhbXBhaWduIHBnLiAyMzk8L2k+PC9hPjxiciAvPkFuIGFybXnigJlzIGNvbW1hbmRlciBoZWxwcyBtYXhpbWl6ZSBpdHMgZWZmZWN0aXZlbmVzcyBhbmQgY2FuIHByb3ZpZGUgc3BlY2lhbCBib251c2VzIHRvIGFuIGFybXkuIFRoZSBjb21tYW5kZXIgY2FuIGJlIGEgUEMgb3IgTlBDLiBVbmxlc3MgeW91IGRlY2lkZSB0byBjb21tYW5kIGFuIGFybXkgcGVyc29uYWxseSBvciB0aGUgR00gYWxsb3dzIHlvdSB0byByZWNydWl0IGFuIGV4Y2VwdGlvbmFsIGNvbW1hbmRlciB0aHJvdWdoIGFkdmVudHVyaW5nIGFuZCByb2xlcGxheWluZywgYSBuZXcgYXJteeKAmXMgY29tbWFuZGVyIGlzIGFuIHVuZXhjZXB0aW9uYWwgbGVhZGVyIHdobyBwcm92aWRlcyBubyBib251c2VzIHRvIHRoZSBhcm15LjxiciAvPjxiciAvPiBUaGUgTWFzcyBDb21iYXQgQXJteSBTaGVldCBoYXMgYSBzcGFjZSB0byByZWNvcmQgaW5mb3JtYXRpb24gYWJvdXQgdGhlIGNvbW1hbmRlciBvZiBlYWNoIG9mIHlvdXIgYXJtaWVzLiBJbiBhZGRpdGlvbiwgdGhlcmXigJlzIGFsc28gYSBzcGFjZSB0byByZWNvcmQgaW5mb3JtYXRpb24gZm9yIGEgZ2VuZXJhbOKAlGEgZ2VuZXJhbCBpcyBhIGNoYXJhY3RlciAob2Z0ZW4geW91KSBhc3NpZ25lZCB0byBhZG1pbmlzdHJhdGUgeW91ciBhcm1pZXMsIGJ1dCBpcyBwcmltYXJpbHkgYSBmaWd1cmVoZWFkIGFuZCBncmFudHMgbm8gYm9udXNlcyBoZXJzZWxmIHVubGVzcyBhY3RpdmVseSBsZWFkaW5nIGEgcGFydGljdWxhciBhcm15LiBUaGUgcmVsZXZhbnQgaW5mb3JtYXRpb24gaXMgYXMgZm9sbG93cyAoYXNzdW1lIGEgdmFsdWUgb2YgMCB1bmxlc3Mgb3RoZXJ3aXNlIHNwZWNpZmllZCkuIDxiciAvPjxiciAvPjxiPk5hbWU8L2I+OiBUaGlzIGxpc3RzIHRoZSBjb21tYW5kZXLigJlzIG5hbWUgKGFuZCBjbGFzcyBhbmQgbGV2ZWwsIGlmIG5vdGFibGUpLjxiciAvPjxiciAvPiA8Yj5DaGFyaXNtYSBNb2RpZmllcjwvYj46IFRoaXMgbGlzdHMgdGhlIGNvbW1hbmRlcuKAmXMgQ2hhcmlzbWEgbW9kaWZpZXIuIEl0IGlzIGFkZGVkIHRvIHRoZSBhcm154oCZcyBNb3JhbGUgY2hlY2tzLiA8YnIgLz48YnIgLz48Yj5Qcm9mZXNzaW9uIChzb2xkaWVyKTwvYj46IFRoaXMgaXMgdGhlIGNvbW1hbmRlcuKAmXMgcmFua3MgaW4gUHJvZmVzc2lvbiAoc29sZGllcikuIERpdmlkZSB0aGUgbnVtYmVyIG9mIHJhbmtzIGJ5IDUgKG1pbmltdW0gMCkgYW5kIGFkZCB0aGF0IG51bWJlciB0byB0aGUgYXJteeKAmXMgTW9yYWxlIGNoZWNrcy4gPGJyIC8+PGJyIC8+PGI+TGVhZGVyc2hpcDwvYj46IFRoZSBjb21tYW5kZXLigJlzIGNoYXJhY3RlciBsZXZlbCArIENoYXJpc21hIG1vZGlmaWVyLiBJZiB0aGUgY29tbWFuZGVyIGlzIGEgbW9uc3RlciwgdXNlIEhEIGluc3RlYWQgb2YgY2hhcmFjdGVyIGxldmVsLiBJZiB0aGUgY29tbWFuZGVyIGhhcyB0aGUgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IkZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9TGVhZGVyc2hpcCI+TGVhZGVyc2hpcDwvYT4gZmVhdCwgaW5jcmVhc2UgdGhpcyB2YWx1ZSBieSAzLiBUaGlzIG51bWJlciBpcyBhIHByZXJlcXVpc2l0ZSBmb3Igc29tZSBib29ucy4gPGJyIC8+PGJyIC8+PGI+Qm9vbnM8L2I+OiBUaGlzIGxpc3RzIHRoZSBib29ucyB0aGUgY29tbWFuZGVyIGtub3dzIChzZWUgYmVsb3cpLiBBIGNvbW1hbmRlcuKAmXMgbWF4aW11bSBudW1iZXIgb2YgYm9vbnMga25vd24gaXMgMSwgcGx1cyAxIGZvciBldmVyeSA1IHJhbmtzIGluIFByb2Zlc3Npb24gKHNvbGRpZXIpLiBBIG5ldyBvciB1bmV4Y2VwdGlvbmFsIGNvbW1hbmRlciBtaWdodCBrbm93IG5vIGJvb25zIGF0IGZpcnN0LCBidXQgY2FuIGdhaW4gdGhlbSBmcm9tIHZpY3RvcmllcyBpbiBiYXR0bGUuIElmIHlvdeKAmXJlIGEga2luZ2RvbSBsZWFkZXIgYWN0aW5nIGFzIGEgY29tbWFuZGVyLCB5b3UgYXV0b21hdGljYWxseSBoYXZlIG9uZSBib29uIGFwcHJvcHJpYXRlIHRvIHlvdXIgbGVhZGVyc2hpcCByb2xlIChzZWUgYmVsb3cpLjxiciAvPjxiciAvPiBUaGUgY29tbWFuZGVyIG11c3QgYmUgYWN0aXZlIHdpdGggdGhlIGFybXkgdG8gZ3JhbnQgYSBib251cyBvbiBNb3JhbGUgY2hlY2tzIG9yIGEgYm9vbiB0byB0aGUgYXJteS4gQmVpbmcgYWN0aXZlIHJlcXVpcmVzIHNwZW5kaW5nIGF0IGxlYXN0IDMgZGF5cyBwZXIgd2VlayB3aXRoIHRoZSBhcm15LiBBbiBhcm15IHdpdGhvdXQgYSBjb21tYW5kZXIgKHdoZXRoZXIgYmVjYXVzZSB0aGUgY29tbWFuZGVyIGlzIGRlYWQgb3IgYmVjYXVzZSBzaGUgaXNu4oCZdCBzcGVuZGluZyBlbm91Z2ggdGltZSB3aXRoIHRoZSBhcm15KSBsb3NlcyAxIE1vcmFsZSBwZXIgd2Vlay4gWW91IG1heSBvZmZzZXQgdGhpcyBsb3NzIGJ5IGRvdWJsaW5nIHRoZSBhcm154oCZcyBDb25zdW1wdGlvbiB0aGF0IHdlZWsuPGJyIC8+PGJyIC8+IElmIHlvdSBoYXZlIGFuIGFybXkgd2l0aG91dCBhIGNvbW1hbmRlciBhbmQgeW91IGhhdmUgbm8gY29tbWFuZGVycyBhdmFpbGFibGUgdG8gZmlsbCB0aGF0IHJvbGUsIHlvdSBtYXkgcHJvbW90ZSBhIHVuaXQgZnJvbSB0aGUgYXJteSB0byBiZSBhbiB1bmV4Y2VwdGlvbmFsIGNvbW1hbmRlci4gVGhpcyBjb21tYW5kZXIgaGFzIGEgKzAgQ2hhcmlzbWEgbW9kaWZpZXIsIDAgcmFua3MgaW4gUHJvZmVzc2lvbiAoc29sZGllciksIGFuZCBhIExlYWRlcnNoaXAgc2NvcmUgYmFzZWQgb24gdGhlIGxldmVsIG9yIEhEIG9mIGEgdHlwaWNhbCB1bml0IGluIHRoYXQgYXJteS48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE1ODIiPkJvb25zPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk4eDY0P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1VbHRpbWF0ZS1DYW1wYWlnbg0KIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlVsdGltYXRlIENhbXBhaWduIHBnLiAyNDA8L2k+PC9hPjxiciAvPkJvb25zIGFyZSBzcGVjaWFsIGFiaWxpdGllcyBhIGNvbW1hbmRlciBncmFudHMgdG8gYW4gYXJteS4gTW9zdCBvZiB0aGVzZSBib29ucyBhZmZlY3QgdGhlIHJvbGxzIGFuZCBzdGF0aXN0aWNzIGZvciBiYXR0bGVzLCBhbmQgdGhlIGNvbW1hbmRlciBtdXN0IGJlIHByZXNlbnQgYXQgdGhlIGJhdHRsZSB0byBwcm92aWRlIHRoZWlyIGJlbmVmaXQuIEEgY29tbWFuZGVyIGdyYW50cyB0aGUgYXJteSBhbGwgdGhlIGJvb25zIHNoZSBrbm93cyAoc2hlIGRvZXNu4oCZdCBoYXZlIHRvIHNlbGVjdCBqdXN0IG9uZSkuIDxiciAvPjxiciAvPjxiPkJsb29kaWVkIGJ1dCBVbmJyb2tlbjwvYj46IFRoZSBjb21tYW5kZXIgaW5zcGlyZXMgdGhlIGFybXkgdG8gYmUgYXQgaXRzIGdyZWF0ZXN0IGluIHRoZSBtb3N0IGRlc3BlcmF0ZSB0aW1lcy4gV2hlbiBhbiBhcm154oCZcyBoaXQgcG9pbnRzIGFyZSBhdCBoYWxmIGl0cyBmdWxsIG5vcm1hbCBoaXQgcG9pbnRzIG9yIGZld2VyLCBpdCBnYWlucyBhICsxIGJvbnVzIG9uIE9mZmVuc2UgY2hlY2tzLiBBIGNvbW1hbmRlciBtdXN0IGhhdmUgTGVhZGVyc2hpcCA0IG9yIGhpZ2hlciB0byBzZWxlY3QgdGhpcyBib29uLiBBdCBMZWFkZXJzaGlwIDEwIG9yIGhpZ2hlciwgdGhpcyBib251cyBpbmNyZWFzZXMgdG8gKzIuIDxiciAvPjxiciAvPjxiPkJvbnVzIFRhY3RpYzwvYj46IENob29zZSBvbmUgdGFjdGljLiBUaGUgY29tbWFuZGVyIGFsd2F5cyBrbm93cyB0aGlzIHRhY3RpYywgYW5kIHRoZSBjb21tYW5kZXLigJlzIGFybXkgY2FuIHVzZSB0aGlzIHRhY3RpYyBldmVuIGlmIGl0IGRvZXNu4oCZdCBrbm93IHRoYXQgdGFjdGljIG9uIGl0cyBvd24uIFlvdSBjYW4gc2VsZWN0IHRoaXMgYm9vbiBtdWx0aXBsZSB0aW1lczsgZWFjaCB0aW1lIHlvdSBzZWxlY3QgaXQsIGNob29zZSBhIG5ldyB0YWN0aWMuIDxiciAvPjxiciAvPjxiPkRlZmVuc2l2ZSBUYWN0aWNzPC9iPjogVGhlIGNvbW1hbmRlciBpcyBlc3BlY2lhbGx5IGdvb2QgYXQgZGVmZW5zaXZlIHRhY3RpY3MuIEluY3JlYXNlIHRoZSBhcm154oCZcyBEViBieSAyLiBBIGNvbW1hbmRlciBtdXN0IGhhdmUgTGVhZGVyc2hpcCA1IG9yIGhpZ2hlciB0byBzZWxlY3QgdGhpcyBib29uLiA8YnIgLz48YnIgLz48Yj5GbGV4aWJsZSBUYWN0aWNzPC9iPjogVGhlIGNvbW1hbmRlciB0cmFpbnMgdGhlIGFybXkgdG8gYmUgcmVjZXB0aXZlIHRvIG11bHRpcGxlIG9yZGVycyBkdXJpbmcgYSBiYXR0bGUuIFRoZSBhcm15IGdhaW5zIGEgKzUgYm9udXMgb24gTW9yYWxlIGNoZWNrcyB0byBjaGFuZ2UgdGFjdGljcyBkdXJpbmcgYSBiYXR0bGUuIEEgY29tbWFuZGVyIG11c3QgaGF2ZSBMZWFkZXJzaGlwIDYgb3IgaGlnaGVyIHRvIHNlbGVjdCB0aGlzIGJvb24uIEF0IExlYWRlcnNoaXAgMTIgb3IgaGlnaGVyLCB0aGlzIGJvbnVzIGluY3JlYXNlcyB0byArMTAuIDxiciAvPjxiciAvPjxiPkhpdCBhbmQgUnVuPC9iPjogVGhlIGNvbW1hbmRlciBkcmlsbHMgdGhlIGFybXkgaW4gcXVpY2sgYXR0YWNrcyBmb2xsb3dlZCBieSBhIGZhc3QgcmV0cmVhdC4gQWZ0ZXIgYXR0YWNrcyBhcmUgcmVzb2x2ZWQgaW4gdGhlIFJhbmdlZCBwaGFzZSBvciB0aGUgZmlyc3QgTWVsZWUgcGhhc2UsIHRoZSBhcm15IG1heSB1c2UgdGhlIHdpdGhkcmF3IHRhY3RpYyB3aXRoIGEgKzIgYm9udXMgb24gaXRzIG9wcG9zZWQgTW9yYWxlIGNoZWNrcy4gQSBjb21tYW5kZXIgbXVzdCBoYXZlIExlYWRlcnNoaXAgNSBvciBoaWdoZXIgdG8gc2VsZWN0IHRoaXMgYm9vbi4gQXQgTGVhZGVyc2hpcCAxMCBvciBoaWdoZXIsIHRoaXMgYm9udXMgaW5jcmVhc2VzIHRvICs0LiA8YnIgLz48YnIgLz48Yj5Ib2xkIHRoZSBMaW5lPC9iPjogVGhlIGNvbW1hbmRlciBpcyBza2lsbGVkIGF0IGNvbnZpbmNpbmcgdGhlIGFybXkgdG8gbWFpbnRhaW4gbW9yYWxlIGFnYWluc3QgZGFuZ2Vyb3VzIG9wcG9uZW50cy4gSWYgdGhlIGFybXkgZmFpbHMgYSBNb3JhbGUgY2hlY2sgdG8gYXZvaWQgYSByb3V0LCBpdCBtYXkgcmVyb2xsIHRoYXQgY2hlY2suIEl0IG11c3QgYWNjZXB0IHRoZSByZXN1bHRzIG9mIHRoZSBzZWNvbmQgY2hlY2ssIGV2ZW4gaWYgaXQgaXMgd29yc2UuIDxiciAvPjxiciAvPjxiPkxpdmUgb2ZmIHRoZSBMYW5kPC9iPjogVGhlIGNvbW1hbmRlciBtYWtlcyB0aGUgYXJteSB0cmFwIGdhbWUsIGh1bnQsIGFuZCBmaXNoIHRvIGF1Z21lbnQgaXRzIGZvb2Qgc3VwcGxpZXMuIFJlZHVjZSB0aGUgYXJteeKAmXMgQ29uc3VtcHRpb24gYW5kIHNwZWVkIGJ5IGhhbGYgZm9yIGFueSB3ZWVrIHRoaXMgYm9vbiBpcyB1c2VkLiBUaGUgR00gbWF5IHJ1bGUgdGhhdCBIdWdlIGFuZCBsYXJnZXIgYXJtaWVzIGRlcGxldGUgdGhlIGF2YWlsYWJsZSByZXNvdXJjZXMgZnJvbSBhIGhleCBvdmVyIDFkMyB3ZWVrcywgcmVxdWlyaW5nIHRoZSBhcm15IHRvIG1vdmUgaWYgaXQgd2FudHMgdG8gbWFpbnRhaW4gdGhlIHJlZHVjZWQgQ29uc3VtcHRpb24gbGV2ZWwuIDxiciAvPjxiciAvPjxiPkxveWFsdHk8L2I+OiBUaGUgY29tbWFuZGVyIGluc3BpcmVzIGdyZWF0IGxveWFsdHkgaW4gdGhlIGFybXkuIFRoZSBhcm15IGdhaW5zIGEgKzIgYm9udXMgb24gYWxsIE1vcmFsZSBjaGVja3MuIEEgY29tbWFuZGVyIG11c3QgaGF2ZSBMZWFkZXJzaGlwIDYgb3IgaGlnaGVyIHRvIHNlbGVjdCB0aGlzIGJvb24uIEF0IExlYWRlcnNoaXAgMTIgb3IgaGlnaGVyLCB0aGlzIGJvbnVzIGluY3JlYXNlcyB0byArNC4gPGJyIC8+PGJyIC8+PGI+TWVyY2lsZXNzPC9iPjogVGhlIGNvbW1hbmRlciBlbmNvdXJhZ2VzIHRoZSBhcm15IHRvIGJlIHJ1dGhsZXNzIGluIGl0cyB0YWN0aWNzIGFuZCBzcGFyZSBubyB3b3VuZGVkIGVuZW1pZXMuIFRoZSBhcm15IGdhaW5zIGEgKzEgYm9udXMgb24gb3Bwb3NlZCBNb3JhbGUgY2hlY2tzIHRvIHByZXZlbnQgYW5vdGhlciBhcm15IGZyb20gd2l0aGRyYXdpbmcgYW5kIG9uIHRoZSBsYXN0IE9mZmVuc2UgY2hlY2sgYWdhaW5zdCBhIHJvdXRlZCBhcm15IG9yIG9uZSB1c2luZyB0aGUgd2l0aGRyYXcgdGFjdGljLiA8YnIgLz48YnIgLz48Yj5TaGFycHNob290ZXI8L2I+OiBUaGUgY29tbWFuZGVyIGRyaWxscyB0aGUgYXJteSBpbiBwcmVjaXNpb24gcmFuZ2VkIGF0dGFja3MuIFRoZSBhcm15IGdhaW5zIGEgKzIgYm9udXMgb24gT2ZmZW5zZSBjaGVja3MgYWdhaW5zdCBhcm1pZXMgdXNpbmcgZm9ydGlmaWNhdGlvbnMuIFRoaXMgYm9vbiBoYXMgbm8gZWZmZWN0IGlmIHRoZSBhcm15IGNhbuKAmXQgbWFrZSByYW5nZWQgYXR0YWNrcy4gPGJyIC8+PGJyIC8+PGI+VHJpYWdlPC9iPjogV2hldGhlciB1c2luZyBtYWdpYywgYWxjaGVteSwgaGVyYmFsaXNtLCBvciBmb2xrIGtub3dsZWRnZSwgdGhlIGNvbW1hbmRlciBkcmlsbHMgdGhlIGFybXkgaW4gdXNpbmcgZW1lcmdlbmN5IG1ldGhvZHMgdG8gdHJlYXQgd291bmRzLiBPbmNlIHBlciBiYXR0bGUsIHRoZSBhcm15IG1heSB0YWtlIGEg4oCTNCBwZW5hbHR5IG9uIGl0cyBPZmZlbnNlIGNoZWNrIGR1cmluZyB0aGUgUmFuZ2VkIG9yIE1lbGVlIHBoYXNlIGFuZCBoZWFsIGRhbWFnZSBlcXVhbCB0byBoYWxmIGl0cyBBQ1IuIElmIHRoZSBhcm15IGhhcyB0aGUgaGVhbGluZyBwb3Rpb25zIHJlc291cmNlLCBpdCBhbHNvIGdhaW5zIHRoZSBoZWFsaW5nIGZyb20gdGhpcyBib29uICh3aXRob3V0IHRoZSBPZmZlbnNlIGNoZWNrIHBlbmFsdHkpIHdoZW4gaXQgdXNlcyBoZWFsaW5nIHBvdGlvbnMuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNTgzIj5LaW5nZG9tIExlYWRlciBDb21tYW5kZXJzPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk4eDY0P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1VbHRpbWF0ZS1DYW1wYWlnbg0KIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlVsdGltYXRlIENhbXBhaWduIHBnLiAyNDA8L2k+PC9hPjxiciAvPklmIHlvdSBoYXZlIGEga2luZ2RvbSBsZWFkZXJzaGlwIHJvbGUgKFJ1bGVyLCBIaWdoIFByaWVzdCwgR3JhbmQgRGlwbG9tYXQsIGFuZCBzbyBvbiksIHlvdSBtYXkgdGFrZSB0aGUgcm9sZSBvZiBhbiBhcm15IGNvbW1hbmRlci4gVG8gZGV0ZXJtaW5lIHlvdXIgYm9udXMgb24gTW9yYWxlIGNoZWNrcyBhbmQgdGhlIG1heGltdW0gbnVtYmVyIG9mIGJvb25zIHlvdSBjYW4ga25vdywgdXNlIGVpdGhlciBvbmUtZmlmdGggeW91ciByYW5rcyBpbiBQcm9mZXNzaW9uIChzb2xkaWVyKSBvciBvbmUtc2l4dGggeW91ciBjaGFyYWN0ZXIgbGV2ZWwsIHdoaWNoZXZlciBpcyBoaWdoZXIgKG1pbmltdW0gMSkuIEFzIHdpdGggb3RoZXIgY29tbWFuZGVycywgeW91IG11c3QgcmVtYWluIGFjdGl2ZSB3aXRoIHRoZSBhcm15IHRvIGdyYW50IHlvdXIgY29tbWFuZGVyIGJvbnVzIG9uIE1vcmFsZSBjaGVja3MsIGFuZCBtdXN0IGJlIGF0IHRoZSBiYXR0bGUgdG8gcHJvdmlkZSB0YWN0aWNzIGFuZCBib251c2VzLjxiciAvPjxiciAvPiBZb3VyIGxlYWRlcnNoaXAgcm9sZSBkZXRlcm1pbmVzIHdoYXQgYm9vbnMgeW91IGF1dG9tYXRpY2FsbHkga25vdyAoZXZlbiBpZiB5b3UgZG9u4oCZdCBtZWV0IHRoZSBMZWFkZXJzaGlwIHJlcXVpcmVtZW50cyBmb3IgdGhvc2UgYm9vbnMpLiBJZiBhIHJvbGUgbGlzdHMgbXVsdGlwbGUgYm9vbnMsIHlvdSBtdXN0IGNob29zZSBvbmUgd2hlbiB5b3UgYmVjb21lIGEgY29tbWFuZGVyLiAoT3RoZXJzIG1heSBiZSBnYWluZWQgaW4gdGhlIG5vcm1hbCBtYW5uZXIpLiA8YnIgLz48YnIgLz48Yj5SdWxlcjwvYj46IEJsb29kaWVkIGJ1dCBVbmJyb2tlbiwgTG95YWx0eSA8YnIgLz48YnIgLz48Yj5Db25zb3J0PC9iPjogTG95YWx0eSA8YnIgLz48YnIgLz48Yj5Db3VuY2lsb3I8L2I+OiBMb3lhbHR5IDxiciAvPjxiciAvPjxiPkdlbmVyYWw8L2I+OiBCb251cyBUYWN0aWMsIEZsZXhpYmxlIFRhY3RpY3MsIE1lcmNpbGVzcywgU2hhcnBzaG9vdGVyIDxiciAvPjxiciAvPjxiPkdyYW5kIERpcGxvbWF0PC9iPjogRGVmZW5zaXZlIFRhY3RpY3MsIE1lcmNpbGVzcyA8YnIgLz48YnIgLz48Yj5IZWlyPC9iPjogTG95YWx0eSA8YnIgLz48YnIgLz48Yj5IaWdoIFByaWVzdDwvYj46IEhvbGQgdGhlIExpbmUsIExpdmUgb2ZmIHRoZSBMYW5kLCBUcmlhZ2UgPGJyIC8+PGJyIC8+PGI+TWFnaXN0ZXI8L2I+OiBGbGV4aWJsZSBUYWN0aWNzLCBMb3lhbHR5IDxiciAvPjxiciAvPjxiPk1hcnNoYWw8L2I+OiBMaXZlIG9mZiB0aGUgTGFuZCwgSGl0IGFuZCBSdW4sIFNoYXJwc2hvb3RlciwgVHJpYWdlIDxiciAvPjxiciAvPjxiPlJveWFsIEVuZm9yY2VyPC9iPjogQm9udXMgVGFjdGljLCBNZXJjaWxlc3MsIFNoYXJwc2hvb3RlciA8YnIgLz48YnIgLz48Yj5TcHltYXN0ZXI8L2I+OiBIaXQgYW5kIFJ1biwgTWVyY2lsZXNzLCBTaGFycHNob290ZXIgPGJyIC8+PGJyIC8+PGI+VHJlYXN1cmVyPC9iPjogTG95YWx0eSA8YnIgLz48YnIgLz48Yj5WaWNlcm95PC9iPjogTG95YWx0eSA8YnIgLz48YnIgLz48Yj5XYXJkZW48L2I+OiBEZWZlbnNpdmUgVGFjdGljcywgSG9sZCB0aGUgTGluZSwgTG95YWx0eTxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTU4NCI+TG9zaW5nIENvbW1hbmRlcnM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTh4NjQ/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVVsdGltYXRlLUNhbXBhaWduDQoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+VWx0aW1hdGUgQ2FtcGFpZ24gcGcuIDI0MTwvaT48L2E+PGJyIC8+SWYgYW4gYXJteSBpcyBkZXN0cm95ZWQgYW5kIHRoZSBjb21tYW5kZXIgaXMgYW4gTlBDLCB0aGUgY29tbWFuZGVyIGlzIGtpbGxlZCAoMDHigJMyMCksIGNhcHR1cmVkICgyMeKAkzcwKSwgb3IgZXNjYXBlcyAoNzHigJMwMCkuIEFuIGFybXkgb2YgbWluZGxlc3MgY3JlYXR1cmVzIGtpbGxzIGFsbCBjYXB0dXJlZCBOUEMgY29tbWFuZGVycy4gWW91IG1heSByYW5zb20gYSBjYXB0dXJlZCBjb21tYW5kZXIgYnkgcGF5aW5nIEJQIGVxdWFsIHRvIHRoZSBjb21tYW5kZXLigJlzIGFybXnigJlzIENvbnN1bXB0aW9uIChpZiBjYXB0dXJlZCBieSBhbm90aGVyIGtpbmdkb20sIHRoaXMgZ29lcyB0byB0aGF0IGtpbmdkb23igJlzIFRyZWFzdXJ5KS4gQSBjb21tYW5kZXIgd2l0aCBhIGhpc3Rvcnkgb2YgbG9zaW5nIGJhdHRsZXMsIGJlaW5nIGNhcHR1cmVkLCBhbmQgYmVpbmcgcmFuc29tZWQgZ2FpbnMgYW4gdW5sdWNreSByZXB1dGF0aW9uIGFtb25nIHlvdXIgdHJvb3BzIGFuZCByZWR1Y2VzIHRoZSBNb3JhbGUgb2YgYW55IGFybXkgdW5kZXIgaGVyIGJ5IDEuPGJyIC8+PGJyIC8+IElmIHlvdSBhcmUgdGhlIGNvbW1hbmRlciBhbmQgeW91ciBhcm15IGlzIGRlc3Ryb3llZCwgdGhlIEdNIHNob3VsZCBwcmVzZW50IHlvdSB3aXRoIGFuIG9wcG9ydHVuaXR5IHRvIGVzY2FwZSB3aXRoIHNlcmlvdXMgaW5qdXJpZXMgKGF0IDI1JSBocCBvciBsb3dlciksIG90aGVyd2lzZSB5b3UgYXJlIGNhcHR1cmVkIGFuZCBoZWxkIGZvciByYW5zb20uIFRoZSBvdGhlciBQQ3MgbWF5IHBheSBCUCwgZ29sZCwgb3Igb3RoZXIgdHJlYXN1cmVzIHRvIHJhbnNvbSB5b3UsIG9yIHRoZSBHTSBtYXkgYWxsb3cgdGhlIG90aGVyIFBDcyB0byBoYXZlIGFuIGFkdmVudHVyZSB3aGVyZSB0aGV5IGF0dGVtcHQgdG8gcmVzY3VlIHlvdSBpbnN0ZWFkIG9mIHNpbXBseSBidXlpbmcgeW91ciBmcmVlZG9tLmRkZKi3PqX8UXIgvrGdXjUz5nZGZeUe6+8Olojh+Y7/8jrX" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1488">Kingdoms and War</a></u> / <u><a href="Rules.aspx?ID=1565">Mass Combat</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=1581">Commanders</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 239</i></a><br />An army’s commander helps maximize its effectiveness and can provide special bonuses to an army. The commander can be a PC or NPC. Unless you decide to command an army personally or the GM allows you to recruit an exceptional commander through adventuring and roleplaying, a new army’s commander is an unexceptional leader who provides no bonuses to the army.<br /><br /> The Mass Combat Army Sheet has a space to record information about the commander of each of your armies. In addition, there’s also a space to record information for a general—a general is a character (often you) assigned to administrate your armies, but is primarily a figurehead and grants no bonuses herself unless actively leading a particular army. The relevant information is as follows (assume a value of 0 unless otherwise specified). <br /><br /><b>Name</b>: This lists the commander’s name (and class and level, if notable).<br /><br /> <b>Charisma Modifier</b>: This lists the commander’s Charisma modifier. It is added to the army’s Morale checks. <br /><br /><b>Profession (soldier)</b>: This is the commander’s ranks in Profession (soldier). Divide the number of ranks by 5 (minimum 0) and add that number to the army’s Morale checks. <br /><br /><b>Leadership</b>: The commander’s character level + Charisma modifier. If the commander is a monster, use HD instead of character level. If the commander has the <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Leadership">Leadership</a> feat, increase this value by 3. This number is a prerequisite for some boons. <br /><br /><b>Boons</b>: This lists the boons the commander knows (see below). A commander’s maximum number of boons known is 1, plus 1 for every 5 ranks in Profession (soldier). A new or unexceptional commander might know no boons at first, but can gain them from victories in battle. If you’re a kingdom leader acting as a commander, you automatically have one boon appropriate to your leadership role (see below).<br /><br /> The commander must be active with the army to grant a bonus on Morale checks or a boon to the army. Being active requires spending at least 3 days per week with the army. An army without a commander (whether because the commander is dead or because she isn’t spending enough time with the army) loses 1 Morale per week. You may offset this loss by doubling the army’s Consumption that week.<br /><br /> If you have an army without a commander and you have no commanders available to fill that role, you may promote a unit from the army to be an unexceptional commander. This commander has a +0 Charisma modifier, 0 ranks in Profession (soldier), and a Leadership score based on the level or HD of a typical unit in that army.<br /><h1 class="title"><a href="Rules.aspx?ID=1582">Boons</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 240</i></a><br />Boons are special abilities a commander grants to an army. Most of these boons affect the rolls and statistics for battles, and the commander must be present at the battle to provide their benefit. A commander grants the army all the boons she knows (she doesn’t have to select just one). <br /><br /><b>Bloodied but Unbroken</b>: The commander inspires the army to be at its greatest in the most desperate times. When an army’s hit points are at half its full normal hit points or fewer, it gains a +1 bonus on Offense checks. A commander must have Leadership 4 or higher to select this boon. At Leadership 10 or higher, this bonus increases to +2. <br /><br /><b>Bonus Tactic</b>: Choose one tactic. The commander always knows this tactic, and the commander’s army can use this tactic even if it doesn’t know that tactic on its own. You can select this boon multiple times; each time you select it, choose a new tactic. <br /><br /><b>Defensive Tactics</b>: The commander is especially good at defensive tactics. Increase the army’s DV by 2. A commander must have Leadership 5 or higher to select this boon. <br /><br /><b>Flexible Tactics</b>: The commander trains the army to be receptive to multiple orders during a battle. The army gains a +5 bonus on Morale checks to change tactics during a battle. A commander must have Leadership 6 or higher to select this boon. At Leadership 12 or higher, this bonus increases to +10. <br /><br /><b>Hit and Run</b>: The commander drills the army in quick attacks followed by a fast retreat. After attacks are resolved in the Ranged phase or the first Melee phase, the army may use the withdraw tactic with a +2 bonus on its opposed Morale checks. A commander must have Leadership 5 or higher to select this boon. At Leadership 10 or higher, this bonus increases to +4. <br /><br /><b>Hold the Line</b>: The commander is skilled at convincing the army to maintain morale against dangerous opponents. If the army fails a Morale check to avoid a rout, it may reroll that check. It must accept the results of the second check, even if it is worse. <br /><br /><b>Live off the Land</b>: The commander makes the army trap game, hunt, and fish to augment its food supplies. Reduce the army’s Consumption and speed by half for any week this boon is used. The GM may rule that Huge and larger armies deplete the available resources from a hex over 1d3 weeks, requiring the army to move if it wants to maintain the reduced Consumption level. <br /><br /><b>Loyalty</b>: The commander inspires great loyalty in the army. The army gains a +2 bonus on all Morale checks. A commander must have Leadership 6 or higher to select this boon. At Leadership 12 or higher, this bonus increases to +4. <br /><br /><b>Merciless</b>: The commander encourages the army to be ruthless in its tactics and spare no wounded enemies. The army gains a +1 bonus on opposed Morale checks to prevent another army from withdrawing and on the last Offense check against a routed army or one using the withdraw tactic. <br /><br /><b>Sharpshooter</b>: The commander drills the army in precision ranged attacks. The army gains a +2 bonus on Offense checks against armies using fortifications. This boon has no effect if the army can’t make ranged attacks. <br /><br /><b>Triage</b>: Whether using magic, alchemy, herbalism, or folk knowledge, the commander drills the army in using emergency methods to treat wounds. Once per battle, the army may take a –4 penalty on its Offense check during the Ranged or Melee phase and heal damage equal to half its ACR. If the army has the healing potions resource, it also gains the healing from this boon (without the Offense check penalty) when it uses healing potions.<br /><h1 class="title"><a href="Rules.aspx?ID=1583">Kingdom Leader Commanders</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 240</i></a><br />If you have a kingdom leadership role (Ruler, High Priest, Grand Diplomat, and so on), you may take the role of an army commander. To determine your bonus on Morale checks and the maximum number of boons you can know, use either one-fifth your ranks in Profession (soldier) or one-sixth your character level, whichever is higher (minimum 1). As with other commanders, you must remain active with the army to grant your commander bonus on Morale checks, and must be at the battle to provide tactics and bonuses.<br /><br /> Your leadership role determines what boons you automatically know (even if you don’t meet the Leadership requirements for those boons). If a role lists multiple boons, you must choose one when you become a commander. (Others may be gained in the normal manner). <br /><br /><b>Ruler</b>: Bloodied but Unbroken, Loyalty <br /><br /><b>Consort</b>: Loyalty <br /><br /><b>Councilor</b>: Loyalty <br /><br /><b>General</b>: Bonus Tactic, Flexible Tactics, Merciless, Sharpshooter <br /><br /><b>Grand Diplomat</b>: Defensive Tactics, Merciless <br /><br /><b>Heir</b>: Loyalty <br /><br /><b>High Priest</b>: Hold the Line, Live off the Land, Triage <br /><br /><b>Magister</b>: Flexible Tactics, Loyalty <br /><br /><b>Marshal</b>: Live off the Land, Hit and Run, Sharpshooter, Triage <br /><br /><b>Royal Enforcer</b>: Bonus Tactic, Merciless, Sharpshooter <br /><br /><b>Spymaster</b>: Hit and Run, Merciless, Sharpshooter <br /><br /><b>Treasurer</b>: Loyalty <br /><br /><b>Viceroy</b>: Loyalty <br /><br /><b>Warden</b>: Defensive Tactics, Hold the Line, Loyalty<br /><h1 class="title"><a href="Rules.aspx?ID=1584">Losing Commanders</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 241</i></a><br />If an army is destroyed and the commander is an NPC, the commander is killed (01–20), captured (21–70), or escapes (71–00). An army of mindless creatures kills all captured NPC commanders. You may ransom a captured commander by paying BP equal to the commander’s army’s Consumption (if captured by another kingdom, this goes to that kingdom’s Treasury). A commander with a history of losing battles, being captured, and being ransomed gains an unlucky reputation among your troops and reduces the Morale of any army under her by 1.<br /><br /> If you are the commander and your army is destroyed, the GM should present you with an opportunity to escape with serious injuries (at 25% hp or lower), otherwise you are captured and held for ransom. The other PCs may pay BP, gold, or other treasures to ransom you, or the GM may allow the other PCs to have an adventure where they attempt to rescue you instead of simply buying your freedom.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

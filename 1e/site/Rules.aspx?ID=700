@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Creating a Spell - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Creating a Spell" /><meta name="description" content="Successfully researching a new spell requires time and expensive research. An optional system for researching new spells is outlined below. The research should cost at least 1,000 gp per spell level (or even more for particularly exotic spells) and require both the Spellcraft skill and a Knowledge skill appropriate to the researcher’s class. Wizards and bards use Knowledge (arcana), sorcerers use a Knowledge skill appropriate to their heritage (usually arcana, nature, or planes), druids and rangers use the Knowledge (nature) skill, and clerics and paladins use Knowledge (religion). The actual research process varies by the type of spell, often involving magical experimentation, the purchase and study of moldy scrolls and grimoires, contact with powerful magical beings or outsiders, and extensive meditation or rituals.&lt;br />&lt;br /> For each week of research, the caster makes separate Knowledge and Spellcraft checks against a DC of 20 plus twice the level of the spell being researched, modified according to Table 5–1. To successfully research the spell, the caster must succeed at both checks. Failure indicates the week was wasted. Spells of 4th–6th level requires 2 weeks of successful research, while spells of 7th–9th level require 4 weeks. The researcher may employ up to two assistants in the research process to assist on the skill checks using the aid another action (see page 86 of the &lt;i>Pathfinder RPG Core Rulebook&lt;/i>).&lt;br />&lt;h2>Table 5-1: Spell Research Materials&lt;/h2>&lt;table class=&quot;inner&quot;>&lt;tr>&lt;td>&lt;b>Condition&lt;/b>&lt;/td>&lt;td>&lt;b>DC Modifier&lt;/b>&lt;/td>&lt;/tr>&lt;tr>&lt;td>Caster already knows a similar spell&lt;/td>&lt;td>-2&lt;/td>&lt;/tr>&lt;tr>&lt;td>Per material component required&lt;/td>&lt;td>-2 (maximum -6)&lt;/td>&lt;/tr>&lt;tr>&lt;td>Focus required&lt;/td>&lt;td>-2 to -5, based on cost and rarity&lt;/td>&lt;/tr>&lt;tr>&lt;td>No verbal component&lt;/td>&lt;td>+10&lt;/td>&lt;/tr>&lt;tr>&lt;td>No somatic component&lt;/td>&lt;td>+5&lt;/td>&lt;/tr>&lt;tr>&lt;td>Additional research materials&lt;/td>&lt;td>-1 per 100 gp per spell level (maximum +5)&lt;/td>&lt;/tr>&lt;/table>" /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=700" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWlEzx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDU0Ij5HYW1lTWFzdGVyeSBHdWlkZTwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD02NjIiPlJld2FyZHM8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9Njk3Ij5QQ3MgQ29udHJvbGxpbmcgUmV3YXJkczwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD02OTgiPlJlc2VhcmNoIGFuZCBEZXNpZ25pbmcgU3BlbGxzPC9hPjwvdT48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTcwMCI+Q3JlYXRpbmcgYSBTcGVsbDwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDExNDwvaT48L2E+PGJyIC8+U3VjY2Vzc2Z1bGx5IHJlc2VhcmNoaW5nIGEgbmV3IHNwZWxsIHJlcXVpcmVzIHRpbWUgYW5kIGV4cGVuc2l2ZSByZXNlYXJjaC4gQW4gb3B0aW9uYWwgc3lzdGVtIGZvciByZXNlYXJjaGluZyBuZXcgc3BlbGxzIGlzIG91dGxpbmVkIGJlbG93LiBUaGUgcmVzZWFyY2ggc2hvdWxkIGNvc3QgYXQgbGVhc3QgMSwwMDAgZ3AgcGVyIHNwZWxsIGxldmVsIChvciBldmVuIG1vcmUgZm9yIHBhcnRpY3VsYXJseSBleG90aWMgc3BlbGxzKSBhbmQgcmVxdWlyZSBib3RoIHRoZSBTcGVsbGNyYWZ0IHNraWxsIGFuZCBhIEtub3dsZWRnZSBza2lsbCBhcHByb3ByaWF0ZSB0byB0aGUgcmVzZWFyY2hlcuKAmXMgY2xhc3MuIFdpemFyZHMgYW5kIGJhcmRzIHVzZSBLbm93bGVkZ2UgKGFyY2FuYSksIHNvcmNlcmVycyB1c2UgYSBLbm93bGVkZ2Ugc2tpbGwgYXBwcm9wcmlhdGUgdG8gdGhlaXIgaGVyaXRhZ2UgKHVzdWFsbHkgYXJjYW5hLCBuYXR1cmUsIG9yIHBsYW5lcyksIGRydWlkcyBhbmQgcmFuZ2VycyB1c2UgdGhlIEtub3dsZWRnZSAobmF0dXJlKSBza2lsbCwgYW5kIGNsZXJpY3MgYW5kIHBhbGFkaW5zIHVzZSBLbm93bGVkZ2UgKHJlbGlnaW9uKS4gVGhlIGFjdHVhbCByZXNlYXJjaCBwcm9jZXNzIHZhcmllcyBieSB0aGUgdHlwZSBvZiBzcGVsbCwgb2Z0ZW4gaW52b2x2aW5nIG1hZ2ljYWwgZXhwZXJpbWVudGF0aW9uLCB0aGUgcHVyY2hhc2UgYW5kIHN0dWR5IG9mIG1vbGR5IHNjcm9sbHMgYW5kIGdyaW1vaXJlcywgY29udGFjdCB3aXRoIHBvd2VyZnVsIG1hZ2ljYWwgYmVpbmdzIG9yIG91dHNpZGVycywgYW5kIGV4dGVuc2l2ZSBtZWRpdGF0aW9uIG9yIHJpdHVhbHMuPGJyIC8+PGJyIC8+IEZvciBlYWNoIHdlZWsgb2YgcmVzZWFyY2gsIHRoZSBjYXN0ZXIgbWFrZXMgc2VwYXJhdGUgS25vd2xlZGdlIGFuZCBTcGVsbGNyYWZ0IGNoZWNrcyBhZ2FpbnN0IGEgREMgb2YgMjAgcGx1cyB0d2ljZSB0aGUgbGV2ZWwgb2YgdGhlIHNwZWxsIGJlaW5nIHJlc2VhcmNoZWQsIG1vZGlmaWVkIGFjY29yZGluZyB0byBUYWJsZSA14oCTMS4gVG8gc3VjY2Vzc2Z1bGx5IHJlc2VhcmNoIHRoZSBzcGVsbCwgdGhlIGNhc3RlciBtdXN0IHN1Y2NlZWQgYXQgYm90aCBjaGVja3MuIEZhaWx1cmUgaW5kaWNhdGVzIHRoZSB3ZWVrIHdhcyB3YXN0ZWQuIFNwZWxscyBvZiA0dGjigJM2dGggbGV2ZWwgcmVxdWlyZXMgMiB3ZWVrcyBvZiBzdWNjZXNzZnVsIHJlc2VhcmNoLCB3aGlsZSBzcGVsbHMgb2YgN3Ro4oCTOXRoIGxldmVsIHJlcXVpcmUgNCB3ZWVrcy4gVGhlIHJlc2VhcmNoZXIgbWF5IGVtcGxveSB1cCB0byB0d28gYXNzaXN0YW50cyBpbiB0aGUgcmVzZWFyY2ggcHJvY2VzcyB0byBhc3Npc3Qgb24gdGhlIHNraWxsIGNoZWNrcyB1c2luZyB0aGUgYWlkIGFub3RoZXIgYWN0aW9uIChzZWUgcGFnZSA4NiBvZiB0aGUgPGk+UGF0aGZpbmRlciBSUEcgQ29yZSBSdWxlYm9vazwvaT4pLjxiciAvPjxoMj5UYWJsZSA1LTE6IFNwZWxsIFJlc2VhcmNoIE1hdGVyaWFsczwvaDI+PHRhYmxlIGNsYXNzPSJpbm5lciI+PHRyPjx0ZD48Yj5Db25kaXRpb248L2I+PC90ZD48dGQ+PGI+REMgTW9kaWZpZXI8L2I+PC90ZD48L3RyPjx0cj48dGQ+Q2FzdGVyIGFscmVhZHkga25vd3MgYSBzaW1pbGFyIHNwZWxsPC90ZD48dGQ+LTI8L3RkPjwvdHI+PHRyPjx0ZD5QZXIgbWF0ZXJpYWwgY29tcG9uZW50IHJlcXVpcmVkPC90ZD48dGQ+LTIgKG1heGltdW0gLTYpPC90ZD48L3RyPjx0cj48dGQ+Rm9jdXMgcmVxdWlyZWQ8L3RkPjx0ZD4tMiB0byAtNSwgYmFzZWQgb24gY29zdCBhbmQgcmFyaXR5PC90ZD48L3RyPjx0cj48dGQ+Tm8gdmVyYmFsIGNvbXBvbmVudDwvdGQ+PHRkPisxMDwvdGQ+PC90cj48dHI+PHRkPk5vIHNvbWF0aWMgY29tcG9uZW50PC90ZD48dGQ+KzU8L3RkPjwvdHI+PHRyPjx0ZD5BZGRpdGlvbmFsIHJlc2VhcmNoIG1hdGVyaWFsczwvdGQ+PHRkPi0xIHBlciAxMDAgZ3AgcGVyIHNwZWxsIGxldmVsIChtYXhpbXVtICs1KTwvdGQ+PC90cj48L3RhYmxlPmRkZNLXoCDI9dIVCLR3ZGRvMm/dOyNswH6ByZNQHQsQzK5r" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=454">GameMastery Guide</a></u> / <u><a href="Rules.aspx?ID=662">Rewards</a></u> / <u><a href="Rules.aspx?ID=697">PCs Controlling Rewards</a></u> / <u><a href="Rules.aspx?ID=698">Research and Designing Spells</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=700">Creating a Spell</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 114</i></a><br />Successfully researching a new spell requires time and expensive research. An optional system for researching new spells is outlined below. The research should cost at least 1,000 gp per spell level (or even more for particularly exotic spells) and require both the Spellcraft skill and a Knowledge skill appropriate to the researcher’s class. Wizards and bards use Knowledge (arcana), sorcerers use a Knowledge skill appropriate to their heritage (usually arcana, nature, or planes), druids and rangers use the Knowledge (nature) skill, and clerics and paladins use Knowledge (religion). The actual research process varies by the type of spell, often involving magical experimentation, the purchase and study of moldy scrolls and grimoires, contact with powerful magical beings or outsiders, and extensive meditation or rituals.<br /><br /> For each week of research, the caster makes separate Knowledge and Spellcraft checks against a DC of 20 plus twice the level of the spell being researched, modified according to Table 5–1. To successfully research the spell, the caster must succeed at both checks. Failure indicates the week was wasted. Spells of 4th–6th level requires 2 weeks of successful research, while spells of 7th–9th level require 4 weeks. The researcher may employ up to two assistants in the research process to assist on the skill checks using the aid another action (see page 86 of the <i>Pathfinder RPG Core Rulebook</i>).<br /><h2>Table 5-1: Spell Research Materials</h2><table class="inner"><tr><td><b>Condition</b></td><td><b>DC Modifier</b></td></tr><tr><td>Caster already knows a similar spell</td><td>-2</td></tr><tr><td>Per material component required</td><td>-2 (maximum -6)</td></tr><tr><td>Focus required</td><td>-2 to -5, based on cost and rarity</td></tr><tr><td>No verbal component</td><td>+10</td></tr><tr><td>No somatic component</td><td>+5</td></tr><tr><td>Additional research materials</td><td>-1 per 100 gp per spell level (maximum +5)</td></tr></table></span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

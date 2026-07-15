@@ -1,0 +1,270 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Innate Item Bonuses - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Innate Item Bonuses" /><meta name="description" content="Some GMs may find themselves frustrated by the need for players to seek out magic items granting specific bonuses. Under this new system, characters gain the statistical bonuses they’re expected to gain from magic items as they level up so long as they have any item in the relevant slot, instead of needing specific items. The system involves minimal alterations to existing items, and works especially well for campaigns with higher than normal wealth.&lt;br />&lt;br /> The rules in the &lt;a style=&quot;text-decoration:underline&quot; href=&quot;Rules.aspx?Name=Automatic Bonus Progression&amp;Category=Pathfinder Unchained&quot;>Automatic Bonus Progression section&lt;/a> downplay the role of magic items by granting bonuses to characters directly as they increase in level, and restricting the abilities of magic items. However, those rules don’t work as well as the innate item bonuses system does in games that include more magic items than is assumed in the &lt;i>Core Rulebook&lt;/i>. In addition, this system helps those GMs who prefer to emphasize the wonder and power of magic items." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=1961" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAW5Wzx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTcyNSI+UGF0aGZpbmRlciBVbmNoYWluZWQ8L2E+PC91PjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTk2MSI+SW5uYXRlIEl0ZW0gQm9udXNlczwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWMyNT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtUGF0aGZpbmRlci1VbmNoYWluZWQiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UGF0aGZpbmRlciBVbmNoYWluZWQgcGcuIDE1ODwvaT48L2E+PGJyIC8+U29tZSBHTXMgbWF5IGZpbmQgdGhlbXNlbHZlcyBmcnVzdHJhdGVkIGJ5IHRoZSBuZWVkIGZvciBwbGF5ZXJzIHRvIHNlZWsgb3V0IG1hZ2ljIGl0ZW1zIGdyYW50aW5nIHNwZWNpZmljIGJvbnVzZXMuIFVuZGVyIHRoaXMgbmV3IHN5c3RlbSwgY2hhcmFjdGVycyBnYWluIHRoZSBzdGF0aXN0aWNhbCBib251c2VzIHRoZXnigJlyZSBleHBlY3RlZCB0byBnYWluIGZyb20gbWFnaWMgaXRlbXMgYXMgdGhleSBsZXZlbCB1cCBzbyBsb25nIGFzIHRoZXkgaGF2ZSBhbnkgaXRlbSBpbiB0aGUgcmVsZXZhbnQgc2xvdCwgaW5zdGVhZCBvZiBuZWVkaW5nIHNwZWNpZmljIGl0ZW1zLiBUaGUgc3lzdGVtIGludm9sdmVzIG1pbmltYWwgYWx0ZXJhdGlvbnMgdG8gZXhpc3RpbmcgaXRlbXMsIGFuZCB3b3JrcyBlc3BlY2lhbGx5IHdlbGwgZm9yIGNhbXBhaWducyB3aXRoIGhpZ2hlciB0aGFuIG5vcm1hbCB3ZWFsdGguPGJyIC8+PGJyIC8+IFRoZSBydWxlcyBpbiB0aGUgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlJ1bGVzLmFzcHg/TmFtZT1BdXRvbWF0aWMgQm9udXMgUHJvZ3Jlc3Npb24mQ2F0ZWdvcnk9UGF0aGZpbmRlciBVbmNoYWluZWQiPkF1dG9tYXRpYyBCb251cyBQcm9ncmVzc2lvbiBzZWN0aW9uPC9hPiBkb3ducGxheSB0aGUgcm9sZSBvZiBtYWdpYyBpdGVtcyBieSBncmFudGluZyBib251c2VzIHRvIGNoYXJhY3RlcnMgZGlyZWN0bHkgYXMgdGhleSBpbmNyZWFzZSBpbiBsZXZlbCwgYW5kIHJlc3RyaWN0aW5nIHRoZSBhYmlsaXRpZXMgb2YgbWFnaWMgaXRlbXMuIEhvd2V2ZXIsIHRob3NlIHJ1bGVzIGRvbuKAmXQgd29yayBhcyB3ZWxsIGFzIHRoZSBpbm5hdGUgaXRlbSBib251c2VzIHN5c3RlbSBkb2VzIGluIGdhbWVzIHRoYXQgaW5jbHVkZSBtb3JlIG1hZ2ljIGl0ZW1zIHRoYW4gaXMgYXNzdW1lZCBpbiB0aGUgPGk+Q29yZSBSdWxlYm9vazwvaT4uIEluIGFkZGl0aW9uLCB0aGlzIHN5c3RlbSBoZWxwcyB0aG9zZSBHTXMgd2hvIHByZWZlciB0byBlbXBoYXNpemUgdGhlIHdvbmRlciBhbmQgcG93ZXIgb2YgbWFnaWMgaXRlbXMuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xOTYyIj5Cb251cyBhbmQgUHJpY2UgT3ZlcnZpZXc8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTljMjU/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVBhdGhmaW5kZXItVW5jaGFpbmVkIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBhdGhmaW5kZXIgVW5jaGFpbmVkIHBnLiAxNTg8L2k+PC9hPjxiciAvPkluIHRoaXMgc3lzdGVtLCB0aGUgYm9udXMgYSBtYWdpYyBpdGVtIGdyYW50cyBjb3JyZXNwb25kcyB0byB0aGUgaXRlbeKAmXMgc3RhcnRpbmcgbWFya2V0IHByaWNlIGFzIGl0IGFwcGVhcnMgaW4gdGhlIGl0ZW3igJlzIG9yaWdpbmFsIHN0YXRpc3RpY3MuIFRoaXMgcHJpY2UgaXMgc2hvd24gb24gZWFjaCB0YWJsZSBpbiB0aGlzIHNlY3Rpb24gaW4gdGhlIOKAnFN0YXJ0aW5nIFByaWNl4oCdIGNvbHVtbi4gVGhlIHNlY29uZCBjb2x1bW4gc2hvd3MgdGhlIHZhbHVlIG9mIHRoZSBib251cyBhdCBhIHBhcnRpY3VsYXIgcHJpY2UgcmFuZ2UsIGFuZCB0aGUgaGVhZGVyIGluZGljYXRlcyB0byB3aGljaCBzdGF0aXN0aWNzIHRoZSBib251cyBhcHBsaWVzLiBJbiBhZGRpdGlvbiwgYW55IGl0ZW0gdGhhdCBnYWlucyBhbiBpbm5hdGUgaXRlbSBib251cyBhbHNvIGluY3JlYXNlcyBpdHMgbWFya2V0IHByaWNlIGJ5IHRoZSBhbW91bnQgc2hvd24gb24gZWFjaCB0YWJsZeKAmXMg4oCcUHJpY2UgSW5jcmVhc2XigJ0gY29sdW1uLjxiciAvPjxiciAvPiBGb3IgZXhhbXBsZSwgYSA8aT5iZWx0IG9mIGR3YXJ2ZW5raW5kPC9pPiBpc27igJl0IGEgcG9wdWxhciBjaG9pY2UsIHNpbmNlIHBsYXllcnMgdHlwaWNhbGx5IHdhbnQgYSA8aT5iZWx0IG9mIGdpYW50IHN0cmVuZ3RoICs0PC9pPiBvciBzaW1pbGFyIGl0ZW0gZm9yIGNsb3NlIHRvIHRoZSBzYW1lIHByaWNlLiBXaGVuIHVzaW5nIGlubmF0ZSBib251c2VzLCBpdGVtcyBzdWNoIGFzIHRoZSA8aT5iZWx0IG9mIGdpYW50IHN0cmVuZ3RoPC9pPuKAlHdoaWNoIG9ubHkgZ3JhbnRzIGFuIGVuaGFuY2VtZW50IGJvbnVz4oCUd291bGRu4oCZdCBleGlzdCwgYW5kIHRoZSA8aT5iZWx0IG9mIGR3YXJ2ZW5raW5kPC9pPiB3b3VsZCBjb3VudCBhcyBhIGJvZHkgc2xvdCBpdGVtIChzZWUgdGhlIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJSdWxlcy5hc3B4P05hbWU9V29uZHJvdXMgSXRlbXMmQ2F0ZWdvcnk9SW5uYXRlIEl0ZW0gQm9udXNlcyI+QWx0ZXJlZCBJdGVtIFNsb3RzIHNlY3Rpb24gdW5kZXIgV29uZHJvdXMgSXRlbXM8L2E+KS4gU2luY2UgaXQgY29zdHMgMTQsOTAwIGdwIGluIHRoZSA8aT5Db3JlIFJ1bGVib29rPC9pPiwgaXQgd291bGQgZ3JhbnQgYSArMiBib251cyB0byB0d28gYWJpbGl0eSBzY29yZXMgaW4gYWRkaXRpb24gdG8gaXRzIHVzdWFsIGVmZmVjdHMsIGFuZCBjb3N0IGFuIGFkZGl0aW9uYWwgMTAsMDAwIGdwLCBmb3IgYSB0b3RhbCBvZiAyNCw5MDAgZ3AuPGJyIC8+PGJyIC8+IFRoZSBwcmljZSBpbmNyZWFzZSBtZWFucyB0aGF0IGEgc2lnbmlmaWNhbnQgcmFuZ2Ugb2YgcHJpY2VzIGRvZXNu4oCZdCBjb21lIGludG8gcGxheSBpbiBhIGNhbXBhaWduIHRoYXQgdXNlcyB0aGlzIHN5c3RlbS4gRm9yIGV4YW1wbGUsIGlmIGEgbmVjayBzbG90IGl0ZW0gd291bGQgbm9ybWFsbHkgaGF2ZSBhIGJhc2UgbWFya2V0IHByaWNlIG9mIDIsMDAwIGdwLCBpdCB3b3VsZCBub3cgZ3JhbnQgYW4gYWRkaXRpb25hbCArMSBlbmhhbmNlbWVudCBib251cyB0byBuYXR1cmFsIGFybW9yLCBhbmQgaXRzIHByaWNlIHdvdWxkIGluY3JlYXNlIGJ5IDIsMDAwIGdwLiBUaGF0IG1lYW5zIGEgbmVjayBzbG90IGl0ZW0gY2Fu4oCZdCBoYXZlIGEgZmluYWwgcHJpY2UgYmV0d2VlbiAyLDAwMCBncCBhbmQgMyw5OTkgZ3AuIElmIHlvdSBuZWVkIHRyZWFzdXJlIGF0IGEgdmFsdWUgaW4gdGhhdCByYW5nZSwgbG9vayBhdCBpdGVtcyB0aGF0IGRvbuKAmXQgZ3JhbnQgaW5uYXRlIGJvbnVzZXMuPGJyIC8+PGJyIC8+IFRvIHVzZSB0aGlzIHN5c3RlbSwgaW5zdGl0dXRlIHRoZSBmb2xsb3dpbmcgY2hhbmdlcy48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE5NjMiPldvbmRyb3VzIEl0ZW1zPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5YzI1P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1QYXRoZmluZGVyLVVuY2hhaW5lZCIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QYXRoZmluZGVyIFVuY2hhaW5lZCBwZy4gMTU4PC9pPjwvYT48YnIgLz5Nb3N0IGl0ZW1zIHRoYXQgZ3JhbnQgYm9udXNlcyB0byBzdGF0aXN0aWNzIGZhbGwgaW50byB0aGUgd29uZHJvdXMgaXRlbXMgY2F0ZWdvcnkuIDxiciAvPjxiciAvPjxiPlJlbW92ZWQgSXRlbXM8L2I+OiBSZW1vdmUgYWxsIDxpPmFtdWxldHMgb2YgbmF0dXJhbCBhcm1vcjwvaT4sIDxpPmNsb2FrcyBvZiByZXNpc3RhbmNlPC9pPiwgYW5kIGl0ZW1zIHRoYXQgZ3JhbnQgZW5oYW5jZW1lbnQgYm9udXNlcyB0byBhYmlsaXR5IHNjb3Jlcy4gPGJyIC8+PGJyIC8+PGI+QWx0ZXJlZCBJdGVtIFNsb3RzPC9iPjogUmVtb3ZlIHRoZSBiZWx0IGFuZCBoZWFkYmFuZCBzbG90cy4gRm9yIHRoZSByZW1haW5pbmcgaXRlbXMgaW4gdGhvc2Ugc2xvdHMgKHRob3NlIHRoYXQgZG8gbm90IGdyYW50IGVuaGFuY2VtZW50IGJvbnVzZXMpLCBtb3ZlIGFsbCBiZWx0IHNsb3QgaXRlbXMgdG8gdGhlIGJvZHkgc2xvdCBhbmQgYWxsIGhlYWRiYW5kIHNsb3QgaXRlbXMgdG8gdGhlIGhlYWQgc2xvdC4gVGhpcyBhbHRlcmF0aW9uIHJlZHVjZXMgdGhlIHRvdGFsIG51bWJlciBvZiBtYWdpYyBpdGVtIHNsb3RzLCBhbmQgZG9lcyBtZWFuIHRoYXQgc29tZSBpdGVtcyB0aGF0IGNvdWxkIG5vcm1hbGx5IGJlIHdvcm4gaW4gdGFuZGVtIGNhbuKAmXQgaW4gdGhpcyBzeXN0ZW0uIDxiciAvPjxiciAvPjxiPkFiaWxpdHkgQ2hhbmdlczwvYj46IElmIHRoZSB0YWJsZSBzcGVjaWZpZXMgdGhhdCBhbiBpdGVtIGdyYW50cyBlbmhhbmNlbWVudCBib251c2VzIHRvIGFiaWxpdHkgc2NvcmVzLCB0aGUgd2VhcmVyIGNhbiBjaGFuZ2UgdGhlIGFzc29jaWF0ZWQgYWJpbGl0eSBzY29yZXMgYnkgcmVtb3ZpbmcgYW4gaXRlbSBhbmQgdGhlbiBwdXR0aW5nIGl0IGJhY2sgb24uIFRoaXMgY2F1c2VzIHRoZSBuZXcgYm9udXMgdG8gYmVjb21lIHRlbXBvcmFyeSBmb3IgMjQgaG91cnMuIEFsbCBpdGVtcyBjYXBhYmxlIG9mIGdyYW50aW5nIGFuIEludGVsbGlnZW5jZSBib251cyBpbmNyZWFzZSB0aGUgYm9udXMgb2YgYSBwcmVzZXQgc2tpbGwsIGp1c3QgbGlrZSBhIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJNYWdpY1dvbmRyb3VzRGlzcGxheS5hc3B4P0ZpbmFsTmFtZT1IZWFkYmFuZCBvZiBWYXN0IEludGVsbGlnZW5jZTIiPjxpPmhlYWRiYW5kIG9mIHZhc3QgaW50ZWxsaWdlbmNlPC9pPjwvYT4uIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJNYWdpY1dvbmRyb3VzRGlzcGxheS5hc3B4P0ZpbmFsTmFtZT1BbXVsZXQgb2YgTWlnaHR5IEZpc3RzMSI+PGk+QW11bGV0cyBvZiBtaWdodHkgZmlzdHM8L2k+PC9hPiBhbmQgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9Ik1hZ2ljV29uZHJvdXNEaXNwbGF5LmFzcHg/RmluYWxOYW1lPUJyYWNlcnMgb2YgQXJtb3IxIj48aT5icmFjZXJzIG9mIGFybW9yPC9pPjwvYT4gZm9sbG93IHRoZSBydWxlcyBmb3Igd2VhcG9ucyBhbmQgYXJtb3I7IHRoaXMgbWVhbnMgaXQgaXMgcG9zc2libGUgdG8gbWFrZSBtb3JlIHBvd2VyZnVsICgrMTAgZXF1aXZhbGVudCkgPGk+YW11bGV0cyBvZiBtaWdodHkgZmlzdHM8L2k+IGFuZCA8aT5icmFjZXJzIG9mIGFybW9yPC9pPiB0aGFuIGJlZm9yZS4gPGJyIC8+PGJyIC8+IDxoMj5UYWJsZSA04oCTODogQm9keSBTbG90IEl0ZW1zPC9oMj4gPHRhYmxlIGNsYXNzPSJpbm5lciI+IDx0cj48dGQ+PGI+U3RhcnRpbmcgUHJpY2U8L2I+PC90ZD48dGQ+PGI+RW5oYW5jZW1lbnQgQm9udXMgdG8gUGh5c2ljYWwgQWJpbGl0eSBTY29yZXM8L2I+PC90ZD48dGQ+PGI+UHJpY2UgSW5jcmVhc2U8L2I+PC90ZD48L3RyPiA8dHI+PHRkPjAtMyw5OTkgZ3A8L3RkPjx0ZD4tPC90ZD48dGQ+LTwvdGQ+PC90cj4gPHRyPjx0ZD40LDAwMC05LDk5OSBncDwvdGQ+PHRkPisyIHRvIG9uZSBzY29yZTwvdGQ+PHRkPis0LDAwMCBncDwvdGQ+PC90cj4gPHRyPjx0ZD4xMCwwMDAtMTUsOTk5IGdwPC90ZD48dGQ+KzIgdG8gdHdvIHNjb3JlczwvdGQ+PHRkPisxMCwwMDAgZ3A8L3RkPjwvdHI+IDx0cj48dGQ+MTYsMDAwLTM1LDk5OSBncDwvdGQ+PHRkPis0IHRvIG9uZSBzY29yZSwgb3IgKzIgdG8gYWxsIHRocmVlPC90ZD48dGQ+KzE2LDAwMCBncDwvdGQ+PC90cj4gPHRyPjx0ZD4zNiwwMDAtMzksOTk5IGdwPC90ZD48dGQ+NiB0byBvbmUgc2NvcmUsIG9yICs0IHRvIG9uZSBhbmQgKzIgdG8gdHdvIG90aGVyczwvdGQ+PHRkPiszNiwwMDAgZ3A8L3RkPjwvdHI+IDx0cj48dGQ+NDAsMDAwLTYzLDk5OSBncDwvdGQ+PHRkPkFueSBjaG9pY2UgYWJvdmUsIG9yICs0IHRvIHR3byBzY29yZXM8L3RkPjx0ZD4rNDAsMDAwIGdwPC90ZD48L3RyPiA8dHI+PHRkPjY0LDAwMC04OSw5OTkgZ3A8L3RkPjx0ZD4rNiB0byBvbmUgc2NvcmUgYW5kICs0IHRvIGFub3RoZXIsIG9yICs0IHRvIGFsbCB0aHJlZTwvdGQ+PHRkPis2NCwwMDAgZ3A8L3RkPjwvdHI+IDx0cj48dGQ+OTAsMDAwLTE0Myw5OTkgZ3A8L3RkPjx0ZD4rNiB0byB0d28gc2NvcmVzLCBvciArNiB0byBvbmUgYW5kICs0IHRvIHR3byBvdGhlcnM8L3RkPjx0ZD4rOTAsMDAwIGdwPC90ZD48L3RyPiA8dHI+PHRkPjE0NCwwMDArIGdwPC90ZD48dGQ+KzYgdG8gYWxsIHRocmVlIHNjb3JlczwvdGQ+PHRkPisxNDQsMDAwIGdwPC90ZD48L3RyPiA8L3RhYmxlPjxiciAvPjxiciAvPiA8aDI+VGFibGUgNOKAkzk6IEhlYWQgU2xvdCBJdGVtczwvaDI+IDx0YWJsZSBjbGFzcz0iaW5uZXIiPiA8dHI+PHRkPjxiPlN0YXJ0aW5nIFByaWNlPC9iPjwvdGQ+PHRkPjxiPkVuaGFuY2VtZW50IEJvbnVzIHRvIE1lbnRhbCBBYmlsaXR5IFNjb3JlczwvYj48L3RkPjx0ZD48Yj5QcmljZSBJbmNyZWFzZTwvYj48L3RkPjwvdHI+IDx0cj48dGQ+MC0zLDk5OSBncDwvdGQ+PHRkPi08L3RkPjx0ZD4tPC90ZD48L3RyPiA8dHI+PHRkPjQsMDAwLTksOTk5IGdwPC90ZD48dGQ+KzIgdG8gb25lIHNjb3JlPC90ZD48dGQ+KzQsMDAwIGdwPC90ZD48L3RyPiA8dHI+PHRkPjEwLDAwMC0xNSw5OTkgZ3A8L3RkPjx0ZD4rMiB0byB0d28gc2NvcmVzPC90ZD48dGQ+KzEwLDAwMCBncDwvdGQ+PC90cj4gPHRyPjx0ZD4xNiwwMDAtMzUsOTk5IGdwPC90ZD48dGQ+KzQgdG8gb25lIHNjb3JlLCBvciArMiB0byBhbGwgdGhyZWU8L3RkPjx0ZD4rMTYsMDAwIGdwPC90ZD48L3RyPiA8dHI+PHRkPjM2LDAwMC0zOSw5OTkgZ3A8L3RkPjx0ZD42IHRvIG9uZSBzY29yZSwgb3IgKzQgdG8gb25lIGFuZCArMiB0byB0d28gb3RoZXJzPC90ZD48dGQ+KzM2LDAwMCBncDwvdGQ+PC90cj4gPHRyPjx0ZD40MCwwMDAtNjMsOTk5IGdwPC90ZD48dGQ+QW55IGNob2ljZSBhYm92ZSwgb3IgKzQgdG8gdHdvIHNjb3JlczwvdGQ+PHRkPis0MCwwMDAgZ3A8L3RkPjwvdHI+IDx0cj48dGQ+NjQsMDAwLTg5LDk5OSBncDwvdGQ+PHRkPis2IHRvIG9uZSBzY29yZSBhbmQgKzQgdG8gYW5vdGhlciwgb3IgKzQgdG8gYWxsIHRocmVlPC90ZD48dGQ+KzY0LDAwMCBncDwvdGQ+PC90cj4gPHRyPjx0ZD45MCwwMDAtMTQzLDk5OSBncDwvdGQ+PHRkPis2IHRvIHR3byBzY29yZXMsIG9yICs2IHRvIG9uZSBhbmQgKzQgdG8gdHdvIG90aGVyczwvdGQ+PHRkPis5MCwwMDAgZ3A8L3RkPjwvdHI+IDx0cj48dGQ+MTQ0LDAwMCsgZ3A8L3RkPjx0ZD4rNiB0byBhbGwgdGhyZWUgc2NvcmVzPC90ZD48dGQ+KzE0NCwwMDAgZ3A8L3RkPjwvdHI+IDwvdGFibGU+IDxiciAvPjxiciAvPiA8aDI+VGFibGUgNC0xMDogTmVjayBTbG90IEl0ZW1zPC9oMj4gPHRhYmxlIGNsYXNzPSJpbm5lciI+IDx0cj48dGQ+PGI+U3RhcnRpbmcgUHJpY2U8L2I+PC90ZD48dGQ+PGI+RW5oYW5jZW1lbnQgQm9udXMgdG8gTmF0dXJhbCBBcm1vcjwvYj48L3RkPjx0ZD48Yj5QcmljZSBJbmNyZWFzZTwvYj48L3RkPjwvdHI+IDx0cj48dGQ+MC0xLDk5OSBncDwvdGQ+PHRkPi08L3RkPjx0ZD4tPC90ZD48L3RyPiA8dHI+PHRkPjIsMDAwLTcsOTk5IGdwPC90ZD48dGQ+KzE8L3RkPjx0ZD4rMiwwMDAgZ3A8L3RkPjwvdHI+IDx0cj48dGQ+OCwwMDAtMTcsOTk5IGdwPC90ZD48dGQ+KzI8L3RkPjx0ZD4rOCwwMDAgZ3A8L3RkPjwvdHI+IDx0cj48dGQ+MTgsMDAwLTMxLDk5OSBncDwvdGQ+PHRkPiszPC90ZD48dGQ+KzE4LDAwMCBncDwvdGQ+PC90cj4gPHRyPjx0ZD4zMiwwMDAtNDksOTk5IGdwPC90ZD48dGQ+KzQ8L3RkPjx0ZD4rMzIsMDAwIGdwPC90ZD48L3RyPiA8dHI+PHRkPjUwLDAwMCsgZ3A8L3RkPjx0ZD4rNTwvdGQ+PHRkPis1MCwwMDAgZ3A8L3RkPjwvdHI+IDwvdGFibGU+IDxiciAvPjxiciAvPiA8aDI+VGFibGUgNC0xMTogU2hvdWxkZXIgU2xvdCBJdGVtczwvaDI+IDx0YWJsZSBjbGFzcz0iaW5uZXIiPiA8dHI+PHRkPjxiPlN0YXJ0aW5nIFByaWNlPC9iPjwvdGQ+PHRkPjxiPlJlc2lzdGFuY2UgQm9udXMgb24gU2F2aW5nIFRocm93czwvYj48L3RkPjx0ZD48Yj5QcmljZSBJbmNyZWFzZTwvYj48L3RkPjwvdHI+IDx0cj48dGQ+MC05OTkgZ3A8L3RkPjx0ZD4tPC90ZD48dGQ+LTwvdGQ+PC90cj4gPHRyPjx0ZD4xLDAwMC0zLDk5OSBncDwvdGQ+PHRkPisxPC90ZD48dGQ+KzEsMDAwIGdwPC90ZD48L3RyPiA8dHI+PHRkPjQsMDAwLTgsOTk5IGdwPC90ZD48dGQ+KzI8L3RkPjx0ZD4rNCwwMDAgZ3A8L3RkPjwvdHI+IDx0cj48dGQ+OSwwMDAtMTUsOTk5IGdwPC90ZD48dGQ+KzM8L3RkPjx0ZD4rOSwwMDAgZ3A8L3RkPjwvdHI+IDx0cj48dGQ+MTYsMDAwLTI0LDk5OSBncDwvdGQ+PHRkPis0PC90ZD48dGQ+KzE2LDAwMCBncDwvdGQ+PC90cj4gPHRyPjx0ZD4yNSwwMDArIGdwPC90ZD48dGQ+KzU8L3RkPjx0ZD4rMjUsMDAwIGdwPC90ZD48L3RyPiA8L3RhYmxlPjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTk2NCI+UmluZ3M8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTljMjU/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVBhdGhmaW5kZXItVW5jaGFpbmVkIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBhdGhmaW5kZXIgVW5jaGFpbmVkIHBnLiAxNTk8L2k+PC9hPjxiciAvPlJpbmdzIHdvcmsgaW4gbXVjaCB0aGUgc2FtZSB3YXkgYXMgd29uZHJvdXMgaXRlbXMuIDxiciAvPjxiciAvPjxiPlJlbW92ZWQgSXRlbXM8L2I+OiBSZW1vdmUgYWxsIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJNYWdpY1JpbmdzRGlzcGxheS5hc3B4P0ZpbmFsTmFtZT1SaW5nIG9mIFByb3RlY3Rpb24xIj48aT5yaW5ncyBvZiBwcm90ZWN0aW9uPC9pPjwvYT4sIGFuZCBhZGQgdGhlIGRlZmxlY3Rpb24gYm9udXMgc3BlY2lmaWVkIG9uIFRhYmxlIDTigJMxMjogUmluZ3MgdG8gYWxsIG90aGVyIHJpbmdzLiA8YnIgLz48YnIgLz48Yj5NdWx0aXBsZSBSaW5nczwvYj46IE5vdGUgdGhhdCBkZWZsZWN0aW9uIGJvbnVzZXMgZ3JhbnRlZCBieSBtdWx0aXBsZSByaW5ncyBkb27igJl0IHN0YWNrLiBJdOKAmXMgdXAgdG8gdGhlIEdNIHRvIGRlY2lkZSBob3cgdG8gZGVhbCB3aXRoIHRoaXMsIHdpdGggdHdvIG1haW4gb3B0aW9ucy4gVGhlIGZpcnN0IG9wdGlvbiBpcyB0byBmb2xsb3cgdGhlIHJ1bGUgb3V0bGluZWQgYWJvdmUgYW5kIGNoYXJnZSB0aGUgcHJpY2UgaW5jcmVhc2UgZm9yIGVhY2ggcmluZ+KAlGNvbnNpZGVyIHRoZSBhZGRpdGlvbmFsIGNvc3QgdGhlIHByaWNlIG9mIGVzc2VudGlhbGx5IGdldHRpbmcgYSB0aGlyZCByaW5nIHNsb3QuIFRoZSBvdGhlciBvcHRpb24gaXMgdG8gbWFrZSB0aGUgZGVmbGVjdGlvbiBib251cyBncmFudGVkIGJ5IHJpbmdzIChhbmQgdGhlIGFzc29jaWF0ZWQgcHJpY2UgaW5jcmVhc2VzKSBvcHRpb25hbCBvbiBhIHJpbmctYnktcmluZyBiYXNpcywgYWxsb3dpbmcgY2hhcmFjdGVycyB0byBhdm9pZCBwYXlpbmcgdHdpY2UgZm9yIGEgbm9uLXN0YWNraW5nIGJvbnVzLiBEb2luZyBzbyBhZGRzIGFkZGl0aW9uYWwgYm9va2tlZXBpbmcsIGhvd2V2ZXIuIDxiciAvPjxiciAvPiA8aDI+VGFibGUgNOKAkzEyOiBSaW5nczwvaDI+IDx0YWJsZSBjbGFzcz0iaW5uZXIiPiA8dHI+PHRkPjxiPlN0YXJ0aW5nIFByaWNlPC9iPjwvdGQ+PHRkPjxiPkRlZmxlY3Rpb24gQm9udXMgdG8gQUM8L2I+PC90ZD48dGQ+PGI+UHJpY2UgSW5jcmVhc2U8L2I+PC90ZD48L3RyPiA8dHI+PHRkPjAtMSw5OTkgZ3A8L3RkPjx0ZD4tPC90ZD48dGQ+LTwvdGQ+PC90cj4gPHRyPjx0ZD4yLDAwMC03LDk5OSBncDwvdGQ+PHRkPisxPC90ZD48dGQ+KzIsMDAwIGdwPC90ZD48L3RyPiA8dHI+PHRkPjgsMDAwLTE3LDk5OSBncDwvdGQ+PHRkPisyPC90ZD48dGQ+KzgsMDAwIGdwPC90ZD48L3RyPiA8dHI+PHRkPjE4LDAwMC0zMSw5OTkgZ3A8L3RkPjx0ZD4rMzwvdGQ+PHRkPisxOCwwMDAgZ3A8L3RkPjwvdHI+IDx0cj48dGQ+MzIsMDAwLTQ5LDk5OSBncDwvdGQ+PHRkPis0PC90ZD48dGQ+KzMyLDAwMCBncDwvdGQ+PC90cj4gPHRyPjx0ZD41MCwwMDArIGdwPC90ZD48dGQ+KzU8L3RkPjx0ZD4rNTAsMDAwIGdwPC90ZD48L3RyPiA8L3RhYmxlPjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTk2NSI+QXJtcyBhbmQgQXJtb3I8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTljMjU/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVBhdGhmaW5kZXItVW5jaGFpbmVkIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBhdGhmaW5kZXIgVW5jaGFpbmVkIHBnLiAxNTk8L2k+PC9hPjxiciAvPlVuZGVyIHRoaXMgc3lzdGVtLCB3ZWFwb25zIGFuZCBhcm1vciBhcmUgbm90IGZvcmdlZCB3aXRoIHB1cmUgZW5oYW5jZW1lbnQgYm9udXNlcywgYW5kIGRvbuKAmXQgbmVlZCB0byBoYXZlIGEgKzEgZW5oYW5jZW1lbnQgYm9udXMgdG8gaGF2ZSBhIHNwZWNpYWwgYWJpbGl0eS4gSW5zdGVhZCwgYWRkIHVwIHRoZSBlZmZlY3RpdmUgZW5oYW5jZW1lbnQgYm9udXMgZm9yIHRoZSBpdGVt4oCZcyBzcGVjaWFsIGFiaWxpdGllcywgdGhlbiBhc3NpZ24gdGhlIHRvdGFsIHRvIHRoZSBpdGVtIGFzIGl0cyBuZXcgZW5oYW5jZW1lbnQgYm9udXMgb24gYXR0YWNrIGFuZCBkYW1hZ2Ugcm9sbHMuIFRvIGZpbmQgdGhlIG5ldyBwcmljZSwgbXVsdGlwbHkgdGhlIHRvdGFsIGNvc3Qgb2YgaXRzIG9yaWdpbmFsIHNwZWNpYWwgYWJpbGl0aWVz4oCUbm90IGNvdW50aW5nIHRoZSBuZXcgZW5oYW5jZW1lbnQgYm9udXPigJRieSA0LjxiciAvPjxiciAvPiBGb3IgZXhhbXBsZSwgdGhlIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJNYWdpY1dlYXBvbnNEaXNwbGF5LmFzcHg/SXRlbU5hbWU9S2VlbiI+PGk+a2VlbjwvaT48L2E+IGFiaWxpdHkgaXMgZXF1aXZhbGVudCB0byBhICsxIGJvbnVzIGFuZCB3b3VsZCBub3JtYWxseSBjb3N0IDIsMDAwIGdwLiBVbmRlciB0aGVzZSBydWxlcywgYSA8aT5rZWVuIGZhbGNoaW9uPC9pPiB3b3VsZCBnYWluIGEgKzEgYm9udXMgb24gdG9wIG9mIGl0cyA8aT5rZWVuPC9pPiBhYmlsaXR5LCBhbmQgdGhlIGNvc3Qgd291bGQgYmVjb21lIDgsMDAwIGdwLiBBIDxpPmtlZW4gPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9Ik1hZ2ljV2VhcG9uc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1Ib2x5Ij5ob2x5PC9hPiBmYWxjaGlvbjwvaT4sIG9uIHRoZSBvdGhlciBoYW5kLCBub3JtYWxseSBjb3N0cyAxOCwwMDAgZ3AgYW5kIGhhcyBhYmlsaXRpZXMgZXF1aXZhbGVudCB0byBhICszIGJvbnVzLCBzbyBpdCB3b3VsZCBnYWluIGEgKzMgZW5oYW5jZW1lbnQgYm9udXMgb24gdG9wIG9mIGl0cyBhYmlsaXRpZXMgYW5kIGNvc3QgNzIsMDAwIGdwIGluc3RlYWQuZGRkkP0VZQhmAbczELf+fcv09KkWLVuJCBicT4PZVkp7Hs0=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1725">Pathfinder Unchained</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=1961">Innate Item Bonuses</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 158</i></a><br />Some GMs may find themselves frustrated by the need for players to seek out magic items granting specific bonuses. Under this new system, characters gain the statistical bonuses they’re expected to gain from magic items as they level up so long as they have any item in the relevant slot, instead of needing specific items. The system involves minimal alterations to existing items, and works especially well for campaigns with higher than normal wealth.<br /><br /> The rules in the <a style="text-decoration:underline" href="Rules.aspx?Name=Automatic Bonus Progression&Category=Pathfinder Unchained">Automatic Bonus Progression section</a> downplay the role of magic items by granting bonuses to characters directly as they increase in level, and restricting the abilities of magic items. However, those rules don’t work as well as the innate item bonuses system does in games that include more magic items than is assumed in the <i>Core Rulebook</i>. In addition, this system helps those GMs who prefer to emphasize the wonder and power of magic items.<br /><h1 class="title"><a href="Rules.aspx?ID=1962">Bonus and Price Overview</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 158</i></a><br />In this system, the bonus a magic item grants corresponds to the item’s starting market price as it appears in the item’s original statistics. This price is shown on each table in this section in the “Starting Price” column. The second column shows the value of the bonus at a particular price range, and the header indicates to which statistics the bonus applies. In addition, any item that gains an innate item bonus also increases its market price by the amount shown on each table’s “Price Increase” column.<br /><br /> For example, a <i>belt of dwarvenkind</i> isn’t a popular choice, since players typically want a <i>belt of giant strength +4</i> or similar item for close to the same price. When using innate bonuses, items such as the <i>belt of giant strength</i>—which only grants an enhancement bonus—wouldn’t exist, and the <i>belt of dwarvenkind</i> would count as a body slot item (see the <a style="text-decoration:underline" href="Rules.aspx?Name=Wondrous Items&Category=Innate Item Bonuses">Altered Item Slots section under Wondrous Items</a>). Since it costs 14,900 gp in the <i>Core Rulebook</i>, it would grant a +2 bonus to two ability scores in addition to its usual effects, and cost an additional 10,000 gp, for a total of 24,900 gp.<br /><br /> The price increase means that a significant range of prices doesn’t come into play in a campaign that uses this system. For example, if a neck slot item would normally have a base market price of 2,000 gp, it would now grant an additional +1 enhancement bonus to natural armor, and its price would increase by 2,000 gp. That means a neck slot item can’t have a final price between 2,000 gp and 3,999 gp. If you need treasure at a value in that range, look at items that don’t grant innate bonuses.<br /><br /> To use this system, institute the following changes.<br /><h1 class="title"><a href="Rules.aspx?ID=1963">Wondrous Items</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 158</i></a><br />Most items that grant bonuses to statistics fall into the wondrous items category. <br /><br /><b>Removed Items</b>: Remove all <i>amulets of natural armor</i>, <i>cloaks of resistance</i>, and items that grant enhancement bonuses to ability scores. <br /><br /><b>Altered Item Slots</b>: Remove the belt and headband slots. For the remaining items in those slots (those that do not grant enhancement bonuses), move all belt slot items to the body slot and all headband slot items to the head slot. This alteration reduces the total number of magic item slots, and does mean that some items that could normally be worn in tandem can’t in this system. <br /><br /><b>Ability Changes</b>: If the table specifies that an item grants enhancement bonuses to ability scores, the wearer can change the associated ability scores by removing an item and then putting it back on. This causes the new bonus to become temporary for 24 hours. All items capable of granting an Intelligence bonus increase the bonus of a preset skill, just like a <a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Headband of Vast Intelligence2"><i>headband of vast intelligence</i></a>. <a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Amulet of Mighty Fists1"><i>Amulets of mighty fists</i></a> and <a style="text-decoration:underline" href="MagicWondrousDisplay.aspx?FinalName=Bracers of Armor1"><i>bracers of armor</i></a> follow the rules for weapons and armor; this means it is possible to make more powerful (+10 equivalent) <i>amulets of mighty fists</i> and <i>bracers of armor</i> than before. <br /><br /> <h2>Table 4–8: Body Slot Items</h2> <table class="inner"> <tr><td><b>Starting Price</b></td><td><b>Enhancement Bonus to Physical Ability Scores</b></td><td><b>Price Increase</b></td></tr> <tr><td>0-3,999 gp</td><td>-</td><td>-</td></tr> <tr><td>4,000-9,999 gp</td><td>+2 to one score</td><td>+4,000 gp</td></tr> <tr><td>10,000-15,999 gp</td><td>+2 to two scores</td><td>+10,000 gp</td></tr> <tr><td>16,000-35,999 gp</td><td>+4 to one score, or +2 to all three</td><td>+16,000 gp</td></tr> <tr><td>36,000-39,999 gp</td><td>6 to one score, or +4 to one and +2 to two others</td><td>+36,000 gp</td></tr> <tr><td>40,000-63,999 gp</td><td>Any choice above, or +4 to two scores</td><td>+40,000 gp</td></tr> <tr><td>64,000-89,999 gp</td><td>+6 to one score and +4 to another, or +4 to all three</td><td>+64,000 gp</td></tr> <tr><td>90,000-143,999 gp</td><td>+6 to two scores, or +6 to one and +4 to two others</td><td>+90,000 gp</td></tr> <tr><td>144,000+ gp</td><td>+6 to all three scores</td><td>+144,000 gp</td></tr> </table><br /><br /> <h2>Table 4–9: Head Slot Items</h2> <table class="inner"> <tr><td><b>Starting Price</b></td><td><b>Enhancement Bonus to Mental Ability Scores</b></td><td><b>Price Increase</b></td></tr> <tr><td>0-3,999 gp</td><td>-</td><td>-</td></tr> <tr><td>4,000-9,999 gp</td><td>+2 to one score</td><td>+4,000 gp</td></tr> <tr><td>10,000-15,999 gp</td><td>+2 to two scores</td><td>+10,000 gp</td></tr> <tr><td>16,000-35,999 gp</td><td>+4 to one score, or +2 to all three</td><td>+16,000 gp</td></tr> <tr><td>36,000-39,999 gp</td><td>6 to one score, or +4 to one and +2 to two others</td><td>+36,000 gp</td></tr> <tr><td>40,000-63,999 gp</td><td>Any choice above, or +4 to two scores</td><td>+40,000 gp</td></tr> <tr><td>64,000-89,999 gp</td><td>+6 to one score and +4 to another, or +4 to all three</td><td>+64,000 gp</td></tr> <tr><td>90,000-143,999 gp</td><td>+6 to two scores, or +6 to one and +4 to two others</td><td>+90,000 gp</td></tr> <tr><td>144,000+ gp</td><td>+6 to all three scores</td><td>+144,000 gp</td></tr> </table> <br /><br /> <h2>Table 4-10: Neck Slot Items</h2> <table class="inner"> <tr><td><b>Starting Price</b></td><td><b>Enhancement Bonus to Natural Armor</b></td><td><b>Price Increase</b></td></tr> <tr><td>0-1,999 gp</td><td>-</td><td>-</td></tr> <tr><td>2,000-7,999 gp</td><td>+1</td><td>+2,000 gp</td></tr> <tr><td>8,000-17,999 gp</td><td>+2</td><td>+8,000 gp</td></tr> <tr><td>18,000-31,999 gp</td><td>+3</td><td>+18,000 gp</td></tr> <tr><td>32,000-49,999 gp</td><td>+4</td><td>+32,000 gp</td></tr> <tr><td>50,000+ gp</td><td>+5</td><td>+50,000 gp</td></tr> </table> <br /><br /> <h2>Table 4-11: Shoulder Slot Items</h2> <table class="inner"> <tr><td><b>Starting Price</b></td><td><b>Resistance Bonus on Saving Throws</b></td><td><b>Price Increase</b></td></tr> <tr><td>0-999 gp</td><td>-</td><td>-</td></tr> <tr><td>1,000-3,999 gp</td><td>+1</td><td>+1,000 gp</td></tr> <tr><td>4,000-8,999 gp</td><td>+2</td><td>+4,000 gp</td></tr> <tr><td>9,000-15,999 gp</td><td>+3</td><td>+9,000 gp</td></tr> <tr><td>16,000-24,999 gp</td><td>+4</td><td>+16,000 gp</td></tr> <tr><td>25,000+ gp</td><td>+5</td><td>+25,000 gp</td></tr> </table><br /><h1 class="title"><a href="Rules.aspx?ID=1964">Rings</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 159</i></a><br />Rings work in much the same way as wondrous items. <br /><br /><b>Removed Items</b>: Remove all <a style="text-decoration:underline" href="MagicRingsDisplay.aspx?FinalName=Ring of Protection1"><i>rings of protection</i></a>, and add the deflection bonus specified on Table 4–12: Rings to all other rings. <br /><br /><b>Multiple Rings</b>: Note that deflection bonuses granted by multiple rings don’t stack. It’s up to the GM to decide how to deal with this, with two main options. The first option is to follow the rule outlined above and charge the price increase for each ring—consider the additional cost the price of essentially getting a third ring slot. The other option is to make the deflection bonus granted by rings (and the associated price increases) optional on a ring-by-ring basis, allowing characters to avoid paying twice for a non-stacking bonus. Doing so adds additional bookkeeping, however. <br /><br /> <h2>Table 4–12: Rings</h2> <table class="inner"> <tr><td><b>Starting Price</b></td><td><b>Deflection Bonus to AC</b></td><td><b>Price Increase</b></td></tr> <tr><td>0-1,999 gp</td><td>-</td><td>-</td></tr> <tr><td>2,000-7,999 gp</td><td>+1</td><td>+2,000 gp</td></tr> <tr><td>8,000-17,999 gp</td><td>+2</td><td>+8,000 gp</td></tr> <tr><td>18,000-31,999 gp</td><td>+3</td><td>+18,000 gp</td></tr> <tr><td>32,000-49,999 gp</td><td>+4</td><td>+32,000 gp</td></tr> <tr><td>50,000+ gp</td><td>+5</td><td>+50,000 gp</td></tr> </table><br /><h1 class="title"><a href="Rules.aspx?ID=1965">Arms and Armor</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 159</i></a><br />Under this system, weapons and armor are not forged with pure enhancement bonuses, and don’t need to have a +1 enhancement bonus to have a special ability. Instead, add up the effective enhancement bonus for the item’s special abilities, then assign the total to the item as its new enhancement bonus on attack and damage rolls. To find the new price, multiply the total cost of its original special abilities—not counting the new enhancement bonus—by 4.<br /><br /> For example, the <a style="text-decoration:underline" href="MagicWeaponsDisplay.aspx?ItemName=Keen"><i>keen</i></a> ability is equivalent to a +1 bonus and would normally cost 2,000 gp. Under these rules, a <i>keen falchion</i> would gain a +1 bonus on top of its <i>keen</i> ability, and the cost would become 8,000 gp. A <i>keen <a style="text-decoration:underline" href="MagicWeaponsDisplay.aspx?ItemName=Holy">holy</a> falchion</i>, on the other hand, normally costs 18,000 gp and has abilities equivalent to a +3 bonus, so it would gain a +3 enhancement bonus on top of its abilities and cost 72,000 gp instead.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

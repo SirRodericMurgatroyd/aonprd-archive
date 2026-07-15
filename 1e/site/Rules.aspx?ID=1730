@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Staggered Advancement - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Staggered Advancement" /><meta name="description" content="When increasing in level, characters often gain new abilities and powers seemingly overnight. The following advancement variant allows you to add some verisimilitude to the way in which your characters grow in power. Instead of gaining all your new abilities when you advance to the next level, you divide them among four XP tiers: 25%, 50%, 75%, and 100%. Each XP tier represents a specific percentage of the XP required to advance to the next level." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=1730" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXUWDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTcyNSI+UGF0aGZpbmRlciBVbmNoYWluZWQ8L2E+PC91PjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTczMCI+U3RhZ2dlcmVkIEFkdmFuY2VtZW50PC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5YzI1P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1QYXRoZmluZGVyLVVuY2hhaW5lZCIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QYXRoZmluZGVyIFVuY2hhaW5lZCBwZy4gNDI8L2k+PC9hPjxiciAvPldoZW4gaW5jcmVhc2luZyBpbiBsZXZlbCwgY2hhcmFjdGVycyBvZnRlbiBnYWluIG5ldyBhYmlsaXRpZXMgYW5kIHBvd2VycyBzZWVtaW5nbHkgb3Zlcm5pZ2h0LiBUaGUgZm9sbG93aW5nIGFkdmFuY2VtZW50IHZhcmlhbnQgYWxsb3dzIHlvdSB0byBhZGQgc29tZSB2ZXJpc2ltaWxpdHVkZSB0byB0aGUgd2F5IGluIHdoaWNoIHlvdXIgY2hhcmFjdGVycyBncm93IGluIHBvd2VyLiBJbnN0ZWFkIG9mIGdhaW5pbmcgYWxsIHlvdXIgbmV3IGFiaWxpdGllcyB3aGVuIHlvdSBhZHZhbmNlIHRvIHRoZSBuZXh0IGxldmVsLCB5b3UgZGl2aWRlIHRoZW0gYW1vbmcgZm91ciBYUCB0aWVyczogMjUlLCA1MCUsIDc1JSwgYW5kIDEwMCUuIEVhY2ggWFAgdGllciByZXByZXNlbnRzIGEgc3BlY2lmaWMgcGVyY2VudGFnZSBvZiB0aGUgWFAgcmVxdWlyZWQgdG8gYWR2YW5jZSB0byB0aGUgbmV4dCBsZXZlbC48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE3MzEiPlVzaW5nIFN0YWdnZXJlZCBBZHZhbmNlbWVudDwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWMyNT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtUGF0aGZpbmRlci1VbmNoYWluZWQiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UGF0aGZpbmRlciBVbmNoYWluZWQgcGcuIDQyPC9pPjwvYT48YnIgLz5GaXJzdCwgc2VsZWN0IHRoZSBjbGFzcyBpbiB3aGljaCB5b3XigJlsbCBnYWluIHlvdXIgbmV4dCBsZXZlbC4gWW91IG11c3QgbWVldCBhbGwgdGhlIHByZXJlcXVpc2l0ZXMgZm9yIHRoYXQgY2xhc3MgbGV2ZWwuIFdoZW5ldmVyIHlvdSByZWFjaCBhIG5ldyBYUCB0aWVyLCBnYWluIHRoZSBhcHByb3ByaWF0ZSB1bml2ZXJzYWwgYWJpbGl0aWVzIGFuZCBza2lsbCByYW5rcyBmb3IgdGhhdCBjbGFzcyBhcyBkZXRhaWxlZCBpbiBUYWJsZSAx4oCTODogU3RhZ2dlcmVkIEFkdmFuY2VtZW50LiBZb3VyIGZlYXQsIGFiaWxpdHkgc2NvcmUsIGFuZCBzcGVsbCBwcm9ncmVzc2lvbnMgcmVtYWluIHVuY2hhbmdlZC4gPGJyIC8+PGJyIC8+PGI+VW5pdmVyc2FsIEFiaWxpdGllczwvYj46IFVuaXZlcnNhbCBhYmlsaXRpZXMgaW5jbHVkZSB5b3VyIHNlbGVjdGVkIGNsYXNz4oCZcyBiYXNlIGF0dGFjayBib251cywgaGl0IHBvaW50cyAoaHApLCBhbmQgc2F2aW5nIHRocm93IGJvbnVzZXMuIEF0IHRoZSAyNSUsIDUwJSwgYW5kIDc1JSBYUCB0aWVycywgeW91IGNhbiBzZWxlY3Qgb25lIG9mIHRoZSBmb2xsb3dpbmcgb3B0aW9ucy48YnIgLz48YnIgLz4gPGk+QmFzZSBBdHRhY2sgQm9udXM8L2k+OiBJbmNyZWFzZSB5b3VyIHNlbGVjdGVkIGNsYXNz4oCZcyBiYXNlIGF0dGFjayBib251cyAoaWYgYXBwbGljYWJsZSkuPGJyIC8+PGJyIC8+IDxpPkhpdCBQb2ludHM8L2k+OiBEZXRlcm1pbmUgdGhlIG51bWJlciBvZiBoaXQgcG9pbnRzIHlvdSB3b3VsZCBnYWluIGZvciBhZHZhbmNpbmcgdG8gdGhlIG5leHQgbGV2ZWwgaW4geW91ciBjbGFzcyBhbmQgYWRkIDUwJSBvZiB0aG9zZSBoaXQgcG9pbnRzIChyb3VuZGluZyBkb3duKSB0byB5b3VyIGhpdCBwb2ludCBtYXhpbXVtLiBXaGVuIHlvdSBhZHZhbmNlIGZ1bGx5IHRvIHRoZSBuZXh0IGxldmVsIG9mIHlvdXIgc2VsZWN0ZWQgY2xhc3MsIGFkZCB0aGUgcmVtYWluaW5nIGhpdCBwb2ludHMuPGJyIC8+PGJyIC8+IDxpPlNhdmluZyBUaHJvdyBCb251c2VzPC9pPjogSW5jcmVhc2UgeW91ciBjbGFzc+KAmXMgc2F2aW5nIHRocm93IGJvbnVzZXMgKGlmIGFwcGxpY2FibGUpLjxiciAvPjxiciAvPiBFYWNoIG9mIHRoZSBhYm92ZSBvcHRpb25zIGNhbiBvbmx5IGJlIHNlbGVjdGVkIG9uY2UgcGVyIGxldmVsLiBBZGRpdGlvbmFsbHksIHRoZSBiYXNlIGF0dGFjayBib251c2VzIGFuZCBzYXZpbmcgdGhyb3cgYm9udXNlcyBvZiBzb21lIGNsYXNzZXMgZG9u4oCZdCBpbmNyZWFzZSBlYWNoIHRpbWUgdGhleSBhZHZhbmNlIGluIGxldmVsLiBJZiBvbmx5IG9uZSB1bml2ZXJzYWwgYWJpbGl0eSBpcyBhcHBsaWNhYmxlLCBpbmNvcnBvcmF0ZSBpdCBhdCB0aGUgNzUlIHRpZXIuIElmIHR3byBhcmUgYXBwbGljYWJsZSwgaW5jb3Jwb3JhdGUgb25lIGF0IHRoZSA1MCUgdGllciBhbmQgdGhlIG90aGVyIGF0IHRoZSA3NSUgdGllciAoeW91ciBjaG9pY2UpLiA8YnIgLz48YnIgLz48Yj5DbGFzcyBGZWF0dXJlczwvYj46IENoYXJhY3RlcnMgZ2FpbiBhbGwgY2xhc3MgZmVhdHVyZXMgdXBvbiByZWFjaGluZyB0aGUgbmV4dCBsZXZlbC4gPGJyIC8+PGJyIC8+PGI+U2tpbGwgUmFua3M8L2I+OiBEZXRlcm1pbmUgdGhlIHRvdGFsIG51bWJlciBvZiBza2lsbCByYW5rcyB5b3Ugd291bGQgZ2FpbiBmb3IgYWR2YW5jaW5nIHRvIHRoZSBuZXh0IGxldmVsIGluIHlvdXIgc2VsZWN0ZWQgY2xhc3MsIGFuZCBhbGxvY2F0ZSA1MCUgb2YgdGhlIHNraWxsIHJhbmtzIChyb3VuZGluZyBkb3duKSB3aGVuIHlvdSByZWFjaCB0aGUgNTAlIFhQIHRpZXIuIFdoZW4geW91IGFkdmFuY2UgZnVsbHkgdG8gdGhlIG5leHQgbGV2ZWwsIHlvdSBjYW4gc3BlbmQgdGhlIHJlbWFpbmluZyBza2lsbCByYW5rcy48YnIgLz48YnIgLz4gVGhlIGZvbGxvd2luZyB0YWJsZSBhc3N1bWVzIHlvdSBhcmUgdXNpbmcgdGhlIG1lZGl1bSBYUCBhZHZhbmNlbWVudCB0cmFjay4gSWYgeW91IHVzZSB0aGUgZmFzdCBvciBzbG93IFhQIGFkdmFuY2VtZW50IHRyYWNrLCB5b3UgY2FuIHVzZSB0aGlzIHRhYmxlIGFzIGEgbW9kZWwgZnJvbSB3aGljaCB0byBleHRyYXBvbGF0ZSB0aGUgWFAgcmVxdWlyZW1lbnRzIGZvciBlYWNoIFhQIHRpZXIuIDxiciAvPjxiciAvPjxoMj5UYWJsZSAxLTg6IFN0YWdnZXJlZCBBZHZhbmNlbWVudDwvaDI+PHRhYmxlIGNsYXNzPSJpbm5lciI+PHRyPjx0ZD48Yj5DaGFyYWN0ZXIgTGV2ZWw8L2I+PC90ZD48dGQ+PGI+WFA8L2I+PC90ZD48dGQ+PGI+WFAgVGllcjwvYj48L3RkPjx0ZD48Yj5Vbml2ZXJzYWwgQWJpbGl0aWVzPC9iPjwvdGQ+PHRkPjxiPkNsYXNzIEFiaWxpdGllczwvYj48L3RkPjx0ZD48Yj5Ta2lsbCBSYW5rczwvYj48L3RkPjwvdHI+PHRyPjx0ZD4xc3Q8L3RkPjx0ZD4wPC90ZD48dGQ+4oCUPC90ZD48dGQ+QXMgc3RhbmRhcmQgcnVsZXMgZm9yIGEgMXN0LWxldmVsIGNoYXJhY3RlcjwvdGQ+PHRkPjwvdGQ+PHRkPjwvdGQ+PC90cj48dHI+PHRkPjwvdGQ+PHRkPjUwMDwvdGQ+PHRkPjI1JTwvdGQ+PHRkPkJBQiwgNTAlIGhwLCBvciBzYXZlczwvdGQ+PHRkPuKAlDwvdGQ+PHRkPuKAlDwvdGQ+PC90cj48dHI+PHRkPjwvdGQ+PHRkPjEsMDAwPC90ZD48dGQ+NTAlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+NTAlPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+MSw1MDA8L3RkPjx0ZD43NSU8L3RkPjx0ZD5CQUIsIDUwJSBocCwgb3Igc2F2ZXM8L3RkPjx0ZD7igJQ8L3RkPjx0ZD7igJQ8L3RkPjwvdHI+PHRyPjx0ZD4ybmQ8L3RkPjx0ZD4yLDAwMDwvdGQ+PHRkPuKAlDwvdGQ+PHRkPlJlbWFpbmluZyA1MCUgb2YgaHA8L3RkPjx0ZD5BbGw8L3RkPjx0ZD5SZW1haW5pbmcgNTAlPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+Miw3NTA8L3RkPjx0ZD4yNSU8L3RkPjx0ZD5CQUIsIDUwJSBocCwgb3Igc2F2ZXM8L3RkPjx0ZD7igJQ8L3RkPjx0ZD7igJQ8L3RkPjwvdHI+PHRyPjx0ZD48L3RkPjx0ZD4zLDUwMDwvdGQ+PHRkPjUwJTwvdGQ+PHRkPkJBQiwgNTAlIGhwLCBvciBzYXZlczwvdGQ+PHRkPuKAlDwvdGQ+PHRkPjUwJTwvdGQ+PC90cj48dHI+PHRkPjwvdGQ+PHRkPjQsMjUwPC90ZD48dGQ+NzUlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+4oCUPC90ZD48L3RyPjx0cj48dGQ+M3JkPC90ZD48dGQ+NSwwMDA8L3RkPjx0ZD7igJQ8L3RkPjx0ZD5SZW1haW5pbmcgNTAlIG9mIGhwPC90ZD48dGQ+QWxsPC90ZD48dGQ+UmVtYWluaW5nIDUwJTwvdGQ+PC90cj48dHI+PHRkPjwvdGQ+PHRkPjYsMDAwPC90ZD48dGQ+MjUlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+4oCUPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+NywwMDA8L3RkPjx0ZD41MCU8L3RkPjx0ZD5CQUIsIDUwJSBocCwgb3Igc2F2ZXM8L3RkPjx0ZD7igJQ8L3RkPjx0ZD41MCU8L3RkPjwvdHI+PHRyPjx0ZD48L3RkPjx0ZD44LDAwMDwvdGQ+PHRkPjc1JTwvdGQ+PHRkPkJBQiwgNTAlIGhwLCBvciBzYXZlczwvdGQ+PHRkPuKAlDwvdGQ+PHRkPuKAlDwvdGQ+PC90cj48dHI+PHRkPjR0aDwvdGQ+PHRkPjksMDAwPC90ZD48dGQ+4oCUPC90ZD48dGQ+UmVtYWluaW5nIDUwJSBvZiBocDwvdGQ+PHRkPkFsbDwvdGQ+PHRkPlJlbWFpbmluZyA1MCU8L3RkPjwvdHI+PHRyPjx0ZD48L3RkPjx0ZD4xMCw1MDA8L3RkPjx0ZD4yNSU8L3RkPjx0ZD5CQUIsIDUwJSBocCwgb3Igc2F2ZXM8L3RkPjx0ZD7igJQ8L3RkPjx0ZD7igJQ8L3RkPjwvdHI+PHRyPjx0ZD48L3RkPjx0ZD4xMiwwMDA8L3RkPjx0ZD41MCU8L3RkPjx0ZD5CQUIsIDUwJSBocCwgb3Igc2F2ZXM8L3RkPjx0ZD7igJQ8L3RkPjx0ZD41MCU8L3RkPjwvdHI+PHRyPjx0ZD48L3RkPjx0ZD4xMyw1MDA8L3RkPjx0ZD43NSU8L3RkPjx0ZD5CQUIsIDUwJSBocCwgb3Igc2F2ZXM8L3RkPjx0ZD7igJQ8L3RkPjx0ZD7igJQ8L3RkPjwvdHI+PHRyPjx0ZD41dGg8L3RkPjx0ZD4xNSwwMDA8L3RkPjx0ZD7igJQ8L3RkPjx0ZD5SZW1haW5pbmcgNTAlIG9mIGhwPC90ZD48dGQ+QWxsPC90ZD48dGQ+UmVtYWluaW5nIDUwJTwvdGQ+PC90cj48dHI+PHRkPjwvdGQ+PHRkPjE3LDAwMDwvdGQ+PHRkPjI1JTwvdGQ+PHRkPkJBQiwgNTAlIGhwLCBvciBzYXZlczwvdGQ+PHRkPuKAlDwvdGQ+PHRkPuKAlDwvdGQ+PC90cj48dHI+PHRkPjwvdGQ+PHRkPjE5LDAwMDwvdGQ+PHRkPjUwJTwvdGQ+PHRkPkJBQiwgNTAlIGhwLCBvciBzYXZlczwvdGQ+PHRkPuKAlDwvdGQ+PHRkPjUwJTwvdGQ+PC90cj48dHI+PHRkPjwvdGQ+PHRkPjIxLDAwMDwvdGQ+PHRkPjc1JTwvdGQ+PHRkPkJBQiwgNTAlIGhwLCBvciBzYXZlczwvdGQ+PHRkPuKAlDwvdGQ+PHRkPuKAlDwvdGQ+PC90cj48dHI+PHRkPjZ0aDwvdGQ+PHRkPjIzLDAwMDwvdGQ+PHRkPuKAlDwvdGQ+PHRkPlJlbWFpbmluZyA1MCUgb2YgaHA8L3RkPjx0ZD5BbGw8L3RkPjx0ZD5SZW1haW5pbmcgNTAlPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+MjYsMDAwPC90ZD48dGQ+MjUlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+4oCUPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+MjksMDAwPC90ZD48dGQ+NTAlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+NTAlPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+MzIsMDAwPC90ZD48dGQ+NzUlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+4oCUPC90ZD48L3RyPjx0cj48dGQ+N3RoPC90ZD48dGQ+MzUsMDAwPC90ZD48dGQ+4oCUPC90ZD48dGQ+UmVtYWluaW5nIDUwJSBvZiBocDwvdGQ+PHRkPkFsbDwvdGQ+PHRkPlJlbWFpbmluZyA1MCU8L3RkPjwvdHI+PHRyPjx0ZD48L3RkPjx0ZD4zOSwwMDA8L3RkPjx0ZD4yNSU8L3RkPjx0ZD5CQUIsIDUwJSBocCwgb3Igc2F2ZXM8L3RkPjx0ZD7igJQ8L3RkPjx0ZD7igJQ8L3RkPjwvdHI+PHRyPjx0ZD48L3RkPjx0ZD40MywwMDA8L3RkPjx0ZD41MCU8L3RkPjx0ZD5CQUIsIDUwJSBocCwgb3Igc2F2ZXM8L3RkPjx0ZD7igJQ8L3RkPjx0ZD41MCU8L3RkPjwvdHI+PHRyPjx0ZD48L3RkPjx0ZD40NywwMDA8L3RkPjx0ZD43NSU8L3RkPjx0ZD5CQUIsIDUwJSBocCwgb3Igc2F2ZXM8L3RkPjx0ZD7igJQ8L3RkPjx0ZD7igJQ8L3RkPjwvdHI+PHRyPjx0ZD44dGg8L3RkPjx0ZD41MSwwMDA8L3RkPjx0ZD7igJQ8L3RkPjx0ZD5SZW1haW5pbmcgNTAlIG9mIGhwPC90ZD48dGQ+QWxsPC90ZD48dGQ+UmVtYWluaW5nIDUwJTwvdGQ+PC90cj48dHI+PHRkPjwvdGQ+PHRkPjU3LDAwMDwvdGQ+PHRkPjI1JTwvdGQ+PHRkPkJBQiwgNTAlIGhwLCBvciBzYXZlczwvdGQ+PHRkPuKAlDwvdGQ+PHRkPuKAlDwvdGQ+PC90cj48dHI+PHRkPjwvdGQ+PHRkPjYzLDAwMDwvdGQ+PHRkPjUwJTwvdGQ+PHRkPkJBQiwgNTAlIGhwLCBvciBzYXZlczwvdGQ+PHRkPuKAlDwvdGQ+PHRkPjUwJTwvdGQ+PC90cj48dHI+PHRkPjwvdGQ+PHRkPjY5LDAwMDwvdGQ+PHRkPjc1JTwvdGQ+PHRkPkJBQiwgNTAlIGhwLCBvciBzYXZlczwvdGQ+PHRkPuKAlDwvdGQ+PHRkPuKAlDwvdGQ+PC90cj48dHI+PHRkPjl0aDwvdGQ+PHRkPjc1LDAwMDwvdGQ+PHRkPuKAlDwvdGQ+PHRkPlJlbWFpbmluZyA1MCUgb2YgaHA8L3RkPjx0ZD5BbGw8L3RkPjx0ZD5SZW1haW5pbmcgNTAlPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+ODIsNTAwPC90ZD48dGQ+MjUlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+4oCUPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+OTAsMDAwPC90ZD48dGQ+NTAlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+NTAlPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+OTcsNTAwPC90ZD48dGQ+NzUlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+4oCUPC90ZD48L3RyPjx0cj48dGQ+MTB0aDwvdGQ+PHRkPjEwNSwwMDA8L3RkPjx0ZD7igJQ8L3RkPjx0ZD5SZW1haW5pbmcgNTAlIG9mIGhwPC90ZD48dGQ+QWxsPC90ZD48dGQ+UmVtYWluaW5nIDUwJTwvdGQ+PC90cj48dHI+PHRkPjwvdGQ+PHRkPjExNyw1MDA8L3RkPjx0ZD4yNSU8L3RkPjx0ZD5CQUIsIDUwJSBocCwgb3Igc2F2ZXM8L3RkPjx0ZD7igJQ8L3RkPjx0ZD7igJQ8L3RkPjwvdHI+PHRyPjx0ZD48L3RkPjx0ZD4xMzAsMDAwPC90ZD48dGQ+NTAlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+NTAlPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+MTQyLDUwMDwvdGQ+PHRkPjc1JTwvdGQ+PHRkPkJBQiwgNTAlIGhwLCBvciBzYXZlczwvdGQ+PHRkPuKAlDwvdGQ+PHRkPuKAlDwvdGQ+PC90cj48dHI+PHRkPjExdGg8L3RkPjx0ZD4xNTUsMDAwPC90ZD48dGQ+4oCUPC90ZD48dGQ+UmVtYWluaW5nIDUwJSBvZiBocDwvdGQ+PHRkPkFsbDwvdGQ+PHRkPlJlbWFpbmluZyA1MCU8L3RkPjwvdHI+PHRyPjx0ZD48L3RkPjx0ZD4xNzEsMjUwPC90ZD48dGQ+MjUlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+4oCUPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+MTg3LDUwMDwvdGQ+PHRkPjUwJTwvdGQ+PHRkPkJBQiwgNTAlIGhwLCBvciBzYXZlczwvdGQ+PHRkPuKAlDwvdGQ+PHRkPjUwJTwvdGQ+PC90cj48dHI+PHRkPjwvdGQ+PHRkPjIwMyw3NTA8L3RkPjx0ZD43NSU8L3RkPjx0ZD5CQUIsIDUwJSBocCwgb3Igc2F2ZXM8L3RkPjx0ZD7igJQ8L3RkPjx0ZD7igJQ8L3RkPjwvdHI+PHRyPjx0ZD4xMnRoPC90ZD48dGQ+MjIwLDAwMDwvdGQ+PHRkPuKAlDwvdGQ+PHRkPlJlbWFpbmluZyA1MCUgb2YgaHA8L3RkPjx0ZD5BbGw8L3RkPjx0ZD5SZW1haW5pbmcgNTAlPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+MjQzLDc1MDA8L3RkPjx0ZD4yNSU8L3RkPjx0ZD5CQUIsIDUwJSBocCwgb3Igc2F2ZXM8L3RkPjx0ZD7igJQ8L3RkPjx0ZD7igJQ8L3RkPjwvdHI+PHRyPjx0ZD48L3RkPjx0ZD4yNjcsNTAwPC90ZD48dGQ+NTAlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+NTAlPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+MjkxLDI1MDwvdGQ+PHRkPjc1JTwvdGQ+PHRkPkJBQiwgNTAlIGhwLCBvciBzYXZlczwvdGQ+PHRkPuKAlDwvdGQ+PHRkPuKAlDwvdGQ+PC90cj48dHI+PHRkPjEzdGg8L3RkPjx0ZD4zMTUsMDAwPC90ZD48dGQ+4oCUPC90ZD48dGQ+UmVtYWluaW5nIDUwJSBvZiBocDwvdGQ+PHRkPkFsbDwvdGQ+PHRkPlJlbWFpbmluZyA1MCU8L3RkPjwvdHI+PHRyPjx0ZD48L3RkPjx0ZD4zNDcsNTAwPC90ZD48dGQ+MjUlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+4oCUPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+MzgwLDAwMDwvdGQ+PHRkPjUwJTwvdGQ+PHRkPkJBQiwgNTAlIGhwLCBvciBzYXZlczwvdGQ+PHRkPuKAlDwvdGQ+PHRkPjUwJTwvdGQ+PC90cj48dHI+PHRkPjwvdGQ+PHRkPjQxMiw1MDA8L3RkPjx0ZD43NSU8L3RkPjx0ZD5CQUIsIDUwJSBocCwgb3Igc2F2ZXM8L3RkPjx0ZD7igJQ8L3RkPjx0ZD7igJQ8L3RkPjwvdHI+PHRyPjx0ZD4xNHRoPC90ZD48dGQ+NDQ1LDAwMDwvdGQ+PHRkPuKAlDwvdGQ+PHRkPlJlbWFpbmluZyA1MCUgb2YgaHA8L3RkPjx0ZD5BbGw8L3RkPjx0ZD5SZW1haW5pbmcgNTAlPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+NDkyLDUwMDwvdGQ+PHRkPjI1JTwvdGQ+PHRkPkJBQiwgNTAlIGhwLCBvciBzYXZlczwvdGQ+PHRkPuKAlDwvdGQ+PHRkPuKAlDwvdGQ+PC90cj48dHI+PHRkPjwvdGQ+PHRkPjU0MCwwMDA8L3RkPjx0ZD41MCU8L3RkPjx0ZD5CQUIsIDUwJSBocCwgb3Igc2F2ZXM8L3RkPjx0ZD7igJQ8L3RkPjx0ZD41MCU8L3RkPjwvdHI+PHRyPjx0ZD48L3RkPjx0ZD41ODcsNTAwPC90ZD48dGQ+NzUlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+4oCUPC90ZD48L3RyPjx0cj48dGQ+MTV0aDwvdGQ+PHRkPjYzNSwwMDA8L3RkPjx0ZD7igJQ8L3RkPjx0ZD5SZW1haW5pbmcgNTAlIG9mIGhwPC90ZD48dGQ+QWxsPC90ZD48dGQ+UmVtYWluaW5nIDUwJTwvdGQ+PC90cj48dHI+PHRkPjwvdGQ+PHRkPjY5OCw3NTA8L3RkPjx0ZD4yNSU8L3RkPjx0ZD5CQUIsIDUwJSBocCwgb3Igc2F2ZXM8L3RkPjx0ZD7igJQ8L3RkPjx0ZD7igJQ8L3RkPjwvdHI+PHRyPjx0ZD48L3RkPjx0ZD43NjIsNTAwPC90ZD48dGQ+NTAlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+NTAlPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+ODI2LDI1MDwvdGQ+PHRkPjc1JTwvdGQ+PHRkPkJBQiwgNTAlIGhwLCBvciBzYXZlczwvdGQ+PHRkPuKAlDwvdGQ+PHRkPuKAlDwvdGQ+PC90cj48dHI+PHRkPjE2dGg8L3RkPjx0ZD44OTAsMDAwPC90ZD48dGQ+4oCUPC90ZD48dGQ+UmVtYWluaW5nIDUwJSBvZiBocDwvdGQ+PHRkPkFsbDwvdGQ+PHRkPlJlbWFpbmluZyA1MCU8L3RkPjwvdHI+PHRyPjx0ZD48L3RkPjx0ZD45OTIsNTAwPC90ZD48dGQ+MjUlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+4oCUPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+MSwwOTUsMDAwPC90ZD48dGQ+NTAlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+NTAlPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+MSwxOTcsNTAwPC90ZD48dGQ+NzUlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+4oCUPC90ZD48L3RyPjx0cj48dGQ+MTd0aDwvdGQ+PHRkPjEsMzAwLDAwMDwvdGQ+PHRkPuKAlDwvdGQ+PHRkPlJlbWFpbmluZyA1MCUgb2YgaHA8L3RkPjx0ZD5BbGw8L3RkPjx0ZD5SZW1haW5pbmcgNTAlPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+MSw0MjUsMDAwPC90ZD48dGQ+MjUlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+4oCUPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+MSw1NTAsMDAwPC90ZD48dGQ+NTAlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+NTAlPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+MSw2NzUsMDAwPC90ZD48dGQ+NzUlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+4oCUPC90ZD48L3RyPjx0cj48dGQ+MTh0aDwvdGQ+PHRkPjEsODAwLDAwMDwvdGQ+PHRkPuKAlDwvdGQ+PHRkPlJlbWFpbmluZyA1MCUgb2YgaHA8L3RkPjx0ZD5BbGw8L3RkPjx0ZD5SZW1haW5pbmcgNTAlPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+MSw5ODcsNTAwPC90ZD48dGQ+MjUlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+4oCUPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+MiwxNzUsMDAwPC90ZD48dGQ+NTAlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+NTAlPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+MiwzNjIsNTAwPC90ZD48dGQ+NzUlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+4oCUPC90ZD48L3RyPjx0cj48dGQ+MTl0aDwvdGQ+PHRkPjIsNTUwLDAwMDwvdGQ+PHRkPuKAlDwvdGQ+PHRkPlJlbWFpbmluZyA1MCUgb2YgaHA8L3RkPjx0ZD5BbGw8L3RkPjx0ZD5SZW1haW5pbmcgNTAlPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+Miw4MTIsNTAwPC90ZD48dGQ+MjUlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+4oCUPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+MywwNzUsMDAwPC90ZD48dGQ+NTAlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+NTAlPC90ZD48L3RyPjx0cj48dGQ+PC90ZD48dGQ+MywzMzcsNTAwPC90ZD48dGQ+NzUlPC90ZD48dGQ+QkFCLCA1MCUgaHAsIG9yIHNhdmVzPC90ZD48dGQ+4oCUPC90ZD48dGQ+4oCUPC90ZD48L3RyPjx0cj48dGQ+MjB0aDwvdGQ+PHRkPjMsNjAwLDAwMDwvdGQ+PHRkPuKAlDwvdGQ+PHRkPlJlbWFpbmluZyA1MCUgb2YgaHA8L3RkPjx0ZD5BbGw8L3RkPjx0ZD5SZW1haW5pbmcgNTAlPC90ZD48L3RyPjwvdGFibGU+ZGRk4/bfLUt2n/4yb+PF5gYSTMPRE+Xvv+6IKFxpLL5U5OM=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1725">Pathfinder Unchained</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=1730">Staggered Advancement</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 42</i></a><br />When increasing in level, characters often gain new abilities and powers seemingly overnight. The following advancement variant allows you to add some verisimilitude to the way in which your characters grow in power. Instead of gaining all your new abilities when you advance to the next level, you divide them among four XP tiers: 25%, 50%, 75%, and 100%. Each XP tier represents a specific percentage of the XP required to advance to the next level.<br /><h1 class="title"><a href="Rules.aspx?ID=1731">Using Staggered Advancement</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 42</i></a><br />First, select the class in which you’ll gain your next level. You must meet all the prerequisites for that class level. Whenever you reach a new XP tier, gain the appropriate universal abilities and skill ranks for that class as detailed in Table 1–8: Staggered Advancement. Your feat, ability score, and spell progressions remain unchanged. <br /><br /><b>Universal Abilities</b>: Universal abilities include your selected class’s base attack bonus, hit points (hp), and saving throw bonuses. At the 25%, 50%, and 75% XP tiers, you can select one of the following options.<br /><br /> <i>Base Attack Bonus</i>: Increase your selected class’s base attack bonus (if applicable).<br /><br /> <i>Hit Points</i>: Determine the number of hit points you would gain for advancing to the next level in your class and add 50% of those hit points (rounding down) to your hit point maximum. When you advance fully to the next level of your selected class, add the remaining hit points.<br /><br /> <i>Saving Throw Bonuses</i>: Increase your class’s saving throw bonuses (if applicable).<br /><br /> Each of the above options can only be selected once per level. Additionally, the base attack bonuses and saving throw bonuses of some classes don’t increase each time they advance in level. If only one universal ability is applicable, incorporate it at the 75% tier. If two are applicable, incorporate one at the 50% tier and the other at the 75% tier (your choice). <br /><br /><b>Class Features</b>: Characters gain all class features upon reaching the next level. <br /><br /><b>Skill Ranks</b>: Determine the total number of skill ranks you would gain for advancing to the next level in your selected class, and allocate 50% of the skill ranks (rounding down) when you reach the 50% XP tier. When you advance fully to the next level, you can spend the remaining skill ranks.<br /><br /> The following table assumes you are using the medium XP advancement track. If you use the fast or slow XP advancement track, you can use this table as a model from which to extrapolate the XP requirements for each XP tier. <br /><br /><h2>Table 1-8: Staggered Advancement</h2><table class="inner"><tr><td><b>Character Level</b></td><td><b>XP</b></td><td><b>XP Tier</b></td><td><b>Universal Abilities</b></td><td><b>Class Abilities</b></td><td><b>Skill Ranks</b></td></tr><tr><td>1st</td><td>0</td><td>—</td><td>As standard rules for a 1st-level character</td><td></td><td></td></tr><tr><td></td><td>500</td><td>25%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td></td><td>1,000</td><td>50%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>50%</td></tr><tr><td></td><td>1,500</td><td>75%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td>2nd</td><td>2,000</td><td>—</td><td>Remaining 50% of hp</td><td>All</td><td>Remaining 50%</td></tr><tr><td></td><td>2,750</td><td>25%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td></td><td>3,500</td><td>50%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>50%</td></tr><tr><td></td><td>4,250</td><td>75%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td>3rd</td><td>5,000</td><td>—</td><td>Remaining 50% of hp</td><td>All</td><td>Remaining 50%</td></tr><tr><td></td><td>6,000</td><td>25%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td></td><td>7,000</td><td>50%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>50%</td></tr><tr><td></td><td>8,000</td><td>75%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td>4th</td><td>9,000</td><td>—</td><td>Remaining 50% of hp</td><td>All</td><td>Remaining 50%</td></tr><tr><td></td><td>10,500</td><td>25%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td></td><td>12,000</td><td>50%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>50%</td></tr><tr><td></td><td>13,500</td><td>75%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td>5th</td><td>15,000</td><td>—</td><td>Remaining 50% of hp</td><td>All</td><td>Remaining 50%</td></tr><tr><td></td><td>17,000</td><td>25%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td></td><td>19,000</td><td>50%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>50%</td></tr><tr><td></td><td>21,000</td><td>75%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td>6th</td><td>23,000</td><td>—</td><td>Remaining 50% of hp</td><td>All</td><td>Remaining 50%</td></tr><tr><td></td><td>26,000</td><td>25%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td></td><td>29,000</td><td>50%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>50%</td></tr><tr><td></td><td>32,000</td><td>75%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td>7th</td><td>35,000</td><td>—</td><td>Remaining 50% of hp</td><td>All</td><td>Remaining 50%</td></tr><tr><td></td><td>39,000</td><td>25%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td></td><td>43,000</td><td>50%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>50%</td></tr><tr><td></td><td>47,000</td><td>75%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td>8th</td><td>51,000</td><td>—</td><td>Remaining 50% of hp</td><td>All</td><td>Remaining 50%</td></tr><tr><td></td><td>57,000</td><td>25%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td></td><td>63,000</td><td>50%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>50%</td></tr><tr><td></td><td>69,000</td><td>75%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td>9th</td><td>75,000</td><td>—</td><td>Remaining 50% of hp</td><td>All</td><td>Remaining 50%</td></tr><tr><td></td><td>82,500</td><td>25%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td></td><td>90,000</td><td>50%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>50%</td></tr><tr><td></td><td>97,500</td><td>75%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td>10th</td><td>105,000</td><td>—</td><td>Remaining 50% of hp</td><td>All</td><td>Remaining 50%</td></tr><tr><td></td><td>117,500</td><td>25%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td></td><td>130,000</td><td>50%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>50%</td></tr><tr><td></td><td>142,500</td><td>75%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td>11th</td><td>155,000</td><td>—</td><td>Remaining 50% of hp</td><td>All</td><td>Remaining 50%</td></tr><tr><td></td><td>171,250</td><td>25%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td></td><td>187,500</td><td>50%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>50%</td></tr><tr><td></td><td>203,750</td><td>75%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td>12th</td><td>220,000</td><td>—</td><td>Remaining 50% of hp</td><td>All</td><td>Remaining 50%</td></tr><tr><td></td><td>243,7500</td><td>25%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td></td><td>267,500</td><td>50%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>50%</td></tr><tr><td></td><td>291,250</td><td>75%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td>13th</td><td>315,000</td><td>—</td><td>Remaining 50% of hp</td><td>All</td><td>Remaining 50%</td></tr><tr><td></td><td>347,500</td><td>25%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td></td><td>380,000</td><td>50%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>50%</td></tr><tr><td></td><td>412,500</td><td>75%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td>14th</td><td>445,000</td><td>—</td><td>Remaining 50% of hp</td><td>All</td><td>Remaining 50%</td></tr><tr><td></td><td>492,500</td><td>25%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td></td><td>540,000</td><td>50%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>50%</td></tr><tr><td></td><td>587,500</td><td>75%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td>15th</td><td>635,000</td><td>—</td><td>Remaining 50% of hp</td><td>All</td><td>Remaining 50%</td></tr><tr><td></td><td>698,750</td><td>25%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td></td><td>762,500</td><td>50%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>50%</td></tr><tr><td></td><td>826,250</td><td>75%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td>16th</td><td>890,000</td><td>—</td><td>Remaining 50% of hp</td><td>All</td><td>Remaining 50%</td></tr><tr><td></td><td>992,500</td><td>25%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td></td><td>1,095,000</td><td>50%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>50%</td></tr><tr><td></td><td>1,197,500</td><td>75%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td>17th</td><td>1,300,000</td><td>—</td><td>Remaining 50% of hp</td><td>All</td><td>Remaining 50%</td></tr><tr><td></td><td>1,425,000</td><td>25%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td></td><td>1,550,000</td><td>50%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>50%</td></tr><tr><td></td><td>1,675,000</td><td>75%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td>18th</td><td>1,800,000</td><td>—</td><td>Remaining 50% of hp</td><td>All</td><td>Remaining 50%</td></tr><tr><td></td><td>1,987,500</td><td>25%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td></td><td>2,175,000</td><td>50%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>50%</td></tr><tr><td></td><td>2,362,500</td><td>75%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td>19th</td><td>2,550,000</td><td>—</td><td>Remaining 50% of hp</td><td>All</td><td>Remaining 50%</td></tr><tr><td></td><td>2,812,500</td><td>25%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td></td><td>3,075,000</td><td>50%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>50%</td></tr><tr><td></td><td>3,337,500</td><td>75%</td><td>BAB, 50% hp, or saves</td><td>—</td><td>—</td></tr><tr><td>20th</td><td>3,600,000</td><td>—</td><td>Remaining 50% of hp</td><td>All</td><td>Remaining 50%</td></tr></table></span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,278 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Build Points - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Build Points" /><meta name="description" content="The units of a kingdom’s wealth and productivity are build points (BP). Build points are an abstraction representing the kingdom’s expendable assets, not just gold in the treasury. Build points include raw materials (such as livestock, lumber, land, seed, and ore), tangible goods (such as wagons, weapons, and candles), and people (artisans, laborers, and colonists). Together, these assets represent the labor and productive output of your citizens.&lt;br />&lt;br /> You spend BP on tasks necessary to develop and protect your kingdom—planting farms, creating roads, constructing buildings, raising armies, and so on. These things are made at your command, but they are not yours. The cities, roads, farms, and buildings belong to the citizens who build them and use them to live and work every day, and those acts of living and working create more BP for the kingdom. As the leaders, you use your power and influence to direct the economic and constructive activity of your kingdom, deciding what gets built, when, and where.&lt;br />&lt;br /> Build points don’t have a precise exchange rate to gold pieces because they don’t represent exact amounts of specific resources. For example, you can’t really equate the productivity of a blacksmith with that of a stable, as their goods are used for different things and aren’t produced at the same rate, but both of them contribute to a kingdom’s overall economy. In general, 1 BP is worth approximately 4,000 gp; use this value to get a sense of how costly various kingdom expenditures are. In practice, it is not a simple matter to convert one currency to the other, but there are certain ways for your PC to spend gp to increase the kingdom’s BP or withdraw BP and turn them into gold for your character to spend.&lt;br />&lt;br /> Providing a seed amount of BP at the start of kingdom building means your kingdom isn’t starving for resources in the initial months. Whether you acquire these funds on your own or with the help of an influential NPC is decided by the GM, and sets the tone for much of the campaign." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=1510" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXROzx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTQ4OCI+S2luZ2RvbXMgYW5kIFdhcjwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNDg5Ij5LaW5nZG9tIEJ1aWxkaW5nPC9hPjwvdT48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE1MTAiPkJ1aWxkIFBvaW50czwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OHg2ND9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtVWx0aW1hdGUtQ2FtcGFpZ24NCiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5VbHRpbWF0ZSBDYW1wYWlnbiBwZy4gMjA0PC9pPjwvYT48YnIgLz5UaGUgdW5pdHMgb2YgYSBraW5nZG9t4oCZcyB3ZWFsdGggYW5kIHByb2R1Y3Rpdml0eSBhcmUgYnVpbGQgcG9pbnRzIChCUCkuIEJ1aWxkIHBvaW50cyBhcmUgYW4gYWJzdHJhY3Rpb24gcmVwcmVzZW50aW5nIHRoZSBraW5nZG9t4oCZcyBleHBlbmRhYmxlIGFzc2V0cywgbm90IGp1c3QgZ29sZCBpbiB0aGUgdHJlYXN1cnkuIEJ1aWxkIHBvaW50cyBpbmNsdWRlIHJhdyBtYXRlcmlhbHMgKHN1Y2ggYXMgbGl2ZXN0b2NrLCBsdW1iZXIsIGxhbmQsIHNlZWQsIGFuZCBvcmUpLCB0YW5naWJsZSBnb29kcyAoc3VjaCBhcyB3YWdvbnMsIHdlYXBvbnMsIGFuZCBjYW5kbGVzKSwgYW5kIHBlb3BsZSAoYXJ0aXNhbnMsIGxhYm9yZXJzLCBhbmQgY29sb25pc3RzKS4gVG9nZXRoZXIsIHRoZXNlIGFzc2V0cyByZXByZXNlbnQgdGhlIGxhYm9yIGFuZCBwcm9kdWN0aXZlIG91dHB1dCBvZiB5b3VyIGNpdGl6ZW5zLjxiciAvPjxiciAvPiBZb3Ugc3BlbmQgQlAgb24gdGFza3MgbmVjZXNzYXJ5IHRvIGRldmVsb3AgYW5kIHByb3RlY3QgeW91ciBraW5nZG9t4oCUcGxhbnRpbmcgZmFybXMsIGNyZWF0aW5nIHJvYWRzLCBjb25zdHJ1Y3RpbmcgYnVpbGRpbmdzLCByYWlzaW5nIGFybWllcywgYW5kIHNvIG9uLiBUaGVzZSB0aGluZ3MgYXJlIG1hZGUgYXQgeW91ciBjb21tYW5kLCBidXQgdGhleSBhcmUgbm90IHlvdXJzLiBUaGUgY2l0aWVzLCByb2FkcywgZmFybXMsIGFuZCBidWlsZGluZ3MgYmVsb25nIHRvIHRoZSBjaXRpemVucyB3aG8gYnVpbGQgdGhlbSBhbmQgdXNlIHRoZW0gdG8gbGl2ZSBhbmQgd29yayBldmVyeSBkYXksIGFuZCB0aG9zZSBhY3RzIG9mIGxpdmluZyBhbmQgd29ya2luZyBjcmVhdGUgbW9yZSBCUCBmb3IgdGhlIGtpbmdkb20uIEFzIHRoZSBsZWFkZXJzLCB5b3UgdXNlIHlvdXIgcG93ZXIgYW5kIGluZmx1ZW5jZSB0byBkaXJlY3QgdGhlIGVjb25vbWljIGFuZCBjb25zdHJ1Y3RpdmUgYWN0aXZpdHkgb2YgeW91ciBraW5nZG9tLCBkZWNpZGluZyB3aGF0IGdldHMgYnVpbHQsIHdoZW4sIGFuZCB3aGVyZS48YnIgLz48YnIgLz4gQnVpbGQgcG9pbnRzIGRvbuKAmXQgaGF2ZSBhIHByZWNpc2UgZXhjaGFuZ2UgcmF0ZSB0byBnb2xkIHBpZWNlcyBiZWNhdXNlIHRoZXkgZG9u4oCZdCByZXByZXNlbnQgZXhhY3QgYW1vdW50cyBvZiBzcGVjaWZpYyByZXNvdXJjZXMuIEZvciBleGFtcGxlLCB5b3UgY2Fu4oCZdCByZWFsbHkgZXF1YXRlIHRoZSBwcm9kdWN0aXZpdHkgb2YgYSBibGFja3NtaXRoIHdpdGggdGhhdCBvZiBhIHN0YWJsZSwgYXMgdGhlaXIgZ29vZHMgYXJlIHVzZWQgZm9yIGRpZmZlcmVudCB0aGluZ3MgYW5kIGFyZW7igJl0IHByb2R1Y2VkIGF0IHRoZSBzYW1lIHJhdGUsIGJ1dCBib3RoIG9mIHRoZW0gY29udHJpYnV0ZSB0byBhIGtpbmdkb23igJlzIG92ZXJhbGwgZWNvbm9teS4gSW4gZ2VuZXJhbCwgMSBCUCBpcyB3b3J0aCBhcHByb3hpbWF0ZWx5IDQsMDAwIGdwOyB1c2UgdGhpcyB2YWx1ZSB0byBnZXQgYSBzZW5zZSBvZiBob3cgY29zdGx5IHZhcmlvdXMga2luZ2RvbSBleHBlbmRpdHVyZXMgYXJlLiBJbiBwcmFjdGljZSwgaXQgaXMgbm90IGEgc2ltcGxlIG1hdHRlciB0byBjb252ZXJ0IG9uZSBjdXJyZW5jeSB0byB0aGUgb3RoZXIsIGJ1dCB0aGVyZSBhcmUgY2VydGFpbiB3YXlzIGZvciB5b3VyIFBDIHRvIHNwZW5kIGdwIHRvIGluY3JlYXNlIHRoZSBraW5nZG9t4oCZcyBCUCBvciB3aXRoZHJhdyBCUCBhbmQgdHVybiB0aGVtIGludG8gZ29sZCBmb3IgeW91ciBjaGFyYWN0ZXIgdG8gc3BlbmQuPGJyIC8+PGJyIC8+IFByb3ZpZGluZyBhIHNlZWQgYW1vdW50IG9mIEJQIGF0IHRoZSBzdGFydCBvZiBraW5nZG9tIGJ1aWxkaW5nIG1lYW5zIHlvdXIga2luZ2RvbSBpc27igJl0IHN0YXJ2aW5nIGZvciByZXNvdXJjZXMgaW4gdGhlIGluaXRpYWwgbW9udGhzLiBXaGV0aGVyIHlvdSBhY3F1aXJlIHRoZXNlIGZ1bmRzIG9uIHlvdXIgb3duIG9yIHdpdGggdGhlIGhlbHAgb2YgYW4gaW5mbHVlbnRpYWwgTlBDIGlzIGRlY2lkZWQgYnkgdGhlIEdNLCBhbmQgc2V0cyB0aGUgdG9uZSBmb3IgbXVjaCBvZiB0aGUgY2FtcGFpZ24uPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNTExIj5XZWFsdGh5IFNwb25zb3I8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTh4NjQ/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVVsdGltYXRlLUNhbXBhaWduDQoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+VWx0aW1hdGUgQ2FtcGFpZ24gcGcuIDIwNTwvaT48L2E+PGJyIC8+SW4gbWFueSBjYXNlcywgYSBraW5nZG9t4oCZcyBpbml0aWFsIEJQIGNvbWUgZnJvbSBhIHNvdXJjZSBvdXRzaWRlIHlvdXIgcGFydHkuIEEgd2VhbHRoeSBxdWVlbiBtYXkgd2FudCB0byB0YW1lIHNvbWUgb2YgdGhlIHdpbGRlcm5lc3Mgb24gaGVyIGtpbmdkb23igJlzIGJvcmRlcnMsIG9yIGEgbWVyY2hhbnTigJlzIGd1aWxkIG1heSB3YW50IHRvIGNvbnN0cnVjdCBhIHRyYWRpbmcgcG9zdCB0byBpbmNyZWFzZSB0cmFkZSB3aXRoIGRpc3RhbnQgbGFuZHMuIFJlZ2FyZGxlc3Mgb2YgdGhlIGludGVudCwgdGhlIHdvcmsgaW52b2x2ZWQgdG8gY3JlYXRlIGEgbmV3IHNldHRsZW1lbnQgY29zdHMgdGhvdXNhbmRzIG9mIGdvbGQgcGllY2Vz4oCUbW9yZSB0aGFuIG1vc3QgYWR2ZW50dXJlcnMgd291bGQgd2FudCB0byBzcGVuZCBvbiBtdW5kYW5lIHRoaW5ncyBsaWtlIGphaWxzLCBtaWxscywgYW5kIHBpZXJzLjxiciAvPjxiciAvPiBJdCBpcyBhbiBlYXN5IG1hdHRlciBmb3IgdGhlIEdNIHRvIHByb3ZpZGUgdGhlc2UgZnVuZHMgaW4gdGhlIGZvcm0gb2YgYSBxdWVzdCByZXdhcmQuIEEgd2VhbHRoeSBxdWVlbiBtYXkgZ3JhbnQgeW91IG1pbm9yIHRpdGxlcyBhbmQgQlAgZm9yIHlvdXIgdHJlYXN1cnkgaWYgeW91IGtpbGwgYSBub3RvcmlvdXMgYmFuZGl0IGFuZCB0dXJuIGhpcyBydWluZWQgY2FzdGxlIGludG8gYSB0b3duLCBvciBhIGd1aWxkIG1heSBwcm92aWRlIHlvdSB3aXRoIGEgc2hpcCBmdWxsIG9mIGdvb2RzIGFuZCB3b3JrZXJzIGFuZCBlbm91Z2ggQlAgdG8gc3RhcnQgYSBzbWFsbCBjb2xvbnkgb24gYSBuZXdseSBkaXNjb3ZlcmVkLCByZXNvdXJjZS1yaWNoIGNvbnRpbmVudC4gSW4gZXhjaGFuZ2UgZm9yIHRoaXMgaW52ZXN0bWVudCwgdGhlIHNwb25zb3IgZXhwZWN0cyB5b3UgdG8gYmUgYSB2YXNzYWwgb3IgY2xvc2UgYWxseTsgaW4gc29tZSBjYXNlcywgeW91IG1heSBiZSByZXF1aXJlZCB0byBwYXkgYmFjayB0aGVzZSBCUCAoc3VjaCBhcyBhdCBhIHJhdGUgb2YgMSBCUCBwZXIgdHVybikgb3IgcHJvdmlkZSB0cmlidXRlIHRvIHRoZSBwYXRyb24gb24gYW4gb25nb2luZyBiYXNpcyAoc3VjaCBhcyBhdCBhIHJhdGUgb2YgMTAlIG9mIHlvdXIgaW5jb21lIHBlciB0dXJuLCBtaW5pbXVtIDEgQlApLjxiciAvPjxiciAvPiBBbiBhcHByb3ByaWF0ZSBzdGFydGluZyBhbW91bnQgaXMgNTAgQlAuIFRoaXMgYW1vdW50IGlzIGVub3VnaCB0byBrZWVwIGEgbmV3IGtpbmdkb20gYWN0aXZlIGZvciBhIGZldyB0dXJucyB3aGlsZSBpdCBlc3RhYmxpc2hlcyBpdHMgb3duIGVjb25vbXksIGJ1dCBpdCBpcyBzdGlsbCBhdCByaXNrIG9mIGNvbGxhcHNlIGZyb20gbWlzbWFuYWdlbWVudCBvciBiYWQgbHVjay48YnIgLz48YnIgLz4gQXMgdGhlIGluaXRpYWwgY2l0aXplbnMgcmVwcmVzZW50ZWQgYnkgdGhpcyBCUCBpbnZlc3RtZW50IGFyZSBwcm9iYWJseSBsb3lhbCB0byB0aGUgc3BvbnNvciwgdGFraW5nIGFjdGlvbiBhZ2FpbnN0IHRoZSBzcG9uc29yIG1heSBhbmdlciB0aG9zZSBwZW9wbGUgYW5kIGNhdXNlIHRyb3VibGUuIEZvciBleGFtcGxlLCBpZiB5b3UgcmVidWZmIHRoZSBxdWVlbuKAmXMgZW52b3ksIHlvdXIgY2l0aXplbnMgbWF5IHNlZSB0aGlzIGFzIGEgc251YiBhZ2FpbnN0IHRoZSBxdWVlbiBhbmQgcmViZWwuPGJyIC8+PGJyIC8+IFlvdXIgcmVzcG9uc2liaWxpdHkgdG8gdGhlIHNwb25zb3IgdXN1YWxseSBmYWxscyBpbnRvIG9uZSBvZiB0aGUgZm9sbG93aW5nIGNhdGVnb3JpZXMsIGJhc2VkIG9uIHRoZSBsb2FuIGFycmFuZ2VtZW50LjxiciAvPjxiciAvPiA8Yj5DaGFydGVyPC9iPjogVGhlIHNwb25zb3IgZXhwZWN0cyB5b3UgdG8gZXhwbG9yZSwgY2xlYXIsIGFuZCBzZXR0bGUgYSB3aWxkZXJuZXNzIGFyZWEgYWxvbmcgdGhlIHNwb25zb3LigJlzIGJvcmRlcuKAlGFuIGFyZWEgd2hlcmUgdGhlIHNwb25zb3IgaGFzIHNvbWUgdGVycml0b3JpYWwgY2xhaW1zLiBZb3UgbWF5IGhhdmUgdG8gZmVuZCBvZmYgb3RoZXIgY2hhbGxlbmdlcnMgZm9yIHRoZSBsYW5kLiA8YnIgLz48YnIgLz48Yj5Db25xdWVzdDwvYj46IFRoZSBzcG9uc29y4oCZcyBzb2xkaWVycyBjbGFzaGVkIHdpdGggdGhlIGFybXkgb2YgYW4gZXhpc3Rpbmcga2luZ2RvbSBhbmQgdGhlIGtpbmdkb23igJlzIG9sZCBsZWFkZXJzIGhhdmUgZmxlZCwgc3VycmVuZGVyZWQsIG9yIGJlZW4ga2lsbGVkLiBUaGUgc3BvbnNvciBoYXMgcGxhY2VkIHlvdSBpbiBjb21tYW5kIG9mIHRoaXMgdGVycml0b3J5IGFuZCB0aGUgc29sZGllcnMuIDxiciAvPjxiciAvPjxiPkZpZWY8L2I+OiBUaGUgc3BvbnNvciBwbGFjZXMgeW91IGluIGNoYXJnZSBvZiBhbiBleGlzdGluZyBkb21haW4gd2l0aGluIGhpcyBvd24gYWxyZWFkeS1zZXR0bGVkIGxhbmRzLiBJZiBpdCBpbmNsdWRlcyBhbHJlYWR5IGltcHJvdmVkIHRlcnJhaW4gYW5kIGNpdGllcywgeW914oCZcmUgZXhwZWN0ZWQgdG8gZ292ZXJuIGFuZCBmdXJ0aGVyIGltcHJvdmUgdGhlbS4gKFdoaWxlIHlvdeKAmWxsIHN0YXJ0IHdpdGggbGFuZCBhbmQgc2V0dGxlbWVudHMsIHlvdeKAmWxsIHN0aWxsIG5lZWQgYXJvdW5kIDUwIEJQIHRvIGhhbmRsZSB5b3VyIGtpbmdkb23igJlzIENvbnN1bXB0aW9uIGFuZCBkZXZlbG9wbWVudCBuZWVkcy4pIDxiciAvPjxiciAvPjxiPkdyYW50PC9iPjogVGhlIHNwb25zb3IgcGxhY2VzIHlvdSBpbiBjaGFyZ2Ugb2Ygc2V0dGxpbmcgYW5kIGltcHJvdmluZyBhbiBhcmVhIGFscmVhZHkgY2xhaW1lZCBieSB0aGUgbGllZ2UgYnV0IG5vdCBzaWduaWZpY2FudGx5IHRvdWNoZWQgYnkgY2l2aWxpemF0aW9uLiBZb3UgbWF5IGhhdmUgdG8gZXhwYW5kIHRoZSBib3JkZXJzIG9mIHRoZSBsYW5kIG9yIGRlZmVuZCBpdCBhZ2FpbnN0IGhvc3RpbGUgY3JlYXR1cmVzLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTUxMiI+U3RhcnRpbmcgZnJvbSBTY3JhdGNoPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk4eDY0P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1VbHRpbWF0ZS1DYW1wYWlnbg0KIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlVsdGltYXRlIENhbXBhaWduIHBnLiAyMDU8L2k+PC9hPjxiciAvPkl04oCZcyBub3QgZWFzeSB0byBzdGFydCBhIGtpbmdkb23igJRwcm9iYWJseSB0aGUgcmVhc29uIGV2ZXJ5b25lIGRvZXNu4oCZdCBoYXZlIG9uZS4gSWYgeW91IGFyZSBmb3VuZGluZyBhIGtpbmdkb20gb24geW91ciBvd24sIHdpdGhvdXQgYW4gZXh0ZXJuYWwgc3BvbnNvciBvciBhIGZhbnRhc3RpYyB3aW5kZmFsbCBvZiByZXNvdXJjZXMsIHRoZSBpbml0aWFsIGZpbmFuY2lhbCBjb3N0cyBjYW4gYmUgY3JpcHBsaW5nIHRvIFBDcy4gRXZlbiBidWlsZGluZyBhIG5ldyB0b3duIHdpdGgganVzdCBhIEhvdXNlIGFuZCBhbiBJbm4gY29zdHMgMTMgQlDigJR3b3J0aCBvdmVyIDUwLDAwMCBncCBpbiB0ZXJtcyBvZiBzdG9uZSwgdGltYmVyLCBsYWJvciwgZm9vZCwgYW5kIHNvIG9uLiBUbyBjb21wZW5zYXRlIGZvciB0aGlzIChhbmQgZW5jb3VyYWdlIHlvdSB0byBhZHZlbnR1cmUgaW4gc2VhcmNoIG9mIG1vcmUgZ29sZCB0aGF0IHlvdSBjYW4gY29udmVydCBpbnRvIEJQKSwgaWYgeW914oCZcmUgcnVubmluZyBhIHNtYWxsLCBzZWxmLXN0YXJ0aW5nIGtpbmdkb20sIHRoZSBHTSBtYXkgYWxsb3cgeW91IHRvIHR1cm4geW91ciBnb2xkIGludG8gQlAgYXQgYSBiZXR0ZXIgcmF0ZS4gWW91IG1heSBvbmx5IHRha2UgYWR2YW50YWdlIG9mIHRoaXMgaWYgeW91IGRvbuKAmXQgaGF2ZSBhIHNwb25zb3I7IGl0IHJlcHJlc2VudHMgeW91ciBwZW9wbGUgc2VlaW5nIHRoZSBoYXJkIHdvcmsgeW914oCZcmUgZGlyZWN0bHkgcHV0dGluZyBpbiBhbmQgYmVpbmcgaW5zcGlyZWQgdG8gZG8gdGhlIHNhbWUgdG8gZ2V0IHRoZSBraW5nZG9tIG9mZiB0aGUgZ3JvdW5kLjxiciAvPjxiciAvPiBUaGlzIGltcHJvdmVkIHJhdGUgZGVwZW5kcyBvbiB0aGUgU2l6ZSBvZiB5b3VyIGtpbmdkb20sIGFzIHNob3duIGluIHRoZSBmb2xsb3dpbmcgdGFibGUuIDxiciAvPjxiciAvPiA8dGFibGUgY2xhc3M9ImlubmVyIj4gPHRyPjx0ZD48Yj5LaW5nZG9tIFNpemU8L2I+PC90ZD48dGQ+PGI+UHJpY2Ugb2YgMSBCUDwvYj48L3RkPjx0ZD48Yj5XaXRoZHJhd2FsIFJhdGUqPC9iPjwvdGQ+PC90cj4gPHRyPjx0ZD4wMS0yNTwvdGQ+PHRkPjEsMDAwIGdwPC90ZD48dGQ+NTAwIGdwPC90ZD48L3RyPiA8dHI+PHRkPjI2LTUwPC90ZD48dGQ+MiwwMDAgZ3A8L3RkPjx0ZD4xLDAwMCBncDwvdGQ+PC90cj4gPHRyPjx0ZD41MS0xMDA8L3RkPjx0ZD4zLDAwMCBncDwvdGQ+PHRkPjEsNTAwIGdwPC90ZD48L3RyPiA8dHI+PHRkPjEwMSs8L3RkPjx0ZD40LDAwMCBncDwvdGQ+PHRkPjIsMDAwIGdwPC90ZD48L3RyPiA8L3RhYmxlPiAqIElmIHlvdSBtYWtlIGEgd2l0aGRyYXdhbCBmcm9tIHRoZSBUcmVhc3VyeSBkdXJpbmcgdGhlIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJSdWxlcy5hc3B4P05hbWU9S2luZ2RvbSBJbmNvbWUgUGhhc2UmQ2F0ZWdvcnk9S2luZ2RvbSBUdXJuIFNlcXVlbmNlIj5JbmNvbWUgcGhhc2U8L2E+LCB1c2UgdGhpcyB3aXRoZHJhd2FsIHJhdGUgdG8gZGV0ZXJtaW5lIGhvdyBtdWNoIGdwIHlvdSBnYWluIHBlciBCUCB3aXRoZHJhd24uIDxiciAvPjxiciAvPiBUaGUgR00gbWF5IGFsc28gYWxsb3cgeW91IHRvIGRpc2NvdmVyIGEgY2FjaGUgb2YgZ29vZHMgd29ydGggQlAgKGluc3RlYWQgb2YgZ3ApIGFzIGEgcmV3YXJkIGZvciBhZHZlbnR1cmluZywgZ2l2aW5nIHlvdSB0aGUgc2VlZCBtb25leSB0byBmb3VuZCBvciBzdXBwb3J0IHlvdXIga2luZ2RvbS5kZGR1CV4InBNtBCdlwswACRYpayWUYpd8/Z7S/ntHaguwfg==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1488">Kingdoms and War</a></u> / <u><a href="Rules.aspx?ID=1489">Kingdom Building</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=1510">Build Points</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 204</i></a><br />The units of a kingdom’s wealth and productivity are build points (BP). Build points are an abstraction representing the kingdom’s expendable assets, not just gold in the treasury. Build points include raw materials (such as livestock, lumber, land, seed, and ore), tangible goods (such as wagons, weapons, and candles), and people (artisans, laborers, and colonists). Together, these assets represent the labor and productive output of your citizens.<br /><br /> You spend BP on tasks necessary to develop and protect your kingdom—planting farms, creating roads, constructing buildings, raising armies, and so on. These things are made at your command, but they are not yours. The cities, roads, farms, and buildings belong to the citizens who build them and use them to live and work every day, and those acts of living and working create more BP for the kingdom. As the leaders, you use your power and influence to direct the economic and constructive activity of your kingdom, deciding what gets built, when, and where.<br /><br /> Build points don’t have a precise exchange rate to gold pieces because they don’t represent exact amounts of specific resources. For example, you can’t really equate the productivity of a blacksmith with that of a stable, as their goods are used for different things and aren’t produced at the same rate, but both of them contribute to a kingdom’s overall economy. In general, 1 BP is worth approximately 4,000 gp; use this value to get a sense of how costly various kingdom expenditures are. In practice, it is not a simple matter to convert one currency to the other, but there are certain ways for your PC to spend gp to increase the kingdom’s BP or withdraw BP and turn them into gold for your character to spend.<br /><br /> Providing a seed amount of BP at the start of kingdom building means your kingdom isn’t starving for resources in the initial months. Whether you acquire these funds on your own or with the help of an influential NPC is decided by the GM, and sets the tone for much of the campaign.<br /><h1 class="title"><a href="Rules.aspx?ID=1511">Wealthy Sponsor</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 205</i></a><br />In many cases, a kingdom’s initial BP come from a source outside your party. A wealthy queen may want to tame some of the wilderness on her kingdom’s borders, or a merchant’s guild may want to construct a trading post to increase trade with distant lands. Regardless of the intent, the work involved to create a new settlement costs thousands of gold pieces—more than most adventurers would want to spend on mundane things like jails, mills, and piers.<br /><br /> It is an easy matter for the GM to provide these funds in the form of a quest reward. A wealthy queen may grant you minor titles and BP for your treasury if you kill a notorious bandit and turn his ruined castle into a town, or a guild may provide you with a ship full of goods and workers and enough BP to start a small colony on a newly discovered, resource-rich continent. In exchange for this investment, the sponsor expects you to be a vassal or close ally; in some cases, you may be required to pay back these BP (such as at a rate of 1 BP per turn) or provide tribute to the patron on an ongoing basis (such as at a rate of 10% of your income per turn, minimum 1 BP).<br /><br /> An appropriate starting amount is 50 BP. This amount is enough to keep a new kingdom active for a few turns while it establishes its own economy, but it is still at risk of collapse from mismanagement or bad luck.<br /><br /> As the initial citizens represented by this BP investment are probably loyal to the sponsor, taking action against the sponsor may anger those people and cause trouble. For example, if you rebuff the queen’s envoy, your citizens may see this as a snub against the queen and rebel.<br /><br /> Your responsibility to the sponsor usually falls into one of the following categories, based on the loan arrangement.<br /><br /> <b>Charter</b>: The sponsor expects you to explore, clear, and settle a wilderness area along the sponsor’s border—an area where the sponsor has some territorial claims. You may have to fend off other challengers for the land. <br /><br /><b>Conquest</b>: The sponsor’s soldiers clashed with the army of an existing kingdom and the kingdom’s old leaders have fled, surrendered, or been killed. The sponsor has placed you in command of this territory and the soldiers. <br /><br /><b>Fief</b>: The sponsor places you in charge of an existing domain within his own already-settled lands. If it includes already improved terrain and cities, you’re expected to govern and further improve them. (While you’ll start with land and settlements, you’ll still need around 50 BP to handle your kingdom’s Consumption and development needs.) <br /><br /><b>Grant</b>: The sponsor places you in charge of settling and improving an area already claimed by the liege but not significantly touched by civilization. You may have to expand the borders of the land or defend it against hostile creatures.<br /><h1 class="title"><a href="Rules.aspx?ID=1512">Starting from Scratch</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 205</i></a><br />It’s not easy to start a kingdom—probably the reason everyone doesn’t have one. If you are founding a kingdom on your own, without an external sponsor or a fantastic windfall of resources, the initial financial costs can be crippling to PCs. Even building a new town with just a House and an Inn costs 13 BP—worth over 50,000 gp in terms of stone, timber, labor, food, and so on. To compensate for this (and encourage you to adventure in search of more gold that you can convert into BP), if you’re running a small, self-starting kingdom, the GM may allow you to turn your gold into BP at a better rate. You may only take advantage of this if you don’t have a sponsor; it represents your people seeing the hard work you’re directly putting in and being inspired to do the same to get the kingdom off the ground.<br /><br /> This improved rate depends on the Size of your kingdom, as shown in the following table. <br /><br /> <table class="inner"> <tr><td><b>Kingdom Size</b></td><td><b>Price of 1 BP</b></td><td><b>Withdrawal Rate*</b></td></tr> <tr><td>01-25</td><td>1,000 gp</td><td>500 gp</td></tr> <tr><td>26-50</td><td>2,000 gp</td><td>1,000 gp</td></tr> <tr><td>51-100</td><td>3,000 gp</td><td>1,500 gp</td></tr> <tr><td>101+</td><td>4,000 gp</td><td>2,000 gp</td></tr> </table> * If you make a withdrawal from the Treasury during the <a style="text-decoration:underline" href="Rules.aspx?Name=Kingdom Income Phase&Category=Kingdom Turn Sequence">Income phase</a>, use this withdrawal rate to determine how much gp you gain per BP withdrawn. <br /><br /> The GM may also allow you to discover a cache of goods worth BP (instead of gp) as a reward for adventuring, giving you the seed money to found or support your kingdom.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

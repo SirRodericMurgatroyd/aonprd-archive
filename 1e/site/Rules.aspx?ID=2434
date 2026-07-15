@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Weather Baseline - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Weather Baseline" /><meta name="description" content="When determining weather for a region in your campaign, your first step is to establish the weather baseline for the region. The weather baseline is influenced by the region’s climate (this sets the baseline temperature), elevation (this provides the baseline precipitation intensity), and season (this affects the temperature and dictates the baseline precipitation frequency)." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=2434" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWOPDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjM3OCI+TWFzdGVyaW5nIHRoZSBXaWxkPC9hPjwvdT4gLyA8dT48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTI0MzMiPldlYXRoZXIgaW4gdGhlIFdpbGRlcm5lc3M8L2E+PC91PjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjQzNCI+V2VhdGhlciBCYXNlbGluZTwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OXVqbyIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5VbHRpbWF0ZSBXaWxkZXJuZXNzIHBnLiAxNjU8L2k+PC9hPjxiciAvPldoZW4gZGV0ZXJtaW5pbmcgd2VhdGhlciBmb3IgYSByZWdpb24gaW4geW91ciBjYW1wYWlnbiwgeW91ciBmaXJzdCBzdGVwIGlzIHRvIGVzdGFibGlzaCB0aGUgd2VhdGhlciBiYXNlbGluZSBmb3IgdGhlIHJlZ2lvbi4gVGhlIHdlYXRoZXIgYmFzZWxpbmUgaXMgaW5mbHVlbmNlZCBieSB0aGUgcmVnaW9u4oCZcyBjbGltYXRlICh0aGlzIHNldHMgdGhlIGJhc2VsaW5lIHRlbXBlcmF0dXJlKSwgZWxldmF0aW9uICh0aGlzIHByb3ZpZGVzIHRoZSBiYXNlbGluZSBwcmVjaXBpdGF0aW9uIGludGVuc2l0eSksIGFuZCBzZWFzb24gKHRoaXMgYWZmZWN0cyB0aGUgdGVtcGVyYXR1cmUgYW5kIGRpY3RhdGVzIHRoZSBiYXNlbGluZSBwcmVjaXBpdGF0aW9uIGZyZXF1ZW5jeSkuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0yNDM1Ij5DbGltYXRlPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5dWpvIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlVsdGltYXRlIFdpbGRlcm5lc3MgcGcuIDE2NTwvaT48L2E+PGJyIC8+WW91ciBmaXJzdCBzdGVwIGluIGRldGVybWluaW5nIGEgcmVnaW9u4oCZcyBiYXNlbGluZSB3ZWF0aGVyIGlzIHRvIGRlY2lkZSB1cG9uIHRoZSByZWdpb27igJlzIGNsaW1hdGUuIENsaW1hdGUgaXMgc3BsaXQgdXAgaW50byBvbmUgb2YgdGhyZWUgY2F0ZWdvcmllczogY29sZCwgdGVtcGVyYXRlIGFuZCB0cm9waWNhbC4gVGhlc2UgdHlwZXMgY29ycmVzcG9uZCB0byB0aGUgdGhyZWUgY2xpbWF0ZSBjYXRlZ29yaWVzIHVzZWQgaW4gbW9uc3RlciBlbnRyaWVzIGluIGFsbCBvZiB0aGUgPGk+UGF0aGZpbmRlciBCZXN0aWFyeTwvaT4gdm9sdW1lcyAobm90ZSB0aGF0IGEgZm91cnRoIGNhdGVnb3J5LCBleHRyYXBsYW5hciwgaXMgbm90IGEgZmFjdG9yIGluIGRldGVybWluaW5nIHdlYXRoZXIgZm9yIE1hdGVyaWFsIFBsYW5lIHdvcmxkcykuPGJyIC8+PGJyIC8+IFRoZSBiYXNlbGluZSB0ZW1wZXJhdHVyZSByYW5nZSBmb3IgZWFjaCBjbGltYXRlIGNhdGVnb3J5IGlzIGdpdmVuIGJlbG93LCBhbmQgaXMgZnVydGhlciByZWZpbmVkIGluIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJSdWxlcy5hc3B4P05hbWU9VGVtcGVyYXR1cmUgVmFyaWF0aW9ucyBhbmQgUHJlY2lwaXRhdGlvbiZDYXRlZ29yeT1XZWF0aGVyIGluIHRoZSBXaWxkZXJuZXNzIj5UZW1wZXJhdHVyZSBWYXJpYXRpb25zIGFuZCBQcmVjaXBpdGF0aW9uPC9hPi4gVGhlc2UgYmFzZWxpbmVzIGFyZSBhbHNvIHByZXNlbnRlZCBpbiBUYWJsZSA04oCTMTIuIDxiciAvPjxiciAvPjxiPkNvbGQ8L2I+OiBBIGNvbGQgY2xpbWF0ZSBpcyBmb3VuZCBpbiB0aGUgZXh0cmVtZSBub3J0aGVybiBvciBzb3V0aGVybiByZWdpb25zIG9mIHRoZSB3b3JsZCBhdCBsYXRpdHVkZXMgZ3JlYXRlciB0aGFuIDYwIGRlZ3JlZXMgKGFwcHJveGltYXRlbHkgMiwwMDAgbWlsZXMgZnJvbSBhIHBvbGUpLiBJbiB0aGVzZSBwb2xhciByZWdpb25zLCB0ZW1wZXJhdHVyZXMgb2Z0ZW4gcmVtYWluIGJlbG93IGZyZWV6aW5nIHRocm91Z2hvdXQgdGhlIG1ham9yaXR5IG9mIHRoZSB5ZWFyLiBUaGUgYmFzZWxpbmUgdGVtcGVyYXR1cmUgaW4gdGhpcyBjbGltYXRlIGlzIGNvbGQsIHJhbmdpbmcgZnJvbSAyMMK6IEYgaW4gdGhlIHdpbnRlciwgdG8gMzDCuiBGIGluIHRoZSBzcHJpbmcgYW5kIGZhbGwgbW9udGhzLCBhbmQgdXAgdG8gNDDCuiBGIGluIHRoZSBzdW1tZXIuIEZvciByZWdpb25zIHdpdGhpbiA1MDAgbWlsZXMgb2YgdGhlIHBvbGUsIHRoZSBiYXNlbGluZSB0ZW1wZXJhdHVyZSBpcyAxMMK6IEYgY29sZGVyIHRoYW4gdGhlIHNlYXNvbmFsIGF2ZXJhZ2UuIEZvciByZWdpb25zIHdpdGhpbiAyNTAgbWlsZXMgb2YgdGhlIHBvbGUsIHRoZSBiYXNlbGluZSB0ZW1wZXJhdHVyZSBpcyAyMMK6IEYgY29sZGVyIHRoYW4gdGhlIHNlYXNvbmFsIGF2ZXJhZ2UuIEJlY2F1c2UgY29sZCBhaXIgdGVuZHMgdG8gYmUgZHJpZXIgdGhhbiB3YXJtIGFpciwgcmVkdWNlIHRoZSBmcmVxdWVuY3kgYW5kIGludGVuc2l0eSBvZiBwcmVjaXBpdGF0aW9uIGJ5IG9uZSBzdGVwIGluIGNvbGQgY2xpbWF0ZXMuIDxiciAvPjxiciAvPjxiPlRlbXBlcmF0ZTwvYj46IFRlbXBlcmF0ZSBjbGltYXRlcyBzdHJldGNoIGJldHdlZW4gdGhlIHBvbGFyIHJlZ2lvbnMgYW5kIHRyb3BpY2FsIHJlZ2lvbnMgb2YgdGhlIHdvcmxkLCBnZW5lcmFsbHkgYXQgbGF0aXR1ZGVzIGJldHdlZW4gNjAgZGVncmVlcyBhbmQgMzAgZGVncmVlcy4gVGhlIGJhc2VsaW5lIHRlbXBlcmF0dXJlIGluIHRoaXMgY2xpbWF0ZSByYW5nZXMgZnJvbSAzMMK6IEYgaW4gd2ludGVyLCB0byA2MMK6IEYgaW4gc3ByaW5nIGFuZCBmYWxsLCBhbmQgYWxsIHRoZSB3YXkgdXAgdG8gODDCuiBGIGluIHN1bW1lci4gUHJlY2lwaXRhdGlvbiBmcmVxdWVuY3kgaXMgbm90IGFsdGVyZWQgYXMgYSByZXN1bHQgb2YgYSB0ZW1wZXJhdGUgY2xpbWF0ZSwgYnV0IGl0IGNhbiBzdGlsbCBiZSBhbHRlcmVkIGFzIGEgcmVzdWx0IG9mIG90aGVyIGZhY3RvcnMgc3VjaCBhcyB0aGUgZWxldmF0aW9uIG9yIHNlYXNvbiAoc2VlIGJlbG93KS4gPGJyIC8+PGJyIC8+PGI+VHJvcGljYWw8L2I+OiBUaGUgdHJvcGljcyBleGlzdCB0byBlaXRoZXIgc2lkZSBvZiB0aGUgd29ybGTigJlzIGVxdWF0b3IsIGV4dGVuZGluZyBub3J0aCBhbmQgc291dGggZm9yIGFib3V0IDMwIGRlZ3JlZXMgb2YgbGF0aXR1ZGUgaW4gZWl0aGVyIGRpcmVjdGlvbi4gVHJvcGljYWwgcmVnaW9ucyB0ZW5kIHRvIGJlIHdhcm0gYW5kIGh1bWlkLCB3aXRoIGEgYmFzZWxpbmUgdGVtcGVyYXR1cmUgcmFuZ2luZyBmcm9tIDUwwrogRiBpbiB3aW50ZXIsIHRvIDc1wrogRiBpbiBzcHJpbmcgYW5kIGZhbGwsIGFuZCB1cCB0byA5NcK6IEYgaW4gc3VtbWVyLiBCZWNhdXNlIHdhcm0sIGh1bWlkIGFpciBwcm9kdWNlcyBhIGdyZWF0IGRlYWwgb2YgcHJlY2lwaXRhdGlvbiwgaW5jcmVhc2UgdGhlIGZyZXF1ZW5jeSBhbmQgaW50ZW5zaXR5IG9mIHByZWNpcGl0YXRpb24gYnkgb25lIHN0ZXAgaW4gdGhpcyBjbGltYXRlLiA8YnIgLz48YnIgLz4gPGgyPlRhYmxlIDQtMTI6IENsaW1hdGUgQmFzZWxpbmVzPC9oMj4gPHRhYmxlIGNsYXNzPSJpbm5lciI+IDx0cj48dGQ+PGI+Q2xpbWF0ZTwvYj48L3RkPjx0ZD48Yj5XaW50ZXIgVGVtcC48L2I+PC90ZD48dGQ+PGI+U3ByaW5nIFRlbXAuPC9iPjwvdGQ+PHRkPjxiPlN1bW1lciBUZW1wLjwvYj48L3RkPjx0ZD48Yj5GYWxsIFRlbXAuPC9iPjwvdGQ+PHRkPjxiPlByZWNpcGl0YXRpb24gQWRqdXN0bWVudDwvYj48L3RkPjwvdHI+PHRyPjx0ZD5Db2xkPC90ZD48dGQ+MjDCuiBGPC90ZD48dGQ+MzDCuiBGPC90ZD48dGQ+NDDCuiBGPC90ZD48dGQ+MzDCuiBGPC90ZD48dGQ+RGVjcmVhc2UgZnJlcXVlbmN5IGFuZCBpbnRlbnNpdHkgYnkgb25lIHN0ZXA8L3RkPjwvdHI+PHRyPjx0ZD5UZW1wZXJhdGU8L3RkPjx0ZD4zMMK6IEY8L3RkPjx0ZD42MMK6IEY8L3RkPjx0ZD44MMK6IEY8L3RkPjx0ZD42MMK6IEY8L3RkPjx0ZD7igJQ8L3RkPjwvdHI+PHRyPjx0ZD5Ucm9waWNhbDwvdGQ+PHRkPjUwwrogRjwvdGQ+PHRkPjc1wrogRjwvdGQ+PHRkPjk1wrogRjwvdGQ+PHRkPjc1wrogRjwvdGQ+PHRkPkluY3JlYXNlIGZyZXF1ZW5jeSBhbmQgaW50ZW5zaXR5IGJ5IG9uZSBzdGVwPC90ZD48L3RyPiA8L3RhYmxlPjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjQzNiI+RWxldmF0aW9uPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5dWpvIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlVsdGltYXRlIFdpbGRlcm5lc3MgcGcuIDE2NjwvaT48L2E+PGJyIC8+V2hpbGUgdGhlIGNsaW1hdGUgc2V0cyBiYXNlbGluZXMgZm9yIHRlbXBlcmF0dXJlcywgZWxldmF0aW9uIHBsYXlzIGEga2V5IGZhY3RvciBhcyB3ZWxsLiBFbGV2YXRpb24gY2FuIGFmZmVjdCB0aGUgYmFzZWxpbmUgdGVtcGVyYXR1cmUsIGFuZCBpdCBzZXRzIHRoZSBiYXNlbGluZSBpbnRlbnNpdHkgb2YgcHJlY2lwaXRhdGlvbiBpbiB0aGUgcmVnaW9uLCBhcyBleHBsYWluZWQgYmVsb3cgYW5kIGRpc3BsYXllZCBpbiBUYWJsZSA04oCTMTM6IEVsZXZhdGlvbiBCYXNlbGluZXMuIDxiciAvPjxiciAvPjxiPlNlYSBMZXZlbDwvYj46IFRlbXBlcmF0dXJlcyBpbiBzZWEtbGV2ZWwgYW5kIGNvYXN0YWwgcmVnaW9ucyBhcmUgMTDCuiB3YXJtZXIuIFNlYS1sZXZlbCByZWdpb25zIGFsc28gdGVuZCB0byBoYXZlIG1vcmUgcHJlY2lwaXRhdGlvbiB0aGFuIGFyZWFzIG9mIGhpZ2hlciBlbGV2YXRpb24sIHNvIHRoZSBiYXNlbGluZSBwcmVjaXBpdGF0aW9uIGludGVuc2l0eSBpbiBhIHNlYS1sZXZlbCByZWdpb24gaXMgaGVhdnkuIDxiciAvPjxiciAvPjxiPkxvd2xhbmQ8L2I+OiBMb3dsYW5kcyBhcmUgYXJlYXMgb2YgbG93IGVsZXZhdGlvbiBub3QgbmVhciB0aGUgY29hc3QsIGdlbmVyYWxseSBhdCBhbiBlbGV2YXRpb24gb2YgMSwwMDAgdG8gNSwwMDAgZmVldC4gVGhpcyBlbGV2YXRpb24gcmFuZ2UgZG9lcyBub3QgYWx0ZXIgYmFzZWxpbmUgdGVtcGVyYXR1cmVzLiBUaGUgYmFzZWxpbmUgcHJlY2lwaXRhdGlvbiBpbnRlbnNpdHkgaW4gbG93bGFuZHMgaXMgbWVkaXVtLiA8YnIgLz48YnIgLz48Yj5IaWdobGFuZDwvYj46IEhpZ2hsYW5kcyBpbmNsdWRlIHJlZ2lvbnMgd2l0aCBlbGV2YXRpb25zIGFib3ZlIDUsMDAwIGZlZXQuIERlY3JlYXNlIGJhc2VsaW5lIHRlbXBlcmF0dXJlcyBpbiBoaWdobGFuZHMgYnkgMTDCuiAoYWx0aG91Z2ggaW4gcGFydGljdWxhcmx5IGFyaWQgYW5kIGZsYXQgcmVnaW9ucywgeW91IHNob3VsZCBpbnN0ZWFkIGluY3JlYXNlIHRoZSBiYXNlbGluZSB0ZW1wZXJhdHVyZSBieSAxMMK6LCB3aGlsZSBpbiBwYXJ0aWN1bGFybHkgaGlnaC1hbHRpdHVkZSByZWdpb25zIHN1Y2ggYXMgc2lnbmlmaWNhbnQgbW91bnRhaW4gcmFuZ2VzLCB5b3Ugc2hvdWxkIGluc3RlYWQgZGVjcmVhc2UgdGhlIGJhc2VsaW5lIHRlbXBlcmF0dXJlIGJ5IDIwwropLiBUaGUgZnJlcXVlbmN5IG9mIHByZWNpcGl0YXRpb24gaXMgZGVjcmVhc2VkIGJ5IG9uZSBzdGVwLCBhbmQgYmFzZWxpbmUgcHJlY2lwaXRhdGlvbiBpbnRlbnNpdHkgaXMgbWVkaXVtLiA8YnIgLz48YnIgLz4gPGgyPlRhYmxlIDQtMTM6IEVsZXZhdGlvbiBCYXNlbGluZXM8L2gyPiA8dGFibGUgY2xhc3M9ImlubmVyIj4gPHRyPjx0ZD48Yj5FbGV2YXRpb248L2I+PC90ZD48dGQ+PGI+QWx0aXR1ZGUgUmFuZ2U8L2I+PC90ZD48dGQ+PGI+QmFzZWxpbmUgVGVtcC4gQWRqdXN0LjwvYj48L3RkPjx0ZD48Yj5CYXNlbGluZSBQcmVjaXBpdGF0aW9uIEludGVuc2l0eTwvYj48L3RkPjwvdHI+PHRyPjx0ZD5TZWEgbGV2ZWw8L3RkPjx0ZD5CZWxvdyAxLDAwMCBmdC48L3RkPjx0ZD4rMTDCuiBGPC90ZD48dGQ+SGVhdnk8L3RkPjwvdHI+PHRyPjx0ZD5Mb3dsYW5kPC90ZD48dGQ+MSwwMDAgZnQuIHRvIDUsMDAwIGZ0LjwvdGQ+PHRkPuKAlDwvdGQ+PHRkPk1lZGl1bTwvdGQ+PC90cj48dHI+PHRkPkhpZ2hsYW5kPC90ZD48dGQ+QWJvdmUgNSwwMDAgZnQuPC90ZD48dGQ+LTEwwrogRjwvdGQ+PHRkPk1lZGl1bSAoZGVjcmVhc2UgcHJlY2lwaXRhdGlvbiBmcmVxdWVuY3kgYnkgb25lIHN0ZXApPC90ZD48L3RyPiA8L3RhYmxlPjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjQzNyI+U2Vhc29uPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5dWpvIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlVsdGltYXRlIFdpbGRlcm5lc3MgcGcuIDE2NjwvaT48L2E+PGJyIC8+QSB5ZWFyIGhhcyBmb3VyIHNlYXNvbnPigJRzcHJpbmcsIHN1bW1lciwgZmFsbCwgYW5kIHdpbnRlcuKAlCBlYWNoIG9mIHdoaWNoIGxhc3RzIGFib3V0IDMgbW9udGhzLiBTZWFzb24gcGxheXMgYW4gaW1wb3J0YW50IHBhcnQgaW4gZGljdGF0aW5nIGEgcmVnaW9u4oCZcyBiYXNlbGluZSB0ZW1wZXJhdHVyZSAoYXMgbm90ZWQgaW4gZWFjaCBjbGltYXRlIGFuZCBpbiBUYWJsZSA04oCTMTQpLiBJdCBhbHNvIGRpY3RhdGVzIHRoZSBiYXNlbGluZSBwcmVjaXBpdGF0aW9uIGZyZXF1ZW5jeSBpbiBhIHJlZ2lvbiBiZWZvcmUgYXBwbHlpbmcgYWRqdXN0bWVudHMgZHVlIHRvIGNsaW1hdGUgb3IgZWxldmF0aW9uLiBJbiBtb3N0IHJlZ2lvbnMgd2l0aCBjb2xkIGFuZCB0ZW1wZXJhdGUgY2xpbWF0ZXMsIHByZWNpcGl0YXRpb24gZnJlcXVlbmN5IGlzIGludGVybWl0dGVudCBkdXJpbmcgc3ByaW5nIGFuZCBmYWxsLCBjb21tb24gZHVyaW5nIHRoZSBzdW1tZXIsIGFuZCByYXJlIGR1cmluZyB0aGUgd2ludGVyLiBJbiBtb3N0IHJlZ2lvbnMgd2l0aCB0cm9waWNhbCBjbGltYXRlcywgcHJlY2lwaXRhdGlvbiBmcmVxdWVuY3kgaXMgY29tbW9uIGR1cmluZyBzcHJpbmcgYW5kIGZhbGwsIGludGVybWl0dGVudCBkdXJpbmcgdGhlIHN1bW1lciwgYW5kIHJhcmUgZHVyaW5nIHRoZSB3aW50ZXIuPGJyIC8+PGJyIC8+IE9uIHdvcmxkcyB3aXRoIGEgdGlsdCBpbiB0aGVpciBheGlzLCB0aGUgc2Vhc29ucyBhcmUgdHlwaWNhbGx5IHJldmVyc2VkIGJldHdlZW4gbm9ydGhlcm4gYW5kIHNvdXRoZXJuIGhlbWlzcGhlcmVzLiBXaGlsZSBpdCBpcyB0aGUgaGVpZ2h0IG9mIHN1bW1lciBpbiB0aGUgbm9ydGgsIHRoZSBhcmVhcyBzb3V0aCBvZiB0aGUgZXF1YXRvciBhcmUgaW4gdGhlIGRlcHRocyBvZiB3aW50ZXIuIDxiciAvPjxiciAvPiA8aDI+VGFibGUgNC0xNDogU2Vhc29uYWwgQmFzZWxpbmVzPC9oMj4gPHRhYmxlIGNsYXNzPSJpbm5lciI+IDx0cj48dGQ+PGI+U2Vhc29uPC9iPjwvdGQ+PHRkPjxiPkNvbGQgb3IgVGVtcGVyYXRlIENsaW1hdGUgUHJlY2lwLiBGcmVxdWVuY3k8L2I+PC90ZD48dGQ+PGI+VHJvcGljYWwgQ2xpbWF0ZSBQcmVjaXAuIEZyZXF1ZW5jeTwvYj48L3RkPjwvdHI+PHRyPjx0ZD5TcHJpbmc8L3RkPjx0ZD5JbnRlcm1pdHRlbnQ8L3RkPjx0ZD5Db21tb248L3RkPjwvdHI+PHRyPjx0ZD5TdW1tZXI8L3RkPjx0ZD5Db21tb248L3RkPjx0ZD5JbnRlcm1pdHRlbnQ8L3RkPjwvdHI+PHRyPjx0ZD5GYWxsPC90ZD48dGQ+SW50ZXJtaXR0ZW50PC90ZD48dGQ+Q29tbW9uPC90ZD48L3RyPjx0cj48dGQ+V2ludGVyPC90ZD48dGQ+UmFyZTwvdGQ+PHRkPlJhcmU8L3RkPjwvdHI+IDwvdGFibGU+ZGRk5XvWpuA8ObxoerTeIIiySTq1OIMeC9lHENecKZa/2EE=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=2378">Mastering the Wild</a></u> / <u><a href="Rules.aspx?ID=2433">Weather in the Wilderness</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=2434">Weather Baseline</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9ujo" target="_blank" class="external-link"><i>Ultimate Wilderness pg. 165</i></a><br />When determining weather for a region in your campaign, your first step is to establish the weather baseline for the region. The weather baseline is influenced by the region’s climate (this sets the baseline temperature), elevation (this provides the baseline precipitation intensity), and season (this affects the temperature and dictates the baseline precipitation frequency).<br /><h1 class="title"><a href="Rules.aspx?ID=2435">Climate</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9ujo" target="_blank" class="external-link"><i>Ultimate Wilderness pg. 165</i></a><br />Your first step in determining a region’s baseline weather is to decide upon the region’s climate. Climate is split up into one of three categories: cold, temperate and tropical. These types correspond to the three climate categories used in monster entries in all of the <i>Pathfinder Bestiary</i> volumes (note that a fourth category, extraplanar, is not a factor in determining weather for Material Plane worlds).<br /><br /> The baseline temperature range for each climate category is given below, and is further refined in <a style="text-decoration:underline" href="Rules.aspx?Name=Temperature Variations and Precipitation&Category=Weather in the Wilderness">Temperature Variations and Precipitation</a>. These baselines are also presented in Table 4–12. <br /><br /><b>Cold</b>: A cold climate is found in the extreme northern or southern regions of the world at latitudes greater than 60 degrees (approximately 2,000 miles from a pole). In these polar regions, temperatures often remain below freezing throughout the majority of the year. The baseline temperature in this climate is cold, ranging from 20º F in the winter, to 30º F in the spring and fall months, and up to 40º F in the summer. For regions within 500 miles of the pole, the baseline temperature is 10º F colder than the seasonal average. For regions within 250 miles of the pole, the baseline temperature is 20º F colder than the seasonal average. Because cold air tends to be drier than warm air, reduce the frequency and intensity of precipitation by one step in cold climates. <br /><br /><b>Temperate</b>: Temperate climates stretch between the polar regions and tropical regions of the world, generally at latitudes between 60 degrees and 30 degrees. The baseline temperature in this climate ranges from 30º F in winter, to 60º F in spring and fall, and all the way up to 80º F in summer. Precipitation frequency is not altered as a result of a temperate climate, but it can still be altered as a result of other factors such as the elevation or season (see below). <br /><br /><b>Tropical</b>: The tropics exist to either side of the world’s equator, extending north and south for about 30 degrees of latitude in either direction. Tropical regions tend to be warm and humid, with a baseline temperature ranging from 50º F in winter, to 75º F in spring and fall, and up to 95º F in summer. Because warm, humid air produces a great deal of precipitation, increase the frequency and intensity of precipitation by one step in this climate. <br /><br /> <h2>Table 4-12: Climate Baselines</h2> <table class="inner"> <tr><td><b>Climate</b></td><td><b>Winter Temp.</b></td><td><b>Spring Temp.</b></td><td><b>Summer Temp.</b></td><td><b>Fall Temp.</b></td><td><b>Precipitation Adjustment</b></td></tr><tr><td>Cold</td><td>20º F</td><td>30º F</td><td>40º F</td><td>30º F</td><td>Decrease frequency and intensity by one step</td></tr><tr><td>Temperate</td><td>30º F</td><td>60º F</td><td>80º F</td><td>60º F</td><td>—</td></tr><tr><td>Tropical</td><td>50º F</td><td>75º F</td><td>95º F</td><td>75º F</td><td>Increase frequency and intensity by one step</td></tr> </table><br /><h1 class="title"><a href="Rules.aspx?ID=2436">Elevation</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9ujo" target="_blank" class="external-link"><i>Ultimate Wilderness pg. 166</i></a><br />While the climate sets baselines for temperatures, elevation plays a key factor as well. Elevation can affect the baseline temperature, and it sets the baseline intensity of precipitation in the region, as explained below and displayed in Table 4–13: Elevation Baselines. <br /><br /><b>Sea Level</b>: Temperatures in sea-level and coastal regions are 10º warmer. Sea-level regions also tend to have more precipitation than areas of higher elevation, so the baseline precipitation intensity in a sea-level region is heavy. <br /><br /><b>Lowland</b>: Lowlands are areas of low elevation not near the coast, generally at an elevation of 1,000 to 5,000 feet. This elevation range does not alter baseline temperatures. The baseline precipitation intensity in lowlands is medium. <br /><br /><b>Highland</b>: Highlands include regions with elevations above 5,000 feet. Decrease baseline temperatures in highlands by 10º (although in particularly arid and flat regions, you should instead increase the baseline temperature by 10º, while in particularly high-altitude regions such as significant mountain ranges, you should instead decrease the baseline temperature by 20º). The frequency of precipitation is decreased by one step, and baseline precipitation intensity is medium. <br /><br /> <h2>Table 4-13: Elevation Baselines</h2> <table class="inner"> <tr><td><b>Elevation</b></td><td><b>Altitude Range</b></td><td><b>Baseline Temp. Adjust.</b></td><td><b>Baseline Precipitation Intensity</b></td></tr><tr><td>Sea level</td><td>Below 1,000 ft.</td><td>+10º F</td><td>Heavy</td></tr><tr><td>Lowland</td><td>1,000 ft. to 5,000 ft.</td><td>—</td><td>Medium</td></tr><tr><td>Highland</td><td>Above 5,000 ft.</td><td>-10º F</td><td>Medium (decrease precipitation frequency by one step)</td></tr> </table><br /><h1 class="title"><a href="Rules.aspx?ID=2437">Season</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9ujo" target="_blank" class="external-link"><i>Ultimate Wilderness pg. 166</i></a><br />A year has four seasons—spring, summer, fall, and winter— each of which lasts about 3 months. Season plays an important part in dictating a region’s baseline temperature (as noted in each climate and in Table 4–14). It also dictates the baseline precipitation frequency in a region before applying adjustments due to climate or elevation. In most regions with cold and temperate climates, precipitation frequency is intermittent during spring and fall, common during the summer, and rare during the winter. In most regions with tropical climates, precipitation frequency is common during spring and fall, intermittent during the summer, and rare during the winter.<br /><br /> On worlds with a tilt in their axis, the seasons are typically reversed between northern and southern hemispheres. While it is the height of summer in the north, the areas south of the equator are in the depths of winter. <br /><br /> <h2>Table 4-14: Seasonal Baselines</h2> <table class="inner"> <tr><td><b>Season</b></td><td><b>Cold or Temperate Climate Precip. Frequency</b></td><td><b>Tropical Climate Precip. Frequency</b></td></tr><tr><td>Spring</td><td>Intermittent</td><td>Common</td></tr><tr><td>Summer</td><td>Common</td><td>Intermittent</td></tr><tr><td>Fall</td><td>Intermittent</td><td>Common</td></tr><tr><td>Winter</td><td>Rare</td><td>Rare</td></tr> </table></span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

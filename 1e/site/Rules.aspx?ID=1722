@@ -1,0 +1,271 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Organization Stat Block - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Organization Stat Block" /><meta name="description" content="An organization’s stat block is arranged as follows. &lt;br />&lt;br />&lt;b>Name&lt;/b>: The organization’s name. &lt;br />&lt;br />&lt;b>Alignment and Prominence&lt;/b>: An organization’s alignment is the alignment that most closely represents its policies and actions. While individual members of an organization may be of any alignment, an organization’s key NPCs are typically within one step of the organization’s overall alignment. An organization’s prominence may be weak, moderate, strong, or preeminent. More details on prominence appear under &lt;a style=&quot;text-decoration:underline&quot; href=&quot;Rules.aspx?Name=Prominence&amp;Category=Organizational Influence&quot;>Prominence&lt;/a>. &lt;br />&lt;br />&lt;b>Size&lt;/b>: An organization’s size is an approximation of its number of active members. &lt;br />&lt;br />&lt;b>Key Members&lt;/b>: Key members of an organization are both visible leaders and shadowy schemers who have significant pull. &lt;br />&lt;br />&lt;b>Values&lt;/b>: An organization may value any number of traits in its members, such as creativity, generosity, dependability, skill at particular tasks, or social station. &lt;br />&lt;br />&lt;b>Public Goals&lt;/b>: All but the most clandestine organizations share some of their goals with the general public. &lt;br />&lt;br />&lt;b>Private Goals&lt;/b>: These are the private goals both of the organization as a whole and of key members. Sometimes, the private goal of a key member might conflict with the private goal of the organization. &lt;br />&lt;br />&lt;b>Allies and Enemies&lt;/b>: Organizations do not exist in a vacuum. An organization’s prominent allies and enemies are noted here. PCs can gain or lose influence with an organization based on their interactions with its allied or opposed organizations. &lt;br />&lt;br />&lt;b>Membership Requirements&lt;/b>: Most organizations have a procedure for officially joining them, and expect their members to satisfy ongoing commitments (like paying dues). &lt;br />&lt;br />&lt;b>Influence Limitations&lt;/b>: Often, the PCs need to perform a specific task for an organization before they can raise their influence past a certain threshold. The most common requirement is for the PCs to join an organization, but organizations may require more complicated tasks or favors before counting the PCs among their most trusted allies. &lt;br />&lt;br />&lt;b>Benefits&lt;/b>: This section lists favors that the PCs can call in based on their influence rank with the organization. The PCs can always choose benefits on the available list for their current rank or a lower rank within the organization, and, at the GM’s discretion, the PCs might be able to access the benefits for lower ranks for a decreased number of favors, or even for free, if the PCs request the benefit a reasonable number of times. To approximate the benefits that the PCs can gain from an organization outside of its base of operations, the GM should decrease the PCs’ effective influence rank appropriately, to a minimum of Rank 0 if the PCs are entirely beyond the organization’s reach. &lt;br />&lt;br />&lt;b>New Benefits&lt;/b>: This section details the benefits the PCs can earn from the organization beyond those listed in the Common Benefits section." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=1722" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXzGzx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTY4MCI+TWFzdGVyaW5nIEludHJpZ3VlPC9hPjwvdT4gLyA8dT48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE2OTQiPkluZmx1ZW5jZTwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNzEyIj5Pcmdhbml6YXRpb25hbCBJbmZsdWVuY2U8L2E+PC91PjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTcyMiI+T3JnYW5pemF0aW9uIFN0YXQgQmxvY2s8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTlqNnA/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVVsdGltYXRlLUludHJpZ3VlDQoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+VWx0aW1hdGUgSW50cmlndWUgcGcuIDExMzwvaT48L2E+PGJyIC8+QW4gb3JnYW5pemF0aW9u4oCZcyBzdGF0IGJsb2NrIGlzIGFycmFuZ2VkIGFzIGZvbGxvd3MuIDxiciAvPjxiciAvPjxiPk5hbWU8L2I+OiBUaGUgb3JnYW5pemF0aW9u4oCZcyBuYW1lLiA8YnIgLz48YnIgLz48Yj5BbGlnbm1lbnQgYW5kIFByb21pbmVuY2U8L2I+OiBBbiBvcmdhbml6YXRpb27igJlzIGFsaWdubWVudCBpcyB0aGUgYWxpZ25tZW50IHRoYXQgbW9zdCBjbG9zZWx5IHJlcHJlc2VudHMgaXRzIHBvbGljaWVzIGFuZCBhY3Rpb25zLiBXaGlsZSBpbmRpdmlkdWFsIG1lbWJlcnMgb2YgYW4gb3JnYW5pemF0aW9uIG1heSBiZSBvZiBhbnkgYWxpZ25tZW50LCBhbiBvcmdhbml6YXRpb27igJlzIGtleSBOUENzIGFyZSB0eXBpY2FsbHkgd2l0aGluIG9uZSBzdGVwIG9mIHRoZSBvcmdhbml6YXRpb27igJlzIG92ZXJhbGwgYWxpZ25tZW50LiBBbiBvcmdhbml6YXRpb27igJlzIHByb21pbmVuY2UgbWF5IGJlIHdlYWssIG1vZGVyYXRlLCBzdHJvbmcsIG9yIHByZWVtaW5lbnQuIE1vcmUgZGV0YWlscyBvbiBwcm9taW5lbmNlIGFwcGVhciB1bmRlciA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iUnVsZXMuYXNweD9OYW1lPVByb21pbmVuY2UmQ2F0ZWdvcnk9T3JnYW5pemF0aW9uYWwgSW5mbHVlbmNlIj5Qcm9taW5lbmNlPC9hPi4gPGJyIC8+PGJyIC8+PGI+U2l6ZTwvYj46IEFuIG9yZ2FuaXphdGlvbuKAmXMgc2l6ZSBpcyBhbiBhcHByb3hpbWF0aW9uIG9mIGl0cyBudW1iZXIgb2YgYWN0aXZlIG1lbWJlcnMuIDxiciAvPjxiciAvPjxiPktleSBNZW1iZXJzPC9iPjogS2V5IG1lbWJlcnMgb2YgYW4gb3JnYW5pemF0aW9uIGFyZSBib3RoIHZpc2libGUgbGVhZGVycyBhbmQgc2hhZG93eSBzY2hlbWVycyB3aG8gaGF2ZSBzaWduaWZpY2FudCBwdWxsLiA8YnIgLz48YnIgLz48Yj5WYWx1ZXM8L2I+OiBBbiBvcmdhbml6YXRpb24gbWF5IHZhbHVlIGFueSBudW1iZXIgb2YgdHJhaXRzIGluIGl0cyBtZW1iZXJzLCBzdWNoIGFzIGNyZWF0aXZpdHksIGdlbmVyb3NpdHksIGRlcGVuZGFiaWxpdHksIHNraWxsIGF0IHBhcnRpY3VsYXIgdGFza3MsIG9yIHNvY2lhbCBzdGF0aW9uLiA8YnIgLz48YnIgLz48Yj5QdWJsaWMgR29hbHM8L2I+OiBBbGwgYnV0IHRoZSBtb3N0IGNsYW5kZXN0aW5lIG9yZ2FuaXphdGlvbnMgc2hhcmUgc29tZSBvZiB0aGVpciBnb2FscyB3aXRoIHRoZSBnZW5lcmFsIHB1YmxpYy4gPGJyIC8+PGJyIC8+PGI+UHJpdmF0ZSBHb2FsczwvYj46IFRoZXNlIGFyZSB0aGUgcHJpdmF0ZSBnb2FscyBib3RoIG9mIHRoZSBvcmdhbml6YXRpb24gYXMgYSB3aG9sZSBhbmQgb2Yga2V5IG1lbWJlcnMuIFNvbWV0aW1lcywgdGhlIHByaXZhdGUgZ29hbCBvZiBhIGtleSBtZW1iZXIgbWlnaHQgY29uZmxpY3Qgd2l0aCB0aGUgcHJpdmF0ZSBnb2FsIG9mIHRoZSBvcmdhbml6YXRpb24uIDxiciAvPjxiciAvPjxiPkFsbGllcyBhbmQgRW5lbWllczwvYj46IE9yZ2FuaXphdGlvbnMgZG8gbm90IGV4aXN0IGluIGEgdmFjdXVtLiBBbiBvcmdhbml6YXRpb27igJlzIHByb21pbmVudCBhbGxpZXMgYW5kIGVuZW1pZXMgYXJlIG5vdGVkIGhlcmUuIFBDcyBjYW4gZ2FpbiBvciBsb3NlIGluZmx1ZW5jZSB3aXRoIGFuIG9yZ2FuaXphdGlvbiBiYXNlZCBvbiB0aGVpciBpbnRlcmFjdGlvbnMgd2l0aCBpdHMgYWxsaWVkIG9yIG9wcG9zZWQgb3JnYW5pemF0aW9ucy4gPGJyIC8+PGJyIC8+PGI+TWVtYmVyc2hpcCBSZXF1aXJlbWVudHM8L2I+OiBNb3N0IG9yZ2FuaXphdGlvbnMgaGF2ZSBhIHByb2NlZHVyZSBmb3Igb2ZmaWNpYWxseSBqb2luaW5nIHRoZW0sIGFuZCBleHBlY3QgdGhlaXIgbWVtYmVycyB0byBzYXRpc2Z5IG9uZ29pbmcgY29tbWl0bWVudHMgKGxpa2UgcGF5aW5nIGR1ZXMpLiA8YnIgLz48YnIgLz48Yj5JbmZsdWVuY2UgTGltaXRhdGlvbnM8L2I+OiBPZnRlbiwgdGhlIFBDcyBuZWVkIHRvIHBlcmZvcm0gYSBzcGVjaWZpYyB0YXNrIGZvciBhbiBvcmdhbml6YXRpb24gYmVmb3JlIHRoZXkgY2FuIHJhaXNlIHRoZWlyIGluZmx1ZW5jZSBwYXN0IGEgY2VydGFpbiB0aHJlc2hvbGQuIFRoZSBtb3N0IGNvbW1vbiByZXF1aXJlbWVudCBpcyBmb3IgdGhlIFBDcyB0byBqb2luIGFuIG9yZ2FuaXphdGlvbiwgYnV0IG9yZ2FuaXphdGlvbnMgbWF5IHJlcXVpcmUgbW9yZSBjb21wbGljYXRlZCB0YXNrcyBvciBmYXZvcnMgYmVmb3JlIGNvdW50aW5nIHRoZSBQQ3MgYW1vbmcgdGhlaXIgbW9zdCB0cnVzdGVkIGFsbGllcy4gPGJyIC8+PGJyIC8+PGI+QmVuZWZpdHM8L2I+OiBUaGlzIHNlY3Rpb24gbGlzdHMgZmF2b3JzIHRoYXQgdGhlIFBDcyBjYW4gY2FsbCBpbiBiYXNlZCBvbiB0aGVpciBpbmZsdWVuY2UgcmFuayB3aXRoIHRoZSBvcmdhbml6YXRpb24uIFRoZSBQQ3MgY2FuIGFsd2F5cyBjaG9vc2UgYmVuZWZpdHMgb24gdGhlIGF2YWlsYWJsZSBsaXN0IGZvciB0aGVpciBjdXJyZW50IHJhbmsgb3IgYSBsb3dlciByYW5rIHdpdGhpbiB0aGUgb3JnYW5pemF0aW9uLCBhbmQsIGF0IHRoZSBHTeKAmXMgZGlzY3JldGlvbiwgdGhlIFBDcyBtaWdodCBiZSBhYmxlIHRvIGFjY2VzcyB0aGUgYmVuZWZpdHMgZm9yIGxvd2VyIHJhbmtzIGZvciBhIGRlY3JlYXNlZCBudW1iZXIgb2YgZmF2b3JzLCBvciBldmVuIGZvciBmcmVlLCBpZiB0aGUgUENzIHJlcXVlc3QgdGhlIGJlbmVmaXQgYSByZWFzb25hYmxlIG51bWJlciBvZiB0aW1lcy4gVG8gYXBwcm94aW1hdGUgdGhlIGJlbmVmaXRzIHRoYXQgdGhlIFBDcyBjYW4gZ2FpbiBmcm9tIGFuIG9yZ2FuaXphdGlvbiBvdXRzaWRlIG9mIGl0cyBiYXNlIG9mIG9wZXJhdGlvbnMsIHRoZSBHTSBzaG91bGQgZGVjcmVhc2UgdGhlIFBDc+KAmSBlZmZlY3RpdmUgaW5mbHVlbmNlIHJhbmsgYXBwcm9wcmlhdGVseSwgdG8gYSBtaW5pbXVtIG9mIFJhbmsgMCBpZiB0aGUgUENzIGFyZSBlbnRpcmVseSBiZXlvbmQgdGhlIG9yZ2FuaXphdGlvbuKAmXMgcmVhY2guIDxiciAvPjxiciAvPjxiPk5ldyBCZW5lZml0czwvYj46IFRoaXMgc2VjdGlvbiBkZXRhaWxzIHRoZSBiZW5lZml0cyB0aGUgUENzIGNhbiBlYXJuIGZyb20gdGhlIG9yZ2FuaXphdGlvbiBiZXlvbmQgdGhvc2UgbGlzdGVkIGluIHRoZSBDb21tb24gQmVuZWZpdHMgc2VjdGlvbi5kZGQGSUVg4exO6/ANXUL8qcxfrOcbMFPwMOMLJ9mU9hw8GA==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1680">Mastering Intrigue</a></u> / <u><a href="Rules.aspx?ID=1694">Influence</a></u> / <u><a href="Rules.aspx?ID=1712">Organizational Influence</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=1722">Organization Stat Block</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9j6p?Pathfinder-Roleplaying-Game-Ultimate-Intrigue
+" target="_blank" class="external-link"><i>Ultimate Intrigue pg. 113</i></a><br />An organization’s stat block is arranged as follows. <br /><br /><b>Name</b>: The organization’s name. <br /><br /><b>Alignment and Prominence</b>: An organization’s alignment is the alignment that most closely represents its policies and actions. While individual members of an organization may be of any alignment, an organization’s key NPCs are typically within one step of the organization’s overall alignment. An organization’s prominence may be weak, moderate, strong, or preeminent. More details on prominence appear under <a style="text-decoration:underline" href="Rules.aspx?Name=Prominence&Category=Organizational Influence">Prominence</a>. <br /><br /><b>Size</b>: An organization’s size is an approximation of its number of active members. <br /><br /><b>Key Members</b>: Key members of an organization are both visible leaders and shadowy schemers who have significant pull. <br /><br /><b>Values</b>: An organization may value any number of traits in its members, such as creativity, generosity, dependability, skill at particular tasks, or social station. <br /><br /><b>Public Goals</b>: All but the most clandestine organizations share some of their goals with the general public. <br /><br /><b>Private Goals</b>: These are the private goals both of the organization as a whole and of key members. Sometimes, the private goal of a key member might conflict with the private goal of the organization. <br /><br /><b>Allies and Enemies</b>: Organizations do not exist in a vacuum. An organization’s prominent allies and enemies are noted here. PCs can gain or lose influence with an organization based on their interactions with its allied or opposed organizations. <br /><br /><b>Membership Requirements</b>: Most organizations have a procedure for officially joining them, and expect their members to satisfy ongoing commitments (like paying dues). <br /><br /><b>Influence Limitations</b>: Often, the PCs need to perform a specific task for an organization before they can raise their influence past a certain threshold. The most common requirement is for the PCs to join an organization, but organizations may require more complicated tasks or favors before counting the PCs among their most trusted allies. <br /><br /><b>Benefits</b>: This section lists favors that the PCs can call in based on their influence rank with the organization. The PCs can always choose benefits on the available list for their current rank or a lower rank within the organization, and, at the GM’s discretion, the PCs might be able to access the benefits for lower ranks for a decreased number of favors, or even for free, if the PCs request the benefit a reasonable number of times. To approximate the benefits that the PCs can gain from an organization outside of its base of operations, the GM should decrease the PCs’ effective influence rank appropriately, to a minimum of Rank 0 if the PCs are entirely beyond the organization’s reach. <br /><br /><b>New Benefits</b>: This section details the benefits the PCs can earn from the organization beyond those listed in the Common Benefits section.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

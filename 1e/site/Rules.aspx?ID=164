@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Injury and Death - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Injury and Death" /><meta name="description" content="Your hit points measure how hard you are to kill. No matter how many hit points you lose, your character isn’t hindered in any way until your hit points drop to 0 or lower." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=164" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWrYjx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDQiPkNvbWJhdDwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNjQiPkluanVyeSBhbmQgRGVhdGg8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4OHlqIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBSUEcgQ29yZSBSdWxlYm9vayBwZy4gMTg5PC9pPjwvYT48YnIgLz5Zb3VyIGhpdCBwb2ludHMgbWVhc3VyZSBob3cgaGFyZCB5b3UgYXJlIHRvIGtpbGwuIE5vIG1hdHRlciBob3cgbWFueSBoaXQgcG9pbnRzIHlvdSBsb3NlLCB5b3VyIGNoYXJhY3RlciBpc27igJl0IGhpbmRlcmVkIGluIGFueSB3YXkgdW50aWwgeW91ciBoaXQgcG9pbnRzIGRyb3AgdG8gMCBvciBsb3dlci48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE2NSI+TG9zcyBvZiBIaXQgUG9pbnRzPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5ODh5aiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QUlBHIENvcmUgUnVsZWJvb2sgcGcuIDE4OTwvaT48L2E+PGJyIC8+VGhlIG1vc3QgY29tbW9uIHdheSB0aGF0IHlvdXIgY2hhcmFjdGVyIGdldHMgaHVydCBpcyB0byB0YWtlIGxldGhhbCBkYW1hZ2UgYW5kIGxvc2UgaGl0IHBvaW50cy48YnIgLz48YnIgLz4gPGI+V2hhdCBIaXQgUG9pbnRzIFJlcHJlc2VudDwvYj46IEhpdCBwb2ludHMgbWVhbiB0d28gdGhpbmdzIGluIHRoZSBnYW1lIHdvcmxkOiB0aGUgYWJpbGl0eSB0byB0YWtlIHBoeXNpY2FsIHB1bmlzaG1lbnQgYW5kIGtlZXAgZ29pbmcsIGFuZCB0aGUgYWJpbGl0eSB0byB0dXJuIGEgc2VyaW91cyBibG93IGludG8gYSBsZXNzIHNlcmlvdXMgb25lLjxiciAvPjxiciAvPiA8Yj5FZmZlY3RzIG9mIEhpdCBQb2ludCBEYW1hZ2U8L2I+OiBEYW1hZ2UgZG9lc27igJl0IHNsb3cgeW91IGRvd24gdW50aWwgeW91ciBjdXJyZW50IGhpdCBwb2ludHMgcmVhY2ggMCBvciBsb3dlci4gQXQgMCBoaXQgcG9pbnRzLCB5b3XigJlyZSBkaXNhYmxlZC48YnIgLz48YnIgLz4gSWYgeW91ciBoaXQgcG9pbnQgdG90YWwgaXMgbmVnYXRpdmUsIGJ1dCBub3QgZXF1YWwgdG8gb3IgZ3JlYXRlciB0aGFuIHlvdXIgQ29uc3RpdHV0aW9uIHNjb3JlLCB5b3UgYXJlIHVuY29uc2Npb3VzIGFuZCBkeWluZy48YnIgLz48YnIgLz4gV2hlbiB5b3VyIG5lZ2F0aXZlIGhpdCBwb2ludCB0b3RhbCBpcyBlcXVhbCB0byB5b3VyIENvbnN0aXR1dGlvbiwgeW914oCZcmUgZGVhZC48YnIgLz48YnIgLz4gPGI+TWFzc2l2ZSBEYW1hZ2UgKE9wdGlvbmFsIFJ1bGUpPC9iPjogSWYgeW91IGV2ZXIgc3VzdGFpbiBhIHNpbmdsZSBhdHRhY2sgdGhhdCBkZWFscyBhbiBhbW91bnQgb2YgZGFtYWdlIGVxdWFsIHRvIGhhbGYgeW91ciB0b3RhbCBoaXQgcG9pbnRzIChtaW5pbXVtIDUwIHBvaW50cyBvZiBkYW1hZ2UpIG9yIG1vcmUgYW5kIGl0IGRvZXNu4oCZdCBraWxsIHlvdSBvdXRyaWdodCwgeW91IG11c3QgbWFrZSBhIERDIDE1IEZvcnRpdHVkZSBzYXZlLiBJZiB0aGlzIHNhdmluZyB0aHJvdyBmYWlscywgeW91IGRpZSByZWdhcmRsZXNzIG9mIHlvdXIgY3VycmVudCBoaXQgcG9pbnRzLiBJZiB5b3UgdGFrZSBoYWxmIHlvdXIgdG90YWwgaGl0IHBvaW50cyBvciBtb3JlIGluIGRhbWFnZSBmcm9tIG11bHRpcGxlIGF0dGFja3MsIG5vIG9uZSBvZiB3aGljaCBkZWFsdCBtb3JlIHRoYW4gaGFsZiB5b3VyIHRvdGFsIGhpdCBwb2ludHMgKG1pbmltdW0gNTApLCB0aGUgbWFzc2l2ZSBkYW1hZ2UgcnVsZSBkb2VzIG5vdCBhcHBseS48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE2NiI+RGlzYWJsZWQgKDAgSGl0IFBvaW50cyk8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4OHlqIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBSUEcgQ29yZSBSdWxlYm9vayBwZy4gMTg5PC9pPjwvYT48YnIgLz5XaGVuIHlvdXIgY3VycmVudCBoaXQgcG9pbnQgdG90YWwgZHJvcHMgdG8gZXhhY3RseSAwLCB5b3UgYXJlIGRpc2FibGVkLjxiciAvPjxiciAvPiBZb3UgZ2FpbiB0aGUgc3RhZ2dlcmVkIGNvbmRpdGlvbiBhbmQgY2FuIG9ubHkgdGFrZSBhIHNpbmdsZSBtb3ZlIG9yIHN0YW5kYXJkIGFjdGlvbiBlYWNoIHR1cm4gKGJ1dCBub3QgYm90aCwgbm9yIGNhbiB5b3UgdGFrZSBmdWxsLXJvdW5kIGFjdGlvbnMpLiBZb3UgY2FuIHRha2UgbW92ZSBhY3Rpb25zIHdpdGhvdXQgZnVydGhlciBpbmp1cmluZyB5b3Vyc2VsZiwgYnV0IGlmIHlvdSBwZXJmb3JtIGFueSBzdGFuZGFyZCBhY3Rpb24gKG9yIGFueSBvdGhlciBzdHJlbnVvdXMgYWN0aW9uKSB5b3UgdGFrZSAxIHBvaW50IG9mIGRhbWFnZSBhZnRlciBjb21wbGV0aW5nIHRoZSBhY3QuIFVubGVzcyB5b3VyIGFjdGl2aXR5IGluY3JlYXNlZCB5b3VyIGhpdCBwb2ludHMsIHlvdSBhcmUgbm93IGF0IOKAkzEgaGl0IHBvaW50cyBhbmQgZHlpbmcuPGJyIC8+PGJyIC8+IEhlYWxpbmcgdGhhdCByYWlzZXMgeW91ciBoaXQgcG9pbnRzIGFib3ZlIDAgbWFrZXMgeW91IGZ1bGx5IGZ1bmN0aW9uYWwgYWdhaW4sIGp1c3QgYXMgaWYgeW914oCZZCBuZXZlciBiZWVuIHJlZHVjZWQgdG8gMCBvciBmZXdlciBoaXQgcG9pbnRzLjxiciAvPjxiciAvPiBZb3UgY2FuIGFsc28gYmVjb21lIGRpc2FibGVkIHdoZW4gcmVjb3ZlcmluZyBmcm9tIGR5aW5nLiBJbiB0aGlzIGNhc2UsIGl04oCZcyBhIHN0ZXAgdG93YXJkIHJlY292ZXJ5LCBhbmQgeW91IGNhbiBoYXZlIGZld2VyIHRoYW4gMCBoaXQgcG9pbnRzIChzZWUgU3RhYmxlIENoYXJhY3RlcnMgYW5kIFJlY292ZXJ5KS48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE2NyI+RHlpbmcgKE5lZ2F0aXZlIEhpdCBQb2ludHMpPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5ODh5aiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QUlBHIENvcmUgUnVsZWJvb2sgcGcuIDE4OTwvaT48L2E+PGJyIC8+SWYgeW91ciBoaXQgcG9pbnQgdG90YWwgaXMgbmVnYXRpdmUsIGJ1dCBub3QgZXF1YWwgdG8gb3IgZ3JlYXRlciB0aGFuIHlvdXIgQ29uc3RpdHV0aW9uIHNjb3JlLCB5b3XigJlyZSBkeWluZy48YnIgLz48YnIgLz4gQSBkeWluZyBjaGFyYWN0ZXIgaW1tZWRpYXRlbHkgZmFsbHMgdW5jb25zY2lvdXMgYW5kIGNhbiB0YWtlIG5vIGFjdGlvbnMuPGJyIC8+PGJyIC8+IEEgZHlpbmcgY2hhcmFjdGVyIGxvc2VzIDEgaGl0IHBvaW50IGV2ZXJ5IHJvdW5kLiBUaGlzIGNvbnRpbnVlcyB1bnRpbCB0aGUgY2hhcmFjdGVyIGRpZXMgb3IgYmVjb21lcyBzdGFibGUuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNjgiPkRlYWQ8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4OHlqIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBSUEcgQ29yZSBSdWxlYm9vayBwZy4gMTkwPC9pPjwvYT48YnIgLz5XaGVuIHlvdXIgY2hhcmFjdGVy4oCZcyBjdXJyZW50IGhpdCBwb2ludHMgZHJvcCB0byBhIG5lZ2F0aXZlIGFtb3VudCBlcXVhbCB0byBoaXMgQ29uc3RpdHV0aW9uIHNjb3JlIG9yIGxvd2VyLCBvciBpZiBoZSBzdWNjdW1icyB0byBtYXNzaXZlIGRhbWFnZSwgaGXigJlzIGRlYWQuIEEgY2hhcmFjdGVyIGNhbiBhbHNvIGRpZSBmcm9tIHRha2luZyBhYmlsaXR5IGRhbWFnZSBvciBzdWZmZXJpbmcgYW4gYWJpbGl0eSBkcmFpbiB0aGF0IHJlZHVjZXMgaGlzIENvbnN0aXR1dGlvbiBzY29yZSB0byAwIChzZWUgQXBwZW5kaXggMSkuPGJyIC8+PGJyIC8+IENlcnRhaW4gdHlwZXMgb2YgcG93ZXJmdWwgbWFnaWMsIHN1Y2ggYXMgPGk+cmFpc2UgZGVhZDwvaT4gYW5kIDxpPnJlc3VycmVjdGlvbjwvaT4sIGNhbiByZXN0b3JlIGxpZmUgdG8gYSBkZWFkIGNoYXJhY3Rlci4gU2VlIENoYXB0ZXIgOSBmb3IgbW9yZSBpbmZvcm1hdGlvbi48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE2OSI+U3RhYmxlIENoYXJhY3RlcnMgYW5kIFJlY292ZXJ5PC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5ODh5aiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QUlBHIENvcmUgUnVsZWJvb2sgcGcuIDE5MDwvaT48L2E+PGJyIC8+T24gdGhlIGNoYXJhY3RlcuKAmXMgbmV4dCB0dXJuLCBhZnRlciBiZWluZyByZWR1Y2VkIHRvIG5lZ2F0aXZlIGhpdCBwb2ludHMgKGJ1dCBub3QgZGVhZCksIGFuZCBvbiBhbGwgc3Vic2VxdWVudCB0dXJucywgdGhlIGNoYXJhY3RlciBtdXN0IG1ha2UgYSBEQyAxMCBDb25zdGl0dXRpb24gY2hlY2sgdG8gYmVjb21lIHN0YWJsZS4gVGhlIGNoYXJhY3RlciB0YWtlcyBhIHBlbmFsdHkgb24gdGhpcyByb2xsIGVxdWFsIHRvIGhpcyBuZWdhdGl2ZSBoaXQgcG9pbnQgdG90YWwuIEEgY2hhcmFjdGVyIHRoYXQgaXMgc3RhYmxlIGRvZXMgbm90IG5lZWQgdG8gbWFrZSB0aGlzIGNoZWNrLiBBIG5hdHVyYWwgMjAgb24gdGhpcyBjaGVjayBpcyBhbiBhdXRvbWF0aWMgc3VjY2Vzcy4gSWYgdGhlIGNoYXJhY3RlciBmYWlscyB0aGlzIGNoZWNrLCBoZSBsb3NlcyAxIGhpdCBwb2ludC4gQW4gdW5jb25zY2lvdXMgb3IgZHlpbmcgY2hhcmFjdGVyIGNhbm5vdCB1c2UgYW55IHNwZWNpYWwgYWN0aW9uIHRoYXQgY2hhbmdlcyB0aGUgaW5pdGlhdGl2ZSBjb3VudCBvbiB3aGljaCBoaXMgYWN0aW9uIG9jY3Vycy48YnIgLz48YnIgLz4gQ2hhcmFjdGVycyB0YWtpbmcgY29udGludW91cyBkYW1hZ2UsIHN1Y2ggYXMgZnJvbSBhbiA8aT5hY2lkIGFycm93PC9pPiBvciBhIGJsZWVkIGVmZmVjdCwgYXV0b21hdGljYWxseSBmYWlsIGFsbCBDb25zdGl0dXRpb24gY2hlY2tzIG1hZGUgdG8gc3RhYmlsaXplLiBTdWNoIGNoYXJhY3RlcnMgbG9zZSAxIGhpdCBwb2ludCBwZXIgcm91bmQgaW4gYWRkaXRpb24gdG8gdGhlIGNvbnRpbnVvdXMgZGFtYWdlLjxiciAvPjxiciAvPiBZb3UgY2FuIGtlZXAgYSBkeWluZyBjaGFyYWN0ZXIgZnJvbSBsb3NpbmcgYW55IG1vcmUgaGl0IHBvaW50cyBhbmQgbWFrZSBoaW0gc3RhYmxlIHdpdGggYSBEQyAxNSBIZWFsIGNoZWNrLiBJZiBhbnkgc29ydCBvZiBoZWFsaW5nIGN1cmVzIHRoZSBkeWluZyBjaGFyYWN0ZXIgb2YgZXZlbiAxIHBvaW50IG9mIGRhbWFnZSwgaGUgYmVjb21lcyBzdGFibGUgYW5kIHN0b3BzIGxvc2luZyBoaXQgcG9pbnRzLjxiciAvPjxiciAvPiBIZWFsaW5nIHRoYXQgcmFpc2VzIHRoZSBkeWluZyBjaGFyYWN0ZXLigJlzIGhpdCBwb2ludHMgdG8gMCBtYWtlcyBoaW0gY29uc2Npb3VzIGFuZCBkaXNhYmxlZC4gSGVhbGluZyB0aGF0IHJhaXNlcyBoaXMgaGl0IHBvaW50cyB0byAxIG9yIG1vcmUgbWFrZXMgaGltIGZ1bGx5IGZ1bmN0aW9uYWwgYWdhaW4sIGp1c3QgYXMgaWYgaGXigJlkIG5ldmVyIGJlZW4gcmVkdWNlZCB0byAwIG9yIGxvd2VyLiBBIHNwZWxsY2FzdGVyIHJldGFpbnMgdGhlIHNwZWxsY2FzdGluZyBjYXBhYmlsaXR5IHNoZSBoYWQgYmVmb3JlIGRyb3BwaW5nIGJlbG93IDAgaGl0IHBvaW50cy48YnIgLz48YnIgLz4gQSBzdGFibGUgY2hhcmFjdGVyIHdobyBoYXMgYmVlbiB0ZW5kZWQgYnkgYSBoZWFsZXIgb3Igd2hvIGhhcyBiZWVuIG1hZ2ljYWxseSBoZWFsZWQgZXZlbnR1YWxseSByZWdhaW5zIGNvbnNjaW91c25lc3MgYW5kIHJlY292ZXJzIGhpdCBwb2ludHMgbmF0dXJhbGx5LiBJZiB0aGUgY2hhcmFjdGVyIGhhcyBubyBvbmUgdG8gdGVuZCBoaW0sIGhvd2V2ZXIsIGhpcyBsaWZlIGlzIHN0aWxsIGluIGRhbmdlciwgYW5kIGhlIG1heSB5ZXQgc2xpcCBhd2F5LjxiciAvPjxiciAvPiA8Yj5SZWNvdmVyaW5nIHdpdGggSGVscDwvYj46IE9uZSBob3VyIGFmdGVyIGEgdGVuZGVkLCBkeWluZyBjaGFyYWN0ZXIgYmVjb21lcyBzdGFibGUsIHRoZSBjaGFyYWN0ZXIgbXVzdCBtYWtlIGEgREMgMTAgQ29uc3RpdHV0aW9uIGNoZWNrIHRvIGJlY29tZSBjb25zY2lvdXMuIFRoZSBjaGFyYWN0ZXIgdGFrZXMgYSBwZW5hbHR5IG9uIHRoaXMgcm9sbCBlcXVhbCB0byBoaXMgbmVnYXRpdmUgaGl0IHBvaW50IHRvdGFsLiBDb25zY2lvdXMgY2hhcmFjdGVycyB3aXRoIG5lZ2F0aXZlIGhpdCBwb2ludCB0b3RhbHMgYXJlIHRyZWF0ZWQgYXMgZGlzYWJsZWQgY2hhcmFjdGVycyAoc2VlIHBhZ2UgMTg5KS4gSWYgdGhlIGNoYXJhY3RlciByZW1haW5zIHVuY29uc2Npb3VzLCBoZSByZWNlaXZlcyBhbm90aGVyIGNoZWNrIGV2ZXJ5IGhvdXIgdG8gcmVnYWluIGNvbnNjaW91c25lc3MuIEEgbmF0dXJhbCAyMCBvbiB0aGlzIGNoZWNrIGlzIGFuIGF1dG9tYXRpYyBzdWNjZXNzLiBFdmVuIGlmIHVuY29uc2Npb3VzLCB0aGUgY2hhcmFjdGVyIHJlY292ZXJzIGhpdCBwb2ludHMgbmF0dXJhbGx5LiBIZSBhdXRvbWF0aWNhbGx5IHJlZ2FpbnMgY29uc2Npb3VzbmVzcyB3aGVuIGhpcyBoaXQgcG9pbnRzIHJpc2UgdG8gMSBvciBoaWdoZXIuPGJyIC8+PGJyIC8+IDxiPlJlY292ZXJpbmcgd2l0aG91dCBIZWxwPC9iPjogQSBzZXZlcmVseSB3b3VuZGVkIGNoYXJhY3RlciBsZWZ0IGFsb25lIHVzdWFsbHkgZGllcy4gSGUgaGFzIGEgc21hbGwgY2hhbmNlIG9mIHJlY292ZXJpbmcgb24gaGlzIG93bi4gVHJlYXQgc3VjaCBjaGFyYWN0ZXJzIGFzIHRob3NlIGF0dGVtcHRpbmcgdG8gcmVjb3ZlciB3aXRoIGhlbHAsIGJ1dCBldmVyeSBmYWlsZWQgQ29uc3RpdHV0aW9uIGNoZWNrIHRvIHJlZ2FpbiBjb25zY2lvdXNuZXNzIHJlc3VsdHMgaW4gdGhlIGxvc3Mgb2YgMSBoaXQgcG9pbnQuIEFuIHVuYWlkZWQgY2hhcmFjdGVyIGRvZXMgbm90IHJlY292ZXIgaGl0IHBvaW50cyBuYXR1cmFsbHkuIE9uY2UgY29uc2Npb3VzLCB0aGUgY2hhcmFjdGVyIGNhbiBtYWtlIGEgREMgMTAgQ29uc3RpdHV0aW9uIGNoZWNrIG9uY2UgcGVyIGRheSwgYWZ0ZXIgcmVzdGluZyBmb3IgOCBob3VycywgdG8gYmVnaW4gcmVjb3ZlcmluZyBoaXQgcG9pbnRzIG5hdHVyYWxseS4gVGhlIGNoYXJhY3RlciB0YWtlcyBhIHBlbmFsdHkgb24gdGhpcyByb2xsIGVxdWFsIHRvIGhpcyBuZWdhdGl2ZSBoaXQgcG9pbnQgdG90YWwuIEZhaWxpbmcgdGhpcyBjaGVjayBjYXVzZXMgdGhlIGNoYXJhY3RlciB0byBsb3NlIDEgaGl0IHBvaW50LCBidXQgdGhpcyBkb2VzIG5vdCBjYXVzZSB0aGUgY2hhcmFjdGVyIHRvIGJlY29tZSB1bmNvbnNjaW91cy4gT25jZSBhIGNoYXJhY3RlciBtYWtlcyB0aGlzIGNoZWNrLCBoZSBjb250aW51ZXMgdG8gaGVhbCBuYXR1cmFsbHkgYW5kIGlzIG5vIGxvbmdlciBpbiBkYW5nZXIgb2YgbG9zaW5nIGhpdCBwb2ludHMgbmF0dXJhbGx5LjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTcwIj5IZWFsaW5nPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5ODh5aiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QUlBHIENvcmUgUnVsZWJvb2sgcGcuIDE5MTwvaT48L2E+PGJyIC8+QWZ0ZXIgdGFraW5nIGRhbWFnZSwgeW91IGNhbiByZWNvdmVyIGhpdCBwb2ludHMgdGhyb3VnaCBuYXR1cmFsIGhlYWxpbmcgb3IgdGhyb3VnaCBtYWdpY2FsIGhlYWxpbmcuIEluIGFueSBjYXNlLCB5b3UgY2FuJ3QgcmVnYWluIGhpdCBwb2ludHMgcGFzdCB5b3VyIGZ1bGwgbm9ybWFsIGhpdCBwb2ludCB0b3RhbC4gPGJyIC8+PGJyIC8+PGI+TmF0dXJhbCBIZWFsaW5nPC9iPjogV2l0aCBhIGZ1bGwgbmlnaHQncyByZXN0ICg4IGhvdXJzIG9mIHNsZWVwIG9yIG1vcmUpLCB5b3UgcmVjb3ZlciAxIGhpdCBwb2ludCBwZXIgY2hhcmFjdGVyIGxldmVsLiBBbnkgc2lnbmlmaWNhbnQgaW50ZXJydXB0aW9uIGR1cmluZyB5b3VyIHJlc3QgcHJldmVudHMgeW91IGZyb20gaGVhbGluZyB0aGF0IG5pZ2h0LjxiciAvPjxiciAvPiBJZiB5b3UgdW5kZXJnbyBjb21wbGV0ZSBiZWQgcmVzdCBmb3IgYW4gZW50aXJlIGRheSBhbmQgbmlnaHQsIHlvdSByZWNvdmVyIHR3aWNlIHlvdXIgY2hhcmFjdGVyIGxldmVsIGluIGhpdCBwb2ludHMuPGJyIC8+PGJyIC8+IDxiPk1hZ2ljYWwgSGVhbGluZzwvYj46IFZhcmlvdXMgYWJpbGl0aWVzIGFuZCBzcGVsbHMgY2FuIHJlc3RvcmUgaGl0IHBvaW50cy48YnIgLz48YnIgLz4gPGI+SGVhbGluZyBMaW1pdHM8L2I+OiBZb3UgY2FuIG5ldmVyIHJlY292ZXIgbW9yZSBoaXQgcG9pbnRzIHRoYW4geW91IGxvc3QuIE1hZ2ljYWwgaGVhbGluZyB3b24ndCByYWlzZSB5b3VyIGN1cnJlbnQgaGl0IHBvaW50cyBoaWdoZXIgdGhhbiB5b3VyIGZ1bGwgbm9ybWFsIGhpdCBwb2ludCB0b3RhbC48YnIgLz48YnIgLz4gPGI+SGVhbGluZyBBYmlsaXR5IERhbWFnZTwvYj46IFRlbXBvcmFyeSBhYmlsaXR5IGRhbWFnZSByZXR1cm5zIGF0IHRoZSByYXRlIG9mIDEgcG9pbnQgcGVyIG5pZ2h0IG9mIHJlc3QgKDggaG91cnMpIGZvciBlYWNoIGFmZmVjdGVkIGFiaWxpdHkgc2NvcmUuIENvbXBsZXRlIGJlZCByZXN0IHJlc3RvcmVzIDIgcG9pbnRzIHBlciBkYXkgKDI0IGhvdXJzKSBmb3IgZWFjaCBhZmZlY3RlZCBhYmlsaXR5IHNjb3JlLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTcxIj5UZW1wb3JhcnkgSGl0IFBvaW50czwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweTg4eWoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UFJQRyBDb3JlIFJ1bGVib29rIHBnLiAxOTE8L2k+PC9hPjxiciAvPkNlcnRhaW4gZWZmZWN0cyBnaXZlIGEgY2hhcmFjdGVyIHRlbXBvcmFyeSBoaXQgcG9pbnRzLiBUaGVzZSBoaXQgcG9pbnRzIGFyZSBpbiBhZGRpdGlvbiB0byB0aGUgY2hhcmFjdGVy4oCZcyBjdXJyZW50IGhpdCBwb2ludCB0b3RhbCBhbmQgYW55IGRhbWFnZSB0YWtlbiBieSB0aGUgY2hhcmFjdGVyIGlzIHN1YnRyYWN0ZWQgZnJvbSB0aGVzZSBoaXQgcG9pbnRzIGZpcnN0LiBBbnkgZGFtYWdlIGluIGV4Y2VzcyBvZiBhIGNoYXJhY3RlcuKAmXMgdGVtcG9yYXJ5IGhpdCBwb2ludHMgaXMgYXBwbGllZCB0byBoaXMgY3VycmVudCBoaXQgcG9pbnRzIGFzIG5vcm1hbC4gSWYgdGhlIGVmZmVjdCB0aGF0IGdyYW50cyB0aGUgdGVtcG9yYXJ5IGhpdCBwb2ludHMgZW5kcyBvciBpcyBkaXNwZWxsZWQsIGFueSByZW1haW5pbmcgdGVtcG9yYXJ5IGhpdCBwb2ludHMgZ28gYXdheS4gVGhlIGRhbWFnZSB0aGV5IHN1c3RhaW5lZCBpcyBub3QgdHJhbnNmZXJyZWQgdG8gdGhlIGNoYXJhY3RlcuKAmXMgY3VycmVudCBoaXQgcG9pbnRzLjxiciAvPjxiciAvPiBXaGVuIHRlbXBvcmFyeSBoaXQgcG9pbnRzIGFyZSBsb3N0LCB0aGV5IGNhbm5vdCBiZSByZXN0b3JlZCBhcyByZWFsIGhpdCBwb2ludHMgY2FuIGJlLCBldmVuIGJ5IG1hZ2ljLjxiciAvPjxiciAvPiA8Yj5JbmNyZWFzZXMgaW4gQ29uc3RpdHV0aW9uIFNjb3JlIGFuZCBDdXJyZW50IEhpdCBQb2ludHM8L2I+OiBBbiBpbmNyZWFzZSBpbiBhIGNoYXJhY3RlcuKAmXMgQ29uc3RpdHV0aW9uIHNjb3JlLCBldmVuIGEgdGVtcG9yYXJ5IG9uZSwgY2FuIGdpdmUgaGVyIG1vcmUgaGl0IHBvaW50cyAoYW4gZWZmZWN0aXZlIGhpdCBwb2ludCBpbmNyZWFzZSksIGJ1dCB0aGVzZSBhcmUgbm90IHRlbXBvcmFyeSBoaXQgcG9pbnRzLiBUaGV5IGNhbiBiZSByZXN0b3JlZCwgYW5kIHRoZXkgYXJlIG5vdCBsb3N0IGZpcnN0IGFzIHRlbXBvcmFyeSBoaXQgcG9pbnRzIGFyZS48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE3MiI+Tm9ubGV0aGFsIERhbWFnZTwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweTg4eWoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UFJQRyBDb3JlIFJ1bGVib29rIHBnLiAxOTE8L2k+PC9hPjxiciAvPk5vbmxldGhhbCBkYW1hZ2UgcmVwcmVzZW50cyBoYXJtIHRvIGEgY2hhcmFjdGVyIHRoYXQgaXMgbm90IGxpZmUtdGhyZWF0ZW5pbmcuIFVubGlrZSBub3JtYWwgZGFtYWdlLCBub25sZXRoYWwgZGFtYWdlIGlzIGhlYWxlZCBxdWlja2x5IHdpdGggcmVzdC48YnIgLz48YnIgLz4gPGI+RGVhbGluZyBOb25sZXRoYWwgRGFtYWdlPC9iPjogQ2VydGFpbiBhdHRhY2tzIGRlYWwgbm9ubGV0aGFsIGRhbWFnZS4gT3RoZXIgZWZmZWN0cywgc3VjaCBhcyBoZWF0IG9yIGJlaW5nIGV4aGF1c3RlZCwgYWxzbyBkZWFsIG5vbmxldGhhbCBkYW1hZ2UuIFdoZW4geW91IHRha2Ugbm9ubGV0aGFsIGRhbWFnZSwga2VlcCBhIHJ1bm5pbmcgdG90YWwgb2YgaG93IG11Y2ggeW914oCZdmUgYWNjdW11bGF0ZWQuIERvIG5vdCBkZWR1Y3QgdGhlIG5vbmxldGhhbCBkYW1hZ2UgbnVtYmVyIGZyb20geW91ciBjdXJyZW50IGhpdCBwb2ludHMuIEl0IGlzIG5vdCDigJxyZWFs4oCdIGRhbWFnZS4gSW5zdGVhZCwgd2hlbiB5b3VyIG5vbmxldGhhbCBkYW1hZ2UgZXF1YWxzIHlvdXIgY3VycmVudCBoaXQgcG9pbnRzLCB5b3XigJlyZSBzdGFnZ2VyZWQgKHNlZSBiZWxvdyksIGFuZCB3aGVuIGl0IGV4Y2VlZHMgeW91ciBjdXJyZW50IGhpdCBwb2ludHMsIHlvdSBmYWxsIHVuY29uc2Npb3VzLjxiciAvPjxiciAvPiA8aT5Ob25sZXRoYWwgRGFtYWdlIHdpdGggYSBXZWFwb24gdGhhdCBEZWFscyBMZXRoYWwgRGFtYWdlPC9pPjogWW91IGNhbiB1c2UgYSBtZWxlZSB3ZWFwb24gdGhhdCBkZWFscyBsZXRoYWwgZGFtYWdlIHRvIGRlYWwgbm9ubGV0aGFsIGRhbWFnZSBpbnN0ZWFkLCBidXQgeW91IHRha2UgYSDigJM0IHBlbmFsdHkgb24geW91ciBhdHRhY2sgcm9sbC48YnIgLz48YnIgLz4gPGk+TGV0aGFsIERhbWFnZSB3aXRoIGEgV2VhcG9uIHRoYXQgRGVhbHMgTm9ubGV0aGFsIERhbWFnZTwvaT46IFlvdSBjYW4gdXNlIGEgd2VhcG9uIHRoYXQgZGVhbHMgbm9ubGV0aGFsIGRhbWFnZSwgaW5jbHVkaW5nIGFuIHVuYXJtZWQgc3RyaWtlLCB0byBkZWFsIGxldGhhbCBkYW1hZ2UgaW5zdGVhZCwgYnV0IHlvdSB0YWtlIGEg4oCTNCBwZW5hbHR5IG9uIHlvdXIgYXR0YWNrIHJvbGwuPGJyIC8+PGJyIC8+IDxiPlN0YWdnZXJlZCBhbmQgVW5jb25zY2lvdXM8L2I+OiBXaGVuIHlvdXIgbm9ubGV0aGFsIGRhbWFnZSBlcXVhbHMgeW91ciBjdXJyZW50IGhpdCBwb2ludHMsIHlvdeKAmXJlIHN0YWdnZXJlZC4gWW91IGNhbiBvbmx5IHRha2UgYSBzdGFuZGFyZCBhY3Rpb24gb3IgYSBtb3ZlIGFjdGlvbiBpbiBlYWNoIHJvdW5kIChpbiBhZGRpdGlvbiB0byBmcmVlLCBpbW1lZGlhdGUsIGFuZCBzd2lmdCBhY3Rpb25zKS4gWW91IGNlYXNlIGJlaW5nIHN0YWdnZXJlZCB3aGVuIHlvdXIgY3VycmVudCBoaXQgcG9pbnRzIG9uY2UgYWdhaW4gZXhjZWVkIHlvdXIgbm9ubGV0aGFsIGRhbWFnZS4gV2hlbiB5b3VyIG5vbmxldGhhbCBkYW1hZ2UgZXhjZWVkcyB5b3VyIGN1cnJlbnQgaGl0IHBvaW50cywgeW91IGZhbGwgdW5jb25zY2lvdXMuIFdoaWxlIHVuY29uc2Npb3VzLCB5b3UgYXJlIGhlbHBsZXNzIChzZWUgcGFnZSA1NjcpLjxiciAvPjxiciAvPiBTcGVsbGNhc3RlcnMgd2hvIGZhbGwgdW5jb25zY2lvdXMgcmV0YWluIGFueSBzcGVsbGNhc3RpbmcgYWJpbGl0eSB0aGV5IGhhZCBiZWZvcmUgZ29pbmcgdW5jb25zY2lvdXMuPGJyIC8+PGJyIC8+IElmIGEgY3JlYXR1cmXigJlzIG5vbmxldGhhbCBkYW1hZ2UgaXMgZXF1YWwgdG8gaGlzIHRvdGFsIG1heGltdW0gaGl0IHBvaW50cyAobm90IGhpcyBjdXJyZW50IGhpdCBwb2ludHMpLCBhbGwgZnVydGhlciBub25sZXRoYWwgZGFtYWdlIGlzIHRyZWF0ZWQgYXMgbGV0aGFsIGRhbWFnZS4gVGhpcyBkb2VzIG5vdCBhcHBseSB0byBjcmVhdHVyZXMgd2l0aCByZWdlbmVyYXRpb24uIFN1Y2ggY3JlYXR1cmVzIHNpbXBseSBhY2NydWUgYWRkaXRpb25hbCBub25sZXRoYWwgZGFtYWdlLCBpbmNyZWFzaW5nIHRoZSBhbW91bnQgb2YgdGltZSB0aGV5IHJlbWFpbiB1bmNvbnNjaW91cy48YnIgLz48YnIgLz4gPGI+SGVhbGluZyBOb25sZXRoYWwgRGFtYWdlPC9iPjogWW91IGhlYWwgbm9ubGV0aGFsIGRhbWFnZSBhdCB0aGUgcmF0ZSBvZiAxIGhpdCBwb2ludCBwZXIgaG91ciBwZXIgY2hhcmFjdGVyIGxldmVsLiBXaGVuIGEgc3BlbGwgb3IgYWJpbGl0eSBjdXJlcyBoaXQgcG9pbnQgZGFtYWdlLCBpdCBhbHNvIHJlbW92ZXMgYW4gZXF1YWwgYW1vdW50IG9mIG5vbmxldGhhbCBkYW1hZ2UuZGRkoNMqxIL6HhxGXBpGsOWMpQ0wH1Nzk+oYWSH2zqCpor0=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=44">Combat</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=164">Injury and Death</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 189</i></a><br />Your hit points measure how hard you are to kill. No matter how many hit points you lose, your character isn’t hindered in any way until your hit points drop to 0 or lower.<br /><h1 class="title"><a href="Rules.aspx?ID=165">Loss of Hit Points</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 189</i></a><br />The most common way that your character gets hurt is to take lethal damage and lose hit points.<br /><br /> <b>What Hit Points Represent</b>: Hit points mean two things in the game world: the ability to take physical punishment and keep going, and the ability to turn a serious blow into a less serious one.<br /><br /> <b>Effects of Hit Point Damage</b>: Damage doesn’t slow you down until your current hit points reach 0 or lower. At 0 hit points, you’re disabled.<br /><br /> If your hit point total is negative, but not equal to or greater than your Constitution score, you are unconscious and dying.<br /><br /> When your negative hit point total is equal to your Constitution, you’re dead.<br /><br /> <b>Massive Damage (Optional Rule)</b>: If you ever sustain a single attack that deals an amount of damage equal to half your total hit points (minimum 50 points of damage) or more and it doesn’t kill you outright, you must make a DC 15 Fortitude save. If this saving throw fails, you die regardless of your current hit points. If you take half your total hit points or more in damage from multiple attacks, no one of which dealt more than half your total hit points (minimum 50), the massive damage rule does not apply.<br /><h1 class="title"><a href="Rules.aspx?ID=166">Disabled (0 Hit Points)</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 189</i></a><br />When your current hit point total drops to exactly 0, you are disabled.<br /><br /> You gain the staggered condition and can only take a single move or standard action each turn (but not both, nor can you take full-round actions). You can take move actions without further injuring yourself, but if you perform any standard action (or any other strenuous action) you take 1 point of damage after completing the act. Unless your activity increased your hit points, you are now at –1 hit points and dying.<br /><br /> Healing that raises your hit points above 0 makes you fully functional again, just as if you’d never been reduced to 0 or fewer hit points.<br /><br /> You can also become disabled when recovering from dying. In this case, it’s a step toward recovery, and you can have fewer than 0 hit points (see Stable Characters and Recovery).<br /><h1 class="title"><a href="Rules.aspx?ID=167">Dying (Negative Hit Points)</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 189</i></a><br />If your hit point total is negative, but not equal to or greater than your Constitution score, you’re dying.<br /><br /> A dying character immediately falls unconscious and can take no actions.<br /><br /> A dying character loses 1 hit point every round. This continues until the character dies or becomes stable.<br /><h1 class="title"><a href="Rules.aspx?ID=168">Dead</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 190</i></a><br />When your character’s current hit points drop to a negative amount equal to his Constitution score or lower, or if he succumbs to massive damage, he’s dead. A character can also die from taking ability damage or suffering an ability drain that reduces his Constitution score to 0 (see Appendix 1).<br /><br /> Certain types of powerful magic, such as <i>raise dead</i> and <i>resurrection</i>, can restore life to a dead character. See Chapter 9 for more information.<br /><h1 class="title"><a href="Rules.aspx?ID=169">Stable Characters and Recovery</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 190</i></a><br />On the character’s next turn, after being reduced to negative hit points (but not dead), and on all subsequent turns, the character must make a DC 10 Constitution check to become stable. The character takes a penalty on this roll equal to his negative hit point total. A character that is stable does not need to make this check. A natural 20 on this check is an automatic success. If the character fails this check, he loses 1 hit point. An unconscious or dying character cannot use any special action that changes the initiative count on which his action occurs.<br /><br /> Characters taking continuous damage, such as from an <i>acid arrow</i> or a bleed effect, automatically fail all Constitution checks made to stabilize. Such characters lose 1 hit point per round in addition to the continuous damage.<br /><br /> You can keep a dying character from losing any more hit points and make him stable with a DC 15 Heal check. If any sort of healing cures the dying character of even 1 point of damage, he becomes stable and stops losing hit points.<br /><br /> Healing that raises the dying character’s hit points to 0 makes him conscious and disabled. Healing that raises his hit points to 1 or more makes him fully functional again, just as if he’d never been reduced to 0 or lower. A spellcaster retains the spellcasting capability she had before dropping below 0 hit points.<br /><br /> A stable character who has been tended by a healer or who has been magically healed eventually regains consciousness and recovers hit points naturally. If the character has no one to tend him, however, his life is still in danger, and he may yet slip away.<br /><br /> <b>Recovering with Help</b>: One hour after a tended, dying character becomes stable, the character must make a DC 10 Constitution check to become conscious. The character takes a penalty on this roll equal to his negative hit point total. Conscious characters with negative hit point totals are treated as disabled characters (see page 189). If the character remains unconscious, he receives another check every hour to regain consciousness. A natural 20 on this check is an automatic success. Even if unconscious, the character recovers hit points naturally. He automatically regains consciousness when his hit points rise to 1 or higher.<br /><br /> <b>Recovering without Help</b>: A severely wounded character left alone usually dies. He has a small chance of recovering on his own. Treat such characters as those attempting to recover with help, but every failed Constitution check to regain consciousness results in the loss of 1 hit point. An unaided character does not recover hit points naturally. Once conscious, the character can make a DC 10 Constitution check once per day, after resting for 8 hours, to begin recovering hit points naturally. The character takes a penalty on this roll equal to his negative hit point total. Failing this check causes the character to lose 1 hit point, but this does not cause the character to become unconscious. Once a character makes this check, he continues to heal naturally and is no longer in danger of losing hit points naturally.<br /><h1 class="title"><a href="Rules.aspx?ID=170">Healing</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 191</i></a><br />After taking damage, you can recover hit points through natural healing or through magical healing. In any case, you can't regain hit points past your full normal hit point total. <br /><br /><b>Natural Healing</b>: With a full night's rest (8 hours of sleep or more), you recover 1 hit point per character level. Any significant interruption during your rest prevents you from healing that night.<br /><br /> If you undergo complete bed rest for an entire day and night, you recover twice your character level in hit points.<br /><br /> <b>Magical Healing</b>: Various abilities and spells can restore hit points.<br /><br /> <b>Healing Limits</b>: You can never recover more hit points than you lost. Magical healing won't raise your current hit points higher than your full normal hit point total.<br /><br /> <b>Healing Ability Damage</b>: Temporary ability damage returns at the rate of 1 point per night of rest (8 hours) for each affected ability score. Complete bed rest restores 2 points per day (24 hours) for each affected ability score.<br /><h1 class="title"><a href="Rules.aspx?ID=171">Temporary Hit Points</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 191</i></a><br />Certain effects give a character temporary hit points. These hit points are in addition to the character’s current hit point total and any damage taken by the character is subtracted from these hit points first. Any damage in excess of a character’s temporary hit points is applied to his current hit points as normal. If the effect that grants the temporary hit points ends or is dispelled, any remaining temporary hit points go away. The damage they sustained is not transferred to the character’s current hit points.<br /><br /> When temporary hit points are lost, they cannot be restored as real hit points can be, even by magic.<br /><br /> <b>Increases in Constitution Score and Current Hit Points</b>: An increase in a character’s Constitution score, even a temporary one, can give her more hit points (an effective hit point increase), but these are not temporary hit points. They can be restored, and they are not lost first as temporary hit points are.<br /><h1 class="title"><a href="Rules.aspx?ID=172">Nonlethal Damage</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 191</i></a><br />Nonlethal damage represents harm to a character that is not life-threatening. Unlike normal damage, nonlethal damage is healed quickly with rest.<br /><br /> <b>Dealing Nonlethal Damage</b>: Certain attacks deal nonlethal damage. Other effects, such as heat or being exhausted, also deal nonlethal damage. When you take nonlethal damage, keep a running total of how much you’ve accumulated. Do not deduct the nonlethal damage number from your current hit points. It is not “real” damage. Instead, when your nonlethal damage equals your current hit points, you’re staggered (see below), and when it exceeds your current hit points, you fall unconscious.<br /><br /> <i>Nonlethal Damage with a Weapon that Deals Lethal Damage</i>: You can use a melee weapon that deals lethal damage to deal nonlethal damage instead, but you take a –4 penalty on your attack roll.<br /><br /> <i>Lethal Damage with a Weapon that Deals Nonlethal Damage</i>: You can use a weapon that deals nonlethal damage, including an unarmed strike, to deal lethal damage instead, but you take a –4 penalty on your attack roll.<br /><br /> <b>Staggered and Unconscious</b>: When your nonlethal damage equals your current hit points, you’re staggered. You can only take a standard action or a move action in each round (in addition to free, immediate, and swift actions). You cease being staggered when your current hit points once again exceed your nonlethal damage. When your nonlethal damage exceeds your current hit points, you fall unconscious. While unconscious, you are helpless (see page 567).<br /><br /> Spellcasters who fall unconscious retain any spellcasting ability they had before going unconscious.<br /><br /> If a creature’s nonlethal damage is equal to his total maximum hit points (not his current hit points), all further nonlethal damage is treated as lethal damage. This does not apply to creatures with regeneration. Such creatures simply accrue additional nonlethal damage, increasing the amount of time they remain unconscious.<br /><br /> <b>Healing Nonlethal Damage</b>: You heal nonlethal damage at the rate of 1 hit point per hour per character level. When a spell or ability cures hit point damage, it also removes an equal amount of nonlethal damage.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Alternate Crafting Rules - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Alternate Crafting Rules" /><meta name="description" content="While the rules for crafting in the &lt;i>Core Rulebook&lt;/i> are perfectly suitable for the needs of most campaigns, they can sometimes be cumbersome to use. Those rules assume that a character spends a full week crafting an item. They also involve complex multiplication to determine the degree of success and speed with which the item can be crafted. Not only are these rules significantly different from those for other skill checks, but they can slow down play at the table and give rise to strange circumstances where it takes an unreasonably long time to create relatively simple items that happen to have a high gold piece cost. Furthermore, while the system features rules for attempting daily checks, these rules can be cumbersome for players.&lt;br />&lt;br /> The following system presents crafting rules that are a little easier to use, especially in conjunction with the &lt;a style=&quot;text-decoration:underline&quot; href=&quot;Rules.aspx?Name=Downtime&amp;Category=Gamemastering&quot;>downtime system&lt;/a>.&lt;br />&lt;br /> With this alternative system, use the following version of the Craft skill instead of the one presented in the &lt;i>Core Rulebook&lt;/i>." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=1831" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWBZzx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTcyNSI+UGF0aGZpbmRlciBVbmNoYWluZWQ8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTgyOSI+QWx0ZXJuYXRlIENyYWZ0aW5nIGFuZCBQcm9mZXNzaW9uIFJ1bGVzPC9hPjwvdT4gLyA8dT48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE4MzAiPkNyYWZ0aW5nPC9hPjwvdT48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE4MzEiPkFsdGVybmF0ZSBDcmFmdGluZyBSdWxlczwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWMyNT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtUGF0aGZpbmRlci1VbmNoYWluZWQiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UGF0aGZpbmRlciBVbmNoYWluZWQgcGcuIDcyPC9pPjwvYT48YnIgLz5XaGlsZSB0aGUgcnVsZXMgZm9yIGNyYWZ0aW5nIGluIHRoZSA8aT5Db3JlIFJ1bGVib29rPC9pPiBhcmUgcGVyZmVjdGx5IHN1aXRhYmxlIGZvciB0aGUgbmVlZHMgb2YgbW9zdCBjYW1wYWlnbnMsIHRoZXkgY2FuIHNvbWV0aW1lcyBiZSBjdW1iZXJzb21lIHRvIHVzZS4gVGhvc2UgcnVsZXMgYXNzdW1lIHRoYXQgYSBjaGFyYWN0ZXIgc3BlbmRzIGEgZnVsbCB3ZWVrIGNyYWZ0aW5nIGFuIGl0ZW0uIFRoZXkgYWxzbyBpbnZvbHZlIGNvbXBsZXggbXVsdGlwbGljYXRpb24gdG8gZGV0ZXJtaW5lIHRoZSBkZWdyZWUgb2Ygc3VjY2VzcyBhbmQgc3BlZWQgd2l0aCB3aGljaCB0aGUgaXRlbSBjYW4gYmUgY3JhZnRlZC4gTm90IG9ubHkgYXJlIHRoZXNlIHJ1bGVzIHNpZ25pZmljYW50bHkgZGlmZmVyZW50IGZyb20gdGhvc2UgZm9yIG90aGVyIHNraWxsIGNoZWNrcywgYnV0IHRoZXkgY2FuIHNsb3cgZG93biBwbGF5IGF0IHRoZSB0YWJsZSBhbmQgZ2l2ZSByaXNlIHRvIHN0cmFuZ2UgY2lyY3Vtc3RhbmNlcyB3aGVyZSBpdCB0YWtlcyBhbiB1bnJlYXNvbmFibHkgbG9uZyB0aW1lIHRvIGNyZWF0ZSByZWxhdGl2ZWx5IHNpbXBsZSBpdGVtcyB0aGF0IGhhcHBlbiB0byBoYXZlIGEgaGlnaCBnb2xkIHBpZWNlIGNvc3QuIEZ1cnRoZXJtb3JlLCB3aGlsZSB0aGUgc3lzdGVtIGZlYXR1cmVzIHJ1bGVzIGZvciBhdHRlbXB0aW5nIGRhaWx5IGNoZWNrcywgdGhlc2UgcnVsZXMgY2FuIGJlIGN1bWJlcnNvbWUgZm9yIHBsYXllcnMuPGJyIC8+PGJyIC8+IFRoZSBmb2xsb3dpbmcgc3lzdGVtIHByZXNlbnRzIGNyYWZ0aW5nIHJ1bGVzIHRoYXQgYXJlIGEgbGl0dGxlIGVhc2llciB0byB1c2UsIGVzcGVjaWFsbHkgaW4gY29uanVuY3Rpb24gd2l0aCB0aGUgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlJ1bGVzLmFzcHg/TmFtZT1Eb3dudGltZSZDYXRlZ29yeT1HYW1lbWFzdGVyaW5nIj5kb3dudGltZSBzeXN0ZW08L2E+LjxiciAvPjxiciAvPiBXaXRoIHRoaXMgYWx0ZXJuYXRpdmUgc3lzdGVtLCB1c2UgdGhlIGZvbGxvd2luZyB2ZXJzaW9uIG9mIHRoZSBDcmFmdCBza2lsbCBpbnN0ZWFkIG9mIHRoZSBvbmUgcHJlc2VudGVkIGluIHRoZSA8aT5Db3JlIFJ1bGVib29rPC9pPi48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE4MzIiPkNyYWZ0IChJbnQpPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5YzI1P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1QYXRoZmluZGVyLVVuY2hhaW5lZCIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QYXRoZmluZGVyIFVuY2hhaW5lZCBwZy4gNzI8L2k+PC9hPjxiciAvPllvdSBhcmUgc2tpbGxlZCBpbiB0aGUgY3JlYXRpb24gb2YgYSBzcGVjaWZpYyBncm91cCBvZiBpdGVtcywgc3VjaCBhcyBhcm1vciBvciB3ZWFwb25zLiBMaWtlIEtub3dsZWRnZSwgUGVyZm9ybSwgYW5kIFByb2Zlc3Npb24sIENyYWZ0IGlzIGFjdHVhbGx5IGEgbnVtYmVyIG9mIHNlcGFyYXRlIHNraWxscy4gWW91IGNvdWxkIGhhdmUgc2V2ZXJhbCBDcmFmdCBza2lsbHMsIGVhY2ggd2l0aCBpdHMgb3duIHJhbmtzLiBUaGUgbW9zdCBjb21tb24gQ3JhZnQgc2tpbGxzIGFyZSBhbGNoZW15LCBhcm1vciwgYmFza2V0cywgYm9va3MsIGJvd3MsIGNhbGxpZ3JhcGh5LCBjYXJwZW50cnksIGNsb3RoLCBjbG90aGluZywgZ2xhc3MsIGpld2VscnksIGxlYXRoZXIsIGxvY2tzLCBwYWludGluZ3MsIHBvdHRlcnksIHNjdWxwdHVyZXMsIHNoaXBzLCBzaG9lcywgc3RvbmVtYXNvbnJ5LCB0cmFwcywgYW5kIHdlYXBvbnMuPGJyIC8+PGJyIC8+IEEgQ3JhZnQgc2tpbGwgaXMgc3BlY2lmaWNhbGx5IGZvY3VzZWQgb24gY3JlYXRpbmcgc29tZXRoaW5nLiBJZiBhbiBlbmRlYXZvciBkb2VzIG5vdCByZXN1bHQgaW4gYSBjcmVhdGVkIHByb2R1Y3QsIGl0IHByb2JhYmx5IGZhbGxzIHVuZGVyIHRoZSBoZWFkaW5nIG9mIGEgUHJvZmVzc2lvbiBza2lsbC4gPGJyIC8+PGJyIC8+PGI+Q2hlY2s8L2I+OiBZb3UgY2FuIHByYWN0aWNlIHlvdXIgdHJhZGUgYW5kIG1ha2UgYSBkZWNlbnQgbGl2aW5nLCBlYXJuaW5nIHlvdXIgY2hlY2sgcmVzdWx0IGluIHNpbHZlciBwaWVjZXMgcGVyIGRheS4gWW91IGtub3cgaG93IHRvIHVzZSB0aGUgdG9vbHMgb2YgeW91ciB0cmFkZSwgaG93IHRvIHBlcmZvcm0gdGhlIGNyYWZ04oCZcyBkYWlseSB0YXNrcywgaG93IHRvIHN1cGVydmlzZSB1bnRyYWluZWQgaGVscGVycywgYW5kIGhvdyB0byBoYW5kbGUgY29tbW9uIHByb2JsZW1zLiAoVW50cmFpbmVkIGxhYm9yZXJzIGFuZCBhc3Npc3RhbnRzIGVhcm4gYW4gYXZlcmFnZSBvZiAxIHNpbHZlciBwaWVjZSBwZXIgZGF5Lik8YnIgLz48YnIgLz4gVGhlIGJhc2ljIGZ1bmN0aW9uIG9mIHRoZSBDcmFmdCBza2lsbCwgaG93ZXZlciwgaXMgdG8gbWFrZSBhbiBpdGVtIG9mIHRoZSBhcHByb3ByaWF0ZSB0eXBlLiBNb3N0IGl0ZW1zIGNyZWF0ZWQgd2l0aCBhIENyYWZ0IHNraWxsIGZhbGwgaW50byBvbmUgb2Ygc2V2ZXJhbCBicm9hZCBjYXRlZ29yaWVzIG9mIGNvbXBsZXhpdHkuIE90aGVycyBoYXZlIENyYWZ0IERDcyBiYXNlZCBvbiBDUiAoaW4gdGhlIGNhc2Ugb2YgdHJhcHMpIG9yIG9uIHRoZSBGb3J0aXR1ZGUgc2F2ZXMgcmVxdWlyZWQgdG8gYXZvaWQgb3IgbWluaW1pemUgdGhlaXIgZWZmZWN0cyAoaW4gdGhlIGNhc2Ugb2YgcG9pc29ucykuPGJyIC8+PGJyIC8+IEJlZm9yZSBjcmFmdGluZyBhbiBpdGVtLCB5b3UgbXVzdCBoYXZlIHRvb2xzIGFuZCBhbiBhcHByb3ByaWF0ZSB3b3Jrc2hvcCBvciBhcmVhLiBJZiB5b3UgZG9u4oCZdCBoYXZlIGFjY2VzcyB0byBhcnRpc2FuIHRvb2xzLCB5b3UgY2FuIHN0aWxsIGF0dGVtcHQgYSBDcmFmdCBjaGVjaywgYnV0IHlvdSB0YWtlIGEg4oCTMiBwZW5hbHR5IHdoZW4gYXR0ZW1wdGluZyBhIGNoZWNrIHdpdGhvdXQgc3VjaCB0b29scyBvciB3aXRoIGltcHJvdmlzZWQgdG9vbHMuIElmIHlvdSBoYXZlIG1hc3RlcndvcmsgYXJ0aXNhbiB0b29scywgeW91IGdhaW4gYSArMiBjaXJjdW1zdGFuY2UgYm9udXMgb24gdGhlIHNraWxsIGNoZWNrLjxiciAvPjxiciAvPiBBZnRlciB5b3UgaGF2ZSBhIHN1aXRhYmxlIGFyZWEgdG8gY3JhZnQgYW5kIHlvdeKAmXZlIGdhdGhlcmVkIHlvdXIgdG9vbHMsIHlvdSBtdXN0IHRoZW4gYWNxdWlyZSByYXcgbWF0ZXJpYWxzIHdob3NlIHZhbHVlIGlzIGVxdWFsIHRvIDEvNCB0aGUgY29zdCBvZiB0aGUgaXRlbSBvciBpdGVtcyB5b3Ugd2lzaCB0byBjcmFmdC4gR2l2ZW4gdGhlIG5lY2Vzc2FyeSB0b29scywgbWF0ZXJpYWxzLCBhbmQgd29ya3NwYWNlLCB5b3UgY2FuIGF0dGVtcHQgYSBDcmFmdCBjaGVjayBvZiB0aGUgYXBwcm9wcmlhdGUgREMgZWFjaCBkYXkuIElmIHlvdSBzdWNjZWVkLCB5b3UgbWFrZSBhbiBhbW91bnQgb2YgcHJvZ3Jlc3MgZXF1YWwgdG8gdGhlIHNpbHZlciBwaWVjZSBvciBnb2xkIHBpZWNlIHZhbHVlIGxpc3RlZCBpbiB0aGUgYXBwcm9wcmlhdGUgZW50cnkgaW4gdGhlIEJhc2UgUHJvZ3Jlc3MgcGVyIERheSBjb2x1bW4gb2YgVGFibGUgMuKAkzQ6IENyYWZ0aW5nIERDcyBhbmQgUHJvZ3Jlc3MgVmFsdWVzLiBJZiB5b3UgZXhjZWVkIHRoZSBEQyBieSBhdCBsZWFzdCA1LCB5b3VyIHByb2dyZXNzIGRvdWJsZXMuIElmIHlvdSBleGNlZWQgdGhlIERDIGJ5IGF0IGxlYXN0IDEwLCB5b3VyIHByb2dyZXNzIHRyaXBsZXMsIGlmIHlvdSBleGNlZWQgaXQgYnkgYXQgbGVhc3QgMTUsIHlvdSBxdWFkcnVwbGUgeW91ciBwcm9ncmVzcywgYW5kIHNvIG9uLiBXaGVuIHlvdXIgdG90YWwgcHJvZ3Jlc3MgZXF1YWxzIHRoZSBjb3N0IG9mIHRoZSBpdGVtLCB0aGF0IGl0ZW0gaXMgY29tcGxldGVkLiBBbnkgcmVtYWluaW5nIHByb2dyZXNzIGNhbiBiZSBhcHBsaWVkIHRvIGEgc2ltaWxhciBpdGVtOyBvdGhlcndpc2UsIGFsbCBleGNlc3MgcHJvZ3Jlc3MgaXMgbG9zdC48YnIgLz48YnIgLz4gSWYgeW91IGZhaWwgdGhlIGNoZWNrLCBubyBwcm9ncmVzcyBpcyBtYWRlIHRoYXQgZGF5LiBJZiB5b3UgZmFpbCB0aGUgY2hlY2sgYnkgNSBvciBtb3JlLCB5b3Ugd2FzdGUgYW4gYW1vdW50IG9mIHlvdXIgcmF3IG1hdGVyaWFscyBlcXVhbCB0byB0aGUgaXRlbeKAmXMgYmFzZSBwcm9ncmVzcyBwZXIgZGF5LCB1cCB0byBhIG1heGltdW0gb2YgdGhlIGluaXRpYWwgY29zdCBvZiB0aGUgcmF3IG1hdGVyaWFscy4gU3VjaCB3YXN0ZWQgbWF0ZXJpYWwgbXVzdCBiZSByZXBsZW5pc2hlZCBiZWZvcmUgeW91IGNhbiBjb250aW51ZSBjcmFmdGluZyB0aGUgaXRlbS48YnIgLz48YnIgLz4gPGk+U2V0dGluZyBBc2lkZSBDcmFmdGluZyBJdGVtczwvaT46IEFzIGxvbmcgYXMgeW91IGNhbiBzdG9yZSBhbiBpdGVtIGluIGEgc2VjdXJlIGFuZCBzYWZlIHBsYWNlLCB5b3UgY2FuIHNldCBhc2lkZSBhbiBpdGVtIHRoYXQgeW91IGJlZ2FuIGNyYWZ0aW5nIGFuZCByZXR1cm4gdG8gaXQgYWdhaW4gbGF0ZXIgd2l0aCBsaXR0bGUgb3Igbm8gZWZmZWN0LiBZb3VyIEdNIG1heSBydWxlIHRoYXQgdGhpcyBpcyBub3QgcG9zc2libGUsIGVzcGVjaWFsbHkgaW4gdGhlIGNhc2Ugb2Ygdm9sYXRpbGUgYWxjaGVtaWNhbCBpdGVtcyBvciBwZXJpc2hhYmxlIGdvb2RzLiA8YnIgLz48YnIgLz48aT5DcmFmdGluZyBNYXN0ZXJ3b3JrIGFuZCBTcGVjaWFsIE1hdGVyaWFsIEl0ZW1zPC9pPjogV2hlbiB5b3XigJlyZSBjcmFmdGluZyBhIG1hc3RlcndvcmsgaXRlbSBvciBhbiBpdGVtIG1hZGUgb2YgYSBzcGVjaWFsIG1hdGVyaWFsLCBpdHMgY3JhZnRpbmcgZGlmZmljdWx0eSBpbmNyZWFzZXMgYnkgb25lIHN0ZXAuIEZvciBleGFtcGxlLCBhIGxvbmdzd29yZCAod2hpY2ggaGFzIGEgYmFzZSBkaWZmaWN1bHR5IG9mIG5vcm1hbCkgaXMgY29uc2lkZXJlZCBhIGNvbXBsZXggaXRlbSB3aGVuIGNyYWZ0ZWQgYXMgYSBtYXN0ZXJ3b3JrIGl0ZW0gKERDIDIwOyA0IGdwIGJhc2UgcHJvZ3Jlc3MgcGVyIGRheSkuIEluIHRoZSBjYXNlIG9mIGl0ZW1zIGNyYWZ0ZWQgZnJvbSBzcGVjaWFsIG1hdGVyaWFscyB0aGF0IGFsc28gY291bnQgYXMgbWFzdGVyd29yayAoc3VjaCBhcyBhZGFtYW50aW5lIGFybW9yIGFuZCB3ZWFwb25zKSwgdGhlIGNvbXBsZXhpdHkgb2YgdGhlIGl0ZW0gaW5jcmVhc2VzIGJ5IHR3byBzdGVwcy4gPGJyIC8+PGJyIC8+PGk+UmVwYWlyaW5nIEl0ZW1zPC9pPjogWW91IGNhbiB1c2UgdGhlIGFwcHJvcHJpYXRlIENyYWZ0IHNraWxsIHRvIHJlcGFpciBpdGVtcyBvZiB0aGF0IHR5cGUuIFJlcGFpcmluZyBhbiBpdGVtIHdpdGggdGhlIGJyb2tlbiBjb25kaXRpb24gb3IgdGhhdCBoYXMgdGFrZW4gZGFtYWdlIChvciBib3RoKSByZXF1aXJlcyB0b29scyBhbmQgYSB3b3JrIGFyZWEsIGFuZCB5b3UgbXVzdCBwYXkgMS8xMCB0aGUgaXRlbeKAmXMgY29zdCBpbiByYXcgbWF0ZXJpYWxzLiBSZXBhaXJpbmcgYW4gaXRlbSBoYXMgdGhlIHNhbWUgREMgYXMgY3JhZnRpbmcgdGhlIGl0ZW0sIGJ1dCB0YWtlcyBhbiBhbW91bnQgb2YgdGltZSBiYXNlZCBvbiB0aGUgaXRlbeKAmXMgY29tcGxleGl0eS4gRXh0cmVtZWx5IHNpbXBsZSBpdGVtcyB0YWtlIGFuIGhvdXIgdG8gcmVwYWlyLiBTaW1wbGUgYW5kIG5vcm1hbCBpdGVtcyB0YWtlIDFkNCBob3VycyB0byByZXBhaXIuIENvbXBsZXggYW5kIGludHJpY2F0ZSBpdGVtcyB0YWtlIGEgZGF5IHRvIHJlcGFpciwgYW5kIGFsbCBvdGhlciBpdGVtcyB0YWtlIDFkNCBkYXlzIHRvIHJlcGFpci4gPGJyIC8+PGJyIC8+IDxoMj5UYWJsZSAyLTQ6IENyYWZ0aW5nIERDcyBhbmQgUHJvZ3Jlc3MgVmFsdWVzPC9oMj4gPHRhYmxlIGNsYXNzPSJpbm5lciI+IDx0cj48dGQ+PGI+Q3JhZnRpbmcgRGlmZmljdWx0eTwvYj48L3RkPjx0ZD48Yj5DcmFmdCBEQzwvYj48L3RkPjx0ZD48Yj5CYXNlIFByb2dyZXNzIHBlciBEYXk8L2I+PC90ZD48L3RyPiA8dHI+PHRkPkV4dHJlbWVseSBzaW1wbGU8L3RkPjx0ZD5EQyA1PC90ZD48dGQ+NSBzcDwvdGQ+PC90cj4gPHRyPjx0ZD5TaW1wbGU8L3RkPjx0ZD5EQyAxMDwvdGQ+PHRkPjEgZ3A8L3RkPjwvdHI+IDx0cj48dGQ+Tm9ybWFsPC90ZD48dGQ+REMgMTU8L3RkPjx0ZD4yIGdwPC90ZD48L3RyPiA8dHI+PHRkPkNvbXBsZXg8L3RkPjx0ZD5EQyAyMDwvdGQ+PHRkPjQgZ3A8L3RkPjwvdHI+IDx0cj48dGQ+SW50cmljYXRlPC90ZD48dGQ+REMgMjU8L3RkPjx0ZD44IGdwPC90ZD48L3RyPiA8dHI+PHRkPlZlcnkgaW50cmljYXRlPC90ZD48dGQ+REMgMzA8L3RkPjx0ZD4xNiBncDwvdGQ+PC90cj4gPHRyPjx0ZD5FeHRyZW1lbHkgaW50cmljYXRlPC90ZD48dGQ+REMgMzU8L3RkPjx0ZD4zMiBncDwvdGQ+PC90cj4gPHRyPjx0ZD5Qb2lzb25zPC90ZD48dGQ+REMgPSB0aGUgRm9ydGl0dWRlIERDIG9mIHRoZSBwb2lzb248L3RkPjx0ZD4zMiBncDwvdGQ+PC90cj4gPHRyPjx0ZD5UcmFwczwvdGQ+PHRkPkJhc2VkIG9uIGNvbXBsZXhpdHksIHNlZSB0ZXh0PC90ZD48dGQ+MzIgZ3A8L3RkPjwvdHI+IDwvdGFibGU+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xODMzIj5JdGVtIENyYWZ0aW5nIERpZmZpY3VsdGllczwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWMyNT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtUGF0aGZpbmRlci1VbmNoYWluZWQiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UGF0aGZpbmRlciBVbmNoYWluZWQgcGcuIDczPC9pPjwvYT48YnIgLz5UaGUgZm9sbG93aW5nIGFyZSB0aGUgY2F0ZWdvcmllcyBvZiBjcmFmdGluZyBkaWZmaWN1bHRpZXMgYW5kIHRoZSBpdGVtcyB3aXRoaW4gdGhvc2UgY2F0ZWdvcmllcy4gVGhlIGl0ZW1zIGFyZSBzcGxpdCBpbnRvIGdlbmVyYWwgY2F0ZWdvcmllcy4gQWxjaGVtaWNhbCBpdGVtcyBhbmQgcG9pc29ucyByZXF1aXJlIENyYWZ0IChhbGNoZW15KSBjaGVja3MuIEFybW9yIGFuZCBzaGllbGRzIHJlcXVpcmUgQ3JhZnQgKGFybW9yKSBjaGVja3MuIFdlYXBvbnMgcmVxdWlyZSBDcmFmdCAod2VhcG9ucykgY2hlY2tzIGZvciBtZWxlZSB3ZWFwb25zLCB0aHJvd24gd2VhcG9ucywgbm9uc2llZ2UgZmlyZWFybXMsIGNyb3NzYm93cywgb3IgY3Jvc3Nib3cgYm9sdHM7IENyYWZ0IChib3dzKSBjaGVja3MgZm9yIGJvd3Mgb3IgYXJyb3dzOyBDcmFmdCAoYWxjaGVteSkgY2hlY2tzIGZvciBmaXJlYXJtIGFtbXVuaXRpb247IGFuZCBDcmFmdCAoc2llZ2UgZW5naW5lcykgY2hlY2tzIGZvciBhbGwgZm9ybXMgb2Ygc2llZ2UgZW5naW5lcy4gVGhlIENyYWZ0IGNoZWNrcyBmb3IgbXVuZGFuZSBpdGVtcyBkZXBlbmQgb24gdGhlIGl0ZW0gYmVpbmcgY3JhZnRlZCwgd2l0aCB0aGUgbW9zdCBjb21tb24gb25lcyBiZWluZyBiYXNrZXRzLCBib29rcywgY2FsbGlncmFwaHksIGNhcnBlbnRyeSwgY2xvdGgsIGNsb3RoaW5nLCBnbGFzcywgamV3ZWxyeSwgbGVhdGhlciwgbG9ja3MsIHBhaW50aW5ncywgcG90dGVyeSwgc2N1bHB0dXJlcywgc2hvZXMsIGFuZCBzdG9uZW1hc29ucnkuIENyYWZ0aW5nIHZlaGljbGVzIHJlcXVpcmVzIENyYWZ0IChjYXJwZW50cnkpIGZvciBtb3N0IGxhbmQtYmFzZWQgdmVoaWNsZXMsIENyYWZ0IChzaGlwcykgZm9yIHNlYWJvcm5lIHZlc3NlbHMgYW5kIGFpcnNoaXBzLCBhbmQgQ3JhZnQgKGFsY2hlbXkpIGZvciBhbGNoZW1pY2FsIGRyYWdvbnMgYW5kIHN0ZWFtIGdpYW50cy4gQ3JhZnRpbmcgdHJhcHMgcmVxdWlyZXMgQ3JhZnQgKHRyYXBzKS48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE4MzQiPkV4dHJlbWVseSBTaW1wbGUgKERDIDUpPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5YzI1P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1QYXRoZmluZGVyLVVuY2hhaW5lZCIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QYXRoZmluZGVyIFVuY2hhaW5lZCBwZy4gNzM8L2k+PC9hPjxiciAvPjxiPkFsY2hlbWljYWwgSXRlbXM8L2I+OiBDYXN0aW5nIHBsYXN0ZXIuIDxiciAvPjxiciAvPjxiPk11bmRhbmUgSXRlbXM8L2I+OiBWZXJ5IHNpbXBsZSBpdGVtcyBzdWNoIGFzIHdvb2RlbiBzcG9vbnMsIG90aGVyIGNhcnZlZCBvbmUtcGllY2UgaXRlbXMuIDxiciAvPjxiciAvPjxiPldlYXBvbnM8L2I+OiBNYW51ZmFjdHVyZWQgY2x1YnMsIHF1YXJ0ZXJzdGFmZnMsIHNsaW5ncy48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE4MzUiPlNpbXBsZSAoREMgMTApPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5YzI1P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1QYXRoZmluZGVyLVVuY2hhaW5lZCIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QYXRoZmluZGVyIFVuY2hhaW5lZCBwZy4gNzM8L2k+PC9hPjxiciAvPjxiPkFsY2hlbWljYWwgSXRlbXM8L2I+OiBMaWdodCBkZXRlY3Rvci4gPGJyIC8+PGJyIC8+PGI+QXJtb3I8L2I+OiBMaWdodCBhcm1vciwgd29vZGVuIHNoaWVsZHMuIDxiciAvPjxiciAvPjxiPk11bmRhbmUgSXRlbXM8L2I+OiBUeXBpY2FsIGhvdXNlaG9sZCBpdGVtcyBzdWNoIGFzIGlyb24gcG90cy4gPGJyIC8+PGJyIC8+PGI+VmVoaWNsZXM8L2I+OiBDYXJ0LCByYWZ0LiA8YnIgLz48YnIgLz48Yj5XZWFwb25zPC9iPjogU2ltcGxlIHdlYXBvbnMgKGV4Y2VwdCBjcm9zc2Jvd3MpLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTgzNiI+Tm9ybWFsIChEQyAxNSk8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTljMjU/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVBhdGhmaW5kZXItVW5jaGFpbmVkIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBhdGhmaW5kZXIgVW5jaGFpbmVkIHBnLiA3MzwvaT48L2E+PGJyIC8+PGI+QWxjaGVtaWNhbCBJdGVtczwvYj46IEFjaWQ7IGFsY2hlbWljYWwgY2VtZW50OyBhbGNoZW1pY2FsIGdyZWFzZTsgYXJtb3Igb2ludG1lbnQ7IGJsYWRlZ3VhcmQ7IGJ1b3lhbnQgYmFsbG9vbjsgY2hpbGwgY3JlYW07IGdsb3dpbmcgaW5rOyBpbnZpc2libGUgaW5rLCBzaW1wbGU7IGtlcm9zIG9pbDsgbGlxdWlkIGJsYWRlOyBtYXJrZXIgZHllOyBzb290aGUgc3lydXA7IHdhdGVyIHB1cmlmaWNhdGlvbiBzcG9uZ2UuIDxiciAvPjxiciAvPjxiPkFybW9yPC9iPjogTWVkaXVtIGFybW9yLCBzdGVlbCBzaGllbGRzLiA8YnIgLz48YnIgLz48Yj5NdW5kYW5lIEl0ZW1zPC9iPjogTW9zdCBhZHZlbnR1cmluZyBnZWFyLiA8YnIgLz48YnIgLz48Yj5WZWhpY2xlczwvYj46IENoYXJpb3QsIGxpZ2h0OyBjaGFyaW90LCBtZWRpdW07IGNoYXJpb3QsIGhlYXZ5OyByb3dib2F0OyBzbGVpZ2g7IHdhZ29uLCBsaWdodDsgd2Fnb24sIG1lZGl1bTsgd2Fnb24sIGhlYXZ5LiA8YnIgLz48YnIgLz48Yj5XZWFwb25zPC9iPjogTWFydGlhbCB3ZWFwb25zIGFuZCBjcm9zc2Jvd3MuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xODM3Ij5Db21wbGV4IChEQyAyMCk8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTljMjU/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVBhdGhmaW5kZXItVW5jaGFpbmVkIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBhdGhmaW5kZXIgVW5jaGFpbmVkIHBnLiA3MzwvaT48L2E+PGJyIC8+PGI+QWxjaGVtaWNhbCBJdGVtczwvYj46IEFsY2hlbWljYWwgZ2x1ZTsgYWxjaGVtaWNhbCBzb2x2ZW50OyBhbGNoZW1pc3TigJlzIGZpcmU7IGFsY2hlbWlzdOKAmXMga2luZG5lc3M7IGFsa2FsaSBmbGFzazsgYmxhY2tmaXJlIGNsYXk7IGNhbmRsZXJvZDsgZmxhc2ggcG93ZGVyOyBmb2FtaW5nIHBvd2RlcjsgZ2hhc3QgcmV0Y2ggZmxhc2s7IGltcGFjdCBmb2FtIDsgaW52aXNpYmxlIGluaywgYXZlcmFnZTsgaW52aXNpYmxlIGluaywgZ29vZDsgbWVkaXRhdGlvbiB0ZWE7IG51c2hhZGlyOyBwYXBlciBjYW5kbGUgZmlyZXdvcms7IHNjZW50IGNsb2FrOyBzaGFyZCBnZWw7IHNtb2tlIHBlbGxldDsgc21va2VzdGljazsgc3RhciBjYW5kbGUgZmlyZXdvcms7IHRpbmRlcnR3aWc7IHZlcm1pbiByZXBlbGxlbnQ7IHdlYXBvbiBibGFuY2gsIGNvbGQgaXJvbjsgd2VhcG9uIGJsYW5jaCwgc2lsdmVyOyB3aXNtdXRoIHNhbGl4LiA8YnIgLz48YnIgLz48Yj5Bcm1vcjwvYj46IEhlYXZ5IGFybW9yLiA8YnIgLz48YnIgLz48Yj5NdW5kYW5lIEl0ZW1zPC9iPjogSmV3ZWxyeSwga2l0cywgbG9ja3MsIGNvbXBsaWNhdGVkIGFkdmVudHVyaW5nIGdlYXIuIDxiciAvPjxiciAvPjxiPlRyYXBzPC9iPjogQWxsIHRyYXBzIENSIDHigJM1LiA8YnIgLz48YnIgLz48Yj5WZWhpY2xlczwvYj46IENhcnJpYWdlLCBnbGlkZXIsIGtlZWxib2F0LCBsb25nc2hpcC4gPGJyIC8+PGJyIC8+PGI+V2VhcG9uczwvYj46IEVhcmx5IGZpcmVhcm0gYW1tdW5pdGlvbiwgZWFybHkgb25lLWhhbmRlZCBmaXJlYXJtcywgZWFybHkgdHdvLWhhbmRlZCBmaXJlYXJtcywgZXhvdGljIHdlYXBvbnMuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xODM4Ij5JbnRyaWNhdGUgKERDIDI1KTwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWMyNT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtUGF0aGZpbmRlci1VbmNoYWluZWQiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UGF0aGZpbmRlciBVbmNoYWluZWQgcGcuIDc0PC9pPjwvYT48YnIgLz48Yj5BbGNoZW1pY2FsIEl0ZW1zPC9iPjogQWxjaGVtaWNhbCBnbHVlIGFjY2VsZXJhbnQ7IGFudGlwbGFndWU7IGFudGl0b3hpbjsgYmxvb2RibG9jazsgYm90dGxlZCBsaWdodG5pbmc7IGJ1cnN0IGphcjsgZGVmb2xpYW50OyBlbWJhbG1pbmcgZmx1aWQ7IGZpcmUgd2FyZCBnZWw7IGZyb3N0IHdhcmQgZ2VsOyBmdXNlIGdyZW5hZGU7IGludmlzaWJsZSBpbmssIHN1cGVyaW9yOyBpdGNoaW5nIHBvd2RlcjsgbGlxdWlkIGljZTsgbWVuZGluZyBwYXN0ZTsgcGFkemFocjsgcGVsbGV0IGdyZW5hZGU7IHNreXJvY2tldCBmaXJld29yazsgc21lbGxpbmcgc2FsdHM7IHNuZWV6aW5nIHBvd2Rlcjsgc3RhcmZvdW50YWluIGZpcmV3b3JrOyBzdW5yb2Q7IHRhbmdsZWZvb3QgYmFnOyB0aHVuZGVyc3RvbmU7IHR3aXRjaCB0b25pYzsgd2VhcG9uIGJsYW5jaCwgYWRhbWFudGluZS4gPGJyIC8+PGJyIC8+PGI+TXVuZGFuZSBJdGVtczwvYj46IENsb2Nrcywgb3RoZXIgaW50cmljYXRlIGl0ZW1zLiA8YnIgLz48YnIgLz48Yj5UcmFwczwvYj46IEFsbCB0cmFwcyBDUiA24oCTMTAuIDxiciAvPjxiciAvPjxiPlZlaGljbGVzPC9iPjogR2FsbGV5LCBzYWlsaW5nIHNoaXAsIHdhcnNoaXAuIDxiciAvPjxiciAvPjxiPldlYXBvbnM8L2I+OiBBZHZhbmNlZCBmaXJlYXJtIGFtbXVuaXRpb24sIGFkdmFuY2VkIGZpcmVhcm1zLCBub25hbGNoZW1pY2FsIGFuZCBub25maXJlYXJtIHNpZWdlIHdlYXBvbnMuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xODM5Ij5WZXJ5IEludHJpY2F0ZSAoREMgMzApPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5YzI1P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1QYXRoZmluZGVyLVVuY2hhaW5lZCIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QYXRoZmluZGVyIFVuY2hhaW5lZCBwZy4gNzU8L2k+PC9hPjxiciAvPjxiPkFsY2hlbWljYWwgSXRlbXM8L2I+OiBCYW5zaGVlIGJhbGxlcmluYSBmaXJld29yaywgZmxhbWUgZm91bnRhaW4gZmlyZXdvcmssIHJ1c3RpbmcgcG93ZGVyLCBzb3VsIHN0aW11bGFudCwgdGFuZ2xlYnVybiBiYWcsIHRyb2xsIG9pbC4gPGJyIC8+PGJyIC8+PGI+VHJhcHM8L2I+OiBBbGwgdHJhcHMgQ1IgMTHigJMxNS4gPGJyIC8+PGJyIC8+PGI+VmVoaWNsZXM8L2I+OiBBaXJzaGlwLiA8YnIgLz48YnIgLz48Yj5XZWFwb25zPC9iPjogQWxjaGVtaWNhbCBzaWVnZSBlbmdpbmVzLCBzaWVnZSBmaXJlYXJtcy48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE4NDAiPkV4dHJlbWVseSBJbnRyaWNhdGUgKERDIDM1KTwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWMyNT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtUGF0aGZpbmRlci1VbmNoYWluZWQiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UGF0aGZpbmRlciBVbmNoYWluZWQgcGcuIDc1PC9pPjwvYT48YnIgLz48Yj5UcmFwczwvYj46IEFsbCB0cmFwcyBDUiAxNisuIDxiciAvPjxiciAvPjxiPlZlaGljbGVzPC9iPjogQWxjaGVtaWNhbCBkcmFnb24sIHN0ZWFtIGdpYW50LmRkZLEsRRB2DMvJA1KMrJMJs3WdjgH7EoMeF4s9B8tHUXhz" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1725">Pathfinder Unchained</a></u> / <u><a href="Rules.aspx?ID=1829">Alternate Crafting and Profession Rules</a></u> / <u><a href="Rules.aspx?ID=1830">Crafting</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=1831">Alternate Crafting Rules</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 72</i></a><br />While the rules for crafting in the <i>Core Rulebook</i> are perfectly suitable for the needs of most campaigns, they can sometimes be cumbersome to use. Those rules assume that a character spends a full week crafting an item. They also involve complex multiplication to determine the degree of success and speed with which the item can be crafted. Not only are these rules significantly different from those for other skill checks, but they can slow down play at the table and give rise to strange circumstances where it takes an unreasonably long time to create relatively simple items that happen to have a high gold piece cost. Furthermore, while the system features rules for attempting daily checks, these rules can be cumbersome for players.<br /><br /> The following system presents crafting rules that are a little easier to use, especially in conjunction with the <a style="text-decoration:underline" href="Rules.aspx?Name=Downtime&Category=Gamemastering">downtime system</a>.<br /><br /> With this alternative system, use the following version of the Craft skill instead of the one presented in the <i>Core Rulebook</i>.<br /><h1 class="title"><a href="Rules.aspx?ID=1832">Craft (Int)</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 72</i></a><br />You are skilled in the creation of a specific group of items, such as armor or weapons. Like Knowledge, Perform, and Profession, Craft is actually a number of separate skills. You could have several Craft skills, each with its own ranks. The most common Craft skills are alchemy, armor, baskets, books, bows, calligraphy, carpentry, cloth, clothing, glass, jewelry, leather, locks, paintings, pottery, sculptures, ships, shoes, stonemasonry, traps, and weapons.<br /><br /> A Craft skill is specifically focused on creating something. If an endeavor does not result in a created product, it probably falls under the heading of a Profession skill. <br /><br /><b>Check</b>: You can practice your trade and make a decent living, earning your check result in silver pieces per day. You know how to use the tools of your trade, how to perform the craft’s daily tasks, how to supervise untrained helpers, and how to handle common problems. (Untrained laborers and assistants earn an average of 1 silver piece per day.)<br /><br /> The basic function of the Craft skill, however, is to make an item of the appropriate type. Most items created with a Craft skill fall into one of several broad categories of complexity. Others have Craft DCs based on CR (in the case of traps) or on the Fortitude saves required to avoid or minimize their effects (in the case of poisons).<br /><br /> Before crafting an item, you must have tools and an appropriate workshop or area. If you don’t have access to artisan tools, you can still attempt a Craft check, but you take a –2 penalty when attempting a check without such tools or with improvised tools. If you have masterwork artisan tools, you gain a +2 circumstance bonus on the skill check.<br /><br /> After you have a suitable area to craft and you’ve gathered your tools, you must then acquire raw materials whose value is equal to 1/4 the cost of the item or items you wish to craft. Given the necessary tools, materials, and workspace, you can attempt a Craft check of the appropriate DC each day. If you succeed, you make an amount of progress equal to the silver piece or gold piece value listed in the appropriate entry in the Base Progress per Day column of Table 2–4: Crafting DCs and Progress Values. If you exceed the DC by at least 5, your progress doubles. If you exceed the DC by at least 10, your progress triples, if you exceed it by at least 15, you quadruple your progress, and so on. When your total progress equals the cost of the item, that item is completed. Any remaining progress can be applied to a similar item; otherwise, all excess progress is lost.<br /><br /> If you fail the check, no progress is made that day. If you fail the check by 5 or more, you waste an amount of your raw materials equal to the item’s base progress per day, up to a maximum of the initial cost of the raw materials. Such wasted material must be replenished before you can continue crafting the item.<br /><br /> <i>Setting Aside Crafting Items</i>: As long as you can store an item in a secure and safe place, you can set aside an item that you began crafting and return to it again later with little or no effect. Your GM may rule that this is not possible, especially in the case of volatile alchemical items or perishable goods. <br /><br /><i>Crafting Masterwork and Special Material Items</i>: When you’re crafting a masterwork item or an item made of a special material, its crafting difficulty increases by one step. For example, a longsword (which has a base difficulty of normal) is considered a complex item when crafted as a masterwork item (DC 20; 4 gp base progress per day). In the case of items crafted from special materials that also count as masterwork (such as adamantine armor and weapons), the complexity of the item increases by two steps. <br /><br /><i>Repairing Items</i>: You can use the appropriate Craft skill to repair items of that type. Repairing an item with the broken condition or that has taken damage (or both) requires tools and a work area, and you must pay 1/10 the item’s cost in raw materials. Repairing an item has the same DC as crafting the item, but takes an amount of time based on the item’s complexity. Extremely simple items take an hour to repair. Simple and normal items take 1d4 hours to repair. Complex and intricate items take a day to repair, and all other items take 1d4 days to repair. <br /><br /> <h2>Table 2-4: Crafting DCs and Progress Values</h2> <table class="inner"> <tr><td><b>Crafting Difficulty</b></td><td><b>Craft DC</b></td><td><b>Base Progress per Day</b></td></tr> <tr><td>Extremely simple</td><td>DC 5</td><td>5 sp</td></tr> <tr><td>Simple</td><td>DC 10</td><td>1 gp</td></tr> <tr><td>Normal</td><td>DC 15</td><td>2 gp</td></tr> <tr><td>Complex</td><td>DC 20</td><td>4 gp</td></tr> <tr><td>Intricate</td><td>DC 25</td><td>8 gp</td></tr> <tr><td>Very intricate</td><td>DC 30</td><td>16 gp</td></tr> <tr><td>Extremely intricate</td><td>DC 35</td><td>32 gp</td></tr> <tr><td>Poisons</td><td>DC = the Fortitude DC of the poison</td><td>32 gp</td></tr> <tr><td>Traps</td><td>Based on complexity, see text</td><td>32 gp</td></tr> </table><br /><h1 class="title"><a href="Rules.aspx?ID=1833">Item Crafting Difficulties</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 73</i></a><br />The following are the categories of crafting difficulties and the items within those categories. The items are split into general categories. Alchemical items and poisons require Craft (alchemy) checks. Armor and shields require Craft (armor) checks. Weapons require Craft (weapons) checks for melee weapons, thrown weapons, nonsiege firearms, crossbows, or crossbow bolts; Craft (bows) checks for bows or arrows; Craft (alchemy) checks for firearm ammunition; and Craft (siege engines) checks for all forms of siege engines. The Craft checks for mundane items depend on the item being crafted, with the most common ones being baskets, books, calligraphy, carpentry, cloth, clothing, glass, jewelry, leather, locks, paintings, pottery, sculptures, shoes, and stonemasonry. Crafting vehicles requires Craft (carpentry) for most land-based vehicles, Craft (ships) for seaborne vessels and airships, and Craft (alchemy) for alchemical dragons and steam giants. Crafting traps requires Craft (traps).<br /><h1 class="title"><a href="Rules.aspx?ID=1834">Extremely Simple (DC 5)</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 73</i></a><br /><b>Alchemical Items</b>: Casting plaster. <br /><br /><b>Mundane Items</b>: Very simple items such as wooden spoons, other carved one-piece items. <br /><br /><b>Weapons</b>: Manufactured clubs, quarterstaffs, slings.<br /><h1 class="title"><a href="Rules.aspx?ID=1835">Simple (DC 10)</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 73</i></a><br /><b>Alchemical Items</b>: Light detector. <br /><br /><b>Armor</b>: Light armor, wooden shields. <br /><br /><b>Mundane Items</b>: Typical household items such as iron pots. <br /><br /><b>Vehicles</b>: Cart, raft. <br /><br /><b>Weapons</b>: Simple weapons (except crossbows).<br /><h1 class="title"><a href="Rules.aspx?ID=1836">Normal (DC 15)</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 73</i></a><br /><b>Alchemical Items</b>: Acid; alchemical cement; alchemical grease; armor ointment; bladeguard; buoyant balloon; chill cream; glowing ink; invisible ink, simple; keros oil; liquid blade; marker dye; soothe syrup; water purification sponge. <br /><br /><b>Armor</b>: Medium armor, steel shields. <br /><br /><b>Mundane Items</b>: Most adventuring gear. <br /><br /><b>Vehicles</b>: Chariot, light; chariot, medium; chariot, heavy; rowboat; sleigh; wagon, light; wagon, medium; wagon, heavy. <br /><br /><b>Weapons</b>: Martial weapons and crossbows.<br /><h1 class="title"><a href="Rules.aspx?ID=1837">Complex (DC 20)</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 73</i></a><br /><b>Alchemical Items</b>: Alchemical glue; alchemical solvent; alchemist’s fire; alchemist’s kindness; alkali flask; blackfire clay; candlerod; flash powder; foaming powder; ghast retch flask; impact foam ; invisible ink, average; invisible ink, good; meditation tea; nushadir; paper candle firework; scent cloak; shard gel; smoke pellet; smokestick; star candle firework; tindertwig; vermin repellent; weapon blanch, cold iron; weapon blanch, silver; wismuth salix. <br /><br /><b>Armor</b>: Heavy armor. <br /><br /><b>Mundane Items</b>: Jewelry, kits, locks, complicated adventuring gear. <br /><br /><b>Traps</b>: All traps CR 1–5. <br /><br /><b>Vehicles</b>: Carriage, glider, keelboat, longship. <br /><br /><b>Weapons</b>: Early firearm ammunition, early one-handed firearms, early two-handed firearms, exotic weapons.<br /><h1 class="title"><a href="Rules.aspx?ID=1838">Intricate (DC 25)</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 74</i></a><br /><b>Alchemical Items</b>: Alchemical glue accelerant; antiplague; antitoxin; bloodblock; bottled lightning; burst jar; defoliant; embalming fluid; fire ward gel; frost ward gel; fuse grenade; invisible ink, superior; itching powder; liquid ice; mending paste; padzahr; pellet grenade; skyrocket firework; smelling salts; sneezing powder; starfountain firework; sunrod; tanglefoot bag; thunderstone; twitch tonic; weapon blanch, adamantine. <br /><br /><b>Mundane Items</b>: Clocks, other intricate items. <br /><br /><b>Traps</b>: All traps CR 6–10. <br /><br /><b>Vehicles</b>: Galley, sailing ship, warship. <br /><br /><b>Weapons</b>: Advanced firearm ammunition, advanced firearms, nonalchemical and nonfirearm siege weapons.<br /><h1 class="title"><a href="Rules.aspx?ID=1839">Very Intricate (DC 30)</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 75</i></a><br /><b>Alchemical Items</b>: Banshee ballerina firework, flame fountain firework, rusting powder, soul stimulant, tangleburn bag, troll oil. <br /><br /><b>Traps</b>: All traps CR 11–15. <br /><br /><b>Vehicles</b>: Airship. <br /><br /><b>Weapons</b>: Alchemical siege engines, siege firearms.<br /><h1 class="title"><a href="Rules.aspx?ID=1840">Extremely Intricate (DC 35)</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 75</i></a><br /><b>Traps</b>: All traps CR 16+. <br /><br /><b>Vehicles</b>: Alchemical dragon, steam giant.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

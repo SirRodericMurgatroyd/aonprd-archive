@@ -1,0 +1,288 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Bargaining - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Bargaining" /><meta name="description" content="An item is worth only what someone will pay for it. To an art collector, a canvas covered in daubs of random paint may be a masterpiece; a priestess might believe a weathered jawbone is a holy relic of a saint. The rules presented here offer you a way of playing through the process of selling off goods brought up from a crypt, liberated from a baron’s bedchamber, or plundered from a dragon’s vault. They also enable players to establish contacts with local fences, launderers, antiquarians, and obsessive collectors." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=1339" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWYbTx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTMyNiI+Q2FtcGFpZ24gU3lzdGVtczwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xMzM5Ij5CYXJnYWluaW5nPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk4eDY0P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1VbHRpbWF0ZS1DYW1wYWlnbg0KIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlVsdGltYXRlIENhbXBhaWduIHBnLiAxMzg8L2k+PC9hPjxiciAvPkFuIGl0ZW0gaXMgd29ydGggb25seSB3aGF0IHNvbWVvbmUgd2lsbCBwYXkgZm9yIGl0LiBUbyBhbiBhcnQgY29sbGVjdG9yLCBhIGNhbnZhcyBjb3ZlcmVkIGluIGRhdWJzIG9mIHJhbmRvbSBwYWludCBtYXkgYmUgYSBtYXN0ZXJwaWVjZTsgYSBwcmllc3Rlc3MgbWlnaHQgYmVsaWV2ZSBhIHdlYXRoZXJlZCBqYXdib25lIGlzIGEgaG9seSByZWxpYyBvZiBhIHNhaW50LiBUaGUgcnVsZXMgcHJlc2VudGVkIGhlcmUgb2ZmZXIgeW91IGEgd2F5IG9mIHBsYXlpbmcgdGhyb3VnaCB0aGUgcHJvY2VzcyBvZiBzZWxsaW5nIG9mZiBnb29kcyBicm91Z2h0IHVwIGZyb20gYSBjcnlwdCwgbGliZXJhdGVkIGZyb20gYSBiYXJvbuKAmXMgYmVkY2hhbWJlciwgb3IgcGx1bmRlcmVkIGZyb20gYSBkcmFnb27igJlzIHZhdWx0LiBUaGV5IGFsc28gZW5hYmxlIHBsYXllcnMgdG8gZXN0YWJsaXNoIGNvbnRhY3RzIHdpdGggbG9jYWwgZmVuY2VzLCBsYXVuZGVyZXJzLCBhbnRpcXVhcmlhbnMsIGFuZCBvYnNlc3NpdmUgY29sbGVjdG9ycy48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTEzNDAiPlZhbHVhdGlvbjwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OHg2ND9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtVWx0aW1hdGUtQ2FtcGFpZ24NCiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5VbHRpbWF0ZSBDYW1wYWlnbiBwZy4gMTM4PC9pPjwvYT48YnIgLz5UaGUgQXBwcmFpc2Ugc2tpbGwgYWxsb3dzIGEgY2hhcmFjdGVyIHRvIGFjY3VyYXRlbHkgdmFsdWUgYW4gb2JqZWN0LiBIb3dldmVyLCB0aGUgZmluZSBhcnRzIG9mIHRoZSBqZXdlbGVyLCBhbnRpcXVhcmlhbiwgYW5kIGJpYmxpb3BoaWxlIGFyZSBjb21wbGV4LiBWYWx1YWJsZSBwYWludGluZ3MgbWF5IGJlIGNvbmNlYWxlZCBieSBncmltZSwgYW5kIGJvb2tzIG9mIGluY3JlZGlibGUgcmFyaXR5IG1heSBiZSBib3VuZCBpbiB0YXR0ZXJlZCBsZWF0aGVyIGNvdmVycy4gQmVjYXVzZSBmYWlsdXJlIG1lYW5zIGFuIGluYWNjdXJhdGUgZXN0aW1hdGUsIHRoZSBHTSBzaG91bGQgYXR0ZW1wdCB0aGlzIHNraWxsIGNoZWNrIGluIHNlY3JldC48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTEzNDEiPkJhcmdhaW5pbmcgUnVsZXM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTh4NjQ/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVVsdGltYXRlLUNhbXBhaWduDQoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+VWx0aW1hdGUgQ2FtcGFpZ24gcGcuIDEzODwvaT48L2E+PGJyIC8+PGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlJ1bGVzLmFzcHg/TmFtZT1TZWxsaW5nJTIwVHJlYXN1cmUmQ2F0ZWdvcnk9V2VhbHRoJTIwYW5kJTIwTW9uZXkiPkluIGdlbmVyYWwsIGEgY2hhcmFjdGVyIGNhbiBzZWxsIGFuIGl0ZW0gZm9yIGhhbGYgaXRzIGxpc3RlZCBwcmljZTwvYT4uIFRoaXMga2VlcHMgcGxheWVycyBmcm9tIGdldHRpbmcgYm9nZ2VkIGRvd24gaW4gYmFyZ2FpbmluZyB3aXRoIE5QQ3Mgb3ZlciAxMCBncCBvbiBhIDEwLDAwMCBncCBpdGVtLCBhbmQgbWFpbnRhaW5zIGdhbWUgYmFsYW5jZSBieSBub3QgYWxsb3dpbmcgcGxheWVycyB0byB1c2UgYmFyZ2FpbmluZyB0byBleGNlZWQgdGhlIFdlYWx0aCBieSBMZXZlbCBndWlkZWxpbmVzIGJ5IGJ1eWluZyBsb3cgYW5kIHNlbGxpbmcgaGlnaC4gVGhlIOKAnHNlbGwgZm9yIGhhbGYg4oCdIHJ1bGUgYWxsb3dzIGEgZmFpciBwcmljZSBmb3Igc3RhbmRhcmQgaXRlbXMgaW4gbm9ybWFsIGNpcmN1bXN0YW5jZXMuPGJyIC8+PGJyIC8+IEZvciByYXJlIG9yIHVuaXF1ZSBpdGVtcywgb3IgaW4gY2VydGFpbiBjYXNlcywgdGhlIEdNIG1pZ2h0IGFsbG93IG9yIGVuY291cmFnZSBiYXJnYWluaW5nLiBLZWVwIGluIG1pbmQgdGhhdCBiYXJnYWluaW5nIHVzdWFsbHkgaW52b2x2ZXMgb25lIFBDIHRhbGtpbmcgd2l0aCBhbiBOUEMgd2hpbGUgdGhlIG90aGVyIHBsYXllcnMgd2FpdCwgYW5kIHdhdGNoaW5nIHNvbWVvbmUgZWxzZSBiYXJnYWluIGlzIHJhcmVseSBpbnRlcmVzdGluZy4gQmFyZ2FpbmluZyBzaG91bGQgYmUgaW5mcmVxdWVudCwgYW5kIHNob3VsZCBoYXBwZW4gb25seSB3aGVuIGl04oCZcyBpbXBvcnRhbnQgdG8gdGhlIHN0b3J5LjxiciAvPjxiciAvPiBCeSB1c2luZyB0aGUgcnVsZXMgZm9yIGJhcmdhaW5pbmcsIHlvdSBnaXZlIHVwIHNvbWUgY29udHJvbCBvdmVyIHlvdXIgUEPigJlzIGRlY2lzaW9ucyBhbmQgYWNjZXB0IHRoZSByaXNrIG9mIHRoZSBkZWFsIGZhbGxpbmcgdGhyb3VnaCB0byBnYWluIHRoZSBjaGFuY2Ugb2YgZ2V0dGluZyBhIGJldHRlciBwcmljZS48YnIgLz48aDIgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTEzNDIiPlN0ZXAgMTogU2VsbGVyIFNldHMgdGhlIEFza2luZyBQcmljZTwvYT48L2gyPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OHg2ND9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtVWx0aW1hdGUtQ2FtcGFpZ24NCiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5VbHRpbWF0ZSBDYW1wYWlnbiBwZy4gMTM4PC9pPjwvYT48YnIgLz5QcmljZSBUaGUgc2VsbGVyIHN1Z2dlc3RzIGEgcHJpY2UgdG8gdGhlIGJ1eWVyLiBJZiB0aGUgQXNraW5nIFByaWNlIGlzIG1vcmUgdGhhbiAxNTAlIG9mIHRoZSBpdGVt4oCZcyBhY3R1YWwgdmFsdWUsIHRoZSBidXllciBzaW1wbHkgcmVmdXNlcyB0byBiYXJnYWluLiBUaGUgbG93ZXN0IGFtb3VudCB0aGUgc2VsbGVyIHdpbGwgYWNjZXB0IGlzIDc1JSBvZiB0aGlzIEFza2luZyBQcmljZS48YnIgLz48YnIgLz48YnIgLz48aDIgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTEzNDMiPlN0ZXAgMjogRXZhbHVhdGUgSXRlbTwvYT48L2gyPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OHg2ND9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtVWx0aW1hdGUtQ2FtcGFpZ24NCiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5VbHRpbWF0ZSBDYW1wYWlnbiBwZy4gMTM4PC9pPjwvYT48YnIgLz5UaGUgYnV5ZXIgY2hvb3NlcyB0byBhdHRlbXB0IGVpdGhlciBhbiBBcHByYWlzZSBjaGVjayB0byBlc3RpbWF0ZSB0aGUgaXRlbeKAmXMgdmFsdWUgb3IgYSBTZW5zZSBNb3RpdmUgY2hlY2sgb3Bwb3NlZCBieSB0aGUgc2VsbGVy4oCZcyBCbHVmZiBjaGVjayAod2l0aCBmYWlsdXJlIG1lYW5pbmcgdGhlIGJ1eWVyIGJlbGlldmVzIHRoZSBzZWxsZXIgaXMgYmVpbmcgZmFpcikuIElmIHRoZSBzZWxsZXLigJlzIHByaWNlIGlzIHRoZSBzYW1lIGFzIHRoZSBidXllcuKAmXMgZXN0aW1hdGlvbiBvZiB0aGUgaXRlbeKAmXMgdmFsdWUsIG5vIFNlbnNlIE1vdGl2ZSBjaGVjayBpcyBuZWVkZWQgYW5kIHRoZSBidXllciBiZWxpZXZlcyB0aGUgc2VsbGVyLjxiciAvPjxiciAvPiBBIGdyb3VwIG9mIGl0ZW1zIGNhbiBiZSBzb2xkIGFzIGEgdW5pdC4gSWYgdGhlIGJ1eWVyIGlzIGRlYWxpbmcgd2l0aCBhIG1peCBvZiBpdGVtcyBzaGUgY2FuIGFwcHJhaXNlIGFuZCBvdGhlcnMgc2hlIGNhbiBvbmx5IGd1ZXNzIGFib3V0LCBzaGUgdXNlcyBlaXRoZXIgQXBwcmFpc2Ugb3IgU2Vuc2UgTW90aXZlLCBkZXBlbmRpbmcgb24gd2hpY2ggc2hlIGhhcyBtb3JlIHNraWxsIHJhbmtzIGluLjxiciAvPjxiciAvPiBUaGUgR00gY2FuIGFsbG93IGEgUEMgdG8gc3Vic3RpdHV0ZSBhbiBhcHByb3ByaWF0ZSBLbm93bGVkZ2Ugc2tpbGwgZm9yIEFwcHJhaXNlIG9yIFNlbnNlIE1vdGl2ZSwgc3VjaCBhcyBLbm93bGVkZ2UgKGFyY2FuYSkgZm9yIHNlbGxpbmcgYSByYXJlIGJvb2sgYWJvdXQgbWFnaWMuIEhlIG1heSBhbHNvIGFzc2lnbiBtb2RpZmllcnMgdG8gc2tpbGwgY2hlY2tzIHRvIHJlZmxlY3QgZXhwZXJ0aXNlIG9yIGlnbm9yYW5jZSBhYm91dCBhIHNwZWNpZmljIHR5cGUgb2YgaXRlbSwgZ29vZCByb2xlcGxheWluZywgb3IgaW5zdWx0aW5nIGJlaGF2aW9yIHRvd2FyZCBhbiBOUEMgYnV5ZXIgb3Igc2VsbGVyLjxiciAvPjxoMiBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTM0NCI+U3RlcCAzOiBEZXRlcm1pbmUgVW5kZXJjdXQ8L2E+PC9oMj48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTh4NjQ/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVVsdGltYXRlLUNhbXBhaWduDQoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+VWx0aW1hdGUgQ2FtcGFpZ24gcGcuIDEzODwvaT48L2E+PGJyIC8+VGhlIFVuZGVyY3V0IFBlcmNlbnRhZ2UgaXMgYSBwb3J0aW9uIG9mIHRoZSBpdGVt4oCZcyBwcmljZSBvciB2YWx1ZSB1c2VkIHRvIGRldGVybWluZSB0aGUgYnV5ZXLigJlzIEluaXRpYWwgYW5kIEZpbmFsIE9mZmVycy48YnIgLz48YnIgLz4gVG8gZGV0ZXJtaW5lIHRoZSBVbmRlcmN1dCBQZXJjZW50YWdlLCBoYXZlIHRoZSBidXllciBhdHRlbXB0IGEgQmx1ZmYgY2hlY2sgb3Bwb3NlZCBieSB0aGUgc2VsbGVy4oCZcyBTZW5zZSBNb3RpdmUgY2hlY2suIFRoZSBVbmRlcmN1dCBQZXJjZW50YWdlIGlzIDIlLCBwbHVzIDElIGZvciBldmVyeSBwb2ludCBieSB3aGljaCB0aGUgQmx1ZmYgY2hlY2sgZXhjZWVkcyB0aGUgU2Vuc2UgTW90aXZlIGNoZWNrIChtaW5pbXVtIDAlKS48YnIgLz48aDIgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTEzNDUiPlN0ZXAgNDpTZXQgT2ZmZXJzPC9hPjwvaDI+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk4eDY0P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1VbHRpbWF0ZS1DYW1wYWlnbg0KIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlVsdGltYXRlIENhbXBhaWduIHBnLiAxMzg8L2k+PC9hPjxiciAvPlRoZSBJbml0aWFsIE9mZmVyIGlzIHRoZSBidXllcuKAmXMgZmlyc3QgY291bnRlcm9mZmVyIHRvIHRoZSBzZWxsZXLigJlzIEFza2luZyBQcmljZS48YnIgLz48YnIgLz4gVGhlIEZpbmFsIE9mZmVyIGlzIHRoZSBsYXJnZXN0IGFtb3VudCB0aGUgYnV5ZXIgaXMgd2lsbGluZyB0byBwYXkuIFRob3VnaCB0aGUgc2VsbGVyIGFuZCBidXllciBuZWdvdGlhdGUgYmFjayBhbmQgZm9ydGgsIHRoZSBidXllciB3b27igJl0IGV4Y2VlZCB0aGlzIG9mZmVyLiBGb3IgZXhhbXBsZSwgaWYgdGhlIHNlbGxlcuKAmXMgQXNraW5nIFByaWNlIGlzIDEsMDAwIGdwLCB0aGUgYnV5ZXLigJlzIEluaXRpYWwgT2ZmZXIgbWF5IGJlIDgwMCBncCBhbmQgdGhlIEZpbmFsIE9mZmVyIDkwMCBncC4gVGhlc2Ugb2ZmZXJzIGFyZSBkZXRlcm1pbmVkIGJ5IGhvdyBtdWNoIHRoZSBidXllciB0aGlua3MgdGhlIGl0ZW0gaXMgd29ydGggY29tcGFyZWQgdG8gdGhlIHNlbGxlcuKAmXMgQXNraW5nIFByaWNlLiBGPGJyIC8+PGJyIC8+PGI+YWlyIChBcHByYWlzZSBvciBTZW5zZSBNb3RpdmUpPC9iPjogSWYgdGhlIHNlbGxlcuKAmXMgQXNraW5nIFByaWNlIGlzIGxlc3MgdGhhbiBvciBlcXVhbCB0byB0aGUgYW1vdW50IHRoYXQgdGhlIGJ1eWVyIHRoaW5rcyB0aGUgaXRlbSBpcyB3b3J0aCwgc3VidHJhY3QgdGhlIFVuZGVyY3V0IFBlcmNlbnRhZ2UgZnJvbSB0aGUgc2VsbGVy4oCZcyBwcmljZSB0byBnZXQgdGhlIEZpbmFsIE9mZmVyLCBhbmQgc3VidHJhY3QgMiDDlyB0aGUgVW5kZXJjdXQgUGVyY2VudGFnZSB0byBnZXQgdGhlIEluaXRpYWwgT2ZmZXIuIDxiciAvPjxiciAvPjxiPlVuZmFpciAoQXBwcmFpc2UpPC9iPjogSWYgdGhlIHJlc3VsdCBvZiB0aGUgYnV5ZXLigJlzIEFwcHJhaXNlIGNoZWNrIGxlYWRzIGhlciB0byBiZWxpZXZlIHRoZSBpdGVtIGlzIHdvcnRoIGxlc3MgdGhhbiB0aGUgc2VsbGVy4oCZcyBBc2tpbmcgUHJpY2UsIHN1YnRyYWN0IHRoZSBVbmRlcmN1dCBQZXJjZW50YWdlIGZyb20gdGhlIGJ1eWVy4oCZcyBlc3RpbWF0ZSBvZiB0aGUgaXRlbeKAmXMgdmFsdWUgdG8gZ2V0IHRoZSBGaW5hbCBPZmZlciwgYW5kIHN1YnRyYWN0IDIgw5cgdGhlIFVuZGVyY3V0IFBlcmNlbnRhZ2UgdG8gZ2V0IHRoZSBJbml0aWFsIE9mZmVyLiA8YnIgLz48YnIgLz48Yj5VbmZhaXIgKFNlbnNlIE1vdGl2ZSk8L2I+OiBJZiB0aGUgcmVzdWx0IG9mIHRoZSBidXllcuKAmXMgQXBwcmFpc2UgY2hlY2sgbGVhZHMgaGVyIHRvIGJlbGlldmUgdGhlIHNlbGxlcuKAmXMgQXNraW5nIFByaWNlIGlzIHRvbyBoaWdoLCBzdWJ0cmFjdCAyIMOXIHRoZSBVbmRlcmN1dCBQZXJjZW50YWdlIGZyb20gdGhlIHNlbGxlcuKAmXMgQXNraW5nIFByaWNlIHRvIGdldCB0aGUgRmluYWwgT2ZmZXIsIGFuZCBzdWJ0cmFjdCA0IMOXIHRoZSBVbmRlcmN1dCBQZXJjZW50YWdlIHRvIGdldCB0aGUgSW5pdGlhbCBPZmZlci48YnIgLz48aDIgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTEzNDYiPlN0ZXAgNTogQmFyZ2FpbjwvYT48L2gyPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OHg2ND9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtVWx0aW1hdGUtQ2FtcGFpZ24NCiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5VbHRpbWF0ZSBDYW1wYWlnbiBwZy4gMTM5PC9pPjwvYT48YnIgLz5UaGUgYnV5ZXIgYmVnaW5zIGJhcmdhaW5pbmcgYnkgY291bnRlcmluZyB0aGUgc2VsbGVy4oCZcyBwcmljZSB3aXRoIGhlciBJbml0aWFsIE9mZmVyLiBUaGlzIHN0ZXAgcmVwZWF0cyB1bnRpbCB0aGUgYnV5ZXIgYW5kIHNlbGxlciBhZ3JlZSBvbiBhIHByaWNlIG9yIG9uZSBzaWRlIGVuZHMgbmVnb3RpYXRpb25zLiA8Yj5Db3VudGVyb2ZmZXIgSXMgTGVzcyBUaGFuIEZpbmFsIE9mZmVyPC9iPjogSWYgdGhlIHNlbGxlciBjb3VudGVycyB3aXRoIGEgcHJpY2UgdGhhdCBpcyBsZXNzIHRoYW4gdGhlIGJ1eWVy4oCZcyBGaW5hbCBPZmZlciwgaGF2ZSB0aGUgc2VsbGVyIGF0dGVtcHQgYSBEaXBsb21hY3kgY2hlY2sgKERDIDE1ICsgdGhlIGJ1eWVy4oCZcyBDaGFyaXNtYSBtb2RpZmllcikuIFN1Y2Nlc3MgbWVhbnMgdGhlIGJ1eWVyIGFjY2VwdHMgdGhlIHNlbGxlcuKAmXMgY291bnRlcm9mZmVyIGFuZCBidXlzIHRoZSBpdGVtLiBGYWlsdXJlIG1lYW5zIHRoZSBidXllciBob2xkcyBhdCBoZXIgSW5pdGlhbCBPZmZlci4gVGhlIHNlbGxlciBjYW4gdHJ5IGFnYWluLCBidXQgdGhlIERpcGxvbWFjeSBjaGVjayBEQyBpbmNyZWFzZXMgYnkgNSB1bmxlc3MgdGhlIHNlbGxlciBsb3dlcnMgaGlzIHByaWNlLiA8Yj5Db3VudGVyb2ZmZXIgRXF1YWxzIEZpbmFsIE9mZmVyPC9iPjogSWYgdGhlIHNlbGxlciBjb3VudGVycyB3aXRoIGEgcHJpY2UgdGhhdCBpcyB0aGUgc2FtZSBhcyB0aGUgYnV5ZXLigJlzIEZpbmFsIE9mZmVyLCBoYXZlIHRoZSBzZWxsZXIgYXR0ZW1wdCBhIERpcGxvbWFjeSBjaGVjayAoMjAgKyB0aGUgYnV5ZXLigJlzIENoYXJpc21hIG1vZGlmaWVyKS4gU3VjY2VzcyBtZWFucyB0aGUgYnV5ZXIgYWNjZXB0cyB0aGUgc2VsbGVy4oCZcyBjb3VudGVyb2ZmZXIgYW5kIGJ1eXMgdGhlIGl0ZW0uIEZhaWx1cmUgbWVhbnMgdGhlIGJ1eWVyIGNvdW50ZXJvZmZlcnMgYXQgYSBwcmljZSBiZXR3ZWVuIHRoZSBJbml0aWFsIE9mZmVyIGFuZCB0aGUgRmluYWwgT2ZmZXIuIFRoZSBzZWxsZXIgY2FuIHRyeSBhZ2FpbiwgYnV0IHRoZSBEaXBsb21hY3kgREMgaW5jcmVhc2VzIGJ5IDUgdW5sZXNzIHRoZSBzZWxsZXIgbG93ZXJzIGhpcyBwcmljZS4gPGI+Q291bnRlcm9mZmVyIEV4Y2VlZHMgRmluYWwgT2ZmZXI8L2I+OiBJZiB0aGUgc2VsbGVyIGNvdW50ZXJzIHdpdGggYSBwcmljZSBoaWdoZXIgdGhhbiB0aGUgYnV5ZXLigJlzIEZpbmFsIE9mZmVyLCBoYXZlIHRoZSBzZWxsZXIgYXR0ZW1wdCBhIERpcGxvbWFjeSBjaGVjayAoMjUgKyB0aGUgYnV5ZXLigJlzIENoYXJpc21hIG1vZGlmaWVyKS4gU3VjY2VzcyBtZWFucyB0aGUgYnV5ZXIgY291bnRlcm9mZmVycyBhdCBhIHByaWNlIGJldHdlZW4gdGhlIEluaXRpYWwgT2ZmZXIgYW5kIHRoZSBGaW5hbCBPZmZlci4gRmFpbHVyZSBtZWFucyB0aGUgYnV5ZXIgaG9sZHMgYXQgaGVyIEluaXRpYWwgT2ZmZXIuIEZhaWx1cmUgYnkgNSBvciBtb3JlIG1lYW5zIHRoZSBidXllciBpcyBpbnN1bHRlZCBhbmQgbG93ZXJzIGhlciBvZmZlciBvciByZWZ1c2VzIHRvIGRlYWwgd2l0aCB0aGUgc2VsbGVyLiBUaGUgc2VsbGVyIGNhbiB0cnkgYWdhaW4sIGJ1dCB0aGUgRGlwbG9tYWN5IERDIGluY3JlYXNlcyBieSA1IHVubGVzcyB0aGUgc2VsbGVyIGxvd2VycyBoaXMgcHJpY2UuPGJyIC8+PGgyIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xMzQ3Ij5FeGFtcGxlcyBvZiBCYXJnYWluaW5nPC9hPjwvaDI+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk4eDY0P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1VbHRpbWF0ZS1DYW1wYWlnbg0KIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlVsdGltYXRlIENhbXBhaWduIHBnLiAxMzk8L2k+PC9hPjxiciAvPk9yc2hvayBoYXMgYSBqZXdlbGVkIGlkb2wgd29ydGggMSw4MDAgZ3AgaGUgbWlzdGFrZW5seSBhcHByYWlzZWQgYXQgMiwwMDAgZ3AuIEhlIHRyaWVzIHRvIHNlbGwgaXQgdG8gYW4gYXJ0IGNvbGxlY3RvciBhdCBhbiBBc2tpbmcgUHJpY2Ugb2YgMiwyMDAgZ3AsIGtub3dpbmcgdGhlIGNvbGxlY3RvciB3aWxsIGNvdW50ZXIgd2l0aCBhIGxvd2VyIHByaWNlLiBUaGUgY29sbGVjdG9yIHN1Y2NlZWRzIGF0IGhlciBBcHByYWlzZSBjaGVjayBhbmQgcmVhbGl6ZXMgdGhlIGlkb2zigJlzIGFjdHVhbCB2YWx1ZS4gVGhlIGNvbGxlY3RvciBhdHRlbXB0cyBhIEJsdWZmIGNoZWNrIGFnYWluc3QgT3JzaG9r4oCZcyBTZW5zZSBNb3RpdmUgY2hlY2sgYW5kIHN1Y2NlZWRzIGJ5IDEsIHNvIGhlciBVbmRlcmN1dCBQZXJjZW50YWdlIGlzIDMlIChiYXNlIDIlIHBsdXMgMSUgZm9yIGV4Y2VlZGluZyB0aGUgY2hlY2sgYnkgMSkuIEJlY2F1c2UgdGhlIGNvbGxlY3RvciB0aGlua3MgdGhlIGlkb2wgaXMgd29ydGggbGVzcyB0aGFuIE9yc2hva+KAmXMgcHJpY2UsIGhlciBJbml0aWFsIE9mZmVyIGlzIDYlIGxlc3MgdGhhbiBoZXIgZXN0aW1hdGUgb2YgdGhlIHZhbHVlICgxLDY5MiBncCkgYW5kIGhlciBGaW5hbCBPZmZlciBpcyAzJSBsZXNzIHRoYW4gaGVyIGVzdGltYXRlICgxLDc0NiBncCkuIFdoZW4gc2hlIG1ha2VzIGhlciBJbml0aWFsIE9mZmVyLCBPcnNob2sgY291bnRlcnMgd2l0aCBhIHByaWNlIG9mIDIsMDAwIGdwLiBUaGlzIGlzIGhpZ2hlciB0aGFuIHRoZSBjb2xsZWN0b3LigJlzIEZpbmFsIE9mZmVyLCBzbyBPcnNob2sgYXR0ZW1wdHMgYSBEaXBsb21hY3kgY2hlY2sgd2hvc2UgREMgZXF1YWxzIDI1ICsgdGhlIGJ1eWVy4oCZcyBDaGFyaXNtYSBtb2RpZmllciB0byBrZWVwIHRoZSBidXllcuKAmXMgaW50ZXJlc3QuIEhlIHN1Y2NlZWRzIGF0IHRoZSBjaGVjaywgc28gdGhlIGJ1eWVyIGNvdW50ZXJvZmZlcnMgMSw3NDAgZ3AgKGJldHdlZW4gaGVyIEluaXRpYWwgYW5kIEZpbmFsIE9mZmVycykuIE9yc2hvayBkb2VzbuKAmXQgdGhpbmsgdGhlIGNvbGxlY3RvciB3aWxsIGdvIG11Y2ggaGlnaGVyLCBhbmQgZGVjaWRlcyB0byBmaW5kIGFub3RoZXIgYnV5ZXIuPGJyIC8+PGJyIC8+IExhdGVyLCBPcnNob2sgdHJpZXMgdG8gc2VsbCB0aGUgaWRvbCB0byBhIHNwaWNlIG1lcmNoYW50IHdobyBmaW5kcyBpdCBpbnRlcmVzdGluZyBidXQga25vd3Mgbm90aGluZyBhYm91dCBhcnQuIE9yc2hvayBhZ2FpbiBzdGFydHMgd2l0aCBhIHByaWNlIG9mIDIsMjAwIGdwLiBUaGUgbWVyY2hhbnTigJlzIFNlbnNlIE1vdGl2ZSBjaGVjayBiZWF0cyBPcnNob2vigJlzIEJsdWZmIGNoZWNrLCBzbyBzaGUgcmVhbGl6ZXMgaGUgaXNu4oCZdCBvZmZlcmluZyBhIGZhaXIgcHJpY2UuIFRoZSBtZXJjaGFudCBhdHRlbXB0cyBhIEJsdWZmIGNoZWNrIG9wcG9zZWQgYnkgT3JzaG9r4oCZcyBTZW5zZSBNb3RpdmUgY2hlY2sgYW5kIHN1Y2NlZWRzIGJ5IDQsIHdoaWNoIG1ha2VzIGhlciBVbmRlcmN1dCBQZXJjZW50YWdlIDYlIChiYXNlIDIlIHBsdXMgNCUgZm9yIGV4Y2VlZGluZyB0aGUgY2hlY2sgYnkgNCkuIFRoZSBtZXJjaGFudOKAmXMgSW5pdGlhbCBPZmZlciBpcyAxMiUgbGVzcyB0aGFuIE9yc2hva+KAmXMgcHJpY2UgKDEsOTM2IGdwKSwgYW5kIGhlciBGaW5hbCBPZmZlciBpcyA2JSBsZXNzIHRoYW4gT3JzaG9r4oCZcyBwcmljZSAoMiwwNjggZ3ApLiBPcnNob2sgY291bnRlcnMgd2l0aCBhIHByaWNlIG9mIDIsMDAwIGdwLiBUaGlzIGlzIGxlc3MgdGhhbiB0aGUgbWVyY2hhbnTigJlzIEZpbmFsIE9mZmVyLCBzbyBPcnNob2sgYXR0ZW1wdHMgYSBEaXBsb21hY3kgY2hlY2sgKERDIDE1ICsgdGhlIGJ1eWVy4oCZcyBDaGFyaXNtYSBtb2RpZmllcikuIEhlIHN1Y2NlZWRzLCBzbyB0aGUgbWVyY2hhbnQgYWNjZXB0cyBPcnNob2vigJlzIGNvdW50ZXJvZmZlciBhbmQgYnV5cyB0aGUgaXRlbSBmb3IgMiwwMDAgZ3AuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xMzQ4Ij5Vc2luZyBNYWdpYyB0byBCYXJnYWluPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk4eDY0P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1VbHRpbWF0ZS1DYW1wYWlnbg0KIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlVsdGltYXRlIENhbXBhaWduIHBnLiAxMzk8L2k+PC9hPjxiciAvPkFuIHVuc2NydXB1bG91cyBjaGFyYWN0ZXIgbWF5IHVzZSBtYWdpYyB0byBjaGFybSBvciBkdXBlIGJ1eWVycyBpbnRvIGFjY2VwdGluZyBpbmZsYXRlZCBwcmljZXMuIFNvbWV0aGluZyBhcyBzaW1wbGUgYXMgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPWNoYXJtIHBlcnNvbiI+PGk+Y2hhcm0gcGVyc29uPC9pPjwvYT4gY2FuIGFsdGVyIHRoZSBEaXBsb21hY3kgYW5kIFNlbnNlIE1vdGl2ZSBEQ3MgYnkgNSBpbiB0aGUgc3BlbGxjYXN0ZXLigJlzIGZhdm9yIGZvciBhbiBlbnRpcmUgbmVnb3RpYXRpb24sIGFuZCBhIHNwZWNpZmljIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1zdWdnZXN0aW9uIj48aT5zdWdnZXN0aW9uPC9pPjwvYT4gY2FuIGFsdGVyIHRoZSByZXN1bHQgb24gYSBzaW5nbGUgcm9sbCBieSAxMCBpbiB0aGUgY2FzdGVy4oCZcyBmYXZvci4gSWYgdGhlIGJ1eWVyIGxhdGVyIHJlYWxpemVzIHRoYXQgbWFnaWMgaW5mbHVlbmNlZCB0aGUgbmVnb3RpYXRpb24sIHNoZSBtYXkgcmVmdXNlIHRvIGRlYWwgd2l0aCB0aGUgc3BlbGxjYXN0ZXIgYW5kIGF0dGVtcHQgdG8gZ2V0IGhlciBtb25leSBiYWNrLCBvciBhdCBsZWFzdCByZXBvcnQgdGhlIHNwZWxsY2FzdGVyIHRvIHRoZSBsb2NhbCBhdXRob3JpdGllcy48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTEzNDkiPkNvbGxlY3RvciBOUENzPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk4eDY0P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1VbHRpbWF0ZS1DYW1wYWlnbg0KIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlVsdGltYXRlIENhbXBhaWduIHBnLiAxMzk8L2k+PC9hPjxiciAvPlRoZSBHTSBjYW4gZGVmaW5lIGEgZmV3IE5QQ3MgYXMgY29sbGVjdG9ycywgdHJhZGVycywgb3IgYW50aXF1YXJpYW5zIGludGVyZXN0ZWQgaW4gdW51c3VhbCBpdGVtcyBQQ3MgY29sbGVjdCBhZnRlciB0aGVpciBhZHZlbnR1cmVzLiBJZiB0aGUgUENzIGVzdGFibGlzaCBhbiBhbWlhYmxlIHJlbGF0aW9uc2hpcCB3aXRoIHRoZXNlIGNvbGxlY3RvcnMgb3ZlciB0aW1lLCB0aGUgR00gY2FuIHJlZHVjZSB0aGUgYmFzZSBVbmRlcmN1dCBQZXJjZW50YWdlIHRvIDElIG9yIGV2ZW4gMCUsIGVzcGVjaWFsbHkgaWYgdGhlIFBDc+KAmSBvZmZlcmluZ3MgY2F0ZXIgdG8gdGhlIE5QQ3PigJkgaW50ZXJlc3RzLiBMaWtld2lzZSwgUENzIG1heSBkZXZlbG9wIGJhZCBibG9vZCB3aXRoIG9uZSBvciBtb3JlIGJ1eWVyczsgc3VjaCBidXllcnPigJkgVW5kZXJjdXQgUGVyY2VudGFnZSBtYXkgcmlzZSB0byA1JSBvciBoaWdoZXIsIG9yIHRoZSBidXllcnMgbWF5IHJlZnVzZSB0byBiYXJnYWluIHdpdGggdGhlIFBDcyBhdCBhbGwuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xMzUwIj5GbG9vZGluZyB0aGUgTWFya2V0PC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk4eDY0P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1VbHRpbWF0ZS1DYW1wYWlnbg0KIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlVsdGltYXRlIENhbXBhaWduIHBnLiAxMzk8L2k+PC9hPjxiciAvPldoZW4gUENzIGF0dGVtcHQgdG8gc2VsbCBtdWx0aXBsZXMgb2YgYSBkdXJhYmxlIGdvb2QsIHRoZSBHTSBtYXkgbG93ZXIgdGhlIG9mZmVyZWQgcHJpY2VzIGJ5IDEwJSBvciBtb3JlIHRvIHJlZmxlY3QgbWFya2V0IHNhdHVyYXRpb24gaW4gdGhhdCBsb2NhdGlvbi4gRm9yIGV4YW1wbGUsIGEgYm9yZGVyIHRvd24gcGF0cm9sbGVkIGJ5IGd1YXJkcyB3aXRoIGNyb3NzYm93cyBjYW4gYWx3YXlzIHVzZSBtb3JlICsxIGJvbHRzLCBidXQgaGFzIGxpbWl0ZWQgdXNlIGZvciBhIHdhZ29ubG9hZCBvZiBtYXN0ZXJ3b3JrIHNwaWtlZCBjaGFpbnMsIHNvIHRoZSBJbml0aWFsIGFuZCBGaW5hbCBPZmZlcnMgZm9yIHRoZSBzcGlrZWQgY2hhaW5zIHdvdWxkIGJlIDEwJSBsb3dlci48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTEzNTEiPlRyYWRlIEdvb2RzPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk4eDY0P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1VbHRpbWF0ZS1DYW1wYWlnbg0KIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlVsdGltYXRlIENhbXBhaWduIHBnLiAxMzk8L2k+PC9hPjxiciAvPjxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJSdWxlcy5hc3B4P05hbWU9T3RoZXIlMjBXZWFsdGgmQ2F0ZWdvcnk9V2VhbHRoJTIwYW5kJTIwTW9uZXkiPlRyYWRlIGdvb2RzPC9hPiBhcmUgZXhlbXB0IGZyb20gYmFyZ2FpbmluZywgZXZlbiBpbiBleHRyYW9yZGluYXJ5IGNpcmN1bXN0YW5jZXMuZGRkdac0fNhwij/LQmZdWIbcHREh4niU5MpbD5ghFS0ADyU=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1326">Campaign Systems</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=1339">Bargaining</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 138</i></a><br />An item is worth only what someone will pay for it. To an art collector, a canvas covered in daubs of random paint may be a masterpiece; a priestess might believe a weathered jawbone is a holy relic of a saint. The rules presented here offer you a way of playing through the process of selling off goods brought up from a crypt, liberated from a baron’s bedchamber, or plundered from a dragon’s vault. They also enable players to establish contacts with local fences, launderers, antiquarians, and obsessive collectors.<br /><h1 class="title"><a href="Rules.aspx?ID=1340">Valuation</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 138</i></a><br />The Appraise skill allows a character to accurately value an object. However, the fine arts of the jeweler, antiquarian, and bibliophile are complex. Valuable paintings may be concealed by grime, and books of incredible rarity may be bound in tattered leather covers. Because failure means an inaccurate estimate, the GM should attempt this skill check in secret.<br /><h1 class="title"><a href="Rules.aspx?ID=1341">Bargaining Rules</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 138</i></a><br /><a style="text-decoration:underline" href="Rules.aspx?Name=Selling%20Treasure&Category=Wealth%20and%20Money">In general, a character can sell an item for half its listed price</a>. This keeps players from getting bogged down in bargaining with NPCs over 10 gp on a 10,000 gp item, and maintains game balance by not allowing players to use bargaining to exceed the Wealth by Level guidelines by buying low and selling high. The “sell for half ” rule allows a fair price for standard items in normal circumstances.<br /><br /> For rare or unique items, or in certain cases, the GM might allow or encourage bargaining. Keep in mind that bargaining usually involves one PC talking with an NPC while the other players wait, and watching someone else bargain is rarely interesting. Bargaining should be infrequent, and should happen only when it’s important to the story.<br /><br /> By using the rules for bargaining, you give up some control over your PC’s decisions and accept the risk of the deal falling through to gain the chance of getting a better price.<br /><h2 class="title"><a href="Rules.aspx?ID=1342">Step 1: Seller Sets the Asking Price</a></h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 138</i></a><br />Price The seller suggests a price to the buyer. If the Asking Price is more than 150% of the item’s actual value, the buyer simply refuses to bargain. The lowest amount the seller will accept is 75% of this Asking Price.<br /><br /><br /><h2 class="title"><a href="Rules.aspx?ID=1343">Step 2: Evaluate Item</a></h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 138</i></a><br />The buyer chooses to attempt either an Appraise check to estimate the item’s value or a Sense Motive check opposed by the seller’s Bluff check (with failure meaning the buyer believes the seller is being fair). If the seller’s price is the same as the buyer’s estimation of the item’s value, no Sense Motive check is needed and the buyer believes the seller.<br /><br /> A group of items can be sold as a unit. If the buyer is dealing with a mix of items she can appraise and others she can only guess about, she uses either Appraise or Sense Motive, depending on which she has more skill ranks in.<br /><br /> The GM can allow a PC to substitute an appropriate Knowledge skill for Appraise or Sense Motive, such as Knowledge (arcana) for selling a rare book about magic. He may also assign modifiers to skill checks to reflect expertise or ignorance about a specific type of item, good roleplaying, or insulting behavior toward an NPC buyer or seller.<br /><h2 class="title"><a href="Rules.aspx?ID=1344">Step 3: Determine Undercut</a></h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 138</i></a><br />The Undercut Percentage is a portion of the item’s price or value used to determine the buyer’s Initial and Final Offers.<br /><br /> To determine the Undercut Percentage, have the buyer attempt a Bluff check opposed by the seller’s Sense Motive check. The Undercut Percentage is 2%, plus 1% for every point by which the Bluff check exceeds the Sense Motive check (minimum 0%).<br /><h2 class="title"><a href="Rules.aspx?ID=1345">Step 4:Set Offers</a></h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 138</i></a><br />The Initial Offer is the buyer’s first counteroffer to the seller’s Asking Price.<br /><br /> The Final Offer is the largest amount the buyer is willing to pay. Though the seller and buyer negotiate back and forth, the buyer won’t exceed this offer. For example, if the seller’s Asking Price is 1,000 gp, the buyer’s Initial Offer may be 800 gp and the Final Offer 900 gp. These offers are determined by how much the buyer thinks the item is worth compared to the seller’s Asking Price. F<br /><br /><b>air (Appraise or Sense Motive)</b>: If the seller’s Asking Price is less than or equal to the amount that the buyer thinks the item is worth, subtract the Undercut Percentage from the seller’s price to get the Final Offer, and subtract 2 × the Undercut Percentage to get the Initial Offer. <br /><br /><b>Unfair (Appraise)</b>: If the result of the buyer’s Appraise check leads her to believe the item is worth less than the seller’s Asking Price, subtract the Undercut Percentage from the buyer’s estimate of the item’s value to get the Final Offer, and subtract 2 × the Undercut Percentage to get the Initial Offer. <br /><br /><b>Unfair (Sense Motive)</b>: If the result of the buyer’s Appraise check leads her to believe the seller’s Asking Price is too high, subtract 2 × the Undercut Percentage from the seller’s Asking Price to get the Final Offer, and subtract 4 × the Undercut Percentage to get the Initial Offer.<br /><h2 class="title"><a href="Rules.aspx?ID=1346">Step 5: Bargain</a></h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 139</i></a><br />The buyer begins bargaining by countering the seller’s price with her Initial Offer. This step repeats until the buyer and seller agree on a price or one side ends negotiations. <b>Counteroffer Is Less Than Final Offer</b>: If the seller counters with a price that is less than the buyer’s Final Offer, have the seller attempt a Diplomacy check (DC 15 + the buyer’s Charisma modifier). Success means the buyer accepts the seller’s counteroffer and buys the item. Failure means the buyer holds at her Initial Offer. The seller can try again, but the Diplomacy check DC increases by 5 unless the seller lowers his price. <b>Counteroffer Equals Final Offer</b>: If the seller counters with a price that is the same as the buyer’s Final Offer, have the seller attempt a Diplomacy check (20 + the buyer’s Charisma modifier). Success means the buyer accepts the seller’s counteroffer and buys the item. Failure means the buyer counteroffers at a price between the Initial Offer and the Final Offer. The seller can try again, but the Diplomacy DC increases by 5 unless the seller lowers his price. <b>Counteroffer Exceeds Final Offer</b>: If the seller counters with a price higher than the buyer’s Final Offer, have the seller attempt a Diplomacy check (25 + the buyer’s Charisma modifier). Success means the buyer counteroffers at a price between the Initial Offer and the Final Offer. Failure means the buyer holds at her Initial Offer. Failure by 5 or more means the buyer is insulted and lowers her offer or refuses to deal with the seller. The seller can try again, but the Diplomacy DC increases by 5 unless the seller lowers his price.<br /><h2 class="title"><a href="Rules.aspx?ID=1347">Examples of Bargaining</a></h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 139</i></a><br />Orshok has a jeweled idol worth 1,800 gp he mistakenly appraised at 2,000 gp. He tries to sell it to an art collector at an Asking Price of 2,200 gp, knowing the collector will counter with a lower price. The collector succeeds at her Appraise check and realizes the idol’s actual value. The collector attempts a Bluff check against Orshok’s Sense Motive check and succeeds by 1, so her Undercut Percentage is 3% (base 2% plus 1% for exceeding the check by 1). Because the collector thinks the idol is worth less than Orshok’s price, her Initial Offer is 6% less than her estimate of the value (1,692 gp) and her Final Offer is 3% less than her estimate (1,746 gp). When she makes her Initial Offer, Orshok counters with a price of 2,000 gp. This is higher than the collector’s Final Offer, so Orshok attempts a Diplomacy check whose DC equals 25 + the buyer’s Charisma modifier to keep the buyer’s interest. He succeeds at the check, so the buyer counteroffers 1,740 gp (between her Initial and Final Offers). Orshok doesn’t think the collector will go much higher, and decides to find another buyer.<br /><br /> Later, Orshok tries to sell the idol to a spice merchant who finds it interesting but knows nothing about art. Orshok again starts with a price of 2,200 gp. The merchant’s Sense Motive check beats Orshok’s Bluff check, so she realizes he isn’t offering a fair price. The merchant attempts a Bluff check opposed by Orshok’s Sense Motive check and succeeds by 4, which makes her Undercut Percentage 6% (base 2% plus 4% for exceeding the check by 4). The merchant’s Initial Offer is 12% less than Orshok’s price (1,936 gp), and her Final Offer is 6% less than Orshok’s price (2,068 gp). Orshok counters with a price of 2,000 gp. This is less than the merchant’s Final Offer, so Orshok attempts a Diplomacy check (DC 15 + the buyer’s Charisma modifier). He succeeds, so the merchant accepts Orshok’s counteroffer and buys the item for 2,000 gp.<br /><h1 class="title"><a href="Rules.aspx?ID=1348">Using Magic to Bargain</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 139</i></a><br />An unscrupulous character may use magic to charm or dupe buyers into accepting inflated prices. Something as simple as <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=charm person"><i>charm person</i></a> can alter the Diplomacy and Sense Motive DCs by 5 in the spellcaster’s favor for an entire negotiation, and a specific <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=suggestion"><i>suggestion</i></a> can alter the result on a single roll by 10 in the caster’s favor. If the buyer later realizes that magic influenced the negotiation, she may refuse to deal with the spellcaster and attempt to get her money back, or at least report the spellcaster to the local authorities.<br /><h1 class="title"><a href="Rules.aspx?ID=1349">Collector NPCs</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 139</i></a><br />The GM can define a few NPCs as collectors, traders, or antiquarians interested in unusual items PCs collect after their adventures. If the PCs establish an amiable relationship with these collectors over time, the GM can reduce the base Undercut Percentage to 1% or even 0%, especially if the PCs’ offerings cater to the NPCs’ interests. Likewise, PCs may develop bad blood with one or more buyers; such buyers’ Undercut Percentage may rise to 5% or higher, or the buyers may refuse to bargain with the PCs at all.<br /><h1 class="title"><a href="Rules.aspx?ID=1350">Flooding the Market</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 139</i></a><br />When PCs attempt to sell multiples of a durable good, the GM may lower the offered prices by 10% or more to reflect market saturation in that location. For example, a border town patrolled by guards with crossbows can always use more +1 bolts, but has limited use for a wagonload of masterwork spiked chains, so the Initial and Final Offers for the spiked chains would be 10% lower.<br /><h1 class="title"><a href="Rules.aspx?ID=1351">Trade Goods</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 139</i></a><br /><a style="text-decoration:underline" href="Rules.aspx?Name=Other%20Wealth&Category=Wealth%20and%20Money">Trade goods</a> are exempt from bargaining, even in extraordinary circumstances.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

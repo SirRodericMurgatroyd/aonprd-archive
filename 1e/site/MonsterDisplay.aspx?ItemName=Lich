@@ -1,0 +1,282 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Lich - Monsters - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, Monster, Lich" /><meta name="description" content="Few creatures are more feared than the lich. The pinnacle of necromantic art, the lich is a spellcaster who has chosen to shed his life as a method to cheat death by becoming undead. While many who reach such heights of power stop at nothing to achieve immortality, the idea of becoming a lich is abhorrent to most creatures. The process involves the extraction of the spellcaster’s life-force and its imprisonment in a specially prepared phylactery—the spellcaster gives up life, but in trapping life he also traps his death, and as long as his phylactery remains intact he can continue on in his research and work without fear of the passage of time.&lt;br />&lt;br />The quest to become a lich is a lengthy one. While construction of the magical phylactery to contain the spellcaster’s soul is a critical component, a prospective lich must also learn the secrets of transferring his soul into the receptacle and of preparing his body for the transformation into undeath, neither of which are simple tasks. Further complicating the ritual is the fact that no two bodies or souls are exactly alike—a ritual that works for one spellcaster might simply kill another or drive him insane. The exact methods for each spellcaster’s transformation are left to the GM’s discretion, but should involve expenditures of hundreds of thousands of gold pieces, numerous deadly adventures, and a large number of difficult skill checks over the course of months, years, or decades." />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./MonsterDisplay.aspx?ItemName=Lich" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNTY3NDMxODU3D2QWAmYPZBYCAgMPZBYCAgEPZBYGAgMPDxYCHgRUZXh0BbMLPGEgaHJlZj0iTW9uc3RlcnMuYXNweD9MZXR0ZXI9QWxsIj5BbGw8L2E+IHwgPGEgaHJlZj0iTW9uc3RlcnMuYXNweD9MZXR0ZXI9VW5pcXVlIj5VbmlxdWU8L2E+PGJyIC8+PGEgaHJlZj0iTW9uc3RlcnMuYXNweD9MZXR0ZXI9QSI+QTwvYT4gfCA8YSBocmVmPSJNb25zdGVycy5hc3B4P0xldHRlcj1CIj5CPC9hPiB8IDxhIGhyZWY9Ik1vbnN0ZXJzLmFzcHg/TGV0dGVyPUMiPkM8L2E+IHwgPGEgaHJlZj0iTW9uc3RlcnMuYXNweD9MZXR0ZXI9RCI+RDwvYT4gfCA8YSBocmVmPSJNb25zdGVycy5hc3B4P0xldHRlcj1FIj5FPC9hPiB8IDxhIGhyZWY9Ik1vbnN0ZXJzLmFzcHg/TGV0dGVyPUYiPkY8L2E+IHwgPGEgaHJlZj0iTW9uc3RlcnMuYXNweD9MZXR0ZXI9RyI+RzwvYT4gfCA8YSBocmVmPSJNb25zdGVycy5hc3B4P0xldHRlcj1IIj5IPC9hPiB8IDxhIGhyZWY9Ik1vbnN0ZXJzLmFzcHg/TGV0dGVyPUkiPkk8L2E+IHwgPGEgaHJlZj0iTW9uc3RlcnMuYXNweD9MZXR0ZXI9SiI+SjwvYT4gfCA8YSBocmVmPSJNb25zdGVycy5hc3B4P0xldHRlcj1LIj5LPC9hPiB8IDxhIGhyZWY9Ik1vbnN0ZXJzLmFzcHg/TGV0dGVyPUwiPkw8L2E+IHwgPGEgaHJlZj0iTW9uc3RlcnMuYXNweD9MZXR0ZXI9TSI+TTwvYT4gfCA8YSBocmVmPSJNb25zdGVycy5hc3B4P0xldHRlcj1OIj5OPC9hPiB8IDxhIGhyZWY9Ik1vbnN0ZXJzLmFzcHg/TGV0dGVyPU8iPk88L2E+IHwgPGEgaHJlZj0iTW9uc3RlcnMuYXNweD9MZXR0ZXI9UCI+UDwvYT4gfCA8YSBocmVmPSJNb25zdGVycy5hc3B4P0xldHRlcj1RIj5RPC9hPiB8IDxhIGhyZWY9Ik1vbnN0ZXJzLmFzcHg/TGV0dGVyPVIiPlI8L2E+IHwgPGEgaHJlZj0iTW9uc3RlcnMuYXNweD9MZXR0ZXI9UyI+UzwvYT4gfCA8YSBocmVmPSJNb25zdGVycy5hc3B4P0xldHRlcj1UIj5UPC9hPiB8IDxhIGhyZWY9Ik1vbnN0ZXJzLmFzcHg/TGV0dGVyPVUiPlU8L2E+IHwgPGEgaHJlZj0iTW9uc3RlcnMuYXNweD9MZXR0ZXI9ViI+VjwvYT4gfCA8YSBocmVmPSJNb25zdGVycy5hc3B4P0xldHRlcj1XIj5XPC9hPiB8IDxhIGhyZWY9Ik1vbnN0ZXJzLmFzcHg/TGV0dGVyPVgiPlg8L2E+IHwgPGEgaHJlZj0iTW9uc3RlcnMuYXNweD9MZXR0ZXI9WSI+WTwvYT4gfCA8YSBocmVmPSJNb25zdGVycy5hc3B4P0xldHRlcj1aIj5aPC9hPjxiciAvPjxhIGhyZWY9Ik1vbnN0ZXJGYW1pbGllcy5hc3B4P0l0ZW1OYW1lPUFsbCI+RmFtaWxpZXM8L2E+IHwgPGEgaHJlZj0iTW9uc3RlclRlbXBsYXRlcy5hc3B4P0l0ZW1OYW1lPUFsbCI+VGVtcGxhdGVzPC9hPiB8IDxhIGhyZWY9Ik1vbnN0ZXJUeXBlcy5hc3B4P0l0ZW1OYW1lPUFsbCI+VHlwZXM8L2E+IHwgPGEgaHJlZj0iTW9uc3RlclN1YnR5cGVzLmFzcHg/SXRlbU5hbWU9QWxsIj5TdWJ0eXBlczwvYT4gfCA8YSBocmVmPSJVTVIuYXNweD9JdGVtTmFtZT1BbGwiPlVuaXZlcnNhbCBNb25zdGVyIFJ1bGVzPC9hPmRkAgcPPCsACQEADxYEHghEYXRhS2V5cxYAHgtfIUl0ZW1Db3VudAIBZBYCZg9kFgICAQ8PFgIfAAW1VzxoMSBjbGFzcz0idGl0bGUiPkxpY2g8L2gxPjxpPk9uY2UgZmluZSByb2JlcyBoYW5nIGluIHRhdHRlcnMgZnJvbSB0aGlzIHdpdGhlcmVkIGNvcnBzZeKAmXMgZnJhbWUuIEEgcGFsZSBibHVlIGxpZ2h0IHNoaW5lcyBmcm9tIHdoZXJlIGl0cyBleWVzIHNob3VsZCBiZS48L2k+PGgyIGNsYXNzPSJ0aXRsZSI+TGljaCBDUiAxMjwvaDI+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk4YXV1P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1CZXN0aWFyeSIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QYXRoZmluZGVyIFJQRyBCZXN0aWFyeSBwZy4gMTg4PC9pPjwvYT48YnIgLz48Yj5YUDwvYj4gMTksMjAwPGJyIC8+SHVtYW4gbGljaCA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU2Nob29sRGlzcGxheS5hc3B4P0l0ZW1OYW1lPU5lY3JvbWFuY3kiPm5lY3JvbWFuY2VyPC9hPiAxMTxiciAvPk5FIE1lZGl1bSB1bmRlYWQgKGF1Z21lbnRlZCBodW1hbm9pZCk8YnIgLz48Yj5Jbml0PC9iPiArMjsgPGI+U2Vuc2VzPC9iPiBkYXJrdmlzaW9uIDYwIGZ0LiwgbGlmZSBzaWdodDsgUGVyY2VwdGlvbiArMjQ8YnIgLz48Yj5BdXJhPC9iPiBmZWFyICg2MC1mdC4gcmFkaXVzLCBEQyAxOCk8aDMgY2xhc3M9ImZyYW1pbmciPkRlZmVuc2U8L2gzPjxiPkFDPC9iPiAyMywgdG91Y2ggMTQsIGZsYXQtZm9vdGVkIDIxICgrNCBhcm1vciwgKzIgZGVmbGVjdGlvbiwgKzIgRGV4LCArNSBuYXR1cmFsKTxiciAvPjxiPmhwPC9iPiAxMTEgKDExZDYrNTUgcGx1cyAxNSBmYWxzZSBsaWZlKTxiciAvPjxiPkZvcnQ8L2I+ICs2LCA8Yj5SZWY8L2I+ICs3LCA8Yj5XaWxsPC9iPiArMTE8YnIgLz48Yj5EZWZlbnNpdmUgQWJpbGl0aWVzPC9iPiBjaGFubmVsIHJlc2lzdGFuY2UgKzQ7IDxiPkRSPC9iPiAxNS9ibHVkZ2VvbmluZyBhbmQgbWFnaWM7IDxiPkltbXVuZTwvYj4gY29sZCwgZWxlY3RyaWNpdHksIHVuZGVhZCB0cmFpdHM8aDMgY2xhc3M9ImZyYW1pbmciPk9mZmVuc2U8L2gzPjxiPlNwZWVkPC9iPiAzMCBmdC48YnIgLz48Yj5NZWxlZTwvYj4gdG91Y2ggKzUgKDFkOCs1IHBsdXMgcGFyYWx5emluZyB0b3VjaCk8YnIgLz48Yj5TcGVjaWFsIEF0dGFja3M8L2I+IGdyYXZlIHRvdWNoICg5L2RheSksIHBhcmFseXppbmcgdG91Y2ggKERDIDE4KSwgcG93ZXIgb3ZlciB1bmRlYWQgKDkvZGF5LCBEQyAxOCk8YnIgLz48Yj5TcGVsbHMgUHJlcGFyZWQgPC9iPihDTCAxMXRoKTxiciAvPjZ0aOKAlDxpPmNpcmNsZSBvZiBkZWF0aCA8L2k+KERDIDIyKSwgPGk+Z2xvYmUgb2YgaW52dWxuZXJhYmlsaXR5PC9pPiwgbWF4aW1pemVkIDxpPmZpcmViYWxsIDwvaT4oREMgMTkpPGJyIC8+NXRo4oCUPGk+Y2xvdWRraWxsIDwvaT4oREMgMjEpLCA8aT5jb25lIG9mIGNvbGQgPC9pPihEQyAyMSksIHF1aWNrZW5lZCA8aT5tYWdpYyBtaXNzaWxlPC9pPiwgPGk+d2F2ZXMgb2YgZmF0aWd1ZTwvaT48YnIgLz40dGjigJQ8aT5kaW1lbnNpb24gZG9vcjwvaT4sIDxpPmVuZXJ2YXRpb248L2k+LCA8aT5maXJlIHNoaWVsZDwvaT4sIDxpPndhbGwgb2YgaWNlIDwvaT4oMik8YnIgLz4zcmTigJQ8aT5kaXNwZWwgbWFnaWMgPC9pPigyKSwgPGk+ZmlyZWJhbGwgPC9pPihEQyAxOSksIDxpPnN1Z2dlc3Rpb24gPC9pPihEQyAxOSksIDxpPnZhbXBpcmljIHRvdWNoIDwvaT4oMik8YnIgLz4ybmTigJQ8aT5kYXJrbmVzczwvaT4sIGV4dGVuZGVkIDxpPm1hZ2UgYXJtb3IgPC9pPihhbHJlYWR5IGNhc3QpLCA8aT5mYWxzZSBsaWZlIDwvaT4oYWxyZWFkeSBjYXN0KSwgPGk+c2NvcmNoaW5nIHJheSA8L2k+KDIpLCA8aT5zZWUgaW52aXNpYmlsaXR5PC9pPiwgPGk+c3BlY3RyYWwgaGFuZDwvaT48YnIgLz4xc3TigJQ8aT5tYWdpYyBtaXNzaWxlIDwvaT4oMyksIDxpPnJheSBvZiBlbmZlZWJsZW1lbnQgPC9pPigyKSwgPGk+c2hpZWxkIDwvaT4oMik8YnIgLz4w4oCUPGk+YmxlZWQgPC9pPihEQyAxNiksIDxpPmRldGVjdCBtYWdpYzwvaT4sIDxpPnJheSBvZiBmcm9zdDwvaT4sIDxpPnJlYWQgbWFnaWM8L2k+PGJyIC8+PGI+T3Bwb3NpdGlvbiBTY2hvb2xzIDwvYj5pbGx1c2lvbiwgdHJhbnNtdXRhdGlvbjxoMyBjbGFzcz0iZnJhbWluZyI+U3RhdGlzdGljczwvaDM+PGI+U3RyPC9iPiAxMCwgPGI+RGV4PC9iPiAxNCwgPGI+Q29uPC9iPiDigJQsIDxiPkludDwvYj4gMjIsIDxiPldpczwvYj4gMTQsIDxiPkNoYTwvYj4gMTY8YnIgLz48Yj5CYXNlIEF0azwvYj4gKzU7IDxiPkNNQjwvYj4gKzU7IDxiPkNNRDwvYj4gMjU8YnIgLz48Yj5GZWF0czwvYj4gPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IkZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9Q3JhZnQgV29uZHJvdXMgSXRlbSI+Q3JhZnQgV29uZHJvdXMgSXRlbTwvYT4sIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPURlZmVuc2l2ZSBDb21iYXQgVHJhaW5pbmciPkRlZmVuc2l2ZSBDb21iYXQgVHJhaW5pbmc8L2E+LCA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1FeHRlbmQgU3BlbGwiPkV4dGVuZCBTcGVsbDwvYT4sIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUltcHJvdmVkIExpZ2h0bmluZyBSZWZsZXhlcyI+SW1wcm92ZWQgTGlnaHRuaW5nIFJlZmxleGVzPC9hPiwgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IkZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9SXJvbiBXaWxsIj5Jcm9uIFdpbGw8L2E+LCA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1MaWdodG5pbmcgUmVmbGV4ZXMiPkxpZ2h0bmluZyBSZWZsZXhlczwvYT4sIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPU1heGltaXplIFNwZWxsIj5NYXhpbWl6ZSBTcGVsbDwvYT4sIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPVF1aWNrZW4gU3BlbGwiPlF1aWNrZW4gU3BlbGw8L2E+LCA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1TY3JpYmUgU2Nyb2xsIj5TY3JpYmUgU2Nyb2xsPC9hPiwgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IkZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9VG91Z2huZXNzIj5Ub3VnaG5lc3M8L2E+PGJyIC8+PGI+U2tpbGxzPC9iPiBDcmFmdCAoYWxjaGVteSkgKzIwLCBJbnRpbWlkYXRlICsxNywgS25vd2xlZGdlIChhcmNhbmEpICsyMCwgS25vd2xlZGdlIChwbGFuZXMpICsyMCwgTGluZ3Vpc3RpY3MgKzIwLCBQZXJjZXB0aW9uICsyNCwgU2Vuc2UgTW90aXZlICsyNCwgU3BlbGxjcmFmdCArMjAsIFN0ZWFsdGggKzI0OyA8Yj5SYWNpYWwgTW9kaWZpZXJzPC9iPiArOCBQZXJjZXB0aW9uLCArOCBTZW5zZSBNb3RpdmUsICs4IFN0ZWFsdGg8YnIgLz48Yj5MYW5ndWFnZXM8L2I+IEFieXNzYWwsIEFrbG8sIEFxdWFuLCBDZWxlc3RpYWwsIENvbW1vbiwgRHJhY29uaWMsIER3YXJ2ZW4sIEVsdmVuLCBHaWFudCwgR25vbWUsIEdvYmxpbiwgSWduYW4sIEluZmVybmFsLCBPcmMsIFVuZGVyY29tbW9uPGgzIGNsYXNzPSJmcmFtaW5nIj5FY29sb2d5PC9oMz48Yj5FbnZpcm9ubWVudDwvYj4gYW55PGJyIC8+PGI+T3JnYW5pemF0aW9uPC9iPiBzb2xpdGFyeTxiciAvPjxiPlRyZWFzdXJlPC9iPiBOUEMgZ2VhciAoPGk+Ym9vdHMgb2YgbGV2aXRhdGlvbjwvaT4sIDxpPmhlYWRiYW5kIG9mIHZhc3QgaW50ZWxsaWdlbmNlICsyIDwvaT5bUGVyY2VwdGlvbl0sIDxpPnJpbmcgb2YgcHJvdGVjdGlvbiArMjwvaT4sIDxpPnBvdGlvbiBvZiBpbnZpc2liaWxpdHk8L2k+LCA8aT5zY3JvbGwgb2YgZG9taW5hdGUgcGVyc29uPC9pPiwgPGk+c2Nyb2xsIG9mIHRlbGVwb3J0PC9pPik8aDMgY2xhc3M9ImZyYW1pbmciPkRlc2NyaXB0aW9uPC9oMz5GZXcgY3JlYXR1cmVzIGFyZSBtb3JlIGZlYXJlZCB0aGFuIHRoZSBsaWNoLiBUaGUgcGlubmFjbGUgb2YgbmVjcm9tYW50aWMgYXJ0LCB0aGUgbGljaCBpcyBhIHNwZWxsY2FzdGVyIHdobyBoYXMgY2hvc2VuIHRvIHNoZWQgaGlzIGxpZmUgYXMgYSBtZXRob2QgdG8gY2hlYXQgZGVhdGggYnkgYmVjb21pbmcgdW5kZWFkLiBXaGlsZSBtYW55IHdobyByZWFjaCBzdWNoIGhlaWdodHMgb2YgcG93ZXIgc3RvcCBhdCBub3RoaW5nIHRvIGFjaGlldmUgaW1tb3J0YWxpdHksIHRoZSBpZGVhIG9mIGJlY29taW5nIGEgbGljaCBpcyBhYmhvcnJlbnQgdG8gbW9zdCBjcmVhdHVyZXMuIFRoZSBwcm9jZXNzIGludm9sdmVzIHRoZSBleHRyYWN0aW9uIG9mIHRoZSBzcGVsbGNhc3RlcuKAmXMgbGlmZS1mb3JjZSBhbmQgaXRzIGltcHJpc29ubWVudCBpbiBhIHNwZWNpYWxseSBwcmVwYXJlZCBwaHlsYWN0ZXJ54oCUdGhlIHNwZWxsY2FzdGVyIGdpdmVzIHVwIGxpZmUsIGJ1dCBpbiB0cmFwcGluZyBsaWZlIGhlIGFsc28gdHJhcHMgaGlzIGRlYXRoLCBhbmQgYXMgbG9uZyBhcyBoaXMgcGh5bGFjdGVyeSByZW1haW5zIGludGFjdCBoZSBjYW4gY29udGludWUgb24gaW4gaGlzIHJlc2VhcmNoIGFuZCB3b3JrIHdpdGhvdXQgZmVhciBvZiB0aGUgcGFzc2FnZSBvZiB0aW1lLjxiciAvPjxiciAvPlRoZSBxdWVzdCB0byBiZWNvbWUgYSBsaWNoIGlzIGEgbGVuZ3RoeSBvbmUuIFdoaWxlIGNvbnN0cnVjdGlvbiBvZiB0aGUgbWFnaWNhbCBwaHlsYWN0ZXJ5IHRvIGNvbnRhaW4gdGhlIHNwZWxsY2FzdGVy4oCZcyBzb3VsIGlzIGEgY3JpdGljYWwgY29tcG9uZW50LCBhIHByb3NwZWN0aXZlIGxpY2ggbXVzdCBhbHNvIGxlYXJuIHRoZSBzZWNyZXRzIG9mIHRyYW5zZmVycmluZyBoaXMgc291bCBpbnRvIHRoZSByZWNlcHRhY2xlIGFuZCBvZiBwcmVwYXJpbmcgaGlzIGJvZHkgZm9yIHRoZSB0cmFuc2Zvcm1hdGlvbiBpbnRvIHVuZGVhdGgsIG5laXRoZXIgb2Ygd2hpY2ggYXJlIHNpbXBsZSB0YXNrcy4gRnVydGhlciBjb21wbGljYXRpbmcgdGhlIHJpdHVhbCBpcyB0aGUgZmFjdCB0aGF0IG5vIHR3byBib2RpZXMgb3Igc291bHMgYXJlIGV4YWN0bHkgYWxpa2XigJRhIHJpdHVhbCB0aGF0IHdvcmtzIGZvciBvbmUgc3BlbGxjYXN0ZXIgbWlnaHQgc2ltcGx5IGtpbGwgYW5vdGhlciBvciBkcml2ZSBoaW0gaW5zYW5lLiBUaGUgZXhhY3QgbWV0aG9kcyBmb3IgZWFjaCBzcGVsbGNhc3RlcuKAmXMgdHJhbnNmb3JtYXRpb24gYXJlIGxlZnQgdG8gdGhlIEdN4oCZcyBkaXNjcmV0aW9uLCBidXQgc2hvdWxkIGludm9sdmUgZXhwZW5kaXR1cmVzIG9mIGh1bmRyZWRzIG9mIHRob3VzYW5kcyBvZiBnb2xkIHBpZWNlcywgbnVtZXJvdXMgZGVhZGx5IGFkdmVudHVyZXMsIGFuZCBhIGxhcmdlIG51bWJlciBvZiBkaWZmaWN1bHQgc2tpbGwgY2hlY2tzIG92ZXIgdGhlIGNvdXJzZSBvZiBtb250aHMsIHllYXJzLCBvciBkZWNhZGVzLjxoMSBjbGFzcz0idGl0bGUiPlRoZSBMaWNo4oCZcyBQaHlsYWN0ZXJ5PC9oMT5BbiBpbnRlZ3JhbCBwYXJ0IG9mIGJlY29taW5nIGEgbGljaCBpcyB0aGUgY3JlYXRpb24gb2YgdGhlIHBoeWxhY3RlcnkgaW4gd2hpY2ggdGhlIGNoYXJhY3RlciBzdG9yZXMgaGlzIHNvdWwuIFRoZSBvbmx5IHdheSB0byBnZXQgcmlkIG9mIGEgbGljaCBmb3Igc3VyZSBpcyB0byBkZXN0cm95IGl0cyBwaHlsYWN0ZXJ5LiBVbmxlc3MgaXRzIHBoeWxhY3RlcnkgaXMgbG9jYXRlZCBhbmQgZGVzdHJveWVkLCBhIGxpY2ggY2FuIHJlanV2ZW5hdGUgYWZ0ZXIgaXQgaXMga2lsbGVkIChzZWUgQ3JlYXRpbmcgYSBMaWNoLCBiZWxvdykuPGJyIC8+PGJyIC8+RWFjaCBsaWNoIG11c3QgY3JlYXRlIGl0cyBvd24gcGh5bGFjdGVyeSBieSB1c2luZyB0aGUgQ3JhZnQgV29uZHJvdXMgSXRlbSBmZWF0LiBUaGUgY2hhcmFjdGVyIG11c3QgYmUgYWJsZSB0byBjYXN0IHNwZWxscyBhbmQgaGF2ZSBhIGNhc3RlciBsZXZlbCBvZiAxMXRoIG9yIGhpZ2hlci4gVGhlIHBoeWxhY3RlcnkgY29zdHMgMTIwLDAwMCBncCB0byBjcmVhdGUgYW5kIGhhcyBhIGNhc3RlciBsZXZlbCBlcXVhbCB0byB0aGF0IG9mIGl0cyBjcmVhdG9yIGF0IHRoZSB0aW1lIG9mIGNyZWF0aW9uLjxiciAvPjxiciAvPlRoZSBtb3N0IGNvbW1vbiBmb3JtIG9mIHBoeWxhY3RlcnkgaXMgYSBzZWFsZWQgbWV0YWwgYm94IGNvbnRhaW5pbmcgc3RyaXBzIG9mIHBhcmNobWVudCBvbiB3aGljaCBtYWdpY2FsIHBocmFzZXMgaGF2ZSBiZWVuIHRyYW5zY3JpYmVkLiBUaGUgYm94IGlzIFRpbnkgYW5kIGhhcyA0MCBoaXQgcG9pbnRzLCBoYXJkbmVzcyAyMCwgYW5kIGEgYnJlYWsgREMgb2YgNDAuPGJyIC8+PGJyIC8+T3RoZXIgZm9ybXMgb2YgcGh5bGFjdGVyaWVzIGNhbiBleGlzdCwgc3VjaCBhcyByaW5ncywgYW11bGV0cywgb3Igc2ltaWxhciBpdGVtcy48aDEgY2xhc3M9InRpdGxlIj5DcmVhdGluZyBhIExpY2g8L2gxPuKAnExpY2jigJ0gaXMgYW4gYWNxdWlyZWQgdGVtcGxhdGUgdGhhdCBjYW4gYmUgYWRkZWQgdG8gYW55IGxpdmluZyBjcmVhdHVyZSAocmVmZXJyZWQgdG8gaGVyZWFmdGVyIGFzIHRoZSBiYXNlIGNyZWF0dXJlKSwgcHJvdmlkZWQgaXQgY2FuIGNyZWF0ZSB0aGUgcmVxdWlyZWQgcGh5bGFjdGVyeS4gQSBsaWNoIHJldGFpbnMgYWxsIHRoZSBiYXNlIGNyZWF0dXJlJ3Mgc3RhdGlzdGljcyBhbmQgc3BlY2lhbCBhYmlsaXRpZXMgZXhjZXB0IGFzIG5vdGVkIGhlcmUuPGJyIC8+PGJyIC8+PGI+Q1I8L2I+OiBTYW1lIGFzIHRoZSBiYXNlIGNyZWF0dXJlICsgMi4gPGJyIC8+PGJyIC8+IDxiPkFsaWdubWVudDwvYj46IEFueSBldmlsLiA8YnIgLz48YnIgLz4gPGI+VHlwZTwvYj46IFRoZSBjcmVhdHVyZSdzIHR5cGUgY2hhbmdlcyB0byB1bmRlYWQuIERvIG5vdCByZWNhbGN1bGF0ZSBCQUIsIHNhdmVzLCBvciBza2lsbCByYW5rcy4gPGJyIC8+PGJyIC8+IDxiPlNlbnNlczwvYj46IEEgbGljaCBnYWlucyBkYXJrdmlzaW9uIDYwIGZ0LiA8YnIgLz48YnIgLz4gPGI+QXJtb3IgQ2xhc3M8L2I+OiBBIGxpY2ggaGFzIGEgKzUgbmF0dXJhbCBhcm1vciBib251cyBvciB0aGUgYmFzZSBjcmVhdHVyZSdzIG5hdHVyYWwgYXJtb3IgYm9udXMsIHdoaWNoZXZlciBpcyBiZXR0ZXIuIDxiciAvPjxiciAvPiA8Yj5IaXQgRGljZTwvYj46IENoYW5nZSBhbGwgb2YgdGhlIGNyZWF0dXJlJ3MgcmFjaWFsIEhpdCBEaWNlIHRvIGQ4cy4gQWxsIEhpdCBEaWNlIGRlcml2ZWQgZnJvbSBjbGFzcyBsZXZlbHMgcmVtYWluIHVuY2hhbmdlZC4gQXMgdW5kZWFkLCBsaWNoZXMgdXNlIHRoZWlyIENoYXJpc21hIG1vZGlmaWVycyB0byBkZXRlcm1pbmUgYm9udXMgaGl0IHBvaW50cyAoaW5zdGVhZCBvZiBDb25zdGl0dXRpb24pLiA8YnIgLz48YnIgLz4gPGI+RGVmZW5zaXZlIEFiaWxpdGllczwvYj46IEEgbGljaCBnYWlucyBjaGFubmVsIHJlc2lzdGFuY2UgKzQsIERSIDE1L2JsdWRnZW9uaW5nIGFuZCBtYWdpYywgYW5kIGltbXVuaXR5IHRvIGNvbGQgYW5kIGVsZWN0cmljaXR5IChpbiBhZGRpdGlvbiB0byB0aG9zZSBncmFudGVkIGJ5IGl0cyB1bmRlYWQgdHJhaXRzKS4gVGhlIGxpY2ggYWxzbyBnYWlucyB0aGUgZm9sbG93aW5nIGRlZmVuc2l2ZSBhYmlsaXR5LiA8YnIgLz48YnIgLz4gPGk+UmVqdXZlbmF0aW9uIChTdSk8L2k+OiBXaGVuIGEgbGljaCBpcyBkZXN0cm95ZWQsIGl0cyBwaHlsYWN0ZXJ5ICh3aGljaCBpcyBnZW5lcmFsbHkgaGlkZGVuIGJ5IHRoZSBsaWNoIGluIGEgc2FmZSBwbGFjZSBmYXIgZnJvbSB3aGVyZSBpdCBjaG9vc2VzIHRvIGR3ZWxsKSBpbW1lZGlhdGVseSBiZWdpbnMgdG8gcmVidWlsZCB0aGUgdW5kZWFkIHNwZWxsY2FzdGVyJ3MgYm9keSBuZWFyYnkuIFRoaXMgcHJvY2VzcyB0YWtlcyAxZDEwIGRheXPigJRpZiB0aGUgYm9keSBpcyBkZXN0cm95ZWQgYmVmb3JlIHRoYXQgdGltZSBwYXNzZXMsIHRoZSBwaHlsYWN0ZXJ5IG1lcmVseSBzdGFydHMgdGhlIHByb2Nlc3MgYW5ldy4gQWZ0ZXIgdGhpcyB0aW1lIHBhc3NlcywgdGhlIGxpY2ggd2FrZW5zIGZ1bGx5IGhlYWxlZCAoYWxiZWl0IHdpdGhvdXQgYW55IGdlYXIgaXQgbGVmdCBiZWhpbmQgb24gaXRzIG9sZCBib2R5KSwgdXN1YWxseSB3aXRoIGEgYnVybmluZyBuZWVkIGZvciByZXZlbmdlIGFnYWluc3QgdGhvc2Ugd2hvIHByZXZpb3VzbHkgZGVzdHJveWVkIGl0LiA8YnIgLz48YnIgLz4gPGI+TWVsZWUgQXR0YWNrPC9iPjogQSBsaWNoIGhhcyBhIHRvdWNoIGF0dGFjayB0aGF0IGl0IGNhbiB1c2Ugb25jZSBwZXIgcm91bmQgYXMgYSBuYXR1cmFsIHdlYXBvbi4gQSBsaWNoIGZpZ2h0aW5nIHdpdGhvdXQgd2VhcG9ucyB1c2VzIGl0cyBuYXR1cmFsIHdlYXBvbnMgKGlmIGl0IGhhcyBhbnkpIGluIGFkZGl0aW9uIHRvIGl0cyB0b3VjaCBhdHRhY2sgKHdoaWNoIGlzIHRyZWF0ZWQgYXMgYSBwcmltYXJ5IG5hdHVyYWwgd2VhcG9uIHRoYXQgcmVwbGFjZXMgb25lIGNsYXcgb3Igc2xhbSBhdHRhY2ssIGlmIHRoZSBjcmVhdHVyZSBoYXMgYW55KS4gQSBsaWNoIGFybWVkIHdpdGggYSB3ZWFwb24gdXNlcyBpdHMgd2VhcG9ucyBub3JtYWxseSwgYW5kIGNhbiB1c2UgaXRzIHRvdWNoIGF0dGFjayBhcyBhIHNlY29uZGFyeSBuYXR1cmFsIHdlYXBvbi4gPGJyIC8+PGJyIC8+IDxiPkRhbWFnZTwvYj46IEEgbGljaCdzIHRvdWNoIGF0dGFjayB1c2VzIG5lZ2F0aXZlIGVuZXJneSB0byBkZWFsIDFkOCBwb2ludHMgb2YgZGFtYWdlIHRvIGxpdmluZyBjcmVhdHVyZXMgKyAxIHBvaW50IG9mIGRhbWFnZSBwZXIgMiBIaXQgRGljZSBwb3NzZXNzZWQgYnkgdGhlIGxpY2guIEFzIG5lZ2F0aXZlIGVuZXJneSwgdGhpcyBkYW1hZ2UgY2FuIGJlIHVzZWQgdG8gaGVhbCB1bmRlYWQgY3JlYXR1cmVzLiBBIGxpY2ggY2FuIHRha2UgYSBmdWxsLXJvdW5kIGFjdGlvbiB0byBpbmZ1c2UgaXRzZWxmIHdpdGggdGhpcyBlbmVyZ3ksIGhlYWxpbmcgZGFtYWdlIGFzIGlmIGl0IGhhZCB1c2VkIGl0cyB0b3VjaCBhdHRhY2sgYWdhaW5zdCBpdHNlbGYuIDxiciAvPjxiciAvPiA8Yj5TcGVjaWFsIEF0dGFja3M8L2I+OiBBIGxpY2ggZ2FpbnMgdGhlIHR3byBzcGVjaWFsIGF0dGFja3MgZGVzY3JpYmVkIGJlbG93LiBTYXZlIERDcyBhcmUgZXF1YWwgdG8gMTAgKyAxLzIgbGljaCdzIEhEICsgbGljaCdzIENoYSBtb2RpZmllciB1bmxlc3Mgb3RoZXJ3aXNlIG5vdGVkLiA8YnIgLz48YnIgLz4gPGk+RmVhciBBdXJhIChTdSk8L2k+OiBDcmVhdHVyZXMgb2YgbGVzcyB0aGFuIDUgSEQgaW4gYSA2MC1mb290IHJhZGl1cyB0aGF0IGxvb2sgYXQgdGhlIGxpY2ggbXVzdCBzdWNjZWVkIG9uIGEgV2lsbCBzYXZlIG9yIGJlY29tZSBmcmlnaHRlbmVkLiBDcmVhdHVyZXMgd2l0aCA1IEhEIG9yIG1vcmUgbXVzdCBzdWNjZWVkIGF0IGEgV2lsbCBzYXZlIG9yIGJlIHNoYWtlbiBmb3IgYSBudW1iZXIgb2Ygcm91bmRzIGVxdWFsIHRvIHRoZSBsaWNoJ3MgSGl0IERpY2UuIEEgY3JlYXR1cmUgdGhhdCBzdWNjZXNzZnVsbHkgc2F2ZXMgY2Fubm90IGJlIGFmZmVjdGVkIGFnYWluIGJ5IHRoZSBzYW1lIGxpY2gncyBhdXJhIGZvciAyNCBob3Vycy4gVGhpcyBpcyBhIG1pbmQtYWZmZWN0aW5nIGZlYXIgZWZmZWN0LiA8YnIgLz48YnIgLz4gIDxpPlBhcmFseXppbmcgVG91Y2ggKFN1KTwvaT46IEFueSBsaXZpbmcgY3JlYXR1cmUgYSBsaWNoIGhpdHMgd2l0aCBpdHMgdG91Y2ggYXR0YWNrIG11c3Qgc3VjY2VlZCBvbiBhIEZvcnRpdHVkZSBzYXZlIG9yIGJlIHBlcm1hbmVudGx5IHBhcmFseXplZC4gPGk+UmVtb3ZlIHBhcmFseXNpcyA8L2k+b3IgYW55IHNwZWxsIHRoYXQgY2FuIHJlbW92ZSBhIGN1cnNlIGNhbiBmcmVlIHRoZSB2aWN0aW0gKHNlZSB0aGUgPGk+YmVzdG93IGN1cnNlIDwvaT5zcGVsbCBkZXNjcmlwdGlvbiwgd2l0aCBhIERDIGVxdWFsIHRvIHRoZSBsaWNoJ3Mgc2F2ZSBEQykuIFRoZSBlZmZlY3QgY2Fubm90IGJlIGRpc3BlbGxlZC4gQW55b25lIHBhcmFseXplZCBieSBhIGxpY2ggc2VlbXMgZGVhZCwgdGhvdWdoIGEgREMgMjAgUGVyY2VwdGlvbiBjaGVjayBvciBhIERDIDE1IEhlYWwgY2hlY2sgcmV2ZWFscyB0aGF0IHRoZSB2aWN0aW0gaXMgc3RpbGwgYWxpdmUuIDxiciAvPjxiciAvPiA8Yj5BYmlsaXRpZXM8L2I+OiBJbnQgKzIsIFdpcyArMiwgQ2hhICsyLiBCZWluZyB1bmRlYWQsIGEgbGljaCBoYXMgbm8gQ29uc3RpdHV0aW9uIHNjb3JlLiA8YnIgLz48YnIgLz4gPGI+U2tpbGxzPC9iPjogTGljaGVzIGhhdmUgYSArOCByYWNpYWwgYm9udXMgb24gUGVyY2VwdGlvbiwgU2Vuc2UgTW90aXZlLCBhbmQgU3RlYWx0aCBjaGVja3MuIEEgbGljaCBhbHdheXMgdHJlYXRzIENsaW1iLCBEaXNndWlzZSwgRmx5LCBJbnRpbWlkYXRlLCBLbm93bGVkZ2UgKGFyY2FuYSksIEtub3dsZWRnZSAocmVsaWdpb24pLCBQZXJjZXB0aW9uLCBTZW5zZSBNb3RpdmUsIFNwZWxsY3JhZnQsIGFuZCBTdGVhbHRoIGFzIGNsYXNzIHNraWxscy4gT3RoZXJ3aXNlLCBza2lsbHMgYXJlIHRoZSBzYW1lIGFzIHRoZSBiYXNlIGNyZWF0dXJlLiA8aDEgY2xhc3M9InRpdGxlIj5DcmVhdHVyZXMgaW4gIkxpY2giIENhdGVnb3J5PC9oMT48dGFibGUgY2xhc3M9ImlubmVyIj48dHI+PHRkPjxiPk5hbWU8L2I+PC90ZD48dGQ+PGI+Q1I8L2I+PC90ZD48L3RyPjx0cj48dGQ+PGEgaHJlZj0iTW9uc3RlckRpc3BsYXkuYXNweD9JdGVtTmFtZT1EZW1pbGljaCI+RGVtaWxpY2g8L2E+PC90ZD48dGQ+MTQ8L3RkPjwvdHI+PHRyPjx0ZD48YSBocmVmPSJNb25zdGVyRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUZvcnNha2VuIExpY2giPkZvcnNha2VuIExpY2g8L2E+PC90ZD48dGQ+MTI8L3RkPjwvdHI+PHRyPjx0ZD48YSBocmVmPSJNb25zdGVyRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUxpY2giPkxpY2g8L2E+PC90ZD48dGQ+MTI8L3RkPjwvdHI+PHRyPjx0ZD48YSBocmVmPSJNb25zdGVyRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVBzeWNoaWMgTGljaCI+UHN5Y2hpYyBMaWNoPC9hPjwvdGQ+PHRkPjEyPC90ZD48L3RyPjwvdGFibGU+ZGQCCQ8PZDwrAAYBABAWAWYWARYCHg5QYXJhbWV0ZXJWYWx1ZQUETGljaBYBAgRkZPfAk/aKCfzD5gukLASEQ5NQJ4vc0bsEvxZEZmmGZYCk" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="288EDC0A" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <h1 style="text-align: center"><span id="MainContent_HeaderLabel"></span></h1>
+    <h2 style="text-align: center"><span id="MainContent_SubheaderLabel"><a href="Monsters.aspx?Letter=All">All</a> | <a href="Monsters.aspx?Letter=Unique">Unique</a><br /><a href="Monsters.aspx?Letter=A">A</a> | <a href="Monsters.aspx?Letter=B">B</a> | <a href="Monsters.aspx?Letter=C">C</a> | <a href="Monsters.aspx?Letter=D">D</a> | <a href="Monsters.aspx?Letter=E">E</a> | <a href="Monsters.aspx?Letter=F">F</a> | <a href="Monsters.aspx?Letter=G">G</a> | <a href="Monsters.aspx?Letter=H">H</a> | <a href="Monsters.aspx?Letter=I">I</a> | <a href="Monsters.aspx?Letter=J">J</a> | <a href="Monsters.aspx?Letter=K">K</a> | <a href="Monsters.aspx?Letter=L">L</a> | <a href="Monsters.aspx?Letter=M">M</a> | <a href="Monsters.aspx?Letter=N">N</a> | <a href="Monsters.aspx?Letter=O">O</a> | <a href="Monsters.aspx?Letter=P">P</a> | <a href="Monsters.aspx?Letter=Q">Q</a> | <a href="Monsters.aspx?Letter=R">R</a> | <a href="Monsters.aspx?Letter=S">S</a> | <a href="Monsters.aspx?Letter=T">T</a> | <a href="Monsters.aspx?Letter=U">U</a> | <a href="Monsters.aspx?Letter=V">V</a> | <a href="Monsters.aspx?Letter=W">W</a> | <a href="Monsters.aspx?Letter=X">X</a> | <a href="Monsters.aspx?Letter=Y">Y</a> | <a href="Monsters.aspx?Letter=Z">Z</a><br /><a href="MonsterFamilies.aspx?ItemName=All">Families</a> | <a href="MonsterTemplates.aspx?ItemName=All">Templates</a> | <a href="MonsterTypes.aspx?ItemName=All">Types</a> | <a href="MonsterSubtypes.aspx?ItemName=All">Subtypes</a> | <a href="UMR.aspx?ItemName=All">Universal Monster Rules</a></span></h2>
+    <hr /><span id="MainContent_HeaderText"></span>
+
+    <table id="MainContent_DataListFeats" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+            <span id="MainContent_DataListFeats_Label1_0"><h1 class="title">Lich</h1><i>Once fine robes hang in tatters from this withered corpse’s frame. A pale blue light shines from where its eyes should be.</i><h2 class="title">Lich CR 12</h2><b>Source</b> <a href="http://paizo.com/products/btpy8auu?Pathfinder-Roleplaying-Game-Bestiary" target="_blank" class="external-link"><i>Pathfinder RPG Bestiary pg. 188</i></a><br /><b>XP</b> 19,200<br />Human lich <a style="text-decoration:underline" href="SchoolDisplay.aspx?ItemName=Necromancy">necromancer</a> 11<br />NE Medium undead (augmented humanoid)<br /><b>Init</b> +2; <b>Senses</b> darkvision 60 ft., life sight; Perception +24<br /><b>Aura</b> fear (60-ft. radius, DC 18)<h3 class="framing">Defense</h3><b>AC</b> 23, touch 14, flat-footed 21 (+4 armor, +2 deflection, +2 Dex, +5 natural)<br /><b>hp</b> 111 (11d6+55 plus 15 false life)<br /><b>Fort</b> +6, <b>Ref</b> +7, <b>Will</b> +11<br /><b>Defensive Abilities</b> channel resistance +4; <b>DR</b> 15/bludgeoning and magic; <b>Immune</b> cold, electricity, undead traits<h3 class="framing">Offense</h3><b>Speed</b> 30 ft.<br /><b>Melee</b> touch +5 (1d8+5 plus paralyzing touch)<br /><b>Special Attacks</b> grave touch (9/day), paralyzing touch (DC 18), power over undead (9/day, DC 18)<br /><b>Spells Prepared </b>(CL 11th)<br />6th—<i>circle of death </i>(DC 22), <i>globe of invulnerability</i>, maximized <i>fireball </i>(DC 19)<br />5th—<i>cloudkill </i>(DC 21), <i>cone of cold </i>(DC 21), quickened <i>magic missile</i>, <i>waves of fatigue</i><br />4th—<i>dimension door</i>, <i>enervation</i>, <i>fire shield</i>, <i>wall of ice </i>(2)<br />3rd—<i>dispel magic </i>(2), <i>fireball </i>(DC 19), <i>suggestion </i>(DC 19), <i>vampiric touch </i>(2)<br />2nd—<i>darkness</i>, extended <i>mage armor </i>(already cast), <i>false life </i>(already cast), <i>scorching ray </i>(2), <i>see invisibility</i>, <i>spectral hand</i><br />1st—<i>magic missile </i>(3), <i>ray of enfeeblement </i>(2), <i>shield </i>(2)<br />0—<i>bleed </i>(DC 16), <i>detect magic</i>, <i>ray of frost</i>, <i>read magic</i><br /><b>Opposition Schools </b>illusion, transmutation<h3 class="framing">Statistics</h3><b>Str</b> 10, <b>Dex</b> 14, <b>Con</b> —, <b>Int</b> 22, <b>Wis</b> 14, <b>Cha</b> 16<br /><b>Base Atk</b> +5; <b>CMB</b> +5; <b>CMD</b> 25<br /><b>Feats</b> <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Craft Wondrous Item">Craft Wondrous Item</a>, <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Defensive Combat Training">Defensive Combat Training</a>, <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Extend Spell">Extend Spell</a>, <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Improved Lightning Reflexes">Improved Lightning Reflexes</a>, <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Iron Will">Iron Will</a>, <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Lightning Reflexes">Lightning Reflexes</a>, <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Maximize Spell">Maximize Spell</a>, <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Quicken Spell">Quicken Spell</a>, <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Scribe Scroll">Scribe Scroll</a>, <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Toughness">Toughness</a><br /><b>Skills</b> Craft (alchemy) +20, Intimidate +17, Knowledge (arcana) +20, Knowledge (planes) +20, Linguistics +20, Perception +24, Sense Motive +24, Spellcraft +20, Stealth +24; <b>Racial Modifiers</b> +8 Perception, +8 Sense Motive, +8 Stealth<br /><b>Languages</b> Abyssal, Aklo, Aquan, Celestial, Common, Draconic, Dwarven, Elven, Giant, Gnome, Goblin, Ignan, Infernal, Orc, Undercommon<h3 class="framing">Ecology</h3><b>Environment</b> any<br /><b>Organization</b> solitary<br /><b>Treasure</b> NPC gear (<i>boots of levitation</i>, <i>headband of vast intelligence +2 </i>[Perception], <i>ring of protection +2</i>, <i>potion of invisibility</i>, <i>scroll of dominate person</i>, <i>scroll of teleport</i>)<h3 class="framing">Description</h3>Few creatures are more feared than the lich. The pinnacle of necromantic art, the lich is a spellcaster who has chosen to shed his life as a method to cheat death by becoming undead. While many who reach such heights of power stop at nothing to achieve immortality, the idea of becoming a lich is abhorrent to most creatures. The process involves the extraction of the spellcaster’s life-force and its imprisonment in a specially prepared phylactery—the spellcaster gives up life, but in trapping life he also traps his death, and as long as his phylactery remains intact he can continue on in his research and work without fear of the passage of time.<br /><br />The quest to become a lich is a lengthy one. While construction of the magical phylactery to contain the spellcaster’s soul is a critical component, a prospective lich must also learn the secrets of transferring his soul into the receptacle and of preparing his body for the transformation into undeath, neither of which are simple tasks. Further complicating the ritual is the fact that no two bodies or souls are exactly alike—a ritual that works for one spellcaster might simply kill another or drive him insane. The exact methods for each spellcaster’s transformation are left to the GM’s discretion, but should involve expenditures of hundreds of thousands of gold pieces, numerous deadly adventures, and a large number of difficult skill checks over the course of months, years, or decades.<h1 class="title">The Lich’s Phylactery</h1>An integral part of becoming a lich is the creation of the phylactery in which the character stores his soul. The only way to get rid of a lich for sure is to destroy its phylactery. Unless its phylactery is located and destroyed, a lich can rejuvenate after it is killed (see Creating a Lich, below).<br /><br />Each lich must create its own phylactery by using the Craft Wondrous Item feat. The character must be able to cast spells and have a caster level of 11th or higher. The phylactery costs 120,000 gp to create and has a caster level equal to that of its creator at the time of creation.<br /><br />The most common form of phylactery is a sealed metal box containing strips of parchment on which magical phrases have been transcribed. The box is Tiny and has 40 hit points, hardness 20, and a break DC of 40.<br /><br />Other forms of phylacteries can exist, such as rings, amulets, or similar items.<h1 class="title">Creating a Lich</h1>“Lich” is an acquired template that can be added to any living creature (referred to hereafter as the base creature), provided it can create the required phylactery. A lich retains all the base creature's statistics and special abilities except as noted here.<br /><br /><b>CR</b>: Same as the base creature + 2. <br /><br /> <b>Alignment</b>: Any evil. <br /><br /> <b>Type</b>: The creature's type changes to undead. Do not recalculate BAB, saves, or skill ranks. <br /><br /> <b>Senses</b>: A lich gains darkvision 60 ft. <br /><br /> <b>Armor Class</b>: A lich has a +5 natural armor bonus or the base creature's natural armor bonus, whichever is better. <br /><br /> <b>Hit Dice</b>: Change all of the creature's racial Hit Dice to d8s. All Hit Dice derived from class levels remain unchanged. As undead, liches use their Charisma modifiers to determine bonus hit points (instead of Constitution). <br /><br /> <b>Defensive Abilities</b>: A lich gains channel resistance +4, DR 15/bludgeoning and magic, and immunity to cold and electricity (in addition to those granted by its undead traits). The lich also gains the following defensive ability. <br /><br /> <i>Rejuvenation (Su)</i>: When a lich is destroyed, its phylactery (which is generally hidden by the lich in a safe place far from where it chooses to dwell) immediately begins to rebuild the undead spellcaster's body nearby. This process takes 1d10 days—if the body is destroyed before that time passes, the phylactery merely starts the process anew. After this time passes, the lich wakens fully healed (albeit without any gear it left behind on its old body), usually with a burning need for revenge against those who previously destroyed it. <br /><br /> <b>Melee Attack</b>: A lich has a touch attack that it can use once per round as a natural weapon. A lich fighting without weapons uses its natural weapons (if it has any) in addition to its touch attack (which is treated as a primary natural weapon that replaces one claw or slam attack, if the creature has any). A lich armed with a weapon uses its weapons normally, and can use its touch attack as a secondary natural weapon. <br /><br /> <b>Damage</b>: A lich's touch attack uses negative energy to deal 1d8 points of damage to living creatures + 1 point of damage per 2 Hit Dice possessed by the lich. As negative energy, this damage can be used to heal undead creatures. A lich can take a full-round action to infuse itself with this energy, healing damage as if it had used its touch attack against itself. <br /><br /> <b>Special Attacks</b>: A lich gains the two special attacks described below. Save DCs are equal to 10 + 1/2 lich's HD + lich's Cha modifier unless otherwise noted. <br /><br /> <i>Fear Aura (Su)</i>: Creatures of less than 5 HD in a 60-foot radius that look at the lich must succeed on a Will save or become frightened. Creatures with 5 HD or more must succeed at a Will save or be shaken for a number of rounds equal to the lich's Hit Dice. A creature that successfully saves cannot be affected again by the same lich's aura for 24 hours. This is a mind-affecting fear effect. <br /><br />  <i>Paralyzing Touch (Su)</i>: Any living creature a lich hits with its touch attack must succeed on a Fortitude save or be permanently paralyzed. <i>Remove paralysis </i>or any spell that can remove a curse can free the victim (see the <i>bestow curse </i>spell description, with a DC equal to the lich's save DC). The effect cannot be dispelled. Anyone paralyzed by a lich seems dead, though a DC 20 Perception check or a DC 15 Heal check reveals that the victim is still alive. <br /><br /> <b>Abilities</b>: Int +2, Wis +2, Cha +2. Being undead, a lich has no Constitution score. <br /><br /> <b>Skills</b>: Liches have a +8 racial bonus on Perception, Sense Motive, and Stealth checks. A lich always treats Climb, Disguise, Fly, Intimidate, Knowledge (arcana), Knowledge (religion), Perception, Sense Motive, Spellcraft, and Stealth as class skills. Otherwise, skills are the same as the base creature. <h1 class="title">Creatures in "Lich" Category</h1><table class="inner"><tr><td><b>Name</b></td><td><b>CR</b></td></tr><tr><td><a href="MonsterDisplay.aspx?ItemName=Demilich">Demilich</a></td><td>14</td></tr><tr><td><a href="MonsterDisplay.aspx?ItemName=Forsaken Lich">Forsaken Lich</a></td><td>12</td></tr><tr><td><a href="MonsterDisplay.aspx?ItemName=Lich">Lich</a></td><td>12</td></tr><tr><td><a href="MonsterDisplay.aspx?ItemName=Psychic Lich">Psychic Lich</a></td><td>12</td></tr></table></span>
+        </td>
+	</tr>
+</table>
+    
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

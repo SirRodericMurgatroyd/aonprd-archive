@@ -1,0 +1,270 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Traits - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Traits" /><meta name="description" content="Character traits are abilities that are not tied to your character’s race or class. They can enhance your character’s skills, racial abilities, class abilities, or other statistics, enabling you to further customize him. At its core, a character trait is approximately equal in power to half a feat, so two character traits are roughly equivalent to a bonus feat. Yet a character trait isn’t just another kind of power you can add on to your character—it’s a way to quantify (and encourage) building a character background that fits into your campaign world. Think of character traits as “story seeds” for your background; after you pick your two traits, you’ll have a point of inspiration from which to build your character’s personality and history. Alternatively, if you’ve already got a background in your head or written down for your character, you can view picking his traits as a way to quantify that background, just as picking race and class and ability scores quantifies his other strengths and weaknesses.&lt;br />&lt;br /> Many traits grant a new type of bonus: a “trait” bonus. Trait bonuses do not stack—they’re intended to give player characters a slight edge, not a secret backdoor way to focus all of a character’s traits on one type of bonus and thus gain an unseemly advantage. It’s certainly possible, for example, that somewhere down the line, a “Courageous” trait might be on the list of dwarf race traits, but just because this trait is on both the dwarf race traits list and the basic combat traits list doesn’t mean you’re any more brave if you choose both versions than if you choose only one.&lt;br />&lt;br /> Character traits are only for player characters. If you want an NPC to have traits, that NPC must “buy” them with the &lt;a style=&quot;text-decoration:underline&quot; href=&quot;FeatDisplay.aspx?ItemName=Additional Traits&quot;>Additional Traits&lt;/a> feat. Player characters are special; they’re the stars of the game, after all, and it makes sense that they have an advantage over the NPCs of the world in this way." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=450" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXQOjx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDIiPkJhc2ljczwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD00NTAiPlRyYWl0czwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmbzEiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+QWR2YW5jZWQgUGxheWVyJ3MgR3VpZGUgcGcuIDMyNjwvaT48L2E+PGJyIC8+Q2hhcmFjdGVyIHRyYWl0cyBhcmUgYWJpbGl0aWVzIHRoYXQgYXJlIG5vdCB0aWVkIHRvIHlvdXIgY2hhcmFjdGVy4oCZcyByYWNlIG9yIGNsYXNzLiBUaGV5IGNhbiBlbmhhbmNlIHlvdXIgY2hhcmFjdGVy4oCZcyBza2lsbHMsIHJhY2lhbCBhYmlsaXRpZXMsIGNsYXNzIGFiaWxpdGllcywgb3Igb3RoZXIgc3RhdGlzdGljcywgZW5hYmxpbmcgeW91IHRvIGZ1cnRoZXIgY3VzdG9taXplIGhpbS4gQXQgaXRzIGNvcmUsIGEgY2hhcmFjdGVyIHRyYWl0IGlzIGFwcHJveGltYXRlbHkgZXF1YWwgaW4gcG93ZXIgdG8gaGFsZiBhIGZlYXQsIHNvIHR3byBjaGFyYWN0ZXIgdHJhaXRzIGFyZSByb3VnaGx5IGVxdWl2YWxlbnQgdG8gYSBib251cyBmZWF0LiBZZXQgYSBjaGFyYWN0ZXIgdHJhaXQgaXNu4oCZdCBqdXN0IGFub3RoZXIga2luZCBvZiBwb3dlciB5b3UgY2FuIGFkZCBvbiB0byB5b3VyIGNoYXJhY3RlcuKAlGl04oCZcyBhIHdheSB0byBxdWFudGlmeSAoYW5kIGVuY291cmFnZSkgYnVpbGRpbmcgYSBjaGFyYWN0ZXIgYmFja2dyb3VuZCB0aGF0IGZpdHMgaW50byB5b3VyIGNhbXBhaWduIHdvcmxkLiBUaGluayBvZiBjaGFyYWN0ZXIgdHJhaXRzIGFzIOKAnHN0b3J5IHNlZWRz4oCdIGZvciB5b3VyIGJhY2tncm91bmQ7IGFmdGVyIHlvdSBwaWNrIHlvdXIgdHdvIHRyYWl0cywgeW914oCZbGwgaGF2ZSBhIHBvaW50IG9mIGluc3BpcmF0aW9uIGZyb20gd2hpY2ggdG8gYnVpbGQgeW91ciBjaGFyYWN0ZXLigJlzIHBlcnNvbmFsaXR5IGFuZCBoaXN0b3J5LiBBbHRlcm5hdGl2ZWx5LCBpZiB5b3XigJl2ZSBhbHJlYWR5IGdvdCBhIGJhY2tncm91bmQgaW4geW91ciBoZWFkIG9yIHdyaXR0ZW4gZG93biBmb3IgeW91ciBjaGFyYWN0ZXIsIHlvdSBjYW4gdmlldyBwaWNraW5nIGhpcyB0cmFpdHMgYXMgYSB3YXkgdG8gcXVhbnRpZnkgdGhhdCBiYWNrZ3JvdW5kLCBqdXN0IGFzIHBpY2tpbmcgcmFjZSBhbmQgY2xhc3MgYW5kIGFiaWxpdHkgc2NvcmVzIHF1YW50aWZpZXMgaGlzIG90aGVyIHN0cmVuZ3RocyBhbmQgd2Vha25lc3Nlcy48YnIgLz48YnIgLz4gTWFueSB0cmFpdHMgZ3JhbnQgYSBuZXcgdHlwZSBvZiBib251czogYSDigJx0cmFpdOKAnSBib251cy4gVHJhaXQgYm9udXNlcyBkbyBub3Qgc3RhY2vigJR0aGV54oCZcmUgaW50ZW5kZWQgdG8gZ2l2ZSBwbGF5ZXIgY2hhcmFjdGVycyBhIHNsaWdodCBlZGdlLCBub3QgYSBzZWNyZXQgYmFja2Rvb3Igd2F5IHRvIGZvY3VzIGFsbCBvZiBhIGNoYXJhY3RlcuKAmXMgdHJhaXRzIG9uIG9uZSB0eXBlIG9mIGJvbnVzIGFuZCB0aHVzIGdhaW4gYW4gdW5zZWVtbHkgYWR2YW50YWdlLiBJdOKAmXMgY2VydGFpbmx5IHBvc3NpYmxlLCBmb3IgZXhhbXBsZSwgdGhhdCBzb21ld2hlcmUgZG93biB0aGUgbGluZSwgYSDigJxDb3VyYWdlb3Vz4oCdIHRyYWl0IG1pZ2h0IGJlIG9uIHRoZSBsaXN0IG9mIGR3YXJmIHJhY2UgdHJhaXRzLCBidXQganVzdCBiZWNhdXNlIHRoaXMgdHJhaXQgaXMgb24gYm90aCB0aGUgZHdhcmYgcmFjZSB0cmFpdHMgbGlzdCBhbmQgdGhlIGJhc2ljIGNvbWJhdCB0cmFpdHMgbGlzdCBkb2VzbuKAmXQgbWVhbiB5b3XigJlyZSBhbnkgbW9yZSBicmF2ZSBpZiB5b3UgY2hvb3NlIGJvdGggdmVyc2lvbnMgdGhhbiBpZiB5b3UgY2hvb3NlIG9ubHkgb25lLjxiciAvPjxiciAvPiBDaGFyYWN0ZXIgdHJhaXRzIGFyZSBvbmx5IGZvciBwbGF5ZXIgY2hhcmFjdGVycy4gSWYgeW91IHdhbnQgYW4gTlBDIHRvIGhhdmUgdHJhaXRzLCB0aGF0IE5QQyBtdXN0IOKAnGJ1eeKAnSB0aGVtIHdpdGggdGhlIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJGZWF0RGlzcGxheS5hc3B4P0l0ZW1OYW1lPUFkZGl0aW9uYWwgVHJhaXRzIj5BZGRpdGlvbmFsIFRyYWl0czwvYT4gZmVhdC4gUGxheWVyIGNoYXJhY3RlcnMgYXJlIHNwZWNpYWw7IHRoZXnigJlyZSB0aGUgc3RhcnMgb2YgdGhlIGdhbWUsIGFmdGVyIGFsbCwgYW5kIGl0IG1ha2VzIHNlbnNlIHRoYXQgdGhleSBoYXZlIGFuIGFkdmFudGFnZSBvdmVyIHRoZSBOUENzIG9mIHRoZSB3b3JsZCBpbiB0aGlzIHdheS48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTQ1MSI+R2FpbmluZyBUcmFpdHM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4Zm8xIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkFkdmFuY2VkIFBsYXllcidzIEd1aWRlIHBnLiAzMjY8L2k+PC9hPjxiciAvPldoZW4geW91IGNyZWF0ZSB5b3VyIGNoYXJhY3RlciBmb3IgYSBjYW1wYWlnbiwgYXNrIHlvdXIgR00gaG93IG1hbnkgdHJhaXRzIHlvdSBjYW4gc2VsZWN0LiBJbiBtb3N0IGNhc2VzLCBhIG5ldyBQQyBzaG91bGQgZ2FpbiB0d28gdHJhaXRzLCBlZmZlY3RpdmVseSBnYWluaW5nIHdoYXQgYW1vdW50cyB0byBhIGJvbnVzIGZlYXQgYXQgY2hhcmFjdGVyIGNyZWF0aW9uLiBTb21lIEdNcyBtYXkgd2lzaCB0byBhZGp1c3QgdGhpcyBudW1iZXIgc29tZXdoYXQsIGRlcGVuZGluZyB1cG9uIHRoZWlyIHN0eWxlIG9mIHBsYXk7IHlvdSBtYXkgb25seSBiZSBhYmxlIHRvIHBpY2sgb25lIHRyYWl0LCBvciB5b3VyIEdNIG1pZ2h0IGFsbG93IHRocmVlIG9yIG1vcmUuIEV2ZW4gaWYgeW91ciBHTSBub3JtYWxseSBkb2VzbuKAmXQgYWxsb3cgYm9udXMgdHJhaXRzLCB5b3UgbWlnaHQgc3RpbGwgYmUgYWJsZSB0byBwaWNrIHVwIHNvbWUgd2l0aCB0aGUgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IkZlYXREaXNwbGF5LmFzcHg/SXRlbU5hbWU9QWRkaXRpb25hbCBUcmFpdHMiPkFkZGl0aW9uYWwgVHJhaXRzPC9hPiBmZWF0LjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDUyIj5UeXBlcyBvZiBUcmFpdHM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4Zm8xIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkFkdmFuY2VkIFBsYXllcidzIEd1aWRlIHBnLiAzMjY8L2k+PC9hPjxiciAvPlRoZXJlIGFyZSBmaXZlIHR5cGVzIG9mIGNoYXJhY3RlciB0cmFpdHMgdG8gY2hvb3NlIGZyb206IGJhc2ljIChzcGxpdCBhbW9uZyBmb3VyIGNhdGVnb3JpZXM6IENvbWJhdCwgRmFpdGgsIE1hZ2ljLCBhbmQgU29jaWFsKSwgY2FtcGFpZ24sIHJhY2UsIHJlZ2lvbmFsLCBhbmQgcmVsaWdpb24uPGJyIC8+PGJyIC8+IDxiPkJhc2ljIFRyYWl0czwvYj46IFRoZXJlIGFyZSBhIHRvdGFsIG9mIDQwIGJhc2ljIHRyYWl0cywgd2hpY2ggYXJlIHNwbGl0IGV2ZW5seSBhbW9uZyB0aGUgY2F0ZWdvcmllcyBvZiBDb21iYXQsIEZhaXRoLCBNYWdpYywgYW5kIFNvY2lhbC4gTm90ZSB0aGF0IGVhY2ggb2YgdGhlc2UgZm91ciBjYXRlZ29yaWVzIHJvdWdobHkgZXF1YXRlcyB0byB0aGUgZm91ciBtb2RlcyBvZiBhZHZlbnR1cmluZywgYnV0IGFyZW7igJl0IHRpZWQgdG8gc3BlY2lmaWMgY2xhc3Nlcy4gSXTigJlzIHBlcmZlY3RseSBwb3NzaWJsZSB0byBoYXZlIGEgcmVsaWdpb3VzIHJvZ3VlLCBmb3IgZXhhbXBsZSwgb3IgYSBtYWdpYy1vYnNlc3NlZCBmaWdodGVyLiBCYXNpYyB0cmFpdHMgYXJlIOKAnGdlbmVyaWMs4oCdIGFuZCBzaG91bGQgYmUgYWJsZSB0byBmaXQgaW50byBhbnkgY2FtcGFpZ24gc2V0dGluZyB3aXRoIGEgbWluaW11bSBvZiBjdXN0b21pemF0aW9uLjxiciAvPjxiciAvPiA8Yj5DYW1wYWlnbiBUcmFpdHM8L2I+OiBUaGVzZSB0cmFpdHMgYXJlIHNwZWNpZmljYWxseSB0YWlsb3JlZCB0byBnaXZlIG5ldyBjaGFyYWN0ZXJzIGFuIGluc3RhbnQgaG9vayBpbnRvIGEgbmV3IGNhbXBhaWduLiBDYW1wYWlnbiB0cmFpdHMgdGFpbG9yZWQgdG8gYSBzcGVjaWZpYyBQYXRoZmluZGVyIEFkdmVudHVyZSBQYXRoIGNhbiBhbHdheXMgYmUgZm91bmQgaW4gdGhhdCBBZHZlbnR1cmUgUGF0aOKAmXMgUGxheWVy4oCZcyBHdWlkZS48YnIgLz48YnIgLz4gPGI+UmFjZSBUcmFpdHM8L2I+OiBSYWNlIHRyYWl0cyBhcmUga2V5ZWQgdG8gc3BlY2lmaWMgcmFjZXMgb3IgZXRobmljaXRpZXMsIHdoaWNoIHlvdXIgY2hhcmFjdGVyIG11c3QgYmVsb25nIHRvIGluIG9yZGVyIHRvIHNlbGVjdCB0aGUgdHJhaXQuIElmIHlvdXIgcmFjZSBvciBldGhuaWNpdHkgY2hhbmdlcyBhdCBzb21lIGxhdGVyIHBvaW50IChwZXJoYXBzIGFzIGEgcmVzdWx0IG9mIHBvbHltb3JwaCBtYWdpYyBvciBhIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1yZWluY2FybmF0aW9uIj48aT5yZWluY2FybmF0aW9uPC9pPjwvYT4gc3BlbGwpLCB0aGUgYmVuZWZpdHMgZ2FpbmVkIGJ5IHlvdXIgcmFjZSB0cmFpdCBwZXJzaXN04oCUb25seSBpZiB5b3VyIG1pbmQgYW5kIG1lbW9yaWVzIGNoYW5nZSBhcyB3ZWxsIGRvIHlvdSBsb3NlIHRoZSBiZW5lZml0cyBvZiBhIHJhY2UgdHJhaXQuPGJyIC8+PGJyIC8+IDxiPlJlZ2lvbmFsIFRyYWl0czwvYj46IFJlZ2lvbmFsIHRyYWl0cyBhcmUga2V5ZWQgdG8gc3BlY2lmaWMgcmVnaW9ucywgYmUgdGhleSBsYXJnZSAoc3VjaCBhcyBhIG5hdGlvbiBvciBnZW9ncmFwaGljIHJlZ2lvbikgb3Igc21hbGwgKHN1Y2ggYXMgYSBjaXR5IG9yIGEgc3BlY2lmaWMgbW91bnRhaW4pLiBJbiBvcmRlciB0byBzZWxlY3QgYSByZWdpb25hbCB0cmFpdCwgeW91ciBQQyBtdXN0IGhhdmUgc3BlbnQgYXQgbGVhc3QgYSB5ZWFyIGxpdmluZyBpbiB0aGF0IHJlZ2lvbi4gQXQgMXN0IGxldmVsLCB5b3UgY2FuIG9ubHkgc2VsZWN0IG9uZSByZWdpb25hbCB0cmFpdCAodHlwaWNhbGx5IHRoZSBvbmUgdGllZCB0byB5b3VyIGNoYXJhY3RlcuKAmXMgcGxhY2Ugb2YgYmlydGggb3IgaG9tZWxhbmQpLCBkZXNwaXRlIHRoZSBudW1iZXIgb2YgcmVnaW9ucyB5b3UgbWlnaHQgd2lzaCB0byB3cml0ZSBpbnRvIHlvdXIgY2hhcmFjdGVy4oCZcyBiYWNrZ3JvdW5kLjxiciAvPjxiciAvPiA8Yj5SZWxpZ2lvbiBUcmFpdHM8L2I+OiBSZWxpZ2lvbiB0cmFpdHMgaW5kaWNhdGUgdGhhdCB5b3VyIGNoYXJhY3RlciBoYXMgYW4gZXN0YWJsaXNoZWQgZmFpdGggaW4gYSBzcGVjaWZpYyBkZWl0eTsgeW91IG5lZWQgbm90IGJlIGEgbWVtYmVyIG9mIGEgY2xhc3MgdGhhdCBjYW4gd2llbGQgZGl2aW5lIG1hZ2ljIHRvIHBpY2sgYSByZWxpZ2lvbiB0cmFpdCwgYnV0IHlvdSBkbyBoYXZlIHRvIGhhdmUgYSBwYXRyb24gZGVpdHkgYW5kIGhhdmUgc29tZSBhbW91bnQgb2YgcmVsaWdpb24gaW4geW91ciBiYWNrZ3JvdW5kIHRvIGp1c3RpZnkgdGhpcyB0cmFpdC4gVW5saWtlIHRoZSBvdGhlciBjYXRlZ29yaWVzIG9mIHRyYWl0cywgcmVsaWdpb24gdHJhaXRzIGNhbiBnbyBhd2F5IGlmIHlvdSBhYmFuZG9uIHlvdXIgcmVsaWdpb24sIGFzIGRldGFpbGVkIGJlbG93IHVuZGVyIFJlc3RyaWN0aW9ucyBvbiBUcmFpdCBTZWxlY3Rpb24uPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD00NTMiPlJlc3RyaWN0aW9ucyBvbiBUcmFpdCBTZWxlY3Rpb248L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4Zm8xIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkFkdmFuY2VkIFBsYXllcidzIEd1aWRlIHBnLiAzMjY8L2k+PC9hPjxiciAvPlRoZXJlIGFyZSBhIGZldyBydWxlcyBnb3Zlcm5pbmcgdHJhaXQgc2VsZWN0aW9uLiBUbyBiZWdpbiB3aXRoLCB5b3VyIEdNIGNvbnRyb2xzIGhvdyBtYW55IGJvbnVzIHRyYWl0cyBhIFBDIGJlZ2lucyB3aXRoOyB0aGUgZGVmYXVsdCBhc3N1bXB0aW9uIGlzIHR3byB0cmFpdHMuIFdoZW4gc2VsZWN0aW5nIHRyYWl0cywgeW91IG1heSBub3Qgc2VsZWN0IG1vcmUgdGhhbiBvbmUgZnJvbSB0aGUgc2FtZSBsaXN0IG9mIHRyYWl0cyAodGhlIGZvdXIgYmFzaWMgdHJhaXRzIGVhY2ggY291bnQgYXMgYSBzZXBhcmF0ZSBsaXN0IGZvciB0aGlzIHB1cnBvc2UpLiBDZXJ0YWluIHR5cGVzIG9mIHRyYWl0cyBtYXkgaGF2ZSBhZGRpdGlvbmFsIHJlcXVpcmVtZW50cywgYXMgZGV0YWlsZWQgaW4gdGhlIHNlY3Rpb24gYWJvdmUuPGJyIC8+PGJyIC8+IFJlbWVtYmVyIGFsc28gdGhhdCB0cmFpdHMgYXJlIGludGVuZGVkIHRvIG1vZGVsIGV2ZW50cyB0aGF0IHdlcmUgZm9ybWF0aXZlIGluIHlvdXIgY2hhcmFjdGVy4oCZcyBkZXZlbG9wbWVudCwgZWl0aGVyIGV2ZW50cyBmcm9tIGJlZm9yZSBoZSBiZWNhbWUgYW4gYWR2ZW50dXJlciwgb3IgKGluIHRoZSBjYXNlIG9mIGFkZGl0aW9uYWwgdHJhaXRzIGdhaW5lZCB2aWEgdGhlIEFkZGl0aW9uYWwgVHJhaXRzIGZlYXQpIG9uZXMgdGhhdCBoYXBwZW5lZCB3aGlsZSBhZHZlbnR1cmluZy4gRXZlbiBpZiB5b3VyIGNoYXJhY3RlciBiZWNvbWVzIGEgaGVybWl0IGFuZCBhYmFuZG9ucyBzb2NpZXR5LCBoZeKAmWxsIHN0aWxsIHJldGFpbiBoaXMgbGVnYWN5IG9mIGdyb3dpbmcgdXAgYW4gYXJpc3RvY3JhdCBpZiBoZSB0b29rIHRoZSByZWxldmFudCBzb2NpYWwgdHJhaXQuIFRoZSBvbmUgZXhjZXB0aW9uIHRvIHRoaXMgaXMgcmVsaWdpb24gdHJhaXRz4oCUc2luY2UgdGhlc2UgdHJhaXRzIHJlcXVpcmUgY29udGludWVkIGZhaXRoIGluIGEgc3BlY2lmaWMgZGVpdHksIHlvdXIgY2hhcmFjdGVyIGNhbiBpbmRlZWQgbG9zZSB0aGUgYmVuZWZpdHMgb2YgdGhlc2UgdHJhaXRzIGlmIGhlIHN3aXRjaGVzIHJlbGlnaW9ucy4gSW4gdGhpcyBjYXNlLCBjb25zdWx0IHlvdXIgR00gZm9yIHlvdXIgb3B0aW9ucy4gU2hlIG1heSBzaW1wbHkgcnVsZSB0aGF0IHlvdXIgY2hhcmFjdGVyIGxvc2VzIHRoYXQgdHJhaXQsIG9yIHNoZSBtaWdodCBhbGxvdyBoaW0gdG8gcGljayBhIG5ldyByZWxpZ2lvbiB0cmFpdCB0aWVkIHRvIGhpcyBuZXcgZGVpdHkuIEFub3RoZXIgb3B0aW9uIGlzIHRoYXQgaWYgeW91ciBjaGFyYWN0ZXIgYWJhbmRvbnMgYSByZWxpZ2lvbiwgaGUgbG9zZXMgdGhlIGFzc29jaWF0ZWQgcmVsaWdpb24gdHJhaXQgdW50aWwgaGUgZ2FpbnMgYW4gZXhwZXJpZW5jZSBsZXZlbCwgYXQgd2hpY2ggcG9pbnQgaGUgbWF5IHJlcGxhY2UgYSBsb3N0IHJlbGlnaW9uIHRyYWl0IHdpdGggYSBiYXNpYyBmYWl0aCB0cmFpdC5kZGT9gpB9UcET6ziVG8JQg0fUxVtls5jWG+wzhq6vVOlKYw==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=42">Basics</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=450">Traits</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8fo1" target="_blank" class="external-link"><i>Advanced Player's Guide pg. 326</i></a><br />Character traits are abilities that are not tied to your character’s race or class. They can enhance your character’s skills, racial abilities, class abilities, or other statistics, enabling you to further customize him. At its core, a character trait is approximately equal in power to half a feat, so two character traits are roughly equivalent to a bonus feat. Yet a character trait isn’t just another kind of power you can add on to your character—it’s a way to quantify (and encourage) building a character background that fits into your campaign world. Think of character traits as “story seeds” for your background; after you pick your two traits, you’ll have a point of inspiration from which to build your character’s personality and history. Alternatively, if you’ve already got a background in your head or written down for your character, you can view picking his traits as a way to quantify that background, just as picking race and class and ability scores quantifies his other strengths and weaknesses.<br /><br /> Many traits grant a new type of bonus: a “trait” bonus. Trait bonuses do not stack—they’re intended to give player characters a slight edge, not a secret backdoor way to focus all of a character’s traits on one type of bonus and thus gain an unseemly advantage. It’s certainly possible, for example, that somewhere down the line, a “Courageous” trait might be on the list of dwarf race traits, but just because this trait is on both the dwarf race traits list and the basic combat traits list doesn’t mean you’re any more brave if you choose both versions than if you choose only one.<br /><br /> Character traits are only for player characters. If you want an NPC to have traits, that NPC must “buy” them with the <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Additional Traits">Additional Traits</a> feat. Player characters are special; they’re the stars of the game, after all, and it makes sense that they have an advantage over the NPCs of the world in this way.<br /><h1 class="title"><a href="Rules.aspx?ID=451">Gaining Traits</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8fo1" target="_blank" class="external-link"><i>Advanced Player's Guide pg. 326</i></a><br />When you create your character for a campaign, ask your GM how many traits you can select. In most cases, a new PC should gain two traits, effectively gaining what amounts to a bonus feat at character creation. Some GMs may wish to adjust this number somewhat, depending upon their style of play; you may only be able to pick one trait, or your GM might allow three or more. Even if your GM normally doesn’t allow bonus traits, you might still be able to pick up some with the <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Additional Traits">Additional Traits</a> feat.<br /><h1 class="title"><a href="Rules.aspx?ID=452">Types of Traits</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8fo1" target="_blank" class="external-link"><i>Advanced Player's Guide pg. 326</i></a><br />There are five types of character traits to choose from: basic (split among four categories: Combat, Faith, Magic, and Social), campaign, race, regional, and religion.<br /><br /> <b>Basic Traits</b>: There are a total of 40 basic traits, which are split evenly among the categories of Combat, Faith, Magic, and Social. Note that each of these four categories roughly equates to the four modes of adventuring, but aren’t tied to specific classes. It’s perfectly possible to have a religious rogue, for example, or a magic-obsessed fighter. Basic traits are “generic,” and should be able to fit into any campaign setting with a minimum of customization.<br /><br /> <b>Campaign Traits</b>: These traits are specifically tailored to give new characters an instant hook into a new campaign. Campaign traits tailored to a specific Pathfinder Adventure Path can always be found in that Adventure Path’s Player’s Guide.<br /><br /> <b>Race Traits</b>: Race traits are keyed to specific races or ethnicities, which your character must belong to in order to select the trait. If your race or ethnicity changes at some later point (perhaps as a result of polymorph magic or a <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=reincarnation"><i>reincarnation</i></a> spell), the benefits gained by your race trait persist—only if your mind and memories change as well do you lose the benefits of a race trait.<br /><br /> <b>Regional Traits</b>: Regional traits are keyed to specific regions, be they large (such as a nation or geographic region) or small (such as a city or a specific mountain). In order to select a regional trait, your PC must have spent at least a year living in that region. At 1st level, you can only select one regional trait (typically the one tied to your character’s place of birth or homeland), despite the number of regions you might wish to write into your character’s background.<br /><br /> <b>Religion Traits</b>: Religion traits indicate that your character has an established faith in a specific deity; you need not be a member of a class that can wield divine magic to pick a religion trait, but you do have to have a patron deity and have some amount of religion in your background to justify this trait. Unlike the other categories of traits, religion traits can go away if you abandon your religion, as detailed below under Restrictions on Trait Selection.<br /><h1 class="title"><a href="Rules.aspx?ID=453">Restrictions on Trait Selection</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8fo1" target="_blank" class="external-link"><i>Advanced Player's Guide pg. 326</i></a><br />There are a few rules governing trait selection. To begin with, your GM controls how many bonus traits a PC begins with; the default assumption is two traits. When selecting traits, you may not select more than one from the same list of traits (the four basic traits each count as a separate list for this purpose). Certain types of traits may have additional requirements, as detailed in the section above.<br /><br /> Remember also that traits are intended to model events that were formative in your character’s development, either events from before he became an adventurer, or (in the case of additional traits gained via the Additional Traits feat) ones that happened while adventuring. Even if your character becomes a hermit and abandons society, he’ll still retain his legacy of growing up an aristocrat if he took the relevant social trait. The one exception to this is religion traits—since these traits require continued faith in a specific deity, your character can indeed lose the benefits of these traits if he switches religions. In this case, consult your GM for your options. She may simply rule that your character loses that trait, or she might allow him to pick a new religion trait tied to his new deity. Another option is that if your character abandons a religion, he loses the associated religion trait until he gains an experience level, at which point he may replace a lost religion trait with a basic faith trait.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

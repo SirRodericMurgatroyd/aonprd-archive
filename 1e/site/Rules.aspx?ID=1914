@@ -1,0 +1,270 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Poisons - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Poisons" /><meta name="description" content="The poison track simulates the progressive effects of poison in the body. A character who is poisoned rolls a saving throw after the listed onset at the listed frequency. On an initial exposure to poison, regardless of whether her save succeeds, a victim takes an amount of poison damage equal to the poison’s DC – 10, divided by 2 (for example, 5 points of poison damage for a DC 20 poison). This is hit point damage, not ability damage. If a victim is exposed to additional doses of the same poison, a failed save progresses the poison track by one step and increases the duration by 50%, but doesn’t increase the DC." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=1914" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWeTzx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTcyNSI+UGF0aGZpbmRlciBVbmNoYWluZWQ8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTkwOSI+RGlzZWFzZXMgYW5kIFBvaXNvbnM8L2E+PC91PjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTkxNCI+UG9pc29uczwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWMyNT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtUGF0aGZpbmRlci1VbmNoYWluZWQiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UGF0aGZpbmRlciBVbmNoYWluZWQgcGcuIDEzOTwvaT48L2E+PGJyIC8+VGhlIHBvaXNvbiB0cmFjayBzaW11bGF0ZXMgdGhlIHByb2dyZXNzaXZlIGVmZmVjdHMgb2YgcG9pc29uIGluIHRoZSBib2R5LiBBIGNoYXJhY3RlciB3aG8gaXMgcG9pc29uZWQgcm9sbHMgYSBzYXZpbmcgdGhyb3cgYWZ0ZXIgdGhlIGxpc3RlZCBvbnNldCBhdCB0aGUgbGlzdGVkIGZyZXF1ZW5jeS4gT24gYW4gaW5pdGlhbCBleHBvc3VyZSB0byBwb2lzb24sIHJlZ2FyZGxlc3Mgb2Ygd2hldGhlciBoZXIgc2F2ZSBzdWNjZWVkcywgYSB2aWN0aW0gdGFrZXMgYW4gYW1vdW50IG9mIHBvaXNvbiBkYW1hZ2UgZXF1YWwgdG8gdGhlIHBvaXNvbuKAmXMgREMg4oCTIDEwLCBkaXZpZGVkIGJ5IDIgKGZvciBleGFtcGxlLCA1IHBvaW50cyBvZiBwb2lzb24gZGFtYWdlIGZvciBhIERDIDIwIHBvaXNvbikuIFRoaXMgaXMgaGl0IHBvaW50IGRhbWFnZSwgbm90IGFiaWxpdHkgZGFtYWdlLiBJZiBhIHZpY3RpbSBpcyBleHBvc2VkIHRvIGFkZGl0aW9uYWwgZG9zZXMgb2YgdGhlIHNhbWUgcG9pc29uLCBhIGZhaWxlZCBzYXZlIHByb2dyZXNzZXMgdGhlIHBvaXNvbiB0cmFjayBieSBvbmUgc3RlcCBhbmQgaW5jcmVhc2VzIHRoZSBkdXJhdGlvbiBieSA1MCUsIGJ1dCBkb2VzbuKAmXQgaW5jcmVhc2UgdGhlIERDLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTkxNSI+U3RyZW5ndGggUG9pc29uIFRyYWNrPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5YzI1P1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1QYXRoZmluZGVyLVVuY2hhaW5lZCIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QYXRoZmluZGVyIFVuY2hhaW5lZCBwZy4gMTM5PC9pPjwvYT48YnIgLz48cCBhbGlnbj0iY2VudGVyIj48Yj5IZWFsdGh54oCUV2Vha2VuZWTigJRJbXBhaXJlZOKAlFN0YWdnZXJlZOKAlEltbW9iaWxl4oCURGVhZDwvYj48L3A+IDxiciAvPjxiciAvPjxiPldlYWtlbmVkPC9iPjogQSBjaGFyYWN0ZXIgd2Vha2VuZWQgYnkgU3RyZW5ndGggcG9pc29uIHN1ZmZlcnMgYSDigJMyIHBlbmFsdHkgb24gU3RyZW5ndGgtYmFzZWQgYXR0YWNrIHJvbGxzLCBkYW1hZ2Ugcm9sbHMsIHNraWxsIGNoZWNrcywgYW5kIGFiaWxpdHkgY2hlY2tzLiBIZXIgY2FycnlpbmcgY2FwYWNpdHkgaXMgZGl2aWRlZCBieSAzLiBTaGUgaXMgYWx3YXlzIGNvbnNpZGVyZWQgdG8gYmUgY2FycnlpbmcgYXQgbGVhc3QgYSBtZWRpdW0gbG9hZC4gPGJyIC8+PGJyIC8+PGI+SW1wYWlyZWQ8L2I+OiBBIGNoYXJhY3RlciBpbXBhaXJlZCBieSBTdHJlbmd0aCBwb2lzb24gZXhwZXJpZW5jZXMgcmFwaWQgbXVzY2xlIGF0cm9waHkuIFNoZSB0YWtlcyBhbiBhZGRpdGlvbmFsIOKAkzIgcGVuYWx0eSBvbiB0aGUgYWZmZWN0ZWQgU3RyZW5ndGgtYmFzZWQgcm9sbHMsIGFuZCBpcyBhbHdheXMgY29uc2lkZXJlZCB0byBiZSBjYXJyeWluZyBhdCBsZWFzdCBhIGhlYXZ5IGxvYWQuIFN0YWdnZXJlZDogQSBjaGFyYWN0ZXIgc3RhZ2dlcmVkIGJ5IFN0cmVuZ3RoIHBvaXNvbiBpcyBzbyB3ZWFrZW5lZCB0aGF0IHNoZSBzdWZmZXJzIHRoZSBlZmZlY3RzIG9mIHRoZSBzdGFnZ2VyZWQgY29uZGl0aW9uIChleGNlcHQgc2hlIGNhbiB0YWtlIGEgZnVsbC1yb3VuZCBhY3Rpb24gaWYgaXQgaXMgcHVyZWx5IG1lbnRhbCkuIDxiciAvPjxiciAvPjxiPkltbW9iaWxlPC9iPjogQSBjaGFyYWN0ZXIgcmVuZGVyZWQgaW1tb2JpbGUgYnkgU3RyZW5ndGggcG9pc29uIGNhbm5vdCBtb3ZlIGhlciBib2R5IGF0IGFsbC4gU2hlIGlzIGhlbHBsZXNzIGFuZCBjYW4gdGFrZSBvbmx5IHB1cmVseSBtZW50YWwgYWN0aW9ucy4gPGJyIC8+PGJyIC8+PGI+RGVhZDwvYj46IEFsbCB0aGUgY2hhcmFjdGVy4oCZcyBtdXNjbGVzIGNlYXNlIGZ1bmN0aW9uaW5nLCBpbmNsdWRpbmcgdGhlIGhlYXJ0LjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTkxNiI+RGV4dGVyaXR5IFBvaXNvbiBUcmFjazwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWMyNT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtUGF0aGZpbmRlci1VbmNoYWluZWQiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UGF0aGZpbmRlciBVbmNoYWluZWQgcGcuIDEzOTwvaT48L2E+PGJyIC8+PHAgYWxpZ249ImNlbnRlciI+PGI+SGVhbHRoeeKAlFNsdWdnaXNo4oCUU3RpZmZlbmVk4oCUU3RhZ2dlcmVk4oCUSW1tb2JpbGXigJREZWFkPC9iPjwvcD4gPGJyIC8+PGJyIC8+PGI+U2x1Z2dpc2g8L2I+OiBBIGNoYXJhY3RlciByZW5kZXJlZCBzbHVnZ2lzaCBieSBEZXh0ZXJpdHkgcG9pc29uIGhhcyBkdWxsZWQgcmVhY3Rpb25zLiBIZSB0YWtlcyBhIOKAkzIgcGVuYWx0eSBvbiBSZWZsZXggc2F2ZXMgYW5kIGFsbCBEZXh0ZXJpdHktYmFzZWQgYXR0YWNrIHJvbGxzLCBhYmlsaXR5IGNoZWNrcywgYW5kIHNraWxsIGNoZWNrcywgYXMgd2VsbCBhcyB0byBBQy4gPGJyIC8+PGJyIC8+PGI+U3RpZmZlbmVkPC9iPjogQSBjaGFyYWN0ZXIgc3RpZmZlbmVkIGJ5IERleHRlcml0eSBwb2lzb24gZmVlbHMgbnVtYiBhbmQgc3RpZmYuIEhlIGlzIGNvbnNpZGVyZWQgZmxhdC1mb290ZWQgYW5kIGlzIGRlbmllZCBoaXMgRGV4dGVyaXR5IGJvbnVzIHRvIEFDLCBldmVuIGlmIGhlIGhhcyB1bmNhbm55IGRvZGdlLiBIZSBjYW7igJl0IG1ha2UgYXR0YWNrcyBvZiBvcHBvcnR1bml0eS4gPGJyIC8+PGJyIC8+PGI+U3RhZ2dlcmVkPC9iPjogQSBjaGFyYWN0ZXIgc3RhZ2dlcmVkIGJ5IERleHRlcml0eSBwb2lzb24gaXMgc28gc2xvd2VkIGFuZCBzdGlmZmVuZWQgdGhhdCBoZSBnYWlucyBhbGwgdGhlIGVmZmVjdHMgb2YgdGhlIHN0YWdnZXJlZCBjb25kaXRpb24gKGV4Y2VwdCB0aGF0IGhlIGNhbiB0YWtlIGEgZnVsbC1yb3VuZCBhY3Rpb24gaWYgaXQgaXMgcHVyZWx5IG1lbnRhbCkuIDxiciAvPjxiciAvPjxiPkltbW9iaWxlPC9iPjogQSBjaGFyYWN0ZXIgcmVuZGVyZWQgaW1tb2JpbGUgYnkgRGV4dGVyaXR5IHBvaXNvbiBjYW5ub3QgbW92ZSBoaXMgYm9keSBhdCBhbGwuIEhlIGlzIGhlbHBsZXNzIGFuZCBjYW4gdGFrZSBvbmx5IHB1cmVseSBtZW50YWwgYWN0aW9ucy4gPGJyIC8+PGJyIC8+PGI+RGVhZDwvYj46IFRoZSBjaGFyYWN0ZXLigJlzIGJvZHkgYmVjb21lcyBjb21wbGV0ZWx5IGluY2FwYWJsZSBvZiBtb3ZlbWVudCBhbmQgZGllcy48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE5MTciPkNvbnN0aXR1dGlvbiBQb2lzb24gVHJhY2s8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTljMjU/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVBhdGhmaW5kZXItVW5jaGFpbmVkIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBhdGhmaW5kZXIgVW5jaGFpbmVkIHBnLiAxMzk8L2k+PC9hPjxiciAvPjxwIGFsaWduPSJjZW50ZXIiPjxiPkhlYWx0aHnigJRXZWFrZW5lZOKAlEltcGFpcmVk4oCURGlzYWJsZWTigJRVbmNvbnNjaW91c+KAlERlYWQ8L2I+PC9wPiA8YnIgLz48YnIgLz48Yj5XZWFrZW5lZDwvYj46IEEgY2hhcmFjdGVyIHdob3NlIGhlYWx0aCBpcyB3ZWFrZW5lZCBieSBDb25zdGl0dXRpb24gcG9pc29uIHRha2VzIGEg4oCTMiBwZW5hbHR5IG9uIGFsbCBGb3J0aXR1ZGUgc2F2ZXMgYW5kIENvbnN0aXR1dGlvbiBjaGVja3MuIEV2ZXJ5IHRpbWUgc2hlIGF0dGVtcHRzIGEgRm9ydGl0dWRlIHNhdmUgYWdhaW5zdCB0aGUgcG9pc29uLCB3aGV0aGVyIHNoZSBzdWNjZWVkcyBvciBmYWlscywgc2hlIHRha2VzIGRhbWFnZSBhcyBvbiBpbml0aWFsIGV4cG9zdXJlLiA8YnIgLz48YnIgLz48Yj5JbXBhaXJlZDwvYj46IEEgY2hhcmFjdGVyIGltcGFpcmVkIGJ5IENvbnN0aXR1dGlvbiBwb2lzb24gdGFrZXMgYW4gYWRkaXRpb25hbCDigJMyIHBlbmFsdHkgb24gdGhlIGFib3ZlIGNoZWNrcy4gPGJyIC8+PGJyIC8+PGI+RGlzYWJsZWQ8L2I+OiBBIGNoYXJhY3RlciBkaXNhYmxlZCBieSBDb25zdGl0dXRpb24gcG9pc29uIGdhaW5zIHRoZSBkaXNhYmxlZCBjb25kaXRpb24uIElmIHNoZSB0YWtlcyBhIHN0YW5kYXJkIGFjdGlvbiwgaGVyIGhpdCBwb2ludHMgZHJvcCBieSAxIG9yIHRvIOKAkzEsIHdoaWNoZXZlciBpcyB3b3JzZS4gPGJyIC8+PGJyIC8+PGI+VW5jb25zY2lvdXM8L2I+OiBBIGNoYXJhY3RlciByZW5kZXJlZCB1bmNvbnNjaW91cyBieSBDb25zdGl0dXRpb24gcG9pc29uIGVudGVycyBhIHN0YXRlIG9mIHNob2NrIGFuZCBjYW7igJl0IGJlIHdva2VuIGJ5IGFueSBtZWFucyBhcyBsb25nIGFzIHNoZSByZW1haW5zIGluIHRoaXMgc3RhdGUuIDxiciAvPjxiciAvPjxiPkRlYWQ8L2I+OiBUaGUgY2hhcmFjdGVy4oCZcyBpbW11bmUgc3lzdGVtIGlzIHJhdmFnZWQgYnkgdGhlIHBvaXNvbiwgYW5kIHNoZSBleHBpcmVzLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTkxOCI+SW50ZWxsaWdlbmNlIFBvaXNvbiBUcmFjazwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWMyNT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtUGF0aGZpbmRlci1VbmNoYWluZWQiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UGF0aGZpbmRlciBVbmNoYWluZWQgcGcuIDEzOTwvaT48L2E+PGJyIC8+PHAgYWxpZ249ImNlbnRlciI+PGI+SGVhbHRoeeKAlFdlYWtlbmVk4oCUSW1wYWlyZWTigJRBbmltYWxpc3RpY+KAlENvbWF0b3Nl4oCURGVhZDwvYj48L3A+IDxiciAvPjxiciAvPjxiPldlYWtlbmVkPC9iPjogQSBjaGFyYWN0ZXIgd2hvc2UgcmVhc29uIGlzIHdlYWtlbmVkIGJ5IEludGVsbGlnZW5jZSBwb2lzb24gdGFrZXMgYSDigJMyIHBlbmFsdHkgb24gYWxsIEludGVsbGlnZW5jZWJhc2VkIHNraWxsIGNoZWNrcyBhbmQgYWJpbGl0eSBjaGVja3MuIEEgY2hhcmFjdGVyIHdpdGggc3BlbGxjYXN0aW5nIGJhc2VkIG9uIEludGVsbGlnZW5jZSBkZWNyZWFzZXMgaGlzIERDcyBieSAyIGFuZCBjYW4gbm8gbG9uZ2VyIGNhc3QgaGlzIGhpZ2hlc3QgbGV2ZWwgb2Ygc3BlbGxzLiA8YnIgLz48YnIgLz48Yj5JbXBhaXJlZDwvYj46IEEgY2hhcmFjdGVyIGltcGFpcmVkIGJ5IEludGVsbGlnZW5jZSBwb2lzb24gZG9lcyBub3QgYWRkIGhpcyBJbnRlbGxpZ2VuY2UgYm9udXMgdG8gdGhlIG51bWJlciBvZiB1c2VzIHBlciBkYXkgb2YgcG9vbHMgYW5kIGFiaWxpdGllcyAoc3VjaCBhcyBhbiBhcmNhbmUgcG9vbCkgYW5kIGRvZXMgbm90IGdhaW4gYm9udXMgc3BlbGxzIHBlciBkYXkgZnJvbSBoaXMgSW50ZWxsaWdlbmNlLiBIZSB0YWtlcyBhbiBhZGRpdGlvbmFsIOKAkzIgcGVuYWx0eSBvbiB0aGUgYWJvdmUgSW50ZWxsaWdlbmNlLWJhc2VkIHJvbGxzLiBBbiBJbnRlbGxpZ2VuY2UtYmFzZWQgY2FzdGVyIHJlZHVjZXMgaGlzIERDcyBieSBhbiBhZGRpdGlvbmFsIDIsIGFuZCBoZSBjYW4gbm8gbG9uZ2VyIGNhc3QgaGlzIDIgaGlnaGVzdCBsZXZlbHMgb2Ygc3BlbGxzLiA8YnIgLz48YnIgLz48Yj5BbmltYWxpc3RpYzwvYj46IEEgY2hhcmFjdGVyIHJlbmRlcmVkIGFuaW1hbGlzdGljIGJ5IEludGVsbGlnZW5jZSBwb2lzb24gc3VmZmVycyB0aGUgc2FtZSBlZmZlY3RzIGFzIGZyb20gYSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9ZmVlYmxlbWluZCI+PGk+ZmVlYmxlbWluZDwvaT48L2E+IHNwZWxsLCBleGNlcHQgaGlzIENoYXJpc21hIGFuZCBDaGFyaXNtYS1iYXNlZCBza2lsbHMgYXJlIHVuYWZmZWN0ZWQuIDxiciAvPjxiciAvPjxiPkNvbWF0b3NlPC9iPjogQSBjaGFyYWN0ZXIgcmVuZGVyZWQgY29tYXRvc2UgYnkgSW50ZWxsaWdlbmNlIHBvaXNvbiBpcyBubyBsb25nZXIgYWJsZSB0byBwcm9jZXNzIHRob3VnaHRzLiBIZSBjYW5ub3QgYmUgd29rZW4gYnkgYW55IG1lYW5zIGFzIGxvbmcgYXMgaGUgcmVtYWlucyBpbiB0aGlzIHN0YXRlLiA8YnIgLz48YnIgLz48Yj5EZWFkPC9iPjogVGhlIGNoYXJhY3RlcuKAmXMgYnJhaW4gc3RvcHMgZnVuY3Rpb25pbmcsIGFuZCBoZSBkaWVzLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTkxOSI+V2lzZG9tIFBvaXNvbiBUcmFjazwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWMyNT9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtUGF0aGZpbmRlci1VbmNoYWluZWQiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UGF0aGZpbmRlciBVbmNoYWluZWQgcGcuIDE0MDwvaT48L2E+PGJyIC8+PHAgYWxpZ249ImNlbnRlciI+PGI+SGVhbHRoeeKAlFdlYWtlbmVk4oCUSW1wYWlyZWTigJRDb25mdXNlZOKAlENvbWF0b3Nl4oCURGVhZDwvYj48L3A+IDxiciAvPjxiciAvPjxiPldlYWtlbmVkPC9iPjogQSBjaGFyYWN0ZXIgd2hvc2UgYXdhcmVuZXNzIGlzIHdlYWtlbmVkIGJ5IFdpc2RvbSBwb2lzb24gdGFrZXMgYSDigJMyIHBlbmFsdHkgb24gYWxsIFdpc2RvbS1iYXNlZCBza2lsbCBjaGVja3MgYW5kIGFiaWxpdHkgY2hlY2tzLCBhcyB3ZWxsIGFzIG9uIFdpbGwgc2F2ZXMuIEEgY2hhcmFjdGVyIHdpdGggc3BlbGxjYXN0aW5nIGJhc2VkIG9uIFdpc2RvbSBkZWNyZWFzZXMgaGVyIERDcyBieSAyIGFuZCBjYW4gbm8gbG9uZ2VyIGNhc3QgaGVyIGhpZ2hlc3QgbGV2ZWwgb2Ygc3BlbGxzLiBJbXBhaXJlZDogQSBjaGFyYWN0ZXIgaW1wYWlyZWQgYnkgV2lzZG9tIHBvaXNvbiBkb2VzIG5vdCBhZGQgaGVyIFdpc2RvbSBib251cyB0byB0aGUgbnVtYmVyIG9mIHVzZXMgcGVyIGRheSBvZiBwb29scyBhbmQgYWJpbGl0aWVzIChzdWNoIGFzIGEga2kgcG9vbCkgYW5kIGRvZXMgbm90IGdhaW4gYm9udXMgc3BlbGxzIHBlciBkYXkgZnJvbSBoZXIgV2lzZG9tLiBTaGUgdGFrZXMgYW4gYWRkaXRpb25hbCDigJMyIHBlbmFsdHkgb24gdGhlIGFib3ZlIFdpc2RvbS1iYXNlZCByb2xscy4gQSBXaXNkb20tYmFzZWQgY2FzdGVyIHJlZHVjZXMgaGVyIERDcyBieSBhbiBhZGRpdGlvbmFsIDIsIGFuZCBjYW4gbm8gbG9uZ2VyIGNhc3QgaGVyIDIgaGlnaGVzdCBsZXZlbHMgb2Ygc3BlbGxzLiA8YnIgLz48YnIgLz48Yj5Db25mdXNlZDwvYj46IEEgY2hhcmFjdGVyIHdob+KAmXMgY29uZnVzZWQgYnkgV2lzZG9tIHBvaXNvbiBoYXMgZGlmZmljdWx0eSBwcm9jZXNzaW5nIHJlYWxpdHkgYW5kIGlzIGRhbmdlcm91cyB0byBoZXJzZWxmIGFuZCBvdGhlcnMuIEVhY2ggcm91bmQsIHNoZSByb2xscyBvbiB0aGUgY2hhcnQgZnJvbSB0aGUgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPWNvbmZ1c2lvbiI+PGk+Y29uZnVzaW9uPC9pPjwvYT4gc3BlbGwgdG8gZGV0ZXJtaW5lIGhlciBhY3Rpb25zLiA8YnIgLz48YnIgLz48Yj5Db21hdG9zZTwvYj46IEEgY2hhcmFjdGVyIHJlbmRlcmVkIGNvbWF0b3NlIGJ5IFdpc2RvbSBwb2lzb24gaXMgbm8gbG9uZ2VyIGFibGUgdG8gZXhwZXJpZW5jZSByZWFsaXR5IG9yIHJlY2VpdmUgc2Vuc29yeSBpbmZvcm1hdGlvbi4gU2hlIGNhbuKAmXQgYmUgd29rZW4gYnkgYW55IG1lYW5zIGFzIGxvbmcgYXMgc2hlIHJlbWFpbnMgaW4gdGhpcyBzdGF0ZS4gPGJyIC8+PGJyIC8+PGI+RGVhZDwvYj46IEZvcmV2ZXIgbG9zdCBpbiBoZXIgb3duIGlubmVyIHJlYWxpdHksIHRoZSBjaGFyYWN0ZXLigJlzIGJyYWluIHN0b3BzIHdvcmtpbmcsIGFuZCBzaGUgZGllcy4gPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xOTIwIj5DaGFyaXNtYSBQb2lzb24gVHJhY2s8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTljMjU/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVBhdGhmaW5kZXItVW5jaGFpbmVkIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBhdGhmaW5kZXIgVW5jaGFpbmVkIHBnLiAxNDA8L2k+PC9hPjxiciAvPjxwIGFsaWduPSJjZW50ZXIiPjxiPkhlYWx0aHnigJRXZWFrZW5lZOKAlEltcGFpcmVk4oCUUGxpYWJsZeKAlENhdGF0b25pY+KAlERlYWQ8L2I+PC9wPiA8YnIgLz48YnIgLz48Yj5XZWFrZW5lZDwvYj46IEEgY2hhcmFjdGVyIHdob3NlIHNlbnNlIG9mIHNlbGYgaXMgd2Vha2VuZWQgYnkgQ2hhcmlzbWEgcG9pc29uIHRha2VzIGEg4oCTMiBwZW5hbHR5IG9uIGFsbCBDaGFyaXNtYS1iYXNlZCBza2lsbCBjaGVja3MgYW5kIGFiaWxpdHkgY2hlY2tzLiBBIGNoYXJhY3RlciB3aXRoIHNwZWxsY2FzdGluZyBiYXNlZCBvbiBDaGFyaXNtYSBkZWNyZWFzZXMgaGlzIERDcyBieSAyIGFuZCBjYW4gbm8gbG9uZ2VyIGNhc3QgaGlzIGhpZ2hlc3QgbGV2ZWwgb2Ygc3BlbGxzLiA8YnIgLz48YnIgLz48Yj5JbXBhaXJlZDwvYj46IEEgY2hhcmFjdGVyIGltcGFpcmVkIGJ5IENoYXJpc21hIHBvaXNvbiBkb2VzbuKAmXQgYWRkIGhpcyBDaGFyaXNtYSBib251cyB0byB0aGUgbnVtYmVyIG9mIHVzZXMgcGVyIGRheSBvZiBwb29scyBhbmQgYWJpbGl0aWVzIChzdWNoIGFzIGxheSBvbiBoYW5kcykgYW5kIGRvZXNu4oCZdCBnYWluIGJvbnVzIHNwZWxscyBwZXIgZGF5IGZyb20gaGlzIENoYXJpc21hLiBIZSB0YWtlcyBhbiBhZGRpdGlvbmFsIOKAkzIgcGVuYWx0eSBvbiB0aGUgYWJvdmUgQ2hhcmlzbWEtYmFzZWQgcm9sbHMuIEEgQ2hhcmlzbWEtYmFzZWQgY2FzdGVyIHJlZHVjZXMgaGlzIERDcyBieSBhbiBhZGRpdGlvbmFsIDIsIGFuZCBjYW4gbm8gbG9uZ2VyIGNhc3QgaGlzIDIgaGlnaGVzdCBsZXZlbHMgb2Ygc3BlbGxzLiA8YnIgLz48YnIgLz48Yj5QbGlhYmxlPC9iPjogQSBjaGFyYWN0ZXIgcmVuZGVyZWQgcGxpYWJsZSBieSBDaGFyaXNtYSBwb2lzb24gaGFzIGxpdHRsZSBzZW5zZSBvZiBzZWxmIGFuZCB3aWxsIGdvIGFsb25nIHdpdGggbmVhcmx5IGFueXRoaW5nLiBCbHVmZiwgRGlwbG9tYWN5LCBhbmQgSW50aW1pZGF0ZSBjaGVja3MgYXV0b21hdGljYWxseSBzdWNjZWVkIGFnYWluc3QgYSBwbGlhYmxlIGNoYXJhY3RlciwgZXhjZXB0IERpcGxvbWFjeSBjaGVja3MgdG8gaW1wcm92ZSBhIHBsaWFibGUgY2hhcmFjdGVy4oCZcyBhdHRpdHVkZSwgd2hpY2ggaGF2ZSB0aGUgbm9ybWFsIERDLiBUaGlzIHN0aWxsIGRvZXMgbm90IGFsbG93IGNoYXJhY3RlcnMgdG8gd2hvbSB0aGUgcGxpYWJsZSBjaGFyYWN0ZXIgaXMgdW5mcmllbmRseSBvciBob3N0aWxlIHRvIG1ha2UgcmVxdWVzdHMgb2YgdGhlIHBsaWFibGUgY2hhcmFjdGVyIHVzaW5nIERpcGxvbWFjeS4gPGJyIC8+PGJyIC8+PGI+Q2F0YXRvbmljPC9iPjogQSBjaGFyYWN0ZXIgcmVuZGVyZWQgY2F0YXRvbmljIGJ5IENoYXJpc21hIHBvaXNvbiBjYW4gc2VlLCBoZWFyLCBhbmQgcHJvY2VzcyBoaXMgZW52aXJvbm1lbnQsIGJ1dCBoYXMgbG9zdCBhbGwgYWdlbmN5IGFuZCBjYW7igJl0IGludGVyYWN0IHdpdGggdGhlIHdvcmxkIGluIGFueSB3YXkuIDxiciAvPjxiciAvPjxiPkRlYWQ8L2I+OiBUaGUgY2hhcmFjdGVyIGxvc2VzIGV2ZW4gYXV0b25vbWljIGZ1bmN0aW9ucywgYW5kIGRpZXMuZGRko5f+Jwiajp49FjziiSvbWfoYdTpHJV/rbjD38QYysCQ=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1725">Pathfinder Unchained</a></u> / <u><a href="Rules.aspx?ID=1909">Diseases and Poisons</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=1914">Poisons</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 139</i></a><br />The poison track simulates the progressive effects of poison in the body. A character who is poisoned rolls a saving throw after the listed onset at the listed frequency. On an initial exposure to poison, regardless of whether her save succeeds, a victim takes an amount of poison damage equal to the poison’s DC – 10, divided by 2 (for example, 5 points of poison damage for a DC 20 poison). This is hit point damage, not ability damage. If a victim is exposed to additional doses of the same poison, a failed save progresses the poison track by one step and increases the duration by 50%, but doesn’t increase the DC.<br /><h1 class="title"><a href="Rules.aspx?ID=1915">Strength Poison Track</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 139</i></a><br /><p align="center"><b>Healthy—Weakened—Impaired—Staggered—Immobile—Dead</b></p> <br /><br /><b>Weakened</b>: A character weakened by Strength poison suffers a –2 penalty on Strength-based attack rolls, damage rolls, skill checks, and ability checks. Her carrying capacity is divided by 3. She is always considered to be carrying at least a medium load. <br /><br /><b>Impaired</b>: A character impaired by Strength poison experiences rapid muscle atrophy. She takes an additional –2 penalty on the affected Strength-based rolls, and is always considered to be carrying at least a heavy load. Staggered: A character staggered by Strength poison is so weakened that she suffers the effects of the staggered condition (except she can take a full-round action if it is purely mental). <br /><br /><b>Immobile</b>: A character rendered immobile by Strength poison cannot move her body at all. She is helpless and can take only purely mental actions. <br /><br /><b>Dead</b>: All the character’s muscles cease functioning, including the heart.<br /><h1 class="title"><a href="Rules.aspx?ID=1916">Dexterity Poison Track</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 139</i></a><br /><p align="center"><b>Healthy—Sluggish—Stiffened—Staggered—Immobile—Dead</b></p> <br /><br /><b>Sluggish</b>: A character rendered sluggish by Dexterity poison has dulled reactions. He takes a –2 penalty on Reflex saves and all Dexterity-based attack rolls, ability checks, and skill checks, as well as to AC. <br /><br /><b>Stiffened</b>: A character stiffened by Dexterity poison feels numb and stiff. He is considered flat-footed and is denied his Dexterity bonus to AC, even if he has uncanny dodge. He can’t make attacks of opportunity. <br /><br /><b>Staggered</b>: A character staggered by Dexterity poison is so slowed and stiffened that he gains all the effects of the staggered condition (except that he can take a full-round action if it is purely mental). <br /><br /><b>Immobile</b>: A character rendered immobile by Dexterity poison cannot move his body at all. He is helpless and can take only purely mental actions. <br /><br /><b>Dead</b>: The character’s body becomes completely incapable of movement and dies.<br /><h1 class="title"><a href="Rules.aspx?ID=1917">Constitution Poison Track</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 139</i></a><br /><p align="center"><b>Healthy—Weakened—Impaired—Disabled—Unconscious—Dead</b></p> <br /><br /><b>Weakened</b>: A character whose health is weakened by Constitution poison takes a –2 penalty on all Fortitude saves and Constitution checks. Every time she attempts a Fortitude save against the poison, whether she succeeds or fails, she takes damage as on initial exposure. <br /><br /><b>Impaired</b>: A character impaired by Constitution poison takes an additional –2 penalty on the above checks. <br /><br /><b>Disabled</b>: A character disabled by Constitution poison gains the disabled condition. If she takes a standard action, her hit points drop by 1 or to –1, whichever is worse. <br /><br /><b>Unconscious</b>: A character rendered unconscious by Constitution poison enters a state of shock and can’t be woken by any means as long as she remains in this state. <br /><br /><b>Dead</b>: The character’s immune system is ravaged by the poison, and she expires.<br /><h1 class="title"><a href="Rules.aspx?ID=1918">Intelligence Poison Track</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 139</i></a><br /><p align="center"><b>Healthy—Weakened—Impaired—Animalistic—Comatose—Dead</b></p> <br /><br /><b>Weakened</b>: A character whose reason is weakened by Intelligence poison takes a –2 penalty on all Intelligencebased skill checks and ability checks. A character with spellcasting based on Intelligence decreases his DCs by 2 and can no longer cast his highest level of spells. <br /><br /><b>Impaired</b>: A character impaired by Intelligence poison does not add his Intelligence bonus to the number of uses per day of pools and abilities (such as an arcane pool) and does not gain bonus spells per day from his Intelligence. He takes an additional –2 penalty on the above Intelligence-based rolls. An Intelligence-based caster reduces his DCs by an additional 2, and he can no longer cast his 2 highest levels of spells. <br /><br /><b>Animalistic</b>: A character rendered animalistic by Intelligence poison suffers the same effects as from a <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=feeblemind"><i>feeblemind</i></a> spell, except his Charisma and Charisma-based skills are unaffected. <br /><br /><b>Comatose</b>: A character rendered comatose by Intelligence poison is no longer able to process thoughts. He cannot be woken by any means as long as he remains in this state. <br /><br /><b>Dead</b>: The character’s brain stops functioning, and he dies.<br /><h1 class="title"><a href="Rules.aspx?ID=1919">Wisdom Poison Track</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 140</i></a><br /><p align="center"><b>Healthy—Weakened—Impaired—Confused—Comatose—Dead</b></p> <br /><br /><b>Weakened</b>: A character whose awareness is weakened by Wisdom poison takes a –2 penalty on all Wisdom-based skill checks and ability checks, as well as on Will saves. A character with spellcasting based on Wisdom decreases her DCs by 2 and can no longer cast her highest level of spells. Impaired: A character impaired by Wisdom poison does not add her Wisdom bonus to the number of uses per day of pools and abilities (such as a ki pool) and does not gain bonus spells per day from her Wisdom. She takes an additional –2 penalty on the above Wisdom-based rolls. A Wisdom-based caster reduces her DCs by an additional 2, and can no longer cast her 2 highest levels of spells. <br /><br /><b>Confused</b>: A character who’s confused by Wisdom poison has difficulty processing reality and is dangerous to herself and others. Each round, she rolls on the chart from the <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=confusion"><i>confusion</i></a> spell to determine her actions. <br /><br /><b>Comatose</b>: A character rendered comatose by Wisdom poison is no longer able to experience reality or receive sensory information. She can’t be woken by any means as long as she remains in this state. <br /><br /><b>Dead</b>: Forever lost in her own inner reality, the character’s brain stops working, and she dies. <br /><h1 class="title"><a href="Rules.aspx?ID=1920">Charisma Poison Track</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 140</i></a><br /><p align="center"><b>Healthy—Weakened—Impaired—Pliable—Catatonic—Dead</b></p> <br /><br /><b>Weakened</b>: A character whose sense of self is weakened by Charisma poison takes a –2 penalty on all Charisma-based skill checks and ability checks. A character with spellcasting based on Charisma decreases his DCs by 2 and can no longer cast his highest level of spells. <br /><br /><b>Impaired</b>: A character impaired by Charisma poison doesn’t add his Charisma bonus to the number of uses per day of pools and abilities (such as lay on hands) and doesn’t gain bonus spells per day from his Charisma. He takes an additional –2 penalty on the above Charisma-based rolls. A Charisma-based caster reduces his DCs by an additional 2, and can no longer cast his 2 highest levels of spells. <br /><br /><b>Pliable</b>: A character rendered pliable by Charisma poison has little sense of self and will go along with nearly anything. Bluff, Diplomacy, and Intimidate checks automatically succeed against a pliable character, except Diplomacy checks to improve a pliable character’s attitude, which have the normal DC. This still does not allow characters to whom the pliable character is unfriendly or hostile to make requests of the pliable character using Diplomacy. <br /><br /><b>Catatonic</b>: A character rendered catatonic by Charisma poison can see, hear, and process his environment, but has lost all agency and can’t interact with the world in any way. <br /><br /><b>Dead</b>: The character loses even autonomic functions, and dies.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

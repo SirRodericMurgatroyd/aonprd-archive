@@ -1,0 +1,279 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Example of Intrigue Spells - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Example of Intrigue Spells" /><meta name="description" content="The following detailed example puts some of the above advice into practice, using two of the most difficult spells to adjudicate, divination and vision. The GM in this example provides different sets of clues to her players with each spell that help point them toward the mystery’s solution only when examined together." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=2212" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWRNDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTY4MCI+TWFzdGVyaW5nIEludHJpZ3VlPC9hPjwvdT4gLyA8dT48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTIxOTkiPlNwZWxscyBvZiBJbnRyaWd1ZTwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0yMjEyIj5FeGFtcGxlIG9mIEludHJpZ3VlIFNwZWxsczwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWo2cD9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtVWx0aW1hdGUtSW50cmlndWUNCiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5VbHRpbWF0ZSBJbnRyaWd1ZSBwZy4gMTYzPC9pPjwvYT48YnIgLz5UaGUgZm9sbG93aW5nIGRldGFpbGVkIGV4YW1wbGUgcHV0cyBzb21lIG9mIHRoZSBhYm92ZSBhZHZpY2UgaW50byBwcmFjdGljZSwgdXNpbmcgdHdvIG9mIHRoZSBtb3N0IGRpZmZpY3VsdCBzcGVsbHMgdG8gYWRqdWRpY2F0ZSwgZGl2aW5hdGlvbiBhbmQgdmlzaW9uLiBUaGUgR00gaW4gdGhpcyBleGFtcGxlIHByb3ZpZGVzIGRpZmZlcmVudCBzZXRzIG9mIGNsdWVzIHRvIGhlciBwbGF5ZXJzIHdpdGggZWFjaCBzcGVsbCB0aGF0IGhlbHAgcG9pbnQgdGhlbSB0b3dhcmQgdGhlIG15c3RlcnnigJlzIHNvbHV0aW9uIG9ubHkgd2hlbiBleGFtaW5lZCB0b2dldGhlci48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTIyMTMiPlRoZSBTdG9yeTwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWo2cD9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtVWx0aW1hdGUtSW50cmlndWUNCiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5VbHRpbWF0ZSBJbnRyaWd1ZSBwZy4gMTYzPC9pPjwvYT48YnIgLz5Mb25nIGFnbywgYSBwb3dlcmZ1bCBoYWcgbGVkIGEgd2lja2VkIGNvdmVuIHRoYXQgc291Z2h0IHRvIGRlc3Ryb3kgdGhlIGtpbmdkb20gb2YgR2FoZXJpcy4gU2Vla2luZyB0byB0dXJuIGVuZW1pZXMgaW50byBhbGxpZXMsIHRoZSBraW5nIG9mIEdhaGVyaXMgY29udmluY2VkIHRoZSB0d28gd2Vha2VyIHNpc3RlcnMgdG8gYnJlYWsgdGhlaXIgY292ZW4gYW5kIGJldHJheSB0aGVpciBsZWFkZXIuIEluIGV4Y2hhbmdlLCBoZSB1c2VkIG1hZ2ljIHRvIHJlaW5jYXJuYXRlIHRoZW0gaW50byBodW1hbnMgYW5kIG1hcnJpZWQgdGhlbSB0byB0d28gb2YgaGlzIG1vc3QgcG93ZXJmdWwgZHVrZXMuIFRoZSBoYWdzIHNlYWxlZCB0aGVpciBlbGRlciBzaXN0ZXIgaW4gaGVyIHNoYWNrIGFuZCBidXJuZWQgaGVyIGFsaXZlLCBvbmx5IHRvIHNlZSBoZXIgdG8gcmlzZSBhcyBhIHBvd2VyZnVsIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJNb25zdGVyRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVdpdGNoZmlyZSI+d2l0Y2hmaXJlPC9hPi4gQWZ0ZXIgd2Vla3Mgb2YgcGl0Y2hlZCBiYXR0bGUgd2l0aCB0aGUgdW5kZWFkIGhhZyB0aGF0IHJhbmdlZCBhbGwgYWNyb3NzIHRoZSBraW5nZG9tLCB0aGUgdHdvIHNpc3RlcnMgdHJhcHBlZCB0aGUgd2l0Y2hmaXJlIG9uIHRoZSBvdGhlciBzaWRlIG9mIGEgdGhpY2sgd2FsbCBpbiB0aGUgcm95YWwgbWF1c29sZXVtLCBhbmQgd2FyZGVkIGl0IHRvIGNvbnRhaW4gaW5jb3Jwb3JlYWwgZW50aXRpZXMsIGJlbGlldmluZyB0aGV5IGhhZCBzZWFsZWQgYXdheSB0aGUgbWVuYWNlIGZvcmV2ZXIuPGJyIC8+PGJyIC8+IENlbnR1cmllcyBsYXRlciwgYSB0b21iIHJvYmJlciBhY2NpZGVudGFsbHkgY2hpcHBlZCBhIGhvbGUgaW4gdGhlIHdhbGwsIGFsbG93aW5nIHRoZSB0cmFwcGVkIHdpdGNoZmlyZSB0byBlc2NhcGUuIE5vdyBjb25zdW1lZCB3aXRoIHJldmVuZ2UsIHRoZSBlbnJhZ2VkIHVuZGVhZCBjcmVhdHVyZSBzZWVrcyBvdXQgYW55IG9mIGhlciB0cmVhY2hlcm91cyBzaXN0ZXJz4oCZIGRlc2NlbmRhbnRzLiBHaXZlbiB0aGUgaW50ZXJicmVlZGluZyBjb21tb24gYW1vbmcgdGhlIG5vYmlsaXR5LCB0aGlzIGluY2x1ZGVzIG11Y2ggb2YgR2FoZXJpc+KAmXMgY3VycmVudCBub2JpbGl0eS4gR2l2ZW4gaGVyIG9yaWdpbmFsIGdvYWwgb2YgZGVzdHJveWluZyB0aGUga2luZ2RvbSwgdGhhdCBzdWl0cyB0aGUgd2l0Y2hmaXJlIGp1c3QgZmluZS4gVXNpbmcgcml0dWFsIG1hZ2ljIGJvcm4gb2YgaGF0cmVkIGFuZCB3ZWxsIGJleW9uZCBhIHdpdGNoZmlyZeKAmXMgbm9ybWFsIGFiaWxpdGllcywgc2hlIGNhbGxlZCBiYWNrIHRoZSBzb3VscyBvZiBoZXIgc2lzdGVycyBhbmQgYm91bmQgdGhlbSBpbnRvIGJsYWNrIHNhcHBoaXJlcywgYWxsb3dpbmcgaGVyIHRvIGdhaW4gYWxsIHRoZSBwb3dlcnMgb2YgYSBjb3ZlbiBhbmQgbW9yZS4gVGhlbiwgc2hlIHJldHVybmVkIHRvIGEgY2F2ZSBuZWFyIGhlciBvbGQgYnVybmVkLWRvd24gaHV0IGluIHRoZSBzd2FtcCBhbmQgYmVnYW4gdG8gZW5hY3QgaGVyIHZlbmdlYW5jZSwgdXNpbmcgbWluZC1jb250cm9sbGVkIG1pbmlvbnMgdG8gYnVybiBoZXIgdGFyZ2V0cyBhbGl2ZS48YnIgLz48YnIgLz4gVGhlIFBDcyByZWNlaXZlIGEgcGxlYSBmcm9tIHRoZSBjdXJyZW50IGtpbmcgb2YgR2FoZXJpcywgYXNraW5nIHRoZW0gdG8gaW52ZXN0aWdhdGUgdGhlIGNhdXNlIG9mIHRoZSBzdHJlYWsgb2YgYXJzb24sIHdoaWNoIGhhcyBiZWVuIHRhcmdldGluZyBtZW1iZXJzIG9mIGhpcyBmYW1pbHkuIEt5cmEgY2FzdHMgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPWRpdmluYXRpb24iPjxpPmRpdmluYXRpb248L2k+PC9hPiB3aXRoIHRoZSBnb2FsIG9mIHNvbHZpbmcgdGhlIGFyc29ucyBhbmQgRXpyZW4gY2FzdHMgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlNwZWxsRGlzcGxheS5hc3B4P0l0ZW1OYW1lPXZpc2lvbiI+PGk+dmlzaW9uPC9pPjwvYT4sIGhvcGluZyB0byBsZWFybiBhYm91dCB0aGUgdHJ1ZSBzb3VyY2Ugb2YgdGhlIGFyc29ucy48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTIyMTQiPkRpdmluYXRpb24gUG9lbTwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWo2cD9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtVWx0aW1hdGUtSW50cmlndWUNCiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5VbHRpbWF0ZSBJbnRyaWd1ZSBwZy4gMTYzPC9pPjwvYT48YnIgLz5UaGUgR00gY29tcG9zZXMgYSBwb2VtIGZvciBLeXJhIHRvIHJlcHJlc2VudCB0aGUgaW5mb3JtYXRpb24gaW1wYXJ0ZWQgdG8gaGVyIGJ5IGhlciBkZWl0eS48YnIgLz48YnIgLz4gPGk+JmVtc3A7VGhlIGZsYW1lIG9mIHBhc3Npb24sIHRoYXQgd2hpY2ggYnJpZ2h0ZXN0IGJ1cm5zLDxiciAvPiAmZW1zcDtPZiBsb3ZlIGFuZCBoYXRyZWQgdHJlYXN1cmVkIG9yIGJldHJheWVkLDxiciAvPiAmZW1zcDtXZSBjaGlwIGF3YXkgYXQgZXZlcnkgd2FsbCBpbiB0dXJucyw8YnIgLz4gJmVtc3A7Tm90IHRod2FydGVkIGlzIHRoZSBwYXltZW50LCBqdXN0IGRlbGF5ZWQuPGJyIC8+ICZlbXNwO0luIGJsYWNrZW5lZCB5YXduIG5lYXIgdGhlIGZpcnN0IGh1bmdyeSBweXJlLDxiciAvPiAmZW1zcDtUd2luIHNsZWVwZXJzIGxpZSwgb25jZSBmb3VsIGJ1dCBsYXRlciBmYWlyLDxiciAvPiAmZW1zcDtEYXJrIGJlYXV0eSBnbGVhbXMgdGhlIHByaXNvbnMgdHdvIHRvIGJyZWFrLDxiciAvPiAmZW1zcDtObyBsb3lhbHR5LCBubyBsb3ZlIGV4Y2VwdCB0byB0YWtlLjwvaT48YnIgLz48YnIgLz4gPGI+SW50ZXJwcmV0YXRpb248L2I+OiBXaGVuIHJlYWQgYWxvdWQsIHRoZSBmaXJzdCBsaW5lIG9mIHRoZSBwb2VtIGNvbnRhaW5zIGEgaG9tb3Bob25lIG9mIHRoZSB3b3JkIOKAnHdpdGNoLuKAnSBUaGUgdmVyc2UgcmVmZXJlbmNlcyB0aGUgd2l0Y2hmaXJl4oCZcyBlc2NhcGUgd2hlbiB0aGUgd2FsbCBvZiB0aGUgdG9tYiB3YXMgY2hpcHBlZCBhd2F5LiBUaGUgd2l0Y2hmaXJl4oCZcyB2ZW5nZWFuY2UsIG9yIHBheW1lbnQgYXMgdGhlIHBvZW0gZGVzY3JpYmVzIGl0LCBoYXMganVzdCBiZWVuIGRlbGF5ZWQuIFRoZSBjYXZlIG1vdXRoIGlzIGEgYmxhY2tlbmVkIHlhd24sIGFuZCB0aGUg4oCcZmlyc3TigJ0gcHlyZSBpcyB0aGUgb25lIHdoZXJlIHRoZSBoYWcgd2FzIGJ1cm5lZCwgdGhvdWdoIHRoZSBQQ3MgbWlnaHQgZ28gdG8gdGhlIGZpcnN0IGFyc29uIGFzIGEgcmVkIGhlcnJpbmcgYmVmb3JlIHRoZXkgcmVhbGl6ZSB0aGlzLCBleGNlcHQgcGVyaGFwcyBieSB1c2luZyBhZGRpdGlvbmFsIGNsdWVzIGZyb20gRXpyZW7igJlzIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT12aXNpb24iPjxpPnZpc2lvbjwvaT48L2E+IGJlbG93LiBUaGUgdHdpbiBzbGVlcGVycyBpbiBwcmlzb25zIG9mIGRhcmsgYmVhdXR5IGFyZSB0aGUgc2lzdGVyc+KAmSBzb3VscyB0cmFwcGVkIGluIGJsYWNrIHNhcHBoaXJlczsgZnJlZWluZyB0aGVtIGZyb20gdGhlaXIgbWFnaWNhbCBwcmlzb25zIHdvdWxkIHdlYWtlbiB0aGUgd2l0Y2hmaXJlIHN1YnN0YW50aWFsbHkuIFRoZSBmaW5hbCBsaW5lIGhpbnRzIGF0IHRoZSBzdG9yeSBvZiBiZXRyYXlhbCBiZXR3ZWVuIHRoZSBzaXN0ZXJzLCBhbmQgb2YgaG93IHRoZSB3aXRjaGZpcmUgb25seSBnYWluZWQgdGhlaXIgY29vcGVyYXRpb24gYnkgdGFraW5nIGl0IGZvcmNlZnVsbHkuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0yMjE1Ij5WaXNpb248L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTlqNnA/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVVsdGltYXRlLUludHJpZ3VlDQoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+VWx0aW1hdGUgSW50cmlndWUgcGcuIDE2MzwvaT48L2E+PGJyIC8+VGhlIEdNIHdyaXRlcyBhIGRlc2NyaXB0aXZlIHZpc2lvbiBmb3IgRXpyZW4uPGJyIC8+PGJyIC8+IDxpPkZsYW1lcyBlbmd1bGYgZXZlcnl0aGluZyBhcm91bmQgeW91LiBZb3XigJlyZSBpbiBhIHNpbXBsZSB3b29kZW4gaHV0IHRoYXQgbG9va3Mgb3V0IG92ZXIgYSBzd2FtcCBvbnRvIGEgZ3JlYXQgY3lwcmVzcyB0cmVlIGluIHRoZSBkaXN0YW5jZS4gWW91IHNlZSB0d28gc2lsaG91ZXR0ZXMgb3V0c2lkZSwgYW5kIHRoZSBmcm9udCBkb29yIHNlZW1zIGJhcnJpY2FkZWQuIFlvdXIgdmlzaW9uIGJsdXJzIGZyb20gdGhlIHNtb2tlIGFuZCBtb3ZlcyB2aW9sZW50bHkgdG93YXJkIHRoYXQgZW50cmFuY2UsIGFzIGlmIHlvdSB3ZXJlIGF0dGVtcHRpbmcgdG8gc21hc2ggaXQgZG93buKAlGEgZnV0aWxlIGVmZm9ydC4gQXQgdGhlIGVkZ2VzIG9mIHlvdXIgdmlzaW9uLCB5b3Ugc2VlIGNvdW50bGVzcyBvYmplY3RzIGJ1cnN0aW5nIGludG8gZmxhbWVzLCBhbmQgeW91IGNhbiBiYXJlbHkgbWFrZSBvdXQgc3RyYW5nZSBzcGljZXMsIHN0cmF3IGRvbGxzLCBhbmQgd2hhdCBhcHBlYXJzIHRvIGJlIGFuIGV5ZWJhbGwgaW4gYSBib3dsIG9mIHdhdGVyLiBUaGVuIHRoZXJlIGlzIG5vdGhpbmcgYnV0IGZsYW1lLiBZb3VyIHZpZXcgc2hpZnRzIHRvd2FyZCB0aGUgZmxvb3IsIGFzIHlvdXIgY2hhcnJlZCBoYW5kLCB3aXRoIGxvbmcgZmluZ2VybmFpbHMsIGJhc2hlcyBvdmVyIGFuZCBvdmVyIGFnYWluc3QgdGhlIGZsb29yIG9mIHRoZSBodXQuIEJ1dCB0aGUgZWZmb3J0IHdhcyB0b28gbGF0ZSwgYW5kIHlvdXIgaGFuZCBzdG9wcyBtb3ZpbmcsIGFzIHRoZSBpbmZlcm5vIHJpc2VzIG9uY2UgbW9yZSwgY29uc3VtaW5nIGV2ZXJ5dGhpbmcuPGJyIC8+PGJyIC8+IFlvdSBzaGFrZSB5b3Vyc2VsZiBmcm9tIHRoZSB2aXNpb24gYW5kIGZpbmQgeW91cnNlbGYgZmF0aWd1ZWQsIHlvdXIgYnJlYXRoaW5nIGFuZCBoZWFydCByYXRlIHN0aWxsIGVsZXZhdGVkIGZyb20gdGhlIGhvcnJpYmxlIGRlc3BlcmF0aW9uIG9mIHRoZSBidXJuaW5nIGh1dC48L2k+PGJyIC8+PGJyIC8+IDxiPkludGVycHJldGF0aW9uPC9iPjogVGhlIHRydWUgc291cmNlIG9mIHRoZSBhcnNvbnMsIHdoZW4gaXQgY29tZXMgZG93biB0byBpdCwgaXMgdGhlIG9yaWdpbmFsIGtpbGxpbmcgb2YgdGhlIGNvdmVuIGxlYWRlciwgd2hvIGJlY2FtZSBhIHdpdGNoZmlyZS4gVGhlIHZpc2lvbiBwcm92aWRlcyBudW1lcm91cyBjbHVlcyB0byBzb21lIG9mIHRoZSBlbGVtZW50cyBvZiB0aGUgc3RvcnksIGJ1dCB0aGUgbW9zdCBzdHJpa2luZyBvbmUgbWlnaHQgYmUgdGhlIGRpc3RpbmN0aXZlIGdyZWF0IGN5cHJlc3MgdHJlZS4gV2l0aCBzb21lIGZ1cnRoZXIgcmVzZWFyY2gsIEV6cmVuIG1pZ2h0IGJlIGFibGUgdG8gbG9jYXRlIGl0LCBhbGxvd2luZyBoaW0gdG8gZmluZCB0aGUgaHV04oCZcyByZW1haW5zLCB3aGljaCBhcmUgYWxzbyBuZWFyIHRoZSBjYXZlIHdoZXJlIHRoZSB3aXRjaGZpcmUgcGxhY2VkIHRoZSBkb29yIHRvIGhlciBuZXcgZGVtZXNuZS5kZGTXKGd2XiZVKJmBD2ewey+chG4Knet14xHiv8x0WrDKKg==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1680">Mastering Intrigue</a></u> / <u><a href="Rules.aspx?ID=2199">Spells of Intrigue</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=2212">Example of Intrigue Spells</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9j6p?Pathfinder-Roleplaying-Game-Ultimate-Intrigue
+" target="_blank" class="external-link"><i>Ultimate Intrigue pg. 163</i></a><br />The following detailed example puts some of the above advice into practice, using two of the most difficult spells to adjudicate, divination and vision. The GM in this example provides different sets of clues to her players with each spell that help point them toward the mystery’s solution only when examined together.<br /><h1 class="title"><a href="Rules.aspx?ID=2213">The Story</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9j6p?Pathfinder-Roleplaying-Game-Ultimate-Intrigue
+" target="_blank" class="external-link"><i>Ultimate Intrigue pg. 163</i></a><br />Long ago, a powerful hag led a wicked coven that sought to destroy the kingdom of Gaheris. Seeking to turn enemies into allies, the king of Gaheris convinced the two weaker sisters to break their coven and betray their leader. In exchange, he used magic to reincarnate them into humans and married them to two of his most powerful dukes. The hags sealed their elder sister in her shack and burned her alive, only to see her to rise as a powerful <a style="text-decoration:underline" href="MonsterDisplay.aspx?ItemName=Witchfire">witchfire</a>. After weeks of pitched battle with the undead hag that ranged all across the kingdom, the two sisters trapped the witchfire on the other side of a thick wall in the royal mausoleum, and warded it to contain incorporeal entities, believing they had sealed away the menace forever.<br /><br /> Centuries later, a tomb robber accidentally chipped a hole in the wall, allowing the trapped witchfire to escape. Now consumed with revenge, the enraged undead creature seeks out any of her treacherous sisters’ descendants. Given the interbreeding common among the nobility, this includes much of Gaheris’s current nobility. Given her original goal of destroying the kingdom, that suits the witchfire just fine. Using ritual magic born of hatred and well beyond a witchfire’s normal abilities, she called back the souls of her sisters and bound them into black sapphires, allowing her to gain all the powers of a coven and more. Then, she returned to a cave near her old burned-down hut in the swamp and began to enact her vengeance, using mind-controlled minions to burn her targets alive.<br /><br /> The PCs receive a plea from the current king of Gaheris, asking them to investigate the cause of the streak of arson, which has been targeting members of his family. Kyra casts <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=divination"><i>divination</i></a> with the goal of solving the arsons and Ezren casts <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=vision"><i>vision</i></a>, hoping to learn about the true source of the arsons.<br /><h1 class="title"><a href="Rules.aspx?ID=2214">Divination Poem</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9j6p?Pathfinder-Roleplaying-Game-Ultimate-Intrigue
+" target="_blank" class="external-link"><i>Ultimate Intrigue pg. 163</i></a><br />The GM composes a poem for Kyra to represent the information imparted to her by her deity.<br /><br /> <i>&emsp;The flame of passion, that which brightest burns,<br /> &emsp;Of love and hatred treasured or betrayed,<br /> &emsp;We chip away at every wall in turns,<br /> &emsp;Not thwarted is the payment, just delayed.<br /> &emsp;In blackened yawn near the first hungry pyre,<br /> &emsp;Twin sleepers lie, once foul but later fair,<br /> &emsp;Dark beauty gleams the prisons two to break,<br /> &emsp;No loyalty, no love except to take.</i><br /><br /> <b>Interpretation</b>: When read aloud, the first line of the poem contains a homophone of the word “witch.” The verse references the witchfire’s escape when the wall of the tomb was chipped away. The witchfire’s vengeance, or payment as the poem describes it, has just been delayed. The cave mouth is a blackened yawn, and the “first” pyre is the one where the hag was burned, though the PCs might go to the first arson as a red herring before they realize this, except perhaps by using additional clues from Ezren’s <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=vision"><i>vision</i></a> below. The twin sleepers in prisons of dark beauty are the sisters’ souls trapped in black sapphires; freeing them from their magical prisons would weaken the witchfire substantially. The final line hints at the story of betrayal between the sisters, and of how the witchfire only gained their cooperation by taking it forcefully.<br /><h1 class="title"><a href="Rules.aspx?ID=2215">Vision</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9j6p?Pathfinder-Roleplaying-Game-Ultimate-Intrigue
+" target="_blank" class="external-link"><i>Ultimate Intrigue pg. 163</i></a><br />The GM writes a descriptive vision for Ezren.<br /><br /> <i>Flames engulf everything around you. You’re in a simple wooden hut that looks out over a swamp onto a great cypress tree in the distance. You see two silhouettes outside, and the front door seems barricaded. Your vision blurs from the smoke and moves violently toward that entrance, as if you were attempting to smash it down—a futile effort. At the edges of your vision, you see countless objects bursting into flames, and you can barely make out strange spices, straw dolls, and what appears to be an eyeball in a bowl of water. Then there is nothing but flame. Your view shifts toward the floor, as your charred hand, with long fingernails, bashes over and over against the floor of the hut. But the effort was too late, and your hand stops moving, as the inferno rises once more, consuming everything.<br /><br /> You shake yourself from the vision and find yourself fatigued, your breathing and heart rate still elevated from the horrible desperation of the burning hut.</i><br /><br /> <b>Interpretation</b>: The true source of the arsons, when it comes down to it, is the original killing of the coven leader, who became a witchfire. The vision provides numerous clues to some of the elements of the story, but the most striking one might be the distinctive great cypress tree. With some further research, Ezren might be able to locate it, allowing him to find the hut’s remains, which are also near the cave where the witchfire placed the door to her new demesne.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

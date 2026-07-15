@@ -1,0 +1,648 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Traits - Archives of Nethys
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, Trait, Drawback" /><meta name="description" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Traits.aspx?Type=Drawback" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMTYzNjAxNDhkZAl+oI3KmjvA2zVc9F3ldmHQSZQjtLhHQxz570vWdQ+0" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5AB4AC19" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <h2 style="text-align: center"><a href="Traits.aspx?Type=Basic (Combat)"><b>Basic (Combat)</b></a> | 
+                                   <a href="Traits.aspx?Type=Basic (Faith)"><b>Basic (Faith)</b></a> | 
+                                   <a href="Traits.aspx?Type=Basic (Magic)"><b>Basic (Magic)</b></a> | 
+                                   <a href="Traits.aspx?Type=Basic (Social)"><b>Basic (Social)</b></a> | 
+                                   <a href="Traits.aspx?Type=Campaign"><b>Campaign</b></a> | 
+                                   <a href="Traits.aspx?Type=Cosmic"><b>Cosmic</b></a> | 
+                                   <a href="Traits.aspx?Type=Equipment"><b>Equipment</b></a> | 
+                                   <a href="Traits.aspx?Type=Exemplar"><b>Exemplar</b></a> | 
+                                   <a href="Traits.aspx?Type=Faction"><b>Faction</b></a> | 
+                                   <a href="Traits.aspx?Type=Family"><b>Family</b></a> | 
+                                   <a href="Traits.aspx?Type=Mount"><b>Mount</b></a> | 
+                                   <a href="Traits.aspx?Type=Race"><b>Race</b></a> | 
+                                   <a href="Traits.aspx?Type=Region"><b>Region</b></a> | 
+                                   <a href="Traits.aspx?Type=Religion"><b>Religion</b></a></h2>
+    <h2 style="text-align: center"><a href="Traits.aspx?Type=Drawback"><b>Drawbacks</b></a></h2><hr />
+    <span id="MainContent_MainTraitLabel"><h1 class="title">Drawbacks</h1></span>
+    <span id="MainContent_HeaderDescription"></span>
+    <table id="MainContent_DataListTypes" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_0"><h2 class="title">Anxious [<a href="TraitDisplay.aspx?ItemName=Anxious" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 22</i></a><br /> After suffering terribly for not being tightlipped enough as a child, such as when you accidentally exposed your family to enemy inquisitors, you developed a habit of being overly cautious with your words. You take a –2 penalty on Diplomacy checks and must speak slowly due to the concentration required. Unless stated otherwise, you are assumed to not be speaking at a volume above a whisper.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_1"><h2 class="title">Arcane Malignancies [<a href="TraitDisplay.aspx?ItemName=Arcane Malignancies" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9s3z?Pathfinder-Player-Companion-Blood-of-the-Coven" target="_blank" class="external-link"><i>Blood of the Coven pg. 10</i></a><br /><b>Requirement(s)</b> Changeling<br />As changelings sense the awakening of the eerie powers they inherited from their hag progenitors, they are often mortified to discover terrifying and debilitating alterations to their physique. While the call seizes the changelings’ minds around the time their bodies begin maturing, the arcane malignancies that mar their features and extremities have nothing to do with puberty.<br /><br /> Not every changeling develops a malignancy, and when a changeling does develop a malignancy, it is often unrelated to whatever traits her hag mother has. These transformations are more akin to a magical allergy, manifesting in response to the well of arcane energy bubbling away in the changeling’s core.<br /><br /> A changeling character can take an arcane malignancy as a drawback (<i>Pathfinder RPG Ultimate Campaign</i> 64) in order to select an additional trait at character creation. Randomly determine the arcane malignancy by rolling a d% and consulting the table below.<br /><br /><table class="inner"><tr><td><b>d%</b></td><td><b>Effect</b></td></tr> <tr><td>1–2</td><td>The smallest three toes on each of your feet have fused together. You take a –2 penalty on Acrobatics, Climb, and Perform (dance) checks.</td></tr> <tr><td>3–4</td><td>Your incisors grow so long and sharp that you have difficulty eating. Eating takes twice as long. Consuming a potion or other magical foodstuff requires a full-round action.</td></tr> <tr><td>5–7</td><td>You have an extra digit on each hand, which hampers your fine motor skills. You take a –2 penalty on Craft, Disable Device, and Sleight of Hand checks.</td></tr> <tr><td>8–10</td><td>Your limbs and torso are covered with piscine scales that you must constantly moisten. If more than 1 day passes without you applying at least a gallon of water to them, you take 1d3 points of damage each hour until you do so.</td></tr> <tr><td>11–13</td><td>Your skin bears a sizable scarlet mark that flushes and lightens with your moods. You take a –2 penalty on Bluff and Disguise checks.</td></tr> <tr><td>14–16</td><td>One of your eyes has grown enlarged and developed a pale, milky film. Daylight seems uncomfortably bright to you. You take a –2 penalty on saving throws against light-based spells and effects, and you are automatically dazzled for 1d6 rounds when exposed to bright light or sunlight.</td></tr> <tr><td>17–19</td><td>The soles of your feet are flat, and you tire quickly. You can hustle for only a half hour before becoming fatigued, and every 4 hours spent traveling by foot in a day deals 1 point of Constitution damage.</td></tr> <tr><td>20–22</td><td>Your already pallid complexion grows unusually sensitive to the rays of the sun. Exposure to direct sunlight for more than 1 hour at a time makes you sickened for 24 hours.</td></tr> <tr><td>23–25</td><td>The tip of your tongue is forked and stiff. You have difficulty making yourself understood. You take a –2 penalty on Bluff, Diplomacy, and Disguise checks to fool or persuade others.</td></tr> <tr><td>26–28</td><td>The painful and stiff swelling of your joints puts you at a disadvantage in combat. You take a –2 penalty on combat maneuver checks and Escape Artist checks to free yourself when grappled or pinned.</td></tr> <tr><td>29–31</td><td>Your ears have stretched to an abnormal size, making you overly sensitive to loud noises. Whenever you are dealt sonic damage, you take 1 additional point of damage, and you are deafened for 1 minute whenever you take damage from any sonic effect.</td></tr> <tr><td>32–33</td><td>The pupils of your eyes resemble a cat’s, and beasts cannot abide your presence. You take a –2 penalty on Handle Animal and Ride checks.</td></tr> <tr><td>34–35</td><td>You grow velvety-soft fur along your back, arms, and legs that chafes and catches under clothing and armor, increasing the armor check penalty of any armor by 1 and applying a –1 armor check penalty to ordinary clothing. Clothing and armor can be specially fitted for you, eliminating the increased penalty but increasing their price by 50 gp.</td></tr> <tr><td>36–37</td><td>You grow an extra row of sharp, crooked teeth. The uneven set of your jaws gives you constant headaches. You take a –2 penalty on concentration checks and saving throws against pain effects.</td></tr> <tr><td>38–40</td><td>It is nearly impossible to find armor that fits your concave chest and unusually narrow, sloping shoulders. The armor check penalty of any armor you wear increases by 1, and you take a –1 penalty to AC when wearing medium or heavy armor.</td></tr> <tr><td>41–42</td><td>Your throat balloons out like a frog’s, and your voice comes out as an odd croak. You take a –2 penalty on Diplomacy checks and on Perform (act, oratory, and sing) checks.</td></tr> <tr><td>43–45</td><td>An oozing sore has developed on your face that refuses to heal and makes you more susceptible to illness. You take a –2 penalty on saving throws against disease.</td></tr> <tr><td>46–48</td><td>Your flesh grows bark, and your major joints have become gnarled and knotted like tree limbs, causing you to move slowly and stiffly. You take a –2 penalty on Reflex saves.</td></tr> <tr><td>49–51</td><td>Your thin, almost translucent skin is delicate and tears easily. You take 1 point of bleed damage from slashing attacks that deal at least 1 point of damage to you.</td></tr> <tr><td>52–54</td><td>A massive patch of multicolored warts covers much of your face. People cannot help but stare, and they always remember you once they’ve seen you. You take a –4 penalty on Disguise checks.</td></tr> <tr><td>55–57</td><td>Your unruly hair grows with alarming speed. If you do not spend 1 hour trimming and grooming your hair every 48 hours, it snarls in nearby foliage whenever you are outdoors, imposing a –2 penalty to your Armor Class and on attack rolls and Stealth checks.</td></tr> <tr><td>58–60</td><td>Your limbs are thin and frail. You take a –2 penalty to CMD against disarm, grapple, and trip attempts.</td></tr> <tr><td>61–63</td><td>Your bones shatter as easily as glass. You take 2 additional points of damage each time you are hit by an attack made with a bludgeoning weapon.</td></tr> <tr><td>64–65</td><td>One arm is turning to stone, though you retain limited mobility. You take a –4 penalty on all skill checks requiring the use of two hands and on attack rolls when wielding a two-handed weapon or fighting with two weapons.</td></tr> <tr><td>66–67</td><td>You develop an allergy to one spell per spell level from the witch spell list (determined by your GM). Casting or being the target of a spell you’re allergic to causes you to break out in a painful rash. This rash deals 1d4 points of damage per spell level,and imposes a penalty on your Charisma equal to the level of the spell. The rash fades after a number of hours equal to the level of the spell.</td></tr> <tr><td>68–69</td><td>The joints in your unnaturally long thumbs have fused, and you often fumble objects. When you retrieve a stored item, you have a 10% chance of dropping it.</td></tr> <tr><td>70–72</td><td>Your knees bend backward like a bird’s, which makes many athletic movements difficult to master. You take a –2 penalty on Climb and Swim checks, and your running speed is only three times your regular walking speed.</td></tr> <tr><td>73–75</td><td>A tenacious patch of fungus has sprouted on your back, weakening your system against toxins. You take a –2 penalty on saves against poison effects.</td></tr> <tr><td>76–77</td><td>Your misaligned eyes affect your ability to judge distances. You take a –2 penalty on ranged attack and damage rolls.</td></tr> <tr><td>78–80</td><td>When you get flustered, heat builds up in your face until it glows with inner fire. You take a –4 penalty on Diplomacy and Perform checks when in the presence of 5 or more creatures.</td></tr> <tr><td>81–83</td><td>Your ears curl up like dried leaves, and you experience difficulty picking up sounds. You take a –2 penalty on hearing-based Perception checks.</td></tr> <tr><td>84–86</td><td>Your curving, clawlike fingernails grow so long so quickly that they impede you in dangerous situations. You take a –2 penalty on Escape Artist and Sleight of Hand checks.</td></tr> <tr><td>87–89</td><td>One of your legs measures noticeably longer than the other, and you lose your balance easily. You take a –2 penalty to CMD against bull rush and trip attempts.</td></tr> <tr><td>90–92</td><td>Your eyes have swollen to mere slits. You take a –2 penalty on sight-based Perception checks.</td></tr> <tr><td>93–96</td><td>You develop a shaggy pelt about your neck and shoulders that makes you overheat quickly. You take a –4 penalty on checks and saves to resist environmental heat effects.</td></tr> <tr><td>97–98</td><td>You grow a tail that you can’t easily conceal and that thrashes violently at inconvenient moments. You take a –2 penalty on Disguise and Stealth checks.</td></tr> <tr><td>99–100</td><td>You grow vestigial gills. While they grant you no ability to breathe in water, they make it harder for you to catch your breath. When you are fatigued, it takes 12 hours of complete rest to recover. When you are exhausted, it takes 2 hours of complete rest to become fatigued.</td></tr> </table><br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_2"><h2 class="title">Attached [<a href="TraitDisplay.aspx?ItemName=Attached" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 64</i></a><br /> You have a strong emotional attachment to  a person or object that you're terrified of losing. The GM  chooses the object of your attachment. Whenever the  object of your attachment is either threatened, in danger, or in someone else's possession, you take a –1 penalty on  Will saves and a –2 penalty on saves against fear effects.  If the person or object to which you're attached is ever  lost, killed, or destroyed, exchange this drawback for the  Doubt drawback.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_3"><h2 class="title">Avarice [<a href="TraitDisplay.aspx?ItemName=Avarice" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 65</i></a><br />Deep, compulsive greed gnaws at you. Whenever monetary treasure is divided, you must end up with a greater share of that treasure than your companions or you're wracked with feelings of jealousy and ill will. When treasure is divided, if you do not end up with at least 10% more treasure than any other individual companion does, you have a hard time being helpful to your allies. You become irritable, and can't take the aid another action for the next week.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_4"><h2 class="title">Betrayed (Drawback) [<a href="TraitDisplay.aspx?ItemName=Betrayed (Drawback)" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9l2w?Pathfinder-Player-Companion-Spymasters-Handbook
+" target="_blank" class="external-link"><i>Spymaster's Handbook pg. 6</i></a><br />You were reported to a dangerous authority such as the Gray Gardeners of Galt, the high inquisitors of Cheliax, or the Council of Mwanyisa of Mzali, and narrowly escaped death. You second-guess your instincts constantly, leaving you never sure whether or not to trust someone and endangered if you encounter that group’s agents again. You can roll twice and take the lower result on Sense Motive checks to get hunches. You cannot reroll this result, even if you have another ability that would normally allow you to do so.
+<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_5"><h2 class="title">Bitter [<a href="TraitDisplay.aspx?ItemName=Bitter" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9s2i?Pathfinder-Player-Companion-Antiheros-Handbook" target="_blank" class="external-link"><i>Antihero's Handbook pg. 6</i></a><br />You have been hurt repeatedly by those you trusted, and it has become difficult for you to accept help. When you receive healing from an ally’s class feature, spell, or spell-like ability, reduce the amount of that healing by 1 hit point.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_6"><h2 class="title">Burned [<a href="TraitDisplay.aspx?ItemName=Burned" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 22</i></a><br /> You were badly burned once by volcanic ash, torch-wielding mobs, or some fiery accident, and the scars pain you terribly you whenever you are too near to fire. You take a –1 penalty on saving throws against fire effects. In addition, whenever you are adjacent to open flames or are on fire, you take a –1 penalty on all attack rolls, saving throws, and skill checks until you spend an entire round away from fire. These penalties are not cumulative. (An instantaneous fire effect adjacent to you or affecting you causes this penalty to apply until 1 round after it is gone.)<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_7"><h2 class="title">Condescending [<a href="TraitDisplay.aspx?ItemName=Condescending" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 22</i></a><br /> Raised with the assurance that only those like you are truly worthy of respect, you have an offputting way of demonstrating that you look down on those not of your race and ethnicity or nationality. You take a –5 penalty on Diplomacy and Intimidate checks to improve other creatures’ attitudes toward you.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_8"><h2 class="title">Cowardly [<a href="TraitDisplay.aspx?ItemName=Cowardly" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9s2i?Pathfinder-Player-Companion-Antiheros-Handbook" target="_blank" class="external-link"><i>Antihero's Handbook pg. 6</i></a><br />You might face dangerous situations with bravado, but you are constantly afraid. Your base speed when frightened and fleeing increases by 5 feet, and the penalties you take from having the cowering, frightened, panicked, or shaken conditions increase by 1. If you would normally be immune to fear, you do not take these penalties but instead lose your immunity to fear (regardless of its source).<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_9"><h2 class="title">Cruelty [<a href="TraitDisplay.aspx?ItemName=Cruelty" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 22</i></a><br /> You were rewarded as a child for flaunting your victory over others as completely as possible, and you discovered you enjoyed the feeling of rubbing your foes’ faces in the dirt. Whenever you are engaged in combat and there are dying or helpless foes within 30 feet, you take a –2 penalty on attack rolls against foes who are neither dying nor helpless.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_10"><h2 class="title">Dependent [<a href="TraitDisplay.aspx?ItemName=Dependent" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 65</i></a><br />You are dependent upon the acceptance of others. Whenever you fail a Diplomacy check, you become shaken for 1 hour.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_11"><h2 class="title">Doubt [<a href="TraitDisplay.aspx?ItemName=Doubt" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 65</i></a><br />You lack confidence in your abilities or confidence in the universe at large. Whenever you fail a skill or ability check, you take a –4 penalty on that type of skill or ability check for the next hour.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_12"><h2 class="title">Empty Mask [<a href="TraitDisplay.aspx?ItemName=Empty Mask" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9l2w?Pathfinder-Player-Companion-Spymasters-Handbook
+" target="_blank" class="external-link"><i>Spymaster's Handbook pg. 7</i></a><br />You have spent so long hiding your true identity to escape political enemies that you have lost much of your sense of self. You take a -1 penalty on Will saving throws against compulsions. This penalty increases to -2 against foes who know your true identity.
+<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_13"><h2 class="title">Entomophobe [<a href="TraitDisplay.aspx?ItemName=Entomophobe" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9s2i?Pathfinder-Player-Companion-Antiheros-Handbook" target="_blank" class="external-link"><i>Antihero's Handbook pg. 6</i></a><br />A harrowing experience with insects when you were young instilled in you a deep-seated fear of vermin of all description, especially when they swarm together. You take a –2 penalty on attacks against vermin, and you take a –2 penalty on saving throws against the nauseated condition of a swarm’s distraction ability.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_14"><h2 class="title">Envy [<a href="TraitDisplay.aspx?ItemName=Envy" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 22</i></a><br /> You grew up in or near an opulent, decadent  culture that valued nothing more than showing up the  material wealth or accomplishments of others, causing the  seed of envy to be planted in your heart. For each day you  spend without stealing at least 10 gp worth of valuables or  other wealth, attempt a DC 20 Will save. If you fail, you  take a cumulative –1 penalty on Will and Reflex saving  throws and concentration checks (up to a –5 penalty). If you  succeed, the penalty is reset to 0.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_15"><h2 class="title">Family Ties [<a href="TraitDisplay.aspx?ItemName=Family Ties" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 65</i></a><br />Your family is extremely important to you, and you feel disheartened when you can't do what they ask. When a family member makes a request of you, you must fulfill that request or take a –2 penalty on all Wisdom- and Charisma-based ability checks and skill checks until you either do what was requested or succeed at a DC 20 Will saving throw, which you can attempt once per day at the start of each day. You can't take this drawback if you have no family. If you ever lose your family or lose contact with your family, exchange this drawback for the Doubt drawback.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_16"><h2 class="title">Fey-Taken [<a href="TraitDisplay.aspx?ItemName=Fey-Taken" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 22</i></a><br /> As a child, you were whisked away to the First World by mischievous fey for a time. When you returned, you were ever after considered odd and distant. You long to return there, and find the mortal world dull and at times revolting, so you do not eat as you should and do not question strange visions. You take a –2 penalty on saving throws against disease, illusions, and poison of all kinds, as well as against the spells, spell-like abilities, and supernatural abilities of fey.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_17"><h2 class="title">Forgetful [<a href="TraitDisplay.aspx?ItemName=Forgetful" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 22</i></a><br /> You are easily distracted and prone to forgetting important things. Whenever you leave a location you have been at for longer than 1 hour, you must attempt a DC 10 Wisdom check. If you fail, you leave behind one random mundane item (a purse of money counts as an item).<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_18"><h2 class="title">Foul Brand [<a href="TraitDisplay.aspx?ItemName=Foul Brand" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy991x?Pathfinder-Player-Companion-Champions-of-Corruption
+" target="_blank" class="external-link"><i>Champions of Corruption pg. 29</i></a><br />You have the symbol of an evil deity burned into your flesh. If the symbol is on your hand, you take a –1 penalty on Disable Device, Disguise, and Sleight of Hand checks. If the symbol is on your face, you take a –2 penalty on Bluff, Diplomacy, and Disguise checks. This does not count as a holy symbol for the purposes of a divine focus for spellcasting.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_19"><h2 class="title">Guilty Fraud [<a href="TraitDisplay.aspx?ItemName=Guilty Fraud" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9l2w?Pathfinder-Player-Companion-Spymasters-Handbook
+" target="_blank" class="external-link"><i>Spymaster's Handbook pg. 7</i></a><br />You received something through trickery that you did not deserve, and your guilt for the misdeed distracts you from dangers around you. You take a -4 penalty on Bluff checks against creatures with an attitude toward you of indifferent or better.
+<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_20"><h2 class="title">Haunted [<a href="TraitDisplay.aspx?ItemName=Haunted" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9s2i?Pathfinder-Player-Companion-Antiheros-Handbook" target="_blank" class="external-link"><i>Antihero's Handbook pg. 6</i></a><br />Something from your past—or a dark secret you presently hold—makes it difficult for you to ever be at peace, and your chronic worry that you might fall to evil influence has become a self-fulfilling prophecy. You take a –2 penalty on saves against spells with the evil descriptor.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_21"><h2 class="title">Haunting Regret [<a href="TraitDisplay.aspx?ItemName=Haunting Regret" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 22</i></a><br /> When you were young, a relative with whom you had frequently quarreled passed away where his or her soul could not rest. Now, the unquiet spirit appears around you at inconvenient times, distracting you with regret for being unable to help. You take a –2 penalty on saving throws against the distraction ability of swarms and mind-affecting effects and on concentration checks.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_22"><h2 class="title">Headstrong [<a href="TraitDisplay.aspx?ItemName=Headstrong" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 65</i></a><br />You feel compelled to correct every action and argument that contradicts your worldview. Whenever you witness an action or hear an argument that contradicts your alignment, you must attempt to stop or correct that action or argument. If you either don't try to stop it or fail in your attempt to stop it (as adjudicated by the GM), you are shaken for 1 hour.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_23"><h2 class="title">Hedonistic [<a href="TraitDisplay.aspx?ItemName=Hedonistic" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 65</i></a><br />You are a creature of pleasure and comfort. Whenever you spend a day without gaining reward or treasure (at least 10 or more gold pieces) or spending an hour on entertainment or pleasure, attempt a DC 20 Fortitude save at the end of that day. If you fail, you begin the next day fatigued. This fatigue lasts 4 hours, or until you receive a reward or sufficient entertainment or pleasure.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_24"><h2 class="title">Helpless [<a href="TraitDisplay.aspx?ItemName=Helpless" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9s2i?Pathfinder-Player-Companion-Antiheros-Handbook" target="_blank" class="external-link"><i>Antihero's Handbook pg. 6</i></a><br />You once stood helpless as great harm befell a loved one, and that paralysis sometimes returns when an ally is in a dire position. The first time per combat encounter that an ally within 30 feet falls unconscious or dies as the result of an attack, you are dazed until the end of your next turn.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_25"><h2 class="title">Impatient [<a href="TraitDisplay.aspx?ItemName=Impatient" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9s2i?Pathfinder-Player-Companion-Antiheros-Handbook" target="_blank" class="external-link"><i>Antihero's Handbook pg. 6</i></a><br />You love leaping into battle at the earliest opportunity, and it frustrates you to wait for others to act. You can’t delay or ready actions, and if you are the last of your allies to act in a round of combat, you take a –1 penalty on ability checks, attack rolls, saving throws, and skill checks.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_26"><h2 class="title">Infamous [<a href="TraitDisplay.aspx?ItemName=Infamous" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9l2w?Pathfinder-Player-Companion-Spymasters-Handbook
+" target="_blank" class="external-link"><i>Spymaster's Handbook pg. 7</i></a><br />You were publicly linked, truthfully or not, to a crime of significant infamy. You draw attention wherever you go and risk imprisonment or worse in the jurisdiction where the crime was committed. You and your apparent allies take a -4 penalty on Diplomacy checks to interact with law-abiding citizens (except enemies of the authority that accused you).
+<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_27"><h2 class="title">Information Overload [<a href="TraitDisplay.aspx?ItemName=Information Overload" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9l2w?Pathfinder-Player-Companion-Spymasters-Handbook
+" target="_blank" class="external-link"><i>Spymaster's Handbook pg. 7</i></a><br />You have had access to thousands of spy reports, many of which turned out to be based on faulty deductions or even intentionally false stories spread by opposed spy groups. At this point, you have been exposed to false knowledge as much as accurate information, and you can’t always remember which is which. You take a -2 penalty on all Knowledge checks, and if you fail a Knowledge check by 5 or more, you can recall information that is diametrically opposed to the truth.
+<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_28"><h2 class="title">Insatiable [<a href="TraitDisplay.aspx?ItemName=Insatiable" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9s2i?Pathfinder-Player-Companion-Antiheros-Handbook" target="_blank" class="external-link"><i>Antihero's Handbook pg. 6</i></a><br />You have become so accustomed to binging on the finer things in life that you find going without such excess particularly strenuous. Goods and services cost you 10% more (and can’t be paid for by allies), and you need twice as much food and liquid as normal for the purposes of preventing starvation and thirst (<i>Pathfinder RPG Core Rulebook</i> 444).<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_29"><h2 class="title">Lonely [<a href="TraitDisplay.aspx?ItemName=Lonely" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9l2w?Pathfinder-Player-Companion-Spymasters-Handbook
+" target="_blank" class="external-link"><i>Spymaster's Handbook pg. 7</i></a><br />You are far too easily convinced of the friendly intentions of others. You take a -2 penalty on Sense Motive checks and on Perception checks to see through disguises, and on saving throws against charm spells and spell-like abilities.
+<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_30"><h2 class="title">Loner [<a href="TraitDisplay.aspx?ItemName=Loner" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 22</i></a><br /> Raised by pirates, bandits, or other troublemakers unwilling to stick out their necks for you, you are accustomed to operating on your own. The presence of allies can easily become a distraction to you, and you do your best to keep them out of your space. You take a –1 penalty to AC and on attack rolls while adjacent to allies or when taking the aid another action.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_31"><h2 class="title">Lovesick [<a href="TraitDisplay.aspx?ItemName=Lovesick" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 65</i></a><br />Your love for another occupies your every thought, and you become despondent when you are away from that person. The person is chosen by your GM (with consideration to your roll on Table 1–56: Romantic Relationships if you used the background generator). At the start of each day, if you are away from this person you take a –2 penalty on initiative checks and Perception checks. If you ever lose or fall out of love with this person, exchange this drawback for the Doubt drawback.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_32"><h2 class="title">Magical Klutz [<a href="TraitDisplay.aspx?ItemName=Magical Klutz" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9l2w?Pathfinder-Player-Companion-Spymasters-Handbook
+" target="_blank" class="external-link"><i>Spymaster's Handbook pg. 7</i></a><br />You were born in a place with a plethora of strangely interacting magic, such as Geb, the Mana Wastes, or Nex, and magic is dangerously eager to surge into action around you. You roll twice and take the lower result on Use Magic Device checks to activate items blindly and on Reflex saving throws against effects produced by magic items.
+<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_33"><h2 class="title">Mark of Slavery [<a href="TraitDisplay.aspx?ItemName=Mark of Slavery" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 22</i></a><br /> You were enslaved for part or all of your youth, and marked as such with a brand or tattoo that still reminds you of how you were punished whenever you failed to do what you should. Whenever you fail a skill check, you take a –2 penalty on any skill check or attack roll you attempt before the end of your next turn unless it is a part of retrying the failed skill check.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_34"><h2 class="title">Meticulous [<a href="TraitDisplay.aspx?ItemName=Meticulous" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 65</i></a><br />You plan and prepare everything in detail, and aren't good at improvising when things don't go as planned. You take a –2 penalty on skill checks for skills with which you're untrained.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_35"><h2 class="title">Misbegotten [<a href="TraitDisplay.aspx?ItemName=Misbegotten" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 22</i></a><br /> Whether due to the influence of malign
+ magic, disease, or the scorn of the gods, you were born
+ with a troublesome deformity that interferes with your
+ movement. You take a –2 penalty on all Dexterity-based
+ skill checks.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_36"><h2 class="title">Naive [<a href="TraitDisplay.aspx?ItemName=Naive" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 22</i></a><br /> Your perception that everyone is innately good does not bode well in the heat of battle, when less scrupulous foes might take advantage of your misguided optimism. You take a –2 penalty to AC against attacks with improvised weapons and a –2 penalty to CMD against dirty trick combat maneuvers (see the <i>Pathfinder RPG Advanced Player’s Guide</i>).<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_37"><h2 class="title">Nervous [<a href="TraitDisplay.aspx?ItemName=Nervous" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 22</i></a><br /> Living under constant threat of death or worse from your oppressive government, your nerves have frayed terribly. Whenever you take 10 on an ability check or skill check that imparts any penalty for failure (aside from wasted time), you treat your check as if you had rolled an 8 instead of a 10, even if you are able to take your time.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_38"><h2 class="title">Oblivious [<a href="TraitDisplay.aspx?ItemName=Oblivious" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 22</i></a><br /> Whether because you are an avid
+ daydreamer or you are accustomed to everything being handed to you and spelled out for your benefit, you pay
+ little attention to your surroundings and other people.
+ You take a –2 penalty on Sense Motive and sight-based
+ Perception checks.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_39"><h2 class="title">Occult Bargain [<a href="TraitDisplay.aspx?ItemName=Occult Bargain" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9l2w?Pathfinder-Player-Companion-Spymasters-Handbook
+" target="_blank" class="external-link"><i>Spymaster's Handbook pg. 7</i></a><br />You draw magical power from a source, such as a mysterious eidolon, shame-filled phantom, or First World patron, who insists that its identity remains secret. You take a -1 penalty on concentration checks, and you must invoke the entity’s name by word or text each day or be unable to regain spell slots that day. You must be able to cast 0-level and 1st-level spells as a class feature to select this drawback.
+<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_40"><h2 class="title">Oppressive Expectations [<a href="TraitDisplay.aspx?ItemName=Oppressive Expectations" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 23</i></a><br /> You were raised with the belief that your family was special, and that those of your status always succeed at whatever they do. Due to your concern about upholding the family name and your memories of the consequences for disappointing them (such as violence or unsettling disapproval), you are easily frustrated. When you fail at a skill check, you take a –2 penalty on checks with that skill until you succeed or until you fail at a different skill check, whichever comes first.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_41"><h2 class="title">Overprotective [<a href="TraitDisplay.aspx?ItemName=Overprotective" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 23</i></a><br /> In your youth, you saw a younger friend or loved one suffer a grievous injury or die, and you blamed yourself for not having been there to help, even if there was nothing you could have done. If one of your allies should fall unconscious from hit point damage, you take a –2 penalty on attack rolls and skill checks as long as you are farther than 10 feet away from your fallen ally.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_42"><h2 class="title">Paranoid [<a href="TraitDisplay.aspx?ItemName=Paranoid" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 65</i></a><br />You believe that someone or something is always out to get you, so you have a hard time truly trusting anyone. Anyone who attempts an aid another action of any type to assist you must succeed at a DC 15 check instead of the normal DC 10 check.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_43"><h2 class="title">Power-Hungry [<a href="TraitDisplay.aspx?ItemName=Power-Hungry" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 65</i></a><br />You're addicted to power. You take a –2 penalty on Will saving throws against charm and compulsion effects if the creature creating the effect promises wealth or power.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_44"><h2 class="title">Pride [<a href="TraitDisplay.aspx?ItemName=Pride" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 65</i></a><br />You can't abide challenges to your dignity, authority, or honor. When someone threatens, accuses, or challenges you, you take a –2 penalty on Diplomacy checks and Sense Motive checks involving that creature until the creature apologizes to you.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_45"><h2 class="title">Provincial [<a href="TraitDisplay.aspx?ItemName=Provincial" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 65</i></a><br />You have only one way of looking at things: the right way. You take a –2 penalty on Diplomacy checks and Sense Motive checks made against all creatures whose religion or alignment differs from your own.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_46"><h2 class="title">Righteous Indignation [<a href="TraitDisplay.aspx?ItemName=Righteous Indignation" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9l2w?Pathfinder-Player-Companion-Spymasters-Handbook
+" target="_blank" class="external-link"><i>Spymaster's Handbook pg. 7</i></a><br />You have difficulty controlling your temper after living in inhuman conditions in Cheliax, Geb, Irrisen, Katapesh, or Qadira. Whenever a foe provokes an attack of opportunity from you, you must take it unless you succeed at a Will save against a DC equal to 10 + your level. You take a -1 penalty on Will saving throws against spells with the emotion<sup>UM</sup> descriptor that do not also have the fear descriptor.
+<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_47"><h2 class="title">Scarred [<a href="TraitDisplay.aspx?ItemName=Scarred" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9s2i?Pathfinder-Player-Companion-Antiheros-Handbook" target="_blank" class="external-link"><i>Antihero's Handbook pg. 6</i></a><br />An injury left you horribly, visibly scarred, making it more difficult for you to hide your true face, and also making most people distrustful of you merely due to your appearance. You take a –5 penalty on Disguise checks and a –2 penalty on Bluff checks.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_48"><h2 class="title">Secret Shame [<a href="TraitDisplay.aspx?ItemName=Secret Shame" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9l2w?Pathfinder-Player-Companion-Spymasters-Handbook
+" target="_blank" class="external-link"><i>Spymaster's Handbook pg. 7</i></a><br />You have a terrible fear of the public at large, a group, or an important person (such as your order of knights, your liege lord, your family, or your lover) learning a shameful truth about you. You take a -1 penalty on saving throws against fear effects, and the DC of any Intimidate check to demoralize you is reduced by 1. If you would normally be immune to fear, you do not take these penalties, but instead lose your immunity to fear (regardless of its source).
+<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_49"><h2 class="title">Self-Doubting [<a href="TraitDisplay.aspx?ItemName=Self-Doubting" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9s2i?Pathfinder-Player-Companion-Antiheros-Handbook" target="_blank" class="external-link"><i>Antihero's Handbook pg. 6</i></a><br />Your ever-present fear of failure causes a downward spiral. The first time each day that you fail a Will saving throw or skill check, you take a –2 penalty on the next Will saving throw or skill check of that kind.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_50"><h2 class="title">Sentimental [<a href="TraitDisplay.aspx?ItemName=Sentimental" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 65</i></a><br />You are sentimental, and your thoughts often stray to the past at inappropriate times. You take a –2 penalty on Perception checks to avoid being surprised and on Reflex saving throws to avoid traps or hazards.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_51"><h2 class="title">Shadow-Scarred [<a href="TraitDisplay.aspx?ItemName=Shadow-Scarred" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 23</i></a><br /> You were touched by terrible horrors that live in the darkness just outside the human sphere, such as shadow-beasts or aberrations linked to the Dark Tapestry, and feel your life-force ebb away ever so slightly whenever you return to the shadows. Whenever you are in an area of dim light or darkness, you take a –1 penalty on saving throws.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_52"><h2 class="title">Sheltered [<a href="TraitDisplay.aspx?ItemName=Sheltered" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 23</i></a><br /> Brought up in courtly environments and knowing little of violence, you have trouble getting accustomed to it. Whenever you have less than half your maximum hit points, you are shaken.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_53"><h2 class="title">Sleepy [<a href="TraitDisplay.aspx?ItemName=Sleepy" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 23</i></a><br /> You must sleep or rest for at least 12 hours each night to get the benefits of a full night’s rest. You take a –2 penalty on saving throws against sleep effects.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_54"><h2 class="title">Spooked [<a href="TraitDisplay.aspx?ItemName=Spooked" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 23</i></a><br /> You had a traumatic
+ experience with a spirit at a young age
+ that colors your reactions to such creatures even to this
+ day. Whenever you perceive a fey, outsider, or undead
+ from within 60 feet, you become shaken for 1d4 rounds
+ unless you succeed at a Will save with a DC equal to 15
+ + the creature’s Charisma modifier. Immunity to fear
+ effects does not allow you to forgo this saving throw;
+ even if you are immune to fear, you must roll the Will
+ saving throw for this drawback when applicable, albeit
+ with a +4 bonus.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_55"><h2 class="title">Stigmatized [<a href="TraitDisplay.aspx?ItemName=Stigmatized" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9s2i?Pathfinder-Player-Companion-Antiheros-Handbook" target="_blank" class="external-link"><i>Antihero's Handbook pg. 6</i></a><br />You were kept at the periphery of society for a long period of time, so that even when you are among strangers in a new place, you feel the weight of your missing socialization. You take a –3 penalty on Diplomacy checks to gather information or improve a creature’s attitude.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_56"><h2 class="title">Superstitious (Drawback) [<a href="TraitDisplay.aspx?ItemName=Superstitious (Drawback)" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 23</i></a><br /> Raised around those who regarded most magic as innately dangerous, no matter the source, you cannot bring yourself to submit to magic willingly even for your own good. Whenever you are affected with a harmless spell, there is a 50% chance that you must roll a saving throw to prevent that effect, even if it would benefit you. This does not apply to harmless spells cast by you upon yourself.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_57"><h2 class="title">Tainted Spirit [<a href="TraitDisplay.aspx?ItemName=Tainted Spirit" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 23</i></a><br /> When you were a child, a parent or other person with authority over you made a minor pact with a fiend on your behalf, stealing some of your vitality in exchange for a minor boon. At the end of any combat, you must attempt a Fortitude saving throw. The DC is 10 + the number of rounds you acted in combat. If you fail this save, you become fatigued for 10 minutes per round you acted during that encounter.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_58"><h2 class="title">Too Many Secrets [<a href="TraitDisplay.aspx?ItemName=Too Many Secrets" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9l2w?Pathfinder-Player-Companion-Spymasters-Handbook
+" target="_blank" class="external-link"><i>Spymaster's Handbook pg. 7</i></a><br />You’ve told too many lies, and made up too many cover stories, and now even you can’t keep it all straight. The lies have become reality to you, which makes it difficult to think of a new convincing lie. You hesitate at crucial moments when trying to fool those around you, and likely shouldn’t be in the field at all anymore. You take a -2 penalty on Bluff checks and saving throws against illusions.
+<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_59"><h2 class="title">Umbral Unmasking [<a href="TraitDisplay.aspx?ItemName=Umbral Unmasking" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy991x?Pathfinder-Player-Companion-Champions-of-Corruption
+" target="_blank" class="external-link"><i>Champions of Corruption pg. 29</i></a><br />You cast no shadow whatsoever, or the shadow you do have is monstrous. Under normal lighted conditions, this is not hard to observe—but uncommon to notice. Creatures that succeed at a DC 15 Wisdom check notice it plainly (an additional Perception check may be required based on environmental conditions). This telltale sign of wickedness cannot be concealed by <i>misdirection</i>, <i>nondetection</i>, or illusions, except those that also affect shadows (such as <i>invisibility</i>).<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_60"><h2 class="title">Unlearned [<a href="TraitDisplay.aspx?ItemName=Unlearned" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8yw2?Pathfinder-Player-Companion-Quests-Campaigns
+" target="_blank" class="external-link"><i>Quests and Campaigns pg. 23</i></a><br /> You have always had difficulty learning
+ and retaining information, and know very little about
+ the world beyond the obvious and what pertains to
+ your profession. Choose one Knowledge skill. You
+ cannot attempt untrained Knowledge checks with any
+ other Knowledge skills, even if the check’s DC is 10
+ or lower. If you have access to a library that covers a
+ specific Knowledge skill, you may attempt an untrained
+ Knowledge check with a –2 penalty.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_61"><h2 class="title">Vain [<a href="TraitDisplay.aspx?ItemName=Vain" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 65</i></a><br />You are sensitive about the way others perceive you. Whenever you fail an opposed Charisma-based check, you take a –2 penalty on all Charisma-based checks for the next 24 hours.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_62"><h2 class="title">Vainglory [<a href="TraitDisplay.aspx?ItemName=Vainglory" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy9l2w?Pathfinder-Player-Companion-Spymasters-Handbook
+" target="_blank" class="external-link"><i>Spymaster's Handbook pg. 7</i></a><br />You compulsively seek recognition for your deeds, making it hard to act with subtlety. You take a -1 penalty on Bluff, Disguise, and Stealth checks, and the save DC of any illusion you create is 1 lower than normal.
+<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_63"><h2 class="title">Warded Against Nature [<a href="TraitDisplay.aspx?ItemName=Warded Against Nature" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy991x?Pathfinder-Player-Companion-Champions-of-Corruption
+" target="_blank" class="external-link"><i>Champions of Corruption pg. 29</i></a><br />Animals do not willingly approach within 30 feet of you, unless you or the animal’s master succeeds at a DC 20 Handle Animal, Ride, or wild empathy check. Animal companions, familiars, and mounts granted by your class abilities are immune to this effect.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_64"><h2 class="title">Xenophobic [<a href="TraitDisplay.aspx?ItemName=Xenophobic" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 65</i></a><br />You have a hard time understanding and trusting those with unfamiliar ways and appearances. You take a –2 penalty on Diplomacy and Sense Motive checks made against creatures of a different race or from a different culture.<br /><br /></span>
+        </td>
+	</tr><tr>
+		<td>
+            <span id="MainContent_DataListTypes_LabelType_65"><h2 class="title">Zealous [<a href="TraitDisplay.aspx?ItemName=Zealous" style="font-color: white">Link</a>]</h2><b>Source</b> <a href="http://paizo.com/products/btpy8x64?Pathfinder-Roleplaying-Game-Ultimate-Campaign
+" target="_blank" class="external-link"><i>Ultimate Campaign pg. 65</i></a><br />You are fanatical in your beliefs, ruled by emotion over reason. When you attack a creature that you know worships a different religion than you do, you take a –5 penalty on the attack roll and a +2 trait bonus on the damage roll with your first attack.<br /><br /></span>
+        </td>
+	</tr>
+</table>
+    
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Arcane Spells - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Arcane Spells" /><meta name="description" content="Wizards, sorcerers, and bards cast arcane spells. Compared to divine spells, arcane spells are more likely to produce dramatic results.&lt;br />&lt;br /> &lt;b>Spell Slots&lt;/b>: The various character class tables show how many spells of each level a character can cast per day. These openings for daily spells are called spell slots. A spellcaster always has the option to fill a higher-level spell slot with a lower-level spell. A spellcaster who lacks a high enough ability score to cast spells that would otherwise be his due still gets the slots but must fill them with spells of lower levels." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=233" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWkeTx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NjgiPk1hZ2ljPC9hPjwvdT48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTIzMyI+QXJjYW5lIFNwZWxsczwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweTg4eWoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UFJQRyBDb3JlIFJ1bGVib29rIHBnLiAyMTg8L2k+PC9hPjxiciAvPldpemFyZHMsIHNvcmNlcmVycywgYW5kIGJhcmRzIGNhc3QgYXJjYW5lIHNwZWxscy4gQ29tcGFyZWQgdG8gZGl2aW5lIHNwZWxscywgYXJjYW5lIHNwZWxscyBhcmUgbW9yZSBsaWtlbHkgdG8gcHJvZHVjZSBkcmFtYXRpYyByZXN1bHRzLjxiciAvPjxiciAvPiA8Yj5TcGVsbCBTbG90czwvYj46IFRoZSB2YXJpb3VzIGNoYXJhY3RlciBjbGFzcyB0YWJsZXMgc2hvdyBob3cgbWFueSBzcGVsbHMgb2YgZWFjaCBsZXZlbCBhIGNoYXJhY3RlciBjYW4gY2FzdCBwZXIgZGF5LiBUaGVzZSBvcGVuaW5ncyBmb3IgZGFpbHkgc3BlbGxzIGFyZSBjYWxsZWQgc3BlbGwgc2xvdHMuIEEgc3BlbGxjYXN0ZXIgYWx3YXlzIGhhcyB0aGUgb3B0aW9uIHRvIGZpbGwgYSBoaWdoZXItbGV2ZWwgc3BlbGwgc2xvdCB3aXRoIGEgbG93ZXItbGV2ZWwgc3BlbGwuIEEgc3BlbGxjYXN0ZXIgd2hvIGxhY2tzIGEgaGlnaCBlbm91Z2ggYWJpbGl0eSBzY29yZSB0byBjYXN0IHNwZWxscyB0aGF0IHdvdWxkIG90aGVyd2lzZSBiZSBoaXMgZHVlIHN0aWxsIGdldHMgdGhlIHNsb3RzIGJ1dCBtdXN0IGZpbGwgdGhlbSB3aXRoIHNwZWxscyBvZiBsb3dlciBsZXZlbHMuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0yMzQiPlByZXBhcmluZyBXaXphcmQgU3BlbGxzPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5ODh5aiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QUlBHIENvcmUgUnVsZWJvb2sgcGcuIDIxODwvaT48L2E+PGJyIC8+QSB3aXphcmTigJlzIGxldmVsIGxpbWl0cyB0aGUgbnVtYmVyIG9mIHNwZWxscyBoZSBjYW4gcHJlcGFyZSBhbmQgY2FzdC4gSGlzIGhpZ2ggSW50ZWxsaWdlbmNlIHNjb3JlIG1pZ2h0IGFsbG93IGhpbSB0byBwcmVwYXJlIGEgZmV3IGV4dHJhIHNwZWxscy4gSGUgY2FuIHByZXBhcmUgdGhlIHNhbWUgc3BlbGwgbW9yZSB0aGFuIG9uY2UsIGJ1dCBlYWNoIHByZXBhcmF0aW9uIGNvdW50cyBhcyBvbmUgc3BlbGwgdG93YXJkIGhpcyBkYWlseSBsaW1pdC4gVG8gcHJlcGFyZSBhIHNwZWxsLCB0aGUgd2l6YXJkIG11c3QgaGF2ZSBhbiBJbnRlbGxpZ2VuY2Ugc2NvcmUgb2YgYXQgbGVhc3QgMTAgKyB0aGUgc3BlbGzigJlzIGxldmVsLjxiciAvPjxiciAvPiA8Yj5SZXN0PC9iPjogVG8gcHJlcGFyZSBoaXMgZGFpbHkgc3BlbGxzLCBhIHdpemFyZCBtdXN0IGZpcnN0IHNsZWVwIGZvciA4IGhvdXJzLiBUaGUgd2l6YXJkIGRvZXMgbm90IGhhdmUgdG8gc2x1bWJlciBmb3IgZXZlcnkgbWludXRlIG9mIHRoZSB0aW1lLCBidXQgaGUgbXVzdCByZWZyYWluIGZyb20gbW92ZW1lbnQsIGNvbWJhdCwgc3BlbGxjYXN0aW5nLCBza2lsbCB1c2UsIGNvbnZlcnNhdGlvbiwgb3IgYW55IG90aGVyIGZhaXJseSBkZW1hbmRpbmcgcGh5c2ljYWwgb3IgbWVudGFsIHRhc2sgZHVyaW5nIHRoZSByZXN0IHBlcmlvZC4gSWYgaGlzIHJlc3QgaXMgaW50ZXJydXB0ZWQsIGVhY2ggaW50ZXJydXB0aW9uIGFkZHMgMSBob3VyIHRvIHRoZSB0b3RhbCBhbW91bnQgb2YgdGltZSBoZSBoYXMgdG8gcmVzdCBpbiBvcmRlciB0byBjbGVhciBoaXMgbWluZCwgYW5kIGhlIG11c3QgaGF2ZSBhdCBsZWFzdCAxIGhvdXIgb2YgdW5pbnRlcnJ1cHRlZCByZXN0IGltbWVkaWF0ZWx5IHByaW9yIHRvIHByZXBhcmluZyBoaXMgc3BlbGxzLiBJZiB0aGUgY2hhcmFjdGVyIGRvZXMgbm90IG5lZWQgdG8gc2xlZXAgZm9yIHNvbWUgcmVhc29uLCBoZSBzdGlsbCBtdXN0IGhhdmUgOCBob3VycyBvZiByZXN0ZnVsIGNhbG0gYmVmb3JlIHByZXBhcmluZyBhbnkgc3BlbGxzLjxiciAvPjxiciAvPiA8Yj5SZWNlbnQgQ2FzdGluZyBMaW1pdC9SZXN0IEludGVycnVwdGlvbnM8L2I+OiBJZiBhIHdpemFyZCBoYXMgY2FzdCBzcGVsbHMgcmVjZW50bHksIHRoZSBkcmFpbiBvbiBoaXMgcmVzb3VyY2VzIHJlZHVjZXMgaGlzIGNhcGFjaXR5IHRvIHByZXBhcmUgbmV3IHNwZWxscy4gV2hlbiBoZSBwcmVwYXJlcyBzcGVsbHMgZm9yIHRoZSBjb21pbmcgZGF5LCBhbGwgdGhlIHNwZWxscyBoZSBoYXMgY2FzdCB3aXRoaW4gdGhlIGxhc3QgOCBob3VycyBjb3VudCBhZ2FpbnN0IGhpcyBkYWlseSBsaW1pdC48YnIgLz48YnIgLz4gPGI+UHJlcGFyYXRpb24gRW52aXJvbm1lbnQ8L2I+OiBUbyBwcmVwYXJlIGFueSBzcGVsbCwgYSB3aXphcmQgbXVzdCBoYXZlIGVub3VnaCBwZWFjZSwgcXVpZXQsIGFuZCBjb21mb3J0IHRvIGFsbG93IGZvciBwcm9wZXIgY29uY2VudHJhdGlvbi4gVGhlIHdpemFyZOKAmXMgc3Vycm91bmRpbmdzIG5lZWQgbm90IGJlIGx1eHVyaW91cywgYnV0IHRoZXkgbXVzdCBiZSBmcmVlIGZyb20gZGlzdHJhY3Rpb25zLiBFeHBvc3VyZSB0byBpbmNsZW1lbnQgd2VhdGhlciBwcmV2ZW50cyB0aGUgbmVjZXNzYXJ5IGNvbmNlbnRyYXRpb24sIGFzIGRvZXMgYW55IGluanVyeSBvciBmYWlsZWQgc2F2aW5nIHRocm93IHRoZSBjaGFyYWN0ZXIgbWlnaHQgZXhwZXJpZW5jZSB3aGlsZSBzdHVkeWluZy4gV2l6YXJkcyBhbHNvIG11c3QgaGF2ZSBhY2Nlc3MgdG8gdGhlaXIgc3BlbGxib29rcyB0byBzdHVkeSBmcm9tIGFuZCBzdWZmaWNpZW50IGxpZ2h0IHRvIHJlYWQgdGhlbS4gVGhlcmUgaXMgb25lIG1ham9yIGV4Y2VwdGlvbjogYSB3aXphcmQgY2FuIHByZXBhcmUgYSA8aT5yZWFkIG1hZ2ljPC9pPiBzcGVsbCBldmVuIHdpdGhvdXQgYSBzcGVsbGJvb2suPGJyIC8+PGJyIC8+IDxiPlNwZWxsIFByZXBhcmF0aW9uIFRpbWU8L2I+OiBBZnRlciByZXN0aW5nLCBhIHdpemFyZCBtdXN0IHN0dWR5IGhpcyBzcGVsbGJvb2sgdG8gcHJlcGFyZSBhbnkgc3BlbGxzIHRoYXQgZGF5LiBJZiBoZSB3YW50cyB0byBwcmVwYXJlIGFsbCBoaXMgc3BlbGxzLCB0aGUgcHJvY2VzcyB0YWtlcyAxIGhvdXIuIFByZXBhcmluZyBzb21lIHNtYWxsZXIgcG9ydGlvbiBvZiBoaXMgZGFpbHkgY2FwYWNpdHkgdGFrZXMgYSBwcm9wb3J0aW9uYWxseSBzbWFsbGVyIGFtb3VudCBvZiB0aW1lLCBidXQgYWx3YXlzIGF0IGxlYXN0IDE1IG1pbnV0ZXMsIHRoZSBtaW5pbXVtIHRpbWUgcmVxdWlyZWQgdG8gYWNoaWV2ZSB0aGUgcHJvcGVyIG1lbnRhbCBzdGF0ZS48YnIgLz48YnIgLz4gPGI+U3BlbGwgU2VsZWN0aW9uIGFuZCBQcmVwYXJhdGlvbjwvYj46IFVudGlsIGhlIHByZXBhcmVzIHNwZWxscyBmcm9tIGhpcyBzcGVsbGJvb2ssIHRoZSBvbmx5IHNwZWxscyBhIHdpemFyZCBoYXMgYXZhaWxhYmxlIHRvIGNhc3QgYXJlIHRoZSBvbmVzIHRoYXQgaGUgYWxyZWFkeSBoYWQgcHJlcGFyZWQgZnJvbSB0aGUgcHJldmlvdXMgZGF5IGFuZCBoYXMgbm90IHlldCB1c2VkLiBEdXJpbmcgdGhlIHN0dWR5IHBlcmlvZCwgaGUgY2hvb3NlcyB3aGljaCBzcGVsbHMgdG8gcHJlcGFyZS4gSWYgYSB3aXphcmQgYWxyZWFkeSBoYXMgc3BlbGxzIHByZXBhcmVkIChmcm9tIHRoZSBwcmV2aW91cyBkYXkpIHRoYXQgaGUgaGFzIG5vdCBjYXN0LCBzaGUgY2FuIGFiYW5kb24gc29tZSBvciBhbGwgb2YgdGhlbSB0byBtYWtlIHJvb20gZm9yIG5ldyBzcGVsbHMuPGJyIC8+PGJyIC8+IFdoZW4gcHJlcGFyaW5nIHNwZWxscyBmb3IgdGhlIGRheSwgYSB3aXphcmQgY2FuIGxlYXZlIHNvbWUgb2YgdGhlc2Ugc3BlbGwgc2xvdHMgb3Blbi4gTGF0ZXIgZHVyaW5nIHRoYXQgZGF5LCBoZSBjYW4gcmVwZWF0IHRoZSBwcmVwYXJhdGlvbiBwcm9jZXNzIGFzIG9mdGVuIGFzIGhlIGxpa2VzLCB0aW1lIGFuZCBjaXJjdW1zdGFuY2VzIHBlcm1pdHRpbmcuIER1cmluZyB0aGVzZSBleHRyYSBzZXNzaW9ucyBvZiBwcmVwYXJhdGlvbiwgdGhlIHdpemFyZCBjYW4gZmlsbCB0aGVzZSB1bnVzZWQgc3BlbGwgc2xvdHMuIEhlIGNhbm5vdCwgaG93ZXZlciwgYWJhbmRvbiBhIHByZXZpb3VzbHkgcHJlcGFyZWQgc3BlbGwgdG8gcmVwbGFjZSBpdCB3aXRoIGFub3RoZXIgb25lIG9yIGZpbGwgYSBzbG90IHRoYXQgaXMgZW1wdHkgYmVjYXVzZSBoZSBoYXMgY2FzdCBhIHNwZWxsIGluIHRoZSBtZWFudGltZS4gVGhhdCBzb3J0IG9mIHByZXBhcmF0aW9uIHJlcXVpcmVzIGEgbWluZCBmcmVzaCBmcm9tIHJlc3QuIExpa2UgdGhlIGZpcnN0IHNlc3Npb24gb2YgdGhlIGRheSwgdGhpcyBwcmVwYXJhdGlvbiB0YWtlcyBhdCBsZWFzdCAxNSBtaW51dGVzLCBhbmQgaXQgdGFrZXMgbG9uZ2VyIGlmIHRoZSB3aXphcmQgcHJlcGFyZXMgbW9yZSB0aGFuIG9uZS1xdWFydGVyIG9mIGhpcyBzcGVsbHMuPGJyIC8+PGJyIC8+IDxiPlByZXBhcmVkIFNwZWxsIFJldGVudGlvbjwvYj46IE9uY2UgYSB3aXphcmQgcHJlcGFyZXMgYSBzcGVsbCwgaXQgcmVtYWlucyBpbiBoaXMgbWluZCBhcyBhIG5lYXJseSBjYXN0IHNwZWxsIHVudGlsIGhlIHVzZXMgdGhlIHByZXNjcmliZWQgY29tcG9uZW50cyB0byBjb21wbGV0ZSBhbmQgdHJpZ2dlciBpdCBvciB1bnRpbCBoZSBhYmFuZG9ucyBpdC4gQ2VydGFpbiBvdGhlciBldmVudHMsIHN1Y2ggYXMgdGhlIGVmZmVjdHMgb2YgbWFnaWMgaXRlbXMgb3Igc3BlY2lhbCBhdHRhY2tzIGZyb20gbW9uc3RlcnMsIGNhbiB3aXBlIGEgcHJlcGFyZWQgc3BlbGwgZnJvbSBhIGNoYXJhY3RlcuKAmXMgbWluZC48YnIgLz48YnIgLz4gPGI+RGVhdGggYW5kIFByZXBhcmVkIFNwZWxsIFJldGVudGlvbjwvYj46IElmIGEgc3BlbGxjYXN0ZXIgZGllcywgYWxsIHByZXBhcmVkIHNwZWxscyBzdG9yZWQgaW4gaGlzIG1pbmQgYXJlIHdpcGVkIGF3YXkuIFBvdGVudCBtYWdpYyAoc3VjaCBhcyA8aT5yYWlzZSBkZWFkPC9pPiwgPGk+cmVzdXJyZWN0aW9uPC9pPiwgb3IgPGk+dHJ1ZSByZXN1cnJlY3Rpb248L2k+KSBjYW4gcmVjb3ZlciB0aGUgbG9zdCBlbmVyZ3kgd2hlbiBpdCByZWNvdmVycyB0aGUgY2hhcmFjdGVyLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjM1Ij5BcmNhbmUgTWFnaWNhbCBXcml0aW5nPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5ODh5aiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QUlBHIENvcmUgUnVsZWJvb2sgcGcuIDIxODwvaT48L2E+PGJyIC8+VG8gcmVjb3JkIGFuIGFyY2FuZSBzcGVsbCBpbiB3cml0dGVuIGZvcm0sIGEgY2hhcmFjdGVyIHVzZXMgY29tcGxleCBub3RhdGlvbiB0aGF0IGRlc2NyaWJlcyB0aGUgbWFnaWNhbCBmb3JjZXMgaW52b2x2ZWQgaW4gdGhlIHNwZWxsLiBUaGUgd3JpdGVyIHVzZXMgdGhlIHNhbWUgc3lzdGVtIG5vIG1hdHRlciB3aGF0IGhlciBuYXRpdmUgbGFuZ3VhZ2Ugb3IgY3VsdHVyZS4gSG93ZXZlciwgZWFjaCBjaGFyYWN0ZXIgdXNlcyB0aGUgc3lzdGVtIGluIGhpcyBvd24gd2F5LiBBbm90aGVyIHBlcnNvbuKAmXMgbWFnaWNhbCB3cml0aW5nIHJlbWFpbnMgaW5jb21wcmVoZW5zaWJsZSB0byBldmVuIHRoZSBtb3N0IHBvd2VyZnVsIHdpemFyZCB1bnRpbCBoZSB0YWtlcyB0aW1lIHRvIHN0dWR5IGFuZCBkZWNpcGhlciBpdC48YnIgLz48YnIgLz4gVG8gZGVjaXBoZXIgYW4gYXJjYW5lIG1hZ2ljYWwgd3JpdGluZyAoc3VjaCBhcyBhIHNpbmdsZSBzcGVsbCBpbiBhbm90aGVy4oCZcyBzcGVsbGJvb2sgb3Igb24gYSBzY3JvbGwpLCBhIGNoYXJhY3RlciBtdXN0IG1ha2UgYSBTcGVsbGNyYWZ0IGNoZWNrIChEQyAyMCArIHRoZSBzcGVsbOKAmXMgbGV2ZWwpLiBJZiB0aGUgc2tpbGwgY2hlY2sgZmFpbHMsIHRoZSBjaGFyYWN0ZXIgY2Fubm90IGF0dGVtcHQgdG8gcmVhZCB0aGF0IHBhcnRpY3VsYXIgc3BlbGwgYWdhaW4gdW50aWwgdGhlIG5leHQgZGF5LiBBIDxpPnJlYWQgbWFnaWM8L2k+IHNwZWxsIGF1dG9tYXRpY2FsbHkgZGVjaXBoZXJzIG1hZ2ljYWwgd3JpdGluZyB3aXRob3V0IGEgc2tpbGwgY2hlY2suIElmIHRoZSBwZXJzb24gd2hvIGNyZWF0ZWQgdGhlIG1hZ2ljYWwgd3JpdGluZyBpcyBvbiBoYW5kIHRvIGhlbHAgdGhlIHJlYWRlciwgc3VjY2VzcyBpcyBhbHNvIGF1dG9tYXRpYy48YnIgLz48YnIgLz4gT25jZSBhIGNoYXJhY3RlciBkZWNpcGhlcnMgYSBwYXJ0aWN1bGFyIHBpZWNlIG9mIG1hZ2ljYWwgd3JpdGluZywgaGUgZG9lcyBub3QgbmVlZCB0byBkZWNpcGhlciBpdCBhZ2Fpbi4gRGVjaXBoZXJpbmcgbWFnaWNhbCB3cml0aW5nIGFsbG93cyB0aGUgcmVhZGVyIHRvIGlkZW50aWZ5IHRoZSBzcGVsbCBhbmQgZ2l2ZXMgc29tZSBpZGVhIG9mIGl0cyBlZmZlY3RzIChhcyBleHBsYWluZWQgaW4gdGhlIHNwZWxsIGRlc2NyaXB0aW9uKS4gSWYgdGhlIG1hZ2ljYWwgd3JpdGluZyBpcyBhIHNjcm9sbCBhbmQgdGhlIHJlYWRlciBjYW4gY2FzdCBhcmNhbmUgc3BlbGxzLCBoZSBjYW4gYXR0ZW1wdCB0byB1c2UgdGhlIHNjcm9sbC48YnIgLz48aDIgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTIzNiI+V2l6YXJkIFNwZWxscyBhbmQgQm9ycm93ZWQgU3BlbGxib29rczwvYT48L2gyPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweTg4eWoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UFJQRyBDb3JlIFJ1bGVib29rIHBnLiAyMTk8L2k+PC9hPjxiciAvPkEgd2l6YXJkIGNhbiB1c2UgYSBib3Jyb3dlZCBzcGVsbGJvb2sgdG8gcHJlcGFyZSBhIHNwZWxsIGhlIGFscmVhZHkga25vd3MgYW5kIGhhcyByZWNvcmRlZCBpbiBoaXMgb3duIHNwZWxsYm9vaywgYnV0IHByZXBhcmF0aW9uIHN1Y2Nlc3MgaXMgbm90IGFzc3VyZWQuIEZpcnN0LCB0aGUgd2l6YXJkIG11c3QgZGVjaXBoZXIgdGhlIHdyaXRpbmcgaW4gdGhlIGJvb2sgKHNlZSBBcmNhbmUgTWFnaWNhbCBXcml0aW5ncywgYWJvdmUpLiBPbmNlIGEgc3BlbGwgZnJvbSBhbm90aGVyIHNwZWxsY2FzdGVy4oCZcyBib29rIGlzIGRlY2lwaGVyZWQsIHRoZSByZWFkZXIgbXVzdCBtYWtlIGEgU3BlbGxjcmFmdCBjaGVjayAoREMgMTUgKyBzcGVsbOKAmXMgbGV2ZWwpIHRvIHByZXBhcmUgdGhlIHNwZWxsLiBJZiB0aGUgY2hlY2sgc3VjY2VlZHMsIHRoZSB3aXphcmQgY2FuIHByZXBhcmUgdGhlIHNwZWxsLiBIZSBtdXN0IHJlcGVhdCB0aGUgY2hlY2sgdG8gcHJlcGFyZSB0aGUgc3BlbGwgYWdhaW4sIG5vIG1hdHRlciBob3cgbWFueSB0aW1lcyBoZSBoYXMgcHJlcGFyZWQgaXQgYmVmb3JlLiBJZiB0aGUgY2hlY2sgZmFpbHMsIGhlIGNhbm5vdCB0cnkgdG8gcHJlcGFyZSB0aGUgc3BlbGwgZnJvbSB0aGUgc2FtZSBzb3VyY2UgYWdhaW4gdW50aWwgdGhlIG5leHQgZGF5LiBIb3dldmVyLCBhcyBleHBsYWluZWQgYWJvdmUsIGhlIGRvZXMgbm90IG5lZWQgdG8gcmVwZWF0IGEgY2hlY2sgdG8gZGVjaXBoZXIgdGhlIHdyaXRpbmcuIDxiciAvPjxoMiBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjM3Ij5BZGRpbmcgU3BlbGxzIHRvIGEgV2l6YXJkJ3MgU3BlbGxib29rPC9hPjwvaDI+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5ODh5aiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QUlBHIENvcmUgUnVsZWJvb2sgcGcuIDIxOTwvaT48L2E+PGJyIC8+V2l6YXJkcyBjYW4gYWRkIG5ldyBzcGVsbHMgdG8gdGhlaXIgc3BlbGxib29rcyB0aHJvdWdoIHNldmVyYWwgbWV0aG9kcy4gQSB3aXphcmQgY2FuIG9ubHkgbGVhcm4gbmV3IHNwZWxscyB0aGF0IGJlbG9uZyB0byB0aGUgd2l6YXJkIHNwZWxsIGxpc3RzLjxiciAvPjxiciAvPiA8Yj5TcGVsbHMgR2FpbmVkIGF0IGEgTmV3IExldmVsPC9iPjogV2l6YXJkcyBwZXJmb3JtIGEgY2VydGFpbiBhbW91bnQgb2Ygc3BlbGwgcmVzZWFyY2ggYmV0d2VlbiBhZHZlbnR1cmVzLiBFYWNoIHRpbWUgYSBjaGFyYWN0ZXIgYXR0YWlucyBhIG5ldyB3aXphcmQgbGV2ZWwsIGhlIGdhaW5zIHR3byBzcGVsbHMgb2YgaGlzIGNob2ljZSB0byBhZGQgdG8gaGlzIHNwZWxsYm9vay4gVGhlIHR3byBmcmVlIHNwZWxscyBtdXN0IGJlIG9mIHNwZWxsIGxldmVscyBoZSBjYW4gY2FzdC48YnIgLz48YnIgLz4gPGI+U3BlbGxzIENvcGllZCBmcm9tIEFub3RoZXLigJlzIFNwZWxsYm9vayBvciBhIFNjcm9sbDwvYj46IEEgd2l6YXJkIGNhbiBhbHNvIGFkZCBhIHNwZWxsIHRvIGhpcyBib29rIHdoZW5ldmVyIGhlIGVuY291bnRlcnMgb25lIG9uIGEgbWFnaWMgc2Nyb2xsIG9yIGluIGFub3RoZXIgd2l6YXJk4oCZcyBzcGVsbGJvb2suIE5vIG1hdHRlciB3aGF0IHRoZSBzcGVsbOKAmXMgc291cmNlLCB0aGUgd2l6YXJkIG11c3QgZiBpcnN0IGRlY2lwaGVyIHRoZSBtYWdpY2FsIHdyaXRpbmcgKHNlZSBBcmNhbmUgTWFnaWNhbCBXcml0aW5ncykuIE5leHQsIGhlIG11c3Qgc3BlbmQgMSBob3VyIHN0dWR5aW5nIHRoZSBzcGVsbC4gQXQgdGhlIGVuZCBvZiB0aGUgaG91ciwgaGUgbXVzdCBtYWtlIGEgU3BlbGxjcmFmdCBjaGVjayAoREMgMTUgKyBzcGVsbOKAmXMgbGV2ZWwpLiBBIHdpemFyZCB3aG8gaGFzIHNwZWNpYWxpemVkIGluIGEgc2Nob29sIG9mIHNwZWxscyBnYWlucyBhICsyIGJvbnVzIG9uIHRoZSBTcGVsbGNyYWZ0IGNoZWNrIGlmIHRoZSBuZXcgc3BlbGwgaXMgZnJvbSBoaXMgc3BlY2lhbHR5IHNjaG9vbC4gSWYgdGhlIGNoZWNrIHN1Y2NlZWRzLCB0aGUgd2l6YXJkIHVuZGVyc3RhbmRzIHRoZSBzcGVsbCBhbmQgY2FuIGNvcHkgaXQgaW50byBoaXMgc3BlbGxib29rIChzZWUgV3JpdGluZyBhIE5ldyBTcGVsbCBpbnRvIGEgU3BlbGxib29rKS4gVGhlIHByb2Nlc3MgbGVhdmVzIGEgc3BlbGxib29rIHRoYXQgd2FzIGNvcGllZCBmcm9tIHVuaGFybWVkLCBidXQgYSBzcGVsbCBzdWNjZXNzZnVsbHkgY29waWVkIGZyb20gYSBtYWdpYyBzY3JvbGwgZGlzYXBwZWFycyBmcm9tIHRoZSBwYXJjaG1lbnQuPGJyIC8+PGJyIC8+IElmIHRoZSBjaGVjayBmYWlscywgdGhlIHdpemFyZCBjYW5ub3QgdW5kZXJzdGFuZCBvciBjb3B5IHRoZSBzcGVsbC4gSGUgY2Fubm90IGF0dGVtcHQgdG8gbGVhcm4gb3IgY29weSB0aGF0IHNwZWxsIGFnYWluIHVudGlsIG9uZSB3ZWVrIGhhcyBwYXNzZWQuIElmIHRoZSBzcGVsbCB3YXMgZnJvbSBhIHNjcm9sbCwgYSBmYWlsZWQgU3BlbGxjcmFmdCBjaGVjayBkb2VzIG5vdCBjYXVzZSB0aGUgc3BlbGwgdG8gdmFuaXNoLjxiciAvPjxiciAvPiBJbiBtb3N0IGNhc2VzLCB3aXphcmRzIGNoYXJnZSBhIGZlZSBmb3IgdGhlIHByaXZpbGVnZSBvZiBjb3B5aW5nIHNwZWxscyBmcm9tIHRoZWlyIHNwZWxsYm9va3MuIFRoaXMgZmVlIGlzIHVzdWFsbHkgZXF1YWwgdG8gaGFsZiB0aGUgY29zdCB0byB3cml0ZSB0aGUgc3BlbGwgaW50byBhIHNwZWxsYm9vayAoc2VlIFdyaXRpbmcgYSBOZXcgU3BlbGwgaW50byBhIFNwZWxsYm9vaykuIFJhcmUgYW5kIHVuaXF1ZSBzcGVsbHMgbWlnaHQgY29zdCBzaWduaWZpY2FudGx5IG1vcmUuPGJyIC8+PGJyIC8+IDxiPkluZGVwZW5kZW50IFJlc2VhcmNoPC9iPjogQSB3aXphcmQgY2FuIGFsc28gcmVzZWFyY2ggYSBzcGVsbCBpbmRlcGVuZGVudGx5LCBkdXBsaWNhdGluZyBhbiBleGlzdGluZyBzcGVsbCBvciBjcmVhdGluZyBhbiBlbnRpcmVseSBuZXcgb25lLiBUaGUgY29zdCB0byByZXNlYXJjaCBhIG5ldyBzcGVsbCwgYW5kIHRoZSB0aW1lIHJlcXVpcmVkLCBhcmUgbGVmdCB1cCB0byBHTSBkaXNjcmV0aW9uLCBidXQgaXQgc2hvdWxkIHByb2JhYmx5IHRha2UgYXQgbGVhc3QgMSB3ZWVrIGFuZCBjb3N0IGF0IGxlYXN0IDEsMDAwIGdwIHBlciBsZXZlbCBvZiB0aGUgc3BlbGwgdG8gYmUgcmVzZWFyY2hlZC4gVGhpcyBzaG91bGQgYWxzbyByZXF1aXJlIGEgbnVtYmVyIG9mIFNwZWxsY3JhZnQgYW5kIEtub3dsZWRnZSAoYXJjYW5hKSBjaGVja3MuPGJyIC8+PGgyIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0yMzgiPldyaXRpbmcgYSBOZXcgU3BlbGwgaW50byBhIFNwZWxsYm9vazwvYT48L2gyPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweTg4eWoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UFJQRyBDb3JlIFJ1bGVib29rIHBnLiAyMTk8L2k+PC9hPjxiciAvPk9uY2UgYSB3aXphcmQgdW5kZXJzdGFuZHMgYSBuZXcgc3BlbGwsIGhlIGNhbiByZWNvcmQgaXQgaW50byBoaXMgc3BlbGxib29rLjxiciAvPjxiciAvPiA8Yj5UaW1lPC9iPjogVGhlIHByb2Nlc3MgdGFrZXMgMSBob3VyIHBlciBzcGVsbCBsZXZlbC4gQ2FudHJpcHMgKDAgbGV2ZWxzIHNwZWxscykgdGFrZSAzMCBtaW51dGVzIHRvIHJlY29yZC48YnIgLz48YnIgLz4gPGI+U3BhY2UgaW4gdGhlIFNwZWxsYm9vazwvYj46IEEgc3BlbGwgdGFrZXMgdXAgb25lIHBhZ2Ugb2YgdGhlIHNwZWxsYm9vayBwZXIgc3BlbGwgbGV2ZWwuIEV2ZW4gYSAwLWxldmVsIHNwZWxsIChjYW50cmlwKSB0YWtlcyBvbmUgcGFnZS4gQSBzcGVsbGJvb2sgaGFzIDEwMCBwYWdlcy48YnIgLz48YnIgLz48Yj5NYXRlcmlhbHMgYW5kIENvc3RzPC9iPjogVGhlIGNvc3QgZm9yIHdyaXRpbmcgYSBuZXcgc3BlbGwgaW50byBhIHNwZWxsYm9vayBkZXBlbmRzIG9uIHRoZSBsZXZlbCBvZiB0aGUgc3BlbGwsIGFzIG5vdGVkIG9uIHRoZSBmb2xsb3dpbmcgdGFibGUuIE5vdGUgdGhhdCBhIHdpemFyZCBkb2VzIG5vdCBoYXZlIHRvIHBheSB0aGVzZSBjb3N0cyBpbiB0aW1lIG9yIGdvbGQgZm9yIHNwZWxscyBoZSBnYWlucyBmb3IgZnJlZSBhdCBlYWNoIG5ldyBsZXZlbC4gPHRhYmxlIGNsYXNzPSJpbm5lciI+PHRyPjx0ZD48Yj5TcGVsbCBMZXZlbDwvYj48L3RkPjx0ZD48Yj5Xcml0aW5nIENvc3Q8L2I+PC90ZD48dHI+PHRkPjA8L3RkPjx0ZD41IGdwPC90ZD48L3RyPjx0cj48dGQ+MTwvdGQ+PHRkPjEwIGdwPC90ZD48L3RyPjx0cj48dGQ+MjwvdGQ+PHRkPjQwIGdwPC90ZD48L3RyPjx0cj48dGQ+MzwvdGQ+PHRkPjkwIGdwPC90ZD48L3RyPjx0cj48dGQ+NDwvdGQ+PHRkPjE2MCBncDwvdGQ+PC90cj48dHI+PHRkPjU8L3RkPjx0ZD4yNTAgZ3A8L3RkPjwvdHI+PHRyPjx0ZD42PC90ZD48dGQ+MzYwIGdwPC90ZD48L3RyPjx0cj48dGQ+NzwvdGQ+PHRkPjQ5MCBncDwvdGQ+PC90cj48dHI+PHRkPjg8L3RkPjx0ZD42NDAgZ3A8L3RkPjwvdHI+PHRyPjx0ZD45PC90ZD48dGQ+ODEwIGdwPC90ZD48L3RyPjwvdGFibGU+PGJyIC8+PGgyIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0yMzkiPlJlcGxhY2luZyBhbmQgQ29weWluZyBTcGVsbGJvb2tzPC9hPjwvaDI+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5ODh5aiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QUlBHIENvcmUgUnVsZWJvb2sgcGcuIDIxOTwvaT48L2E+PGJyIC8+QSB3aXphcmQgY2FuIHVzZSB0aGUgcHJvY2VkdXJlIGZvciBsZWFybmluZyBhIHNwZWxsIHRvIHJlY29uc3RydWN0IGEgbG9zdCBzcGVsbGJvb2suIElmIGhlIGFscmVhZHkgaGFzIGEgcGFydGljdWxhciBzcGVsbCBwcmVwYXJlZCwgaGUgY2FuIHdyaXRlIGl0IGRpcmVjdGx5IGludG8gYSBuZXcgYm9vayBhdCB0aGUgc2FtZSBjb3N0IHJlcXVpcmVkIHRvIHdyaXRlIGEgc3BlbGwgaW50byBhIHNwZWxsYm9vay4gVGhlIHByb2Nlc3Mgd2lwZXMgdGhlIHByZXBhcmVkIHNwZWxsIGZyb20gaGlzIG1pbmQsIGp1c3QgYXMgY2FzdGluZyBpdCB3b3VsZC4gSWYgaGUgZG9lcyBub3QgaGF2ZSB0aGUgc3BlbGwgcHJlcGFyZWQsIGhlIGNhbiBwcmVwYXJlIGl0IGZyb20gYSBib3Jyb3dlZCBzcGVsbGJvb2sgYW5kIHRoZW4gd3JpdGUgaXQgaW50byBhIG5ldyBib29rLjxiciAvPjxiciAvPiBEdXBsaWNhdGluZyBhbiBleGlzdGluZyBzcGVsbGJvb2sgdXNlcyB0aGUgc2FtZSBwcm9jZWR1cmUgYXMgcmVwbGFjaW5nIGl0LCBidXQgdGhlIHRhc2sgaXMgbXVjaCBlYXNpZXIuIFRoZSB0aW1lIHJlcXVpcmVtZW50IGFuZCBjb3N0IHBlciBzcGVsbCBhcmUgaGFsdmVkLiA8YnIgLz48aDIgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTI0MCI+U2VsbGluZyBhIFNwZWxsYm9vazwvYT48L2gyPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweTg4eWoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UFJQRyBDb3JlIFJ1bGVib29rIHBnLiAyMjA8L2k+PC9hPjxiciAvPkNhcHR1cmVkIHNwZWxsYm9va3MgY2FuIGJlIHNvbGQgZm9yIGFuIGFtb3VudCBlcXVhbCB0byBoYWxmIHRoZSBjb3N0IG9mIHB1cmNoYXNpbmcgYW5kIGluc2NyaWJpbmcgdGhlIHNwZWxscyB3aXRoaW4uPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0yNDEiPlNvcmNlcmVycyBhbmQgQmFyZHM8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4OHlqIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBSUEcgQ29yZSBSdWxlYm9vayBwZy4gMjIwPC9pPjwvYT48YnIgLz5Tb3JjZXJlcnMgYW5kIGJhcmRzIGNhc3QgYXJjYW5lIHNwZWxscywgYnV0IHRoZXkgZG8gbm90IHVzZSBzcGVsbGJvb2tzIG9yIHByZXBhcmUgc3BlbGxzLiBUaGVpciBjbGFzcyBsZXZlbCBsaW1pdHMgdGhlIG51bWJlciBvZiBzcGVsbHMgc2hlIGNhbiBjYXN0IChzZWUgdGhlc2UgY2xhc3MgZGVzY3JpcHRpb25zKS4gSGVyIGhpZ2ggQ2hhcmlzbWEgc2NvcmUgbWlnaHQgYWxsb3cgaGVyIHRvIGNhc3QgYSBmZXcgZXh0cmEgc3BlbGxzLiBBIG1lbWJlciBvZiBlaXRoZXIgY2xhc3MgbXVzdCBoYXZlIGEgQ2hhcmlzbWEgc2NvcmUgb2YgYXQgbGVhc3QgMTAgKyB0aGUgc3BlbGzigJlzIGxldmVsIHRvIGNhc3QgdGhlIHNwZWxsLjxiciAvPjxiciAvPiA8Yj5EYWlseSBSZWFkeWluZyBvZiBTcGVsbHM8L2I+OiBFYWNoIGRheSwgc29yY2VyZXJzIGFuZCBiYXJkcyBtdXN0IGZvY3VzIHRoZWlyIG1pbmRzIG9uIHRoZSB0YXNrIG9mIGNhc3RpbmcgdGhlaXIgc3BlbGxzLiBBIHNvcmNlcmVyIG9yIGJhcmQgbmVlZHMgOCBob3VycyBvZiByZXN0ICgganVzdCBsaWtlIGEgd2l6YXJkKSwgYWZ0ZXIgd2hpY2ggc2hlIHNwZW5kcyAxNSBtaW51dGVzIGNvbmNlbnRyYXRpbmcuIChBIGJhcmQgbXVzdCBzaW5nLCByZWNpdGUsIG9yIHBsYXkgYW4gaW5zdHJ1bWVudCBvZiBzb21lIGtpbmQgd2hpbGUgY29uY2VudHJhdGluZy4pIER1cmluZyB0aGlzIHBlcmlvZCwgdGhlIHNvcmNlcmVyIG9yIGJhcmQgcmVhZGllcyBoZXIgbWluZCB0byBjYXN0IGhlciBkYWlseSBhbGxvdG1lbnQgb2Ygc3BlbGxzLiBXaXRob3V0IHN1Y2ggYSBwZXJpb2QgdG8gcmVmcmVzaCBoZXJzZWxmLCB0aGUgY2hhcmFjdGVyIGRvZXMgbm90IHJlZ2FpbiB0aGUgc3BlbGwgc2xvdHMgc2hlIHVzZWQgdXAgdGhlIGRheSBiZWZvcmUuPGJyIC8+PGJyIC8+IDxiPlJlY2VudCBDYXN0aW5nIExpbWl0PC9iPjogQW55IHNwZWxscyBjYXN0IHdpdGhpbiB0aGUgbGFzdCA4IGhvdXJzIGNvdW50IGFnYWluc3QgdGhlIHNvcmNlcmVy4oCZcyBvciBiYXJk4oCZcyBkYWlseSBsaW1pdC48YnIgLz48YnIgLz4gPGI+QWRkaW5nIFNwZWxscyB0byBhIFNvcmNlcmVy4oCZcyBvciBCYXJk4oCZcyBSZXBlcnRvaXJlPC9iPjogQSBzb3JjZXJlciBvciBiYXJkIGdhaW5zIHNwZWxscyBlYWNoIHRpbWUgc2hlIGF0dGFpbnMgYSBuZXcgbGV2ZWwgaW4gaGVyIGNsYXNzIGFuZCBuZXZlciBnYWlucyBzcGVsbHMgYW55IG90aGVyIHdheS4gV2hlbiB5b3VyIHNvcmNlcmVyIG9yIGJhcmQgZ2FpbnMgYSBuZXcgbGV2ZWwsIGNvbnN1bHQgVGFibGUgM+KAkzQgb3IgVGFibGUgM+KAkzE1IHRvIGxlYXJuIGhvdyBtYW55IHNwZWxscyBmcm9tIHRoZSBhcHByb3ByaWF0ZSBzcGVsbCBsaXN0IHNoZSBub3cga25vd3MuIFdpdGggcGVybWlzc2lvbiBmcm9tIHRoZSBHTSwgc29yY2VyZXJzIGFuZCBiYXJkcyBjYW4gYWxzbyBzZWxlY3QgdGhlIHNwZWxscyB0aGV5IGdhaW4gZnJvbSBuZXcgYW5kIHVudXN1YWwgc3BlbGxzIHRoYXQgdGhleSBjb21lIGFjcm9zcyB3aGlsZSBhZHZlbnR1cmluZy48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTEyMjAiPkFyY2FuZSBTcGVsbHMgYW5kIEFybW9yPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5ODh5aiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QUlBHIENvcmUgUnVsZWJvb2sgcGcuIDgzPC9pPjwvYT48YnIgLz5Bcm1vciByZXN0cmljdHMgdGhlIGNvbXBsaWNhdGVkIGdlc3R1cmVzIHJlcXVpcmVkIHdoaWxlIGNhc3RpbmcgYW55IHNwZWxsIHRoYXQgaGFzIGEgc29tYXRpYyBjb21wb25lbnQuIFRoZSBhcm1vciBhbmQgc2hpZWxkIGRlc2NyaXB0aW9ucyBsaXN0IHRoZSBhcmNhbmUgc3BlbGwgZmFpbHVyZSBjaGFuY2UgZm9yIGRpZmZlcmVudCBhcm1vcnMgYW5kIHNoaWVsZHMuPGJyIC8+PGJyIC8+IElmIGEgc3BlbGwgZG9lc27igJl0IGhhdmUgYSBzb21hdGljIGNvbXBvbmVudCwgYW4gYXJjYW5lIHNwZWxsY2FzdGVyIGNhbiBjYXN0IGl0IHdpdGggbm8gYXJjYW5lIHNwZWxsIGZhaWx1cmUgY2hhbmNlIHdoaWxlIHdlYXJpbmcgYXJtb3IuIFN1Y2ggc3BlbGxzIGNhbiBhbHNvIGJlIGNhc3QgZXZlbiBpZiB0aGUgY2FzdGVy4oCZcyBoYW5kcyBhcmUgYm91bmQgb3IgaGUgaXMgZ3JhcHBsaW5nIChhbHRob3VnaCBjb25jZW50cmF0aW9uIGNoZWNrcyBzdGlsbCBhcHBseSBub3JtYWxseSkuIFRoZSBtZXRhbWFnaWMgZmVhdCA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iRmVhdERpc3BsYXkuYXNweD9JdGVtTmFtZT1TdGlsbCBTcGVsbCI+U3RpbGwgU3BlbGw8L2E+IGFsbG93cyBhIHNwZWxsY2FzdGVyIHRvIHByZXBhcmUgb3IgY2FzdCBhIHNwZWxsIHdpdGhvdXQgdGhlIHNvbWF0aWMgY29tcG9uZW50IGF0IG9uZSBzcGVsbCBsZXZlbCBoaWdoZXIgdGhhbiBub3JtYWwuIFRoaXMgYWxzbyBwcm92aWRlcyBhIHdheSB0byBjYXN0IGEgc3BlbGwgd2hpbGUgd2VhcmluZyBhcm1vciB3aXRob3V0IHJpc2tpbmcgYXJjYW5lIHNwZWxsIGZhaWx1cmUuZGRkCz+6tWyXeMTAQQdfF8S7y6RA/3a2B3YvhDY84hJpdMQ=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=68">Magic</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=233">Arcane Spells</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 218</i></a><br />Wizards, sorcerers, and bards cast arcane spells. Compared to divine spells, arcane spells are more likely to produce dramatic results.<br /><br /> <b>Spell Slots</b>: The various character class tables show how many spells of each level a character can cast per day. These openings for daily spells are called spell slots. A spellcaster always has the option to fill a higher-level spell slot with a lower-level spell. A spellcaster who lacks a high enough ability score to cast spells that would otherwise be his due still gets the slots but must fill them with spells of lower levels.<br /><h1 class="title"><a href="Rules.aspx?ID=234">Preparing Wizard Spells</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 218</i></a><br />A wizard’s level limits the number of spells he can prepare and cast. His high Intelligence score might allow him to prepare a few extra spells. He can prepare the same spell more than once, but each preparation counts as one spell toward his daily limit. To prepare a spell, the wizard must have an Intelligence score of at least 10 + the spell’s level.<br /><br /> <b>Rest</b>: To prepare his daily spells, a wizard must first sleep for 8 hours. The wizard does not have to slumber for every minute of the time, but he must refrain from movement, combat, spellcasting, skill use, conversation, or any other fairly demanding physical or mental task during the rest period. If his rest is interrupted, each interruption adds 1 hour to the total amount of time he has to rest in order to clear his mind, and he must have at least 1 hour of uninterrupted rest immediately prior to preparing his spells. If the character does not need to sleep for some reason, he still must have 8 hours of restful calm before preparing any spells.<br /><br /> <b>Recent Casting Limit/Rest Interruptions</b>: If a wizard has cast spells recently, the drain on his resources reduces his capacity to prepare new spells. When he prepares spells for the coming day, all the spells he has cast within the last 8 hours count against his daily limit.<br /><br /> <b>Preparation Environment</b>: To prepare any spell, a wizard must have enough peace, quiet, and comfort to allow for proper concentration. The wizard’s surroundings need not be luxurious, but they must be free from distractions. Exposure to inclement weather prevents the necessary concentration, as does any injury or failed saving throw the character might experience while studying. Wizards also must have access to their spellbooks to study from and sufficient light to read them. There is one major exception: a wizard can prepare a <i>read magic</i> spell even without a spellbook.<br /><br /> <b>Spell Preparation Time</b>: After resting, a wizard must study his spellbook to prepare any spells that day. If he wants to prepare all his spells, the process takes 1 hour. Preparing some smaller portion of his daily capacity takes a proportionally smaller amount of time, but always at least 15 minutes, the minimum time required to achieve the proper mental state.<br /><br /> <b>Spell Selection and Preparation</b>: Until he prepares spells from his spellbook, the only spells a wizard has available to cast are the ones that he already had prepared from the previous day and has not yet used. During the study period, he chooses which spells to prepare. If a wizard already has spells prepared (from the previous day) that he has not cast, she can abandon some or all of them to make room for new spells.<br /><br /> When preparing spells for the day, a wizard can leave some of these spell slots open. Later during that day, he can repeat the preparation process as often as he likes, time and circumstances permitting. During these extra sessions of preparation, the wizard can fill these unused spell slots. He cannot, however, abandon a previously prepared spell to replace it with another one or fill a slot that is empty because he has cast a spell in the meantime. That sort of preparation requires a mind fresh from rest. Like the first session of the day, this preparation takes at least 15 minutes, and it takes longer if the wizard prepares more than one-quarter of his spells.<br /><br /> <b>Prepared Spell Retention</b>: Once a wizard prepares a spell, it remains in his mind as a nearly cast spell until he uses the prescribed components to complete and trigger it or until he abandons it. Certain other events, such as the effects of magic items or special attacks from monsters, can wipe a prepared spell from a character’s mind.<br /><br /> <b>Death and Prepared Spell Retention</b>: If a spellcaster dies, all prepared spells stored in his mind are wiped away. Potent magic (such as <i>raise dead</i>, <i>resurrection</i>, or <i>true resurrection</i>) can recover the lost energy when it recovers the character.<br /><h1 class="title"><a href="Rules.aspx?ID=235">Arcane Magical Writing</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 218</i></a><br />To record an arcane spell in written form, a character uses complex notation that describes the magical forces involved in the spell. The writer uses the same system no matter what her native language or culture. However, each character uses the system in his own way. Another person’s magical writing remains incomprehensible to even the most powerful wizard until he takes time to study and decipher it.<br /><br /> To decipher an arcane magical writing (such as a single spell in another’s spellbook or on a scroll), a character must make a Spellcraft check (DC 20 + the spell’s level). If the skill check fails, the character cannot attempt to read that particular spell again until the next day. A <i>read magic</i> spell automatically deciphers magical writing without a skill check. If the person who created the magical writing is on hand to help the reader, success is also automatic.<br /><br /> Once a character deciphers a particular piece of magical writing, he does not need to decipher it again. Deciphering magical writing allows the reader to identify the spell and gives some idea of its effects (as explained in the spell description). If the magical writing is a scroll and the reader can cast arcane spells, he can attempt to use the scroll.<br /><h2 class="title"><a href="Rules.aspx?ID=236">Wizard Spells and Borrowed Spellbooks</a></h2><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 219</i></a><br />A wizard can use a borrowed spellbook to prepare a spell he already knows and has recorded in his own spellbook, but preparation success is not assured. First, the wizard must decipher the writing in the book (see Arcane Magical Writings, above). Once a spell from another spellcaster’s book is deciphered, the reader must make a Spellcraft check (DC 15 + spell’s level) to prepare the spell. If the check succeeds, the wizard can prepare the spell. He must repeat the check to prepare the spell again, no matter how many times he has prepared it before. If the check fails, he cannot try to prepare the spell from the same source again until the next day. However, as explained above, he does not need to repeat a check to decipher the writing. <br /><h2 class="title"><a href="Rules.aspx?ID=237">Adding Spells to a Wizard's Spellbook</a></h2><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 219</i></a><br />Wizards can add new spells to their spellbooks through several methods. A wizard can only learn new spells that belong to the wizard spell lists.<br /><br /> <b>Spells Gained at a New Level</b>: Wizards perform a certain amount of spell research between adventures. Each time a character attains a new wizard level, he gains two spells of his choice to add to his spellbook. The two free spells must be of spell levels he can cast.<br /><br /> <b>Spells Copied from Another’s Spellbook or a Scroll</b>: A wizard can also add a spell to his book whenever he encounters one on a magic scroll or in another wizard’s spellbook. No matter what the spell’s source, the wizard must f irst decipher the magical writing (see Arcane Magical Writings). Next, he must spend 1 hour studying the spell. At the end of the hour, he must make a Spellcraft check (DC 15 + spell’s level). A wizard who has specialized in a school of spells gains a +2 bonus on the Spellcraft check if the new spell is from his specialty school. If the check succeeds, the wizard understands the spell and can copy it into his spellbook (see Writing a New Spell into a Spellbook). The process leaves a spellbook that was copied from unharmed, but a spell successfully copied from a magic scroll disappears from the parchment.<br /><br /> If the check fails, the wizard cannot understand or copy the spell. He cannot attempt to learn or copy that spell again until one week has passed. If the spell was from a scroll, a failed Spellcraft check does not cause the spell to vanish.<br /><br /> In most cases, wizards charge a fee for the privilege of copying spells from their spellbooks. This fee is usually equal to half the cost to write the spell into a spellbook (see Writing a New Spell into a Spellbook). Rare and unique spells might cost significantly more.<br /><br /> <b>Independent Research</b>: A wizard can also research a spell independently, duplicating an existing spell or creating an entirely new one. The cost to research a new spell, and the time required, are left up to GM discretion, but it should probably take at least 1 week and cost at least 1,000 gp per level of the spell to be researched. This should also require a number of Spellcraft and Knowledge (arcana) checks.<br /><h2 class="title"><a href="Rules.aspx?ID=238">Writing a New Spell into a Spellbook</a></h2><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 219</i></a><br />Once a wizard understands a new spell, he can record it into his spellbook.<br /><br /> <b>Time</b>: The process takes 1 hour per spell level. Cantrips (0 levels spells) take 30 minutes to record.<br /><br /> <b>Space in the Spellbook</b>: A spell takes up one page of the spellbook per spell level. Even a 0-level spell (cantrip) takes one page. A spellbook has 100 pages.<br /><br /><b>Materials and Costs</b>: The cost for writing a new spell into a spellbook depends on the level of the spell, as noted on the following table. Note that a wizard does not have to pay these costs in time or gold for spells he gains for free at each new level. <table class="inner"><tr><td><b>Spell Level</b></td><td><b>Writing Cost</b></td><tr><td>0</td><td>5 gp</td></tr><tr><td>1</td><td>10 gp</td></tr><tr><td>2</td><td>40 gp</td></tr><tr><td>3</td><td>90 gp</td></tr><tr><td>4</td><td>160 gp</td></tr><tr><td>5</td><td>250 gp</td></tr><tr><td>6</td><td>360 gp</td></tr><tr><td>7</td><td>490 gp</td></tr><tr><td>8</td><td>640 gp</td></tr><tr><td>9</td><td>810 gp</td></tr></table><br /><h2 class="title"><a href="Rules.aspx?ID=239">Replacing and Copying Spellbooks</a></h2><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 219</i></a><br />A wizard can use the procedure for learning a spell to reconstruct a lost spellbook. If he already has a particular spell prepared, he can write it directly into a new book at the same cost required to write a spell into a spellbook. The process wipes the prepared spell from his mind, just as casting it would. If he does not have the spell prepared, he can prepare it from a borrowed spellbook and then write it into a new book.<br /><br /> Duplicating an existing spellbook uses the same procedure as replacing it, but the task is much easier. The time requirement and cost per spell are halved. <br /><h2 class="title"><a href="Rules.aspx?ID=240">Selling a Spellbook</a></h2><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 220</i></a><br />Captured spellbooks can be sold for an amount equal to half the cost of purchasing and inscribing the spells within.<br /><h1 class="title"><a href="Rules.aspx?ID=241">Sorcerers and Bards</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 220</i></a><br />Sorcerers and bards cast arcane spells, but they do not use spellbooks or prepare spells. Their class level limits the number of spells she can cast (see these class descriptions). Her high Charisma score might allow her to cast a few extra spells. A member of either class must have a Charisma score of at least 10 + the spell’s level to cast the spell.<br /><br /> <b>Daily Readying of Spells</b>: Each day, sorcerers and bards must focus their minds on the task of casting their spells. A sorcerer or bard needs 8 hours of rest ( just like a wizard), after which she spends 15 minutes concentrating. (A bard must sing, recite, or play an instrument of some kind while concentrating.) During this period, the sorcerer or bard readies her mind to cast her daily allotment of spells. Without such a period to refresh herself, the character does not regain the spell slots she used up the day before.<br /><br /> <b>Recent Casting Limit</b>: Any spells cast within the last 8 hours count against the sorcerer’s or bard’s daily limit.<br /><br /> <b>Adding Spells to a Sorcerer’s or Bard’s Repertoire</b>: A sorcerer or bard gains spells each time she attains a new level in her class and never gains spells any other way. When your sorcerer or bard gains a new level, consult Table 3–4 or Table 3–15 to learn how many spells from the appropriate spell list she now knows. With permission from the GM, sorcerers and bards can also select the spells they gain from new and unusual spells that they come across while adventuring.<br /><h1 class="title"><a href="Rules.aspx?ID=1220">Arcane Spells and Armor</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 83</i></a><br />Armor restricts the complicated gestures required while casting any spell that has a somatic component. The armor and shield descriptions list the arcane spell failure chance for different armors and shields.<br /><br /> If a spell doesn’t have a somatic component, an arcane spellcaster can cast it with no arcane spell failure chance while wearing armor. Such spells can also be cast even if the caster’s hands are bound or he is grappling (although concentration checks still apply normally). The metamagic feat <a style="text-decoration:underline" href="FeatDisplay.aspx?ItemName=Still Spell">Still Spell</a> allows a spellcaster to prepare or cast a spell without the somatic component at one spell level higher than normal. This also provides a way to cast a spell while wearing armor without risking arcane spell failure.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

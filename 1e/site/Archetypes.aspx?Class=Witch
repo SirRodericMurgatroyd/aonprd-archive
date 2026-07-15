@@ -1,0 +1,370 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Archetypes - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    
+    <meta name="keywords" content="Archives, Nethys, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, Archetype, Alley Witch, Ashiftah, Beast-Bonded, Bonded Witch, Bouda, Cartomancer, Coral Witch, Demon-Sworn, Dimensional Occultist, Dreamweaver, Flood Walker, Gingerbread Witch, Gravewalker, Hag of Gyronna, Hagbound, Havocker, Hedge Witch, Herb Witch, Hex Channeler, Invoker, Jinx Witch, Ley Line Guardian, Medium, Mirror Witch, Mountain Witch, Nexian Spellspy, Pact Witch, Putrefactor, Rhetorician, Scarred Witch Doctor, Sea Witch, Season Witch, Seducer, Synergist, Tatterdemalion, Vellemancer, Veneficus Witch, Venom Siphoner, White-Haired Witch, Winter Witch, Witch-Watcher, Wyrm Witch, Witch" /><meta name="description" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Archetypes.aspx?Class=Witch" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEyMDA2MDM5MTgPZBYCZg9kFgICAw9kFgICAQ9kFgoCAQ8PFgIeBFRleHQF2Bo8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1BbGNoZW1pc3QiPkFsY2hlbWlzdDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1BbnRpcGFsYWRpbiI+QW50aXBhbGFkaW48L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9QXJjYW5pc3QiPkFyY2FuaXN0PC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUJhcmJhcmlhbiI+QmFyYmFyaWFuPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUJhcmJhcmlhbiAoVW5jaGFpbmVkKSI+QmFyYmFyaWFuIChVbmNoYWluZWQpPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUJhcmQiPkJhcmQ8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9Qmxvb2RyYWdlciI+Qmxvb2RyYWdlcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1CcmF3bGVyIj5CcmF3bGVyPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUNhdmFsaWVyIj5DYXZhbGllcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1DbGVyaWMiPkNsZXJpYzwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1EcnVpZCI+RHJ1aWQ8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9RmlnaHRlciI+RmlnaHRlcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1HdW5zbGluZ2VyIj5HdW5zbGluZ2VyPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUh1bnRlciI+SHVudGVyPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUlucXVpc2l0b3IiPklucXVpc2l0b3I8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9SW52ZXN0aWdhdG9yIj5JbnZlc3RpZ2F0b3I8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9S2luZXRpY2lzdCI+S2luZXRpY2lzdDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1NYWd1cyI+TWFndXM8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9TWVkaXVtIj5NZWRpdW08L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9TWVzbWVyaXN0Ij5NZXNtZXJpc3Q8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9TW9uayI+TW9uazwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1Nb25rIChVbmNoYWluZWQpIj5Nb25rIChVbmNoYWluZWQpPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPU5pbmphIj5OaW5qYTwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1PY2N1bHRpc3QiPk9jY3VsdGlzdDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1PcmFjbGUiPk9yYWNsZTwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1QYWxhZGluIj5QYWxhZGluPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVBzeWNoaWMiPlBzeWNoaWM8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9UmFuZ2VyIj5SYW5nZXI8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9Um9ndWUiPlJvZ3VlPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVJvZ3VlIChVbmNoYWluZWQpIj5Sb2d1ZSAoVW5jaGFpbmVkKTwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1TYW11cmFpIj5TYW11cmFpPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNoYW1hbiI+U2hhbWFuPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNoaWZ0ZXIiPlNoaWZ0ZXI8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9U2thbGQiPlNrYWxkPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNsYXllciI+U2xheWVyPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVNvcmNlcmVyIj5Tb3JjZXJlcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1TcGlyaXR1YWxpc3QiPlNwaXJpdHVhbGlzdDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1TdW1tb25lciI+U3VtbW9uZXI8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9U3VtbW9uZXIgKFVuY2hhaW5lZCkiPlN1bW1vbmVyIChVbmNoYWluZWQpPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVN3YXNoYnVja2xlciI+U3dhc2hidWNrbGVyPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVZpZ2lsYW50ZSI+VmlnaWxhbnRlPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVdhcnByaWVzdCI+V2FycHJpZXN0PC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPVdpdGNoIj5XaXRjaDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1XaXphcmQiPldpemFyZDwvYT48aHIgLz48YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1Db21wYW5pb24iPkNvbXBhbmlvbjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1EcmFrZSI+RHJha2U8L2E+IHwgPGEgaHJlZj0iQ2xhc3NEaXNwbGF5LmFzcHg/SXRlbU5hbWU9RWlkb2xvbiI+RWlkb2xvbjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1FaWRvbG9uIChVbmNoYWluZWQpIj5FaWRvbG9uIChVbmNoYWluZWQpPC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUZhbWlsaWFyIj5GYW1pbGlhcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1QaGFudG9tIj5QaGFudG9tPC9hPjxociAvPjxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUFkZXB0Ij5BZGVwdDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1BcmlzdG9jcmF0Ij5BcmlzdG9jcmF0PC9hPiB8IDxhIGhyZWY9IkNsYXNzRGlzcGxheS5hc3B4P0l0ZW1OYW1lPUNvbW1vbmVyIj5Db21tb25lcjwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1FeHBlcnQiPkV4cGVydDwvYT4gfCA8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1XYXJyaW9yIj5XYXJyaW9yPC9hPjxociAvPmRkAgMPDxYCHwAFhwI8YSBocmVmPSJDbGFzc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1XaXRjaCI+V2l0Y2ggQ2xhc3MgRGV0YWlsczwvYT4gfCA8YSBocmVmPSJXaXRjaEhleGVzLmFzcHgiPkhleGVzPC9hPiB8IDxhIGhyZWY9IldpdGNoUGF0cm9ucy5hc3B4Ij5QYXRyb24gU3BlbGxzPC9hPiB8IDxhIGhyZWY9IlVuaXF1ZVBhdHJvbnMuYXNweCI+VW5pcXVlIFBhdHJvbnM8L2E+IHwgPGEgaHJlZj0iQXJjaGV0eXBlcy5hc3B4P0NsYXNzPVdpdGNoIj5BcmNoZXR5cGVzPC9hPjxociAvPmRkAgUPDxYCHwAFJzxoMSBjbGFzcz0idGl0bGUiPldpdGNoIEFyY2hldHlwZXM8L2gxPmRkAgcPPCsAEQMADxYEHgtfIURhdGFCb3VuZGceC18hSXRlbUNvdW50AipkARAWABYAFgAMFCsAABYCZg9kFlYCAQ9kFgZmDw8WAh8ABf0BPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1XaXRjaCBBbGxleSBXaXRjaCI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbE4uZ2lmIiB0aXRsZT0iVGhlIEFsbGV5IFdpdGNoIGFyY2hldHlwZSdzIGNyb3dkIHBhdHJvbiBncmFudHMgdmVudHJpbG9xdWlzbSBpbnN0ZWFkIG9mIGVhcnMgb2YgdGhlIGNpdHkiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IEFsbGV5IFdpdGNoPC9hPmRkAgEPDxYCHwAFIUZhbWlsaWFyOyAxc3QgYW5kIDZ0aC1sZXZlbCBIZXhlc2RkAgIPDxYCHwAFZlNvbWUgd2l0Y2hlcyBmaW5kIHRoZWlyIHNwYXJrIG9mIG1hZ2ljIGluIHRoZSBsb25nLCBkYXJrIHNoYWRvd3MgYW5kIGZvcmdvdHRlbiBwbGFjZXMgd2l0aGluIHRoZSBjaXR5LmRkAgIPZBYGZg8PFgIfAAVFPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1XaXRjaCBBc2hpZnRhaCI+QXNoaWZ0YWg8L2E+ZGQCAQ8PFgIfAAUcRmFtaWxpYXI7IDJuZCwgNnRoLWxldmVsIEhleGRkAgIPDxYCHwAFpwFLbm93biBpbiBUYWxkYW5lIGFzIGEg4oCcYmF0dGxlIHdpdGNoLOKAnSBhbiBhc2hpZnRhaCBkcmlmdHMgbGlrZSBhIHBoYW50b20gYW1vbmcgdGhlIGVuZW15IGFybWllcywgY2FsbGluZyBkb3duIGRpc2FzdGVyIHVwb24gdGhlaXIgaGVhZHMgYW5kIHdlYWtlbmluZyB0aGVpciByZXNvbHZlLmRkAgMPZBYGZg8PFgIfAAWuATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9V2l0Y2ggQmVhc3QtQm9uZGVkIj48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gQmVhc3QtQm9uZGVkPC9hPmRkAgEPDxYCHwAFMjR0aC1sZXZlbCBIZXg7IDh0aC1sZXZlbCBIZXg7IDEwdGgtbGV2ZWwgTWFqb3IgSGV4ZGQCAg8PFgIfAAXIAVdoaWxlIGFsbCB3aXRjaGVzIGFyZSBpbnRpbWF0ZWx5IHRpZWQgdG8gdGhlaXIgZmFtaWxpYXJzLCBhIGJlYXN0LWJvbmRlZCB3aXRjaOKAmXMgY3JhZnQgZm9jdXNlcyBzcGVjaWZpY2FsbHkgb24gaGVyIGZhbWlsaWFyIGJvbmQgYW5kIGRldmVsb3BpbmcgdGhlIHJlbGF0aW9uc2hpcCB3aXRoIGhlciBwYXRyb24gdGhyb3VnaCBoZXIgZmFtaWxpYXIuZGQCBA9kFgZmDw8WAh8ABaEDPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1XaXRjaCBCb25kZWQgV2l0Y2giPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2xOLmdpZiIgdGl0bGU9IkZvciB0aGUgYm9uZGVkIHdpdGNoIGFyY2hldHlwZSwgZW5lcmd5IHNpZWdlIHNob3QgaXMgcmVwbGFjZWQgd2l0aCByZXNvdW5kaW5nIHNob3QgKEFkdmFuY2VkIFBsYXllcidzIEd1aWRlIDIzOCkgYXQgMTB0aCBsZXZlbCBhbmQgYXJjYW5lIGNhbm5vbiBpcyByZXBsYWNlZCB3aXRoIGZpcmUgYnJhbmQgKEFkdmFuY2VkIFBsYXllcidzIEd1aWRlIDIyMikgYXQgMTR0aCBsZXZlbCB1bmRlciB0aGUgYm9uZGVkIGl0ZW0gd2VhcG9uIGVudHJ5IiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBCb25kZWQgV2l0Y2g8L2E+ZGQCAQ8PFgIfAAUIRmFtaWxpYXJkZAICDw8WAh8ABc4BKEhhbGYtRWxmIE9ubHkpIFdoaWxlIGFsbCB3aXRjaGVzIGNvbW11bmUgd2l0aCB0aGUgdW5rbm93biwgdGhlIGJsZW5kIG9mIGh1bWFuIGluZ2VudWl0eSBhbmQgYWRlcHQgbGVhcm5pbmcgbWl4ZWQgd2l0aCBlbHZlbiBibG9vZCBnaXZlcyBzb21lIGhhbGYtZWx2ZXMgYSB1bmlxdWUgY29uZHVpdCB0byBjaGFubmVsIHRoZSBwb3dlcnMgb2YgdGhlIGFyY2FuZS5kZAIFD2QWBmYPDxYCHwAFPzxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9V2l0Y2ggQm91ZGEiPkJvdWRhPC9hPmRkAgEPDxYCHwAFNkFsaWdubWVudDsgRmFtaWxpYXI7IDFzdC1sZXZlbCBIZXg7IDEwLWxldmVsIE1ham9yIEhleGRkAgIPDxYCHwAFZlRoZXNlIHN0cmFuZ2UgYW5kIG9mdGVuIHNvbGl0YXJ5IHdpdGNoZXMgaGF2ZSBhIHN0cm9uZyBjb25uZWN0aW9uIHRvIGN1cnNlcywgdGhlIGV2aWwgZXllLCBhbmQgaHllbmFzLmRkAgYPZBYGZg8PFgIfAAWsATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9V2l0Y2ggQ2FydG9tYW5jZXIiPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBDYXJ0b21hbmNlcjwvYT5kZAIBDw8WAh8ABRdGYW1pbGlhcjsgMm5kLWxldmVsIEhleGRkAgIPDxYCHwAFZkEgd2l0Y2ggd2hvIHNlcnZlcyB0aGUgc3Bpcml0cyBvZiB0aGUgaGFycm93IGluIGV4Y2hhbmdlIGZvciBteXN0aWNhbCBwb3dlciBpcyBrbm93biBhcyBhIGNhcnRvbWFuY2VyLmRkAgcPZBYGZg8PFgIfAAWsATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9V2l0Y2ggQ29yYWwgV2l0Y2giPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBDb3JhbCBXaXRjaDwvYT5kZAIBDw8WAh8ABR9QYXRyb247IEZhbWlsaWFyOyA4dGgtbGV2ZWwgSGV4ZGQCAg8PFgIfAAWLAUNvcmFsIHdpdGNoZXMgdXNlIHRoZWlyIG1hZ2ljIHRvIGZhc2hpb24gZmFtaWxpYXJzIGZyb20gbGl2aW5nIGNvcmFsIGFuZCBlbXVsYXRlIHRoZSB1bnlpZWxkaW5nIHRlbmFjaXR5IG9mIHRoZXNlIGR1cmFibGUgbWFyaW5lIG9yZ2FuaXNtcy5kZAIID2QWBmYPDxYCHwAF8gI8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPVdpdGNoIERlbW9uLVN3b3JuIj48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sTi5naWYiIHRpdGxlPSJUaGUgZGVtb24tc3dvcm4gd2l0Y2ggcmVtYWlucyByZXNwb25zaWJsZSBmb3IgYW55IHBvdGVudGlhbGx5IGV2aWwgY29uc2VxdWVuY2VzIG9mIGhlciBzcGVsbGNhc3RpbmcgKGUuZy4ga2lsbGluZyBieXN0YW5kZXJzKSwgZXZlbiBpZiB0aGUgaXNvbGF0ZWQgYWN0IG9mIGNhc3Rpbmcgc3VjaCBzcGVsbHMgZG9lcyBub3QgaW1wYWN0IGhlciBhbGlnbm1lbnQuICIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gRGVtb24tU3dvcm48L2E+ZGQCAQ8PFgIfAAUcUGF0cm9uIFNwZWxsczsgNnRoLWxldmVsIEhleGRkAgIPDxYCHwAFjQFJbiB0aGUgZGVwdGhzIG9mIHRoZSBEYXJrbGFuZHMsIGFzIHdlbGwgYXMgc2ltaWxhcmx5IGluaG9zcGl0YWJsZSBsb2NhbGVzIG9uIEdvbGFyaW9uLCBtYW55IHNlZWsgdGhlIHN1Y2NvciBvZiBkZW1vbnMgYXMgYSBtZWFucyBvZiBzdXJ2aXZhbC5kZAIJD2QWBmYPDxYCHwAFwAE8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPVdpdGNoIERpbWVuc2lvbmFsIE9jY3VsdGlzdCI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IERpbWVuc2lvbmFsIE9jY3VsdGlzdDwvYT5kZAIBDw8WAh8ABSwybmQtbGV2ZWwgSGV4LCA4dGgtbGV2ZWwgSGV4LCAxMnRoLWxldmVsIEhleGRkAgIPDxYCHwAFbVRoZSBkaW1lbnNpb25hbCBvY2N1bHRpc3Qgc2FjcmlmaWNlcyBzb21lIG9mIGhlciBtYXN0ZXJ5IG92ZXIgaGV4ZXMgaW4gcmV0dXJuIGZvciBtdWNoIGluY3JlYXNlZCBwbGFuYXIgbG9yZS5kZAIKD2QWBmYPDxYCHwAFSzxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9V2l0Y2ggRHJlYW13ZWF2ZXIiPkRyZWFtd2VhdmVyPC9hPmRkAgEPDxYCHwAFN0NsYXNzIFNraWxsczsgUGF0cm9uIFNwZWxsczsgMm5kLCA2dGgsIDEwdGgtbGV2ZWwgSGV4ZXNkZAICDw8WAh8ABZkBKENoYW5nZWxpbmcgT25seSkgQSBjaGFuZ2VsaW5nIGRyZWFtd2VhdmVyIGRyYXdzIHVwb24gaGVyIGhhZyBoZXJpdGFnZSB0byBwbHkgdGhlIGRyZWFtIHJlYWxtcyBpbiBvcmRlciB0byB0b3VjaCBtb3J0YWwgbWluZHMgYW5kIHNvdWxzLCBmb3IgZ29vZCBvciBpbGwuZGQCCw9kFgZmDw8WAh8ABU08YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPVdpdGNoIEZsb29kIFdhbGtlciI+Rmxvb2QgV2Fsa2VyPC9hPmRkAgEPDxYCHwAFXEFsaWdubWVudDsgQ2xhc3MgU2tpbGxzOyA0dGgsIDEwdGgsIDE2dGgsIDE4dGgtbGV2ZWwgUGF0cm9uIFNwZWxsczsgMXN0LCA2dGgsIDEwdGgtbGV2ZWwgSGV4ZGQCAg8PFgIfAAW0AVdpdGNoZXMgd2hvIGR3ZWxsIGluIGZsb29kcGxhaW5zIG9yIGFsb25nIHRoZSBiYW5rcyBvZiBwcmVkaWN0YWJseSBkYW5nZXJvdXMgcml2ZXJzIGNhbiB0YXAgaW50byB0aGUgdW5kZXJseWluZyBwb3RlbnRpYWwgb2Ygc3VyZ2luZyB3YXRlcnMgaW4gb3JkZXIgdG8gZW5oYW5jZSB0aGVpciBlZXJpZSBwb3dlcnMuDWRkAgwPZBYGZg8PFgIfAAVXPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1XaXRjaCBHaW5nZXJicmVhZCBXaXRjaCI+R2luZ2VyYnJlYWQgV2l0Y2g8L2E+ZGQCAQ8PFgIfAAU0RmFtaWxpYXI7IDFzdCwgNHRoLCA4dGgsIDEwdGgsIDEydGgsIDE2dGgtbGV2ZWwgSGV4IGRkAgIPDxYCHwAFPkEgc3dlZXQgdG9vdGggbHVyZXMgdGhlIGdpbmdlcmJyZWFkIHdpdGNo4oCZcyB2aWN0aW1zIHRvIGRvb20uZGQCDQ9kFgZmDw8WAh8ABUs8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPVdpdGNoIEdyYXZld2Fsa2VyIj5HcmF2ZXdhbGtlcjwvYT5kZAIBDw8WAh8ABURQYXRyb24gU3BlbGxzOyBGYW1pbGlhcjsgMXN0LWxldmVsIEhleDsgNHRoLWxldmVsIEhleDsgOHRoLWxldmVsIEhleGRkAgIPDxYCHwAFngFIYXZpbmcgbXVjaCBpbiBjb21tb24gd2l0aCBuZWNyb21hbmNlcnMsIHRoZSBncmF2ZXdhbGtlciBpcyBvYnNlc3NlZCB3aXRoIHRoZSBvY2N1bHQgbWFuaXB1bGF0aW9ucyBvZiB0aGUgZGVhZCwgcGFydGljdWxhcmx5IG1pbmRsZXNzIHVuZGVhZCBzdWNoIGFzIHpvbWJpZXMuIGRkAg4PZBYGZg8PFgIfAAWyATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9V2l0Y2ggSGFnIG9mIEd5cm9ubmEiPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBIYWcgb2YgR3lyb25uYTwvYT5kZAIBDw8WAh8ABSpQYXRyb247IFNwZWxsczsgMm5kLCA4dGgsIDEydGgtbGV2ZWwgSGV4ZXNkZAICDw8WAh8ABY4BT25seSBmZW1hbGUgd2l0Y2hlcyBkYXJlIGRlZGljYXRlIHRoZW1zZWx2ZXMgdG8gdGhlIEFuZ3J5IEhhZywgYW5kIHRob3NlIHdobyBkbyBzbyBhcmUgZmVhcmVkIGZvciB0aGVpciBhYmlsaXR5IHRvIGJlbmQgbWluZHMgYW5kIHNvdyBkaXNjb3JkLmRkAg8PZBYGZg8PFgIfAAW0AjxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9V2l0Y2ggSGFnYm91bmQiPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2xOLmdpZiIgdGl0bGU9IkEgaGFnYm91bmQgY2FuIHJlbW92ZSB0aGUgaGFn4oCZcyBob2xkIG9ubHkgYnkgcmVtb3ZpbmcgaGVyIGFyY2hldHlwZSBkaXJlY3RseSwgc3VjaCBhcyB3aXRoIHRoZSByZXRyYWluaW5nIHJ1bGVzIGluIFBhdGhmaW5kZXIgUlBHIFVsdGltYXRlIENhbXBhaWduLiIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gSGFnYm91bmQ8L2E+ZGQCAQ8PFgIfAAU7MXN0LCAybmQsIDR0aCwgOHRoLCAxMHRoLCAxMnRoLCAxNHRoLCBhbmQgMjB0aC0tbGV2ZWwgSGV4ZXNkZAICDw8WAh8ABbwCV2hldGhlciBhIGNoYW5nZWxpbmcgaW4gdGhlIHByb2Nlc3Mgb2Ygc3VjY3VtYmluZyB0byBoZXIgbW90aGVy4oCZcyBjYWxsLCBhIHdpdGNoIGN1cnNlZCBieSBhIGhhZyB0byBiZWNvbWUgaGVyIGluc3RydW1lbnQgb2YgdG9ybWVudCwgYSB2YWluIGFuZCBwZXR0eSB3aXRjaCBvdmVyZWFnZXIgZm9yIHBvd2VyLCBvciBzb21lIG90aGVyIHVuZm9ydHVuYXRlIHNvdWwsIGEgaGFnYm91bmQgd2l0Y2ggZmluZHMgaXRzIHNvdWwgaGFzIGJlZW4gaW5mZWN0ZWQgYnkgYSBoYWfigJlzIHNwaXRlIGFuZCBwb3dlcmZ1bCwgY29ycnVwdCBhcmNhbmUgbWFnaWMuIGRkAhAPZBYGZg8PFgIfAAWmATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9V2l0Y2ggSGF2b2NrZXIiPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBIYXZvY2tlcjwvYT5kZAIBDw8WAh8ABQVIZXhlc2RkAgIPDxYCHwAFuQFBbHRob3VnaCBtb3N0IHdpdGNoZXMgYXJlIGd1aWRlZCB0byBzdWJ0bGUgY3Vyc2VzIGFuZCBkZWJpbGl0YXRpbmcgaGV4ZXMgYnkgdGhlaXIgbXlzdGVyaW91cyBwYXRyb25zLCBzb21lIGFyZSBpbnN0ZWFkIHRhdWdodCB0aGUgc2VjcmV0cyBvZiBoYXJuZXNzaW5nIHJhdywgZGVzdHJ1Y3RpdmUgZWxlbWVudGFsIHBvd2VyLmRkAhEPZBYGZg8PFgIfAAWsATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9V2l0Y2ggSGVkZ2UgV2l0Y2giPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBIZWRnZSBXaXRjaDwvYT5kZAIBDw8WAh8ABRw0dGgtbGV2ZWwgSGV4OyA4dGgtbGV2ZWwgSGV4ZGQCAg8PFgIfAAV9QW1vbmcgd2l0Y2hlcywgdGhlcmUgYXJlIHRob3NlIHdobyBkZXZvdGUgdGhlbXNlbHZlcyB0byB0aGUgY2FyZSBvZiBvdGhlcnMgYW5kIHJlc3RyaWN0IHRoZWlyIHByYWN0aWNlcyB0byB0aGUgaGVhbGluZyBhcnRzLiBkZAISD2QWBmYPDxYCHwAF9gE8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPVdpdGNoIEhlcmIgV2l0Y2giPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2xOLmdpZiIgdGl0bGU9IlRoZSBoZXJiIHdpdGNoIG11c3Qgc2VsZWN0IHRoZSBoZWFsaW5nIGhleCBhdCAybmQgbGV2ZWwgaW4gcGxhY2Ugb2YgdGhlIGNhdWxkcm9uIGhleCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gSGVyYiBXaXRjaDwvYT5kZAIBDw8WAh8ABSBQYXRyb247IDFzdCwgMm5kLCAxMHRoLWxldmVsIEhleGRkAgIPDxYCHwAFc0hlcmIgd2l0Y2hlcyBicmV3IGZvdWwtdGFzdGluZyBtZWRpY2luZXMsIHN3ZWV0IHBvaXNvbnMsIGFuZCBvdGhlciBjb25jb2N0aW9ucyBmcm9tIHRoZSB1bnRhbWVkIHBsYW50cyBvZiB0aGUgd2lsZC5kZAITD2QWBmYPDxYCHwAFsAE8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPVdpdGNoIEhleCBDaGFubmVsZXIiPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBIZXggQ2hhbm5lbGVyPC9hPmRkAgEPDxYCHwAFDTJuZC1sZXZlbCBIZXhkZAICDw8WAh8ABZ8BQSBoZXggY2hhbm5lbGVyIGlzIGEgd2l0Y2ggd2hvIGRldm90ZXMgaGVyc2VsZiB0byBlaXRoZXIgbGlmZeKAlGhlYWxpbmcgdGhlIHdvdW5kZWQgYW5kIGRlc3Ryb3lpbmcgdGhlIHVuZGVhZOKAlG9yIGRlYXRoLCBzbGF5aW5nIHRoZSBsaXZpbmcgYW5kIGFpZGluZyB1bmRlYWQuZGQCFA9kFgZmDw8WAh8ABaQBPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1XaXRjaCBJbnZva2VyIj48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gSW52b2tlcjwvYT5kZAIBDw8WAh8ABSIxc3QsIDh0aCwgMTB0aCwgYW5kIDE2dGggbGV2ZWwgSGV4ZGQCAg8PFgIfAAWZAVRoZSBpbnZva2VyIHVzZXMgaGVyIGZhbWlsaWFyIHRvIHN1bW1vbiBmYWNldHMgb2YgaGVyIG15c3RlcmlvdXMgcGF0cm9uIGRpcmVjdGx5IGludG8gaGVyIGJvZHksIGVuaGFuY2luZyBoZXIgc2tpbGxzIGFuZCBncmFudGluZyBoZXIgcG93ZXJmdWwgYWJpbGl0aWVzLmRkAhUPZBYGZg8PFgIfAAXEATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9V2l0Y2ggSmlueCBXaXRjaCI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbE4uZ2lmIiB0aXRsZT0iT25seSBhdmFpbGFibGUgdG8gVGVuZ3UgY2hhcmFjdGVycyIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gSmlueCBXaXRjaDwvYT5kZAIBDw8WAh8ABSZDbGFzcyBTa2lsbHM7IDJuZCwgNnRoLCAxMHRoLWxldmVsIEhleGRkAgIPDxYCHwAF2gEgSmlueCB3aXRjaGVzIHNwZWNpYWxpemUgaW4gY2FsbGluZyBkb3duIHN1YnRsZSBtaXNmb3J0dW5lcyBhbmQgZGVjZWl2aW5nIGVuZW1pZXMgYW5kIGFsbGllcyBhbGlrZS4gV2hpbGUgdGhleSBsYWNrIGFueSBhYmlsaXR5IHRvIHRydWx5IGVsaW1pbmF0ZSBiYWQgbHVjaywgdGhleSBhcmUgdW5pcXVlbHkgZ2lmdGVkIGF0IG1ha2luZyBvdGhlcnMgYmVsaWV2ZSBvdGhlcndpc2UuIGRkAhYPZBYGZg8PFgIfAAW4ATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9V2l0Y2ggTGV5IExpbmUgR3VhcmRpYW4iPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBMZXkgTGluZSBHdWFyZGlhbjwvYT5kZAIBDw8WAh8ABS9TcGVsbGNhc3Rpbmc7IEZhbWlsaWFyOyAxc3QgYW5kIDh0aC1sZXZlbCBIZXhlc2RkAgIPDxYCHwAFtQFTb21lIHdpdGNoZXMgdGFwIGludG8gdGhlIHBvd2VyIG9mIHRoZWlyIHBhdHJvbnMgbm90IHRocm91Z2ggYSBzcGVjaWFsIGNvbm5lY3Rpb24gd2l0aCBhIGZhbWlsaWFyLCBidXQgcmF0aGVyIGRpcmVjdGx5IHRocm91Z2ggdGhlIHZhc3QgbmV0d29yayBvZiBsZXkgbGluZXMgdGhhdCBjcm9zc2VzIHRoZSBwbGFuZXMuZGQCFw9kFgZmDw8WAh8ABaIBPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1XaXRjaCBNZWRpdW0iPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBNZWRpdW08L2E+ZGQCAQ8PFgIfAAUiUGF0cm9uOyAybmQsIDZ0aCwgMjB0aC1sZXZlbCBIZXhlc2RkAgIPDxYCHwAF6AFNZWRpdW1zIHRhcCBpbnRvIHRoZSBzcGlyaXR1YWwgcG93ZXIgb2YgdGhvc2Ugd2hvIGhhdmUgeWV0IHRvIGZpbmQgdGhlaXIgZmluYWwgcmVzdC4gVGhlaXIgYWJpbGl0eSB0byBpbnRlcmFjdCB3aXRoIHRoZXNlIHNvdWxzIGFsbG93cyBtZWRpdW1zIHRvIGxlYXJuIGFib3V0IHRoZSBwaHlzaWNhbCB3b3JsZCB0aHJvdWdoIHRoZSBleHBlcmllbmNlcyBvZiB0aG9zZSB3aG8gY2FtZSBiZWZvcmUgdGhlbS4gZGQCGA9kFgZmDw8WAh8ABa4BPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1XaXRjaCBNaXJyb3IgV2l0Y2giPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBNaXJyb3IgV2l0Y2g8L2E+ZGQCAQ8PFgIfAAUIRmFtaWxpYXJkZAICDw8WAh8ABVlNaXJyb3Igd2l0Y2hlcyBlc2NoZXcgYW5pbWFsIGZhbWlsaWFycyBhbmQgaXNudGVhZCB0YWxrIHRvIHRoZWlyIHBhdHJvbnMgdmlhIG1pcnJvciBtYWdpY2RkAhkPZBYGZg8PFgIfAAWyATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9V2l0Y2ggTW91bnRhaW4gV2l0Y2giPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBNb3VudGFpbiBXaXRjaDwvYT5kZAIBDw8WAh8ABRpTcGVsbHM7IEhleDsgMm5kLWxldmVsIEhleGRkAgIPDxYCHwAFd01vdW50YWlucyBjYW4gYmUgc2FuY3R1YXJpZXMgZm9yIHdpdGNoZXMgaHVudGVkIGJ5IHNvY2lldHkuIEhlcmUgdGhleSBmb3JtIGJvbmRzIHdpdGggdGhlIHNwaXJpdHMgb2YgdGhlIGxvZnR5IHJlYWNoZXMuZGQCGg9kFgZmDw8WAh8ABbQBPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1XaXRjaCBOZXhpYW4gU3BlbGxzcHkiPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBOZXhpYW4gU3BlbGxzcHk8L2E+ZGQCAQ8PFgIfAAUjRGVsaXZlciBUb3VjaCBTcGVsbHM7IDR0aC1sZXZlbCBIZXhkZAICDw8WAh8ABZMBTmV4aWFuIHNwZWxsc3BpZXMgYXJlIHdpdGNoZXMgd2hvIHVzZSB0aGVpciBmYW1pbGlhcnMgYW5kIGRpdmluaW5nIHRhbGVudHMgdG8gc3B5IG9uIHRoZWlyIHJpdmFscyBhbmQgcHJvdGVjdCB0aGVtc2VsdmVzIGZyb20gc2ltaWxhciBpbnRydXNpb25zLg0KZGQCGw9kFgZmDw8WAh8ABaoBPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1XaXRjaCBQYWN0IFdpdGNoIj48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gUGFjdCBXaXRjaDwvYT5kZAIBDw8WAh8ABSlBbGlnbm1lbnQ7IFBhdHJvbjsgRmFtaWxhcjsgNnRoLWxldmVsIEhleGRkAgIPDxYCHwAFpwFUaG91Z2ggYWxsIHdpdGNoZXMgZm9yZ2UgYm9uZHMgd2l0aCBteXN0ZXJpb3VzIHBvd2VycyBrbm93biBhcyBwYXRyb25zLCBhIHBhY3Qgd2l0Y2ggdGFrZXMgdGhpcyBib25kIHRvIGFuIGV4dHJlbWUgYnkgZm9yZ2luZyBhbiBpbmV4b3JhYmxlIHBhY3Qgd2l0aCB0aGUgT3V0ZXIgUGxhbmVzLmRkAhwPZBYGZg8PFgIfAAWsATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9V2l0Y2ggUHV0cmVmYWN0b3IiPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBQdXRyZWZhY3RvcjwvYT5kZAIBDw8WAh8ABUBGYW1pbGlhcjsgUGF0cm9uOyAxc3QsIDJuZCwgNHRoLCA2dGgsIDEwdGgsIGFuZCAxNnRoLWxldmVsIEhleGVzZGQCAg8PFgIfAAXEAVNvbWUgd2l0Y2hlcyBmaW5kIHRoZWlyIHBhdHJvbnMgd2hpbGUgaW4gdGhlIHRocm9lcyBvZiBkZXNwYWlyIGFuZCBncmllZiwgd2hlbiBhbGwgdGhleSBkZXNpcmUgaXMgdG8gc2VlIHRoZSB2ZW5lZXIgb2YgY2l2aWxpemF0aW9uIHBlZWwgYmFjayB0byByZXZlYWwgdGhlIGZpbHRoIGFuZCByb3QgdGhhdCB1bmRlcmxpZXMgYWxsIHRoaW5ncy5kZAIdD2QWBmYPDxYCHwAFrAE8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPVdpdGNoIFJoZXRvcmljaWFuIj48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gUmhldG9yaWNpYW48L2E+ZGQCAQ8PFgIfAAUVMXN0LWxldmVsIEhleDsgU3BlbGxzZGQCAg8PFgIfAAXLAVJoZXRvcmljaWFucyBmZWVsIGRyaXZlbiB0byBlbmdhZ2UgaW4gZGViYXRlLCBsZWFybiBhcyBtdWNoIGFzIHRoZXkgY2FuIGFib3V0IHRoZWlyIHBvdGVudGlhbCBmb2VzLCBhbmQgc2VlayB3YXlzIHRvIHVzZSBpbmZvcm1hdGlvbiBhbmQgcXVpY2sgdGFsa2luZyB0byBoYW5kbGUgcHJvYmxlbXMgYmVmb3JlIHJlc29ydGluZyB0byByYXcgdmlvbGVuY2UuZGQCHg9kFgZmDw8WAh8ABV08YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPVdpdGNoIFNjYXJyZWQgV2l0Y2ggRG9jdG9yIj5TY2FycmVkIFdpdGNoIERvY3RvcjwvYT5kZAIBDw8WAh8ABSxTcGVsbGNhc3Rpbmc7IEhleGVzOyBGYW1pbGlhcjsgMXN0LWxldmVsIEhleGRkAgIPDxYCHwAFXyhPcmMgT25seSkgVGhlIHNjYXJyZWQgd2l0Y2ggZG9jdG9yIGRyYXdzIHBvd2VyIGZyb20gaGVyIGFiaWxpdHkgdG8gZW5kdXJlIHBhaW4gYW5kIHN1ZmZlcmluZy4gZGQCHw9kFgZmDw8WAh8ABagBPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1XaXRjaCBTZWEgV2l0Y2giPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBTZWEgV2l0Y2g8L2E+ZGQCAQ8PFgIfAAUcUGF0cm9uIFNwZWxsczsgMXN0LWxldmVsIEhleGRkAgIPDxYCHwAFTkEgc2VhIHdpdGNo4oCZcyBhZmZpbml0aWVzIGFyZSB0aWVkIHRvIHRoZSB2YXN0IG9jZWFucyBhbmQgdGhlIHJvbGxpbmcgd2F2ZXMuIGRkAiAPZBYGZg8PFgIfAAWuATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9V2l0Y2ggU2Vhc29uIFdpdGNoIj48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gU2Vhc29uIFdpdGNoPC9hPmRkAgEPDxYCHwAFFVBhdHJvbjsgMXN0LWxldmVsIEhleGRkAgIPDxYCHwAFflNlYXNvbiB3aXRjaGVzIGdhaW4gdGhlaXIgcG93ZXIgZnJvbSB0aGUgY3ljbGljYWwgYW5kIG15c3RpY2FsIGV4Y2hhbmdlIG9mIGVuZXJneSBwYXNzZWQgZnJvbSBvbmUgc2Vhc29uIG9mIG5hdHVyZSB0byBhbm90aGVyLmRkAiEPZBYGZg8PFgIfAAVDPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1XaXRjaCBTZWR1Y2VyIj5TZWR1Y2VyPC9hPmRkAgEPDxYCHwAFMlBhdHJvbjsgS2V5IEFiaWxpdHkgU2NvcmU7IDFzdCwgNnRoLCA4dGgtbGV2ZWwgSGV4ZGQCAg8PFgIfAAV4VGhlc2UgY2hhcmlzbWF0aWMgd2l0Y2hlcywgb2Z0ZW4gZGV2b3RlZXMgb2YgdGhlIEdyZWVuIE1vdGhlciwgcmVseSBvbiB0aGVpciBvdGhlcndvcmxkbHkgY2hhcm1zIHRvIGFjaGlldmUgdGhlaXIgYWltcy4gZGQCIg9kFgZmDw8WAh8ABagBPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1XaXRjaCBTeW5lcmdpc3QiPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBTeW5lcmdpc3Q8L2E+ZGQCAQ8PFgIfAAUeMXN0LCA4dGgsIGFuZCAxNHRoLWxldmVsIEhleGVzZGQCAg8PFgIfAAWIAVN5bmVyZ2lzdHMgZ2FpbiB0aGUgYWJpbGl0eSB0byBjb21iaW5lIHRoZWlyIGZvcm1zIHdpdGggdGhlaXIgZmFtaWxpYXJz4oCZIGluIG9yZGVyIHRvIGNyZWF0ZSBzb21ldGhpbmcgbW9yZSBwb3dlcmZ1bCB0aGFuIGVpdGhlciBhbG9uZS5kZAIjD2QWBmYPDxYCHwAFsgE8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPVdpdGNoIFRhdHRlcmRlbWFsaW9uIj48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gVGF0dGVyZGVtYWxpb248L2E+ZGQCAQ8PFgIfAAVEV2VhcG9uIFByb2ZpY2llbmNpZXM7IENhbnRyaXBzOyAxc3QsIDR0aCwgOHRoLCAxMnRoLCAxNnRoLWxldmVsIEhleCBkZAICDw8WAh8ABT1Tb21lIHdpdGNoZXMgY2FuIGJlbmQgdGhlIHdhcnAgYW5kIHdlZnQgb2YgZmFicmljIGFuZCB0aHJlYWQuZGQCJA9kFgZmDw8WAh8ABawBPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1XaXRjaCBWZWxsZW1hbmNlciI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IFZlbGxlbWFuY2VyPC9hPmRkAgEPDxYCHwAFK0NsYXNzIFNraWxsczsgMm5kLCA2dGgsIGFuZCA4dGgtbGV2ZWwgSGV4ZXNkZAICDw8WAh8ABeYBV2hpbGUgdGhlIHBvcHVsYXIgc3RlcmVvdHlwZSBlbnZpc2lvbnMgd2l0Y2hlcyBhcyB3aWNrZWQgc3BlbGxjYXN0ZXJzIHNvd2luZyBtaXNlcnksIG1hbnkgcGVvcGxlIHR1cm4gdG8gdGhlIGFyY2FuZSB0byBoZWFsIG90aGVycyBhbmQgYmV0dGVyIHRoZSB3b3JsZC4gVGhlIHZlbGxlbWFuY2VyIGlzIGEgZ3VpZGUsIHVzaW5nIGhlciB3aXRjaGNyYWZ0IHRvIGVtcG93ZXIgYW5kIHRlYWNoIG90aGVycy5kZAIlD2QWBmYPDxYCHwAFtAE8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPVdpdGNoIFZlbmVmaWN1cyBXaXRjaCI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IFZlbmVmaWN1cyBXaXRjaDwvYT5kZAIBDw8WAh8ABRgybmQgYW5kIDEwdGgtbGV2ZWwgSGV4ZXNkZAICDw8WAh8ABZkBVmVuZWZpY3VzIHdpdGNoZXMgc3BlY2lhbGl6ZSBpbiBwb2lzb25z4oCUYnJld2luZyBib3RoIG1hZ2ljYWwgYW5kIHRyYWRpdGlvbmFsIGNvbmNvY3Rpb25zLCBhbmQgYXBwbHlpbmcgdGhlbSB0byB3ZWFwb25zLCB0cmFwcyBvciBldmVuIGhlciBwb3RlbnQgaGV4ZXMuZGQCJg9kFgZmDw8WAh8ABbIBPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1XaXRjaCBWZW5vbSBTaXBob25lciI+PGltZyBzcmM9ImltYWdlc1xQYXRoZmluZGVyU29jaWV0eVN5bWJvbC5naWYiIHRpdGxlPSJQRlMgTGVnYWwiIHN0eWxlPSJtYXJnaW46M3B4IDNweCAwcHggM3B4OyI+IFZlbm9tIFNpcGhvbmVyPC9hPmRkAgEPDxYCHwAFIjFzdCwgMm5kLCA2dGgtbGV2ZWwgSGV4OyBBbGVydG5lc3NkZAICDw8WAh8ABXxXaXRjaGVzIGFyZSBubyBzdHJhbmdlcnMgdG8gcG9pc29ucywgdXNpbmcgdGhlbSBhbG9uZ3NpZGUgdGhlaXIgdmFyaW91cyBicmV3cywgY3Vyc2VzLCBzcGVsbHMsIGFuZCBvdGhlciB0b29scyBvZiB0aGUgdHJhZGUuZGQCJw9kFgZmDw8WAh8ABboBPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1XaXRjaCBXaGl0ZS1IYWlyZWQgV2l0Y2giPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBXaGl0ZS1IYWlyZWQgV2l0Y2g8L2E+ZGQCAQ8PFgIfAAUZSGV4OyBNYWpvciBIZXg7IEdyYW5kIEhleGRkAgIPDxYCHwAFoQFBIHdoaXRlLWhhaXJlZCB3aXRjaCBjb25jZW50cmF0ZXMgaGVyIG15c3RlcmlvdXMgcG93ZXJzIG9uIGltcHJvdmluZyBoZXIgcHJvd2VzcyBpbiBtZWxlZSwgdXNpbmcgZmVhdHMgb2YgYWdpbGl0eSBhbmQgaGVyIHByZWhlbnNpbGUgaGFpciB0byBkZWFsIGV4dHJlbWUgZGFtYWdlLmRkAigPZBYGZg8PFgIfAAWuATxhIGhyZWY9IkFyY2hldHlwZURpc3BsYXkuYXNweD9GaXhlZE5hbWU9V2l0Y2ggV2ludGVyIFdpdGNoIj48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gV2ludGVyIFdpdGNoPC9hPmRkAgEPDxYCHwAFH0ZhbWlsaWFyOyBQYXRyb247IDR0aC1sZXZlbCBIZXhkZAICDw8WAh8ABZ8BVGhlIGRlc2NlbmRlbnRzIG9mIEJhYmEgWWFnYSBydWxlIHRoZSBmcm96ZW4gcmVhbG0gb2YgSXJyaXNlbiwgYW5kIHBvc3Nlc3MgYSB1bmlxdWUgcG93ZXIgc3RlbW1pbmcgZnJvbSB0aGVpciBvdGhlcndvcmxkbHkgb3JpZ2luIGFuZCB0aGVpciB0aWVzIHRvIGNvbGQgbWFnaWMuZGQCKQ9kFgZmDw8WAh8ABbABPGEgaHJlZj0iQXJjaGV0eXBlRGlzcGxheS5hc3B4P0ZpeGVkTmFtZT1XaXRjaCBXaXRjaC1XYXRjaGVyIj48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sLmdpZiIgdGl0bGU9IlBGUyBMZWdhbCIgc3R5bGU9Im1hcmdpbjozcHggM3B4IDBweCAzcHg7Ij4gV2l0Y2gtV2F0Y2hlcjwvYT5kZAIBDw8WAh8ABQ5TcGVsbHMgcGVyIERheWRkAgIPDxYCHwAFW0ZvciByZWFzb25zIGtub3duIG9ubHkgdG8gdGhlbSwgd2l0Y2gtd2F0Y2hlcnMgb2ZmZXIgcHJvdGVjdGlvbiB0byBub2JsZXMgYWNyb3NzIEdvbGFyaW9uLiBkZAIqD2QWBmYPDxYCHwAFqgE8YSBocmVmPSJBcmNoZXR5cGVEaXNwbGF5LmFzcHg/Rml4ZWROYW1lPVdpdGNoIFd5cm0gV2l0Y2giPjxpbWcgc3JjPSJpbWFnZXNcUGF0aGZpbmRlclNvY2lldHlTeW1ib2wuZ2lmIiB0aXRsZT0iUEZTIExlZ2FsIiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBXeXJtIFdpdGNoPC9hPmRkAgEPDxYCHwAFElBhdHJvbjsgRmFtaWxpYXINCmRkAgIPDxYCHwAFUVNvbWUgd2l0Y2ggY292ZW5zIGhhdmUgbGVhcm5lZCB0byB1c2UgdHJlYXN1cmUgdG8gYWNjZXNzIG90aGVyIGRyYWNvbmljIHBvd2Vycy4NCmRkAisPDxYCHgdWaXNpYmxlaGRkAgkPD2Q8KwAGAQAQFgFmFgEWAh4OUGFyYW1ldGVyVmFsdWUFBVdpdGNoFgECBGQYAQUkY3RsMDAkTWFpbkNvbnRlbnQkR3JpZFZpZXdBcmNoZXR5cGVzDzwrAAwDBhUBBkl0ZW1JZAcUKwAqFCsAAQKRBRQrAAECnwgUKwABArcBFCsAAQKXAhQrAAECjwQUKwABAo4DFCsAAQKLCBQrAAECowcUKwABAg0UKwABAp8CFCsAAQKvCRQrAAEC6QUUKwABArgBFCsAAQKYAxQrAAECsggUKwABAoQGFCsAAQK5ARQrAAECsAkUKwABAv4DFCsAAQLBBRQrAAECmgYUKwABAvMEFCsAAQKLAxQrAAECgwgUKwABAv8DFCsAAQK3BxQrAAEC+wkUKwABArMIFCsAAQL0BRQrAAECngIUKwABAroBFCsAAQKxCRQrAAECxwcUKwABArYEFCsAAQLqBRQrAAECtAgUKwABApUDFCsAAQKFCRQrAAECKBQrAAEC7gIUKwABAosHFCsAAQK5BQgCAWRhSPq8tOlRyjm/Re6wre9ZkGei8cHzXnwAb3cMMIq6RA==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="654C4F5D" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <h2 style="text-align: center"><span id="MainContent_AllClassLabel"><a href="ClassDisplay.aspx?ItemName=Alchemist">Alchemist</a> | <a href="ClassDisplay.aspx?ItemName=Antipaladin">Antipaladin</a> | <a href="ClassDisplay.aspx?ItemName=Arcanist">Arcanist</a> | <a href="ClassDisplay.aspx?ItemName=Barbarian">Barbarian</a> | <a href="ClassDisplay.aspx?ItemName=Barbarian (Unchained)">Barbarian (Unchained)</a> | <a href="ClassDisplay.aspx?ItemName=Bard">Bard</a> | <a href="ClassDisplay.aspx?ItemName=Bloodrager">Bloodrager</a> | <a href="ClassDisplay.aspx?ItemName=Brawler">Brawler</a> | <a href="ClassDisplay.aspx?ItemName=Cavalier">Cavalier</a> | <a href="ClassDisplay.aspx?ItemName=Cleric">Cleric</a> | <a href="ClassDisplay.aspx?ItemName=Druid">Druid</a> | <a href="ClassDisplay.aspx?ItemName=Fighter">Fighter</a> | <a href="ClassDisplay.aspx?ItemName=Gunslinger">Gunslinger</a> | <a href="ClassDisplay.aspx?ItemName=Hunter">Hunter</a> | <a href="ClassDisplay.aspx?ItemName=Inquisitor">Inquisitor</a> | <a href="ClassDisplay.aspx?ItemName=Investigator">Investigator</a> | <a href="ClassDisplay.aspx?ItemName=Kineticist">Kineticist</a> | <a href="ClassDisplay.aspx?ItemName=Magus">Magus</a> | <a href="ClassDisplay.aspx?ItemName=Medium">Medium</a> | <a href="ClassDisplay.aspx?ItemName=Mesmerist">Mesmerist</a> | <a href="ClassDisplay.aspx?ItemName=Monk">Monk</a> | <a href="ClassDisplay.aspx?ItemName=Monk (Unchained)">Monk (Unchained)</a> | <a href="ClassDisplay.aspx?ItemName=Ninja">Ninja</a> | <a href="ClassDisplay.aspx?ItemName=Occultist">Occultist</a> | <a href="ClassDisplay.aspx?ItemName=Oracle">Oracle</a> | <a href="ClassDisplay.aspx?ItemName=Paladin">Paladin</a> | <a href="ClassDisplay.aspx?ItemName=Psychic">Psychic</a> | <a href="ClassDisplay.aspx?ItemName=Ranger">Ranger</a> | <a href="ClassDisplay.aspx?ItemName=Rogue">Rogue</a> | <a href="ClassDisplay.aspx?ItemName=Rogue (Unchained)">Rogue (Unchained)</a> | <a href="ClassDisplay.aspx?ItemName=Samurai">Samurai</a> | <a href="ClassDisplay.aspx?ItemName=Shaman">Shaman</a> | <a href="ClassDisplay.aspx?ItemName=Shifter">Shifter</a> | <a href="ClassDisplay.aspx?ItemName=Skald">Skald</a> | <a href="ClassDisplay.aspx?ItemName=Slayer">Slayer</a> | <a href="ClassDisplay.aspx?ItemName=Sorcerer">Sorcerer</a> | <a href="ClassDisplay.aspx?ItemName=Spiritualist">Spiritualist</a> | <a href="ClassDisplay.aspx?ItemName=Summoner">Summoner</a> | <a href="ClassDisplay.aspx?ItemName=Summoner (Unchained)">Summoner (Unchained)</a> | <a href="ClassDisplay.aspx?ItemName=Swashbuckler">Swashbuckler</a> | <a href="ClassDisplay.aspx?ItemName=Vigilante">Vigilante</a> | <a href="ClassDisplay.aspx?ItemName=Warpriest">Warpriest</a> | <a href="ClassDisplay.aspx?ItemName=Witch">Witch</a> | <a href="ClassDisplay.aspx?ItemName=Wizard">Wizard</a><hr /><a href="ClassDisplay.aspx?ItemName=Companion">Companion</a> | <a href="ClassDisplay.aspx?ItemName=Drake">Drake</a> | <a href="ClassDisplay.aspx?ItemName=Eidolon">Eidolon</a> | <a href="ClassDisplay.aspx?ItemName=Eidolon (Unchained)">Eidolon (Unchained)</a> | <a href="ClassDisplay.aspx?ItemName=Familiar">Familiar</a> | <a href="ClassDisplay.aspx?ItemName=Phantom">Phantom</a><hr /><a href="ClassDisplay.aspx?ItemName=Adept">Adept</a> | <a href="ClassDisplay.aspx?ItemName=Aristocrat">Aristocrat</a> | <a href="ClassDisplay.aspx?ItemName=Commoner">Commoner</a> | <a href="ClassDisplay.aspx?ItemName=Expert">Expert</a> | <a href="ClassDisplay.aspx?ItemName=Warrior">Warrior</a><hr /></span></h2>
+    <h2 style="text-align: center"><span id="MainContent_MainClassLabel"><a href="ClassDisplay.aspx?ItemName=Witch">Witch Class Details</a> | <a href="WitchHexes.aspx">Hexes</a> | <a href="WitchPatrons.aspx">Patron Spells</a> | <a href="UniquePatrons.aspx">Unique Patrons</a> | <a href="Archetypes.aspx?Class=Witch">Archetypes</a><hr /></span></h2>
+
+    <span id="MainContent_ArchetypeClassLabel"><h1 class="title">Witch Archetypes</h1></span>
+    <div>
+	<table cellspacing="0" cellpadding="3" rules="cols" id="MainContent_GridViewArchetypes" style="color:Black;background-color:White;border-color:#999999;border-width:1px;border-style:Solid;border-collapse:collapse;">
+		<tr style="color:White;background-color:Black;font-weight:bold;">
+			<th scope="col">Name</th><th scope="col">Replaces</th><th scope="col">Summary</th>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Alley Witch"><img src="images\PathfinderSocietySymbolN.gif" title="The Alley Witch archetype's crowd patron grants ventriloquism instead of ears of the city" style="margin:3px 3px 0px 3px;"> Alley Witch</a></td><td>Familiar; 1st and 6th-level Hexes</td><td>Some witches find their spark of magic in the long, dark shadows and forgotten places within the city.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Ashiftah">Ashiftah</a></td><td>Familiar; 2nd, 6th-level Hex</td><td>Known in Taldane as a “battle witch,” an ashiftah drifts like a phantom among the enemy armies, calling down disaster upon their heads and weakening their resolve.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Beast-Bonded"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Beast-Bonded</a></td><td>4th-level Hex; 8th-level Hex; 10th-level Major Hex</td><td>While all witches are intimately tied to their familiars, a beast-bonded witch’s craft focuses specifically on her familiar bond and developing the relationship with her patron through her familiar.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Bonded Witch"><img src="images\PathfinderSocietySymbolN.gif" title="For the bonded witch archetype, energy siege shot is replaced with resounding shot (Advanced Player's Guide 238) at 10th level and arcane cannon is replaced with fire brand (Advanced Player's Guide 222) at 14th level under the bonded item weapon entry" style="margin:3px 3px 0px 3px;"> Bonded Witch</a></td><td>Familiar</td><td>(Half-Elf Only) While all witches commune with the unknown, the blend of human ingenuity and adept learning mixed with elven blood gives some half-elves a unique conduit to channel the powers of the arcane.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Bouda">Bouda</a></td><td>Alignment; Familiar; 1st-level Hex; 10-level Major Hex</td><td>These strange and often solitary witches have a strong connection to curses, the evil eye, and hyenas.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Cartomancer"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Cartomancer</a></td><td>Familiar; 2nd-level Hex</td><td>A witch who serves the spirits of the harrow in exchange for mystical power is known as a cartomancer.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Coral Witch"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Coral Witch</a></td><td>Patron; Familiar; 8th-level Hex</td><td>Coral witches use their magic to fashion familiars from living coral and emulate the unyielding tenacity of these durable marine organisms.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Demon-Sworn"><img src="images\PathfinderSocietySymbolN.gif" title="The demon-sworn witch remains responsible for any potentially evil consequences of her spellcasting (e.g. killing bystanders), even if the isolated act of casting such spells does not impact her alignment. " style="margin:3px 3px 0px 3px;"> Demon-Sworn</a></td><td>Patron Spells; 6th-level Hex</td><td>In the depths of the Darklands, as well as similarly inhospitable locales on Golarion, many seek the succor of demons as a means of survival.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Dimensional Occultist"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Dimensional Occultist</a></td><td>2nd-level Hex, 8th-level Hex, 12th-level Hex</td><td>The dimensional occultist sacrifices some of her mastery over hexes in return for much increased planar lore.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Dreamweaver">Dreamweaver</a></td><td>Class Skills; Patron Spells; 2nd, 6th, 10th-level Hexes</td><td>(Changeling Only) A changeling dreamweaver draws upon her hag heritage to ply the dream realms in order to touch mortal minds and souls, for good or ill.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Flood Walker">Flood Walker</a></td><td>Alignment; Class Skills; 4th, 10th, 16th, 18th-level Patron Spells; 1st, 6th, 10th-level Hex</td><td>Witches who dwell in floodplains or along the banks of predictably dangerous rivers can tap into the underlying potential of surging waters in order to enhance their eerie powers.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Gingerbread Witch">Gingerbread Witch</a></td><td>Familiar; 1st, 4th, 8th, 10th, 12th, 16th-level Hex </td><td>A sweet tooth lures the gingerbread witch’s victims to doom.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Gravewalker">Gravewalker</a></td><td>Patron Spells; Familiar; 1st-level Hex; 4th-level Hex; 8th-level Hex</td><td>Having much in common with necromancers, the gravewalker is obsessed with the occult manipulations of the dead, particularly mindless undead such as zombies. </td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Hag of Gyronna"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Hag of Gyronna</a></td><td>Patron; Spells; 2nd, 8th, 12th-level Hexes</td><td>Only female witches dare dedicate themselves to the Angry Hag, and those who do so are feared for their ability to bend minds and sow discord.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Hagbound"><img src="images\PathfinderSocietySymbolN.gif" title="A hagbound can remove the hag’s hold only by removing her archetype directly, such as with the retraining rules in Pathfinder RPG Ultimate Campaign." style="margin:3px 3px 0px 3px;"> Hagbound</a></td><td>1st, 2nd, 4th, 8th, 10th, 12th, 14th, and 20th--level Hexes</td><td>Whether a changeling in the process of succumbing to her mother’s call, a witch cursed by a hag to become her instrument of torment, a vain and petty witch overeager for power, or some other unfortunate soul, a hagbound witch finds its soul has been infected by a hag’s spite and powerful, corrupt arcane magic. </td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Havocker"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Havocker</a></td><td>Hexes</td><td>Although most witches are guided to subtle curses and debilitating hexes by their mysterious patrons, some are instead taught the secrets of harnessing raw, destructive elemental power.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Hedge Witch"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Hedge Witch</a></td><td>4th-level Hex; 8th-level Hex</td><td>Among witches, there are those who devote themselves to the care of others and restrict their practices to the healing arts. </td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Herb Witch"><img src="images\PathfinderSocietySymbolN.gif" title="The herb witch must select the healing hex at 2nd level in place of the cauldron hex" style="margin:3px 3px 0px 3px;"> Herb Witch</a></td><td>Patron; 1st, 2nd, 10th-level Hex</td><td>Herb witches brew foul-tasting medicines, sweet poisons, and other concoctions from the untamed plants of the wild.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Hex Channeler"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Hex Channeler</a></td><td>2nd-level Hex</td><td>A hex channeler is a witch who devotes herself to either life—healing the wounded and destroying the undead—or death, slaying the living and aiding undead.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Invoker"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Invoker</a></td><td>1st, 8th, 10th, and 16th level Hex</td><td>The invoker uses her familiar to summon facets of her mysterious patron directly into her body, enhancing her skills and granting her powerful abilities.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Jinx Witch"><img src="images\PathfinderSocietySymbolN.gif" title="Only available to Tengu characters" style="margin:3px 3px 0px 3px;"> Jinx Witch</a></td><td>Class Skills; 2nd, 6th, 10th-level Hex</td><td> Jinx witches specialize in calling down subtle misfortunes and deceiving enemies and allies alike. While they lack any ability to truly eliminate bad luck, they are uniquely gifted at making others believe otherwise. </td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Ley Line Guardian"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Ley Line Guardian</a></td><td>Spellcasting; Familiar; 1st and 8th-level Hexes</td><td>Some witches tap into the power of their patrons not through a special connection with a familiar, but rather directly through the vast network of ley lines that crosses the planes.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Medium"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Medium</a></td><td>Patron; 2nd, 6th, 20th-level Hexes</td><td>Mediums tap into the spiritual power of those who have yet to find their final rest. Their ability to interact with these souls allows mediums to learn about the physical world through the experiences of those who came before them. </td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Mirror Witch"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Mirror Witch</a></td><td>Familiar</td><td>Mirror witches eschew animal familiars and isntead talk to their patrons via mirror magic</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Mountain Witch"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Mountain Witch</a></td><td>Spells; Hex; 2nd-level Hex</td><td>Mountains can be sanctuaries for witches hunted by society. Here they form bonds with the spirits of the lofty reaches.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Nexian Spellspy"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Nexian Spellspy</a></td><td>Deliver Touch Spells; 4th-level Hex</td><td>Nexian spellspies are witches who use their familiars and divining talents to spy on their rivals and protect themselves from similar intrusions.
+</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Pact Witch"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Pact Witch</a></td><td>Alignment; Patron; Familar; 6th-level Hex</td><td>Though all witches forge bonds with mysterious powers known as patrons, a pact witch takes this bond to an extreme by forging an inexorable pact with the Outer Planes.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Putrefactor"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Putrefactor</a></td><td>Familiar; Patron; 1st, 2nd, 4th, 6th, 10th, and 16th-level Hexes</td><td>Some witches find their patrons while in the throes of despair and grief, when all they desire is to see the veneer of civilization peel back to reveal the filth and rot that underlies all things.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Rhetorician"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Rhetorician</a></td><td>1st-level Hex; Spells</td><td>Rhetoricians feel driven to engage in debate, learn as much as they can about their potential foes, and seek ways to use information and quick talking to handle problems before resorting to raw violence.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Scarred Witch Doctor">Scarred Witch Doctor</a></td><td>Spellcasting; Hexes; Familiar; 1st-level Hex</td><td>(Orc Only) The scarred witch doctor draws power from her ability to endure pain and suffering. </td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Sea Witch"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Sea Witch</a></td><td>Patron Spells; 1st-level Hex</td><td>A sea witch’s affinities are tied to the vast oceans and the rolling waves. </td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Season Witch"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Season Witch</a></td><td>Patron; 1st-level Hex</td><td>Season witches gain their power from the cyclical and mystical exchange of energy passed from one season of nature to another.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Seducer">Seducer</a></td><td>Patron; Key Ability Score; 1st, 6th, 8th-level Hex</td><td>These charismatic witches, often devotees of the Green Mother, rely on their otherworldly charms to achieve their aims. </td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Synergist"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Synergist</a></td><td>1st, 8th, and 14th-level Hexes</td><td>Synergists gain the ability to combine their forms with their familiars’ in order to create something more powerful than either alone.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Tatterdemalion"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Tatterdemalion</a></td><td>Weapon Proficiencies; Cantrips; 1st, 4th, 8th, 12th, 16th-level Hex </td><td>Some witches can bend the warp and weft of fabric and thread.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Vellemancer"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Vellemancer</a></td><td>Class Skills; 2nd, 6th, and 8th-level Hexes</td><td>While the popular stereotype envisions witches as wicked spellcasters sowing misery, many people turn to the arcane to heal others and better the world. The vellemancer is a guide, using her witchcraft to empower and teach others.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Veneficus Witch"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Veneficus Witch</a></td><td>2nd and 10th-level Hexes</td><td>Veneficus witches specialize in poisons—brewing both magical and traditional concoctions, and applying them to weapons, traps or even her potent hexes.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Venom Siphoner"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Venom Siphoner</a></td><td>1st, 2nd, 6th-level Hex; Alertness</td><td>Witches are no strangers to poisons, using them alongside their various brews, curses, spells, and other tools of the trade.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch White-Haired Witch"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> White-Haired Witch</a></td><td>Hex; Major Hex; Grand Hex</td><td>A white-haired witch concentrates her mysterious powers on improving her prowess in melee, using feats of agility and her prehensile hair to deal extreme damage.</td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Winter Witch"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Winter Witch</a></td><td>Familiar; Patron; 4th-level Hex</td><td>The descendents of Baba Yaga rule the frozen realm of Irrisen, and possess a unique power stemming from their otherworldly origin and their ties to cold magic.</td>
+		</tr><tr>
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Witch-Watcher"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Witch-Watcher</a></td><td>Spells per Day</td><td>For reasons known only to them, witch-watchers offer protection to nobles across Golarion. </td>
+		</tr><tr style="background-color:#CCCCCC;">
+			<td><a href="ArchetypeDisplay.aspx?FixedName=Witch Wyrm Witch"><img src="images\PathfinderSocietySymbol.gif" title="PFS Legal" style="margin:3px 3px 0px 3px;"> Wyrm Witch</a></td><td>Patron; Familiar
+</td><td>Some witch covens have learned to use treasure to access other draconic powers.
+</td>
+		</tr>
+	</table>
+</div>
+    
+    
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

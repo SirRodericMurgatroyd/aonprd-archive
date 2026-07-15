@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	The Cosmos - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, The Cosmos" /><meta name="description" content="Space. In many fantasy games, it’s not even the final frontier, but rather completely beyond the bounds of the campaign setting. Yet mankind has always looked to the sky for escape and adventure, and why should your PCs be any different? By answering a few questions regarding the nature of your world’s cosmos, you can expand your setting and greatly increase its verisimilitude." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=767" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWiUTx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDU0Ij5HYW1lTWFzdGVyeSBHdWlkZTwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD03MDgiPkNyZWF0aW5nIGEgV29ybGQ8L2E+PC91PjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NzY3Ij5UaGUgQ29zbW9zPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gMTY0PC9pPjwvYT48YnIgLz5TcGFjZS4gSW4gbWFueSBmYW50YXN5IGdhbWVzLCBpdOKAmXMgbm90IGV2ZW4gdGhlIGZpbmFsIGZyb250aWVyLCBidXQgcmF0aGVyIGNvbXBsZXRlbHkgYmV5b25kIHRoZSBib3VuZHMgb2YgdGhlIGNhbXBhaWduIHNldHRpbmcuIFlldCBtYW5raW5kIGhhcyBhbHdheXMgbG9va2VkIHRvIHRoZSBza3kgZm9yIGVzY2FwZSBhbmQgYWR2ZW50dXJlLCBhbmQgd2h5IHNob3VsZCB5b3VyIFBDcyBiZSBhbnkgZGlmZmVyZW50PyBCeSBhbnN3ZXJpbmcgYSBmZXcgcXVlc3Rpb25zIHJlZ2FyZGluZyB0aGUgbmF0dXJlIG9mIHlvdXIgd29ybGTigJlzIGNvc21vcywgeW91IGNhbiBleHBhbmQgeW91ciBzZXR0aW5nIGFuZCBncmVhdGx5IGluY3JlYXNlIGl0cyB2ZXJpc2ltaWxpdHVkZS48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTc2OCI+Q3JlYXRpbmcgWW91ciBQbGFuZXQ8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiAxNjQ8L2k+PC9hPjxiciAvPlRoZSBmaXJzdCBxdWVzdGlvbiBldmVyeSBHTSBzaG91bGQgYXNrIGFib3V0IGEgd29ybGQgaXMgd2hldGhlciBvciBub3QgaXTigJlzIGEgcGxhbmV0LiBUaGlzIGlzIGJ5IG5vIG1lYW5zIGEgZm9yZWdvbmUgY29uY2x1c2lvbuKAlHBsYW5ldHMgYXJlIGEgcmVsYXRpdmVseSByZWNlbnQgY29uY2VwdCwgYW5kIGluIHRoZSBtaWxsZW5uaWEgYmVmb3JlIEVhcnRo4oCZcyBzaGFwZSB3YXMgcHJvdmVkLCB2YXJpb3VzIGN1bHR1cmVzIGhhZCB3aWRlbHkgdmFyeWluZyB0aGVvcmllcy4gTWFueSBiZWxpZXZlZCB0aGF0IHRoZSBFYXJ0aCB3YXMgZmxhdCwgYSBkaXNjIGZsb2F0aW5nIGluIGFuIGVuZGxlc3Mgb2NlYW4gb3Igc3VwcG9ydGVkIG9uIHRoZSBiYWNrIG9mIGFuIGVsZXBoYW50IChpbiB0dXJuIHJpZGluZyBvbiBhIGh1Z2UgdHVydGxlKS4gT3RoZXJzIGJlbGlldmVkIHRoZSB3b3JsZCB3YXMgc3F1YXJlLCB0aGUgc2xvcGVzIG9mIGFuIGVub3Jtb3VzIG1vdW50YWluLCBvciBib3VuZCBieSB0aGUgcm9vdHMgb2YgYSBjb2xvc3NhbCB0cmVlIHRoYXQgaGVsZCB1cCB0aGUgc2t5LiBXaG/igJlzIHRvIHNheSB0aGF0IGFueSBvZiB0aGVzZSBpc27igJl0IHRydWUgZm9yIHlvdXIgd29ybGQ/IFBlcmhhcHMgeW91ciBzZXR0aW5nIGlzIGEgZ2lhbnQgbW9iaXVzIHN0cmlwLCBvciBhIGZhY2V0IG9uIHRoZSBtYW55LXNpZGVkIGdlbSBvZiB0aGUgdW5pdmVyc2UuIFlvdeKAmXJlIHRoZSBHTSwgYW5kIHdoYXQgeW91IHNheSBnb2VzLjxiciAvPjxiciAvPiBUaGF0IHNhaWQsIGhvd2V2ZXIsIGNyZWF0aW5nIGEgd29ybGQgc28gd2lsZGx5IGRpZmZlcmVudCBmcm9tIG91ciBvd24gY2FuIGNhcHR1cmUgcGxheWVyc+KAmSBpbWFnaW5hdGlvbnMgYW5kIHJhaXNlIHF1ZXN0aW9ucyB0aGF0IHlvdeKAmWQgcmF0aGVyIGdsb3NzIG92ZXIuIElmIHlvdXIgd29ybGQgaXMgZmxhdCwgaG93IGZhciBhd2F5IGlzIHRoZSBlZGdlPyBDYW4geW91IGZhbGwgb2ZmLCBhbmQgd2hhdCBrZWVwcyB0aGUgb2NlYW4gaW4gcGxhY2U/IFdobyBsaXZlcyBvbiB0aGUgZmxpcCBzaWRlLCBhbmQgaXMgaXQgcG9zc2libGUgdG8gZGlnIGEgdHVubmVsIHRocm91Z2ggdG8gdGhlbT8gQXMgd2l0aCBldmVyeXRoaW5nIGluIHRoaXMgc2VjdGlvbiwgdGhlIGZhcnRoZXIgeW91IHN0cmF5IGZyb20gdGhlIEVhcnRoIHN0YW5kYXJkLCB0aGUgaGFyZGVyIHlvdSBoYXZlIHRvIHdvcmsgdG8gbWFpbnRhaW4geW91ciBwbGF5ZXJz4oCZIGNvbmZpZGVuY2UuPGJyIC8+PGJyIC8+IFlldCBldmVuIHVzaW5nIEVhcnRoIGFzIGEgbW9kZWwsIHRoZXJlIGFyZSBzdGlsbCBzZXZlcmFsIGZhY3RvcnMgeW91IHNob3VsZCB0YWtlIGludG8gY29uc2lkZXJhdGlvbi48YnIgLz48YnIgLz4gPGI+U2l6ZTwvYj46IEZvciBtYW55IEdNcywgdGhlIHRlbXB0YXRpb24gd2hlbiBkZXNpZ25pbmcgYSBwbGFuZXQgaXMgdG8gbWFrZSBpdCBsYXJnZXIgdGhhbiBFYXJ0aCwgdGhlIGJldHRlciB0byBpbmNyZWFzZSB0aGUgbXlzdGVyeSBhbmQgcHJvdmlkZSB1bmxpbWl0ZWQgY2FudmFzLiBZZXQgdGhpcyBjYXJyaWVzIHByb2JsZW1zIGJvdGggbG9naXN0aWNhbCBhbmQgcGh5c2ljYWw6IElmIHlvdXIgcGxhbmV0IGlzIGxhcmdlciB0aGFuIEVhcnRoLCBkb2VzIGl0cyBncmF2aXRhdGlvbmFsIHB1bGwgZ2V0IHN0cm9uZ2VyPyBZb3VyIGhvcml6b24gd2lsbCBhbHNvIGJlIG11Y2ggZmFydGhlciBhd2F5IHRoYW4gb3Vyc+KAlGhvdyBkb2VzIGl0IGFmZmVjdCB5b3VyIHNpZWdlIGFkdmVudHVyZSBpZiB0aGUgZGVmZW5kZXJzIGNhbiB3YXRjaCB0aGUgcmFpZGVycyBhcHByb2FjaGluZyBmb3IgYSB3ZWVrPyBFdmVuIG9uIEVhcnRoLCBpdCB0b29rIGEgbG9uZyB0aW1lIGZvciB0aGUgdmFyaW91cyByZWdpb25hbCBjdWx0dXJlcyB0byBleHBhbmQgYW5kIG1ha2UgY29udGFjdOKAlGlmIGRpc3RhbmNlcyBkb3VibGUgb3IgdHJpcGxlIG9uIHlvdXIgd29ybGQsIHdoYXQgZG9lcyB0aGF0IGRvIHRvIHNvY2lhbCBkZW1vZ3JhcGhpY3Mgb3IgcG9saXRpY2FsIHJlbGF0aW9ucz8gRG8gdGhlIHZhcmlvdXMgcG9wdWxhdGlvbnMgYW5kIGVjb3N5c3RlbXMgb2YgeW91ciB3b3JsZCBldmVuIGludGVyYWN0PzxiciAvPjxiciAvPiA8Yj5Db21wb3NpdGlvbjwvYj46IFdoYXQgeW91ciBwbGFuZXTigJlzIG1hZGUgb2YgaXMgaW1wb3J0YW50LiBGb3IgaW5zdGFuY2UsIGlmIHlvdXIgcGxhbmV0IGlzIGhvbGxvdyBhbmQgZnVsbCBvZiBkaW5vc2F1cnMsIHdoYXQgZG9lcyB0aGF0IGRvIHRvIGl0cyBncmF2aXR5PyBIb3cgZG8gdm9sY2Fub2VzIHdvcmsgaWYgdGhlIHBsYW5ldOKAmXMgY29yZSBpc27igJl0IG1vbHRlbj8gV2hhdCBrZWVwcyB0aGUgc2VhcyBmcm9tIGRyYWluaW5nIGludG8gbGFyZ2Utc2NhbGUgbmV0d29ya3Mgb2YgY2F2ZXJucyBhbmQgdHVubmVscz8gQSBwbGFuZXTigJlzIGNvbXBvc2l0aW9uIGlzIGFsc28gaW1wb3J0YW50IHRvIGl0cyBtYWduZXRpYyBmaWVsZHMgYW5kIHRodXMgdG8gbmF2aWdhdGlvbuKAlGlmIGNvbXBhc3NlcyBkb27igJl0IHBvaW50IG5vcnRoLCB3aGF0IGRvIHRoZXkgcG9pbnQgdG8/IEEgY2l0eSBvZiB3aXphcmRzPyBBIGd1aWRpbmcgc3Rhcj8gR29kPzxiciAvPjxiciAvPiA8Yj5Nb3ZlbWVudDwvYj46IERvZXMgeW91ciBwbGFuZXQgcm90YXRlLCBhbmQgaWYgc28sIGhvdyBsb25nIGFyZSB5b3VyIGRheXM/IEhvdyBsb25nIGlzIDEgeWVhciAobWVhbmluZyBhIHNpbmdsZSBvcmJpdCBhcm91bmQgdGhlIHN1binigJRvciBkb2VzIHlvdXIgcGxhbmV0IHJldm9sdmUgYXJvdW5kIHRoZSBzdW4gYXQgYWxsPyBQZXJoYXBzIHRoZSBjcnlzdGFsbGluZSBzcGhlcmVzIG9mIHRoZSBhbmNpZW50IGdlb2NlbnRyaWMgbW9kZWwgYXJlIGxpdGVyYWwgdHJ1dGggaW4geW91ciB3b3JsZC48YnIgLz48YnIgLz4gPGI+TW9vbnM8L2I+OiBFYXJ0aOKAmXMgbW9vbiBpcyByZXNwb25zaWJsZSBmb3IgaXRzIHRpZGVz4oCUaWYgeW91ciB3b3JsZCBoYXMgbm8gbW9vbiwgZG9lcyBpdCBzdGlsbCBoYXZlIHRpZGFsIGFjdGlvbiB0byBzdGlyIGl0cyBvY2VhbnM/IFdoYXQgYWJvdXQgbHljYW50aHJvcHkgb3Igb3RoZXIgbWFnaWMgaW5oZXJlbnRseSB0aWVkIHRvIHRoZSBtb29uPyBDb252ZXJzZWx5LCBpZiB5b3VyIHdvcmxkIGhhcyBhbiBlbm9ybW91cyBtb29uIG9yIG11bHRpcGxlIHNhdGVsbGl0ZXMsIGRvIHlvdSBoYXZlIGVub3Jtb3VzIGFuZCBlcnJhdGljIHNoaWZ0cyBpbiB5b3VyIHRpZGVzPyBBcmUgdGhlIG1vb25zIGNsb3NlIGVub3VnaCB0byByZWFjaCwgYW5kIHdoYXQgZWZmZWN0cyBkbyB0aGV5IGV4ZXJ0IG9uIGVhY2ggb3RoZXI/IEFyZSB0aGV5IGxpZmVsZXNzIHJvY2tzIG9yIHRocml2aW5nIHdvcmxkcz88YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTc2OSI+T3RoZXIgV29ybGRzPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OGZmbiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5HYW1lTWFzdGVyeSBHdWlkZSBwZy4gMTY0PC9pPjwvYT48YnIgLz5XaGlsZSBzb2xpdGFyeSBwbGFuZXRzIGFyZSBjb21tb24gaW4gb3VyIHVuaXZlcnNlLCB3aHkgcmVzdHJpY3QgeW91cnNlbGYgdG8gb25lIHdvcmxkPyBUcnkgcm91Z2hpbmcgaW4gc29tZSBvdGhlciBwbGFuZXRzIGluIHlvdXIgc29sYXIgc3lzdGVt4oCUc3VjaCB3b3JsZHMgc3Bhd24gc3RyYW5nZSBiZWFzdHMgYW5kIGdpdmUgeW91IGVudGlyZWx5IG5ldyBjYW1wYWlnbiBzZXR0aW5ncyB0byBleHBsb3JlLiBJbiBjcmVhdGluZyB0aGVzZSBwbGFuZXRzLCByZW1lbWJlciB0aGF0IHJvY2t5IHdvcmxkcyBsaWtlIEVhcnRoIGZvcm0gY2xvc2UgdG8gdGhlIHN1biwgYW5kIGdhcyBnaWFudHMgZmFydGhlciBvdXQuIEJ1dCB0aGF0IGRvZXNu4oCZdCBtZWFuIHlvdSBjYW7igJl0IGhhdmUgcGxheWFibGUgd29ybGRzIGFsbCB0aGUgd2F5IG91dCB0byB0aGUgc3lzdGVt4oCZcyBlZGdl4oCUY2FwdHVyZWQgYm9kaWVzIGxpa2UgYXN0ZXJvaWRzIGFuZCBwbGFuZXQtc2l6ZWQgbW9vbnMgYXJvdW5kIGdhcyBnaWFudHMgbWFrZSB3b25kZXJmdWwgc29saWQgd29ybGRzLiBBIGZ1bGwgc29sYXIgc3lzdGVtIGxldHMgeW91IHBsYXkgd2l0aCBwbGFuZXRhcnkgY2hhcmFjdGVyaXN0aWNzIHRoYXQgYXJlIGxpa2VseSB0b28gZXh0cmVtZSBmb3IgeW91ciBiYXNlIHdvcmxkLCBzdWNoIGFzIHRoZSBmb2xsb3dpbmcuPGJyIC8+PGJyIC8+IDxiPlRpZGFsIExvY2s8L2I+OiBBIHRpZGFsIGxvY2sgaXMgd2hlbiBhIGNlbGVzdGlhbCBib2R5IGtlZXBzIHRoZSBzYW1lIHNpZGUgZmFjaW5nIGFub3RoZXIgYm9keSwgc3VjaCBhcyBFYXJ0aOKAmXMgbW9vbiB3aXRoIGl0cyB2aXNpYmxlIGZhY2UgYW5kIG15c3RlcmlvdXMg4oCcZGFyayBzaWRlLuKAnSBJZiBhIHBsYW5ldCBhbHdheXMga2VwdCBpdHMgc2FtZSBmYWNlIHRvIHRoZSBzdW4sIG9uZSBzaWRlIG1pZ2h0IGJvaWwgd2hpbGUgdGhlIG90aGVyIGZyb3plLiBXb3VsZCBjdWx0dXJlcyBsaXZlIHNvbGVseSBvbiB0aGUgbGluZSBiZXR3ZWVuIG5pZ2h0IGFuZCBkYXk/IFdvdWxkIGNyZWF0dXJlcyBhbmQgY3VsdHVyZXMgZXZvbHZlIHNlcGFyYXRlbHkgb24gdGhlIGxpZ2h0IGFuZCBkYXJrIGhhbHZlcywgYW5kIHdoYXQgd291bGQgaGFwcGVuIGlmIHRoZXkgY2FtZSBpbnRvIGNvbmZsaWN0PzxiciAvPjxiciAvPiA8Yj5UaWRhbCBIZWF0aW5nPC9iPjogRm9yIHRpZGFsbHkgaGVhdGVkIHdvcmxkcywgdGhlIHB1bGwgb2YgYW5vdGhlciBncmF2aXRhdGlvbmFsIGZpZWxkIChzdWNoIGFzIHRoYXQgb2YgYW5vdGhlciBwbGFuZXQpIHdhcnBzIHRoZSBwbGFuZXTigJlzIHNoYXBlLCBjYXVzaW5nIHN0cmVzcyBhbmQgZnJpY3Rpb24gdG8gY3JlYXRlIG1hc3NpdmUgb3V0cG91cmluZ3Mgb2YgaGVhdCBpbiB0aGUgZm9ybSBvZiBzdGVhbSBhbmQgbGF2YS48YnIgLz48YnIgLz4gPGI+RWNjZW50cmljIE9yYml0PC9iPjogU29tZSBwbGFuZXRzIGhhdmUgZWNjZW50cmljLCBlbGxpcHRpY2FsIG9yYml0cyB0aGF0IG1ha2UgdGhlaXIgc2Vhc29ucyBkcmFzdGljYWxseSB1bmV2ZW4uIElmIHlvdXIgcGxhbmV0IHNsaW5nc2hvdHMgcXVpY2tseSBhcm91bmQgdGhlIHN1biBhbmQgdGhlbiBwYXNzZXMgYmFjayBvdXQgaW50byB0aGUgZGFya25lc3MgZm9yIGEgdGhvdXNhbmQteWVhciB3aW50ZXIsIHdoYXQgc29ydCBvZiBjcmVhdHVyZXMgYW5kIHNvY2lldGllcyB3b3VsZCBldm9sdmU/PGJyIC8+PGJyIC8+IDxiPk9yYml0YWwgSW50ZXJhY3Rpb25zPC9iPjogQSBwbGFuZXQgdGhhdCBwYXNzZXMgdGhyb3VnaCBhIGNsb3VkIG9mIGR1c3QsIGNvbWV0IHRhaWwsIG9yIGFzdGVyb2lkIGJlbHQgYXQgdGhlIHNhbWUgdGltZSBldmVyeSB5ZWFyIG1pZ2h0IGhhdmUgYW55dGhpbmcgZnJvbSByZWd1bGFyIG1ldGVvciBzaG93ZXJzIHRvIGEgcmFpbiBvZiBmaXJlIG9yIGV2ZW4gYW4gZXh0aW5jdGlvbi1sZXZlbCBpbXBhY3QuIExpa2V3aXNlLCB0d28gcGxhbmV0cyBwYXNzaW5nIGNsb3NlIHRvZ2V0aGVyIGluIHRoZWlyIHJlc3BlY3RpdmUgb3JiaXRzIG1pZ2h0IG9mZmVyIGEgY2hhbmNlIGZvciBpbnRlcnBsYW5ldGFyeSB0cmF2ZWwgKGJvdGggYmVuaWduIGFuZCBkZXN0cnVjdGl2ZSksIGNvbW11bmljYXRpb24sIGFuZCBzbyBvbi48YnIgLz48YnIgLz4gPGI+QXRtb3NwaGVyaWMgQ29uZGl0aW9uczwvYj46IE9uIFZlbnVzLCB0aGUgYXRtb3NwaGVyZSBpcyBzbyB0aGljayB0aGF0IHRoZSB3aW5kIGlzIGxpa2UgYSBicmljayB3YWxsIHNsb3dseSBzY3JhcGluZyBhY3Jvc3MgdGhlIGxhbmRzY2FwZS4gSG93IHdvdWxkIGNoYXJhY3RlcnMgc3Vydml2ZSBvbiBhIHdvcmxkIHdob3NlIHZlcnkgYWlyIGNydXNoZXMgdGhlbSwgb3Igd2hvc2UgYWlyIGlzIHRoaW5uZXIgdGhhbiBvbiB0aGUgaGlnaGVzdCBtb3VudGFpbnRvcD88YnIgLz48YnIgLz4gPGI+VHJhbnNpZW50IE9iamVjdDwvYj46IFBlcmhhcHMgYSB3b3JsZCBpcyBqdXN0IHBhc3NpbmcgdGhyb3VnaCwgYW4gb2JqZWN0IHB1bGxlZCBvZmYtY291cnNlIGJ5IHRoZSBzdW4gYnV0IHN0aWxsIGJvdW5kIGZvciBkaXN0YW50IHN0YXJzLiBXaGF0IHN0cmFuZ2UgZGlzY292ZXJpZXMgbWlnaHQgaXQgb2ZmZXIsIGFuZCBob3cgd291bGQgaXRzIHJlc2lkZW50cyB0cmVhdCB0aGUgd29ybGRzIGl0IHBhc3NlcyBuZWFyLCBrbm93aW5nIHRoZXnigJlsbCBuZXZlciBiZSBiYWNrIHRoaXMgd2F5IGFnYWluPzxiciAvPjxiciAvPiA8Yj5EeWluZyBTdW48L2I+OiBBbGwgdGhpbmdzIGhhdmUgdGhlaXIgZW5k4oCUZXZlbiB0aGUgc3RhcnMuIFBlcmhhcHMgeW91ciBzdW4gaXMgb24gaXRzIHdheSBvdXQsIGFuZCB3aGlsZSB5b3VyIHByaW1hcnkgcGxhbmV0IGhhc27igJl0IGJlZW4gYWZmZWN0ZWQsIGl0cyBuZWlnaGJvcnMgYXJlIHN1ZmZlcmluZy4gVGhpcyBtaWdodCBtZWFuIGEgc29jaWV0eSBmYWxsaW5nIGludG8gYW5hcmNoeSBhcyByZWR1Y2VkIGxpZ2h0IGNyaXBwbGVzIGl0cyBhZ3JpY3VsdHVyZSwgb3IgYSByYWNlIGZvciBlc2NhcGUgYXMgdGhlIHJlZC1naWFudCBzdW4gcmVhY2hlcyBvdXQgdG8gY29uc3VtZSBuZWFyYnkgd29ybGRzLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NzcwIj5TcGFjZSBUcmF2ZWw8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcGF0aGZpbmRlclJQRy92NTc0OGJ0cHk4ZmZuIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPkdhbWVNYXN0ZXJ5IEd1aWRlIHBnLiAxNjU8L2k+PC9hPjxiciAvPklmIHlvdXIgc29sYXIgc3lzdGVtIGhhcyBtdWx0aXBsZSB3b3JsZHMsIHRoZSBuZXh0IHF1ZXN0aW9uIGlzIGhvdyBiZWluZ3MgY2FuIHRyYXZlbCBiZXR3ZWVuIHRoZW0uPGJyIC8+PGJyIC8+IDxiPlBvcnRhbHM8L2I+OiBQZXJoYXBzIHRoZSBlYXNpZXN0IG1ldGhvZCB0byBtYW5hZ2UgZnJvbSBhIEdNIHBlcnNwZWN0aXZlLCBtYWdpY2FsIG9yIHNjaWVudGlmaWMgcG9ydGFscyBiZXR3ZWVuIHdvcmxkcyBhbGxvdyBwbGF5ZXJzIHRvIHRyYW5zcG9ydCB0aGVtc2VsdmVzIHRvIGxvY2F0aW9ucyBjaG9zZW4gYnkgdGhlIEdNLCBnaXZpbmcgaGVyIG5hdHVyYWwgYWR2ZW50dXJlIGhvb2tzIGFuZCBhbGxvd2luZyBoZXIgdG8ga2VlcCBhIHRpZ2h0IHJlaW4gb24gaW50ZXJwbGFuZXRhcnkgdHJhdmVsLjxiciAvPjxiciAvPiA8Yj5WZXNzZWxzPC9iPjogV2hldGhlciBwb3dlcmVkIGJ5IG1hZ2ljIG9yIHNjaWVuY2UsIHNwYWNlc2hpcHMgYWRkIGEgd2hvbGUgbmV3IGZsYXZvciB0byBhIGdhbWUuIERvIHlvdXIgc3RhcnNoaXBzIG9wZXJhdGUgdmlhIG1hc3NpdmUgdGhydXN0ZXJzIG9yIGRpYXBoYW5vdXMgc2FpbHMgdGhhdCBjYXRjaCB0aGUgc3Vu4oCZcyBsaWdodD8gRG8gdGhleSBmb2xkIHNwYWNlIGFuZCB0aW1lLCBvciBhcmUgdGhleSBnaWFudCBzcGFjZS1mYXJpbmcgY3JlYXR1cmVzIHRoYXQgcGFzc2VuZ2VycyBzdG93IGF3YXkgaW5zaWRlIGxpa2UgSm9uYWggYW5kIHRoZSB3aGFsZT8gQW5kIGRvZXMgaXQgdGFrZSBkYXlzLCB5ZWFycywgb3IgZ2VuZXJhdGlvbnMgZm9yIHRoZSB2ZXNzZWwgdG8gcmVhY2ggYW5vdGhlciB3b3JsZD88YnIgLz48YnIgLz4gPGI+U3BlbGxzPC9iPjogVGVsZXBvcnRhdGlvbiBzcGVsbHMgYXJlIGltcG9ydGFudCB0byBjb25zaWRlciB3aGVuIGVzdGFibGlzaGluZyBleHRyYXBsYW5ldGFyeSBsb2NhdGlvbnMuIENhbiBhIHdpemFyZCBzaW1wbHkgY2FzdCA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iU3BlbGxEaXNwbGF5LmFzcHg/SXRlbU5hbWU9Z3JlYXRlciB0ZWxlcG9ydCI+PGk+Z3JlYXRlciB0ZWxlcG9ydDwvaT48L2E+IG9yIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT13aXNoIj48aT53aXNoPC9pPjwvYT4sIG9yIGlzIG1vcmUgcmVxdWlyZWQgdG8gcmVhY2ggdGhlIHN0YXJzPyBCZSB3YXJuZWQgdGhhdCBlYXN5IGFjY2VzcyB0byB0aGUgZ2FsYXh5IGJyaW5ncyBhIGhvc3Qgb2YgY29uY2VybnPigJRzdWNoIGFzIHdoeSwgaWYgaW50ZXJwbGFuZXRhcnkgdHJhdmVsIGlzIGVhc3ksIGFsaWVucyBhcmVu4oCZdCB0aHJvbmdpbmcgeW91ciBiYXNlIHdvcmxkLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NzcxIj5FeHRyYXRlcnJlc3RyaWFsczwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDE2NTwvaT48L2E+PGJyIC8+V2hlbiBjcmVhdGluZyBhbGllbiByYWNlcywgZmlyc3QgZGVjaWRlIGhvdyBhbGllbiB5b3Ugd2FudCB0aGVtIHRvIGJlLiBTdHJhbmdlbHkgY29sb3JlZCBodW1hbm9pZHMgc2VydmUgdGhlaXIgcHVycG9zZSwgYnV0IGdpdmVuIHRoZSBiaW9kaXZlcnNpdHkgb24gZXZlbiBvbmUgd29ybGQsIHdoeSBub3QgdHJ5IHNvbWV0aGluZyBiaXphcnJlPyBBcmUgdGhleSBibG9icyBvZiBmbG9hdGluZyBwcm90b3BsYXNtLCBidWlsdCBmb3IgZ3JhemluZyBvbiBnYXMgZ2lhbnRzPyBTZW50aWVudCB2aXJ1c2VzPyBCdWctbGlrZSBjeWJvcmdzPyBPbmNlIHlvdeKAmXZlIGNvbWUgdXAgd2l0aCBhIGJhc2ljIGlkZWEsIGNvbnNpZGVyIGhvdyB0aGUgYWxpZW5z4oCZIGV2b2x1dGlvbiBpbmZvcm1zIHRoZWlyIHNvY2lldHkgYW5kIHRob3VnaHQgcHJvY2Vzc2VzLiBEbyB0aGV5IGhhdmUgYSBzZW5zZSBvZiByaWdodCBhbmQgd3JvbmcsIG9yIGxpZmUgYW5kIGRlYXRoPyBEbyB0aGV5IGhhdmUgYSBzZW5zZSBvZiBwcm9wZXJ0eT8gQXJlIHRoZXkgcGFydCBvZiBhIGhpdmUgbWluZCwgYW5kIGlmIHNvLCBhcmUgdGhleSBjYXBhYmxlIG9mIHVuZGVyc3RhbmRpbmcgZnJlZSB3aWxsIGFuZCBpbmRpdmlkdWFsIGN1bHBhYmlsaXR5PyBNb3N0IGltcG9ydGFudGx5LCB3aGF0IGFyZSB0aGVpciBpbnRlbnRpb25zIHRvd2FyZCB5b3VyIFBDc+KAmSB3b3JsZOKAlGFyZSB0aGV5IGJlbmV2b2xlbnQg4oCcYW5nZWxzLOKAnSBvciBwbGFuZXQta2lsbGluZyBPbGQgT25lcz8gQnkgbWFraW5nIHlvdXIgYWxpZW5zIGRpZmZlcmVudCBmcm9tIHRoZSByYWNlcyBvZiB5b3VyIGJhc2Ugd29ybGQsIHlvdSBjcmVhdGUgYSBjaGFuY2UgZm9yIHlvdXIgcGxheWVyc+KAlGFuZCB5b3Vyc2VsZuKAlHRvIGJvbGRseSBnbyB3aGVyZSB5b3XigJl2ZSBuZXZlciBnb25lIGJlZm9yZS5kZGQY3AccRdXU8AscquhKc07aQOXa/y8mWTWcRJn80wU0jQ==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=454">GameMastery Guide</a></u> / <u><a href="Rules.aspx?ID=708">Creating a World</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=767">The Cosmos</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 164</i></a><br />Space. In many fantasy games, it’s not even the final frontier, but rather completely beyond the bounds of the campaign setting. Yet mankind has always looked to the sky for escape and adventure, and why should your PCs be any different? By answering a few questions regarding the nature of your world’s cosmos, you can expand your setting and greatly increase its verisimilitude.<br /><h1 class="title"><a href="Rules.aspx?ID=768">Creating Your Planet</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 164</i></a><br />The first question every GM should ask about a world is whether or not it’s a planet. This is by no means a foregone conclusion—planets are a relatively recent concept, and in the millennia before Earth’s shape was proved, various cultures had widely varying theories. Many believed that the Earth was flat, a disc floating in an endless ocean or supported on the back of an elephant (in turn riding on a huge turtle). Others believed the world was square, the slopes of an enormous mountain, or bound by the roots of a colossal tree that held up the sky. Who’s to say that any of these isn’t true for your world? Perhaps your setting is a giant mobius strip, or a facet on the many-sided gem of the universe. You’re the GM, and what you say goes.<br /><br /> That said, however, creating a world so wildly different from our own can capture players’ imaginations and raise questions that you’d rather gloss over. If your world is flat, how far away is the edge? Can you fall off, and what keeps the ocean in place? Who lives on the flip side, and is it possible to dig a tunnel through to them? As with everything in this section, the farther you stray from the Earth standard, the harder you have to work to maintain your players’ confidence.<br /><br /> Yet even using Earth as a model, there are still several factors you should take into consideration.<br /><br /> <b>Size</b>: For many GMs, the temptation when designing a planet is to make it larger than Earth, the better to increase the mystery and provide unlimited canvas. Yet this carries problems both logistical and physical: If your planet is larger than Earth, does its gravitational pull get stronger? Your horizon will also be much farther away than ours—how does it affect your siege adventure if the defenders can watch the raiders approaching for a week? Even on Earth, it took a long time for the various regional cultures to expand and make contact—if distances double or triple on your world, what does that do to social demographics or political relations? Do the various populations and ecosystems of your world even interact?<br /><br /> <b>Composition</b>: What your planet’s made of is important. For instance, if your planet is hollow and full of dinosaurs, what does that do to its gravity? How do volcanoes work if the planet’s core isn’t molten? What keeps the seas from draining into large-scale networks of caverns and tunnels? A planet’s composition is also important to its magnetic fields and thus to navigation—if compasses don’t point north, what do they point to? A city of wizards? A guiding star? God?<br /><br /> <b>Movement</b>: Does your planet rotate, and if so, how long are your days? How long is 1 year (meaning a single orbit around the sun)—or does your planet revolve around the sun at all? Perhaps the crystalline spheres of the ancient geocentric model are literal truth in your world.<br /><br /> <b>Moons</b>: Earth’s moon is responsible for its tides—if your world has no moon, does it still have tidal action to stir its oceans? What about lycanthropy or other magic inherently tied to the moon? Conversely, if your world has an enormous moon or multiple satellites, do you have enormous and erratic shifts in your tides? Are the moons close enough to reach, and what effects do they exert on each other? Are they lifeless rocks or thriving worlds?<br /><h1 class="title"><a href="Rules.aspx?ID=769">Other Worlds</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 164</i></a><br />While solitary planets are common in our universe, why restrict yourself to one world? Try roughing in some other planets in your solar system—such worlds spawn strange beasts and give you entirely new campaign settings to explore. In creating these planets, remember that rocky worlds like Earth form close to the sun, and gas giants farther out. But that doesn’t mean you can’t have playable worlds all the way out to the system’s edge—captured bodies like asteroids and planet-sized moons around gas giants make wonderful solid worlds. A full solar system lets you play with planetary characteristics that are likely too extreme for your base world, such as the following.<br /><br /> <b>Tidal Lock</b>: A tidal lock is when a celestial body keeps the same side facing another body, such as Earth’s moon with its visible face and mysterious “dark side.” If a planet always kept its same face to the sun, one side might boil while the other froze. Would cultures live solely on the line between night and day? Would creatures and cultures evolve separately on the light and dark halves, and what would happen if they came into conflict?<br /><br /> <b>Tidal Heating</b>: For tidally heated worlds, the pull of another gravitational field (such as that of another planet) warps the planet’s shape, causing stress and friction to create massive outpourings of heat in the form of steam and lava.<br /><br /> <b>Eccentric Orbit</b>: Some planets have eccentric, elliptical orbits that make their seasons drastically uneven. If your planet slingshots quickly around the sun and then passes back out into the darkness for a thousand-year winter, what sort of creatures and societies would evolve?<br /><br /> <b>Orbital Interactions</b>: A planet that passes through a cloud of dust, comet tail, or asteroid belt at the same time every year might have anything from regular meteor showers to a rain of fire or even an extinction-level impact. Likewise, two planets passing close together in their respective orbits might offer a chance for interplanetary travel (both benign and destructive), communication, and so on.<br /><br /> <b>Atmospheric Conditions</b>: On Venus, the atmosphere is so thick that the wind is like a brick wall slowly scraping across the landscape. How would characters survive on a world whose very air crushes them, or whose air is thinner than on the highest mountaintop?<br /><br /> <b>Transient Object</b>: Perhaps a world is just passing through, an object pulled off-course by the sun but still bound for distant stars. What strange discoveries might it offer, and how would its residents treat the worlds it passes near, knowing they’ll never be back this way again?<br /><br /> <b>Dying Sun</b>: All things have their end—even the stars. Perhaps your sun is on its way out, and while your primary planet hasn’t been affected, its neighbors are suffering. This might mean a society falling into anarchy as reduced light cripples its agriculture, or a race for escape as the red-giant sun reaches out to consume nearby worlds.<br /><h1 class="title"><a href="Rules.aspx?ID=770">Space Travel</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 165</i></a><br />If your solar system has multiple worlds, the next question is how beings can travel between them.<br /><br /> <b>Portals</b>: Perhaps the easiest method to manage from a GM perspective, magical or scientific portals between worlds allow players to transport themselves to locations chosen by the GM, giving her natural adventure hooks and allowing her to keep a tight rein on interplanetary travel.<br /><br /> <b>Vessels</b>: Whether powered by magic or science, spaceships add a whole new flavor to a game. Do your starships operate via massive thrusters or diaphanous sails that catch the sun’s light? Do they fold space and time, or are they giant space-faring creatures that passengers stow away inside like Jonah and the whale? And does it take days, years, or generations for the vessel to reach another world?<br /><br /> <b>Spells</b>: Teleportation spells are important to consider when establishing extraplanetary locations. Can a wizard simply cast <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=greater teleport"><i>greater teleport</i></a> or <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=wish"><i>wish</i></a>, or is more required to reach the stars? Be warned that easy access to the galaxy brings a host of concerns—such as why, if interplanetary travel is easy, aliens aren’t thronging your base world.<br /><h1 class="title"><a href="Rules.aspx?ID=771">Extraterrestrials</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 165</i></a><br />When creating alien races, first decide how alien you want them to be. Strangely colored humanoids serve their purpose, but given the biodiversity on even one world, why not try something bizarre? Are they blobs of floating protoplasm, built for grazing on gas giants? Sentient viruses? Bug-like cyborgs? Once you’ve come up with a basic idea, consider how the aliens’ evolution informs their society and thought processes. Do they have a sense of right and wrong, or life and death? Do they have a sense of property? Are they part of a hive mind, and if so, are they capable of understanding free will and individual culpability? Most importantly, what are their intentions toward your PCs’ world—are they benevolent “angels,” or planet-killing Old Ones? By making your aliens different from the races of your base world, you create a chance for your players—and yourself—to boldly go where you’ve never gone before.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

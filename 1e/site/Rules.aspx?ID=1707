@@ -1,0 +1,280 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Using the Individual Influence System - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Using the Individual Influence System" /><meta name="description" content="Individual influence is great for situations such as high-stakes auctions, political lobbying, or convincing a guard to let the PCs go after they are framed and imprisoned. The following example uses the influence rules as the framework for a classic murder mystery." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=1707" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXLUzx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTY4MCI+TWFzdGVyaW5nIEludHJpZ3VlPC9hPjwvdT4gLyA8dT48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE2OTQiPkluZmx1ZW5jZTwvYT48L3U+PGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNzA3Ij5Vc2luZyB0aGUgSW5kaXZpZHVhbCBJbmZsdWVuY2UgU3lzdGVtPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5ajZwP1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1VbHRpbWF0ZS1JbnRyaWd1ZQ0KIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlVsdGltYXRlIEludHJpZ3VlIHBnLiAxMDg8L2k+PC9hPjxiciAvPkluZGl2aWR1YWwgaW5mbHVlbmNlIGlzIGdyZWF0IGZvciBzaXR1YXRpb25zIHN1Y2ggYXMgaGlnaC1zdGFrZXMgYXVjdGlvbnMsIHBvbGl0aWNhbCBsb2JieWluZywgb3IgY29udmluY2luZyBhIGd1YXJkIHRvIGxldCB0aGUgUENzIGdvIGFmdGVyIHRoZXkgYXJlIGZyYW1lZCBhbmQgaW1wcmlzb25lZC4gVGhlIGZvbGxvd2luZyBleGFtcGxlIHVzZXMgdGhlIGluZmx1ZW5jZSBydWxlcyBhcyB0aGUgZnJhbWV3b3JrIGZvciBhIGNsYXNzaWMgbXVyZGVyIG15c3RlcnkuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xNzA4Ij5TZXR0aW5nIHRoZSBTY2VuZTwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWo2cD9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtVWx0aW1hdGUtSW50cmlndWUNCiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5VbHRpbWF0ZSBJbnRyaWd1ZSBwZy4gMTA4PC9pPjwvYT48YnIgLz5UaGUgUENzIGhhdmUgYmVlbiBpbnZpdGVkIHRvIGEgZGF5IG9mIGZlc3Rpdml0aWVzIGF0IHRoZSBlc3RhdGUgb2YgdGhlIGhvc3Rlc3MgdG8gZGlzY3VzcyB0cmFkZSBhZ3JlZW1lbnRzIGFuZCBhY2Nlc3MgdG8gZXhvdGljIG1hcmtldHMuIFRoZSBob3N0ZXNzIG1lZXRzIHRoZSBQQ3Mgd2hlbiB0aGV5IGFycml2ZSBsYXRlIGF0IG5pZ2h0LCBzaGFyaW5nIGEgZHJpbmsgd2l0aCB0aGVtIGJlZm9yZSBhc2tpbmcgYSBzZXJ2YW50IHRvIHNob3cgdGhlbSB0byB0aGVpciByb29tcyBpbiB0aGUgbmVhcmJ5IGd1ZXN0IGhvdXNlIChhbGxvdyBhIHNpbmdsZSBwaGFzZSBvZiBpbmZsdWVuY2Ugb3IgZGlzY292ZXJ5IGNoZWNrcyBhZ2FpbnN0IGhlciBkdXJpbmcgdGhpcyB0aW1lIGZvciB0aGUgb3N0ZW5zaWJsZSBwdXJwb3NlIG9mIHRyYWRlIGFncmVlbWVudHMpLiBIb3dldmVyLCBieSB0aGUgc3RhcnQgb2YgZmVzdGl2aXRpZXMgdGhlIG5leHQgbW9ybmluZywgZGlzYXN0ZXIgc3RyaWtlcy4gQSBmZXcgbWludXRlcyBhZnRlciB0aGUgUENzIGFuZCBvdGhlciBndWVzdHMgYmVnaW4gYXJyaXZpbmcgZm9yIGJyZWFrZmFzdCwgZ3JlZXRlZCBieSB0aGUgaG9zdGVzc+KAmXMgc2Vjb25kIGh1c2JhbmQsIHRoZSBidXRsZXIgZGlzY292ZXJzIHRoZSBob3N0ZXNz4oCZcyBib2R5LiBBIGJyaWVmIGFyZ3VtZW50IGVuc3Vlcywgd2l0aCBhbGwgdGhlIE5QQ3MgKGFuZCBwb3NzaWJseSB0aGUgUENzIGFzIHdlbGwpIGJpY2tlcmluZyBhYm91dCB3aG8gc2hvdWxkIGludmVzdGlnYXRlIGFuZCB3aG8gbWlnaHQganVzdCBiZSB0cnlpbmcgdG8gaGlkZSBldmlkZW5jZSBvZiB0aGUgY3JpbWUuIEV2ZW50dWFsbHksIHRoZSBOUENzIGFncmVlIHRoYXQgZ3VhcmRzIHNob3VsZCBhY2NvbXBhbnkgZXZlcnkgcGVyc29uIHdobyBsZWF2ZXMgdGhlIGRyYXdpbmcgcm9vbSwgYW5kIHRoZSBvcHBvcnR1bml0eSBmb3IgaW5mbHVlbmNlIGJlZ2lucy4gVGhlIFBDcyBoYXZlIGEgdG90YWwgb2YgZm91ciBwaGFzZXMgaW4gd2hpY2ggdG8gaW5mbHVlbmNlIHRoZSBOUENzIGFuZCBjb25kdWN0IHRoZWlyIG93biBpbnZlc3RpZ2F0aW9ucyAodW5kZXIgdGhlIGd1YXJkc+KAmSB3YXRjaGZ1bCBleWVzKS48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTE3MDkiPldoYXQgSGFwcGVuZWQ8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTlqNnA/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVVsdGltYXRlLUludHJpZ3VlDQoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+VWx0aW1hdGUgSW50cmlndWUgcGcuIDEwODwvaT48L2E+PGJyIC8+VGhlIGhvc3Rlc3PigJlzIGNsb3NlIGZyaWVuZCBpcyBpbiBzZXJpb3VzIGZpbmFuY2lhbCB0cm91YmxlLCB3aGljaCBzaGUgaGFzIGhpZGRlbiwgY29udGludWluZyB0byBwcmVzZW50IGEgdmVuZWVyIG9mIHdlYWx0aC4gVG8gZnVuZCBoZXIgY29udGludWVkIGxpZmVzdHlsZSwgc2hlIGJlZ2FuIHRvIHN0ZWFsIGZyb20gdGhlIGhvc3Rlc3MuIFdoZW4gdGhlIGhvc3Rlc3MgY2F1Z2h0IGhlciBpbiB0aGUgYWN0LCB0aGUgY2xvc2UgZnJpZW5kIGxhc2hlZCBvdXQgd2l0aCBhIG5lYXJieSBvYmplY3QgYW5kIGFjY2lkZW50YWxseSBraWxsZWQgdGhlIGhvc3Rlc3MuIEhvcnJpZmllZCBhdCB3aGF0IHNoZSBoYWQgZG9uZSBhbmQgYWZyYWlkIG9mIGJlaW5nIGNhdWdodCwgdGhlIGNsb3NlIGZyaWVuZCBjbGVhbmVkIHVwIHRoZSBibG9vZCwgdGhlbiBhY3RpdmF0ZWQgYSBzY3JvbGwgb2YgZHJlc3MgY29ycHNlIChzZWUgcGFnZSAyMTIpIGZyb20gdGhlIGhvc3Rlc3PigJlzIGZpcnN0IGh1c2JhbmTigJlzIHN1cHBseSBvZiBzY3JvbGxzLCBhcHBsaWVkIHBvaXNvbiBzdG9sZW4gZnJvbSB0aGUgYnV0bGVy4oCZcyBzdXBwbGllcywgYW5kIG1vdmVkIHRoZSBib2R5IHRvIHRoZSBiZWRyb29tLCBhbGwgd2hpbGUgYXZvaWRpbmcgdGhlIG5pZ2h0IGd1YXJkcyB0aHJvdWdoIGhlciBjYXJlZnVsIHN0dWR5IG9mIHRoZWlyIHBhdHRlcm5zIHVzZWQgdG8gYXNzaXN0IGhlciBwcmV2aW91cyBsYXJjZW55LjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTcxMCI+VGhlIFZhbHVlIG9mIEluZmx1ZW5jZTwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWo2cD9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtVWx0aW1hdGUtSW50cmlndWUNCiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5VbHRpbWF0ZSBJbnRyaWd1ZSBwZy4gMTA4PC9pPjwvYT48YnIgLz5JbmZsdWVuY2VkIE5QQ3MgYWxsb3cgdGhlIFBDcyBhY2Nlc3MgdG8gYWRkaXRpb25hbCBjbHVlcyBvciByZXN0cmljdGVkIGFyZWFzLCBhcyBtZW50aW9uZWQgaW4gdGhlaXIgc29jaWFsIHN0YXQgYmxvY2tzLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTcxMSI+RHJhbWF0aXMgUGVyc29uYWU8L2E+PC9oMT48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTlqNnA/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVVsdGltYXRlLUludHJpZ3VlDQoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+VWx0aW1hdGUgSW50cmlndWUgcGcuIDEwODwvaT48L2E+PGJyIC8+VGhlIGZvbGxvd2luZyBjaGFyYWN0ZXJzIGFyZSBhdmFpbGFibGUgZm9yIGluZmx1ZW5jZSBkdXJpbmcgdGhlIG11cmRlciBteXN0ZXJ5ICh0aGUgaG9zdGVzcyBpcyBub3QgYXZhaWxhYmxlLCBhcyBzaGUgaXMgZGVhZCk6IHRoZSBzcHksIHRoZSBidXRsZXIsIHRoZSBjbG9zZSBmcmllbmQsIHRoZSByaXZhbCBpbnZlc3RpZ2F0b3IsIGFuZCB0aGUgc2Vjb25kIGh1c2JhbmQuIFRoZSBzcHkgaXMgdGhlIG1vc3QgY29tcGxpY2F0ZWQgKHNpbmNlIHNoZSBoYXMgYSBzZWNyZXQgaWRlbnRpdHkpLCBhbmQgaGVyIHNvY2lhbCBzdGF0IGJsb2NrIGNhbiBiZSBmb3VuZCBiZWxvdy4gVGhlIG90aGVycyBoYXZlIGRlc2NyaXB0aW9ucyB0byBhc3Npc3QgaW4gYnVpbGRpbmcgdGhlaXIgc29jaWFsIHN0YXQgYmxvY2tzLjxiciAvPjxiciAvPiA8aDIgY2xhc3M9InRpdGxlIj5UaGUgU3B5PC9oMz48YnIgLz48YnIgLz4gQ04gZmVtYWxlIGh1bWFuIHJvZ3VlIDxiciAvPjxiPkFmZmlsaWF0aW9uPC9iPiBUaGUgc3B5IGlzIG9zdGVuc2libHkgYSBtaW5vciBtZW1iZXIgb2YgYSBsaXR0bGVrbm93biBub2JsZSBob3VzZS4gPGJyIC8+PGI+U2VjcmV0IElkZW50aXR5PC9iPiBUaGUgc3B5IGlzIHJlYWxseSBhbiBhZ2VudCBmb3IgYSBtb3JhbGx5IGR1YmlvdXMgbWVyY2hhbnQgY29uc29ydGl1bS4gPGJyIC8+PGI+QmFja2dyb3VuZDwvYj4gVGhlIHNweSBjbGFpbXMgdG8gYmUgYSByZXByZXNlbnRhdGl2ZSBvZiBhIGZpY3RpdGlvdXMgbm9ibGUgaG91c2UgdGhhdCBzaGUgaW52ZW50ZWQgdG8gZ2FpbiBhY2Nlc3MgdG8gdGhlIGhvc3Rlc3PigJlzIGVzdGF0ZSBhbmQgZ2F0aGVyIGluZm9ybWF0aW9uIGZvciBoZXIgcGF0cm9uLiBBbHRob3VnaCBzaGUgd2FzIHNweWluZyBvbiB0aGUgaG9zdGVzc+KAmXMgaG91c2UsIHNoZSB2aWV3cyBoZXIgYWN0aW9ucyBhcyBzdHJpY3RseSBwcm9mZXNzaW9uYWwuIFNoZSBib3JlIG5vIGlsbCB3aWxsIHRvd2FyZCB0aGUgbGFkeSBvZiB0aGUgaG91c2UsIGFuZCBpcyBob3JyaWZpZWQgYnkgaGVyIGRlYXRoLiA8YnIgLz48Yj5SZWNvZ25pemU8L2I+IEtub3dsZWRnZSAobm9iaWxpdHkpIERDIDIwIHRvIHJlY29nbml6ZSBoZXIgbm9ibGUgY292ZXIgaWRlbnRpdHkgKGFzIHNoZSBoYXMgYmVlbiBzZWVkaW5nIHN0b3JpZXMgYWJvdXQgaGVyIGNvdmVyIGlkZW50aXR5IGFuZCB0aGUgZmFtaWx5IHNoZSBpbnZlbnRlZCkuPGJyIC8+PGJyIC8+IDxoMyBjbGFzcz0iZnJhbWluZyI+RGVzY3JpcHRpb248L2gzPjxiciAvPjxiciAvPiA8Yj5BcHBlYXJhbmNlPC9iPiBUaGlzIG1pZGRsZS1hZ2VkIGh1bWFuIHdvbWFuIHdlYXJzIGEgcmljaCBncmVlbiBub2JsZeKAmXMgZ293biwgYSBzZXQgb2YgdmFsdWFibGUgYnV0IHRhc3RlZnVsIGVtZXJhbGQtYW5kLSBnb2xkIGpld2VscnksIGFuZCBhIHBhaXIgb2YgZ29sZC1maWxpZ3JlZWQgc2hvZXMuIFNoZSBjYXJyaWVzIGEgc2lsayBmYW4gdGhhdCBtYXRjaGVzIGhlciBnb3duLiA8YnIgLz48Yj5JbnRyb2R1Y3Rpb248L2I+IElmIGF0IGxlYXN0IG9uZSBvZiB0aGUgUENzIGFwcGVhcnMgdG8gYmUgYSBub2JsZSwgc2hlIGludHJvZHVjZXMgaGVyc2VsZiB0byB0aGF0IFBDIHRoZSBtb3JuaW5nIGFmdGVyIHRoZSBtdXJkZXIuIFNoZSBpcyB2aXNpYmx5IGRpc3RyYXVnaHQgYXQgdGhlIGhvc3Rlc3PigJlzIGRlYXRoLCBhbmQgd2F2ZXMgaGVyIGZhbiBicmlza2x5IGluIGFuIGF0dGVtcHQgdG8gZ2V0IG1vcmUgYWlyLiBTaGUgKHRydXRoZnVsbHkpIGV4cGxhaW5zIHRvIHRoZSBQQ3MgdGhhdCBzaGUgaGFzIGJlZW4gdG8gc2V2ZXJhbCBvZiB0aGUgaG9zdGVzc+KAmXMgcGFydGllcywgYW5kIHdhcyBsb29raW5nIGZvcndhcmQgdG8gZnVydGhlcmluZyB0aGUgYWxsaWFuY2UgYmV0d2VlbiB0aGVpciBob3VzZXMuIElmIG5vbmUgb2YgdGhlIFBDcyBhcHBlYXJzIHRvIGJlIGEgbm9ibGUsIHNoZSByZW1haW5zIGFsb29mIHVudGlsIGEgUEMgYXBwcm9hY2hlcyBoZXIuIDxiciAvPjxiPlBlcnNvbmFsaXR5PC9iPiBUaGUgc3B5IGlzIGN1bm5pbmcsIGhhdWdodHksIGFuZCBzZWNyZXRpdmUuIDxiciAvPjxiPkdvYWw8L2I+IEVuc3VyZSB0aGF0IHRoZSBtdXJkZXJlciBpcyBmb3VuZCBndWlsdHkuIDxiciAvPjxiPkhpZGRlbiBBZ2VuZGE8L2I+IEVuc3VyZSB0aGF0IGhlciBvd24gc25vb3BpbmcgaW4gdGhlIGhvdXNl4oCZcyByZWNvcmRzIGRvZXMgbm90IGNvbWUgdG8gbGlnaHQsIGFuZCBpZiBpdCBkb2VzLCB0aGF0IHNoZSBkb2VzIG5vdCB0YWtlIHRoZSBmYWxsIGZvciB0aGUgbXVyZGVyLiA8YnIgLz48Yj5CaWFzZXM8L2I+IFRoZSBzcHkgaGFzIGEgYmlhcyB0b3dhcmQgbWVyY2hhbnRzIGFuZCBub2JsZXMgKCsyKSBhbmQgYSBiaWFzIGFnYWluc3QgYWdlbnRzIG9mIGxhdywgc3VjaCBhcyBwYWxhZGlucywgbGF3eWVycywgYW5kIGd1YXJkcyAo4oCTMikuIDxiciAvPjxiPlNraWxsczwvYj4gQmx1ZmYgKzE2LCBEaXNndWlzZSArMTYsIFBlcmNlcHRpb24gKzE1LCBTZW5zZSBNb3RpdmUgKzE1LCBTbGVpZ2h0IG9mIEhhbmQgKzEyPGJyIC8+PGJyIC8+IDxoMyBjbGFzcz0iZnJhbWluZyI+RGlzY292ZXJ5PC9oMz48YnIgLz48YnIgLz4gPGI+QW5hbHl6ZSAoU2Vuc2UgTW90aXZlIERDIDIwKTwvYj4gVGhlIGZhc3Rlc3Qgd2F5IHRvIGdhaW4gdGhlIHNweeKAmXMgcmVzcGVjdCBpcyB0byBkZW1vbnN0cmF0ZSBza2lsbCBhdCB0cmFkZSAoUHJvZmVzc2lvbiBbbWVyY2hhbnRdKS4gUENzIHdobyBzdWNjZWVkIGF0IGEgS25vd2xlZGdlIChub2JpbGl0eSkgb3IgQmx1ZmYgY2hlY2sgdG8gaW1wcmVzcyBoZXIgd2l0aCB0aGVpciBjaXZpbGl0eSBjYW4gaW5mbHVlbmNlIGhlci4gU2hlIGlzIGltcHJlc3NlZCBieSBkZXh0ZXJvdXMgcGFybG9yIHRyaWNrcyBhbmQgc2tpbGxlZCBsZWdlcmRlbWFpbiBpbnZvbHZpbmcgU2xlaWdodCBvZiBIYW5kLiBGaW5hbGx5LCB0aGUgc3B5IGlzIHdlbGwgdmVyc2VkIGluIHBlcnN1YXNpdmUgYXJndW1lbnRzIGFuZCBzd2VldC10YWxraW5nLCBzbyBEaXBsb21hY3kgaXMgdGhlIG1vc3QgZGlmZmljdWx0IHdheSB0byBpbmZsdWVuY2UgaGVyLiA8YnIgLz48Yj5TdHJlbmd0aHMgKFNlbnNlIE1vdGl2ZSBEQyAyMCk8L2I+IFRoZSBzcHkgZG9lcyBub3QgYXBwcmVjaWF0ZSBiZWluZyBpbnRpbWlkYXRlZCBvciB0aHJlYXRlbmVkLCBhbmQgaGVyIHRyYWluaW5nIGFzIGEgc3B5IGhhcyBwcmVwYXJlZCBoZXIgdG8gZGVmbGVjdCB0aGVzZSBhcHByb2FjaGVzLiBBIFBDIHdobyBpbmNsdWRlcyBhIHRocmVhdCBpbiBhbiBpbmZsdWVuY2UgY2hlY2sgYWdhaW5zdCBoZXIgdGFrZXMgYSDigJM0IHBlbmFsdHkgb24gdGhlIGNoZWNrLiA8YnIgLz48Yj5XZWFrbmVzc2VzIChTZW5zZSBNb3RpdmUgREMgMjApPC9iPiBUaGUgc3B5IGFwcHJlY2lhdGVzIHRob3NlIHdobyBhcmUgbm90IHN0aWNrbGVycyBmb3IgdGhlIHJ1bGVzIGFuZCB3aG8gdW5kZXJzdGFuZCB0aGF0IGJ1c2luZXNzIGZsb3VyaXNoZXMgaW4gZ3JheSBhcmVhcy4gU2hlIGFsc28gYXBwcmVjaWF0ZXMgdGhvc2Ugd2hvIHRydXRoZnVsbHkgKG9yIHdpdGggYSBiZWxpZXZhYmxlIGxpZSkgY2xhaW0gdGhhdCB0aGV5IGRvbuKAmXQgc3VzcGVjdCBoZXIgb2YgdGhlIG11cmRlci48YnIgLz48YnIgLz4gPGgzIGNsYXNzPSJmcmFtaW5nIj5JbmZsdWVuY2U8L2gzPjxiciAvPjxiciAvPiA8Yj5JbmZsdWVuY2UgQ2hlY2tzPC9iPiBQcm9mZXNzaW9uIChtZXJjaGFudCkgREMgMTU7IEJsdWZmLCBLbm93bGVkZ2UgKG5vYmlsaXR5KSwgb3IgU2xlaWdodCBvZiBIYW5kIERDIDIwOyBEaXBsb21hY3kgREMgMjUgPGJyIC8+PGI+U3VjY2Vzc2VzPC9iPiBOZWVkZWQgMyBjaGVja3MgPGJyIC8+PGI+QmVuZWZpdDwvYj4gSWYgdGhlIFBDcyBpbmZsdWVuY2UgdGhlIHNweSwgc2hlIHRlbGxzIHRoZSBQQ3Mgc2hlIGhlYXJkIGEgY3Jhc2hpbmcgc291bmQgZnJvbSB0aGUgZGlyZWN0aW9uIG9mIHRoZSBkcmF3aW5nIHJvb20gb24gdGhlIG5pZ2h0IG9mIHRoZSBtdXJkZXIuIFNoZSBzYXlzIHNoZSB3YXMgaGF2aW5nIHRyb3VibGUgc2xlZXBpbmcgdGhhdCBuaWdodCwgYW5kIHdhcyBhd2FrZSBpbiBoZXIgcm9vbS4gSWYgdGhlIFBDcyBwcmVzZW50IHByb29mIHRoYXQgc2hlIGlzIGx5aW5nIGFib3V0IGhlciB3aGVyZWFib3V0cywgc2hlIGFkbWl0cyB0aGF0IHNoZSB3YXMgaW4gdGhlIHJlY29yZHMgcm9vbeKAlHRob3VnaCBzaGUgZG9lcyBub3QgYWRtaXQgdG8gaGVyIGFsbGVnaWFuY2Ugb3Igd2hhdCBzaGUgd2FzIHNlYXJjaGluZyBmb3IgaW4gcGFydGljdWxhcuKAlGFuZCBvZmZlcnMgdG8gYWlkIHRoZSBQQ3MgaW4gdGhlaXIgaW52ZXN0aWdhdGlvbiBpbiBleGNoYW5nZSBmb3IgdGhlaXIgYWdyZWVtZW50IG5vdCB0byBkaXNjbG9zZSBoZXIgYWN0aXZpdGllcyB0aGF0IG5pZ2h0LiA8YnIgLz48Yj5QZW5hbHR5PC9iPiBJZiB0aGUgc3B5IGxlYXJucyB0aGF0IHRoZSBQQ3MgaGF2ZSBkaXNjb3ZlcmVkIGhlciBzbm9vcGluZyBhbmQgdGhhdCB0aGV5IGFyZSB0ZWxsaW5nIG90aGVyIE5QQ3MsIHNoZSBwbGFudHMgYSBjbHVlIHRoYXQgaW1wbGljYXRlcyB0aGUgUENzIGluIHRoZSBtdXJkZXIuPGJyIC8+PGJyIC8+IDxoMiBjbGFzcz0idGl0bGUiPlRoZSBCdXRsZXI8L2gyPiBUaGUgYnV0bGVyIGlzIGFjdHVhbGx5IGFuIGFjY29tcGxpc2hlZCBhbGNoZW1pc3QsIGFuZCB0aHVzIGFsc28gc2VydmVzIGFzIGEgZG9jdG9yLiBJZiBpbmZsdWVuY2VkLCBzaGUgYWxsb3dzIHRoZSBQQ3MgdG8gc2VhcmNoIGhlciBwcml2YXRlIHJlc2VhcmNoIHJvb20gd2hpbGUgc2hlIG9ic2VydmVzLiBUaGUgYnV0bGVyIGtlZXBzIHBvaXNvbnMgZm9yIG1lZGljaW5hbCBwdXJwb3Nlcy4gVGhlIHBvaXNvbiB0aGUgcmVhbCBtdXJkZXJlciB1c2VkIGFzIGEgY292ZXIgY2FtZSBmcm9tIHRoZSBidXRsZXLigJlzIHN1cHBseS4gVGhlIGJ1dGxlciBjbGFpbXMgdGhhdCBzb21lIG9mIGhlciBwb2lzb25zIGFuZCBtZWRpY2luZXMgaGF2ZSBnb25lIG1pc3NpbmcsIGhvd2V2ZXIgKHdoaWNoIGlzIHRydWUsIHNpbmNlIHRoZSBjbG9zZSBmcmllbmQgaGFzIGJlZW4gc3RlYWxpbmcgbWVkaWNhbCBzdXBwbGllcyB0byBzZWxsKS4gVW50aWwgdGhlIFBDcyBpbmZsdWVuY2UgaGVyLCBzaGUgc3VzcGVjdHMgdGhhdCB0aGUgdGhpZWYgbWlnaHQgaGF2ZSBiZWVuIHRoZSBQQ3MuIDxoMiBjbGFzcz0idGl0bGUiPlRoZSBDbG9zZSBGcmllbmQ8L2gyPiBBcyBtZW50aW9uZWQgZWFybGllciwgdGhlIGNsb3NlIGZyaWVuZCBpcyB0aGUgbXVyZGVyZXIuIFNoZSBpcyBnZW51aW5lbHkgZGlzdHJhdWdodCBhYm91dCB0aGUgc2l0dWF0aW9uIGFuZCBmdWxsIG9mIGdyaWVmIG92ZXIgaGVyIGZyaWVuZOKAmXMgZGVhdGguIEhvd2V2ZXIsIHNoZSBkb2VzIGhlciBiZXN0IHRvIGF2b2lkIGJlaW5nIGNhdWdodC4gU2hlIGZlaWducyBiZWluZyBpbmZsdWVuY2VkIHF1aWNrbHkgKGFmdGVyIG9uZSBhcHBhcmVudCBzdWNjZXNzKSBhbmQgb2ZmZXJzIHRvIGhlbHAgdGhlIFBDcyBpbnZlc3RpZ2F0ZSBvciBpbmZsdWVuY2Ugb3RoZXJzLiA8aDIgY2xhc3M9InRpdGxlIj5UaGUgUml2YWwgSW52ZXN0aWdhdG9yPC9oMj4gVGhlIGhvc3Rlc3PigJlzIGFjY291bnRhbnQgaXMgYWxzbyBhIGZhbiBvZiBkZXRlY3RpdmUgc3RvcmllcyBhbmQgZmFuY2llcyBoZXJzZWxmIGFuIGFtYXRldXIgaW52ZXN0aWdhdG9yLiBFeHRyZW1lbHkgZGV0YWlsLW9yaWVudGVkLCBzaGUgbm90aWNlZCB0aGUgdXNlIG9mIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1kcmVzcyBjb3Jwc2UiPjxpPmRyZXNzIGNvcnBzZTwvaT48L2E+LCBrZWVwaW5nIGl0IHRvIGhlcnNlbGYuIFNoZSBzdXNwZWN0cyB0aGUgUENzIGJlY2F1c2Ugbm8gb25lIGVsc2UgcHJlc2VudCBzaG91bGQgaGF2ZSBoYWQgYWNjZXNzIHRvIHRoZSBzb3J0IG9mIG1hZ2ljIGFkdmVudHVyZXJzIGRvLCBhbmQgYWR2ZW50dXJlcnMgYXJlIGtub3duIHRvIGtpbGwgcGVvcGxlIHdpdGggd2VhcG9ucywgcmF0aGVyIHRoYW4gZXhwZW5zaXZlIHBvaXNvbi4gU2hlIGlzIGV4dHJlbWVseSBhbnRhZ29uaXN0aWMgdG93YXJkIHRoZSBQQ3MsIGF0dGVtcHRpbmcgdG8gZGVueSB0aGVtIGFjY2VzcyBhdCBldmVyeSB0dXJuLiBUaGV5IGNhbuKAmXQgaW5mbHVlbmNlIGhlciB3aXRob3V0IHN1ZmZpY2llbnQgZXZpZGVuY2UgdGhhdCB0aGV5IGhhdmUgYmVlbiBmcmFtZWQgKGV2aWRlbmNlIHRoYXQgdGhleSBjb25jbHVzaXZlbHkgZGlkbuKAmXQgcGxhbnQpLCBidXQgb25jZSB0aGV5IGRvLCBzaGUgYWxsb3dzIHRoZW0gYWNjZXNzIHRvIHRoZSByZWNvcmRzIHJvb20gYW5kIHNoYXJlcyB0aGUgY2x1ZXMgc2hlIGhhcyBkaXNjb3ZlcmVkIHNvIGZhciAoaW5jbHVkaW5nIHRoZSByZW1haW5zIG9mIHRoZSBibG9vZHN0YWluIGF0IHRoZSB0cnVlIG11cmRlciBzY2VuZSwgaWYgdGhlIFBDcyBoYXZlbuKAmXQgbm90aWNlZCBpdCB5ZXQpLiA8aDIgY2xhc3M9InRpdGxlIj5UaGUgU2Vjb25kIEh1c2JhbmQ8L2gyPiBUaGUgc2Vjb25kIGh1c2JhbmQgc3RhbmRzIHRvIGluaGVyaXQgdGhlIGhvc3Rlc3PigJlzIHZhc3QgZm9ydHVuZSBiZWNhdXNlIHNoZSBuZXZlciBoYWQgY2hpbGRyZW4uIEhlIGlzIGxlZ2l0aW1hdGVseSBkaXN0cmF1Z2h0IGJ5IGhlciBkZWF0aC4gVGhlIHNlY29uZCBodXNiYW5kIGlzIGtub3duIHRvIGhhdmUgaW5zb21uaWEgYW5kIHdhcyBvdXQgb2YgaGlzIGJlZHJvb20gZm9yIHRoZSBlbnRpcmUgbmlnaHQuIEhlIHdhcyBpbiB0aGUgZ2FyZGVuIGF0IHRoZSB0aW1lIG9mIHRoZSBtdXJkZXIsIHNvIGhlIGRpZG7igJl0IG5vdGljZSBhbnl0aGluZy4gSWYgdGhlIFBDcyBnYWluIHN3YXkgb3ZlciBoaW0sIGhlIGFsbG93cyB0aGVtIGZ1bGwgYWNjZXNzIHRvIHRoZSBiZWRyb29tICh0aGUgYXBwYXJlbnQgbXVyZGVyIHNjZW5lKS5kZGQT4yG0V4dOp8G95LMYk6Hybj1p86ZghDTTq3UbyZRnfg==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1680">Mastering Intrigue</a></u> / <u><a href="Rules.aspx?ID=1694">Influence</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=1707">Using the Individual Influence System</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9j6p?Pathfinder-Roleplaying-Game-Ultimate-Intrigue
+" target="_blank" class="external-link"><i>Ultimate Intrigue pg. 108</i></a><br />Individual influence is great for situations such as high-stakes auctions, political lobbying, or convincing a guard to let the PCs go after they are framed and imprisoned. The following example uses the influence rules as the framework for a classic murder mystery.<br /><h1 class="title"><a href="Rules.aspx?ID=1708">Setting the Scene</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9j6p?Pathfinder-Roleplaying-Game-Ultimate-Intrigue
+" target="_blank" class="external-link"><i>Ultimate Intrigue pg. 108</i></a><br />The PCs have been invited to a day of festivities at the estate of the hostess to discuss trade agreements and access to exotic markets. The hostess meets the PCs when they arrive late at night, sharing a drink with them before asking a servant to show them to their rooms in the nearby guest house (allow a single phase of influence or discovery checks against her during this time for the ostensible purpose of trade agreements). However, by the start of festivities the next morning, disaster strikes. A few minutes after the PCs and other guests begin arriving for breakfast, greeted by the hostess’s second husband, the butler discovers the hostess’s body. A brief argument ensues, with all the NPCs (and possibly the PCs as well) bickering about who should investigate and who might just be trying to hide evidence of the crime. Eventually, the NPCs agree that guards should accompany every person who leaves the drawing room, and the opportunity for influence begins. The PCs have a total of four phases in which to influence the NPCs and conduct their own investigations (under the guards’ watchful eyes).<br /><h1 class="title"><a href="Rules.aspx?ID=1709">What Happened</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9j6p?Pathfinder-Roleplaying-Game-Ultimate-Intrigue
+" target="_blank" class="external-link"><i>Ultimate Intrigue pg. 108</i></a><br />The hostess’s close friend is in serious financial trouble, which she has hidden, continuing to present a veneer of wealth. To fund her continued lifestyle, she began to steal from the hostess. When the hostess caught her in the act, the close friend lashed out with a nearby object and accidentally killed the hostess. Horrified at what she had done and afraid of being caught, the close friend cleaned up the blood, then activated a scroll of dress corpse (see page 212) from the hostess’s first husband’s supply of scrolls, applied poison stolen from the butler’s supplies, and moved the body to the bedroom, all while avoiding the night guards through her careful study of their patterns used to assist her previous larceny.<br /><h1 class="title"><a href="Rules.aspx?ID=1710">The Value of Influence</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9j6p?Pathfinder-Roleplaying-Game-Ultimate-Intrigue
+" target="_blank" class="external-link"><i>Ultimate Intrigue pg. 108</i></a><br />Influenced NPCs allow the PCs access to additional clues or restricted areas, as mentioned in their social stat blocks.<br /><h1 class="title"><a href="Rules.aspx?ID=1711">Dramatis Personae</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9j6p?Pathfinder-Roleplaying-Game-Ultimate-Intrigue
+" target="_blank" class="external-link"><i>Ultimate Intrigue pg. 108</i></a><br />The following characters are available for influence during the murder mystery (the hostess is not available, as she is dead): the spy, the butler, the close friend, the rival investigator, and the second husband. The spy is the most complicated (since she has a secret identity), and her social stat block can be found below. The others have descriptions to assist in building their social stat blocks.<br /><br /> <h2 class="title">The Spy</h3><br /><br /> CN female human rogue <br /><b>Affiliation</b> The spy is ostensibly a minor member of a littleknown noble house. <br /><b>Secret Identity</b> The spy is really an agent for a morally dubious merchant consortium. <br /><b>Background</b> The spy claims to be a representative of a fictitious noble house that she invented to gain access to the hostess’s estate and gather information for her patron. Although she was spying on the hostess’s house, she views her actions as strictly professional. She bore no ill will toward the lady of the house, and is horrified by her death. <br /><b>Recognize</b> Knowledge (nobility) DC 20 to recognize her noble cover identity (as she has been seeding stories about her cover identity and the family she invented).<br /><br /> <h3 class="framing">Description</h3><br /><br /> <b>Appearance</b> This middle-aged human woman wears a rich green noble’s gown, a set of valuable but tasteful emerald-and- gold jewelry, and a pair of gold-filigreed shoes. She carries a silk fan that matches her gown. <br /><b>Introduction</b> If at least one of the PCs appears to be a noble, she introduces herself to that PC the morning after the murder. She is visibly distraught at the hostess’s death, and waves her fan briskly in an attempt to get more air. She (truthfully) explains to the PCs that she has been to several of the hostess’s parties, and was looking forward to furthering the alliance between their houses. If none of the PCs appears to be a noble, she remains aloof until a PC approaches her. <br /><b>Personality</b> The spy is cunning, haughty, and secretive. <br /><b>Goal</b> Ensure that the murderer is found guilty. <br /><b>Hidden Agenda</b> Ensure that her own snooping in the house’s records does not come to light, and if it does, that she does not take the fall for the murder. <br /><b>Biases</b> The spy has a bias toward merchants and nobles (+2) and a bias against agents of law, such as paladins, lawyers, and guards (–2). <br /><b>Skills</b> Bluff +16, Disguise +16, Perception +15, Sense Motive +15, Sleight of Hand +12<br /><br /> <h3 class="framing">Discovery</h3><br /><br /> <b>Analyze (Sense Motive DC 20)</b> The fastest way to gain the spy’s respect is to demonstrate skill at trade (Profession [merchant]). PCs who succeed at a Knowledge (nobility) or Bluff check to impress her with their civility can influence her. She is impressed by dexterous parlor tricks and skilled legerdemain involving Sleight of Hand. Finally, the spy is well versed in persuasive arguments and sweet-talking, so Diplomacy is the most difficult way to influence her. <br /><b>Strengths (Sense Motive DC 20)</b> The spy does not appreciate being intimidated or threatened, and her training as a spy has prepared her to deflect these approaches. A PC who includes a threat in an influence check against her takes a –4 penalty on the check. <br /><b>Weaknesses (Sense Motive DC 20)</b> The spy appreciates those who are not sticklers for the rules and who understand that business flourishes in gray areas. She also appreciates those who truthfully (or with a believable lie) claim that they don’t suspect her of the murder.<br /><br /> <h3 class="framing">Influence</h3><br /><br /> <b>Influence Checks</b> Profession (merchant) DC 15; Bluff, Knowledge (nobility), or Sleight of Hand DC 20; Diplomacy DC 25 <br /><b>Successes</b> Needed 3 checks <br /><b>Benefit</b> If the PCs influence the spy, she tells the PCs she heard a crashing sound from the direction of the drawing room on the night of the murder. She says she was having trouble sleeping that night, and was awake in her room. If the PCs present proof that she is lying about her whereabouts, she admits that she was in the records room—though she does not admit to her allegiance or what she was searching for in particular—and offers to aid the PCs in their investigation in exchange for their agreement not to disclose her activities that night. <br /><b>Penalty</b> If the spy learns that the PCs have discovered her snooping and that they are telling other NPCs, she plants a clue that implicates the PCs in the murder.<br /><br /> <h2 class="title">The Butler</h2> The butler is actually an accomplished alchemist, and thus also serves as a doctor. If influenced, she allows the PCs to search her private research room while she observes. The butler keeps poisons for medicinal purposes. The poison the real murderer used as a cover came from the butler’s supply. The butler claims that some of her poisons and medicines have gone missing, however (which is true, since the close friend has been stealing medical supplies to sell). Until the PCs influence her, she suspects that the thief might have been the PCs. <h2 class="title">The Close Friend</h2> As mentioned earlier, the close friend is the murderer. She is genuinely distraught about the situation and full of grief over her friend’s death. However, she does her best to avoid being caught. She feigns being influenced quickly (after one apparent success) and offers to help the PCs investigate or influence others. <h2 class="title">The Rival Investigator</h2> The hostess’s accountant is also a fan of detective stories and fancies herself an amateur investigator. Extremely detail-oriented, she noticed the use of <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=dress corpse"><i>dress corpse</i></a>, keeping it to herself. She suspects the PCs because no one else present should have had access to the sort of magic adventurers do, and adventurers are known to kill people with weapons, rather than expensive poison. She is extremely antagonistic toward the PCs, attempting to deny them access at every turn. They can’t influence her without sufficient evidence that they have been framed (evidence that they conclusively didn’t plant), but once they do, she allows them access to the records room and shares the clues she has discovered so far (including the remains of the bloodstain at the true murder scene, if the PCs haven’t noticed it yet). <h2 class="title">The Second Husband</h2> The second husband stands to inherit the hostess’s vast fortune because she never had children. He is legitimately distraught by her death. The second husband is known to have insomnia and was out of his bedroom for the entire night. He was in the garden at the time of the murder, so he didn’t notice anything. If the PCs gain sway over him, he allows them full access to the bedroom (the apparent murder scene).</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

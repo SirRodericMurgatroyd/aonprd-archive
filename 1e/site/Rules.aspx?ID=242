@@ -1,0 +1,270 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Divine Spells - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Divine Spells" /><meta name="description" content="Clerics, druids, experienced paladins, and experienced rangers can cast divine spells. Unlike arcane spells, divine spells draw power from a divine source. Clerics gain spell power from deities or from divine forces. The divine force of nature powers druid and ranger spells, and the divine forces of law and good power paladin spells. Divine spells tend to focus on healing and protection and are less flashy, destructive, and disruptive than arcane spells." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=242" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAWuMDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NjgiPk1hZ2ljPC9hPjwvdT48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTI0MiI+RGl2aW5lIFNwZWxsczwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweTg4eWoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UFJQRyBDb3JlIFJ1bGVib29rIHBnLiAyMjA8L2k+PC9hPjxiciAvPkNsZXJpY3MsIGRydWlkcywgZXhwZXJpZW5jZWQgcGFsYWRpbnMsIGFuZCBleHBlcmllbmNlZCByYW5nZXJzIGNhbiBjYXN0IGRpdmluZSBzcGVsbHMuIFVubGlrZSBhcmNhbmUgc3BlbGxzLCBkaXZpbmUgc3BlbGxzIGRyYXcgcG93ZXIgZnJvbSBhIGRpdmluZSBzb3VyY2UuIENsZXJpY3MgZ2FpbiBzcGVsbCBwb3dlciBmcm9tIGRlaXRpZXMgb3IgZnJvbSBkaXZpbmUgZm9yY2VzLiBUaGUgZGl2aW5lIGZvcmNlIG9mIG5hdHVyZSBwb3dlcnMgZHJ1aWQgYW5kIHJhbmdlciBzcGVsbHMsIGFuZCB0aGUgZGl2aW5lIGZvcmNlcyBvZiBsYXcgYW5kIGdvb2QgcG93ZXIgcGFsYWRpbiBzcGVsbHMuIERpdmluZSBzcGVsbHMgdGVuZCB0byBmb2N1cyBvbiBoZWFsaW5nIGFuZCBwcm90ZWN0aW9uIGFuZCBhcmUgbGVzcyBmbGFzaHksIGRlc3RydWN0aXZlLCBhbmQgZGlzcnVwdGl2ZSB0aGFuIGFyY2FuZSBzcGVsbHMuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0yNDMiPlByZXBhcmluZyBEaXZpbmUgU3BlbGxzPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5ODh5aiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QUlBHIENvcmUgUnVsZWJvb2sgcGcuIDIyMDwvaT48L2E+PGJyIC8+RGl2aW5lIHNwZWxsY2FzdGVycyBwcmVwYXJlIHRoZWlyIHNwZWxscyBpbiBsYXJnZWx5IHRoZSBzYW1lIG1hbm5lciBhcyB3aXphcmRzIGRvLCBidXQgd2l0aCBhIGZldyBkaWZmZXJlbmNlcy4gVGhlIHJlbGV2YW50IGFiaWxpdHkgZm9yIG1vc3QgZGl2aW5lIHNwZWxscyBpcyBXaXNkb20gKENoYXJpc21hIGZvciBwYWxhZGlucykuIFRvIHByZXBhcmUgYSBkaXZpbmUgc3BlbGwsIGEgY2hhcmFjdGVyIG11c3QgaGF2ZSBhIFdpc2RvbSBzY29yZSAob3IgQ2hhcmlzbWEgc2NvcmUgZm9yIHBhbGFkaW5zKSBvZiAxMCArIHRoZSBzcGVsbOKAmXMgbGV2ZWwuIExpa2V3aXNlLCBib251cyBzcGVsbHMgYXJlIGJhc2VkIG9uIFdpc2RvbS48YnIgLz48YnIgLz4gPGI+VGltZSBvZiBEYXk8L2I+OiBBIGRpdmluZSBzcGVsbGNhc3RlciBjaG9vc2VzIGFuZCBwcmVwYXJlcyBzcGVsbHMgYWhlYWQgb2YgdGltZSwgYnV0IHVubGlrZSBhIHdpemFyZCwgZG9lcyBub3QgcmVxdWlyZSBhIHBlcmlvZCBvZiByZXN0IHRvIHByZXBhcmUgc3BlbGxzLiBJbnN0ZWFkLCB0aGUgY2hhcmFjdGVyIGNob29zZXMgYSBwYXJ0aWN1bGFyIHRpbWUgb2YgZGF5IHRvIHByYXkgYW5kIHJlY2VpdmUgc3BlbGxzLiBUaGUgdGltZSBpcyB1c3VhbGx5IGFzc29jaWF0ZWQgd2l0aCBzb21lIGRhaWx5IGV2ZW50LiBJZiBzb21lIGV2ZW50IHByZXZlbnRzIGEgY2hhcmFjdGVyIGZyb20gcHJheWluZyBhdCB0aGUgcHJvcGVyIHRpbWUsIHNoZSBtdXN0IGRvIHNvIGFzIHNvb24gYXMgcG9zc2libGUuIElmIHRoZSBjaGFyYWN0ZXIgZG9lcyBub3Qgc3RvcCB0byBwcmF5IGZvciBzcGVsbHMgYXQgdGhlIGZpcnN0IG9wcG9ydHVuaXR5LCBzaGUgbXVzdCB3YWl0IHVudGlsIHRoZSBuZXh0IGRheSB0byBwcmVwYXJlIHNwZWxscy48YnIgLz48YnIgLz4gPGI+U3BlbGwgU2VsZWN0aW9uIGFuZCBQcmVwYXJhdGlvbjwvYj46IEEgZGl2aW5lIHNwZWxsY2FzdGVyIHNlbGVjdHMgYW5kIHByZXBhcmVzIHNwZWxscyBhaGVhZCBvZiB0aW1lIHRocm91Z2ggcHJheWVyIGFuZCBtZWRpdGF0aW9uIGF0IGEgcGFydGljdWxhciB0aW1lIG9mIGRheS4gVGhlIHRpbWUgcmVxdWlyZWQgdG8gcHJlcGFyZSBzcGVsbHMgaXMgdGhlIHNhbWUgYXMgaXQgaXMgZm9yIGEgd2l6YXJkICgxIGhvdXIpLCBhcyBpcyB0aGUgcmVxdWlyZW1lbnQgZm9yIGEgcmVsYXRpdmVseSBwZWFjZWZ1bCBlbnZpcm9ubWVudC4gV2hlbiBwcmVwYXJpbmcgc3BlbGxzIGZvciB0aGUgZGF5LCBhIGRpdmluZSBzcGVsbGNhc3RlciBjYW4gbGVhdmUgc29tZSBvZiBoZXIgc3BlbGwgc2xvdHMgb3Blbi4gTGF0ZXIgZHVyaW5nIHRoYXQgZGF5LCBzaGUgY2FuIHJlcGVhdCB0aGUgcHJlcGFyYXRpb24gcHJvY2VzcyBhcyBvZnRlbiBhcyBzaGUgbGlrZXMuIER1cmluZyB0aGVzZSBleHRyYSBzZXNzaW9ucyBvZiBwcmVwYXJhdGlvbiwgc2hlIGNhbiBmaWxsIHRoZXNlIHVudXNlZCBzcGVsbCBzbG90cy4gU2hlIGNhbm5vdCwgaG93ZXZlciwgYWJhbmRvbiBhIHByZXZpb3VzbHkgcHJlcGFyZWQgc3BlbGwgdG8gcmVwbGFjZSBpdCB3aXRoIGFub3RoZXIgb25lIG9yIGZpbGwgYSBzbG90IHRoYXQgaXMgZW1wdHkgYmVjYXVzZSBzaGUgaGFzIGNhc3QgYSBzcGVsbCBpbiB0aGUgbWVhbnRpbWUuIExpa2UgdGhlIGZpcnN0IHNlc3Npb24gb2YgdGhlIGRheSwgdGhpcyBwcmVwYXJhdGlvbiB0YWtlcyBhdCBsZWFzdCAxNSBtaW51dGVzLCBhbmQgaXQgdGFrZXMgbG9uZ2VyIGlmIHNoZSBwcmVwYXJlcyBtb3JlIHRoYW4gb25lLXF1YXJ0ZXIgb2YgaGVyIHNwZWxscy48YnIgLz48YnIgLz4gRGl2aW5lIHNwZWxsY2FzdGVycyBkbyBub3QgcmVxdWlyZSBzcGVsbGJvb2tzLiBIb3dldmVyLCBhIGRpdmluZSBzcGVsbGNhc3RlcuKAmXMgc3BlbGwgc2VsZWN0aW9uIGlzIGxpbWl0ZWQgdG8gdGhlIHNwZWxscyBvbiB0aGUgbGlzdCBmb3IgaGVyIGNsYXNzLiBDbGVyaWNzLCBkcnVpZHMsIHBhbGFkaW5zLCBhbmQgcmFuZ2VycyBoYXZlIHNlcGFyYXRlIHNwZWxsIGxpc3RzLiBBIGNsZXJpYyBhbHNvIGhhcyBhY2Nlc3MgdG8gdHdvIGRvbWFpbnMgZGV0ZXJtaW5lZCBkdXJpbmcgY2hhcmFjdGVyIGNyZWF0aW9uLiBFYWNoIGRvbWFpbiBnaXZlcyBoZXIgYWNjZXNzIHRvIGEgbnVtYmVyIG9mIHNwZWNpYWwgYWJpbGl0aWVzIGFuZCBib251cyBzcGVsbHMuPGJyIC8+PGJyIC8+IDxiPlNwZWxsIFNsb3RzPC9iPjogVGhlIGNoYXJhY3RlciBjbGFzcyB0YWJsZXMgc2hvdyBob3cgbWFueSBzcGVsbHMgb2YgZWFjaCBsZXZlbCBlYWNoIGNhbiBjYXN0IHBlciBkYXkuIFRoZXNlIG9wZW5pbmdzIGZvciBkYWlseSBzcGVsbHMgYXJlIGNhbGxlZCBzcGVsbCBzbG90cy4gQSBzcGVsbGNhc3RlciBhbHdheXMgaGFzIHRoZSBvcHRpb24gdG8gZmlsbCBhIGhpZ2hlci1sZXZlbCBzcGVsbCBzbG90IHdpdGggYSBsb3dlcmxldmVsIHNwZWxsLiBBIHNwZWxsY2FzdGVyIHdobyBsYWNrcyBhIGhpZ2ggZW5vdWdoIGFiaWxpdHkgc2NvcmUgdG8gY2FzdCBzcGVsbHMgdGhhdCB3b3VsZCBvdGhlcndpc2UgYmUgaGVyIGR1ZSBzdGlsbCBnZXRzIHRoZSBzbG90cyBidXQgbXVzdCBmaWxsIHRoZW0gd2l0aCBzcGVsbHMgb2YgbG93ZXIgbGV2ZWxzLjxiciAvPjxiciAvPiA8Yj5SZWNlbnQgQ2FzdGluZyBMaW1pdDwvYj46IEFzIHdpdGggYXJjYW5lIHNwZWxscywgYXQgdGhlIHRpbWUgb2YgcHJlcGFyYXRpb24gYW55IHNwZWxscyBjYXN0IHdpdGhpbiB0aGUgcHJldmlvdXMgOCBob3VycyBjb3VudCBhZ2FpbnN0IHRoZSBudW1iZXIgb2Ygc3BlbGxzIHRoYXQgY2FuIGJlIHByZXBhcmVkLjxiciAvPjxiciAvPiA8Yj5TcG9udGFuZW91cyBDYXN0aW5nIG9mIEN1cmUgYW5kIEluZmxpY3QgU3BlbGxzPC9iPjogQSBnb29kIGNsZXJpYyAob3IgYSBjbGVyaWMgb2YgYSBnb29kIGRlaXR5KSBjYW4gc3BvbnRhbmVvdXNseSBjYXN0IGEgY3VyZSBzcGVsbCBpbiBwbGFjZSBvZiBhIHByZXBhcmVkIHNwZWxsIG9mIHRoZSBzYW1lIGxldmVsIG9yIGhpZ2hlciwgYnV0IG5vdCBpbiBwbGFjZSBvZiBhIGJvbnVzIGRvbWFpbiBzcGVsbC4gQW4gZXZpbCBjbGVyaWMgKG9yIGEgY2xlcmljIG9mIGFuIGV2aWwgZGVpdHkpIGNhbiBzcG9udGFuZW91c2x5IGNhc3QgYW4gaW5mbGljdCBzcGVsbCBpbiBwbGFjZSBvZiBhIHByZXBhcmVkIHNwZWxsICh0aGF0IGlzIG5vdCBhIGRvbWFpbiBzcGVsbCkgb2YgdGhlIHNhbWUgbGV2ZWwgb3IgaGlnaGVyLiBFYWNoIG5ldXRyYWwgY2xlcmljIG9mIGEgbmV1dHJhbCBkZWl0eSBzcG9udGFuZW91c2x5IGNhc3RzIGVpdGhlciBjdXJlIHNwZWxscyBsaWtlIGEgZ29vZCBjbGVyaWMgb3IgaW5mbGljdCBzcGVsbHMgbGlrZSBhbiBldmlsIG9uZSwgZGVwZW5kaW5nIG9uIHdoaWNoIG9wdGlvbiB0aGUgcGxheWVyIGNob29zZXMgd2hlbiBjcmVhdGluZyB0aGUgY2hhcmFjdGVyLiBUaGUgZGl2aW5lIGVuZXJneSBvZiB0aGUgc3BlbGwgdGhhdCB0aGUgY3VyZSBvciBpbmZsaWN0IHNwZWxsIHN1YnN0aXR1dGVzIGZvciBpcyBjb252ZXJ0ZWQgaW50byB0aGUgY3VyZSBvciBpbmZsaWN0IHNwZWxsIGFzIGlmIHRoYXQgc3BlbGwgaGFkIGJlZW4gcHJlcGFyZWQgYWxsIGFsb25nLjxiciAvPjxiciAvPiA8Yj5TcG9udGFuZW91cyBDYXN0aW5nIG9mIDxpPlN1bW1vbiBOYXR1cmXigJlzIEFsbHk8L2k+IFNwZWxsczwvYj46IEEgZHJ1aWQgY2FuIHNwb250YW5lb3VzbHkgY2FzdCA8aT5zdW1tb24gbmF0dXJl4oCZcyBhbGx5PC9pPiBpbiBwbGFjZSBvZiBhIHByZXBhcmVkIHNwZWxsIG9mIHRoZSBzYW1lIGxldmVsIG9yIGhpZ2hlci4gVGhlIGRpdmluZSBlbmVyZ3kgb2YgdGhlIHNwZWxsIHRoYXQgdGhlIHN1bW1vbiBzcGVsbCBzdWJzdGl0dXRlcyBmb3IgaXMgY29udmVydGVkIGFzIGlmIHRoYXQgc3BlbGwgaGFkIGJlZW4gcHJlcGFyZWQgYWxsIGFsb25nLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjQ0Ij5EaXZpbmUgTWFnaWNhbCBXcml0aW5nPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5ODh5aiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5QUlBHIENvcmUgUnVsZWJvb2sgcGcuIDIyMTwvaT48L2E+PGJyIC8+RGl2aW5lIHNwZWxscyBjYW4gYmUgd3JpdHRlbiBhbmQgZGVjaXBoZXJlZCBsaWtlIGFyY2FuZSBzcGVsbHMgKHNlZSBBcmNhbmUgTWFnaWNhbCBXcml0aW5ncykuIEEgU3BlbGxjcmFmdCBjaGVjayBjYW4gZGVjaXBoZXIgZGl2aW5lIG1hZ2ljYWwgd3JpdGluZyBhbmQgaWRlbnRpZnkgaXQuIE9ubHkgY2hhcmFjdGVycyB3aG8gaGF2ZSB0aGUgc3BlbGwgKGluIGl0cyBkaXZpbmUgZm9ybSkgb24gdGhlaXIgY2xhc3Mgc3BlbGwgbGlzdCBjYW4gY2FzdCBhIGRpdmluZSBzcGVsbCBmcm9tIGEgc2Nyb2xsLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjQ1Ij5OZXcgRGl2aW5lIFNwZWxsczwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweTg4eWoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UFJQRyBDb3JlIFJ1bGVib29rIHBnLiAyMjE8L2k+PC9hPjxiciAvPkRpdmluZSBzcGVsbGNhc3RlcnMgZ2FpbiBuZXcgc3BlbGxzIGFzIGZvbGxvd3MuPGJyIC8+PGJyIC8+IDxiPlNwZWxscyBHYWluZWQgYXQgYSBOZXcgTGV2ZWw8L2I+OiBDaGFyYWN0ZXJzIHdobyBjYW4gY2FzdCBkaXZpbmUgc3BlbGxzIHVuZGVydGFrZSBhIGNlcnRhaW4gYW1vdW50IG9mIHN0dWR5IGJldHdlZW4gYWR2ZW50dXJlcy4gRWFjaCB0aW1lIHN1Y2ggYSBjaGFyYWN0ZXIgcmVjZWl2ZXMgYSBuZXcgbGV2ZWwgb2YgZGl2aW5lIHNwZWxscywgc2hlIGxlYXJucyBhbGwgb2YgdGhlIHNwZWxscyBmcm9tIHRoYXQgbGV2ZWwgYXV0b21hdGljYWxseS48YnIgLz48YnIgLz4gPGI+SW5kZXBlbmRlbnQgUmVzZWFyY2g8L2I+OiBBIGRpdmluZSBzcGVsbGNhc3RlciBjYW4gYWxzbyByZXNlYXJjaCBhIHNwZWxsIGluZGVwZW5kZW50bHksIG11Y2ggYXMgYW4gYXJjYW5lIHNwZWxsY2FzdGVyIGNhbi4gT25seSB0aGUgY3JlYXRvciBvZiBzdWNoIGEgc3BlbGwgY2FuIHByZXBhcmUgYW5kIGNhc3QgaXQsIHVubGVzcyBzaGUgZGVjaWRlcyB0byBzaGFyZSBpdCB3aXRoIG90aGVycy5kZGQmyVlUvlSNbUp5qVMzGdzTGQ33j8Ylj9Wp1rc+WVaJiQ==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=68">Magic</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=242">Divine Spells</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 220</i></a><br />Clerics, druids, experienced paladins, and experienced rangers can cast divine spells. Unlike arcane spells, divine spells draw power from a divine source. Clerics gain spell power from deities or from divine forces. The divine force of nature powers druid and ranger spells, and the divine forces of law and good power paladin spells. Divine spells tend to focus on healing and protection and are less flashy, destructive, and disruptive than arcane spells.<br /><h1 class="title"><a href="Rules.aspx?ID=243">Preparing Divine Spells</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 220</i></a><br />Divine spellcasters prepare their spells in largely the same manner as wizards do, but with a few differences. The relevant ability for most divine spells is Wisdom (Charisma for paladins). To prepare a divine spell, a character must have a Wisdom score (or Charisma score for paladins) of 10 + the spell’s level. Likewise, bonus spells are based on Wisdom.<br /><br /> <b>Time of Day</b>: A divine spellcaster chooses and prepares spells ahead of time, but unlike a wizard, does not require a period of rest to prepare spells. Instead, the character chooses a particular time of day to pray and receive spells. The time is usually associated with some daily event. If some event prevents a character from praying at the proper time, she must do so as soon as possible. If the character does not stop to pray for spells at the first opportunity, she must wait until the next day to prepare spells.<br /><br /> <b>Spell Selection and Preparation</b>: A divine spellcaster selects and prepares spells ahead of time through prayer and meditation at a particular time of day. The time required to prepare spells is the same as it is for a wizard (1 hour), as is the requirement for a relatively peaceful environment. When preparing spells for the day, a divine spellcaster can leave some of her spell slots open. Later during that day, she can repeat the preparation process as often as she likes. During these extra sessions of preparation, she can fill these unused spell slots. She cannot, however, abandon a previously prepared spell to replace it with another one or fill a slot that is empty because she has cast a spell in the meantime. Like the first session of the day, this preparation takes at least 15 minutes, and it takes longer if she prepares more than one-quarter of her spells.<br /><br /> Divine spellcasters do not require spellbooks. However, a divine spellcaster’s spell selection is limited to the spells on the list for her class. Clerics, druids, paladins, and rangers have separate spell lists. A cleric also has access to two domains determined during character creation. Each domain gives her access to a number of special abilities and bonus spells.<br /><br /> <b>Spell Slots</b>: The character class tables show how many spells of each level each can cast per day. These openings for daily spells are called spell slots. A spellcaster always has the option to fill a higher-level spell slot with a lowerlevel spell. A spellcaster who lacks a high enough ability score to cast spells that would otherwise be her due still gets the slots but must fill them with spells of lower levels.<br /><br /> <b>Recent Casting Limit</b>: As with arcane spells, at the time of preparation any spells cast within the previous 8 hours count against the number of spells that can be prepared.<br /><br /> <b>Spontaneous Casting of Cure and Inflict Spells</b>: A good cleric (or a cleric of a good deity) can spontaneously cast a cure spell in place of a prepared spell of the same level or higher, but not in place of a bonus domain spell. An evil cleric (or a cleric of an evil deity) can spontaneously cast an inflict spell in place of a prepared spell (that is not a domain spell) of the same level or higher. Each neutral cleric of a neutral deity spontaneously casts either cure spells like a good cleric or inflict spells like an evil one, depending on which option the player chooses when creating the character. The divine energy of the spell that the cure or inflict spell substitutes for is converted into the cure or inflict spell as if that spell had been prepared all along.<br /><br /> <b>Spontaneous Casting of <i>Summon Nature’s Ally</i> Spells</b>: A druid can spontaneously cast <i>summon nature’s ally</i> in place of a prepared spell of the same level or higher. The divine energy of the spell that the summon spell substitutes for is converted as if that spell had been prepared all along.<br /><h1 class="title"><a href="Rules.aspx?ID=244">Divine Magical Writing</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 221</i></a><br />Divine spells can be written and deciphered like arcane spells (see Arcane Magical Writings). A Spellcraft check can decipher divine magical writing and identify it. Only characters who have the spell (in its divine form) on their class spell list can cast a divine spell from a scroll.<br /><h1 class="title"><a href="Rules.aspx?ID=245">New Divine Spells</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 221</i></a><br />Divine spellcasters gain new spells as follows.<br /><br /> <b>Spells Gained at a New Level</b>: Characters who can cast divine spells undertake a certain amount of study between adventures. Each time such a character receives a new level of divine spells, she learns all of the spells from that level automatically.<br /><br /> <b>Independent Research</b>: A divine spellcaster can also research a spell independently, much as an arcane spellcaster can. Only the creator of such a spell can prepare and cast it, unless she decides to share it with others.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

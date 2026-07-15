@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Designing NPCs - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Designing NPCs" /><meta name="description" content="NPCs are a pivotal element in many Pathfinder adventures, especially those in which the PCs must deal with crucial non-combat situations or act in a civilized area. Like the supporting cast in a movie, NPCs cover a variety of roles with different degrees of importance, from second leads to extras, and the way the GM designs them is open to a wide range of possibilities. Besides being potential opponents, NPCs can be an exciting source of support, information, and intrigue during an adventure. As dramatis personae in their own rights, important NPCs become the mouth and hands of the GM in the game world, allowing him to break from descriptive and rules-based talk in order to speak and act in first person. When acting out NPCs, the GM can roleplay fantasy characters as players do, sometimes putting on dozens of different personas in a single game session. Designing NPCs outside of gaming sessions is a task the GM should dedicate some time to as he creates his stories, although improvisation can be the source of unexpected and excellent ideas. In addition to time and imagination, the creation of NPCs requires good judgment, accuracy, and economy in generating a balanced set of abilities, writing a correct stat block, and giving the right amount of detail. Designing NPCs thus becomes an exercise of creativity, which the GM can cultivate by reading fantasy literature or watching fantasy on the screen.&lt;br />&lt;br /> While there is no right or wrong process for designing NPCs, creating interesting, useful, and memorable characters can be a daunting task. &lt;a style=&quot;text-decoration:underline&quot; href=&quot;Rules.aspx?Name=Creating%20NPCs&amp;Category=Basics%20from%20the%20Core%20Rulebook&quot;>Chapter 14 of the &lt;i>Pathfinder Roleplaying Game Core Rulebook&lt;/i>&lt;/a>addresses the creation of NPCs from a rules standpoint—what one might consider the “science” of NPC creation. As this chapter delves into the “art” of creating NPCs, it’s up to the GM to decide for himself—often on a case-by-case basis—the best methods for designing new characters. For villains and other major characters, this often means coming up with a concept and then devising unique statistics to support it. When building more mundane characters, utility and ease of use often take priority, with the GM adding personality to preexisting stats. In either case, the path to creating a valuable NPC begins with determining the character’s role in a game.  " /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=627" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAXXFjx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NDU0Ij5HYW1lTWFzdGVyeSBHdWlkZTwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD02MjUiPk5vbnBsYXllciBDaGFyYWN0ZXJzPC9hPjwvdT4gLyA8dT48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTY0OCI+VmlsbGFpbnM8L2E+PC91PiAvIDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NjU2Ij5UaGUgVmlsbGFpbidzIEVzY2FwZSBLaXQ8L2E+PC91PjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NjI3Ij5EZXNpZ25pbmcgTlBDczwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweThmZm4iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+R2FtZU1hc3RlcnkgR3VpZGUgcGcuIDgwPC9pPjwvYT48YnIgLz5OUENzIGFyZSBhIHBpdm90YWwgZWxlbWVudCBpbiBtYW55IFBhdGhmaW5kZXIgYWR2ZW50dXJlcywgZXNwZWNpYWxseSB0aG9zZSBpbiB3aGljaCB0aGUgUENzIG11c3QgZGVhbCB3aXRoIGNydWNpYWwgbm9uLWNvbWJhdCBzaXR1YXRpb25zIG9yIGFjdCBpbiBhIGNpdmlsaXplZCBhcmVhLiBMaWtlIHRoZSBzdXBwb3J0aW5nIGNhc3QgaW4gYSBtb3ZpZSwgTlBDcyBjb3ZlciBhIHZhcmlldHkgb2Ygcm9sZXMgd2l0aCBkaWZmZXJlbnQgZGVncmVlcyBvZiBpbXBvcnRhbmNlLCBmcm9tIHNlY29uZCBsZWFkcyB0byBleHRyYXMsIGFuZCB0aGUgd2F5IHRoZSBHTSBkZXNpZ25zIHRoZW0gaXMgb3BlbiB0byBhIHdpZGUgcmFuZ2Ugb2YgcG9zc2liaWxpdGllcy4gQmVzaWRlcyBiZWluZyBwb3RlbnRpYWwgb3Bwb25lbnRzLCBOUENzIGNhbiBiZSBhbiBleGNpdGluZyBzb3VyY2Ugb2Ygc3VwcG9ydCwgaW5mb3JtYXRpb24sIGFuZCBpbnRyaWd1ZSBkdXJpbmcgYW4gYWR2ZW50dXJlLiBBcyBkcmFtYXRpcyBwZXJzb25hZSBpbiB0aGVpciBvd24gcmlnaHRzLCBpbXBvcnRhbnQgTlBDcyBiZWNvbWUgdGhlIG1vdXRoIGFuZCBoYW5kcyBvZiB0aGUgR00gaW4gdGhlIGdhbWUgd29ybGQsIGFsbG93aW5nIGhpbSB0byBicmVhayBmcm9tIGRlc2NyaXB0aXZlIGFuZCBydWxlcy1iYXNlZCB0YWxrIGluIG9yZGVyIHRvIHNwZWFrIGFuZCBhY3QgaW4gZmlyc3QgcGVyc29uLiBXaGVuIGFjdGluZyBvdXQgTlBDcywgdGhlIEdNIGNhbiByb2xlcGxheSBmYW50YXN5IGNoYXJhY3RlcnMgYXMgcGxheWVycyBkbywgc29tZXRpbWVzIHB1dHRpbmcgb24gZG96ZW5zIG9mIGRpZmZlcmVudCBwZXJzb25hcyBpbiBhIHNpbmdsZSBnYW1lIHNlc3Npb24uIERlc2lnbmluZyBOUENzIG91dHNpZGUgb2YgZ2FtaW5nIHNlc3Npb25zIGlzIGEgdGFzayB0aGUgR00gc2hvdWxkIGRlZGljYXRlIHNvbWUgdGltZSB0byBhcyBoZSBjcmVhdGVzIGhpcyBzdG9yaWVzLCBhbHRob3VnaCBpbXByb3Zpc2F0aW9uIGNhbiBiZSB0aGUgc291cmNlIG9mIHVuZXhwZWN0ZWQgYW5kIGV4Y2VsbGVudCBpZGVhcy4gSW4gYWRkaXRpb24gdG8gdGltZSBhbmQgaW1hZ2luYXRpb24sIHRoZSBjcmVhdGlvbiBvZiBOUENzIHJlcXVpcmVzIGdvb2QganVkZ21lbnQsIGFjY3VyYWN5LCBhbmQgZWNvbm9teSBpbiBnZW5lcmF0aW5nIGEgYmFsYW5jZWQgc2V0IG9mIGFiaWxpdGllcywgd3JpdGluZyBhIGNvcnJlY3Qgc3RhdCBibG9jaywgYW5kIGdpdmluZyB0aGUgcmlnaHQgYW1vdW50IG9mIGRldGFpbC4gRGVzaWduaW5nIE5QQ3MgdGh1cyBiZWNvbWVzIGFuIGV4ZXJjaXNlIG9mIGNyZWF0aXZpdHksIHdoaWNoIHRoZSBHTSBjYW4gY3VsdGl2YXRlIGJ5IHJlYWRpbmcgZmFudGFzeSBsaXRlcmF0dXJlIG9yIHdhdGNoaW5nIGZhbnRhc3kgb24gdGhlIHNjcmVlbi48YnIgLz48YnIgLz4gV2hpbGUgdGhlcmUgaXMgbm8gcmlnaHQgb3Igd3JvbmcgcHJvY2VzcyBmb3IgZGVzaWduaW5nIE5QQ3MsIGNyZWF0aW5nIGludGVyZXN0aW5nLCB1c2VmdWwsIGFuZCBtZW1vcmFibGUgY2hhcmFjdGVycyBjYW4gYmUgYSBkYXVudGluZyB0YXNrLiA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iUnVsZXMuYXNweD9OYW1lPUNyZWF0aW5nJTIwTlBDcyZDYXRlZ29yeT1CYXNpY3MlMjBmcm9tJTIwdGhlJTIwQ29yZSUyMFJ1bGVib29rIj5DaGFwdGVyIDE0IG9mIHRoZSA8aT5QYXRoZmluZGVyIFJvbGVwbGF5aW5nIEdhbWUgQ29yZSBSdWxlYm9vazwvaT48L2E+YWRkcmVzc2VzIHRoZSBjcmVhdGlvbiBvZiBOUENzIGZyb20gYSBydWxlcyBzdGFuZHBvaW504oCUd2hhdCBvbmUgbWlnaHQgY29uc2lkZXIgdGhlIOKAnHNjaWVuY2XigJ0gb2YgTlBDIGNyZWF0aW9uLiBBcyB0aGlzIGNoYXB0ZXIgZGVsdmVzIGludG8gdGhlIOKAnGFydOKAnSBvZiBjcmVhdGluZyBOUENzLCBpdOKAmXMgdXAgdG8gdGhlIEdNIHRvIGRlY2lkZSBmb3IgaGltc2VsZuKAlG9mdGVuIG9uIGEgY2FzZS1ieS1jYXNlIGJhc2lz4oCUdGhlIGJlc3QgbWV0aG9kcyBmb3IgZGVzaWduaW5nIG5ldyBjaGFyYWN0ZXJzLiBGb3IgdmlsbGFpbnMgYW5kIG90aGVyIG1ham9yIGNoYXJhY3RlcnMsIHRoaXMgb2Z0ZW4gbWVhbnMgY29taW5nIHVwIHdpdGggYSBjb25jZXB0IGFuZCB0aGVuIGRldmlzaW5nIHVuaXF1ZSBzdGF0aXN0aWNzIHRvIHN1cHBvcnQgaXQuIFdoZW4gYnVpbGRpbmcgbW9yZSBtdW5kYW5lIGNoYXJhY3RlcnMsIHV0aWxpdHkgYW5kIGVhc2Ugb2YgdXNlIG9mdGVuIHRha2UgcHJpb3JpdHksIHdpdGggdGhlIEdNIGFkZGluZyBwZXJzb25hbGl0eSB0byBwcmVleGlzdGluZyBzdGF0cy4gSW4gZWl0aGVyIGNhc2UsIHRoZSBwYXRoIHRvIGNyZWF0aW5nIGEgdmFsdWFibGUgTlBDIGJlZ2lucyB3aXRoIGRldGVybWluaW5nIHRoZSBjaGFyYWN0ZXLigJlzIHJvbGUgaW4gYSBnYW1lLiAgZGRkkKZKWFePeXhhtiFQIXLAQdPigveJJuLwVb3FMQXc01o=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=454">GameMastery Guide</a></u> / <u><a href="Rules.aspx?ID=625">Nonplayer Characters</a></u> / <u><a href="Rules.aspx?ID=648">Villains</a></u> / <u><a href="Rules.aspx?ID=656">The Villain's Escape Kit</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=627">Designing NPCs</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8ffn" target="_blank" class="external-link"><i>GameMastery Guide pg. 80</i></a><br />NPCs are a pivotal element in many Pathfinder adventures, especially those in which the PCs must deal with crucial non-combat situations or act in a civilized area. Like the supporting cast in a movie, NPCs cover a variety of roles with different degrees of importance, from second leads to extras, and the way the GM designs them is open to a wide range of possibilities. Besides being potential opponents, NPCs can be an exciting source of support, information, and intrigue during an adventure. As dramatis personae in their own rights, important NPCs become the mouth and hands of the GM in the game world, allowing him to break from descriptive and rules-based talk in order to speak and act in first person. When acting out NPCs, the GM can roleplay fantasy characters as players do, sometimes putting on dozens of different personas in a single game session. Designing NPCs outside of gaming sessions is a task the GM should dedicate some time to as he creates his stories, although improvisation can be the source of unexpected and excellent ideas. In addition to time and imagination, the creation of NPCs requires good judgment, accuracy, and economy in generating a balanced set of abilities, writing a correct stat block, and giving the right amount of detail. Designing NPCs thus becomes an exercise of creativity, which the GM can cultivate by reading fantasy literature or watching fantasy on the screen.<br /><br /> While there is no right or wrong process for designing NPCs, creating interesting, useful, and memorable characters can be a daunting task. <a style="text-decoration:underline" href="Rules.aspx?Name=Creating%20NPCs&Category=Basics%20from%20the%20Core%20Rulebook">Chapter 14 of the <i>Pathfinder Roleplaying Game Core Rulebook</i></a>addresses the creation of NPCs from a rules standpoint—what one might consider the “science” of NPC creation. As this chapter delves into the “art” of creating NPCs, it’s up to the GM to decide for himself—often on a case-by-case basis—the best methods for designing new characters. For villains and other major characters, this often means coming up with a concept and then devising unique statistics to support it. When building more mundane characters, utility and ease of use often take priority, with the GM adding personality to preexisting stats. In either case, the path to creating a valuable NPC begins with determining the character’s role in a game.  </span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

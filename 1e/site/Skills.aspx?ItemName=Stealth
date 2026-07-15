@@ -1,0 +1,284 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Skills - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    
+    <meta name="keywords" content="Archives, Nethys, Pathfinder, Official, PRD, PFSRD, Skills" /><meta name="description" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Skills.aspx?ItemName=Stealth" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNTY3NDMxODU3D2QWAmYPZBYCAgMPZBYCAgEPZBYIAgEPDxYCHgRUZXh0Bb8LPGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9QWNyb2JhdGljcyI+QWNyb2JhdGljczwvYT4gfCA8YSBocmVmPSJTa2lsbHMuYXNweD9JdGVtTmFtZT1BcHByYWlzZSI+QXBwcmFpc2U8L2E+IHwgPGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9Qmx1ZmYiPkJsdWZmPC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPUNsaW1iIj5DbGltYjwvYT4gfCA8YSBocmVmPSJTa2lsbHMuYXNweD9JdGVtTmFtZT1DcmFmdCI+Q3JhZnQ8L2E+IHwgPGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9RGlwbG9tYWN5Ij5EaXBsb21hY3k8L2E+IHwgPGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9RGlzYWJsZSBEZXZpY2UiPkRpc2FibGUgRGV2aWNlPC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPURpc2d1aXNlIj5EaXNndWlzZTwvYT4gfCA8YSBocmVmPSJTa2lsbHMuYXNweD9JdGVtTmFtZT1Fc2NhcGUgQXJ0aXN0Ij5Fc2NhcGUgQXJ0aXN0PC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPUZseSI+Rmx5PC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPUhhbmRsZSBBbmltYWwiPkhhbmRsZSBBbmltYWw8L2E+IHwgPGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9SGVhbCI+SGVhbDwvYT4gfCA8YSBocmVmPSJTa2lsbHMuYXNweD9JdGVtTmFtZT1JbnRpbWlkYXRlIj5JbnRpbWlkYXRlPC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPUtub3dsZWRnZSI+S25vd2xlZGdlPC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPUxpbmd1aXN0aWNzIj5MaW5ndWlzdGljczwvYT4gfCA8YSBocmVmPSJTa2lsbHMuYXNweD9JdGVtTmFtZT1QZXJjZXB0aW9uIj5QZXJjZXB0aW9uPC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPVBlcmZvcm0iPlBlcmZvcm08L2E+IHwgPGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9UHJvZmVzc2lvbiI+UHJvZmVzc2lvbjwvYT4gfCA8YSBocmVmPSJTa2lsbHMuYXNweD9JdGVtTmFtZT1SaWRlIj5SaWRlPC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPVNlbnNlIE1vdGl2ZSI+U2Vuc2UgTW90aXZlPC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPVNsZWlnaHQgb2YgSGFuZCI+U2xlaWdodCBvZiBIYW5kPC9hPiB8IDxhIGhyZWY9IlNraWxscy5hc3B4P0l0ZW1OYW1lPVNwZWxsY3JhZnQiPlNwZWxsY3JhZnQ8L2E+IHwgPGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9U3RlYWx0aCI+U3RlYWx0aDwvYT4gfCA8YSBocmVmPSJTa2lsbHMuYXNweD9JdGVtTmFtZT1TdXJ2aXZhbCI+U3Vydml2YWw8L2E+IHwgPGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9U3dpbSI+U3dpbTwvYT4gfCA8YSBocmVmPSJTa2lsbHMuYXNweD9JdGVtTmFtZT1Vc2UgTWFnaWMgRGV2aWNlIj5Vc2UgTWFnaWMgRGV2aWNlPC9hPmRkAgUPDxYCHwAF8QE8aDEgY2xhc3M9InRpdGxlIj5Ta2lsbHM8L2gxPlNraWxscyByZXByZXNlbnQgc29tZSBvZiB0aGUgbW9zdCBiYXNpYyBhbmQgeWV0IG1vc3QgZnVuZGFtZW50YWwgYWJpbGl0aWVzIHlvdXIgY2hhcmFjdGVyIHBvc3Nlc3Nlcy4gQXMgeW91ciBjaGFyYWN0ZXIgYWR2YW5jZXMgaW4gbGV2ZWwsIGhlIGNhbiBnYWluIG5ldyBza2lsbHMgYW5kIGltcHJvdmUgaGlzIGV4aXN0aW5nIHNraWxscyBkcmFtYXRpY2FsbHkuPGJyIC8+ZGQCBw88KwAJAQAPFgQeCERhdGFLZXlzFgAeC18hSXRlbUNvdW50AgFkFgJmD2QWAgIBDw8WAh8ABfIfPGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iU2tpbGxzLmFzcHg/SXRlbU5hbWU9U3RlYWx0aCI+U3RlYWx0aDwvYT4gKERleDsgQXJtb3IgQ2hlY2sgUGVuYWx0eSk8L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wYXRoZmluZGVyUlBHL3Y1NzQ4YnRweTg4eWoiIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZXh0ZXJuYWwtbGluayI+PGk+UFJQRyBDb3JlIFJ1bGVib29rIHBnLiAxMDY8L2k+PC9hPjxiciAvPllvdSBhcmUgc2tpbGxlZCBhdCBhdm9pZGluZyBkZXRlY3Rpb24sIGFsbG93aW5nIHlvdSB0byBzbGlwIHBhc3QgZm9lcyBvciBzdHJpa2UgZnJvbSBhbiB1bnNlZW4gcG9zaXRpb24uIFRoaXMgc2tpbGwgY292ZXJzIGhpZGluZyBhbmQgbW92aW5nIHNpbGVudGx5LjxiciAvPjxiciAvPjxiPkNoZWNrPC9iPjogWW91ciBTdGVhbHRoIGNoZWNrIGlzIG9wcG9zZWQgYnkgdGhlIFBlcmNlcHRpb24gY2hlY2sgb2YgYW55b25lIHdobyBtaWdodCBub3RpY2UgeW91LiBDcmVhdHVyZXMgdGhhdCBmYWlsIHRvIGJlYXQgeW91ciBTdGVhbHRoIGNoZWNrIGFyZSBub3QgYXdhcmUgb2YgeW91IGFuZCB0cmVhdCB5b3UgYXMgaWYgeW91IGhhZCB0b3RhbCBjb25jZWFsbWVudC4gWW91IGNhbiBtb3ZlIHVwIHRvIGhhbGYgeW91ciBub3JtYWwgc3BlZWQgYW5kIHVzZSBTdGVhbHRoIGF0IG5vIHBlbmFsdHkuIFdoZW4gbW92aW5nIGF0IGEgc3BlZWQgZ3JlYXRlciB0aGFuIGhhbGYgYnV0IGxlc3MgdGhhbiB5b3VyIG5vcm1hbCBzcGVlZCwgeW91IHRha2UgYSAtNSBwZW5hbHR5LiBJdOKAmXMgaW1wb3NzaWJsZSB0byB1c2UgU3RlYWx0aCB3aGlsZSBhdHRhY2tpbmcsIHJ1bm5pbmcsIG9yIGNoYXJnaW5nLiA8YnIgLz48YnIgLz4gQ3JlYXR1cmVzIGdhaW4gYSBib251cyBvciBwZW5hbHR5IG9uIFN0ZWFsdGggY2hlY2tzIGJhc2VkIG9uIHRoZWlyIHNpemU6IEZpbmUgKzE2LCBEaW1pbnV0aXZlICsxMiwgVGlueSArOCwgU21hbGwgKzQsIE1lZGl1bSArMCwgTGFyZ2UgLTQsIEh1Z2UgLTgsIEdhcmdhbnR1YW4gLTEyLCBDb2xvc3NhbCAtMTYuIDxiciAvPjxiciAvPiBJZiBwZW9wbGUgYXJlIG9ic2VydmluZyB5b3UgdXNpbmcgYW55IG9mIHRoZWlyIHNlbnNlcyAoYnV0IHR5cGljYWxseSBzaWdodCksIHlvdSBjYW7igJl0IHVzZSBTdGVhbHRoLiBBZ2FpbnN0IG1vc3QgY3JlYXR1cmVzLCBmaW5kaW5nIGNvdmVyIG9yIGNvbmNlYWxtZW50IGFsbG93cyB5b3UgdG8gdXNlIFN0ZWFsdGguIElmIHlvdXIgb2JzZXJ2ZXJzIGFyZSBtb21lbnRhcmlseSBkaXN0cmFjdGVkIChzdWNoIGFzIGJ5IGEgQmx1ZmYgY2hlY2spLCB5b3UgY2FuIGF0dGVtcHQgdG8gdXNlIFN0ZWFsdGguIFdoaWxlIHRoZSBvdGhlcnMgdHVybiB0aGVpciBhdHRlbnRpb24gZnJvbSB5b3UsIHlvdSBjYW4gYXR0ZW1wdCBhIFN0ZWFsdGggY2hlY2sgaWYgeW91IGNhbiBnZXQgdG8gYW4gdW5vYnNlcnZlZCBwbGFjZSBvZiBzb21lIGtpbmQuIFRoaXMgY2hlY2ssIGhvd2V2ZXIsIGlzIG1hZGUgYXQgYSDigJMxMCBwZW5hbHR5IGJlY2F1c2UgeW91IGhhdmUgdG8gbW92ZSBmYXN0LiA8YnIgLz48YnIgLz4gPGk+QnJlYWtpbmcgU3RlYWx0aDwvaT46IFdoZW4geW91IHN0YXJ0IHlvdXIgdHVybiB1c2luZyBTdGVhbHRoLCB5b3UgY2FuIGxlYXZlIGNvdmVyIG9yIGNvbmNlYWxtZW50IGFuZCByZW1haW4gdW5vYnNlcnZlZCBhcyBsb25nIGFzIHlvdSBzdWNjZWVkIGF0IGEgU3RlYWx0aCBjaGVjayBhbmQgZW5kIHlvdXIgdHVybiBpbiBjb3ZlciBvciBjb25jZWFsbWVudC4gWW91ciBTdGVhbHRoIGltbWVkaWF0ZWx5IGVuZHMgYWZ0ZXIgeW91IG1ha2UgYW4gYXR0YWNrIHJvbGwsIHdoZXRoZXIgb3Igbm90IHRoZSBhdHRhY2sgaXMgc3VjY2Vzc2Z1bCAoZXhjZXB0IHdoZW4gc25pcGluZyBhcyBub3RlZCBiZWxvdykuIDxiciAvPjxiciAvPiA8aT5TbmlwaW5nPC9pPjogSWYgeW914oCZdmUgYWxyZWFkeSBzdWNjZXNzZnVsbHkgdXNlZCBTdGVhbHRoIGF0IGxlYXN0IDEwIGZlZXQgZnJvbSB5b3VyIHRhcmdldCwgeW91IGNhbiBtYWtlIG9uZSByYW5nZWQgYXR0YWNrIGFuZCB0aGVuIGltbWVkaWF0ZWx5IHVzZSBTdGVhbHRoIGFnYWluLiBZb3UgdGFrZSBhIOKAkzIwIHBlbmFsdHkgb24geW91ciBTdGVhbHRoIGNoZWNrIHRvIG1haW50YWluIHlvdXIgb2JzY3VyZWQgbG9jYXRpb24uIDxiciAvPjxiciAvPiA8aT5DcmVhdGluZyBhIERpdmVyc2lvbiB0byBIaWRlPC9pPjogWW91IGNhbiB1c2UgQmx1ZmYgdG8gYWxsb3cgeW91IHRvIHVzZSBTdGVhbHRoLiBBIHN1Y2Nlc3NmdWwgQmx1ZmYgY2hlY2sgY2FuIGdpdmUgeW91IHRoZSBtb21lbnRhcnkgZGl2ZXJzaW9uIHlvdSBuZWVkIHRvIGF0dGVtcHQgYSBTdGVhbHRoIGNoZWNrIHdoaWxlIHBlb3BsZSBhcmUgYXdhcmUgb2YgeW91LiA8YnIgLz48YnIgLz4gPGI+QWN0aW9uPC9iPjogVXN1YWxseSBub25lLiBOb3JtYWxseSwgeW91IG1ha2UgYSBTdGVhbHRoIGNoZWNrIGFzIHBhcnQgb2YgbW92ZW1lbnQsIHNvIGl0IGRvZXNu4oCZdCB0YWtlIGEgc2VwYXJhdGUgYWN0aW9uLiBIb3dldmVyLCB1c2luZyBTdGVhbHRoIGltbWVkaWF0ZWx5IGFmdGVyIGEgcmFuZ2VkIGF0dGFjayAoc2VlIFNuaXBpbmcsIGFib3ZlKSBpcyBhIG1vdmUgYWN0aW9uLiA8YnIgLz48YnIgLz4gPGI+U3BlY2lhbDwvYj46IElmIHlvdSBhcmUgaW52aXNpYmxlLCB5b3UgZ2FpbiBhICs0MCBib251cyBvbiBTdGVhbHRoIGNoZWNrcyBpZiB5b3UgYXJlIGltbW9iaWxlLCBvciBhICsyMCBib251cyBvbiBTdGVhbHRoIGNoZWNrcyBpZiB5b3XigJlyZSBtb3ZpbmcuIDxiciAvPjxiciAvPiBJZiB5b3UgaGF2ZSB0aGUgU3RlYWx0aHkgZmVhdCwgeW91IGdldCBhIGJvbnVzIG9uIFN0ZWFsdGggY2hlY2tzIChzZWUgRmVhdHMpLjxoMiBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlNraWxsVW5sb2Nrcy5hc3B4Ij48aW1nIHNyYz0iaW1hZ2VzXFBhdGhmaW5kZXJTb2NpZXR5U3ltYm9sTi5naWYiIHRpdGxlPSJUaGUgc2tpbGwgdW5sb2NrcyBhbmQgU2lnbmF0dXJlIFNraWxsIGZlYXQgYXJlIG9ubHkgYXZhaWxhYmxlIHRocm91Z2ggdGhlIHJvZ3VlJ3MgZWRnZSBjbGFzcyBhYmlsaXR5IiBzdHlsZT0ibWFyZ2luOjNweCAzcHggMHB4IDNweDsiPiBVbmNoYWluZWQgLSBTa2lsbCBVbmxvY2s8L2E+PC9oMj48Yj5Tb3VyY2U8L2I+IDxhIGhyZWY9Imh0dHA6Ly9wYWl6by5jb20vcHJvZHVjdHMvYnRweTljMjU/UGF0aGZpbmRlci1Sb2xlcGxheWluZy1HYW1lLVBhdGhmaW5kZXItVW5jaGFpbmVkIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlBhdGhmaW5kZXIgVW5jaGFpbmVkIHBnLiA4NjwvaT48L2E+PGJyIC8+V2l0aCBzdWZmaWNpZW50IHJhbmtzIGluIFN0ZWFsdGgsIHlvdSBlYXJuIHRoZSBmb2xsb3dpbmcuPGJyIC8+PGJyIC8+PGI+NSBSYW5rczwvYj46IFJlZHVjZSB0aGUgU3RlYWx0aCBwZW5hbHR5IGZyb20gc25pcGluZyBieSAxMC48YnIgLz48YnIgLz48Yj4xMCBSYW5rczwvYj46IFN0ZWFsdGggY2hlY2sgcGVuYWx0aWVzIGZvciBtb3ZpbmcgcXVpY2tseSBhcmUgaGFsdmVkLCBpbmNsdWRpbmcgdGhlIGFiaWxpdHkgdW5sb2NrZWQgYXQgNSByYW5rcywgbW92aW5nIGZ1bGwgc3BlZWQsIGFuZCByZWFjaGluZyBjb25jZWFsbWVudCBhZnRlciBjcmVhdGluZyBhIGRpc3RyYWN0aW9uLjxiciAvPjxiciAvPjxiPjE1IFJhbmtzPC9iPjogSWYgeW91IGF0dGFjayBhZnRlciBzdWNjZXNzZnVsbHkgdXNpbmcgU3RlYWx0aCwgeW91ciB0YXJnZXQgaXMgZGVuaWVkIGl0cyBEZXh0ZXJpdHkgYm9udXMgYWdhaW5zdCBhbGwgYXR0YWNrcyB0aGF0IHlvdSBtYWtlIGJlZm9yZSB0aGUgZW5kIG9mIHlvdXIgdHVybi48YnIgLz48YnIgLz48Yj4yMCBSYW5rczwvYj46IElmIHlvdSBhdHRhY2sgYWZ0ZXIgc3VjY2Vzc2Z1bGx5IHVzaW5nIFN0ZWFsdGgsIHlvdXIgdGFyZ2V0IGlzIGRlbmllZCBpdHMgRGV4dGVyaXR5IGJvbnVzIGFnYWluc3QgYWxsIGF0dGFja3MgdGhhdCB5b3UgbWFrZSBiZWZvcmUgdGhlIGJlZ2lubmluZyBvZiB5b3VyIG5leHQgdHVybi48YnIgLz48YnIgLz5kZAIJDw9kPCsABgEAEBYBZhYBFgIeDlBhcmFtZXRlclZhbHVlBQdTdGVhbHRoFgECBGRka6bjR35qpAnVFPfxmjj5V1TxUqpbMGpWV6myHccSG08=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="54EBCB5A" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <h2 style="text-align: center"><span id="MainContent_FullSkillList"><a href="Skills.aspx?ItemName=Acrobatics">Acrobatics</a> | <a href="Skills.aspx?ItemName=Appraise">Appraise</a> | <a href="Skills.aspx?ItemName=Bluff">Bluff</a> | <a href="Skills.aspx?ItemName=Climb">Climb</a> | <a href="Skills.aspx?ItemName=Craft">Craft</a> | <a href="Skills.aspx?ItemName=Diplomacy">Diplomacy</a> | <a href="Skills.aspx?ItemName=Disable Device">Disable Device</a> | <a href="Skills.aspx?ItemName=Disguise">Disguise</a> | <a href="Skills.aspx?ItemName=Escape Artist">Escape Artist</a> | <a href="Skills.aspx?ItemName=Fly">Fly</a> | <a href="Skills.aspx?ItemName=Handle Animal">Handle Animal</a> | <a href="Skills.aspx?ItemName=Heal">Heal</a> | <a href="Skills.aspx?ItemName=Intimidate">Intimidate</a> | <a href="Skills.aspx?ItemName=Knowledge">Knowledge</a> | <a href="Skills.aspx?ItemName=Linguistics">Linguistics</a> | <a href="Skills.aspx?ItemName=Perception">Perception</a> | <a href="Skills.aspx?ItemName=Perform">Perform</a> | <a href="Skills.aspx?ItemName=Profession">Profession</a> | <a href="Skills.aspx?ItemName=Ride">Ride</a> | <a href="Skills.aspx?ItemName=Sense Motive">Sense Motive</a> | <a href="Skills.aspx?ItemName=Sleight of Hand">Sleight of Hand</a> | <a href="Skills.aspx?ItemName=Spellcraft">Spellcraft</a> | <a href="Skills.aspx?ItemName=Stealth">Stealth</a> | <a href="Skills.aspx?ItemName=Survival">Survival</a> | <a href="Skills.aspx?ItemName=Swim">Swim</a> | <a href="Skills.aspx?ItemName=Use Magic Device">Use Magic Device</a></span></h2><hr />
+    <h2 style="text-align: center"><span id="MainContent_MainClassLabel"></span></h2>
+    <span id="MainContent_SectionHeader"><h1 class="title">Skills</h1>Skills represent some of the most basic and yet most fundamental abilities your character possesses. As your character advances in level, he can gain new skills and improve his existing skills dramatically.<br /></span>
+    <hr />
+
+    <table id="MainContent_DataListTalentsAll" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+            <span id="MainContent_DataListTalentsAll_LabelName_0"><h1 class="title"><a href="Skills.aspx?ItemName=Stealth">Stealth</a> (Dex; Armor Check Penalty)</h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy88yj" target="_blank" class="external-link"><i>PRPG Core Rulebook pg. 106</i></a><br />You are skilled at avoiding detection, allowing you to slip past foes or strike from an unseen position. This skill covers hiding and moving silently.<br /><br /><b>Check</b>: Your Stealth check is opposed by the Perception check of anyone who might notice you. Creatures that fail to beat your Stealth check are not aware of you and treat you as if you had total concealment. You can move up to half your normal speed and use Stealth at no penalty. When moving at a speed greater than half but less than your normal speed, you take a -5 penalty. It’s impossible to use Stealth while attacking, running, or charging. <br /><br /> Creatures gain a bonus or penalty on Stealth checks based on their size: Fine +16, Diminutive +12, Tiny +8, Small +4, Medium +0, Large -4, Huge -8, Gargantuan -12, Colossal -16. <br /><br /> If people are observing you using any of their senses (but typically sight), you can’t use Stealth. Against most creatures, finding cover or concealment allows you to use Stealth. If your observers are momentarily distracted (such as by a Bluff check), you can attempt to use Stealth. While the others turn their attention from you, you can attempt a Stealth check if you can get to an unobserved place of some kind. This check, however, is made at a –10 penalty because you have to move fast. <br /><br /> <i>Breaking Stealth</i>: When you start your turn using Stealth, you can leave cover or concealment and remain unobserved as long as you succeed at a Stealth check and end your turn in cover or concealment. Your Stealth immediately ends after you make an attack roll, whether or not the attack is successful (except when sniping as noted below). <br /><br /> <i>Sniping</i>: If you’ve already successfully used Stealth at least 10 feet from your target, you can make one ranged attack and then immediately use Stealth again. You take a –20 penalty on your Stealth check to maintain your obscured location. <br /><br /> <i>Creating a Diversion to Hide</i>: You can use Bluff to allow you to use Stealth. A successful Bluff check can give you the momentary diversion you need to attempt a Stealth check while people are aware of you. <br /><br /> <b>Action</b>: Usually none. Normally, you make a Stealth check as part of movement, so it doesn’t take a separate action. However, using Stealth immediately after a ranged attack (see Sniping, above) is a move action. <br /><br /> <b>Special</b>: If you are invisible, you gain a +40 bonus on Stealth checks if you are immobile, or a +20 bonus on Stealth checks if you’re moving. <br /><br /> If you have the Stealthy feat, you get a bonus on Stealth checks (see Feats).<h2 class="title"><a href="SkillUnlocks.aspx"><img src="images\PathfinderSocietySymbolN.gif" title="The skill unlocks and Signature Skill feat are only available through the rogue's edge class ability" style="margin:3px 3px 0px 3px;"> Unchained - Skill Unlock</a></h2><b>Source</b> <a href="http://paizo.com/products/btpy9c25?Pathfinder-Roleplaying-Game-Pathfinder-Unchained" target="_blank" class="external-link"><i>Pathfinder Unchained pg. 86</i></a><br />With sufficient ranks in Stealth, you earn the following.<br /><br /><b>5 Ranks</b>: Reduce the Stealth penalty from sniping by 10.<br /><br /><b>10 Ranks</b>: Stealth check penalties for moving quickly are halved, including the ability unlocked at 5 ranks, moving full speed, and reaching concealment after creating a distraction.<br /><br /><b>15 Ranks</b>: If you attack after successfully using Stealth, your target is denied its Dexterity bonus against all attacks that you make before the end of your turn.<br /><br /><b>20 Ranks</b>: If you attack after successfully using Stealth, your target is denied its Dexterity bonus against all attacks that you make before the beginning of your next turn.<br /><br /></span>
+        </td>
+	</tr>
+</table>
+
+    
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

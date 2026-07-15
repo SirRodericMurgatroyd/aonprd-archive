@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Armor as DR - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Armor as DR" /><meta name="description" content="Armor in this system keeps all of its normal statistics and qualities, but its armor bonus (including any enhancement bonus added to armor bonus and natural armor bonus) is converted to DR/armor. The DR an armor provides is equal to its total armor bonus with a +1 bonus at 5th level or at 5 Hit Dice, with an increase to that bonus of +1 for every five levels above 5th level, or every 5 Hit Dice over 5 Hit Dice (to a maximum of +4 to DR at 20th level or at 20 or more Hit Dice), provided that the creature wearing the armor is also proficient with the armor.&lt;br />&lt;br /> &lt;b>Using Armor without Proficiency&lt;/b>: Creatures using armor they are not proficient with do not gain the bonus per level or Hit Dice to the DR, on top of any of the other normal penalties for using armor without proficiency.&lt;br />&lt;br /> &lt;b>DR/Armor&lt;/b>: This type of DR blocks the damage of all attacks that would normally be affected by DR, based on the composition of the armor (see Table 5–1). Unlike most forms of damage reduction, DR/armor stacks with other types of DR. For instances, when fighting a skeleton with DR 5/bludgeoning and DR 4/armor (+2 for armor, +2 for natural armor), the skeleton&#39;s DR/armor reduces 9 points of damage from non-bludgeoning attacks, and 4 damage from bludgeoning weapon attacks. Magic weapons and attacks from Large or larger creatures bypass the DR 4/ armor, but not the DR 5/bludgeoning.&lt;br /> &lt;h2>Table 5-1: Armor Composition and DR&lt;/h2>&lt;table class=&quot;inner&quot;>&lt;tr>&lt;td>&lt;b>Material&lt;/b>&lt;/td>&lt;td>&lt;b>DR Provided&lt;/b>&lt;/td>&lt;td>&lt;b>Attacker Size to Bypass DR&lt;/b>&lt;/td>&lt;/tr>&lt;tr>&lt;td>Nonmagical armor&lt;sup>1&lt;/sup>&lt;/td>&lt;td>DR/magic&lt;/td>&lt;td>Large&lt;/td>&lt;/tr>&lt;tr>&lt;td>Magical armor&lt;sup>1&lt;/sup>&lt;/td>&lt;td>DR/adamantine&lt;/td>&lt;td>Huge&lt;/td>&lt;/tr>&lt;tr>&lt;td>Adamantine armor&lt;sup>1&lt;/sup>&lt;/td>&lt;td>DR/-&lt;/td>&lt;td>Gargantuan&lt;/td>&lt;/tr>&lt;/table>1: &lt;a style=&quot;text-decoration:underline&quot; href=&quot;MagicWeaponsDisplay.aspx?ItemName=Brilliant Energy&quot;>&lt;i>Brilliant energy&lt;/i>&lt;/a> weapons bypass any DR provided by armor. In addition, DR from armor is halved if a creature is grappled or entangled, and does not apply when a creature is helpless or pinned. &lt;br /> &lt;br />&lt;b>Natural Armor Bonus and DR&lt;/b>: Like a creature&#39;s armor bonus, a natural armor bonus is also converted into damage reduction. If a creature is wearing armor and has a natural armor bonus, the creature adds its armor bonus to its natural armor bonus to determine the amount of DR/ armor that it has (see Table 5–2).&lt;br />&lt;br /> For instance, if a creature wearing a +2 chain shirt has DR 6/armor is then subject to a &lt;a style=&quot;text-decoration:underline&quot; href=&quot;SpellDisplay.aspx?ItemName=barkskin&quot;>&lt;i>barkskin&lt;/i>&lt;/a> spell cast by a 6th-level druid (gaining a +3 natural armor bonus), its DR becomes DR 9/armor for the duration of the spell. This DR is bypassed by adamantine, or the attacks of Huge or larger creatures. A creature that has both DR from a source other than armor and a natural armor bonus gains the effects of an enhanced form of DR, similar to how the composition of the armor grants special DR/armor defenses (see Table 5–1). If a creature has magical armor, natural armor, and DR, it takes the best form of the special protection provided by both its armor and its mix of DR and natural armor to its DR/armor.&lt;br />&lt;br /> For instance, if a creature has natural armor and DR/ magic and is wearing adamantine armor, that creature&#39;s DR/armor functions as DR/—, and can be bypassed by Gargantuan or larger creatures, since the adamantine armor provides the best of the two damage reductions.&lt;br /> &lt;h2>Table 5-2: Natural Armor Conversion to DR&lt;/h2> &lt;table class=&quot;inner&quot;>&lt;tr>&lt;td>&lt;b>&lt;/b>&lt;/td>&lt;td>&lt;b>&lt;/b>&lt;/td>&lt;td>&lt;b>&lt;/b>&lt;/td>&lt;/tr>&lt;tr>&lt;td>Natural armor&lt;/td>&lt;td>DR/magic&lt;/td>&lt;td>Large&lt;/td>&lt;/tr>&lt;tr>&lt;td>Natural armor with DR/magic&lt;/td>&lt;td>DR/adamantine&lt;/td>&lt;td>Huge&lt;/td>&lt;/tr>&lt;tr>&lt;td>Natural armor with DR/adamantine&lt;/td>&lt;td>DR/-&lt;/td>&lt;td>Gargantuan&lt;/td>&lt;/tr>&lt;tr>&lt;td>Natural armor with DR/-&lt;/td>&lt;td>DR/-&lt;sup>1&lt;/sup>&lt;/td>&lt;td>Colossal&lt;/td>&lt;/tr>&lt;tr>&lt;td>Natural armor with DR/epic&lt;/td>&lt;td>DR/epic&lt;sup>1&lt;/sup>&lt;/td>&lt;td>n/a&lt;/td>&lt;/tr>&lt;/table>1 A creature that already has DR/— or DR/epic increases its DR by an amount equal to its natural armor bonus. &lt;br />&lt;br />&lt;b>Unusual Creatures and Armor DR&lt;/b>: Amorphous or incorporeal creatures have an easier time bypassing DR/ armor. When they attack a creature with DR/armor, they typically treat that DR as a fraction of the DR/armor. Attacks by incorporeal creatures entirely ignore the DR unless that DR comes from a force effect or from armor with the &lt;MAGIC.ARMOR&quot;>Ghost Touch&quot;>&lt;i>ghost touch&lt;/i>&lt;/a> special armor quality. These traits are detailed in Table 5–3.&lt;br />&lt;h2>Table 5-3: Unusual Creatures and Armor DR&lt;/h2>&lt;table class=&quot;inner&quot;>&lt;tr>&lt;td>&lt;b>Attacking Creature Type&lt;/b>&lt;/td>&lt;td>&lt;b>DR Modifier&lt;/b>&lt;/td>&lt;/tr>&lt;tr>&lt;td>Amorphous&lt;sup>1&lt;/sup>&lt;/td>&lt;td>x 1/2&lt;/td>&lt;/tr>&lt;tr>&lt;td>Incorporeal&lt;/td>&lt;td>x 0 (x1 if DR is from force effect or &lt;a style=&quot;text-decoration:underline&quot; href=&quot;MagicArmorDisplay.aspx?ItemName=Ghost Touch&quot;>>&lt;i>ghost touch&lt;/i>&lt;/a> armor&lt;/td>&lt;/tr>&lt;tr>&lt;td>Swarm of Tiny creatures&lt;/td>&lt;td>x 1/2&lt;/td>&lt;/tr>&lt;tr>&lt;td>Swarm of Diminutive creatures&lt;/td>&lt;td>x 1/4&lt;/td>&lt;/tr>&lt;tr>&lt;td>Swarm of Fine creatures&lt;/td>&lt;td>x 0&lt;/td>&lt;/tr>&lt;/table> &lt;br /> 1 Elementals, oozes, oozelike creatures, and any creature with the amorphous defensive ability." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=1125" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAW4LDx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9NzQiPk9wdGlvbmFsIFJ1bGUgU3lzdGVtczwvYT48L3U+IC8gPHU+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0xMTIzIj5Bcm1vciBhcyBEYW1hZ2UgUmVkdWN0aW9uPC9hPjwvdT48YnIgLz48aDEgY2xhc3M9InRpdGxlIj48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTExMjUiPkFybW9yIGFzIERSPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3BhdGhmaW5kZXJSUEcvdjU3NDhidHB5OG1jeiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5VbHRpbWF0ZSBDb21iYXQgcGcuIDE5MTwvaT48L2E+PGJyIC8+QXJtb3IgaW4gdGhpcyBzeXN0ZW0ga2VlcHMgYWxsIG9mIGl0cyBub3JtYWwgc3RhdGlzdGljcyBhbmQgcXVhbGl0aWVzLCBidXQgaXRzIGFybW9yIGJvbnVzIChpbmNsdWRpbmcgYW55IGVuaGFuY2VtZW50IGJvbnVzIGFkZGVkIHRvIGFybW9yIGJvbnVzIGFuZCBuYXR1cmFsIGFybW9yIGJvbnVzKSBpcyBjb252ZXJ0ZWQgdG8gRFIvYXJtb3IuIFRoZSBEUiBhbiBhcm1vciBwcm92aWRlcyBpcyBlcXVhbCB0byBpdHMgdG90YWwgYXJtb3IgYm9udXMgd2l0aCBhICsxIGJvbnVzIGF0IDV0aCBsZXZlbCBvciBhdCA1IEhpdCBEaWNlLCB3aXRoIGFuIGluY3JlYXNlIHRvIHRoYXQgYm9udXMgb2YgKzEgZm9yIGV2ZXJ5IGZpdmUgbGV2ZWxzIGFib3ZlIDV0aCBsZXZlbCwgb3IgZXZlcnkgNSBIaXQgRGljZSBvdmVyIDUgSGl0IERpY2UgKHRvIGEgbWF4aW11bSBvZiArNCB0byBEUiBhdCAyMHRoIGxldmVsIG9yIGF0IDIwIG9yIG1vcmUgSGl0IERpY2UpLCBwcm92aWRlZCB0aGF0IHRoZSBjcmVhdHVyZSB3ZWFyaW5nIHRoZSBhcm1vciBpcyBhbHNvIHByb2ZpY2llbnQgd2l0aCB0aGUgYXJtb3IuPGJyIC8+PGJyIC8+IDxiPlVzaW5nIEFybW9yIHdpdGhvdXQgUHJvZmljaWVuY3k8L2I+OiBDcmVhdHVyZXMgdXNpbmcgYXJtb3IgdGhleSBhcmUgbm90IHByb2ZpY2llbnQgd2l0aCBkbyBub3QgZ2FpbiB0aGUgYm9udXMgcGVyIGxldmVsIG9yIEhpdCBEaWNlIHRvIHRoZSBEUiwgb24gdG9wIG9mIGFueSBvZiB0aGUgb3RoZXIgbm9ybWFsIHBlbmFsdGllcyBmb3IgdXNpbmcgYXJtb3Igd2l0aG91dCBwcm9maWNpZW5jeS48YnIgLz48YnIgLz4gPGI+RFIvQXJtb3I8L2I+OiBUaGlzIHR5cGUgb2YgRFIgYmxvY2tzIHRoZSBkYW1hZ2Ugb2YgYWxsIGF0dGFja3MgdGhhdCB3b3VsZCBub3JtYWxseSBiZSBhZmZlY3RlZCBieSBEUiwgYmFzZWQgb24gdGhlIGNvbXBvc2l0aW9uIG9mIHRoZSBhcm1vciAoc2VlIFRhYmxlIDXigJMxKS4gVW5saWtlIG1vc3QgZm9ybXMgb2YgZGFtYWdlIHJlZHVjdGlvbiwgRFIvYXJtb3Igc3RhY2tzIHdpdGggb3RoZXIgdHlwZXMgb2YgRFIuIEZvciBpbnN0YW5jZXMsIHdoZW4gZmlnaHRpbmcgYSBza2VsZXRvbiB3aXRoIERSIDUvYmx1ZGdlb25pbmcgYW5kIERSIDQvYXJtb3IgKCsyIGZvciBhcm1vciwgKzIgZm9yIG5hdHVyYWwgYXJtb3IpLCB0aGUgc2tlbGV0b24ncyBEUi9hcm1vciByZWR1Y2VzIDkgcG9pbnRzIG9mIGRhbWFnZSBmcm9tIG5vbi1ibHVkZ2VvbmluZyBhdHRhY2tzLCBhbmQgNCBkYW1hZ2UgZnJvbSBibHVkZ2VvbmluZyB3ZWFwb24gYXR0YWNrcy4gTWFnaWMgd2VhcG9ucyBhbmQgYXR0YWNrcyBmcm9tIExhcmdlIG9yIGxhcmdlciBjcmVhdHVyZXMgYnlwYXNzIHRoZSBEUiA0LyBhcm1vciwgYnV0IG5vdCB0aGUgRFIgNS9ibHVkZ2VvbmluZy48YnIgLz4gPGgyPlRhYmxlIDUtMTogQXJtb3IgQ29tcG9zaXRpb24gYW5kIERSPC9oMj48dGFibGUgY2xhc3M9ImlubmVyIj48dHI+PHRkPjxiPk1hdGVyaWFsPC9iPjwvdGQ+PHRkPjxiPkRSIFByb3ZpZGVkPC9iPjwvdGQ+PHRkPjxiPkF0dGFja2VyIFNpemUgdG8gQnlwYXNzIERSPC9iPjwvdGQ+PC90cj48dHI+PHRkPk5vbm1hZ2ljYWwgYXJtb3I8c3VwPjE8L3N1cD48L3RkPjx0ZD5EUi9tYWdpYzwvdGQ+PHRkPkxhcmdlPC90ZD48L3RyPjx0cj48dGQ+TWFnaWNhbCBhcm1vcjxzdXA+MTwvc3VwPjwvdGQ+PHRkPkRSL2FkYW1hbnRpbmU8L3RkPjx0ZD5IdWdlPC90ZD48L3RyPjx0cj48dGQ+QWRhbWFudGluZSBhcm1vcjxzdXA+MTwvc3VwPjwvdGQ+PHRkPkRSLy08L3RkPjx0ZD5HYXJnYW50dWFuPC90ZD48L3RyPjwvdGFibGU+MTogPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9Ik1hZ2ljV2VhcG9uc0Rpc3BsYXkuYXNweD9JdGVtTmFtZT1CcmlsbGlhbnQgRW5lcmd5Ij48aT5CcmlsbGlhbnQgZW5lcmd5PC9pPjwvYT4gd2VhcG9ucyBieXBhc3MgYW55IERSIHByb3ZpZGVkIGJ5IGFybW9yLiBJbiBhZGRpdGlvbiwgRFIgZnJvbSBhcm1vciBpcyBoYWx2ZWQgaWYgYSBjcmVhdHVyZSBpcyBncmFwcGxlZCBvciBlbnRhbmdsZWQsIGFuZCBkb2VzIG5vdCBhcHBseSB3aGVuIGEgY3JlYXR1cmUgaXMgaGVscGxlc3Mgb3IgcGlubmVkLiA8YnIgLz4gPGJyIC8+PGI+TmF0dXJhbCBBcm1vciBCb251cyBhbmQgRFI8L2I+OiBMaWtlIGEgY3JlYXR1cmUncyBhcm1vciBib251cywgYSBuYXR1cmFsIGFybW9yIGJvbnVzIGlzIGFsc28gY29udmVydGVkIGludG8gZGFtYWdlIHJlZHVjdGlvbi4gSWYgYSBjcmVhdHVyZSBpcyB3ZWFyaW5nIGFybW9yIGFuZCBoYXMgYSBuYXR1cmFsIGFybW9yIGJvbnVzLCB0aGUgY3JlYXR1cmUgYWRkcyBpdHMgYXJtb3IgYm9udXMgdG8gaXRzIG5hdHVyYWwgYXJtb3IgYm9udXMgdG8gZGV0ZXJtaW5lIHRoZSBhbW91bnQgb2YgRFIvIGFybW9yIHRoYXQgaXQgaGFzIChzZWUgVGFibGUgNeKAkzIpLjxiciAvPjxiciAvPiBGb3IgaW5zdGFuY2UsIGlmIGEgY3JlYXR1cmUgd2VhcmluZyBhICsyIGNoYWluIHNoaXJ0IGhhcyBEUiA2L2FybW9yIGlzIHRoZW4gc3ViamVjdCB0byBhIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJTcGVsbERpc3BsYXkuYXNweD9JdGVtTmFtZT1iYXJrc2tpbiI+PGk+YmFya3NraW48L2k+PC9hPiBzcGVsbCBjYXN0IGJ5IGEgNnRoLWxldmVsIGRydWlkIChnYWluaW5nIGEgKzMgbmF0dXJhbCBhcm1vciBib251cyksIGl0cyBEUiBiZWNvbWVzIERSIDkvYXJtb3IgZm9yIHRoZSBkdXJhdGlvbiBvZiB0aGUgc3BlbGwuIFRoaXMgRFIgaXMgYnlwYXNzZWQgYnkgYWRhbWFudGluZSwgb3IgdGhlIGF0dGFja3Mgb2YgSHVnZSBvciBsYXJnZXIgY3JlYXR1cmVzLiBBIGNyZWF0dXJlIHRoYXQgaGFzIGJvdGggRFIgZnJvbSBhIHNvdXJjZSBvdGhlciB0aGFuIGFybW9yIGFuZCBhIG5hdHVyYWwgYXJtb3IgYm9udXMgZ2FpbnMgdGhlIGVmZmVjdHMgb2YgYW4gZW5oYW5jZWQgZm9ybSBvZiBEUiwgc2ltaWxhciB0byBob3cgdGhlIGNvbXBvc2l0aW9uIG9mIHRoZSBhcm1vciBncmFudHMgc3BlY2lhbCBEUi9hcm1vciBkZWZlbnNlcyAoc2VlIFRhYmxlIDXigJMxKS4gSWYgYSBjcmVhdHVyZSBoYXMgbWFnaWNhbCBhcm1vciwgbmF0dXJhbCBhcm1vciwgYW5kIERSLCBpdCB0YWtlcyB0aGUgYmVzdCBmb3JtIG9mIHRoZSBzcGVjaWFsIHByb3RlY3Rpb24gcHJvdmlkZWQgYnkgYm90aCBpdHMgYXJtb3IgYW5kIGl0cyBtaXggb2YgRFIgYW5kIG5hdHVyYWwgYXJtb3IgdG8gaXRzIERSL2FybW9yLjxiciAvPjxiciAvPiBGb3IgaW5zdGFuY2UsIGlmIGEgY3JlYXR1cmUgaGFzIG5hdHVyYWwgYXJtb3IgYW5kIERSLyBtYWdpYyBhbmQgaXMgd2VhcmluZyBhZGFtYW50aW5lIGFybW9yLCB0aGF0IGNyZWF0dXJlJ3MgRFIvYXJtb3IgZnVuY3Rpb25zIGFzIERSL+KAlCwgYW5kIGNhbiBiZSBieXBhc3NlZCBieSBHYXJnYW50dWFuIG9yIGxhcmdlciBjcmVhdHVyZXMsIHNpbmNlIHRoZSBhZGFtYW50aW5lIGFybW9yIHByb3ZpZGVzIHRoZSBiZXN0IG9mIHRoZSB0d28gZGFtYWdlIHJlZHVjdGlvbnMuPGJyIC8+IDxoMj5UYWJsZSA1LTI6IE5hdHVyYWwgQXJtb3IgQ29udmVyc2lvbiB0byBEUjwvaDI+IDx0YWJsZSBjbGFzcz0iaW5uZXIiPjx0cj48dGQ+PGI+PC9iPjwvdGQ+PHRkPjxiPjwvYj48L3RkPjx0ZD48Yj48L2I+PC90ZD48L3RyPjx0cj48dGQ+TmF0dXJhbCBhcm1vcjwvdGQ+PHRkPkRSL21hZ2ljPC90ZD48dGQ+TGFyZ2U8L3RkPjwvdHI+PHRyPjx0ZD5OYXR1cmFsIGFybW9yIHdpdGggRFIvbWFnaWM8L3RkPjx0ZD5EUi9hZGFtYW50aW5lPC90ZD48dGQ+SHVnZTwvdGQ+PC90cj48dHI+PHRkPk5hdHVyYWwgYXJtb3Igd2l0aCBEUi9hZGFtYW50aW5lPC90ZD48dGQ+RFIvLTwvdGQ+PHRkPkdhcmdhbnR1YW48L3RkPjwvdHI+PHRyPjx0ZD5OYXR1cmFsIGFybW9yIHdpdGggRFIvLTwvdGQ+PHRkPkRSLy08c3VwPjE8L3N1cD48L3RkPjx0ZD5Db2xvc3NhbDwvdGQ+PC90cj48dHI+PHRkPk5hdHVyYWwgYXJtb3Igd2l0aCBEUi9lcGljPC90ZD48dGQ+RFIvZXBpYzxzdXA+MTwvc3VwPjwvdGQ+PHRkPm4vYTwvdGQ+PC90cj48L3RhYmxlPjEgQSBjcmVhdHVyZSB0aGF0IGFscmVhZHkgaGFzIERSL+KAlCBvciBEUi9lcGljIGluY3JlYXNlcyBpdHMgRFIgYnkgYW4gYW1vdW50IGVxdWFsIHRvIGl0cyBuYXR1cmFsIGFybW9yIGJvbnVzLiA8YnIgLz48YnIgLz48Yj5VbnVzdWFsIENyZWF0dXJlcyBhbmQgQXJtb3IgRFI8L2I+OiBBbW9ycGhvdXMgb3IgaW5jb3Jwb3JlYWwgY3JlYXR1cmVzIGhhdmUgYW4gZWFzaWVyIHRpbWUgYnlwYXNzaW5nIERSLyBhcm1vci4gV2hlbiB0aGV5IGF0dGFjayBhIGNyZWF0dXJlIHdpdGggRFIvYXJtb3IsIHRoZXkgdHlwaWNhbGx5IHRyZWF0IHRoYXQgRFIgYXMgYSBmcmFjdGlvbiBvZiB0aGUgRFIvYXJtb3IuIEF0dGFja3MgYnkgaW5jb3Jwb3JlYWwgY3JlYXR1cmVzIGVudGlyZWx5IGlnbm9yZSB0aGUgRFIgdW5sZXNzIHRoYXQgRFIgY29tZXMgZnJvbSBhIGZvcmNlIGVmZmVjdCBvciBmcm9tIGFybW9yIHdpdGggdGhlIDxNQUdJQy5BUk1PUiI+R2hvc3QgVG91Y2giPjxpPmdob3N0IHRvdWNoPC9pPjwvYT4gc3BlY2lhbCBhcm1vciBxdWFsaXR5LiBUaGVzZSB0cmFpdHMgYXJlIGRldGFpbGVkIGluIFRhYmxlIDXigJMzLjxiciAvPjxoMj5UYWJsZSA1LTM6IFVudXN1YWwgQ3JlYXR1cmVzIGFuZCBBcm1vciBEUjwvaDI+PHRhYmxlIGNsYXNzPSJpbm5lciI+PHRyPjx0ZD48Yj5BdHRhY2tpbmcgQ3JlYXR1cmUgVHlwZTwvYj48L3RkPjx0ZD48Yj5EUiBNb2RpZmllcjwvYj48L3RkPjwvdHI+PHRyPjx0ZD5BbW9ycGhvdXM8c3VwPjE8L3N1cD48L3RkPjx0ZD54IDEvMjwvdGQ+PC90cj48dHI+PHRkPkluY29ycG9yZWFsPC90ZD48dGQ+eCAwICh4MSBpZiBEUiBpcyBmcm9tIGZvcmNlIGVmZmVjdCBvciA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iTWFnaWNBcm1vckRpc3BsYXkuYXNweD9JdGVtTmFtZT1HaG9zdCBUb3VjaCI+PjxpPmdob3N0IHRvdWNoPC9pPjwvYT4gYXJtb3I8L3RkPjwvdHI+PHRyPjx0ZD5Td2FybSBvZiBUaW55IGNyZWF0dXJlczwvdGQ+PHRkPnggMS8yPC90ZD48L3RyPjx0cj48dGQ+U3dhcm0gb2YgRGltaW51dGl2ZSBjcmVhdHVyZXM8L3RkPjx0ZD54IDEvNDwvdGQ+PC90cj48dHI+PHRkPlN3YXJtIG9mIEZpbmUgY3JlYXR1cmVzPC90ZD48dGQ+eCAwPC90ZD48L3RyPjwvdGFibGU+IDxiciAvPiAxIEVsZW1lbnRhbHMsIG9vemVzLCBvb3plbGlrZSBjcmVhdHVyZXMsIGFuZCBhbnkgY3JlYXR1cmUgd2l0aCB0aGUgYW1vcnBob3VzIGRlZmVuc2l2ZSBhYmlsaXR5LmRkZK2KFZLgAuVwAM3SQPGA3ZjSiq2Fc+sdLoiLB04Pa/7G" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=74">Optional Rule Systems</a></u> / <u><a href="Rules.aspx?ID=1123">Armor as Damage Reduction</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=1125">Armor as DR</a></h1><b>Source</b> <a href="http://paizo.com/pathfinderRPG/v5748btpy8mcz" target="_blank" class="external-link"><i>Ultimate Combat pg. 191</i></a><br />Armor in this system keeps all of its normal statistics and qualities, but its armor bonus (including any enhancement bonus added to armor bonus and natural armor bonus) is converted to DR/armor. The DR an armor provides is equal to its total armor bonus with a +1 bonus at 5th level or at 5 Hit Dice, with an increase to that bonus of +1 for every five levels above 5th level, or every 5 Hit Dice over 5 Hit Dice (to a maximum of +4 to DR at 20th level or at 20 or more Hit Dice), provided that the creature wearing the armor is also proficient with the armor.<br /><br /> <b>Using Armor without Proficiency</b>: Creatures using armor they are not proficient with do not gain the bonus per level or Hit Dice to the DR, on top of any of the other normal penalties for using armor without proficiency.<br /><br /> <b>DR/Armor</b>: This type of DR blocks the damage of all attacks that would normally be affected by DR, based on the composition of the armor (see Table 5–1). Unlike most forms of damage reduction, DR/armor stacks with other types of DR. For instances, when fighting a skeleton with DR 5/bludgeoning and DR 4/armor (+2 for armor, +2 for natural armor), the skeleton's DR/armor reduces 9 points of damage from non-bludgeoning attacks, and 4 damage from bludgeoning weapon attacks. Magic weapons and attacks from Large or larger creatures bypass the DR 4/ armor, but not the DR 5/bludgeoning.<br /> <h2>Table 5-1: Armor Composition and DR</h2><table class="inner"><tr><td><b>Material</b></td><td><b>DR Provided</b></td><td><b>Attacker Size to Bypass DR</b></td></tr><tr><td>Nonmagical armor<sup>1</sup></td><td>DR/magic</td><td>Large</td></tr><tr><td>Magical armor<sup>1</sup></td><td>DR/adamantine</td><td>Huge</td></tr><tr><td>Adamantine armor<sup>1</sup></td><td>DR/-</td><td>Gargantuan</td></tr></table>1: <a style="text-decoration:underline" href="MagicWeaponsDisplay.aspx?ItemName=Brilliant Energy"><i>Brilliant energy</i></a> weapons bypass any DR provided by armor. In addition, DR from armor is halved if a creature is grappled or entangled, and does not apply when a creature is helpless or pinned. <br /> <br /><b>Natural Armor Bonus and DR</b>: Like a creature's armor bonus, a natural armor bonus is also converted into damage reduction. If a creature is wearing armor and has a natural armor bonus, the creature adds its armor bonus to its natural armor bonus to determine the amount of DR/ armor that it has (see Table 5–2).<br /><br /> For instance, if a creature wearing a +2 chain shirt has DR 6/armor is then subject to a <a style="text-decoration:underline" href="SpellDisplay.aspx?ItemName=barkskin"><i>barkskin</i></a> spell cast by a 6th-level druid (gaining a +3 natural armor bonus), its DR becomes DR 9/armor for the duration of the spell. This DR is bypassed by adamantine, or the attacks of Huge or larger creatures. A creature that has both DR from a source other than armor and a natural armor bonus gains the effects of an enhanced form of DR, similar to how the composition of the armor grants special DR/armor defenses (see Table 5–1). If a creature has magical armor, natural armor, and DR, it takes the best form of the special protection provided by both its armor and its mix of DR and natural armor to its DR/armor.<br /><br /> For instance, if a creature has natural armor and DR/ magic and is wearing adamantine armor, that creature's DR/armor functions as DR/—, and can be bypassed by Gargantuan or larger creatures, since the adamantine armor provides the best of the two damage reductions.<br /> <h2>Table 5-2: Natural Armor Conversion to DR</h2> <table class="inner"><tr><td><b></b></td><td><b></b></td><td><b></b></td></tr><tr><td>Natural armor</td><td>DR/magic</td><td>Large</td></tr><tr><td>Natural armor with DR/magic</td><td>DR/adamantine</td><td>Huge</td></tr><tr><td>Natural armor with DR/adamantine</td><td>DR/-</td><td>Gargantuan</td></tr><tr><td>Natural armor with DR/-</td><td>DR/-<sup>1</sup></td><td>Colossal</td></tr><tr><td>Natural armor with DR/epic</td><td>DR/epic<sup>1</sup></td><td>n/a</td></tr></table>1 A creature that already has DR/— or DR/epic increases its DR by an amount equal to its natural armor bonus. <br /><br /><b>Unusual Creatures and Armor DR</b>: Amorphous or incorporeal creatures have an easier time bypassing DR/ armor. When they attack a creature with DR/armor, they typically treat that DR as a fraction of the DR/armor. Attacks by incorporeal creatures entirely ignore the DR unless that DR comes from a force effect or from armor with the <MAGIC.ARMOR">Ghost Touch"><i>ghost touch</i></a> special armor quality. These traits are detailed in Table 5–3.<br /><h2>Table 5-3: Unusual Creatures and Armor DR</h2><table class="inner"><tr><td><b>Attacking Creature Type</b></td><td><b>DR Modifier</b></td></tr><tr><td>Amorphous<sup>1</sup></td><td>x 1/2</td></tr><tr><td>Incorporeal</td><td>x 0 (x1 if DR is from force effect or <a style="text-decoration:underline" href="MagicArmorDisplay.aspx?ItemName=Ghost Touch">><i>ghost touch</i></a> armor</td></tr><tr><td>Swarm of Tiny creatures</td><td>x 1/2</td></tr><tr><td>Swarm of Diminutive creatures</td><td>x 1/4</td></tr><tr><td>Swarm of Fine creatures</td><td>x 0</td></tr></table> <br /> 1 Elementals, oozes, oozelike creatures, and any creature with the amorphous defensive ability.</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,278 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137805785-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137805785-2');
+    </script>
+    <title>
+	Events - Rules - Archives of Nethys: Pathfinder RPG Database
+</title><link href="Styles/layout.css" rel="stylesheet" type="text/css" /><link href="Styles/typography.css" rel="stylesheet" type="text/css" /><link href="https://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" /><link href="http://fonts.googleapis.com/css?family=Julee" rel="stylesheet" type="text/css" />
+    <script src="./Scripts/hidefilter.js" charset="utf-8"></script>
+    <script src="./Scripts/toggle.js" charset="utf-8"></script>
+    <meta name="keywords" content="Archives, Nethys, Wiki, Archives of Nethys, Pathfinder, Official, AoN, AoNPRD, PRD, PFSRD, 1E, 1st Edition, Rules, Events" /><meta name="description" content="Events are the stage for each step of a social conflict. An event is a lot like an encounter, but instead of detailing a location and its inhabitants, it describes a scene that either provides a method of discovering some aspect of a social conflict or frames a social conflict challenge. A social conflict often becomes more complex because of the PCs’ actions, which either cause or affect future events. There are two main types of social conflict events: discovery events, where the PCs have the opportunity to learn more about the nature and particulars of the social conflict, and challenge events, where the PCs must face some challenge related to the social conflict. Even though it’s generally helpful to make the distinction between discovery or challenge events, sometimes a social conflict event has attributes of both types. These mixed events are especially common in more complex social conflicts.&lt;br />&lt;br /> Because events can take on many forms, each of the following sections also present options for using discovery and challenge events with subsystems from this book and other sources." /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>        
+        .nav-parent > * {
+            display: block;
+        }
+        .mobile-menu-toggle{
+            display:none;
+        }
+        #main-menu .nav-parent > .brand > .title{
+            display: none;
+        }
+
+    </style>
+</head>
+<body class="dark">
+	<div id="wrapper" class="clearfix" >
+		<form method="post" action="./Rules.aspx?ID=2222" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc1NzkxNjgzD2QWAmYPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgRUZXh0BXY8aDEgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyIj48YSBocmVmPSJSdWxlcy5hc3B4Ij48dT5SdWxlcyBJbmRleDwvdT48L2E+IHwgPGEgaHJlZj0iR01TY3JlZW4uYXNweCI+R00gU2NyZWVuPC9hPjwvaDE+ZGQCCQ8PFgIfAAX2Yzx1PjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MTY4MCI+TWFzdGVyaW5nIEludHJpZ3VlPC9hPjwvdT4gLyA8dT48YSBocmVmPSJSdWxlcy5hc3B4P0lEPTIyMTYiPlNvY2lhbCBDb25mbGljdHM8L2E+PC91PjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjIyMiI+RXZlbnRzPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5ajZwP1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1VbHRpbWF0ZS1JbnRyaWd1ZQ0KIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlVsdGltYXRlIEludHJpZ3VlIHBnLiAxNjg8L2k+PC9hPjxiciAvPkV2ZW50cyBhcmUgdGhlIHN0YWdlIGZvciBlYWNoIHN0ZXAgb2YgYSBzb2NpYWwgY29uZmxpY3QuIEFuIGV2ZW50IGlzIGEgbG90IGxpa2UgYW4gZW5jb3VudGVyLCBidXQgaW5zdGVhZCBvZiBkZXRhaWxpbmcgYSBsb2NhdGlvbiBhbmQgaXRzIGluaGFiaXRhbnRzLCBpdCBkZXNjcmliZXMgYSBzY2VuZSB0aGF0IGVpdGhlciBwcm92aWRlcyBhIG1ldGhvZCBvZiBkaXNjb3ZlcmluZyBzb21lIGFzcGVjdCBvZiBhIHNvY2lhbCBjb25mbGljdCBvciBmcmFtZXMgYSBzb2NpYWwgY29uZmxpY3QgY2hhbGxlbmdlLiBBIHNvY2lhbCBjb25mbGljdCBvZnRlbiBiZWNvbWVzIG1vcmUgY29tcGxleCBiZWNhdXNlIG9mIHRoZSBQQ3PigJkgYWN0aW9ucywgd2hpY2ggZWl0aGVyIGNhdXNlIG9yIGFmZmVjdCBmdXR1cmUgZXZlbnRzLiBUaGVyZSBhcmUgdHdvIG1haW4gdHlwZXMgb2Ygc29jaWFsIGNvbmZsaWN0IGV2ZW50czogZGlzY292ZXJ5IGV2ZW50cywgd2hlcmUgdGhlIFBDcyBoYXZlIHRoZSBvcHBvcnR1bml0eSB0byBsZWFybiBtb3JlIGFib3V0IHRoZSBuYXR1cmUgYW5kIHBhcnRpY3VsYXJzIG9mIHRoZSBzb2NpYWwgY29uZmxpY3QsIGFuZCBjaGFsbGVuZ2UgZXZlbnRzLCB3aGVyZSB0aGUgUENzIG11c3QgZmFjZSBzb21lIGNoYWxsZW5nZSByZWxhdGVkIHRvIHRoZSBzb2NpYWwgY29uZmxpY3QuIEV2ZW4gdGhvdWdoIGl04oCZcyBnZW5lcmFsbHkgaGVscGZ1bCB0byBtYWtlIHRoZSBkaXN0aW5jdGlvbiBiZXR3ZWVuIGRpc2NvdmVyeSBvciBjaGFsbGVuZ2UgZXZlbnRzLCBzb21ldGltZXMgYSBzb2NpYWwgY29uZmxpY3QgZXZlbnQgaGFzIGF0dHJpYnV0ZXMgb2YgYm90aCB0eXBlcy4gVGhlc2UgbWl4ZWQgZXZlbnRzIGFyZSBlc3BlY2lhbGx5IGNvbW1vbiBpbiBtb3JlIGNvbXBsZXggc29jaWFsIGNvbmZsaWN0cy48YnIgLz48YnIgLz4gQmVjYXVzZSBldmVudHMgY2FuIHRha2Ugb24gbWFueSBmb3JtcywgZWFjaCBvZiB0aGUgZm9sbG93aW5nIHNlY3Rpb25zIGFsc28gcHJlc2VudCBvcHRpb25zIGZvciB1c2luZyBkaXNjb3ZlcnkgYW5kIGNoYWxsZW5nZSBldmVudHMgd2l0aCBzdWJzeXN0ZW1zIGZyb20gdGhpcyBib29rIGFuZCBvdGhlciBzb3VyY2VzLjxiciAvPjxoMSBjbGFzcz0idGl0bGUiPjxhIGhyZWY9IlJ1bGVzLmFzcHg/SUQ9MjIyMyI+RGlzY292ZXJ5IEV2ZW50czwvYT48L2gxPjxiPlNvdXJjZTwvYj4gPGEgaHJlZj0iaHR0cDovL3BhaXpvLmNvbS9wcm9kdWN0cy9idHB5OWo2cD9QYXRoZmluZGVyLVJvbGVwbGF5aW5nLUdhbWUtVWx0aW1hdGUtSW50cmlndWUNCiIgdGFyZ2V0PSJfYmxhbmsiIGNsYXNzPSJleHRlcm5hbC1saW5rIj48aT5VbHRpbWF0ZSBJbnRyaWd1ZSBwZy4gMTY4PC9pPjwvYT48YnIgLz5EaXNjb3ZlcnkgZXZlbnRzIHR5cGljYWxseSBpbnRyb2R1Y2Ugb3IgYWR2YW5jZSBhIHNvY2lhbCBjb25mbGljdCBzdG9yeSBieSBnaXZpbmcgdGhlIFBDcyB0aGUgb3Bwb3J0dW5pdHkgdG8gbGVhcm4gaW5mb3JtYXRpb24gYWJvdXQgdGhlIGNvbmZsaWN0LiBUaGUgc3VjY2VzcyBvZiB0aGVzZSBldmVudHMgbWlnaHQgaGluZ2Ugb24gdGhlIFBDc+KAmSBhYmlsaXR5IHRvIHBlcmNlaXZlIG9yIG90aGVyd2lzZSB1bmNvdmVyIGNlcnRhaW4gY2x1ZXMuPGJyIC8+PGJyIC8+IEFjY29tcGxpc2hpbmcgdGhpcyBjYW4gYmUgYXMgZWFzeSBhcyBsaXN0ZW5pbmcgdG8gYW4gb2xkLXRpbWVyIHNpdHRpbmcgYnkgdGhlIHRhdmVybiBmaXJlIGFzIGhlIHJlbGF0ZXMgc3RvcmllcyBhYm91dCBzdHJhbmdlIGRpc2FwcGVhcmFuY2VzIGRvd24gYnkgdGhlIGRvY2tzLCBvciB0YWxraW5nIHRvIGEgZ3JvdXAgb2YgaGFsZmxpbmdzIHdobyBiZXNlZWNoIHRoZSBQQ3MgZm9yIGhlbHAgaW4gdGhlaXIgZWZmb3J0cyB0byBnYWluIHZvdGluZyByaWdodHMuIERpc2NvdmVyeSBldmVudHMgYXJlIHR5cGljYWxseSByb2xlcGxheWluZyBlbmNvdW50ZXJzIGR1cmluZyB3aGljaCB0aGUgUENzIGNhbiBsZWFybiB0aGUgbmF0dXJl4oCUb3IgYXQgbGVhc3QgdGhlIHBhcnRpYWwgbmF0dXJl4oCUb2YgdGhlIGNvbmZsaWN0IGFuZCBtYWtlIGEgZGVjaXNpb24gYWJvdXQgd2hldGhlciB0byBiZWNvbWUgaW52b2x2ZWQuIE90aGVyIHRpbWVzLCB0aGUgbmF0dXJlIGFuZCBkZXB0aCBvZiB0aGUgZGlzY292ZXJ5IG1pZ2h0IHJlcXVpcmUgdGhlIFBDcyB0byB1c2UgY2VydGFpbiBza2lsbHMgb3Igb3RoZXIgYWJpbGl0aWVzLjxiciAvPjxiciAvPiBEaXNjb3ZlcnkgZXZlbnRzIHVzdWFsbHkgbGVhbiBoZWF2aWx5IG9uIHRoZSB1c2Ugb2YgRGlwbG9tYWN5LCBJbnRpbWlkYXRlLCBTZW5zZSBNb3RpdmUsIGFuZCB2YXJpb3VzIEtub3dsZWRnZSBza2lsbHMuIFdoZW4gb3V0bGluaW5nIGEgZGlzY292ZXJ5IGV2ZW50LCBpdCBpcyBiZXN0IHRvIGNvbWUgdXAgd2l0aCBhIGJhc2VsaW5lIG9mIGtub3dsZWRnZSB0aGF0IHlvdSB3YW50IHRoZSBldmVudCB0byBpbXBhcnQ7IHRoaXMgY291bGQgYmUgdGhlIGJhcmUgbWluaW11bSBvZiB3aGF0IHRoZSBQQ3MgbmVlZCB0byBsZWFybiBmcm9tIHRoZSBldmVudCBpbiBvcmRlciB0byB0cmlnZ2VyIG9uZSBvZiBpdHMgY29uc2VxdWVuY2VzLiBUaGlzIGtub3dsZWRnZSBjb3VsZCBjb250YWluIG1pc2luZm9ybWF0aW9uIG9yIGZhdWx0eSBhc3N1bXB0aW9uc+KAlGVsZW1lbnRzIG9mIHRoZSBzdG9yeSB5b3UgY2FuIGxhdGVyIHR3aXN0IHRvIGNyZWF0ZSBtb3JlIGludGVyZXN0aW5nIGFuZCBkeW5hbWljIHNvY2lhbCBjb25mbGljdHMuPGJyIC8+PGJyIC8+IEZvciBpbnN0YW5jZSwgY29uc2lkZXIgdGhlIGhhbGZsaW5ncyBiZXNlZWNoaW5nIHRoZSBQQ3MgZm9yIGhlbHAgdG8gZ2FpbiB2b3RpbmcgcmlnaHRzLiBJZiB0aGUgUENzIHRha2Ugd2hhdCB0aGUgaGFsZmxpbmdzIHNheSBhdCBmYWNlIHZhbHVlLCB0aGV5IG1heSB0aGluayB0aGlzIGlzIG1lcmVseSBhIGNhc2Ugb2YgYmxhdGFudCBpbmp1c3RpY2UgYXQgd29yaywgYnV0IHN1Y2Nlc3MgYXQgc29tZSBkaWZmaWN1bHQgU2Vuc2UgTW90aXZlIGNoZWNrcyBtYXkgbGVhZCB0aGUgUENzIHRvIHN1c3BlY3QgdGhlcmXigJlzIHNvbWV0aGluZyBtb3JlIHRvIHRoZSB0YWxlLiBUaGVuLCBzdWNjZWVkaW5nIGF0IGFub3RoZXIgZGlmZmljdWx0IEtub3dsZWRnZSAobG9jYWwpIGNoZWNrIG1pZ2h0IHJldmVhbCB0aGF0IG9uZSBvZiB0aGUgcmVhc29ucyB0aGUgaGFsZmxpbmdzIGRvbuKAmXQgaGF2ZSB0aGUgcmlnaHQgdG8gdm90ZSBpcyBiZWNhdXNlIHRoZXkgYXJlIGNvbnNpZGVyZWQgYSBuYXRpb24gb2YgdGhlaXIgb3duIHRvIHRoZSBraW5nZG9tIGFuZCBkb27igJl0IGhhdmUgdG8gcGF5IHRoZSByb3lhbCB0YXhlcy4gUXVlc3Rpb25pbmcgdGhlIGhhbGZsaW5ncyBmdXJ0aGVyIGNvdWxkIHJldmVhbCB0aGF0IHRoZXkgd2FudCB0byBiZSBhYmxlIHRvIHZvdGUsIGJ1dCB3b3VsZCBzdGlsbCBsaWtlIHRvIGF2b2lkIHBheWluZyB0aGUgcm95YWwgdGF4ZXMuPGJyIC8+PGJyIC8+IFNvbWV0aW1lcyBkaXNjb3ZlcnkgZXZlbnRzIGNhbiBpbnZvbHZlIGNoYWxsZW5nZXMgaW4gb3JkZXIgdG8gZ2FpbiB0aGUgaW5mb3JtYXRpb24uIEEgZGlzY292ZXJ5IG1pZ2h0IGludm9sdmUgdHJhY2tpbmcgZG93biBvYnNjdXJlIGtub3dsZWRnZSAodXNpbmcgdGhlIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJSdWxlcy5hc3B4P05hbWU9UmVzZWFyY2gmQ2F0ZWdvcnk9TWFzdGVyaW5nIEludHJpZ3VlIj5yZXNlYXJjaCBydWxlczwvYT4pLCBydW5uaW5nIGRvd24gc29tZW9uZSB3aG8gaGFzIHRoZSBpbmZvcm1hdGlvbiAodXNpbmcgdGhlIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJSdWxlcy5hc3B4P05hbWU9UHVyc3VpdCZDYXRlZ29yeT1NYXN0ZXJpbmcgSW50cmlndWUiPnB1cnN1aXQgcnVsZXM8L2E+KSwgcGVyZm9ybWluZyBhIGhlaXN0IGZvciB0aGUgaW5mb3JtYXRpb24gKHVzaW5nIHRoZSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iUnVsZXMuYXNweD9OYW1lPUhlaXN0cyZDYXRlZ29yeT1NYXN0ZXJpbmcgSW50cmlndWUiPmhlaXN0IHJ1bGVzPC9hPiksIG9yIGV2ZW4gZW50ZXJpbmcgYSBzb2NpYWwgZW5nYWdlbWVudCB0byBmaWd1cmUgb3V0IGhvdyBtdWNoIHRoZSBQQ3MgYXJlIGFibGUgdG8gdW5jb3ZlciAodXNpbmcgdGhlIDxpPlBhdGhmaW5kZXIgUlBHIFNvY2lhbCBDb21iYXQgRGVjazwvaT4sIHJvbGVwbGF5aW5nIHRoZSBjaGFsbGVuZ2UsIG9yIHVzaW5nIG9uZSBvZiB0aGUgY2hhbGxlbmdlIHR5cGVzIGRldGFpbGVkIGxhdGVyIGluIHRoaXMgc2VjdGlvbikuIE9mdGVuIHRoZXNlIGFyZSBtaXhlZCBldmVudHMgd2l0aCBhbiBlbXBoYXNpcyBvbiBkaXNjb3ZlcnkuIE9uIHJhcmUgb2NjYXNpb25zLCB0aGlzIHR5cGUgb2YgZXZlbnQgbWlnaHQgbGVhZCB0byBjb21iYXQuIEZvciBleGFtcGxlLCB0aGUgUENzIGhhdmUgYmVlbiB0YXNrZWQgd2l0aCBhcHByZWhlbmRpbmcgYSBtaXNzaXZlIGNhcnJpZWQgYnkgYSBsb2NhbCBjb3VydGVzYW4sIGFuZCBydW4gaW50byB0cm91YmxlIHdoZW4gdGhleSBmaW5kIG91dCBzaGXigJlzIG5vdCBvbmx5IHZlcnkgY2FwYWJsZSBvZiBkZWZlbmRpbmcgdGhlIG1pc3NpdmUgb24gaGVyIG93biBidXQgYWxzbyBoYXMgaGlyZWQgYSBmZXcgc2VsbHN3b3JkcyB0byB3YXlsYXkgdGhlIFBDcyBvbmNlIHRoZXkgbWFrZSB0aGVpciBtb3ZlLiBXaGlsZSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iUnVsZXMuYXNweD9OYW1lPVZlcmJhbCBEdWVscyZDYXRlZ29yeT1NYXN0ZXJpbmcgSW50cmlndWUiPnZlcmJhbCBkdWVsczwvYT4gYXJlIGEgcGVyZmVjdCBmaXQgZm9yIGEgY2hhbGxlbmdlIGluIGEgc29jaWFsIGNvbmZsaWN0LCBmcm9tIHRpbWUgdG8gdGltZSBjb25zaWRlciB1c2luZyBlaXRoZXIgYSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iUnVsZXMuYXNweD9OYW1lPVNwZWxsIER1ZWxzJkNhdGVnb3J5PU1hc3RlcmluZyBNYWdpYyI+c3BlbGwgZHVlbDwvYT4sIGEgPGEgc3R5bGU9InRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmUiIGhyZWY9IlJ1bGVzLmFzcHg/TmFtZT1EdWVscyZDYXRlZ29yeT1NYXN0ZXJpbmcgQ29tYmF0Ij5waHlzaWNhbCBkdWVsPC9hPiwgb3IgYSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iUnVsZXMuYXNweD9OYW1lPVBzeWNoaWMgRHVlbHMmQ2F0ZWdvcnk9T2NjdWx0IFJ1bGVzIj5wc3ljaGljIGR1ZWw8L2E+IHRvIGFkZCBzb21lIGFjdGlvbiB0byBkaXNjb3ZlcnkgZW5jb3VudGVycy4gU3BlbGwgZHVlbHMgYW5kIHBoeXNpY2FsIGR1ZWxzIGNhbiBkaXN0cmlidXRlIGluZm9ybWF0aW9uIGJ5IHdheSBvZiBzZWNyZXQgbWVzc2FnZXMgb3Igd2l0dHkgYmFudGVyLiBQc3ljaGljIGR1ZWxzIGNhbiBkaXN0cmlidXRlIGluZm9ybWF0aW9uIGluIGEgbW9yZSBkaXJlY3QgKGlmIHNvbWV3aGF0IGVuaWdtYXRpYykgZm9ybSBzaW5jZSB0aGUgYmluYXJ5IG1pbmRzY2FwZXMgb2Ygc3VjaCBib3V0cyBhbGxvdyB0aGUgZHVlbGlzdHMgdG8gYWNjZXNzIHBhcnRzIG9mIHRoZWlyIG9wcG9uZW50c+KAmSBtaW5kczsgYnkgcmVhZGluZyBhbiBvcHBvbmVudOKAmXMgbWVudGFsIG1hc2sgYW5kIHdhdGNoaW5nIGZvciBzdHJhbmdlIG1ldGFwaG9ycyBpbiB0aGF0IG9wcG9uZW504oCZcyBhdHRhY2sgZm9ybXMsIGEgZHVlbGlzdCBjYW4gcG9zc2libHkgbGVhcm4gbW9yZSBhYm91dCBoZXIgb3Bwb25lbnQuPGJyIC8+PGJyIC8+IFdoZW4gY3JlYXRpbmcgYSBkaXNjb3ZlcnkgZXZlbnQsIGl04oCZcyBpbXBvcnRhbnQgdG8gY29tcGFyZSBhbnkgYXNzdW1wdGlvbnMgeW914oCZdmUgbWFkZSBhYm91dCB0aGUgZXZlbnQgdG8gdGhlIGNhcGFiaWxpdGllcyBvZiB0aGUgUENzIGFuZCBldmVuIHRob3NlIG9mIHRoZSBjb250ZW5kZXJzLiBUaGVyZSBpcyBub3RoaW5nIGxpa2UgYSB3ZWxsLXBsYXllZCBkaXZpbmF0aW9uIHNwZWxsIHRvIGZvaWwgeW91ciBhc3N1bXB0aW9ucyBhYm91dCBob3cgYW4gZXZlbnQgaXMgZ29pbmcgdG8gdHJhbnNwaXJlLiBVc2UgdGhlIGd1aWRlbGluZXMgYW5kIGFkdmljZSBwcmVzZW50ZWQgaW4gdGhlIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJSdWxlcy5hc3B4P05hbWU9U3BlbGxzIG9mIEludHJpZ3VlJkNhdGVnb3J5PU1hc3RlcmluZyBJbnRyaWd1ZSI+U3BlbGxzIG9mIEludHJpZ3VlPC9hPiBzZWN0aW9uIHRvIGFpZCBpbiBzdWNoIHRyb3VibGVzaG9vdGluZy48YnIgLz48YnIgLz4gVWx0aW1hdGVseSwgdGhlIGNvbnNlcXVlbmNlcyBmb3IgZGlzY292ZXJ5IGV2ZW50cyBzaG91bGQgZGVwZW5kIG9uIGhvdyBtdWNoIHRoZSBQQ3MgZm91bmQgb3V0IGFuZCBob3cgdGhleSByZXNwb25kIHRvIHRoZSBrbm93bGVkZ2UuIFRoZXNlIGNvbnNlcXVlbmNlcyBzaG91bGQgYWxzbyB0YWtlIHRoZSBzdGFrZXMgaW50byBhY2NvdW50IGFuZCBob3cgY29udGVuZGVycyBtaWdodCByZWFjdCB0byB0aGUga25vd2xlZGdlIHRoYXQgdGhlIFBDcyBhcmUgaW52b2x2ZWQgb3Igc25vb3BpbmcgYXJvdW5kLiBPdXRzdGFuZGluZyBzdWNjZXNzZXMgYXQgZGlzY292ZXJ5IGNoYWxsZW5nZXMgc2hvdWxkIGFmZmVjdCB0aGUgUENz4oCZIGFiaWxpdHkgdG8gbmF2aWdhdGUgY2hhbGxlbmdlIGV2ZW50cyBpbiBhIHBvc2l0aXZlIHdheSwgd2hpbGUgdGVycmlibGUgZmFpbHVyZXMgbWF5IG1lYW4gdGhlIFBDcyBtaXNjb25zdHJ1ZSB0aGUgc2NvcGUgb2YgdGhlIGNoYWxsZW5nZSwgb3Zlcmxvb2sgc29tZSBhc3BlY3Qgb2YgaXQsIG9yIGZvbGxvdyB1cCBiYWQgbGVhZHMuPGJyIC8+PGgxIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iUnVsZXMuYXNweD9JRD0yMjI0Ij5DaGFsbGVuZ2UgRXZlbnRzPC9hPjwvaDE+PGI+U291cmNlPC9iPiA8YSBocmVmPSJodHRwOi8vcGFpem8uY29tL3Byb2R1Y3RzL2J0cHk5ajZwP1BhdGhmaW5kZXItUm9sZXBsYXlpbmctR2FtZS1VbHRpbWF0ZS1JbnRyaWd1ZQ0KIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImV4dGVybmFsLWxpbmsiPjxpPlVsdGltYXRlIEludHJpZ3VlIHBnLiAxNjk8L2k+PC9hPjxiciAvPkNoYWxsZW5nZSBldmVudHMgYWxsb3cgdGhlIFBDcyBhIGNoYW5jZSB0byBhZmZlY3Qgb3IgZXZlbiBkaXNydXB0IHRoZSBiYWxhbmNlIG9mIHBvd2VyIGluIHNvY2lhbCBjb25mbGljdHMuIFVubGlrZSBpbiBkaXNjb3ZlcnkgZW5jb3VudGVycywgd2hlcmUgdGhlIGdvYWwgaXMgb2Z0ZW4gdG8gcmVjb25ub2l0ZXIgdGhlIHBhcnRpY3VsYXJzIG9mIHRoZSBzb2NpYWwgbGFuZHNjYXBlLCBpbiBjaGFsbGVuZ2UgZW5jb3VudGVycywgdGhlIFBDcyB0YWtlIGEgc2hvdCBhdCBjaGFuZ2luZyB0aGF0IGxhbmRzY2FwZS48YnIgLz48YnIgLz4gV2hlbiBkZXNpZ25pbmcgYSBjaGFsbGVuZ2UgZXZlbnQsIGNvbnNpZGVyIHRoZSBzdGFrZXMgZm9yIGFsbCBjb250ZW5kZXJzLCB0aGUgbmF0dXJlIG9mIGN1cnJlbnQgY29tcGV0aXRpb24gZm9yIHRoZSBwYXJ0aWVzIGludm9sdmVkLCBhbmQgdGhlIGdyb3VwIHdpdGggd2hpY2ggdGhlIFBDcyBhcmUgYWxsaWVkLiBCeSB0aGUgZW5kIG9mIGEgY2hhbGxlbmdlIGV2ZW50LCB0aGUgUENzIHNob3VsZCBoYXZlIHRoZSBvcHBvcnR1bml0eSB0byBhbHRlciBvciByYWlzZSB0aGUgY29uZmxpY3TigJlzIHN0YWtlcy4gR2VuZXJhbGx5LCBpZiB0aGUgUENzIHN1Y2NlZWQsIHRoZWlyIGFsbGllZCBjb250ZW5kZXJzIGtlZXAgY29udHJvbCBvZiB0aGUgc3Rha2VzIG9yIGdhaW4gYSBzaWduaWZpY2FudCBzaGFyZSBvZiB0aGVtLCB3aGVyZWFzIGlmIHRoZSBQQ3MgZmFpbCwgdGhlaXIgZW5lbWllcyBrZWVwIGNvbnRyb2wgb2YgdGhlIHN0YWtlcyBvciBnYWluIGdyb3VuZCB0b3dhcmQgYXR0YWluaW5nIHRoZW0uPGJyIC8+PGJyIC8+IEluIHRoZXNlIHR5cGVzIG9mIGV2ZW50cywgdGhlIFBDcyBjb25mcm9udCBhIHNlcmllcyBvZiBjaGFsbGVuZ2VzLCB0aGVpciBzdWNjZXNzZXMgb3IgZmFpbHVyZXMgeWllbGQgY29uc2VxdWVuY2VzIHRoYXQgZWl0aGVyIGxlYWQgdG8gb3IgbW9kaWZ5IGZ1dHVyZSBzb2NpYWwgY29uZmxpY3QgZXZlbnRzLiBUaGUgUGF0aGZpbmRlciBSb2xlcGxheWluZyBHYW1lIGhhcyBhIG51bWJlciBvZiBzdWJzeXN0ZW1zIGFuZCB0b29scyBkZXNpZ25lZCB0byBoZWxwIHlvdSBjcmVhdGUgbm9uY29tYmF0IG9yIGNvbWJhdC1saWdodCBjaGFsbGVuZ2VzIHRvIHVzZSBpbiBzb2NpYWwtYmFzZWQgZW5jb3VudGVycy4gQWRkaXRpb25hbGx5LCBzb21lIGd1aWRlbGluZXMgZm9yIGNyZWF0aW5nIG1vcmUgZnJlZWZvcm0gc29jaWFsIGNoYWxsZW5nZXMgYXJlIHByZXNlbnRlZCBsYXRlciBpbiB0aGlzIHNlY3Rpb24uPGJyIC8+PGJyIC8+IEZvciBleGFtcGxlLCBsZXTigJlzIGNvbnRpbnVlIHdpdGggdGhlIHN0cnVnZ2xlIHRvIGdhaW4gdm90aW5nIHJpZ2h0cyBmb3IgdGhlIGhhbGZsaW5ncyBvZiB0aGUgY2l0eS4gVGhlIGhhbGZsaW5ncyB3YW50IGFuIGluY3JlYXNlZCBzaGFyZSBvZiBwb2xpdGljYWwgcG93ZXIgZm9yIGVsZWN0aW9ucywgYnV0IHRoZXkgYWxzbyB3YW50IHRvIGtlZXAgdGhlaXIgdGF4LWV4ZW1wdCBzdGF0dXMuIFRoZSBvdGhlciBjb250ZW5kZXJz4oCUIGxlZ2lzbGF0b3JzIHdobyBjdXJyZW50bHkgY29udHJvbCB0aGUgbG9jYWwgcG9saXRpY3PigJQgd291bGQgbGlrZSB0byBrZWVwIHRoZSBzdGF0dXMgcXVvIHNpbmNlIHRoZXkgZmVhciB3aGF0IGFuIGluZmx1eCBvZiBoYWxmbGluZyB2b3RlcnMgd291bGQgZG8gdG8gdGhlIHBvbGl0aWNhbCBsYW5kc2NhcGUuIFRoZSBQQ3MsIGFsbGllZCB3aXRoIHRoZSBoYWxmbGluZ3MsIGNvbWUgdXAgd2l0aCBhIHBsYW4gdG8gZWl0aGVyIGNvbnZpbmNlIG9yIHN0cm9uZy1hcm0gbG9jYWwgcG9saXRpY2lhbnMgdG8gd29yayB3aXRoIHRoZSBoYWxmbGluZ3MuIFdpdGggdGhlIDxpPlNvY2lhbCBDb21iYXQgRGVjazwvaT4sIHRoZSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iUnVsZXMuYXNweD9OYW1lPUluZGl2aWR1YWwgSW5mbHVlbmNlJkNhdGVnb3J5PUluZmx1ZW5jZSI+aW5kaXZpZHVhbCBpbmZsdWVuY2Ugc3lzdGVtPC9hPiwgYSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iUnVsZXMuYXNweD9OYW1lPVZlcmJhbCBEdWVsJkNhdGVnb3J5PU1hc3RlcmluZyBJbnRyaWd1ZSI+dmVyYmFsIGR1ZWw8L2E+LCBvciB0aGUgZnJlZWZvcm0gZXZlbnRzIGRldGFpbGVkIGxhdGVyIGluIHRoaXMgc2VjdGlvbiwgeW91IGNhbiBjcmVhdGUgYSBjaGFsbGVuZ2UgZXZlbnQgZHVyaW5nIHdoaWNoIHRoZSBQQ3MgaGVscCB0aGUgaGFsZmxpbmdzIGJ5IHRyeWluZyB0byBzd2F5IHRoZSBwb2xpdGljaWFucyBpbnRvIHN1cHBvcnRpbmcgdGhlIGhhbGZsaW5nc+KAmSBiaWQgdG8gdm90ZSB3aGlsZSBhbGxvd2luZyB0aGVtIHRvIGtlZXAgdGhlaXIgdGF4IGV4ZW1wdCBzdGF0dXMgKG1heWJlIGluIHJldHVybiBmb3IgYmFja2luZyBhIHBhcnRpY3VsYXIgY2FuZGlkYXRlKS48YnIgLz48YnIgLz4gVGhlIFBDcyB0aGVuIG1ha2UgdGhlIHJvdW5kcyBuZWdvdGlhdGluZyB3aXRoIHRoZSBjaXR54oCZcyB2YXJpb3VzIHBvbGl0aWNpYW5zLiBUaGUgY29uc2VxdWVuY2VzIG9mIHRoZSBjaGFsbGVuZ2UgYXJlIGJhc2VkIG9uIHRoZSBhY2N1bXVsYXRpb24gb2YgdmljdG9yaWVzIGFnYWluc3QgdGhlIHZhcmlvdXMgcG9saXRpY2lhbnMsIGFuZCBzaW5jZSBlYWNoIHBvbGl0aWNpYW4gaGFzIGEgZGlmZmVyZW50IHBlcnNvbmFsaXR5LCB0aGUga2V5IHRvIHN1Y2Nlc3MgaXMgZGlmZmVyZW50IGZvciBlYWNoIG9mIHRoZW0uIE9uZSBtaWdodCBjb3cgcXVpY2tseSB0byBwaHlzaWNhbCB0aHJlYXRzIGFuZCBpbnRpbWlkYXRpb24sIHdoaWxlIGFub3RoZXIgcG9saXRpY2lhbiBtaWdodCBiZSBjb3JydXB0IGFuZCBzdXNjZXB0aWJsZSB0byBicmliZXMuIE9uZSBwb2xpdGljaWFuIG1pZ2h0IGJlIHBhcnRpY3VsYXJseSBzdGVhZGZhc3QgaW4gaGlzIHN0YW5jZSwgYW5kIGNhbiBvbmx5IGJlIHN3YXllZCBpZiB0aGUgUENzIGRlY2lkZSB0byBnZXQgZGlydHkgYW5kIGJsYWNrbWFpbCBvciB0aHJlYXRlbiB0aGUgcG9saXRpY2lhbuKAmXMgbG92ZWQgb25lcy4gVGhpcyBwYXJ0aWN1bGFyIGV4YW1wbGUgaXMgdGhlIHBlcmZlY3Qgb3Bwb3J0dW5pdHkgdG8gdXNlIHRoZSBpbmRpdmlkdWFsIGluZmx1ZW5jZSBzeXN0ZW0sIGJ1dCBlYWNoIG9mIHRoZXNlIGludGVyYWN0aW9ucyBjb3VsZCBiZSBhIGRpZmZlcmVudCBjaGFsbGVuZ2UgdXNpbmcgdGhlIDxpPlNvY2lhbCBDb21iYXQgRGVjazwvaT4sIG9yIHlvdSBjb3VsZCBjcmVhdGUgYSBmcmVlZm9ybSBldmVudCBpbnN0ZWFkLjxiciAvPjxiciAvPiBLZWVwIGluIG1pbmQgdGhhdCBzb2NpYWwgY2hhbGxlbmdlcyBzaG91bGQgYmUgbW9yZSBhY3RpdmUgYW5kIGVuZ2FnaW5nIHRoYW4gYSBqdW1ibGUgb2Ygc2tpbGwgY2hlY2tzIGFuZCBhY3Rpb25zLiBDb25zaWRlciBtYWtpbmcgYSBzb2NpYWwgY2hhbGxlbmdlIG1vcmUgaW50ZXJlc3RpbmcgYnkgcHVuY3R1YXRpbmcgaXQgd2l0aCBhIGNoYXNlICh1c2luZyB0aGUgPFJVTEVTJUNoYXNlcyZDYXRlZ29yeT1BZHZhbmNlZCBUb3BpY3MiPmNoYXNlIHJ1bGVzPC9hPiBvciBlaXRoZXIgPGk+UGF0aGZpbmRlciBDYXJkczogQ2hhc2UgQ2FyZHM8L2k+IG9yIGl0cyBzZXF1ZWwsIDxpPkNoYXNlIENhcmRzIDI6IEhvdCBQdXJzdWl0PC9pPiksIGEgcHVyc3VpdCwgb3IgYSBoZWlzdC4gSW4gaGlnaGVyLWxldmVsIGdhbWVzLCBjaGFsbGVuZ2UgZXZlbnRzIG1heSBiZSBldmVuIG1vcmUgY29tcGxleCwgd2l0aCB0aGUgUENzIHVzaW5nIHRoZSA8YSBzdHlsZT0idGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZSIgaHJlZj0iUnVsZXMuYXNweD9OYW1lPUtpbmdkb20gQnVpbGRpbmcmQ2F0ZWdvcnk9S2luZ2RvbXMgYW5kIFdhciI+a2luZ2RvbS1idWlsZGluZyBydWxlczwvYT4sIG9yIGV2ZW4gdGhlIDxhIHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lIiBocmVmPSJSdWxlcy5hc3B4P05hbWU9TWFzcyBDb21iYXQmQ2F0ZWdvcnk9S2luZ2RvbXMgYW5kIFdhciI+bWFzcyBjb21iYXQgc3lzdGVtPC9hPiB3aGVuIGRpcGxvbWFjeSBmYWlscy48YnIgLz48YnIgLz4gTGFzdGx5LCB3aGlsZSBzb2NpYWwgY29uZmxpY3QgaXMgYW4gYXR0ZW1wdCB0byBhdm9pZCBwaHlzaWNhbCBjb25mbGljdCBhbmQgc3RyaWZlLCB0aGVyZSBhcmUgdGltZXMgd2hlbiB0aGUgUENzIHdpbGwgaGF2ZSB0byBlbmdhZ2UgaW4gY29tYmF0IHRvIHJlc29sdmUgYSBzb2NpYWwgY29uZmxpY3QuIE1heWJlIGFmdGVyIGZhaWxpbmcgdG8gbmVnb3RpYXRlIHdpdGggdGhlIHJlYmVscywgdGhlIFBDcyBtdXN0IGF0dGVtcHQgdG8gc3ViZHVlIGFuZCBzdG9wIHRoZW0gZnJvbSBjb21taXR0aW5nIGFjdHMgb2YgdmlvbGVuY2UgYWdhaW5zdCB0aGUgY29tbXVuaXR5LiBJdCBjb3VsZCBiZSB0aGF0IHdoaWxlIGF0dGVtcHRpbmcgdG8gZ2FpbiBmYXZvciB3aXRoIGEgYmFuZCBvZiBob3QtaGVhZGVkIG5vYmxlIHNjaW9ucywgdGhlIFBDcyBkb27igJl0IHJlYWxpemUgdGhleeKAmXZlIHNsaWdodGVkIHRoZW0gYW5kIGluYWR2ZXJ0ZW50bHkgaW5mbGFtZSB0aGUgeW91bmcgYXJpc3RvY3JhdHPigJkgaXJlLiBJbiB0aGlzIGxhdHRlciBjYXNlLCBhIGdvb2Qgbm9ubGV0aGFsIHRocmFzaGluZyBtaWdodCByZWdhaW4gdGhlIHJhc2ggYmxvd2hhcmRz4oCZIHJlc3BlY3QuIEFzIGEgZ2VuZXJhbCBndWlkZWxpbmUsIHJlc29ydGluZyB0byBjb21iYXQgaW4gb3JkZXIgdG8gZ2FpbiBzdWNjZXNzZXMgaW4gc29jaWFsIGNvbmZsaWN0IGlzIGEgbGFzdCByZXNvcnQgdGhhdCB1c3VhbGx5IHN0ZW1zIGZyb20gYSBmYWlsdXJlIGF0IHNvbWUgcG9pbnQgZWFybGllciBpbiB0aGUgY2hhaW4gb2YgZXZlbnRzLiBFdmVuIGluIHRoZXNlIGNhc2VzLCB0cnkgdG8gcHJlc2VudCBvcHBvcnR1bml0aWVzIHRvIGJyaW5nIGZsYWlyIHRvIHRoZSBiYXR0bGVmaWVsZCwgcGVyaGFwcyBieSBlbXBsb3lpbmcgZHJhbWF0aWMgZW52aXJvbm1lbnRzIChsaWtlIHJvb2Z0b3AgYmF0dGxlcyBvciBkYXduIGR1ZWxzKSwgZW5lbWllcyB3aXRoIGNvbG9yZnVsIGFiaWxpdGllcyAobGlrZSBhIGJhcmTigJlzIHN0aW5naW5nIG9yYXRvcnkgb3IgYSBzd2FzaGJ1Y2tsZXLigJlzIHBhbmFjaGUpLCBvciBoYXphcmRzIHRoYXQgY291bGQgY2hhbmdlIHRoZSBjb3Vyc2Ugb2YgY29tYmF0IChsaWtlIGEgcHJlY2FyaW91c2x5IGh1bmcgY2hhbmRlbGllciBvciB0b3BwbGluZyBwaWxsYXJzKS5kZGTNGHbD8tQlLPVSnbTJnZUKSV5j8+E+FxfTiOOgWLZaoQ==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="21E49DC1" />
+</div>
+			<div class="page clearfix" id="page" >
+				<div class="header">
+					<div class="clear hideSkiplink" id="main-menu" >                        
+                        <a class="mobile-menu-toggle" id="mobile-menu-toggle" href="javascript:void(0);" data-toggle="mobile">|||</a>
+
+                        <div class="splash"></div>
+                        <div class="nav-parent" id="nav-parent">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="home">
+                                    Home
+                                </span>
+                            </a>
+                            <a href="/Afflictions.aspx">Afflictions/Hazards</a>
+                            <a href="/Classes.aspx">Classes</a>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="/Equipment.aspx">Equipment</a>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Feats.aspx">Feats</a>
+                            <a href="/MagicItems.aspx">Magic Items</a>
+                            <a href="/Monsters.aspx">Monster Index</a>
+                            <a href="/Mythic.aspx">Mythic Index</a>
+                            <a href="/NPCs.aspx">NPC Index</a>
+                            <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                            <a href="/Races.aspx">Races</a>
+                            <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                            <a href="/Skills.aspx">Skills</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="/EquipmentTech.aspx">Technology</a>
+                            <a href="/Traits.aspx">Traits</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/Licenses.aspx">Licenses</a>
+                            <a href="/Projects.aspx">Projects</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="/Tools.aspx">Tools</a>
+                            <img src="Images/heading_flourish.png" alt="flourish" class="flourish" />
+                            <a href="/ContactUs.aspx">Contact Us</a>
+                            <a href="/Contributors.aspx">Contributors</a>
+						    <a href="/Support.aspx">Support the Archives</a>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a id="minMaxMenu" href="javascript:void(0);">Maximize Menu</a>
+                        </div>
+                        <div class="nav-parent expand-collapse" id="mobile-nav-parent" data-target="mobile">
+                            <a href="/Default.aspx" style="font-size:larger" class="brand">
+                                <span class="title">
+                                    Archives of Nethys
+                                </span>
+                            </a>
+                            <a href="javascript:void(0);" data-toggle="cc">Character Creation +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed expanded" data-target="cc" data-group="menus">
+                                <a href="/Classes.aspx">Classes</a>
+                                <a href="/Feats.aspx">Feats</a>
+                                <a href="/PrestigeClasses.aspx">Prestige Classes</a>
+                                <a href="/Races.aspx">Races</a>
+                                <a href="/Skills.aspx">Skills</a>
+                                <a href="/Traits.aspx">Traits</a>
+                                <a href="/Mythic.aspx">Mythic Index</a>
+                            </div>
+                            <a href="/DeitiesByGroup.aspx">Deities</a>
+                            <a href="javascript:void(0);" data-toggle="equipment">Equipment +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="equipment" data-group="menus">
+                                <a href="/Equipment.aspx">Equipment (Non-Magical)</a>
+                                <a href="/MagicItems.aspx">Magic Items</a>
+                                <a href="/EquipmentTech.aspx">Technology</a>
+                            </div>
+							<a href="/FAQs.aspx">FAQ</a>
+                            <a href="/Spells.aspx">Spells/Rituals</a>
+                            <a href="javascript:void(0);" data-toggle="rules">Rules +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="rules" data-group="menus">
+                                <a href="/Afflictions.aspx">Afflictions</a>
+                                <a href="/NPCs.aspx">NPC Index</a>
+                                <a href="/Rules.aspx?Name=Source&Category=None">Rules</a>
+                                <a href="/Tools.aspx">Tools</a>
+                            </div>
+                            <a href="/Afflictions.aspx">Hazards</a>
+                            <a href="/Monsters.aspx">Monsters</a>
+                            <a href="/Sources.aspx">Sources</a>
+                            <a href="javascript:void(0);" data-toggle="about" data-group="">About the Archives +</a>
+                            <div class="expand-collapse expand-collapse-group hide-when-collapsed" data-target="about" data-group="menus">
+                                <a href="/Licenses.aspx">Licenses</a>
+                                <a href="/Projects.aspx">Projects</a>
+                                <a href="/ContactUs.aspx">Contact Us</a>
+                                <a href="/Contributors.aspx">Contributors</a>
+						        <a href="/Support.aspx">Support the Archives</a>
+                            </div>
+                            <div class="search">
+                                <input type="text" class="search-input" placeholder="Search" />
+                                <button type="button" class="search-button">
+                                    <svg class="Icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="height: 24px; width: 24px; fill: "><path d="M0 0h512v512H0z" fill="transparent" fill-opacity="0"></path><g class="" transform="translate(0,0)" style="touch-action: none;"><path d="M333.78 20.188c-39.97 0-79.96 15.212-110.405 45.656-58.667 58.667-60.796 152.72-6.406 213.97l-15.782 15.748 13.25 13.25 15.75-15.78c61.248 54.39 155.3 52.26 213.968-6.407 60.887-60.886 60.888-159.894 0-220.78C413.713 35.4 373.753 20.187 333.78 20.187zm0 18.562c35.15 0 70.285 13.44 97.158 40.313 53.745 53.745 53.744 140.6 0 194.343-51.526 51.526-133.46 53.643-187.5 6.375l.218-.217c-2.35-2.05-4.668-4.17-6.906-6.407-2.207-2.206-4.288-4.496-6.313-6.812l-.218.22c-47.27-54.04-45.152-135.976 6.374-187.502C263.467 52.19 298.63 38.75 333.78 38.75zm0 18.813c-30.31 0-60.63 11.6-83.81 34.78-46.362 46.362-46.362 121.234 0 167.594 10.14 10.142 21.632 18.077 33.905 23.782-24.91-19.087-40.97-49.133-40.97-82.94 0-15.323 3.292-29.888 9.22-43-4.165 20.485.44 40.88 14.47 54.907 24.583 24.585 68.744 20.318 98.624-9.562 29.88-29.88 34.146-74.04 9.56-98.625-2.375-2.376-4.943-4.473-7.655-6.313 45.13 8.648 79.954 46.345 84.25 92.876 4.44-35.07-6.82-71.726-33.813-98.72-23.18-23.18-53.47-34.78-83.78-34.78zM176.907 297.688L42.094 432.5l34.562 34.563L211.47 332.25l-34.564-34.563zM40 456.813L24 472.78 37.22 486l15.968-16L40 456.812z" fill-opacity="1"></path></g></svg>
+                                </button>
+                            </div>
+                            <a href="https://www.aonprd.com" >
+                                <img src="Images/PF1Logo_Nethys_400_selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://2e.aonprd.com">
+                                    <img src="Images/PF2Logo_Nethys_200.png" alt="Pathfinder RPG (2nd Edition)"/>
+                                </a>
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys_200.png" alt="Starfinder RPG"/>
+                            </a>
+                        </div>
+					</div>
+                    <div class="theme-toggle-wrapper" title="Toggle Theme">
+                        <input type="checkbox" id="theme-toggle" name="theme-toggle" class="switch" />
+                        <label for="theme-toggle" id="theme-toggle-label">&nbsp;</label>
+                        <div class="tooltip">Toggle Theme</div>
+                    </div>
+		        </div>
+                <div class="main-wrapper" id="main-wrapper">
+					<div class="menutitle">
+<div class="agreement-banner" id="agreement-banner">
+    <a href="https://www.archivesofnethys.com/agreement.html"><u>Our Paizo partnership status has changed. Click here for details</u></a>
+</div>
+						<h1>
+							Archives of Nethys
+						</h1>
+                        <h2 class="game-titles">
+                            <a href="https://2e.aonprd.com" >
+                                <img src="Images/PF2Logo_Nethys.png" alt="Pathfinder RPG (2nd Edition)" />
+                            </a>
+                            <a href="https://www.aonprd.com" class="selected">
+                                <img src="Images/PF1Logo_Nethys-Selected.png" alt="Pathfinder RPG (1st Edition)" />
+                            </a> 
+                            <a href="https://www.aonsrd.com">
+                                <img src="Images/SFLogo_Nethys.png" alt="Starfinder RPG" />
+                            </a>
+                        </h2>
+					</div>
+                    <div class="main" id="main">
+						
+    <span id="MainContent_Navigation"><h1 style="text-align:center"><a href="Rules.aspx"><u>Rules Index</u></a> | <a href="GMScreen.aspx">GM Screen</a></h1></span>
+    <span id="MainContent_SubNavigation"></span>
+    <hr />
+    <span id="MainContent_Header"></span>
+    <span id="MainContent_HeaderDescrip"></span>
+
+    <span id="MainContent_DetailedOutput"><u><a href="Rules.aspx?ID=1680">Mastering Intrigue</a></u> / <u><a href="Rules.aspx?ID=2216">Social Conflicts</a></u><br /><h1 class="title"><a href="Rules.aspx?ID=2222">Events</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9j6p?Pathfinder-Roleplaying-Game-Ultimate-Intrigue
+" target="_blank" class="external-link"><i>Ultimate Intrigue pg. 168</i></a><br />Events are the stage for each step of a social conflict. An event is a lot like an encounter, but instead of detailing a location and its inhabitants, it describes a scene that either provides a method of discovering some aspect of a social conflict or frames a social conflict challenge. A social conflict often becomes more complex because of the PCs’ actions, which either cause or affect future events. There are two main types of social conflict events: discovery events, where the PCs have the opportunity to learn more about the nature and particulars of the social conflict, and challenge events, where the PCs must face some challenge related to the social conflict. Even though it’s generally helpful to make the distinction between discovery or challenge events, sometimes a social conflict event has attributes of both types. These mixed events are especially common in more complex social conflicts.<br /><br /> Because events can take on many forms, each of the following sections also present options for using discovery and challenge events with subsystems from this book and other sources.<br /><h1 class="title"><a href="Rules.aspx?ID=2223">Discovery Events</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9j6p?Pathfinder-Roleplaying-Game-Ultimate-Intrigue
+" target="_blank" class="external-link"><i>Ultimate Intrigue pg. 168</i></a><br />Discovery events typically introduce or advance a social conflict story by giving the PCs the opportunity to learn information about the conflict. The success of these events might hinge on the PCs’ ability to perceive or otherwise uncover certain clues.<br /><br /> Accomplishing this can be as easy as listening to an old-timer sitting by the tavern fire as he relates stories about strange disappearances down by the docks, or talking to a group of halflings who beseech the PCs for help in their efforts to gain voting rights. Discovery events are typically roleplaying encounters during which the PCs can learn the nature—or at least the partial nature—of the conflict and make a decision about whether to become involved. Other times, the nature and depth of the discovery might require the PCs to use certain skills or other abilities.<br /><br /> Discovery events usually lean heavily on the use of Diplomacy, Intimidate, Sense Motive, and various Knowledge skills. When outlining a discovery event, it is best to come up with a baseline of knowledge that you want the event to impart; this could be the bare minimum of what the PCs need to learn from the event in order to trigger one of its consequences. This knowledge could contain misinformation or faulty assumptions—elements of the story you can later twist to create more interesting and dynamic social conflicts.<br /><br /> For instance, consider the halflings beseeching the PCs for help to gain voting rights. If the PCs take what the halflings say at face value, they may think this is merely a case of blatant injustice at work, but success at some difficult Sense Motive checks may lead the PCs to suspect there’s something more to the tale. Then, succeeding at another difficult Knowledge (local) check might reveal that one of the reasons the halflings don’t have the right to vote is because they are considered a nation of their own to the kingdom and don’t have to pay the royal taxes. Questioning the halflings further could reveal that they want to be able to vote, but would still like to avoid paying the royal taxes.<br /><br /> Sometimes discovery events can involve challenges in order to gain the information. A discovery might involve tracking down obscure knowledge (using the <a style="text-decoration:underline" href="Rules.aspx?Name=Research&Category=Mastering Intrigue">research rules</a>), running down someone who has the information (using the <a style="text-decoration:underline" href="Rules.aspx?Name=Pursuit&Category=Mastering Intrigue">pursuit rules</a>), performing a heist for the information (using the <a style="text-decoration:underline" href="Rules.aspx?Name=Heists&Category=Mastering Intrigue">heist rules</a>), or even entering a social engagement to figure out how much the PCs are able to uncover (using the <i>Pathfinder RPG Social Combat Deck</i>, roleplaying the challenge, or using one of the challenge types detailed later in this section). Often these are mixed events with an emphasis on discovery. On rare occasions, this type of event might lead to combat. For example, the PCs have been tasked with apprehending a missive carried by a local courtesan, and run into trouble when they find out she’s not only very capable of defending the missive on her own but also has hired a few sellswords to waylay the PCs once they make their move. While <a style="text-decoration:underline" href="Rules.aspx?Name=Verbal Duels&Category=Mastering Intrigue">verbal duels</a> are a perfect fit for a challenge in a social conflict, from time to time consider using either a <a style="text-decoration:underline" href="Rules.aspx?Name=Spell Duels&Category=Mastering Magic">spell duel</a>, a <a style="text-decoration:underline" href="Rules.aspx?Name=Duels&Category=Mastering Combat">physical duel</a>, or a <a style="text-decoration:underline" href="Rules.aspx?Name=Psychic Duels&Category=Occult Rules">psychic duel</a> to add some action to discovery encounters. Spell duels and physical duels can distribute information by way of secret messages or witty banter. Psychic duels can distribute information in a more direct (if somewhat enigmatic) form since the binary mindscapes of such bouts allow the duelists to access parts of their opponents’ minds; by reading an opponent’s mental mask and watching for strange metaphors in that opponent’s attack forms, a duelist can possibly learn more about her opponent.<br /><br /> When creating a discovery event, it’s important to compare any assumptions you’ve made about the event to the capabilities of the PCs and even those of the contenders. There is nothing like a well-played divination spell to foil your assumptions about how an event is going to transpire. Use the guidelines and advice presented in the <a style="text-decoration:underline" href="Rules.aspx?Name=Spells of Intrigue&Category=Mastering Intrigue">Spells of Intrigue</a> section to aid in such troubleshooting.<br /><br /> Ultimately, the consequences for discovery events should depend on how much the PCs found out and how they respond to the knowledge. These consequences should also take the stakes into account and how contenders might react to the knowledge that the PCs are involved or snooping around. Outstanding successes at discovery challenges should affect the PCs’ ability to navigate challenge events in a positive way, while terrible failures may mean the PCs misconstrue the scope of the challenge, overlook some aspect of it, or follow up bad leads.<br /><h1 class="title"><a href="Rules.aspx?ID=2224">Challenge Events</a></h1><b>Source</b> <a href="http://paizo.com/products/btpy9j6p?Pathfinder-Roleplaying-Game-Ultimate-Intrigue
+" target="_blank" class="external-link"><i>Ultimate Intrigue pg. 169</i></a><br />Challenge events allow the PCs a chance to affect or even disrupt the balance of power in social conflicts. Unlike in discovery encounters, where the goal is often to reconnoiter the particulars of the social landscape, in challenge encounters, the PCs take a shot at changing that landscape.<br /><br /> When designing a challenge event, consider the stakes for all contenders, the nature of current competition for the parties involved, and the group with which the PCs are allied. By the end of a challenge event, the PCs should have the opportunity to alter or raise the conflict’s stakes. Generally, if the PCs succeed, their allied contenders keep control of the stakes or gain a significant share of them, whereas if the PCs fail, their enemies keep control of the stakes or gain ground toward attaining them.<br /><br /> In these types of events, the PCs confront a series of challenges, their successes or failures yield consequences that either lead to or modify future social conflict events. The Pathfinder Roleplaying Game has a number of subsystems and tools designed to help you create noncombat or combat-light challenges to use in social-based encounters. Additionally, some guidelines for creating more freeform social challenges are presented later in this section.<br /><br /> For example, let’s continue with the struggle to gain voting rights for the halflings of the city. The halflings want an increased share of political power for elections, but they also want to keep their tax-exempt status. The other contenders— legislators who currently control the local politics— would like to keep the status quo since they fear what an influx of halfling voters would do to the political landscape. The PCs, allied with the halflings, come up with a plan to either convince or strong-arm local politicians to work with the halflings. With the <i>Social Combat Deck</i>, the <a style="text-decoration:underline" href="Rules.aspx?Name=Individual Influence&Category=Influence">individual influence system</a>, a <a style="text-decoration:underline" href="Rules.aspx?Name=Verbal Duel&Category=Mastering Intrigue">verbal duel</a>, or the freeform events detailed later in this section, you can create a challenge event during which the PCs help the halflings by trying to sway the politicians into supporting the halflings’ bid to vote while allowing them to keep their tax exempt status (maybe in return for backing a particular candidate).<br /><br /> The PCs then make the rounds negotiating with the city’s various politicians. The consequences of the challenge are based on the accumulation of victories against the various politicians, and since each politician has a different personality, the key to success is different for each of them. One might cow quickly to physical threats and intimidation, while another politician might be corrupt and susceptible to bribes. One politician might be particularly steadfast in his stance, and can only be swayed if the PCs decide to get dirty and blackmail or threaten the politician’s loved ones. This particular example is the perfect opportunity to use the individual influence system, but each of these interactions could be a different challenge using the <i>Social Combat Deck</i>, or you could create a freeform event instead.<br /><br /> Keep in mind that social challenges should be more active and engaging than a jumble of skill checks and actions. Consider making a social challenge more interesting by punctuating it with a chase (using the <RULES%Chases&Category=Advanced Topics">chase rules</a> or either <i>Pathfinder Cards: Chase Cards</i> or its sequel, <i>Chase Cards 2: Hot Pursuit</i>), a pursuit, or a heist. In higher-level games, challenge events may be even more complex, with the PCs using the <a style="text-decoration:underline" href="Rules.aspx?Name=Kingdom Building&Category=Kingdoms and War">kingdom-building rules</a>, or even the <a style="text-decoration:underline" href="Rules.aspx?Name=Mass Combat&Category=Kingdoms and War">mass combat system</a> when diplomacy fails.<br /><br /> Lastly, while social conflict is an attempt to avoid physical conflict and strife, there are times when the PCs will have to engage in combat to resolve a social conflict. Maybe after failing to negotiate with the rebels, the PCs must attempt to subdue and stop them from committing acts of violence against the community. It could be that while attempting to gain favor with a band of hot-headed noble scions, the PCs don’t realize they’ve slighted them and inadvertently inflame the young aristocrats’ ire. In this latter case, a good nonlethal thrashing might regain the rash blowhards’ respect. As a general guideline, resorting to combat in order to gain successes in social conflict is a last resort that usually stems from a failure at some point earlier in the chain of events. Even in these cases, try to present opportunities to bring flair to the battlefield, perhaps by employing dramatic environments (like rooftop battles or dawn duels), enemies with colorful abilities (like a bard’s stinging oratory or a swashbuckler’s panache), or hazards that could change the course of combat (like a precariously hung chandelier or toppling pillars).</span>
+
+					</div>
+					<div class="clear">
+					</div>
+                </div>
+			</div>
+			<div class="footer" id="footer" >
+				<div id="et-al" >
+                    <a href="mailto:nethys@archivesofnethys.com">Site Owner: Blake Davis</a><a href="http://mxguarddog.com">Email Spam Checker: MX Guarddog</a>
+                    <div id="footer-social"><a href="http://www.facebook.com/pages/Nethys-the-God-King-of-Magic/109485322401363?ref=nf" target="_blank"><img src="Images/facebook.png" width="10" height="21" /></a></div>
+				</div>
+                <div style="text-align:center"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Main Archives Page -->
+                    <ins class="adsbygoogle"
+                        style="display:inline-block;width:728px;height:90px"
+                        data-ad-client="ca-pub-4953734518316037"
+                        data-ad-slot="7738185508"></ins>
+                    <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+			</div>
+		</form>
+	</div>
+
+  <script>
+      initiateToggle(document.getElementById('theme-toggle'));
+      initializeMenuToggle(document.getElementById('minMaxMenu'));
+      var initializeSearch = function (search) {
+          var button;
+          var text;
+          if (search.firstElementChild.classList.contains('search-input'))
+              text = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-input'))
+              text = search.lastElementChild;
+          if (search.firstElementChild.classList.contains('search-button'))
+              button = search.firstElementChild;
+          if (search.lastElementChild.classList.contains('search-button'))
+              button = search.lastElementChild;
+
+          if (search) {
+              search.addEventListener('keypress', function (e) {
+                  if (e.keyCode == 13) {
+                      e.preventDefault();
+                      if (text.value != null && text.value.length > 0)
+                          window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+                  }
+              })
+          }
+          if (button) {
+              button.addEventListener('click', function (e) {
+                  window.location = window.location.origin + "/Search.aspx?Query=" + text.value + "&Filter=111111111111111111&AllTerms=True";
+              });
+          }
+      };
+      var initializeExpand = function (toggle) {
+          var targetAttrString = "[data-target='" + toggle.dataset.toggle + "']";
+          //target = menu to be collapsed
+          var target = document.querySelector(targetAttrString);
+          toggle.addEventListener('click', function () {
+              var expanded = target.classList.contains('expanded');
+              expanded = !expanded;
+              if (expanded) {
+                  //hide other in group if exists
+                  if (target.dataset.group) {
+                      var otherExpanded = document.querySelector('.expanded[data-group="' + target.dataset.group + '"]');
+                      if (otherExpanded) {
+                          otherExpanded.classList.remove('expanded');
+                      }
+                  }
+                  target.classList.add('expanded');
+              } else {
+                  target.classList.remove('expanded');
+              }
+          });
+      };
+      (function () {
+          //toggles = link that expands/collapses target
+          var toggles = document.querySelectorAll('[data-toggle]');
+          toggles.forEach(function (toggle) {
+              initializeExpand(toggle);
+          });
+          //searches
+          var searches = document.querySelectorAll('.search');
+          searches.forEach(function (search) {
+              initializeSearch(search);
+          });
+      })();
+  </script>
+</body>
+</html>
